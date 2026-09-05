@@ -1,5 +1,70 @@
 [
   {
+    "year": 2020,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "1 전반적 소식 (General News)",
+    "subheading": "",
+    "text": "아직은 공급 문제가 없지만, MLCC는 앞으로 몇 개월 내에 다시 한 번 수급 문제가 생길 수 있습니다. 현재 시장에서는 초과 공급 상태이므로, 이 문제가 얼마나 심각해질 것인지는 분명치 않습니다. 하지만 10월이나 11월에 일찍부터 공급 부족이 발생할 수 있을 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "리드 타임 연장은 새삼스러울 것 없는 뉴스지만, SFG(Susquehanna Financial Group)의 12월 보고서에 따르면 평균 리드 타임은 현재 25.8주로, 2018년도 당시 전례 없는 수치로 증가했다던 MLCC 공급 부족 시기보다 10주나 더 길어졌습니다. 25.8주라는 기록적인 리드 타임이 발생한 원인은 코로나19로 인한 공장 폐쇄, 극단적인 기상 여건, 지정학적 요인, 기타 등등의 이유를 비롯하여, 거의 2년간에 걸쳐 제조업체에 영향을 미친 공급망 문제가 절정에 이르렀기 때문입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "패시브 전자 부품의 리드 타임은 2022년 내내 안정적이었지만, 원자재 가격 상승으로 인해 변하고 있습니다. 구리, 니켈, 알루미늄의 가격은 MLCC, 커패시터, 인덕터의 제조 비용을 크게 증가시키고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "특히 니켈은 MLCC 생산에 사용되는 주요 재료이며, 강철은 커패시터 공정에도 사용됩니다. 이러한 가격 변동은 완제품의 가격 인상을 가져올 것이며 이러한 부품의 가격 상승 추세가 계속됨에 따라 MLCC에 대한 수요를 통해 추가적인 파급 효과가 나타날 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "자동차 및 EV 수요로 인해 MLCC 주문이 증가하고 MCU 생산이 새로운 차원으로 도약하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
     "year": 2024,
     "month": 10,
     "category": "Passive",
@@ -354,6 +419,32 @@
     "year": 2025,
     "month": 4,
     "category": "Passive",
+    "section_raw": "관세 업데이트",
+    "subheading": "",
+    "text": "현재 스마트폰, PC, HDD, SSD, GPU는 임시 면제를 받았으나, 수동소자, 커넥터, PSU는 여전히 10% 관세 적용 대상입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Tariff"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "관세 업데이트",
+    "subheading": "",
+    "text": "탄탈륨 커패시터 등 공급이 제한된 수동소자의 리드타임이 연장되고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
     "section_raw": "수동소자",
     "subheading": "",
     "text": "최신 공급업체 업데이트에 따르면 MFG는 Chitose 공장에서 일부 제품에 한해 운영을 재개했습니다. 고객 우선순위와 사용량에 따라 할당이 결정되며, 공급 제약은 8월까지 지속될 것으로 예상됩니다.",
@@ -498,6 +589,17 @@
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "중국의 전기차(EV) 부문이 여전히 자동차용 수동 부품의 글로벌 수요를 주도 중. 그러나 현재 시장에 과잉 공급 상태로 유통업체에서 고객 수요 반영이 느림",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Passive",
+    "section_raw": "관세 업데이트",
+    "subheading": "",
+    "text": "중국산 알루미늄이나 희토류가 포함된 부품(예: 수동소자, 커넥터)에 대한 문서 검토가 강화되고 있음",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -833,6 +935,26 @@
     "year": 2026,
     "month": 4,
     "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
     "section_raw": "수동부품 및 원자재 T-글래스 병목",
     "subheading": "",
     "text": "1. MLCC 및 탄탈룸 커패시터의 리드타임은 16주 이상으로 연장되고 있습니다. 탄탈룸 커패시터의 리드타임은 40주를 초과하고 있으며, 일부 공급사는 저마진 제품군의 단종 가능성을 경고하고 있습니다.",
@@ -909,6 +1031,47 @@
   },
   {
     "year": 2026,
+    "month": 6,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2. MLCC 및 수동소자 위기, 심각 단계로 격화: Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
+    "detected_vendors": [
+      "Murata",
+      "Taiyo Yuden",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
+    "detected_vendors": [
+      "Murata",
+      "STMicroelectronics",
+      "TSMC",
+      "Taiyo Yuden",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
     "month": 7,
     "category": "Passive",
     "section_raw": "수동부품 및 원자재 T-글래스 병목",
@@ -938,6 +1101,20 @@
       "Lattice"
     ],
     "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Passive",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "1. \"대규모 수동소자 공급 부족\" 공식화: AI 서버용 고용량 MLCC 수요와 자동차용 수요의 영향으로 MLCC 및 탄탈 커패시터 시장이 심각한 공급 부족 국면에 진입했습니다. 주요 제조업체들은 가격을 15~30% 인상하고 브로커 대상 판매를 제한하는 한편, 리드타임을 20주에서 50주 이상으로 연장하고 있습니다. PCB용 수지 공급 차질과 희토류 수출 금지 등 원자재 제약까지 겹치면서 위기가 더욱 심화하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"

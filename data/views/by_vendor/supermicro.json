@@ -18,7 +18,7 @@
   {
     "year": 2020,
     "month": 8,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다.",
@@ -34,7 +34,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
     "text": "마더보드 시장은 현재 중국 브랜드의 경쟁 심화와 주요 기업들의 전략적 변화로 인한 가격 상승으로 특징지어집니다. 또한 Supermicro가 완전한 서버 조립 제품으로 전환하면서 최소 주문 수량(MOQ) 증가와 리드 타임 연장이 발생하여 가격 압박이 가중되고 있습니다.",
@@ -50,7 +50,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
     "text": "중국 기업과의 경쟁 심화: 화웨이와 Inspur 같은 중국 브랜드의 경쟁력 있는 가격대의 서버 마더보드가 등장하면서, Supermicro와 같은 기존 기업의 시장 점유율에 변화가 나타나고 있습니다.",
@@ -65,7 +65,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
     "text": "가격 상승: Supermicro 마더보드를 포함한 마더보드 가격은 수요 증가와 판매 전략 변화로 인해 상승하고 있습니다.",
@@ -80,7 +80,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
     "text": "판매 전략 변화: Supermicro가 완제품 서버 조립 제품 판매로 전환하면서 MOQ와 리드 타임이 증가해 가격 인상 압력이 커지고 있습니다.",

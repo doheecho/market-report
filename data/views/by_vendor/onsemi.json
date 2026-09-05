@@ -467,7 +467,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Onsemi는 Allegro MicroSystems를 69억 달러에 인수 제안했으며, 이 인수는 시장 침체 속에서 새로운 수익원을 확보하기 위한 전략으로 해석됩니다.",
@@ -482,7 +482,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
@@ -545,7 +545,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
@@ -630,7 +630,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",

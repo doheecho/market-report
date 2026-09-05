@@ -260,6 +260,17 @@
     "year": 2020,
     "month": 11,
     "category": "Memory",
+    "section_raw": "1 전반적 소식 (General News)",
+    "subheading": "",
+    "text": "플래시 카드의 주요 구성 요소인 8인치 웨이퍼의 전체 생산 능력이 모든 다양한 칩 제조업체의 요구에 부응할 만큼 충분하지 않을 수 있으며, 이로 인해 플래시 및 메모리 칩의 가격 변동으로 이어질 수도 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Memory",
     "section_raw": "4 메모리 (Memory)",
     "subheading": "",
     "text": "경제가 침체되면서 생산량, 생산능력, 빅 데이터 프로젝트 역시 침체되어 메모리 공급과 수요가 균형을 이루게 되었습니다. 현 시점으로는 최종 사용자와 현물 시장 공급업체에게 충분한 서버 모듈 재고가 필요한 만큼 있습니다. 하지만 2021년에는 서버 프로젝트가 증가할 것으로 예상됩니다.",
@@ -1219,6 +1230,38 @@
   },
   {
     "year": 2022,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
+    "detected_vendors": [
+      "Microchip"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Micron은 성명을 통해 상하이의 코로나19 제한 조치로 인해 생산이 지연되고 있음을 밝혔습니다. 특히 NOR Flash 조립 및 테스트 하청업체 생산 라인의 가동이 잠정 중단되었습니다. 이는 Micron의 공급망에 도미노 효과를 초래하여 MT25QU 및 MT25QL 시리즈를 포함한 NOR Flash 제품 전반에 리드 타임 연장과 가격 상승을 불러올 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
     "month": 6,
     "category": "Memory",
     "section_raw": "메모리",
@@ -1324,6 +1367,441 @@
     "risk_level": "Low"
   },
   {
+    "year": 2022,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "메모리 모듈 시장에서 수요가 개선되지 않음에도 불구하고 제조업자들은 여전히 벤더에게 더 많은 주문을 요구하려고 합니다. 이로 인해 벤더는 더 많은 재고를 보유하고 있습니다. 따라서 벤더는 손실을 보며 재고를 처리할 수 밖에 없으며, 시장 가격이 공시 가격보다 10~20% 더 낮은 것은 이를 반영합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "수요가 회복될 때만 오픈 마켓에서 수요가 증가할 확률이 높으며, 이는 4분기까지 변화가 없을 것으로 예상됩니다. 메모리 모듈 시장은 2023년 중반까지 대체로 회복되지 않을 것이라고 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "지난달과 마찬가지로 메모리 모듈 시장 내 수요 약세가 지속되고 있습니다. 많은 벤더가 직접 제조업자와 백투백 주문(back-to-back order)을 받고 있으며 가격은 지속적으로 하락하고 있습니다. 그 결과, 오픈 마켓에서 비용 절감 기회를 찾는 활동이 증가했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "많은 고객들이 배송을 취소하거나 지연시키고 있는 실정이지만 오픈 마켓의 공급은 여전히 안정되어 보입니다. 메모리 모듈의 공식 가격이 지난 3개월 간 8%~12% 지속적으로 하락하고 있는 반면 오픈 마켓의 가격은 변동이 심화되어 거의 매일 변하고 있습니다. 유통업체들은 제조업체로부터 대부분 연속 구매 형식으로 주문을 유지하여 가격 하락의 위험을 그나마 줄이고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "메모리 모듈의 수요 부진이 지속되면서 제조사들의 전략이 바뀌고 있습니다. Micron과 Hynix는 가격 하락을 줄이기 위해 DRAM과 NAND 생산을 축소했습니다. 한편 삼성전자는 생산을 계속하고 있지만 매 분기 하락에도 불구하고 가격 하락에 제동을 걸었습니다. 이러한 조치는 수요가 증가하지 않았음에도 이루어진 것입니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "현재 메모리 시장의 과잉생산을 해결하려면 어느 정도 시간이 걸릴 것입니다. 공급과잉과 수요는 코로나19 팬데믹 동안 악화된 후 천천히 안정되고 있습니다. 보고서에 의하면 예상치 못한 수요 시기에 늘어났던 DRAM 및 NAND 플래시 생산이 이제는 수요가 표준 단계로 돌아왔기 때문에 공급 과잉이 발생한 것이라고 합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "수요가 현재 생산량과 맞게 될 때까지 공급 과잉은 완화되지 않을 것으로 예상됩니다. 메모리 가격은 변동이 없을 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "오픈 마켓 가격이 하향 추세를 유지함에 따라 메모리 모듈 수요는 전반적으로 양호한 상태를 유지하고 있습니다. 하지만, 가격 하락 속도는 지난 분기와 비교하면 느렸습니다. 수요를 더 잘 맞추기 위해 제조업체는 1분기에는 생산을 줄이고 있으며 1-티어 고객과 유통업체에 6~8주 예상치를 제공하도록 요구하고 있습니다. 이러한 관행은 이들이 재고 수준을 관리하고 재고 과잉을 막는데 도움이 될 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "특히 32GB 및 64GB RDIMM의 과잉 재고로 고객이 잉여분을 오픈 마켓으로 보내기 시작했습니다. 오픈 마켓 가용성의 증가는 이미 매우 낮게 형성된 가격에 영향을 미치고 있습니다. 제조업체는 메모리 모듈의 추가적인 가격 하락을 피하기 위해 최선을 다하고 있으며 유통업체에게 고객을 위한 특별 가격 승인을 제한하라고 주문했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "지난 몇 달 동안 전 세계적인 공급 부족은 128GB RDIMM 3200의 공급과 수요에 영향을 미쳤습니다. 이러한 부족은 주로 잘못된 예측의 결과입니다. 역사적으로 이 밀도의 제품에 대한 수요는 미미했지만 갑자기 고객의 관심이 급증하면서 지난 몇 분기 동안 가격이 꾸준히 상승했습니다. 현재 가격은 공식 가격보다 최대 20% 높으며 공급이 개선되지 않으면 더 오를 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "최종 고객은 초과 메모리 재고를 오픈 마켓에 유입시켜 가격을 4~9%까지 끌어내리고 있습니다. 제조업자의 공식 가격이 하락했음에도 불구하고, 벤더들은 여전히 3분기에는 시장이 호전될 것이라고 낙관적으로 바라보고 있습니다. 이러한 희망은 생산 감소가 전 세계 재고 수준을 조절하는 데 도움이 될 것이라는 데서 기인합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "고객들은 DDR4에서 DDR5로 전환하고 있으며, 이는 DDR5에 영향을 미치는 지속적인 공급 부족(Shortage)을 어렵게 하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "고객들이 DDR4에서 DDR5로 점차 전환하고 있는 것으로 보이기 때문에 이러한 제약은 2024년까지 계속될 수 있습니다. 이러한 전환은 DDR5의 향상된 성능, 고용량 지원 기능 및 향상된 전력 효율성 때문일 확률이 높습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "DDR5에 영향을 미치는 공급 부족에도 불구하고, 삼성은 1분기 영업이익이 무려 95.8%나 급감하자 4월 7일 신규 감산을 발표했습니다. 이 발표는 중국이 Micron에 대한 보안 조사를 시작한 것과 맞물려 메모리 시장 전반에 걸쳐 엇갈린 반응을 불러일으켰습니다. 삼성과 SK Hynix 모듈의 가격 하락세는 이후 둔화되었습니다. 벤더들은 이것이 메모리 시장 수요에 절실히 필요한 재충전의 기회가 되기를 희망하고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Decrease",
+      "Production Cut",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "DDR5에 대한 수요 증가에 힘입어 메모리 시장이 오랜만에 회복세를 보이기 시작했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "제조업체들이 감산을 단행한 이후로 지난 한 달 동안 RDIMM 시장 내 활동이 증가했습니다. 이러한 전략으로 인해 특정 고가 제품에 대한 주문이 증가하여 일시적으로 가격이 상승했지만, 초기 급등 이후 현재는 가격이 안정화되고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "또한 전력 관리 집적 회로(PMIC)의 문제가 DDR5 메모리 모듈 공급에 영향을 미쳐 가격이 상승하는 추세에 있습니다. 제조업체들은 이 문제를 신속하게 해결하려고 노력했지만, 삼성 RDIMM의 공급 차질은 쉬 사그러들지 않고 있습니다. 삼성은 64GB 5600 DDR5의 PMIC 문제를 해결하는 데 성공했습니다. 남아있는 재고 제약이 대부분 256GB에 국한되어 있긴 하지만, 전체 공급량은 아직 정상 수준으로 회복되지 않았습니다. 회복에는 2~3개월이 더 걸릴 것으로 보입니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "시장 상황이 개선됨에 따라 제조업체는 더 많은 가격 침식과 변동을 방지하기 위해 공급과 수요의 균형을 맞추는 데 집중하고 있습니다. 예측에 따르면 2023년 하반기부터 2024년까지 DDR5 수요가 계속 증가할 것으로 보이므로 업체들은 이 시장을 지원하기 위해 생산 투자에 집중할 것으로 보입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "서버 모듈 수요와 유사하게 DDR5 메모리 역시 AI 산업의 주문 급증으로 수요가 많아져 이미 가용성에 제한을 받고 있습니다. 고밀도 DDR5 서버 모듈은 특히 고성능 컴퓨팅 애플리케이션 덕분에 메모리 모듈 시장에서 여전히 가장 공급이 부족한 제품입니다. 가용 물량에 여유가 생기기까지는 시간이 걸릴 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "메모리 시장 상황이 2분기까지 개선될 것이라고 전망했지만 3분기가 더 정확한 전환점이 될 것으로 일정이 변경되었습니다. 연초 내내 가격은 꾸준히 하락했습니다. 제조업체들은 수요 부진에 대응하기 위해 공급을 계속해서 낮추려 했지만 항상 성공한 것은 아닙니다. 고밀도 모듈에 대한 제약 조건에도 기타 저용량 모듈의 초과 재고가 오픈 마켓으로 유입되었고, 고객들이 비용 절감 기회를 모색하면서 가격이 더욱 하락했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "DDR4 RDIMM의 오픈 마켓 가격은 특히 64GB의 경우 여전히 경쟁력이 있지만 DDR5 128GB 및 256GB 공급은 여전히 제한적입니다. DDR5 128GB는 5월부터 인기를 끌었으며 이러한 모듈에 대한 수요가 가용성을 훨씬 초과합니다. 삼성에서 1년 내내 생산량을 지속적으로 줄이다가 품질 문제를 겪은 이후 6월부터 DDR5 256Gb에 대한 제약 조건이 시작됐습니다. 또한 DDR5 제약 조건은 글로벌 전망 부족과 AI 산업의 예상치 못한 강세로 인해 악화되었습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Quality / Defect",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "결과적으로 제조업체는 주요 고객의 주문 처리에 우선순위를 둬서 사용 가능한 공급을 전략적으로 분산하고 있습니다. 제한된 공급으로 인해 고밀도 DDR5 모듈의 시장 가격이 공식 가격보다 15%에서 30%까지 상승했습니다. 현재의 불균형에도 고객들은 3분기 중반부터 말까지 공급이 안정될 것으로 보고 있습니다. 게다가 AI 산업이 메모리 시장에서 창출하는 수익으로 인해 수요가 계속해서 증가할 것이라는 낙관적인 전망이 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "지속적인 하락세를 보이던 메모리 모듈 가격은 현재 수급 불균형이 전환되며 안정화되기 시작했습니다. 유의미한 비용 상승은 다소 시간이 걸릴 것입니다. 단 제조업체가 DRAM을 감산하는 경우 이 과정이 가속화될 수 있습니다. 오픈 마켓에서 공급이 감소하면 가격이 상승하므로 수요가 가용성을 초과하게 됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "메모리 모듈 가격 인상이 예상됨에 따라 수요가 증가했습니다. 제조업체들은 추후 안내 시까지 견적 발행을 지연하고 배송을 보류하고 있는 것으로 알려졌으며, 이는 가격 조정 가능성을 뒷받침합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "제조업체에서는 특히 티어 1 고객을 중심으로 활동이 활발해지고 오픈 마켓 가격은 최소 2~3% 상승한 것으로 파악합니다. 공급업체에서는 오픈 마켓 가격이 상승함에 따라 메모리 모듈에 대한 문의가 전체적으로 증가했다고 밝혔습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리 시장 동향은 가격 인상과 제조업체의 납품 및 견적 지연에 따른 수요에 미치는 영향에 초점을 맞추고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "업계 전문가들은 10월에 DRAM과 NAND 시장의 가격이 10~15% 상승할 것으로 예상했습니다. 동시에 Solidigm과 같은 제조업체는 NAND 제조를 계속 축소하고 있지만 DRAM에 대한 수요는 증가하고 있다고 언급했습니다.",
+    "detected_vendors": [
+      "Solidigm"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "Micron은 비용 조정을 시행할 계획으로 DRAM 주문의 배송을 연기한 것으로 알려졌습니다. 회사는 10%에서 15% 사이의 가격 인상을 예상하고 있습니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "10월 황금연휴 기간 동안 제조업체들이 가격을 조정하면서 메모리 모듈의 재고 배정이 보류되었습니다. 기업들이 서서히 업무에 복귀하면서 1등급 고객과의 협상이 공식 발표를 더욱 지연시켰고, 이로 인해 주문이 약간 증가했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "연휴가 끝난 이후 AI 고객 덕분에 가장 수요가 많은 두 가지 제품인 DDR4와 DDR5의 가격이 5%에서 12%까지 인상되었습니다. 64GB DDR4 구성이 가장 큰 폭의 가격 상승을 보였습니다. 고용량 DDR5 모듈 할당 및 공급은 여전히 불안정하며, 공급업체들은 가용성이 부족하여 주문 백로그가 더 늘어날 것이라고 밝혔습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "또는 DDR3 수요는 수요에 큰 변화가 없었지만 제조업체가 생산량을 줄인 후 리드 타임이 4주에서 12주로 늘어났습니다. 삼성 유통업체에 따르면 제조업체는 10월 가격 조정을 예상하고 인하를 단행했다고 합니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
     "year": 2023,
     "month": 12,
     "category": "Memory",
@@ -1403,6 +1881,41 @@
       "Allocation"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "지난 수개월 동안 메모리 모듈에 대한 공식 가격은 계속 상승했습니다. 이러한 추세는 지난 분기 대비 활동과 거래의 엄청난 증가로 인한 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "제조업체들은 DDR4 모듈 생산을 계속 줄이며 가격에 대한 확고한 입장을 유지했습니다. 이에 따라 고객은 특히 D4 모듈의 경우 새해에 가격 변동 추세와 공급 제약 가능성을 피하기 위해 안전 재고를 확보하려고 시도하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2024년 2월 Greensheet는 Fusion Worldwide의 월간 시황 보고서로 메모리, 하드웨어, 중앙 처리 장치, 집적 회로 소재 공급망 전반의 가장 중요한 소식을 자세히 전해드립니다. 최신 보고서의 주요 헤드라인 중 일부는 다음과 같습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -1546,6 +2059,23 @@
     "year": 2024,
     "month": 4,
     "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "SK 하이닉스, Micron, 삼성이 HBM 생산에 주력하면서 DDR3 공급이 부족해졌습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "Memory",
     "section_raw": "메모리",
     "subheading": "",
     "text": "3월 이후 시장 활동이 둔화되면서 공급업체들이 높은 재고 수준을 낮추기 위해 추가 공급을 시행했습니다. 가용성이 증가하면서 메모리 하드웨어 가격이 약 2%~3% 하락하고 있습니다.",
@@ -1638,6 +2168,19 @@
     "year": 2024,
     "month": 5,
     "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "대만에서 발생한 지진으로 인해 메모리 시장의 생산이 일시적으로 중단되었습니다. 그러나 이후 비즈니스가 재개되어 2분기 가격 책정이 가능해졌습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "Memory",
     "section_raw": "메모리",
     "subheading": "",
     "text": "2024년 4월 3일 규모 7.2의 강진으로 인해 대만에 본사를 둔 수많은 제조업체의 생산이 일시적으로 중단되었습니다. 유통업체들이 이미 대형 고객을 위해 재고를 보유하고 있었기 때문에 이러한 상황은 소규모 공급업체의 재고 누적 문제를 초래했습니다.",
@@ -1691,6 +2234,20 @@
     "year": 2024,
     "month": 6,
     "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "고대역폭 메모리(HBM)는 메모리 시장에 중대한 변화를 불러오고 있으며, Micron과 SK 하이닉스와 같은 제조사들은 2024년도 생산량이 모두 매진되었습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "Memory",
     "section_raw": "메모리",
     "subheading": "",
     "text": "지난 몇 달간 고밀도 D4 및 D5 메모리 모듈 수요가 크게 증가했습니다. 제조사에서 수익성이 가장 높은 제품인 D5 및 HBM을 지원하기 위해 생산을 전환함에 따라 D4 모듈의 공급량이 감소하고 있습니다. 공급량이 계속 떨어질 것으로 예상되면서 고객들은 여분의 재고를 확보하고 있습니다.",
@@ -1734,6 +2291,30 @@
     "subheading": "",
     "text": "LPDDR5 가격도 SSD 및 DRAM 모듈 가격과 함께 상승하고 있으며 이번 분기에는 추가로 10%에서 15% 정도 상승할 것으로 예상됩니다. DRAM은 가격 예측 범위의 최상단에 있으며, 예상에 따르면 비용이 20% 더 상승할 수 있다는 전망을 보입니다. 반면 저밀도 LPDDR4 수요는 감소하고 있으며 가격도 내려가고 있습니다.",
     "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2024년 7월 Greensheet는 Fusion Worldwide의 월간 시황 보고서로 메모리, 하드웨어, 중앙 처리 장치, 집적 회로 공급망 전반에 걸쳐 가장 중요한 소식을 자세하게 전달합니다. 최신 보고서의 주요 시사점은 다음과 같습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Micron은 2024년 HBM 공급이 완판되자 생산량을 늘리고 있습니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1821,6 +2402,34 @@
     "year": 2024,
     "month": 8,
     "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2024년 8월 Greensheet는 Fusion Worldwide의 월간 시장 정보 보고서로 메모리, 하드웨어, 중앙 처리 장치, 집적 회로 공급망 전반에 걸쳐 가장 중요한 소식을 자세하게 전달합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "AI 고객의 수요가 지속됨에 따라 Micron, 삼성, SK 하이닉스는 계속해서 메모리 가격을 조정하고 있습니다. 이러한 제조사들이 전략적으로 생산력을 새로운 구성 요소로 전환하면서, 고객은 기존 메모리 모델에 대한 EOL(수명 종료) 공지에 대비하고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "Memory",
     "section_raw": "메모리",
     "subheading": "",
     "text": "Micron은 3분기를 시작하면서 LPDDR5 메모리의 가격을 15% 인상한다고 발표했습니다. 이번 가격 인상은 AI 애플리케이션에 대한 높은 수요 및 구성 요소가 가진 AMD 기반 PC와의 독점적인 호환성에서 비롯되었습니다. LPDDR5 공급은 아직도 늘어나는 수요를 따라가지 못하고 있으며, 예측에 따르면 이러한 추세는 Chromebook, 휴대용 장치, 모빌리티 제품의 추가 출하량 덕분에 하반기까지 이어질 것으로 보입니다.",
@@ -1860,6 +2469,82 @@
       "EOL"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2024년 10월 그린시트는 Fusion Worldwide의 월간 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 이 보고서는 기업용 제품, 네트워크 제품, PC 및 소비자 제품, 완제품, 보드 수준 메모리 부품, 집적 회로 및 패시브 부품을 포함한 7가지 주요 상품 시장의 주요 동향을 요약합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "기업용 상품 업데이트",
+    "subheading": "",
+    "text": "거의 12개월 동안 공급 부족과 가격 상승이 지속된 RDIMM 시장이 전환점에 도달했습니다. 가격 상승 압력이 여전히 존재하지만, 2024년 4분기의 가격 인상은 비교적 완만할 것으로 예상되며 AI 이외의 수요는 여전히 혼재된 신호를 보이거나 미미한 상태입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "기업용 상품 업데이트",
+    "subheading": "",
+    "text": "데이터 센터 및 클라우드 서비스 수요: 마이크론 테크놀로지와 삼성전자의 실적 보고서에 따르면, AI 기술에 집중하는 데이터 센터 및 클라우드 서비스 제공업체들이 RDIMM 수요의 주요 원동력입니다.",
+    "detected_vendors": [
+      "Micron",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "기업용 상품 업데이트",
+    "subheading": "",
+    "text": "기존산업  및 새로운  산업 성장: 서버 교체 주기를 맞이한 기존 산업과 중급 장치 및 AI 지원 태블릿을 위한 고성능 메모리의 신흥 시장에서도 추가적인 성장이 나타나고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "기업용 상품 업데이트",
+    "subheading": "",
+    "text": "DRAM 부족: 제조업체들이 생산 능력과 가동률을 줄이면서 DRAM 시장의 수급 불균형이 발생하고 있으며, 이 추세는 2025년까지 지속될 것으로 보입니다. 이에 따라 RDIMM의 공급에도 영향을 미칠 전망입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "기업용 상품 업데이트",
+    "subheading": "",
+    "text": "DDR4 고밀도 모듈 가격 상승: DDR4 고밀도 모듈은 2024년 6월과 7월 사이에 생산 감소와 수요 급증으로 인해 가격이 35% 상승했으며, 현재까지 높은 가격이 유지되고 있습니다. 생산일자 코드에 따른 가격 차별화가 나타나고 있으며, 최신 제품은 2~3%의 프리미엄을 지속적으로 요구하고 있어 이 패턴은 앞으로도 이어질 것으로 보입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2221,6 +2906,20 @@
   },
   {
     "year": 2025,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "제조사 뉴스 및 기업 업데이트",
+    "subheading": "",
+    "text": "Samsung과 Micron은 DRAM/NAND 가격을 인상할 것으로 예상되어 소비자 메모리 가격이 크게 상승할 전망입니다.",
+    "detected_vendors": [
+      "Micron",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
     "month": 5,
     "category": "Memory",
     "section_raw": "RDIMM",
@@ -2311,6 +3010,67 @@
   },
   {
     "year": 2025,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "제조업체 및 기업 업데이트",
+    "subheading": "",
+    "text": "삼성, HBM4 로드맵 공개: 삼성은 NVIDIA 및 Broadcom과 맞춤형 HBM4를 2026년 상반기(1H26)에 출하하기 위해 협의 중인 것으로 알려졌습니다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Nvidia",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
+    "detected_vendors": [
+      "Kioxia"
+    ],
+    "detected_keywords": [
+      "Capacity Expansion"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "TSMC의 엔터프라이즈 수요, 기타 다양한 칩 제조 분야에도 영향 확대: TSMC의 CoWoS 칩 생산 재료 수요가 급증하면서 메모리 시장까지 자재 부족 현상이 확산",
+    "detected_vendors": [
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "삼성과 Micron, MLC NAND 플래시에서 철수할 가능성 제기: 양사는 저용량 MLC 제품에서 철수할 것으로 보이며, 이로 인해 가격 상승과 주문 급증이 발생",
+    "detected_vendors": [
+      "Micron",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
     "month": 7,
     "category": "Memory",
     "section_raw": "RDIMM 수요 재정렬 및 가격 압박",
@@ -2359,6 +3119,19 @@
   },
   {
     "year": 2025,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "SK 하이닉스: 현재 Infinitesima의 AFM 계측 기술을 HBM4E 적층에 통합 중이며, 16레이어 하이브리드 본딩으로 높은 수율을 실현하고 있습니다. 하이닉스는 COMPUTEX Taipei 2025에서 12레이어 HBM4 및 HBM3E 솔루션을 선보였습니다.Bits & Chips 기사",
+    "detected_vendors": [
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
     "month": 8,
     "category": "Memory",
     "section_raw": "RDIMM 긴급한 할당 속 장기 지원",
@@ -2395,6 +3168,35 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "SK 하이닉스는 인공지능을 위해 설계된 맞춤형 HBM 메모리 칩 시장이 2030년까지 매년 30% 성장할 것으로 전망했습니다.",
+    "detected_vendors": [
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "DDR4 위기 심화, DDR5 배정도 긴축: DDR4 부족이 임계 수준에 도달했으며, 리드타임이 2026년까지 밀려나고 현물가는 급등하고 있습니다. 이로 인해 DDR5로의 전환이 가속화되고 있으나, 제조사들이 고마진 서버 및 AI 세그먼트를 우선시하면서 심각한 배정 제약과 월 4% 이상 가격 인상이 이어지고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -2499,6 +3301,19 @@
       "Price Increase"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "SK하이닉스는 AI용 맞춤형 HBM 메모리 칩 시장이 2030년까지 연 30% 성장할 것으로 전망하고 있습니다. 이들은 이제 HBM4E 적층을 위해 Infinitesima의 원자힘 현미경(AFM) 계측을 통합하여 16레이어 하이브리드 본딩에서 높은 수율을 달성하려 하고 있습니다. [출처: 로이터]",
+    "detected_vendors": [
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -2713,6 +3528,50 @@
   },
   {
     "year": 2025,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "삼성: 삼성전자는 2022년 이후 가장 높은 분기 실적을 예상하며, 2025년 7~9월 영업이익을 12.1조 원(85억 달러)으로 전망한다. 이번 급증은 데이터센터 서버에 대한 강한 수요에 힘입어 범용 메모리(DRAM과 NAND)의 타이트한 공급과 가격 상승이 견인했다. [Source: Reuters]",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "삼성과 SK하이닉스: 양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2025–26년 대규모 메모리 부족 심화: 삼성은 DDR5 모듈의 계약 가격을 최대 60%까지 인상한 것으로 전해지며, 32GB 가격이 급등했다. 고객들은 최소한의 공급을 확보하기 위해 주간 단위의 비협상 가격과 NCNR 조건을 강제로 받아들이고 있다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
     "month": 11,
     "category": "Memory",
     "section_raw": "RDIMM",
@@ -2740,6 +3599,52 @@
   },
   {
     "year": 2025,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "전 세계적 부족 사태에 대응하기 위해 유통사들이 사상 최초로 RAM 및 마더보드 번들 의무화를 시행: 심각한 글로벌 DRAM 부족으로 인해 일부 유통사는 구매자에게 전례 없는 번들 요구를 적용하고 있는 것으로 전해진다. 특정 채널은 고객이 DRAM 모듈과 마더보드를 1:1 비율로 구매해야 하며, 그렇지 않을 경우 메모리 재고 접근 자체가 거부될 수 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증: 삼성, 메모리 부족으로 사상 최대 수준의 실적 전망: 삼성전자는 “전통적 메모리 칩의 공급 타이트 및 가격 상승”을 이유로 2025년 3분기 2022년 이후 최고 분기 실적을 기록할 것으로 예상했다. 이는 진행 중인 시장 공급난의 직접적 결과다. [Source: Reuters]",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리 공급난 전망, 2027년까지 장기화: 주요 OEM 및 엔터프라이즈 고객들은 이제 DRAM/NAND 공급난이 기존 예상, 2026년이 아니라 2028년까지 장기화될 것으로 전망하고 있습니다. 삼성, SK하이닉스, 키옥시아는 이미 2026년 NAND 생산능력이 전량 판매 완료된 것으로 전해지며, 하이퍼스케일러들과 2027년 물량 배정을 협의 중입니다.",
+    "detected_vendors": [
+      "Kioxia",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
     "month": 12,
     "category": "Memory",
     "section_raw": "RDIMM",
@@ -2750,6 +3655,40 @@
       "Allocation"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리 위기가 초인플레이션 단계로 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리 부족이 자동차 산업으로 확산: 마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2818,6 +3757,49 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "삼성, 4분기 사상 최대 이익 전망: 메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리 위기, \"사후 정산(Post-Settlement)\" 체제로 전환: DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기‑ 및 NCNR 계약에 사후 정산‑ 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격‑ 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3102,6 +4084,162 @@
   },
   {
     "year": 2026,
+    "month": 3,
+    "category": "Memory",
+    "section_raw": "제조사 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "· Samsung은 2026년 하반기 출시 예정인 Apple 최초 폴더블 iPhone에 12GB LPDDR5X 메모리를 공급하는 계약을 수주한 것으로 알려졌다. 이번 계약은 DRAM 공급 긴축 상황을 반영하며, LPDDR5X 가격은 2025년 대비 두 배 상승한 것으로 전해진다. [출처:Digitimes]",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Memory",
+    "section_raw": "제조사 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "· Applied Materials는 인공지능 및 고성능 컴퓨팅에 핵심적인 차세대 반도체 개발을 위해 메모리 칩 기업 Micron Technology 및 SK Hynix와 협력하고 있다. Micron과 SK Hynix는 Applied Materials의 연구 센터인 Equipment and Process Innovation and Commercialization(장비 및 공정 혁신 및 상용화), 즉 EPIC Center에서 해당 반도체 개발을 위한 창립 파트너로 참여하게 된다. [출처:ChannelNewsAsia]",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "1. 메모리 시장, 가격 변동성 속 조정 국면 진입: 1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "YMTC와 CXMT는 2026년을 목표로 확장을 가속화하고 있습니다. YMTC는 2026년 하반기 우한 공장에서 첨단 NAND 양산을 시작할 예정입니다. 한편 CXMT는 계획 중인 기업공개(IPO)를 통해 조달할 자금 중 75억 위안, 약 11억 달러를 “메모리 웨이퍼 양산 라인의 기술 업그레이드”에 배정할 계획입니다. [출처: China Post]",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "1. 키옥시아 NAND 플래시 EOL 공지: 키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
+    "detected_vendors": [
+      "Kioxia"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "1. 메모리 시장 변동성 지속, DDR4 가격 급등: 5월 DDR5 RDIMM 현물 가격의 변동성이 확대되었으며, 64GB 모듈 거래는 2,200~2,400달러 구간에 집중되었다. 초기 지표에 따르면 2분기 물량 배정이 타이트해지고 하이퍼스케일러 장기 공급 계약(LTA) 물량이 잔여 공급분을 흡수하면서, 이러한 가격 상승 흐름은 5월과 6월에도 지속될 가능성이 있다. 동시에 DDR4에서는 예상 밖의 수요 반등이 나타나고 있으며, 8Gb/16Gb 가격은 전주 대비 40~50% 급등했다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "1. SMIC, 공정 유연성을 활용해 수주 확보: SMIC는 높은 수준의 공정 호환성을 바탕으로 이러한 공급 공백에 대응할 수 있는 독보적인 위치에 있다. 회사는 생산 라인을 특수 메모리용으로 전환하는 데 “약 10% 수준의 추가 전용 장비”만 필요하다고 밝혔으며, 이는 상당한 운영 유연성을 제공한다. [출처: Digitimes]",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "1. 대만 메모리 반도체 업체 Winbond가 NOR Flash 제품을 통해 NVIDIA의 차세대 Vera Rubin 플랫폼 공급망에 진입한 것으로 알려졌으며, 대량 출하는 올해 하반기부터 시작될 것으로 예상된다. [출처: FinanceBigGo]",
+    "detected_vendors": [
+      "Nvidia",
+      "Winbond"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "1. 메모리 반도체 업체 Kioxia Holdings는 Toyota Motor를 제치고 시가총액 기준 일본 최대 기업으로 올라섰다. 이는 글로벌 인공지능 붐이 일본 기업 지형을 어떻게 재편하고 있는지를 보여준다.",
+    "detected_vendors": [
+      "Kioxia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "자동차 및 산업 분야, 존립을 위협하는 수준의 리스크 직면: 자동차 Tier 1 공급업체들은 eMMC, LPDDR 및 개별 부품에서 심각한 공급 공백을 보고하고 있다. 제조업체들이 자동차 등급의 신뢰성보다 AI 서버 부문의 높은 수익성을 우선시하면서, OEM들은 막대한 프리미엄 가격을 감수하며 현물 시장에서 조달해야 하는 상황에 내몰리고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
     "month": 7,
     "category": "Memory",
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
@@ -3219,6 +4357,64 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "NVIDIA의 Vera Rubin 플랫폼은 열 커버(thermal-lid) 제조 문제로 인해 대량 출하가 수 주 지연됐다. 여기에 Rubin의 288GB HBM4 구성에 대한 SK하이닉스 HBM4 인증이 예상보다 늦어지면서 지연 요인이 추가됐다. 한편 NVIDIA는 Rubin Ultra용 Kyber 랙이 2028년까지 지연된다는 별도 보도에 대해 사실이 아니라고 반박하며, 자사의 로드맵은 “변함없이 유지되고 있다”고 밝혔다. [출처: Memeburn]",
+    "detected_vendors": [
+      "Nvidia",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "2. 2027년 메모리 생산 능력이 전량 소진된 것으로 알려져: 주요 3대 메모리 공급업체의 DRAM 및 고대역폭 메모리(HBM) 생산 능력은 예정보다 앞서 사실상 전량 할당됐습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Memory",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "3. 메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",
+    "detected_vendors": [
+      "Nanya"
+    ],
+    "detected_keywords": [
       "Shortage"
     ],
     "risk_level": "High"

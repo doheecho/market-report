@@ -2,7 +2,7 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다. 이전 보고서에 따르면 Sapphire Rapid CPU 출시는 2022년 후반으로 미뤄졌지만 계속되는 공급망 장애로 인해 출시는 다시 한번 미뤄졌습니다. 보고서가 정확하다면 Sapphire Rapid 및 Emerald Rapid 시리즈 CPU는 모두 2023년에 출시될 예정입니다. Intel이 최신 시리즈 쪽으로 생산 지원을 전환한다는 사실은 고객이 Cascade Lake 및 Cascade Lake (R)를 더 이상 이용할 수 없기 전 향후 2~3년 내에 전환해야 한다는 것을 의미합니다. 이미 Sapphire Rapid로 전환할 의도를 가지고 Ice Lake로 전환한 고객은 Sapphire Rapid가 출시될 때까지 예상했던 것보다 더 오래 현재 CPU 시리즈를 사용해야 합니다.",
@@ -106,7 +106,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",

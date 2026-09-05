@@ -375,6 +375,22 @@
   },
   {
     "year": 2020,
+    "month": 8,
+    "category": "CPU",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다.",
+    "detected_vendors": [
+      "Amd",
+      "Supermicro"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2020,
     "month": 9,
     "category": "CPU",
     "section_raw": "CPU (CPUs)",
@@ -1893,6 +1909,19 @@
   },
   {
     "year": 2021,
+    "month": 6,
+    "category": "CPU",
+    "section_raw": "6 완제품 (Finished Goods)",
+    "subheading": "",
+    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
     "month": 7,
     "category": "CPU",
     "section_raw": "1 CPUs (중앙처리장치)",
@@ -2067,6 +2096,23 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "category": "CPU",
+    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
+    "subheading": "",
+    "text": "더욱이, Intel은 현재 모바일 CPU 부문에서 AMD를 상대로 경쟁하면서 고객의 눈길을 받고자, 기판 공급에 할당하던 자원을 모바일 CPU 생산으로 더 많이 돌리고 있습니다. 결과적으로, Intel은 네트워크 카드에서 점점 다른 곳으로 주력 종목을 옮기고 있어, 이더넷 카드 공급이 빠듯해지고 리드 타임이 길어지고 있습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -2553,6 +2599,17 @@
     "section_raw": "5 CPU (중앙처리장치)",
     "subheading": "",
     "text": "| **Ryzen 9 PRO 3900** | 64MB |",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "category": "CPU",
+    "section_raw": "6 완제품 (Finished Goods)",
+    "subheading": "",
+    "text": "레크리에이션, 교육, 산업 애플리케이션에 대한 사용량 증가로 인해 Raspberry Pi 컴퓨팅 모듈에 대한 수요가 크게 증가하고 있습니다. 특히 Raspberry Pi 3 Model B+와 Raspberry Pi 4 Model B 2GB의 수요가 높아지고 있습니다. 회사와 학교가 대부분 재택으로 이동함에 따라 두 시리즈 모두 전염병의 영향을 크게 받고 있습니다. Raspberry Pi 컴퓨팅 모듈은 마우스, 키보드, TV, 다양한 모니터 등과 호환되며, 저렴한 비용, 접근성 및 다용도성으로 인기가 높습니다. 각 시리즈는 프로세서에 따라 각기 다른 속도로 작동하며 각기 다른 네트워크 호환성과 기능을 가지고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4532,6 +4589,102 @@
   },
   {
     "year": 2022,
+    "month": 7,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다. 이전 보고서에 따르면 Sapphire Rapid CPU 출시는 2022년 후반으로 미뤄졌지만 계속되는 공급망 장애로 인해 출시는 다시 한번 미뤄졌습니다. 보고서가 정확하다면 Sapphire Rapid 및 Emerald Rapid 시리즈 CPU는 모두 2023년에 출시될 예정입니다. Intel이 최신 시리즈 쪽으로 생산 지원을 전환한다는 사실은 고객이 Cascade Lake 및 Cascade Lake (R)를 더 이상 이용할 수 없기 전 향후 2~3년 내에 전환해야 한다는 것을 의미합니다. 이미 Sapphire Rapid로 전환할 의도를 가지고 Ice Lake로 전환한 고객은 Sapphire Rapid가 출시될 때까지 예상했던 것보다 더 오래 현재 CPU 시리즈를 사용해야 합니다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "중국 고객들이 주문을 취소하거나 서버 CPU 프로젝트를 연기함에 따라 가격 하락과 함께 공급 상황이 서서히 좋아지고 있습니다. 리드 타임 배송은 변화하는 예측과 더 높은 재고 수준의 영향을 받을 수 있으나 전체적인 추세를 보면 현재 시장을 활용하고자 하는 고객이 이득을 볼 수 있을 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Decrease"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "중국 내 수요로 인해 11세대 Rocket Lake와 12세대 Alder Lake에 대한 관심이 높아졌으며 더 많은 고객이 소싱을 위해 공개 시장으로 가고 있습니다. 또한, Intel의 10세대 Comet Lake 데스크톱 CPU는 i5-10400, i5 –10500 및 i7-10700와 같은 상위 모델에 대해 더 많은 문의를 받고 거래를 하고 있습니다. 10세대 Comet Lake 데스크톱 CPU는 2020년에 출시되었으며 해당 제품의 수명 주기는 거의 끝나가고 있습니다. 이 부품에 대해 지속적인 수요가 있는 고객들은 공급이 중단되기 전에 재고를 구매해야 합니다. 11세대 Rocket Lake의 가격이 2% 이상 상승했음에도 불구하고 여전히 Intel 데스크톱 CPU 고객은 비용 절감 기회를 이용할 수 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Xeon CPU & 칩셋 \t2022년 10월 2일\tXeon SP: Bronze & Silver – 5%, Platinum & Gold 7%~10% Xeon D: 2~10%",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Xeon E: 5%",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "클라이언트 CPU & 칩셋  \t2022년 10월 2일\t모바일 SIPP 프로세서 0% (인상 없음)",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "기타 코어 프로세서 10%",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "워크스테이션 Xeon W 10%",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
     "month": 10,
     "category": "CPU",
     "section_raw": "CPU",
@@ -4554,6 +4707,28 @@
     "detected_vendors": [
       "Amd"
     ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "Xeon E: 5%",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "클라이언트 CPU 및 칩셋",
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4928,6 +5103,19 @@
     "subheading": "",
     "text": "현재 시점에서는 32XX와 32XXR을 포함한 엔트리 레벨의 Xeon CPU가 가장 큰 영향을 받고 있습니다. 하지만 그 이하는 재고를 찾아볼 수 있습니다.",
     "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "낮은 수요와 생산 절감에도 불구하고 Intel의 CPU Sapphire Rapids 시리즈 발표와 함께 2023년 2분기에는 메모리 수요가 회복될 것이라는 긍정적인 전망이 있습니다. 새로운 CPU 시리즈가 최적의 성능을 발휘하려면 DDR5 모듈이 필수적이므로 이번 출시는 주요 상품군의 활기를 되찾는 데 도움이 될 것입니다. 특히 64GB 및 128GB와 같은 고밀도 모듈에 대한 수요가 약간 개선되고 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5494,6 +5682,21 @@
     "year": 2023,
     "month": 7,
     "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "CPU 시장은 약세를 보일 수도 있었으나 Intel의 EOL 발표로 수요가 자극됩니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "category": "CPU",
     "section_raw": "CPU",
     "subheading": "",
     "text": "전반적으로 Intel 및 AMD의 데스크톱 CPU에 대한 수요는 약세로 여겨집니다. 618 쇼핑 축제로 인해 Intel 12세대 앨더 레이크 데스크톱 CPU를 중심으로 6월 중국 시장 거래가 증가할 것으로 예상되었으나, 연휴 이후 판매 실적은 기대에 부응하지 못했습니다.",
@@ -5645,6 +5848,21 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Intel의 단종(EOL) 발표에 따라 모바일 CPU 가격이 40% 인상됩니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -5909,6 +6127,35 @@
   },
   {
     "year": 2023,
+    "month": 9,
+    "category": "CPU",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "한편, DDR5 모듈, 특히 고밀도 제품은 여전히 공급 문제를 겪고 있습니다. 이러한 제약을 시작으로 특정 서버 애플리케이션과의 역호환성 부족 문제가 결합하며 수요는 더욱 증가했습니다. 현재 서버에서 DDR5를 채택하는 것은 Intel Sapphire Rapids 및 AMD의 Genoa 시리즈를 채택하는 것을 의미합니다. 지금 클라우드 서비스 제공업체와 AI 서버 제조업체는 두 자릿수의 사용률을 간신히 넘었습니다. Sapphire Rapids를 사용하는 경우 약 7%에서 11%의 채택률을 보입니다. 내년 6월까지 채택률은 50%에 육박할 것으로 보입니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "CPU 부문 전체에서 수요가 가용성을 초과함에 따라 일부 중간 코어 수의 MPN 및 엔트리급 서버와 워크스테이션 시리즈의 배송 기간을 예측할 수 없습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
     "month": 10,
     "category": "CPU",
     "section_raw": "CPU",
@@ -5997,6 +6244,19 @@
     "detected_keywords": [
       "Lead Time",
       "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "일부 유통업체가 단종(EOL) 발표를 계속 처리함에 따라 CPU 시장의 수요는 다양해지고 있습니다. 또한 11월 11일 중국의 광군절 행사로 인해 수요가 급증할 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -6114,6 +6374,39 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "CPU",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "아직 공식 날짜는 정해지지 않았지만 사전 주문 목록이 시작되었습니다. Pi 5는 이전 제품보다 더 비싸지만, 더 높은 가격표에 대한 대가로 향상된 성능과 향상된 사양을 제공합니다. Raspberry Pi 5는 업그레이드된 CPU, RAM, 연결성을 통해 Pi 4보다 2.5배 더 빠르게 작동할 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "노트북 CPU 시장의 현물 수요가 증가하기 시작하지만, 데스크톱 CPU 판매는 여전히 비용 절감 기회에 집중됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "IC 시장은 둔화하기 시작했지만, 서버 CPU 및 SSD 시장은 공급이 수요를 따라가지 못하며 역전되고 있습니다. 이에 SSD 관련 메모리 모듈 수요가 증가하며 가격을 끌어올려 메모리 시장에도 영향을 미치고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -6255,6 +6548,28 @@
     "detected_vendors": [
       "Amd"
     ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "2024년 1월 Greensheet는 Fusion Worldwide의 월간 시황 보고서로 집적 회로, 중앙 처리 장치(CPU), 하드웨어 상품 공급망의 가장 중요한 국면에 관해 상세하게 다룹니다. 가장 최근 보고서의 주요 사항은 다음과 같습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "데스크톱 및 노트북 CPU 수요는 계속해서 꾸준히 증가하고 있는 반면 서버고객은 집중적인 공급문제를 더욱 경험하기시작했습니다.",
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -6565,6 +6880,19 @@
     "year": 2024,
     "month": 3,
     "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "게임 산업에서는 Intel의 12세대 Alder Lake Pentium 데스크톱 시리즈 및 모바일 CPU, 특히 i5 및 i7 시리즈에 대한 수요를 늘리고 있으며, 이로 인해 거래 증가와 공급 제한이 발생하고 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "category": "CPU",
     "section_raw": "CPU",
     "subheading": "",
     "text": "수요가 집중된 일부 영역을 제외하고는 데스크톱 및 서버 CPU 시장 내 전반적인 시장 활동이 감소되었습니다. Intel의 12세대 Alder Lake Pentium 데스트톱 시리즈 및 모바일 CPU, 특히 i5 및 i7 시리즈에 대한 공급이 가장 높은 거래를 기록했습니다. 게이밍 산업은 i5-12450H 및 i7-12650H 시리즈에 대한 수요에서 뚜렷한 추세를 이끌고 있습니다.",
@@ -6659,6 +6987,30 @@
     "detected_vendors": [
       "Amd"
     ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "가상화폐 채굴자 사이에서 고성능 CPU 수요가 높아지고 있으며 AMD 제품 수요에 강력한 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "Amd"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "주요 기업들이 신흥 기술을 지원하기 위해 제조 방식을 변경하면서 전자 부품 산업이 격동의 분기를 맞이할 수도 있습니다. 하드웨어 및 CPU 시장 수요의 변화와 예상치 못한 가상화폐 업계의 동향이 겹쳐 공급망 전망의 변동성이 더욱 커지고 있습니다.",
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -6858,6 +7210,17 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "그러나 중국 기반 전기 자동차(EV) 제조업체의 수요가 감소할 수 있으므로, 신형 및 구형 시리즈에 대한 수요 예측에 변화가 있을 수 있습니다. 중국 정부는 전기 자동차 업체들이 현지 칩에 대한 지원을 늘릴 것을 권장하고 있습니다. 이러한 시장 변화는 지금까지 자동차 애플리케이션 분야의 선두 주자였던 NXP에 영향을 미칠 것입니다. NXP는 자사 제품에서 전환하는 고객에 대응하기 위해 생산 및 가격 변경을 시행할 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "고객이 더 유리한 가격을 찾으면서 최신 시리즈로의 업그레이드 및 전환이 CPU 시장의 수요 추세를 주도하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -7107,6 +7470,33 @@
     "year": 2024,
     "month": 6,
     "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Intel 프로세서 시장에는 공급을 제한하고 업그레이드를 주저하는 분위기가 조성되고 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "메모리, 프로세서, 스토리지 시장은 다양한 수요와 공급 제약으로 인해 큰 변화를 겪고 있습니다. 또한 제조사들은 향후 3년에 걸쳐 단계적으로 시행될 미중 관세로 인해 변화하는 환경에 대비할 준비를 하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage",
+      "Tariff"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "CPU",
     "section_raw": "CPU",
     "subheading": "",
     "text": "이번 달에도 Intel의 Meteor Lake H 시리즈에 대한 공급 제약이 지속됐으며, 여전히 티어 1 고객들에게 가장 큰 영향을 주고 있습니다. Core Ultra 7 프로세서 165H 및 Core Ultra 9 프로세서 185H는 다른 H 시리즈 중에서도 가장 심각한 제약을 겪고 있습니다.",
@@ -7191,6 +7581,32 @@
     "year": 2024,
     "month": 7,
     "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "수요가 미미하고 고객들이 비용 절감에 집중하면서 CPU 시장은 다소 정체기를 맞고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "AI 관련 수요 증가와 물류 문제로 인해 공급망이 압박을 받고 있습니다. DRAM 및 NAND와 같은 메모리 가격은 AI 서버의 높은 수요와 공급 부족으로 인해 2025년까지 오를 전망입니다. HDD 시장의 경우 공급 제약으로 인해 대용량 드라이버의 가격 상승이 예상됩니다. 또한 CPU 및 IC는 과잉 공급과 연장된 리드 타임으로 시장 혼란에 혼란을 초래하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "CPU",
     "section_raw": "CPU",
     "subheading": "",
     "text": "6월 CPU 시장은 주로 제조업체들의 추가 공급이 기대되는 분기 말 출시를 기다리는 고객들로 인해 수요가 둔화되었습니다. AI PC와 같은 급성장 제품이나 13세대 Raptor Lake 및 12세대 Alder Lake의 i3, i5, i7과 같은 메인스트림 시리즈의 비용 절감을 원하는 고객으로 인해 최소한의 일시적인 수요가 확인되었습니다. AI PC 수요는 앞으로 몇 달 동안 증가할 것으로 예상되며 CPU 시장에 변화를 줄 가능성이 있습니다.",
@@ -7245,6 +7661,17 @@
     "detected_vendors": [
       "Amd"
     ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "PC 수요의 줄어들면서 CPU 시장에 영향을 미치며 공급업체들은 공급 과잉을 우려하고 있습니다. 그러나 시장 분석가들은 출하량 추세가 반등의 조짐을 보인 후 수요가 회복될 것으로 내다봤습니다.",
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -7331,6 +7758,21 @@
     "text": "AMD의 4세대 Genoa 시리즈 서버 CPU는 특히 아시아 이외의 시장에서 꾸준한 시장 활동을 보이고 있으며, 이는 최근 전체 수요 중 약 70%를 차지합니다. 유통사들은 Genoa EPYC 프로세서(예: EPYC 9124, 9654, 9754, 9534, 9554)에 대한 높은 시장의 관심을 보고하고 있으며, 오픈 마켓 가격은 경쟁 압박으로 인해 협상 가능성이 높습니다.",
     "detected_vendors": [
       "Amd"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "기업용 상품 업데이트",
+    "subheading": "",
+    "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel",
+      "Micron"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -7981,6 +8423,19 @@
   },
   {
     "year": 2025,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "제조업체 및 기업 업데이트",
+    "subheading": "",
+    "text": "TSMC는 2025년 초 10nm 이하 공정의 가격을 4~10% 인상할 계획이며, 이는 모바일 프로세서, HPC 및 AI 애플리케이션에 영향을 미칠 것입니다.",
+    "detected_vendors": [
+      "TSMC"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
     "month": 3,
     "category": "CPU",
     "section_raw": "CPU 시장 조정과 수요 변동",
@@ -8143,6 +8598,30 @@
   },
   {
     "year": 2025,
+    "month": 3,
+    "category": "CPU",
+    "section_raw": "제조업체 및 기업 업데이트",
+    "subheading": "",
+    "text": "Intel은 기존 서버 및 소비자용 CPU 시장의 수요 감소를 상쇄하기 위해, AI 프로세서 개발에 자원을 집중하고 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "관세 업데이트",
+    "subheading": "",
+    "text": "버퍼 재고 확보: 일부 고객들은 90일 유예 기간을 활용해 DRAM, CPU 등 전략적 재고를 조기 확보하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
     "month": 4,
     "category": "CPU",
     "section_raw": "CPU",
@@ -8207,6 +8686,47 @@
       "EOL"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "제조사 뉴스 및 기업 업데이트",
+    "subheading": "",
+    "text": "Broadcom은 클라우드 컴퓨팅 기업들이 Nvidia의 프로세서에 대한 비용 효율적인 대안을 찾는 가운데, 맞춤형 AI 칩에 대한 수요가 높아지고 있어 AI 인프라 시장의 핵심 기업으로 자리 잡고 있습니다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "미국은 중국을 대상으로 한 Nvidia H20 및 AMD MI308 등 AI 프로세서 수출을 제한했습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "관세 업데이트",
+    "subheading": "",
+    "text": "고객들은 90일 유예 기간 동안 전략적 비축(Strategic Stockpiling)을 통해 DRAM, CPU 등 주요 부품의 버퍼 재고를 확보하려 할 수 있으며, 이는 관세 재개 또는 유예 종료 이후 발생할 수 있는 추가 혼란에 대비하기 위한 조치입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Tariff"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -8356,6 +8876,32 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "32코어 AMD 서버 CPU는 가격 개선이 예상됨",
+    "detected_vendors": [
+      "Amd"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "CPU",
+    "section_raw": "제조업체 및 기업 업데이트",
+    "subheading": "",
+    "text": "Intel, 차세대 Xeon CPU를 2026년에 출시할 예정인 것으로 보도됨: Intel은 데이터 센터 포트폴리오 확장을 준비 중이며, Diamond Rapids 및 Clearwater Forest가 2026년 출시로 확정되었다고 제품 부문 CEO Michelle Johnston Holthaus가 발표",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "CPU",
+    "section_raw": "제조업체 및 기업 업데이트",
+    "subheading": "",
+    "text": "AMD, 데이터 센터 시장의 판도를 바꾸다 자신에게 유리하게: AMD는 경쟁력 있는 EPYC CPUs 들을 통해 10년도 안 되어 서버 CPU 시장 점유율을 50%까지 확대함",
     "detected_vendors": [
       "Amd"
     ],
@@ -8565,6 +9111,21 @@
     "year": 2025,
     "month": 10,
     "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "인텔의 10nm 위기가 전면적인 부족 사태로 심화: 인텔의 장기적인 10nm 생산 문제는 제약 수준을 넘어 전면적인 공급 위기로 확대되었다. 한때 관리 가능했던 병목이 이제는 12세대부터 14세대 CPU 제품군뿐 아니라 4세대 사파이어 래피즈와 5세대 에메랄드 래피즈 같은 주요 서버 라인에서도 치명적인 실패 지점이 되었다. 다수 SKU의 ETA가 2026년 1분기로 연기되었으며, N97, N305, N355 같은 소형 코어 CPU는 ‘슈퍼 쇼트’ 수준의 공급 부족 상태다. 근본 원인으로는 인력 감축과 차세대 AI PC 프로세서로의 제조 역량 재배치가 지목되며, 해당 제품군의 수요는 예상보다 약했다. 인텔은 현재 핵심 고객들에게 전례 없는 6개월 수요 예측을 요구하고 있다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "CPU",
     "section_raw": "CPU 가격 추세 및 공급 제약",
     "subheading": "",
     "text": "인텔의 10nm 생산은 여전히 치명적으로 제약되어 있으며, 다수 SKU의 ETA가 이제 2026년 1분기로 연기되었다. 소형 코어 CPU(N97, N305, N355)는 ‘슈퍼 쇼트’ 수준의 공급 부족 상태다. 인텔은 고객들에게 6개월 수요 예측을 요구하고 있다.",
@@ -8636,6 +9197,35 @@
   },
   {
     "year": 2025,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "인텔: 인텔은 10월 9일 발표를 통해 최첨단 애리조나 Fab 52에서 공식적으로 생산을 시작했다고 밝혔다. 이번 이정표에는 인텔의 최첨단 18A 공정을 처음 적용한 오랜 기대작 팬서 레이크 프로세서의 출시가 포함된다. 이 칩은 2026년 CES에서 데뷔할 것으로 예상되는 차세대 AI PC를 구동하며, 미국 반도체 대기업의 잠재적 전환점으로 평가된다. [Source: Intel Press Release]",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Intel의 10nm 위기가 구조적 문제로 전환: Intel은 지속 불가능한 생산 비용을 이유로 10nm 포트폴리오(12~14세대 데스크톱, 모바일, 서버 CPUs) 전체에 대해 두 자릿수 가격 인상을 공식적으로 고객사에 제안하고 있다. 이는 해당 부족이 일시적 병목이 아니라, Intel이 차세대 AI PC를 위한 18A 노드에 우선순위를 두면서 전략적 축소 단계에 들어섰음을 의미한다. 소형 코어 CPUs(N 시리즈)와 Raptor Lake Refresh는 여전히 “초 공급 부족” 상태다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
     "month": 11,
     "category": "CPU",
     "section_raw": "CPU",
@@ -8679,6 +9269,19 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "CPU",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -8746,6 +9349,23 @@
     "year": 2026,
     "month": 1,
     "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Intel의 10nm 포트폴리오, 생존 가능성 약화: Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "CPU",
     "section_raw": "CPU 가격 추세 및 공급 제약",
     "subheading": "",
     "text": "Intel은 AI 비즈니스 우선순위에 따라 2026년 2분기 서버 CPU에 10~15% 가격 인상을 적용한다고 확인했습니다. SRV5F 및 SRWPD SKU는 극심한 공급 부족 상태이며, 리드타임이 4월까지 늘어나고 있습니다.",
@@ -8787,6 +9407,26 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의‑ T-글래스 기판‑ 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -8838,6 +9478,23 @@
     "detected_keywords": [
       "Discommit",
       "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "1. Intel 10nm 포트폴리오의 경쟁력 약화: Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -9008,6 +9665,19 @@
       "Price Increase"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "CPU",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "1. 메모리 시장의 초인플레이션 및 구조적 할당 전환: DDR5 RDIMM 가격은 5월 전망치를 뛰어넘는 속도로 상승하고 있으며, 현재 64GB 제품의 현물 거래는 2,800~3,100달러 이상 구간에 집중되고 있다. 하이퍼스케일러들은 장기 공급 계약을 통해 2027~2030년 생산 능력을 지속적으로 선점하고 있으며, 이에 따라 기존 OEM 및 자동차 산업은 사실상 주요 할당 채널에서 배제되고 있다. 동시에 산업용 고객들이 DDR5 CPU 플랫폼 전환을 피하기 위해 프리미엄 가격을 수용하기 시작하면서 DDR4 수요도 견조해지고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,

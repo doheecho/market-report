@@ -2,7 +2,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 위기가 초인플레이션 단계로 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
@@ -19,7 +19,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 부족이 자동차 산업으로 확산: 마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
@@ -54,7 +54,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Intel의 10nm 포트폴리오, 생존 가능성 약화: Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다.",
@@ -71,7 +71,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20-70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1-2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
@@ -439,7 +439,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
@@ -455,7 +455,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "중국, 미국 H200 칩 수출에 대해 신중한 입장: 중국은 미국의 승인 이후 Nvidia의 H200 인공지능(AI) 칩을 수용할 가능성이 높으며, 이는 중국의 방대한 기술 부문에서의 즉각적인 수요에 의해 촉진됩니다.",
@@ -481,7 +481,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다",
@@ -494,7 +494,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "삼성, 4분기 사상 최대 이익 전망: 메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",
@@ -520,7 +520,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 위기, \"사후 정산(Post-Settlement)\" 체제로 전환: DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기‑ 및 NCNR 계약에 사후 정산‑ 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격‑ 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
@@ -537,7 +537,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
@@ -554,7 +554,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "스토리지 공급망 붕괴 및 전략적 단종: 2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
@@ -570,7 +570,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
@@ -587,7 +587,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의‑ T-글래스 기판‑ 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
@@ -1052,7 +1052,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "공급망 뉴스",
     "subheading": "",
     "text": "메타, 장기 AI 인프라 계약으로 수백만 개의 Nvidia GPU·CPU 확보: Nvidia와 메타는 확대된 다년간 계약을 체결했습니다. 메타는 전 세계 데이터센터에 수백만 개의 Nvidia AI 칩을 배치하며, 대규모 인공지능 인프라 구축을 위한 장기적인 GPU, CPU 및 네트워킹 공급을 확보했습니다. 계약에는 Nvidia Blackwell GPU, 차세대 Rubin GPU, 독립형 Grace CPU, 향후 출시될 Vera CPU, 네트워킹 시스템 및 보안 기술이 포함됩니다.",
@@ -1065,7 +1065,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "공급망 뉴스",
     "subheading": "",
     "text": "미국 안보 검토로 Nvidia의 중국 AI 칩 판매 지연: 도널드 트럼프의 수출 승인 이후 약 두 달이 경과했으나, Nvidia의 중국 대상 H200 AI 칩 판매는 여전히 워싱턴의 최종 승인을 기다리고 있습니다. 미국 정부는 중국 고객에 대한 라이선스 발급에 앞서 국가 안보 검토를 진행 중입니다.",
@@ -1078,7 +1078,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "공급망 뉴스",
     "subheading": "",
     "text": "웨스턴 디지털, 2026년 HDD 전량 매진: 웨스턴 디지털의 어빙 탄 CEO는 2026년 생산 물량이 사실상 모두 매진되었다고 밝혔습니다. 회사는 확정 구매 주문을 통해 연간 대부분의 공급을 이미 확보했으며, 특정 고객과는 2028년까지 계약을 체결한 상태입니다.",
@@ -1091,7 +1091,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
@@ -1119,7 +1119,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "Texas Instruments는 Silicon Labs 인수 계약을 발표했으며, 거래는 2027년 상반기 중 완료될 예정입니다. 본 인수는 제조 리쇼어링을 목표로 하나, 향후 24개월간 양사 고객에게 공급 차질 및 통합 리스크가 발생할 가능성이 있습니다. [출처: TI]",
@@ -1134,7 +1134,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1. Intel 10nm 포트폴리오의 경쟁력 약화: Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다.",
@@ -1151,7 +1151,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
@@ -1171,7 +1171,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. 반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
@@ -1193,7 +1193,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "4. 중국 시장 분절화와 국산 대체 가속: H200 수출 승인 지연과 중국 하이퍼스케일러에 대한 RDIMM 공급이 약 30%로 제한됨에 따라, 주요 중국 OEM들은 국산 메모리 및 SSD 공급업체 인증을 가속화하고 있다. 엔터프라이즈급 성능 격차는 여전히 존재하지만, 수입 제품 대비 60~75%의 가격 경쟁력이 비용 민감형 시장에서 빠른 채택을 이끌고 있다. 이로 인해 가격 구조, 할당 우선순위, 공급망 가시성이 상이한 이중 구조의 글로벌 메모리 시장이 형성되고 있다.",
@@ -1206,7 +1206,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
@@ -1770,7 +1770,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조사 뉴스 및 업데이트",
     "subheading": "",
     "text": "· Samsung은 2026년 하반기 출시 예정인 Apple 최초 폴더블 iPhone에 12GB LPDDR5X 메모리를 공급하는 계약을 수주한 것으로 알려졌다. 이번 계약은 DRAM 공급 긴축 상황을 반영하며, LPDDR5X 가격은 2025년 대비 두 배 상승한 것으로 전해진다. [출처:Digitimes]",
@@ -1783,7 +1783,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조사 뉴스 및 업데이트",
     "subheading": "",
     "text": "· Applied Materials는 인공지능 및 고성능 컴퓨팅에 핵심적인 차세대 반도체 개발을 위해 메모리 칩 기업 Micron Technology 및 SK Hynix와 협력하고 있다. Micron과 SK Hynix는 Applied Materials의 연구 센터인 Equipment and Process Innovation and Commercialization(장비 및 공정 혁신 및 상용화), 즉 EPIC Center에서 해당 반도체 개발을 위한 창립 파트너로 참여하게 된다. [출처:ChannelNewsAsia]",
@@ -1797,7 +1797,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1. 메모리 시장, 가격 변동성 속 조정 국면 진입: 1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
@@ -1830,7 +1830,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "Passive",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
@@ -1865,7 +1865,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화: 2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
@@ -2289,7 +2289,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "YMTC와 CXMT는 2026년을 목표로 확장을 가속화하고 있습니다. YMTC는 2026년 하반기 우한 공장에서 첨단 NAND 양산을 시작할 예정입니다. 한편 CXMT는 계획 중인 기업공개(IPO)를 통해 조달할 자금 중 75억 위안, 약 11억 달러를 “메모리 웨이퍼 양산 라인의 기술 업그레이드”에 배정할 계획입니다. [출처: China Post]",
@@ -2302,7 +2302,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. 키옥시아 NAND 플래시 EOL 공지: 키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
@@ -2317,7 +2317,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "2. STMicroelectronics, 4월 26일부터 가격 인상: STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.",
@@ -2333,7 +2333,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1. 메모리 시장 변동성 지속, DDR4 가격 급등: 5월 DDR5 RDIMM 현물 가격의 변동성이 확대되었으며, 64GB 모듈 거래는 2,200~2,400달러 구간에 집중되었다. 초기 지표에 따르면 2분기 물량 배정이 타이트해지고 하이퍼스케일러 장기 공급 계약(LTA) 물량이 잔여 공급분을 흡수하면서, 이러한 가격 상승 흐름은 5월과 6월에도 지속될 가능성이 있다. 동시에 DDR4에서는 예상 밖의 수요 반등이 나타나고 있으며, 8Gb/16Gb 가격은 전주 대비 40~50% 급등했다.",
@@ -2364,7 +2364,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
@@ -2383,7 +2383,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "4. 비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
@@ -2936,7 +2936,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "1. CXMT DDR5 서버 메모리, 양산 및 납품 개시: CXMT는 최근 DDR5 메모리 분야에서 진전을 이루며 양산 및 납품을 시작했고, 중국 내 공급망에 진입하기 시작했다. 이를 통해 중국 모듈 제조사들은 자국산 DRAM 칩 기반의 엔터프라이즈 및 소비자용 스토리지 제품을 출시할 수 있게 되었다.",
@@ -2971,7 +2971,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. SMIC, 공정 유연성을 활용해 수주 확보: SMIC는 높은 수준의 공정 호환성을 바탕으로 이러한 공급 공백에 대응할 수 있는 독보적인 위치에 있다. 회사는 생산 라인을 특수 메모리용으로 전환하는 데 “약 10% 수준의 추가 전용 장비”만 필요하다고 밝혔으며, 이는 상당한 운영 유연성을 제공한다. [출처: Digitimes]",
@@ -3006,7 +3006,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1. 메모리 시장의 초인플레이션 및 구조적 할당 전환: DDR5 RDIMM 가격은 5월 전망치를 뛰어넘는 속도로 상승하고 있으며, 현재 64GB 제품의 현물 거래는 2,800~3,100달러 이상 구간에 집중되고 있다. 하이퍼스케일러들은 장기 공급 계약을 통해 2027~2030년 생산 능력을 지속적으로 선점하고 있으며, 이에 따라 기존 OEM 및 자동차 산업은 사실상 주요 할당 채널에서 배제되고 있다. 동시에 산업용 고객들이 DDR5 CPU 플랫폼 전환을 피하기 위해 프리미엄 가격을 수용하기 시작하면서 DDR4 수요도 견조해지고 있다.",
@@ -3019,7 +3019,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "Passive",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. MLCC 및 수동소자 위기, 심각 단계로 격화: Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
@@ -3072,7 +3072,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴: 엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
@@ -3630,7 +3630,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "1. 대만 메모리 반도체 업체 Winbond가 NOR Flash 제품을 통해 NVIDIA의 차세대 Vera Rubin 플랫폼 공급망에 진입한 것으로 알려졌으며, 대량 출하는 올해 하반기부터 시작될 것으로 예상된다. [출처: FinanceBigGo]",
@@ -3644,7 +3644,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "2. NVIDIA RTX GPU가 통합된 Intel CPU가 2028년 초 출시될 것이라는 관측이 제기되고 있다. Intel은 NVIDIA 그래픽 기술을 탑재한 프로세서를 2028년 1분기에 출시하는 것을 목표로 하고 있으며, 일정이 변동되지 않을 경우 해당 칩은 CES 2028에서 공개될 가능성이 있다. [출처: Yahoo News]",
@@ -3680,7 +3680,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. 메모리 반도체 업체 Kioxia Holdings는 Toyota Motor를 제치고 시가총액 기준 일본 최대 기업으로 올라섰다. 이는 글로벌 인공지능 붐이 일본 기업 지형을 어떻게 재편하고 있는지를 보여준다.",
@@ -3693,7 +3693,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "2. NVIDIA RTX GPU가 통합된 Intel CPU가 2028년 초 출시될 것이라는 관측이 제기되고 있다. Intel은 NVIDIA 그래픽 기술을 탑재한 프로세서를 2028년 1분기에 출시하는 것을 목표로 하고 있으며, 일정이 변동되지 않을 경우 해당 칩은 CES 2028에서 공개될 가능성이 있다.",
@@ -3731,7 +3731,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
@@ -3748,7 +3748,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
@@ -3767,7 +3767,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Passive",
     "section_raw": "Intro",
     "subheading": "",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
@@ -3789,7 +3789,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
@@ -3807,7 +3807,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "자동차 및 산업 분야, 존립을 위협하는 수준의 리스크 직면: 자동차 Tier 1 공급업체들은 eMMC, LPDDR 및 개별 부품에서 심각한 공급 공백을 보고하고 있다. 제조업체들이 자동차 등급의 신뢰성보다 AI 서버 부문의 높은 수익성을 우선시하면서, OEM들은 막대한 프리미엄 가격을 감수하며 현물 시장에서 조달해야 하는 상황에 내몰리고 있다.",
@@ -4187,7 +4187,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]",
@@ -4205,7 +4205,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "NVIDIA의 Vera Rubin 플랫폼은 열 커버(thermal-lid) 제조 문제로 인해 대량 출하가 수 주 지연됐다. 여기에 Rubin의 288GB HBM4 구성에 대한 SK하이닉스 HBM4 인증이 예상보다 늦어지면서 지연 요인이 추가됐다. 한편 NVIDIA는 Rubin Ultra용 Kyber 랙이 2028년까지 지연된다는 별도 보도에 대해 사실이 아니라고 반박하며, 자사의 로드맵은 “변함없이 유지되고 있다”고 밝혔다. [출처: Memeburn]",
@@ -4219,7 +4219,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Micron Technology와 General Motors(GM)는 차량 생산을 위한 메모리 및 스토리지 제품의 장기 공급을 확보하기 위해 전략적 고객 계약을 체결했다. [출처: DigiTimes]",
@@ -4232,7 +4232,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
@@ -4277,7 +4277,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "Passive",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1. \"대규모 수동소자 공급 부족\" 공식화: AI 서버용 고용량 MLCC 수요와 자동차용 수요의 영향으로 MLCC 및 탄탈 커패시터 시장이 심각한 공급 부족 국면에 진입했습니다. 주요 제조업체들은 가격을 15~30% 인상하고 브로커 대상 판매를 제한하는 한편, 리드타임을 20주에서 50주 이상으로 연장하고 있습니다. PCB용 수지 공급 차질과 희토류 수출 금지 등 원자재 제약까지 겹치면서 위기가 더욱 심화하고 있습니다.",
@@ -4291,7 +4291,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
@@ -4308,7 +4308,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",
@@ -4326,7 +4326,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "4. NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격: NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다.",
@@ -4342,7 +4342,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
@@ -4759,7 +4759,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "1. Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고: Samsung Electronics는 7월 30일 열린 2026년 2분기 실적 발표 콘퍼런스콜에서 세계 반도체 공급난에 관해 지금까지 나온 것 중 가장 강력한 수준의 경고를 내놓았습니다.",
@@ -4774,7 +4774,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "2. 2027년 메모리 생산 능력이 전량 소진된 것으로 알려져: 주요 3대 메모리 공급업체의 DRAM 및 고대역폭 메모리(HBM) 생산 능력은 예정보다 앞서 사실상 전량 할당됐습니다.",
@@ -4787,7 +4787,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "3. Micron, 유통망 효율화: Micron은 물량 할당을 엄격히 통제하고 하이퍼스케일러 및 Tier 1 OEM과의 직접 거래 관계를 우선하기 위해 글로벌 유통업체망을 적극적으로 통합하는 한편, 아시아와 미주 지역의 공인 파트너 수를 줄이고 있습니다.",
@@ -4815,7 +4815,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
@@ -4830,7 +4830,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "2. TSMC, 2027년 가격 인상 경고: TSMC는 주요 클라우드 및 네트워킹 고객에게 2027년 웨이퍼 가격을 전 품목에 걸쳐 10% 인상할 예정이라고 통보한 것으로 알려졌습니다. 이는 기반 IC 및 패키징 비용의 상승세가 당분간 지속될 것임을 시사합니다. [출처: CNA]",
@@ -4845,7 +4845,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "3. 메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",

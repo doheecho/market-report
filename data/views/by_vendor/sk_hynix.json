@@ -178,7 +178,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "메모리 모듈의 수요 부진이 지속되면서 제조사들의 전략이 바뀌고 있습니다. Micron과 Hynix는 가격 하락을 줄이기 위해 DRAM과 NAND 생산을 축소했습니다. 한편 삼성전자는 생산을 계속하고 있지만 매 분기 하락에도 불구하고 가격 하락에 제동을 걸었습니다. 이러한 조치는 수요가 증가하지 않았음에도 이루어진 것입니다.",
@@ -210,7 +210,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "다른 업체들은 공급 과잉을 해결하기 위해 감산을 유지하고 있지만, SK Hynix는 자사의 전략이 SSD 및 HDD 시장의 회복 전망에 더 잘 부합할 것이라고 밝히고 있습니다.",
@@ -241,7 +241,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "DDR5에 영향을 미치는 공급 부족에도 불구하고, 삼성은 1분기 영업이익이 무려 95.8%나 급감하자 4월 7일 신규 감산을 발표했습니다. 이 발표는 중국이 Micron에 대한 보안 조사를 시작한 것과 맞물려 메모리 시장 전반에 걸쳐 엇갈린 반응을 불러일으켰습니다. 삼성과 SK Hynix 모듈의 가격 하락세는 이후 둔화되었습니다. 벤더들은 이것이 메모리 시장 수요에 절실히 필요한 재충전의 기회가 되기를 희망하고 있습니다.",
@@ -260,7 +260,7 @@
   {
     "year": 2023,
     "month": 9,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
@@ -295,7 +295,7 @@
   {
     "year": 2024,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "SK 하이닉스, Micron, 삼성이 HBM 생산에 주력하면서 DDR3 공급이 부족해졌습니다.",
@@ -343,7 +343,7 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "고대역폭 메모리(HBM)는 메모리 시장에 중대한 변화를 불러오고 있으며, Micron과 SK 하이닉스와 같은 제조사들은 2024년도 생산량이 모두 매진되었습니다.",
@@ -371,7 +371,7 @@
   {
     "year": 2024,
     "month": 8,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "AI 고객의 수요가 지속됨에 따라 Micron, 삼성, SK 하이닉스는 계속해서 메모리 가격을 조정하고 있습니다. 이러한 제조사들이 전략적으로 생산력을 새로운 구성 요소로 전환하면서, 고객은 기존 메모리 모델에 대한 EOL(수명 종료) 공지에 대비하고 있습니다.",
@@ -564,7 +564,7 @@
   {
     "year": 2025,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "SK 하이닉스: 현재 Infinitesima의 AFM 계측 기술을 HBM4E 적층에 통합 중이며, 16레이어 하이브리드 본딩으로 높은 수율을 실현하고 있습니다. 하이닉스는 COMPUTEX Taipei 2025에서 12레이어 HBM4 및 HBM3E 솔루션을 선보였습니다.Bits & Chips 기사",
@@ -592,7 +592,7 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "SK 하이닉스는 인공지능을 위해 설계된 맞춤형 HBM 메모리 칩 시장이 2030년까지 매년 30% 성장할 것으로 전망했습니다.",
@@ -623,7 +623,7 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "SK하이닉스는 AI용 맞춤형 HBM 메모리 칩 시장이 2030년까지 연 30% 성장할 것으로 전망하고 있습니다. 이들은 이제 HBM4E 적층을 위해 Infinitesima의 원자힘 현미경(AFM) 계측을 통합하여 16레이어 하이브리드 본딩에서 높은 수율을 달성하려 하고 있습니다. [출처: 로이터]",
@@ -670,7 +670,7 @@
   {
     "year": 2025,
     "month": 10,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "삼성과 SK하이닉스: 양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
@@ -717,7 +717,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 공급난 전망, 2027년까지 장기화: 주요 OEM 및 엔터프라이즈 고객들은 이제 DRAM/NAND 공급난이 기존 예상, 2026년이 아니라 2028년까지 장기화될 것으로 전망하고 있습니다. 삼성, SK하이닉스, 키옥시아는 이미 2026년 NAND 생산능력이 전량 판매 완료된 것으로 전해지며, 하이퍼스케일러들과 2027년 물량 배정을 협의 중입니다.",
@@ -734,7 +734,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "SK하이닉스는 H200 수출 승인으로 가장 큰 수혜를 보고 있습니다. SK하이닉스가 H200에 사용되는 5세대 고대역폭 메모리(HBM3E)의 주요 공급사로 알려져 있어, 공급 물량이 불가피하게 증가하며 최대 수혜자가 될 것이라는 관측입니다. [소스: 트렌드포스]",
@@ -747,7 +747,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 위기가 초인플레이션 단계로 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
@@ -764,7 +764,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 부족이 자동차 산업으로 확산: 마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
@@ -794,7 +794,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 위기, \"사후 정산(Post-Settlement)\" 체제로 전환: DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기‑ 및 NCNR 계약에 사후 정산‑ 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격‑ 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
@@ -811,7 +811,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. 반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
@@ -833,7 +833,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
@@ -869,7 +869,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조사 뉴스 및 업데이트",
     "subheading": "",
     "text": "· Applied Materials는 인공지능 및 고성능 컴퓨팅에 핵심적인 차세대 반도체 개발을 위해 메모리 칩 기업 Micron Technology 및 SK Hynix와 협력하고 있다. Micron과 SK Hynix는 Applied Materials의 연구 센터인 Equipment and Process Innovation and Commercialization(장비 및 공정 혁신 및 상용화), 즉 EPIC Center에서 해당 반도체 개발을 위한 창립 파트너로 참여하게 된다. [출처:ChannelNewsAsia]",
@@ -883,7 +883,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
@@ -930,7 +930,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "NVIDIA의 Vera Rubin 플랫폼은 열 커버(thermal-lid) 제조 문제로 인해 대량 출하가 수 주 지연됐다. 여기에 Rubin의 288GB HBM4 구성에 대한 SK하이닉스 HBM4 인증이 예상보다 늦어지면서 지연 요인이 추가됐다. 한편 NVIDIA는 Rubin Ultra용 Kyber 랙이 2028년까지 지연된다는 별도 보도에 대해 사실이 아니라고 반박하며, 자사의 로드맵은 “변함없이 유지되고 있다”고 밝혔다. [출처: Memeburn]",
@@ -944,7 +944,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",

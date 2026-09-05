@@ -2,7 +2,7 @@
   {
     "year": 2022,
     "month": 1,
-    "category": "기타",
+    "category": "Passive",
     "section_raw": "Intro",
     "subheading": "",
     "text": "리드 타임 연장은 새삼스러울 것 없는 뉴스지만, SFG(Susquehanna Financial Group)의 12월 보고서에 따르면 평균 리드 타임은 현재 25.8주로, 2018년도 당시 전례 없는 수치로 증가했다던 MLCC 공급 부족 시기보다 10주나 더 길어졌습니다. 25.8주라는 기록적인 리드 타임이 발생한 원인은 코로나19로 인한 공장 폐쇄, 극단적인 기상 여건, 지정학적 요인, 기타 등등의 이유를 비롯하여, 거의 2년간에 걸쳐 제조업체에 영향을 미친 공급망 문제가 절정에 이르렀기 때문입니다.",
@@ -1465,7 +1465,7 @@
   {
     "year": 2022,
     "month": 3,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Raspberry Pi 제품 RPI3B+, RPI3-MODBP 및 CM3+ 16GB/32GB는 교육 및 제조 부문에서 수요가 많았습니다. 이 시리즈에 대한 수요가 증가함에 따라 제작 완료에 어려움이 있습니다. 이 어려움은 Broadcom 칩 공급 부족으로 인한 Raspberry Pi 제품의 IC 게이팅 문제에서 비롯됩니다. Broadcom은 Raspberry Pi 제품을 위해 특수 제작된 부품을 설계했으며, 현재 리드 타임이 1년에서 2년으로 연장되었습니다.",
@@ -3598,7 +3598,7 @@
   {
     "year": 2022,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
@@ -3819,7 +3819,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "STMicroelectronics는 봉쇄로 인해 1분기에 2주 분량의 생산분이 손실된 것으로 알려졌습니다.",
@@ -3832,7 +3832,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Micron",
@@ -3845,7 +3845,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Micron은 성명을 통해 상하이의 코로나19 제한 조치로 인해 생산이 지연되고 있음을 밝혔습니다. 특히 NOR Flash 조립 및 테스트 하청업체 생산 라인의 가동이 잠정 중단되었습니다. 이는 Micron의 공급망에 도미노 효과를 초래하여 MT25QU 및 MT25QL 시리즈를 포함한 NOR Flash 제품 전반에 리드 타임 연장과 가격 상승을 불러올 것으로 예상됩니다.",
@@ -3861,7 +3861,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "그 외에도 Micron의 예상 생산 90%가 출하 일정이 정해지지 않았다는 소문이 돌고 있습니다.",
@@ -3887,7 +3887,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Intel SSD의 상당 부분이 상하이 자유무역지역에서 생산되고 있습니다. 하지만 봉쇄로 인해 선적품이 해당 지역에서 출발하지 못하고 있는 상황입니다.",
@@ -4582,7 +4582,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Mellanox은 NIC 제품의 가격 인상에 보수적인 태도를 보여 지금까지 가격 상승폭을 적게 유지해 왔습니다. 하지만 생산용량제한으로 발생한 심각한 공급 격차와 높은 수요로 인해 25~30%에 달하는 가격 인상이 예상됩니다. 지금까지의 전략적 가격 조정 방식에도 불구하고 제조 라인 전반에 걸친 지원의 부족이 Mellanox의 파이프라인에 타격을 주었습니다.",
@@ -4643,7 +4643,7 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다. 이전 보고서에 따르면 Sapphire Rapid CPU 출시는 2022년 후반으로 미뤄졌지만 계속되는 공급망 장애로 인해 출시는 다시 한번 미뤄졌습니다. 보고서가 정확하다면 Sapphire Rapid 및 Emerald Rapid 시리즈 CPU는 모두 2023년에 출시될 예정입니다. Intel이 최신 시리즈 쪽으로 생산 지원을 전환한다는 사실은 고객이 Cascade Lake 및 Cascade Lake (R)를 더 이상 이용할 수 없기 전 향후 2~3년 내에 전환해야 한다는 것을 의미합니다. 이미 Sapphire Rapid로 전환할 의도를 가지고 Ice Lake로 전환한 고객은 Sapphire Rapid가 출시될 때까지 예상했던 것보다 더 오래 현재 CPU 시리즈를 사용해야 합니다.",
@@ -4657,7 +4657,7 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "단기적인 우려로는 Intel이 이 시리즈에 대한 지원을 늦추면서 많은 고객이 Ice Lake 시리즈 시장으로 밀려와 수요와 공급 사이의 불균형을 초래할 것이라는 점이 있습니다. 결과적으로 이는 부품에 대한 프리미엄 가격을 동반하는 리드 타임 및 예약 증가로 이어질 것입니다.",
@@ -4672,7 +4672,7 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Intel 이더넷 컨트롤러과 칩셋 제품 전반에 걸친 시장의 공급 불일치는 2023년까지 지속될 것으로 예상됩니다. 이러한 불일치는 대부분 Intel의 출하 지연으로 인한 것이며 이는 대규모 적체로 이어집니다. 매월 변동하는 수요 또한 적체 및 가격 인상의 주요 요인입니다. 그러나 7월 중순까지 Intel의 이더켓 컨트롤러 XL710-BM1이 더 많이 출하되고, 매우 수요가 높은 Intel 이더넷 커넥터 I219-LM (WGI219LM)에 대한 지원이 개선될 것입니다. 이를 통해 단기적으로 상황이 완화될 가능성이 있지만, 지속적인 공급 불일치가 곧 개선될 것으로 기대되지는 않습니다.",
@@ -4738,7 +4738,7 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "부품 및 칩셋의 높은 비용으로 인해 Intel은 여러 이더넷 카드 시리즈의 가격을 20~30% 인상했습니다. 특히 10GbE 데이터 속도 이하 모델은 20%, 25GbE 모델은 최대 30%까지 가격이 인상되었습니다. 더 높은 모델의 경우 가격 인상은 없지만, 공급이 제한되어 있고 100GbE 이상은 할당 분배를 기반으로 합니다.",
@@ -4754,7 +4754,7 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Intel의 I350T2V2 및 I350T4V2 저속 모델에 대한 소비자 수요는 여전히 높습니다. 그러나 이러한 카드를 제조하는 데 필요한 이더넷 칩셋과 기타 보드 레벨 부품의 공급 제한은 완제품 가용성에 영향을 미치고 있습니다.",
@@ -4963,7 +4963,7 @@
   {
     "year": 2022,
     "month": 8,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "중국 고객들이 주문을 취소하거나 서버 CPU 프로젝트를 연기함에 따라 가격 하락과 함께 공급 상황이 서서히 좋아지고 있습니다. 리드 타임 배송은 변화하는 예측과 더 높은 재고 수준의 영향을 받을 수 있으나 전체적인 추세를 보면 현재 시장을 활용하고자 하는 고객이 이득을 볼 수 있을 것으로 예상됩니다.",
@@ -5005,7 +5005,7 @@
   {
     "year": 2022,
     "month": 8,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "중국 내 수요로 인해 11세대 Rocket Lake와 12세대 Alder Lake에 대한 관심이 높아졌으며 더 많은 고객이 소싱을 위해 공개 시장으로 가고 있습니다. 또한, Intel의 10세대 Comet Lake 데스크톱 CPU는 i5-10400, i5 –10500 및 i7-10700와 같은 상위 모델에 대해 더 많은 문의를 받고 거래를 하고 있습니다. 10세대 Comet Lake 데스크톱 CPU는 2020년에 출시되었으며 해당 제품의 수명 주기는 거의 끝나가고 있습니다. 이 부품에 대해 지속적인 수요가 있는 고객들은 공급이 중단되기 전에 재고를 구매해야 합니다. 11세대 Rocket Lake의 가격이 2% 이상 상승했음에도 불구하고 여전히 Intel 데스크톱 CPU 고객은 비용 절감 기회를 이용할 수 있습니다.",
@@ -5057,7 +5057,7 @@
   {
     "year": 2022,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Intel의 경우 네트워크 어댑터 카드용 칩셋의 가용성이 향상되었습니다. 그러나 특히 I350T2V2 모델의 경우, 전반적으로 보드용 부품을 구하는 것은 여전히 어렵습니다. 공급 부족은 3분기까지 지속되고 4분기에는 완화될 것으로 예상됩니다. 그 사이에 가격은 제조 비용과 함께 상승할 것으로 예상됩니다.",
@@ -5370,7 +5370,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Xeon CPU & 칩셋 \t2022년 10월 2일\tXeon SP: Bronze & Silver – 5%, Platinum & Gold 7%~10% Xeon D: 2~10%",
@@ -5381,7 +5381,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Xeon E: 5%",
@@ -5392,7 +5392,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "칩셋: 7%",
@@ -5414,7 +5414,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "클라이언트 CPU & 칩셋  \t2022년 10월 2일\t모바일 SIPP 프로세서 0% (인상 없음)",
@@ -5425,7 +5425,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "기타 코어 프로세서 10%",
@@ -5447,7 +5447,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "워크스테이션 Xeon W 10%",
@@ -5508,7 +5508,7 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "또한 대부분의 Intel 칩셋은 대만에서 제조되는데, 이는 대만과 중국 사이의 긴장이 고조되는 경우 공급 문제를 야기할 수 있습니다. 중국이 대만 주변을 둘러싸며 군사 훈련을 실시하고 있어 이미 시장에서는 납품 지연의 형태로 그 영향이 일부 나타나고 있을 수도 있습니다.",
@@ -6215,7 +6215,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다.",
@@ -6289,7 +6289,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "SAK MCU",
@@ -6311,7 +6311,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "대조적으로 Microchip MCP 시리즈는 생산으로 재고 수준이 보충됨에 따라 리드 타임이 단축되었습니다. PIC12와 16 시리즈의 리드 타임은 8~12 주로 개선된 반면, PIC24와 25 시리즈는 20주를 상회하여 시장에서 여전히 공급이 부족한 상태입니다.",
@@ -6338,7 +6338,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Toshiba Electronic Devices & Storage Corporation의 발표에 따르면, 일본에 있는 Toshiba 시설에서 9월 11일에 정전이 발생하였습니다. 전력 시설을 검사하는 동안 정전으로 인해 생산 중단이 발생하였습니다.",
@@ -6351,7 +6351,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다.",
@@ -6399,7 +6399,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX",
@@ -6452,7 +6452,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "완제품",
     "subheading": "",
     "text": "SSD에 대한 주문 감소로 시장 압박이 완화되며 지난 몇 주 동안에 가격 하락 추세를 보였습니다. 산업 수요가 높은 240GB 및 480GB SATA 모델고 같은 부품을 포함하는 보드 전반에 걸쳐 대부분의 제조업체 고객들은 비용 절감의 기회를 맞이하고 있습니다.",
@@ -6465,7 +6465,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Samsung PM883 시리즈에 대한 재고가 증가하였으며, 공개 시장 가격은 공식 제조업체 가격보다 10~15% 낮게 형성되어 있습니다. 또한 예전에 부족한 S4510에 대한 공급 문제도 완화되어 가격이 약 5~10% 개선되었습니다. 마찬가지로 스토리지 구성품의 재고 확대가 Intel에 부담을 주고 있으며, Intel은 더 많은 수량의 수요 내에서 가격 협상에 대한 여유를 두기 위해 재고 감소를 모색하고 있습니다.",
@@ -6492,7 +6492,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "메모리 모듈 시장에서 수요가 개선되지 않음에도 불구하고 제조업자들은 여전히 벤더에게 더 많은 주문을 요구하려고 합니다. 이로 인해 벤더는 더 많은 재고를 보유하고 있습니다. 따라서 벤더는 손실을 보며 재고를 처리할 수 밖에 없으며, 시장 가격이 공시 가격보다 10~20% 더 낮은 것은 이를 반영합니다.",
@@ -6514,7 +6514,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "수요가 회복될 때만 오픈 마켓에서 수요가 증가할 확률이 높으며, 이는 4분기까지 변화가 없을 것으로 예상됩니다. 메모리 모듈 시장은 2023년 중반까지 대체로 회복되지 않을 것이라고 예상됩니다.",
@@ -6564,7 +6564,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "GeForce GPU에 대한 수요가 예상보다 훨씬 더 감소하고 있고 제조업자들이 예상치를 조정함에 따라 GPU 시장에서 파급 효과가 나타나고 있습니다. 다음 달 내에 출시될 새로운 RTX4090 GPU에 대한 가격 충격을 완화하기 위해 Nvidia는 AIC 파트너로부터 RTX3090, RTX3080Ti 및 RTX 3080 12GB용 칩셋 재고를 회수하였습니다. 이는 GPU 모델 간의 경쟁 완화에 도움이 될 뿐만 아니라 시장에서 RTX 30 시리즈에 대한 단계적 철수를 계속함에 따라 새로운 모델의 출시를 준비하기 위한 전략입니다.",
@@ -6577,7 +6577,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "다른 뉴스에서 Nvidia와 EVGA 회사의 파트너십이 정리되었다는 보도가 있었습니다. 역사적으로 EVGA는 Nvidia를 위해 GeForce 기반의 비디오 카드를 제조했지만 현재는 GPU 사업에서 멀어지면서 대신 더 많은 수익을 내는 제품에 집중하게 될 것입니다. EVGA는 당분간 RTX 3000 시리즈와 같은 GeForce GPU에 대한 지원을 제공하겠지만, 재고가 모두 소진되면 파트너십을 종료할 예정입니다.",
@@ -6590,7 +6590,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "미국 정부는 중국 및 러시아에 고급 GPU 수출을 금지하는 새로운 라이센스 요건을 NVIDIA와 AMD에 부과했습니다. 홍콩을 포함한 중국에 대해 향후 모든 선적을 금지하는 이러한 행정 명령은 즉시 효력을 발휘하며 출시 예정인 H100 집적 회로에 영향을 주게 됩니다. A100 또는 H100 칩을 사용하는 DGX/EGX/HGX 시스템뿐만 아니라 A100X도 또한 신규 라이센스 요건의 대상입니다.",
@@ -6604,7 +6604,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "영향받는 Nvidia GPU 모델:",
@@ -6617,7 +6617,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "A100 가속기 카드",
@@ -6628,7 +6628,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "H100 가속기 카드",
@@ -6639,7 +6639,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "A100X 컨버지드 가속기 카드",
@@ -6650,7 +6650,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템",
@@ -6663,7 +6663,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
@@ -6689,7 +6689,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "행정 명령 발표 이전에 A100 80GB 모델은 과공급 상태였지만 현재 벤더들은 수요의 폭증을 예상하여 재고를 묶어두고 새로운 선적이나 견적을 중단하고 있습니다. 최종 고객 및 중개인 양측 모두로부터 문의가 쇄도함에 따라 결과적으로 시장 활동이 증가했으며 대부분의 오픈 마켓 물량은 신속히 판매되고 있습니다.",
@@ -6700,7 +6700,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "금지된 모델뿐만 아니라 특히 데이터 센터 및 AI 컴퓨팅용 Tesla 시리즈를 포함한 기타 GPU에 대한 시장 가격이 지속적으로 상승할 것이라는 추측이 지배적입니다.",
@@ -6742,7 +6742,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Xeon E: 5%",
@@ -6753,7 +6753,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "칩셋: 7%",
@@ -6775,7 +6775,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "완제품",
     "subheading": "",
     "text": "클라이언트 CPU 및 칩셋",
@@ -6834,7 +6834,7 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "전반적으로, 저장 장치 시장 활동은 고객과 공급업체가 더 많은 재고를 보유해야 함에 따라 감소 추세에 있습니다. Intel과 삼성의 오픈 마켓 가격은 모든 밀도에서 최소 5~10% 하락했지만 저용량(240G, 480G 및 960G)이 가장 큰 폭의 하락을 보였습니다. 벤더들은 이들 제품의 생산이 양호하고 오픈 마켓에서 쉽게 공급이 가능하다고 밝혔습니다.",
@@ -6848,7 +6848,7 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "벤더들은 삼성 PM883 1.92T 이상과 같은 고밀도 SSD에 대한 현물 문의와 수요가 증가하는 것을 확인하고 있습니다. PM883 1.92TB의 가격은 제조업자가 시리즈를 중단하고 결과적으로 재고가 소진됨에 따라 10~15% 인상되었습니다. 64단 플래시 가격은 안정되었고 NAND 기술을 사용하는 SSD 제품 가격은 공급 과잉 상태임에도 불구하고 당분간은 변동이 나타나지 않을 것으로 예상됩니다. 이에 비해 112단 플래시를 사용하는 제품은 가격 협상의 여지를 더 크게 남겨 두고 있습니다.",
@@ -6861,7 +6861,7 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "지난달과 마찬가지로 메모리 모듈 시장 내 수요 약세가 지속되고 있습니다. 많은 벤더가 직접 제조업자와 백투백 주문(back-to-back order)을 받고 있으며 가격은 지속적으로 하락하고 있습니다. 그 결과, 오픈 마켓에서 비용 절감 기회를 찾는 활동이 증가했습니다.",
@@ -6885,7 +6885,7 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "GPU 시장 내 수요는 지난 몇 분기 동안 부진했습니다. 이로 인해 재고가 증가하여 벤더들은 RTX 3000과 같은 시리즈의 공급 과잉을 해소하기 위해 애쓰는 과정에서 손실을 보게 되었습니다. RTX 4000이 발표된 이후 대부분의 벤더는 이전 시리즈 GPU의 대부분을 축소했다고 밝혔습니다. RTX 4000 시리즈의 출시로 GPU 시장 전반에서 수요가 활성화되기를 기대하는 것입니다.",
@@ -6896,7 +6896,7 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "고급 RTX 30 시리즈에 대한 단종 부품(EOL) 공지가 시장을 강타하면서 RTX 3089 및 RTX 3080 12GB의 블로어 에디션에 대한 수요가 증가했습니다. 전반적인 수요 약세로 인해 시장 가격은 여전히 나쁜 상황입니다. 공급은 더 부족해질 것으로 예상되지만, 신규 모델의 높은 전력 소비로 인해 열 소산 문제를 해결하는 데 시간이 걸리면서 새로운 RTX 40 시리즈 출시에는 몇 가지 복잡한 문제가 있었습니다.",
@@ -6910,7 +6910,7 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "전문가용 카드의 경우 RTX 4000, RTX A4000 및 A5000에 대한 현물 수요가 시장에서 확인되었습니다. 벤더들은 가격 지원을 위해 공장과 협상하여 고객들의 일부 비용 절감 요구를 반영할 수 있었습니다. 이전 예로 레거시 모델인 Tesla T4의 상황을 들 수 있습니다.",
@@ -7262,7 +7262,7 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "원가 절감의 기회가 있기는 하지만 메모리와 저장 장치 시장의 수요는 여전히 하향 곡선을 유지하고 있습니다. 추측에 따르면 메모리 시장의 이러한 추세가 2023년 2분기까지는 계속 될 수 있습니다.",
@@ -7273,7 +7273,7 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "많은 고객들이 배송을 취소하거나 지연시키고 있는 실정이지만 오픈 마켓의 공급은 여전히 안정되어 보입니다. 메모리 모듈의 공식 가격이 지난 3개월 간 8%~12% 지속적으로 하락하고 있는 반면 오픈 마켓의 가격은 변동이 심화되어 거의 매일 변하고 있습니다. 유통업체들은 제조업체로부터 대부분 연속 구매 형식으로 주문을 유지하여 가격 하락의 위험을 그나마 줄이고 있습니다.",
@@ -7286,7 +7286,7 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "저장 장치 시장의 경우 고객의 저장 장치 수요는 서버 저장 장치 수요보다 한참 줄었고, 벤더들이 공개한 자료에 따르면 노트북 저장 장치 수요가 급감했습니다. 그 결과 벤더들은 초과 재고를 처리하고 결국 손해 보는 거래를 하고 있는 실정입니다.",
@@ -7297,7 +7297,7 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다. 시장 가격은 15%~20%씩 점차 하락하고 있습니다. 내부 시스템이 Intel에서 Solidigm으로 옮겨가고 있기 때문에 시스템 자체의 구동이 중지되고 있어 앞으로 시장의 흐름이 잠정 지체될 전망입니다.",
@@ -7324,7 +7324,7 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "RTX 4090에 대한 고객들의 초반 후기는 대부분 긍정적이었고 벤더들은 제조업체로부터 첫 번째 할당 제품을 즉시 구매했습니다. 후속 수요에 관해, 현재로선 확정된 납품이 없는 상태입니다. 현재 과열 문제로 인해 주문이 지체되고 있다는 추측성 뉴스가 돌고 있기 때문에 Nvidia가 문제를 파악하고 해결하는 과정에 있습니다.",
@@ -7339,7 +7339,7 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "기타",
+    "category": "GPU",
     "section_raw": "Intro",
     "subheading": "",
     "text": "초반에 RTX 4090에 대한 관심이 있었지만 이전 세대 RTX 3080과 3090, 특히 블로어 에디션에 대한 수요가 강한 편입니다. 이러한 제품들은 RTX 4090의 저가 버전이지만 제조업체들이 더이상 이 모델의 주문을 받지 않기 때문에 구하기가 어렵습니다. Nvidia가 높은 마진율 때문에 Hopper H100 GPU의 생산에 집중하고 있다는 소문이 도는 가운데 수요가 공급을 선회할 경우 RTX 4090의 가용성에도 영향을 미칠 전망입니다.",

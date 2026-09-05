@@ -583,7 +583,7 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "5 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
     "text": "PC 시장 호황으로 Wi-Fi 모듈 수요가 늘면서 1분기에 모든 Intel WLAN과 Wi-Fi 카드 전반에 걸쳐 공급이 악화되고 있습니다. Wi-Fi 생산은 많은 부품에 필요한 28nm 웨이퍼에 대한 IoT 및 5G 세그먼트와의 경쟁으로 인해 방해를 받았습니다. 여기에는 CMOS 센서, RF 구성부품 및 Bluetooth 칩셋이 포함됩니다.",
@@ -2963,7 +2963,7 @@
   {
     "year": 2021,
     "month": 6,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다.",
@@ -3654,7 +3654,7 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
     "text": "더욱이, Intel은 현재 모바일 CPU 부문에서 AMD를 상대로 경쟁하면서 고객의 눈길을 받고자, 기판 공급에 할당하던 자원을 모바일 CPU 생산으로 더 많이 돌리고 있습니다. 결과적으로, Intel은 네트워크 카드에서 점점 다른 곳으로 주력 종목을 옮기고 있어, 이더넷 카드 공급이 빠듯해지고 리드 타임이 길어지고 있습니다.",
@@ -5020,7 +5020,7 @@
   {
     "year": 2021,
     "month": 9,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
     "text": "LCD는 앞선 여러 달과 같이 여전히 부족한 상황입니다. 계속되는 IC 재료 공급 부족으로 인한 생산량 감소가 여전히 주요 원인입니다.",
@@ -5470,7 +5470,7 @@
   {
     "year": 2021,
     "month": 11,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
     "text": "서버 제작에 필요한 이더넷 컨트롤러 제품 전반에 걸쳐 수요가 계속됨에 따라 IC, 웨이퍼 및 기판의 공급 부족이 Intel의 주요 제조 장애 요인으로 이어졌습니다. 단종 공지는 고객에게 제품을 인도하기 위한 공급을 유지하고 통합하고자 Intel의 대용량 제품에 대한 수요에 따라 이루어지는 조치입니다. 이 공지는 Intel의 X550-AT2, X540-AT2, X557-AT2, X710-BM2 시리즈 컨트롤러에 영향을 미칩니다.",
@@ -6214,7 +6214,7 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "네트워크 어댑터 카드 공급은 악화일로의 글로벌 IC 공급 부족에 의해 계속 영향을 받고 있습니다. Intel, Mellanox, Broadcom의 어댑터 카드 가격은 품귀 현상으로 급등하고 있습니다. 이런 추세는 또한 대체 카드와 다양한 제조업체 부품으로 확산되고 있습니다.",
@@ -6231,7 +6231,7 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "예를 들어, Intel은 유통업체에게 일부 저용량 모델의 경우 네트워크 어댑터 카드에 대해 한 번 더 가격 인상이 예상된다고 통보했습니다. 특정 이더넷 칩셋에 대한 EOL 발표와 관련하여, Intel은 생산 라인업을 단순화하기 위해 일부 어댑터 카드의 단종을 발표했습니다. 이는 궁극적으로 애플리케이션 시장을 압박하여 대량 양산 제품으로 업그레이드하도록 만들 것입니다.",
@@ -6247,7 +6247,7 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "Mellanox는 리드 타임이 28nm 웨이퍼 공급 부족으로 인해 NICx4 및 NICx5 시리즈 카드에 대해 1년에서 1.5년으로 늘어남에 따라 어댑터 카드 주문 적체에 대처하기 위해 애쓰고 있습니다. 일반적으로 부품 공급 부족은 예약 리드 타임에도 영향을 미치며, 이 리드 타임은 공식적으로 모든 시리즈에 대해 기본 12~16주에서 26-32주로 연장되었습니다. 주문 이행 부족으로 인해 최종 고객으로부터 압력이 있으며, 이는 Mellanox를 압박하여 부품에 대해 유통업체를 엄격하게 통제하도록 만들고 있습니다. 이는 가격과 관계없이 오픈 마켓 가용성을 제한하고 있습니다.",
@@ -6263,7 +6263,7 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "레크리에이션, 교육, 산업 애플리케이션에 대한 사용량 증가로 인해 Raspberry Pi 컴퓨팅 모듈에 대한 수요가 크게 증가하고 있습니다. 특히 Raspberry Pi 3 Model B+와 Raspberry Pi 4 Model B 2GB의 수요가 높아지고 있습니다. 회사와 학교가 대부분 재택으로 이동함에 따라 두 시리즈 모두 전염병의 영향을 크게 받고 있습니다. Raspberry Pi 컴퓨팅 모듈은 마우스, 키보드, TV, 다양한 모니터 등과 호환되며, 저렴한 비용, 접근성 및 다용도성으로 인기가 높습니다. 각 시리즈는 프로세서에 따라 각기 다른 속도로 작동하며 각기 다른 네트워크 호환성과 기능을 가지고 있습니다.",

@@ -239,7 +239,7 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Renesas 및 NXP의 차량용 집적 회로에 대한 공급 부족이 계속되고 있습니다.",
@@ -326,7 +326,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
@@ -436,7 +436,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
@@ -468,7 +468,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",

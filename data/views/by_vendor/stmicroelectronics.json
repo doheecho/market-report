@@ -83,7 +83,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "STMicroelectronics는 봉쇄로 인해 1분기에 2주 분량의 생산분이 손실된 것으로 알려졌습니다.",
@@ -138,7 +138,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "이와 마찬가지로 수요가 많은 STM 부품도 개선의 여지가 보이지 않고 있으며 현재 이 상황은 향후 6개월간 계속될 것으로 예상됩니다. STM의 F4, MCU, SPC 시리즈를 비롯해 특히 자동차 부품은 가장 큰 폭의 수급 불균형을 보여주고 있습니다. STM32의 공급 역시 현 시장 내에서 특히 불안정합니다. 특히 F4 시리즈의 경우 리드 타임과 재고 물량이 힘든 할당의 영향을 받고 있습니다.",
@@ -248,7 +248,7 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2025년 2월그린시트는 Fusion Worldwide가 주기적으로 발행하는 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 2월 호에서는 7개 제품 그룹의 심층적인 트렌드 업데이트와 STMicroelectronics,인텔(Intel), AMD, Nvidia 등 주요 제조업체에 대한 통찰을 제공합니다. 그리고 변화하는 글로벌 공급망 혼란과 가격 변동의 잠재적 영향도 탐구합니다.",
@@ -264,7 +264,7 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "STMicroelectronics는 수요 감소와 시장 침체로 인해 이탈리아와 프랑스에서 2,000~3,000명의 직원 감축을 계획하고 있습니다.",
@@ -277,7 +277,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2025년 3월 그린시트는 Fusion Worldwide가 주기적으로 발행하는 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 2월 호에서는 7개 제품 그룹의 심층적인 트렌드 업데이트와 STMicroelectronics,인텔(Intel), AMD, Nvidia 등 주요 제조업체에 대한 통찰을 제공합니다. 그리고 변화하는 글로벌 공급망 혼란과 가격 변동의 잠재적 영향도 탐구합니다.",
@@ -293,7 +293,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "2. STMicroelectronics, 4월 26일부터 가격 인상: STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.",
@@ -343,7 +343,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Passive",
     "section_raw": "Intro",
     "subheading": "",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
@@ -365,7 +365,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]",

@@ -196,7 +196,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Micron",
@@ -209,7 +209,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Micron은 성명을 통해 상하이의 코로나19 제한 조치로 인해 생산이 지연되고 있음을 밝혔습니다. 특히 NOR Flash 조립 및 테스트 하청업체 생산 라인의 가동이 잠정 중단되었습니다. 이는 Micron의 공급망에 도미노 효과를 초래하여 MT25QU 및 MT25QL 시리즈를 포함한 NOR Flash 제품 전반에 리드 타임 연장과 가격 상승을 불러올 것으로 예상됩니다.",
@@ -225,7 +225,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "그 외에도 Micron의 예상 생산 90%가 출하 일정이 정해지지 않았다는 소문이 돌고 있습니다.",
@@ -377,7 +377,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "메모리 모듈의 수요 부진이 지속되면서 제조사들의 전략이 바뀌고 있습니다. Micron과 Hynix는 가격 하락을 줄이기 위해 DRAM과 NAND 생산을 축소했습니다. 한편 삼성전자는 생산을 계속하고 있지만 매 분기 하락에도 불구하고 가격 하락에 제동을 걸었습니다. 이러한 조치는 수요가 증가하지 않았음에도 이루어진 것입니다.",
@@ -394,7 +394,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "Intro",
     "subheading": "",
     "text": "생산을 양호하게 유지하기 위해 Kioxia 및 Micron과 같은 제조업체는 생산량을 줄이고 있으며 웨이퍼 생산 축소를 발표했습니다. 이러한 축소가 시장에 균형을 가져오기에 충분할 것인지는 확실하지 않습니다. 최근, 제조 라인에 들어간 웨이퍼는 약 4분의 1에 대해서는 공정이 유지될 것이므로 축소 효과가 영향을 미치려면 어느 정도 시간이 걸릴 것입니다.",
@@ -410,7 +410,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "DDR5에 영향을 미치는 공급 부족에도 불구하고, 삼성은 1분기 영업이익이 무려 95.8%나 급감하자 4월 7일 신규 감산을 발표했습니다. 이 발표는 중국이 Micron에 대한 보안 조사를 시작한 것과 맞물려 메모리 시장 전반에 걸쳐 엇갈린 반응을 불러일으켰습니다. 삼성과 SK Hynix 모듈의 가격 하락세는 이후 둔화되었습니다. 벤더들은 이것이 메모리 시장 수요에 절실히 필요한 재충전의 기회가 되기를 희망하고 있습니다.",
@@ -429,7 +429,7 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "완제품",
     "subheading": "",
     "text": "서버 모듈 수요가 꾸준히 증가하고 있고, 이는 중국의 Micron 제품 일부 금지 조치의 영향입니다. 해당 조치로 가용성 제한에 대비하여 제품을 비축하는 고객도 있습니다. 서버 모듈 가격이 사상 최저 수준에 도달했지만 더는 하락하지 않고 멈췄기에 안전 재고를 마련하고자 오픈 마켓으로 눈을 돌리는 경우도 늘었습니다.",
@@ -455,7 +455,7 @@
   {
     "year": 2023,
     "month": 11,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Micron은 비용 조정을 시행할 계획으로 DRAM 주문의 배송을 연기한 것으로 알려졌습니다. 회사는 10%에서 15% 사이의 가격 인상을 예상하고 있습니다.",
@@ -502,7 +502,7 @@
   {
     "year": 2024,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "SK 하이닉스, Micron, 삼성이 HBM 생산에 주력하면서 DDR3 공급이 부족해졌습니다.",
@@ -550,7 +550,7 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "고대역폭 메모리(HBM)는 메모리 시장에 중대한 변화를 불러오고 있으며, Micron과 SK 하이닉스와 같은 제조사들은 2024년도 생산량이 모두 매진되었습니다.",
@@ -592,7 +592,7 @@
   {
     "year": 2024,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Micron은 2024년 HBM 공급이 완판되자 생산량을 늘리고 있습니다.",
@@ -650,7 +650,7 @@
   {
     "year": 2024,
     "month": 8,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "AI 고객의 수요가 지속됨에 따라 Micron, 삼성, SK 하이닉스는 계속해서 메모리 가격을 조정하고 있습니다. 이러한 제조사들이 전략적으로 생산력을 새로운 구성 요소로 전환하면서, 고객은 기존 메모리 모델에 대한 EOL(수명 종료) 공지에 대비하고 있습니다.",
@@ -700,7 +700,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "기업용 상품 업데이트",
     "subheading": "",
     "text": "데이터 센터 및 클라우드 서비스 수요: 마이크론 테크놀로지와 삼성전자의 실적 보고서에 따르면, AI 기술에 집중하는 데이터 센터 및 클라우드 서비스 제공업체들이 RDIMM 수요의 주요 원동력입니다.",
@@ -714,7 +714,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "CPU",
     "section_raw": "기업용 상품 업데이트",
     "subheading": "",
     "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다.",
@@ -746,7 +746,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "기업용 상품 업데이트",
     "subheading": "",
     "text": "데이터 센터, 클라우드 및 소비자 시장 수요: 웨스턴 디지털, 마이크론 테크놀로지, 씨게이트의 최신 실적 보고서에 따르면, 고성능 SSD 수요는 주로 데이터 센터 산업에서 주도되고 있습니다. 또한 클라우드 환경과 소비자 시장에서도 강한 성장세가 나타나고 있으며, 기업들은 데이터 처리량 증가에 대응하기 위해 컴퓨팅 인프라를 확장하고 스토리지 솔루션을 업그레이드하고 있습니다.",
@@ -761,7 +761,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "기업용 상품 업데이트",
     "subheading": "",
     "text": "수요가 높은 SSD 브랜드: 삼성, 솔리다임(Solidigm), 마이크론과 같은 브랜드가 여전히 가장 많이 요청되고 있어 고성능 및 신뢰성 있는 스토리지 솔루션에 대한 수요가 꾸준히 유지되고 있음을 보여줍니다.",
@@ -943,7 +943,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "인도는 마이크론과 폭스콘의 현지 생산 확대 등 반도체 투자 유치에 성공하고 있으며, 아마존 클라우드 사업부도 인도 주정부에 82억 달러 규모의 투자를 계획 중입니다.",
@@ -956,7 +956,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "TI, Intel, ADI, Micron 등 미국 기반 IDM 팹에 영향, 최종 조립이 해외에서 이뤄지더라도 적용됩니다.",
@@ -972,7 +972,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조사 뉴스 및 기업 업데이트",
     "subheading": "",
     "text": "Samsung과 Micron은 DRAM/NAND 가격을 인상할 것으로 예상되어 소비자 메모리 가격이 크게 상승할 전망입니다.",
@@ -1031,7 +1031,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "삼성과 Micron, MLC NAND 플래시에서 철수할 가능성 제기: 양사는 저용량 MLC 제품에서 철수할 것으로 보이며, 이로 인해 가격 상승과 주문 급증이 발생",
@@ -1151,7 +1151,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 위기가 초인플레이션 단계로 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
@@ -1168,7 +1168,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 부족이 자동차 산업으로 확산: 마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
@@ -1202,7 +1202,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다",
@@ -1215,7 +1215,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 위기, \"사후 정산(Post-Settlement)\" 체제로 전환: DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기‑ 및 NCNR 계약에 사후 정산‑ 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격‑ 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
@@ -1265,7 +1265,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
@@ -1348,7 +1348,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "제조사 뉴스 및 업데이트",
     "subheading": "",
     "text": "· Applied Materials는 인공지능 및 고성능 컴퓨팅에 핵심적인 차세대 반도체 개발을 위해 메모리 칩 기업 Micron Technology 및 SK Hynix와 협력하고 있다. Micron과 SK Hynix는 Applied Materials의 연구 센터인 Equipment and Process Innovation and Commercialization(장비 및 공정 혁신 및 상용화), 즉 EPIC Center에서 해당 반도체 개발을 위한 창립 파트너로 참여하게 된다. [출처:ChannelNewsAsia]",
@@ -1362,7 +1362,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1. 메모리 시장, 가격 변동성 속 조정 국면 진입: 1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
@@ -1379,7 +1379,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "4. 비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
@@ -1466,7 +1466,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Memory",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
@@ -1533,7 +1533,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Micron Technology와 General Motors(GM)는 차량 생산을 위한 메모리 및 스토리지 제품의 장기 공급을 확보하기 위해 전략적 고객 계약을 체결했다. [출처: DigiTimes]",
@@ -1546,7 +1546,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "Storage",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
@@ -1597,7 +1597,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "IC",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "3. Micron, 유통망 효율화: Micron은 물량 할당을 엄격히 통제하고 하이퍼스케일러 및 Tier 1 OEM과의 직접 거래 관계를 우선하기 위해 글로벌 유통업체망을 적극적으로 통합하는 한편, 아시아와 미주 지역의 공인 파트너 수를 줄이고 있습니다.",
