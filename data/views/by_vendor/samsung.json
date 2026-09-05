@@ -67,8 +67,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -363,7 +364,8 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "6 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -2524,8 +2526,9 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Passive",
+    "category": "PCB",
     "detected_categories": [
+      "PCB",
       "Passive"
     ],
     "section_raw": "수동 부품 리드 타임 연장 및 할당",
@@ -2659,8 +2662,9 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",

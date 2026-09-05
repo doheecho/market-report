@@ -137,8 +137,9 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Passive",
+    "category": "PCB",
     "detected_categories": [
+      "PCB",
       "Passive"
     ],
     "section_raw": "수동 부품 리드 타임 연장 및 할당",

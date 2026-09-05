@@ -349,9 +349,9 @@
   {
     "year": 2024,
     "month": 1,
-    "category": "기타",
+    "category": "Storage",
     "detected_categories": [
-      "기타"
+      "Storage"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -1318,9 +1318,9 @@
   {
     "year": 2024,
     "month": 3,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -2624,7 +2624,8 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "FPGA"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -3746,9 +3747,9 @@
   {
     "year": 2024,
     "month": 8,
-    "category": "기타",
+    "category": "Fan",
     "detected_categories": [
-      "기타"
+      "Fan"
     ],
     "section_raw": "Intro",
     "subheading": "",
@@ -3953,7 +3954,8 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -5704,9 +5706,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -5755,9 +5757,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -5773,9 +5775,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",

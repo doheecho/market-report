@@ -219,8 +219,9 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "GPU",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "GPU",
       "Storage"
     ],
@@ -560,7 +561,8 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "6 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -883,7 +885,8 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "PCB"
     ],
     "section_raw": "5 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -2912,6 +2915,24 @@
   },
   {
     "year": 2024,
+    "month": 3,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "연초부터 꾸준히 연장된 리드 타임으로 인해 Nvidia의 Jetson 모듈에 대한 공급이 제한되고 있습니다. 수요 전망을 제공하는 고객은 3개월의 리드 타임을 보고하고 있지만 전망을 제공하지 않는 고객은 6개월의 리드 타임에 직면하고 있습니다. 로보틱스 및 자율 시스템 고객은 일상적인 업무와 프로세스에 해당 기술을 점진적으로 통합하면서, 이러한 모듈 및 개발자 키트에 대한 수요를 이끌고 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
     "month": 4,
     "category": "GPU",
     "detected_categories": [
@@ -3144,7 +3165,8 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -3743,6 +3765,61 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "완제품 상품 업데이트",
+    "subheading": "",
+    "text": "컴퓨트 모듈 시장은 Nvidia Jetson products과 관련 개발 키트에 부과된 관세의 영향을 받고 있습니다. 이러한 관세는 시장 변동을 야기하며, 공급 수준과 수요 역학에 큰 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Tariff"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "완제품 상품 업데이트",
+    "subheading": "",
+    "text": "AI가 Jetson 제품 수요를 견인: Nvidia의 Jetson 카드 시리즈와 관련 개발 키트는 엣지 AI 컴퓨팅, 로보틱스, 사물인터넷(IoT) 애플리케이션에서의 활용도가 높아 강한 수요를 보이며, 이는 곧 가격 인상으로 이어질 가능성이 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "완제품 상품 업데이트",
+    "subheading": "",
+    "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10-15% 상승한 바 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Tariff"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -5116,6 +5193,24 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "3. Jetson 모듈 가격은 약 30% 상승했으며 리드타임은 24~26주로 증가했다. 할당은 매우 제한적이며 유통사는 확정 납기 일정이 없다고 보고하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
       "IC",
       "Memory"
     ],
@@ -5208,6 +5303,25 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "GPU"
+    ],
+    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "",
+    "text": "4. NVIDIA Jetson 모듈은 음향 소음 문제를 해결하기 위해 T5000 및 T4000 모듈의 업데이트된 부품 번호를 도입했습니다. Jetson Nano(900-13448-0020-0020)의 단종(EOL) 공지에 따라 최종 수요 예측 제출 마감일은 2026년 5월 15일, 최종 출하일은 2027년 1월 15일로 설정되었습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5312,6 +5426,25 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "4. NVIDIA Jetson 모듈은 음향 소음 문제를 해결하기 위해 T5000 및 T4000 모듈의 업데이트된 부품 번호를 도입했습니다. Jetson Nano(900-13448-0020-0020)의 단종(EOL) 공지에 따라 최종 수요 예측 제출 마감일은 2026년 5월 15일, 최종 출하일은 2027년 1월 15일로 설정되었습니다. Jetson TX2 NX(900-13636-0010-000)도 단종되며, 최종 구매 가능일(LTB)은 2026년 7월 1일입니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5431,6 +5564,26 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• NVIDIA Jetson 모듈은 전 제품 포트폴리오에 걸쳐 약 15%의 가격 인상이 예상된다. 레거시 모듈(Nano, TX2 NX)은 단계적 단종 전환이 진행 중이며, 최종 주문(LTB) 기간은 2026년 7월 종료된다. T5000/T4000 모듈의 업데이트된 부품 번호는 음향 노이즈 문제를 개선한 버전이다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5684,5 +5837,25 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "4. NVIDIA Jetson 모듈은 가격이 최대 60% 인상됐습니다. 수출 감시도 강화되고 있으며, 구형 모듈인 Jetson Nano는 엄격한 할당 제한과 단종 일정에 직면해 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
   }
 ]

@@ -501,8 +501,9 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "2 ICs (집적회로)",
@@ -807,7 +808,8 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "6 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -1309,8 +1311,9 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -2844,8 +2847,9 @@
   {
     "year": 2021,
     "month": 5,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -3016,7 +3020,8 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "PCB"
     ],
     "section_raw": "5 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -4281,8 +4286,9 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "Storage",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "Storage"
     ],
     "section_raw": "4 스토리지 (저장장치)",
@@ -4762,8 +4768,9 @@
   {
     "year": 2021,
     "month": 8,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -5857,7 +5864,8 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "5 CPUs (중앙처리장치)",
     "subheading": "",
@@ -6124,9 +6132,9 @@
   {
     "year": 2021,
     "month": 9,
-    "category": "기타",
+    "category": "Fan",
     "detected_categories": [
-      "기타"
+      "Fan"
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
@@ -6280,8 +6288,9 @@
   {
     "year": 2021,
     "month": 11,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -6906,8 +6915,9 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "1 IC (집적회로)",

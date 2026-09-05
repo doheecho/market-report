@@ -450,6 +450,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "IC",
@@ -4522,9 +4523,9 @@
   {
     "year": 2022,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -4713,9 +4714,9 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "기타",
+    "category": "PCB",
     "detected_categories": [
-      "기타"
+      "PCB"
     ],
     "section_raw": "Intro",
     "subheading": "",
@@ -5906,9 +5907,9 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "Fan",
     "detected_categories": [
-      "기타"
+      "Fan"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -7642,8 +7643,9 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -8942,7 +8944,8 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -9174,8 +9177,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Memory"
     ],

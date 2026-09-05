@@ -2,8 +2,9 @@
   {
     "year": 2020,
     "month": 6,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],

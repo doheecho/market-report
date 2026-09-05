@@ -707,7 +707,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "Intro",
     "subheading": "",

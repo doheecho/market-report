@@ -220,7 +220,8 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "CPU 가격 추세 및 공급 제약",
     "subheading": "",
@@ -490,8 +491,9 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Passive",
+    "category": "PCB",
     "detected_categories": [
+      "PCB",
       "Passive"
     ],
     "section_raw": "수동 부품 리드 타임 연장 및 할당",
@@ -713,6 +715,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -814,8 +817,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -1418,8 +1422,9 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -1740,8 +1745,9 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -2234,9 +2240,11 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC",
+      "PCB",
       "Passive"
     ],
     "section_raw": "Intro",
@@ -2553,7 +2561,8 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "GPU"
     ],
     "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
     "subheading": "",
@@ -2757,8 +2766,9 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Passive",
+    "category": "PCB",
     "detected_categories": [
+      "PCB",
       "Passive"
     ],
     "section_raw": "수동부품 및 원자재 T-글래스 병목",
@@ -3295,8 +3305,9 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -3620,9 +3631,9 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "PCB",
     "detected_categories": [
-      "기타"
+      "PCB"
     ],
     "section_raw": "공급망 동향",
     "subheading": "",
@@ -4116,8 +4127,9 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -4409,6 +4421,7 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "PCB",
       "Passive"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -5227,8 +5240,9 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Passive",
+    "category": "PCB",
     "detected_categories": [
+      "PCB",
       "Passive"
     ],
     "section_raw": "Intro",
@@ -5308,7 +5322,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "Intro",
     "subheading": "",
@@ -5441,8 +5456,9 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -5580,8 +5596,9 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -5800,7 +5817,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
     "subheading": "",

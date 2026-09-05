@@ -381,7 +381,8 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "6 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -572,7 +573,8 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "PCB"
     ],
     "section_raw": "5 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -1080,9 +1082,9 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "기타",
+    "category": "Fan",
     "detected_categories": [
-      "기타"
+      "Fan"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -1791,9 +1793,9 @@
   {
     "year": 2024,
     "month": 3,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -2258,9 +2260,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -2276,9 +2278,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -2294,9 +2296,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -3179,6 +3181,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -3395,7 +3398,8 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "GPU"
     ],
     "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
     "subheading": "",
@@ -3510,8 +3514,9 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -3609,8 +3614,9 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -3894,8 +3900,9 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",

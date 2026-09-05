@@ -580,7 +580,8 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "",

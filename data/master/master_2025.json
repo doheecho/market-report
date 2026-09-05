@@ -511,9 +511,9 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "기타",
+    "category": "Storage",
     "detected_categories": [
-      "기타"
+      "Storage"
     ],
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
@@ -5035,8 +5035,9 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
@@ -6767,7 +6768,8 @@
     "month": 10,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "DRAM메모리 생산 재개 및 용량 문제",
     "subheading": "",
@@ -6868,6 +6870,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "Fan",
       "IC"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",

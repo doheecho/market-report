@@ -1470,6 +1470,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -2917,7 +2918,8 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "5 CPUs (중앙처리장치)",
     "subheading": "",
@@ -3561,6 +3563,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "IC",
@@ -6422,7 +6425,8 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -6665,7 +6669,8 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -9735,7 +9740,8 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "FPGA"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -12052,6 +12058,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "Fan",
       "IC"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
@@ -12309,7 +12316,8 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Fan"
     ],
     "section_raw": "CPU 가격 추세 및 공급 제약",
     "subheading": "",
@@ -12329,6 +12337,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -12645,7 +12654,8 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "GPU"
     ],
     "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
     "subheading": "",

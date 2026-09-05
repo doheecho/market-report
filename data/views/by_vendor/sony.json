@@ -210,8 +210,9 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -278,9 +279,11 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC",
+      "PCB",
       "Passive"
     ],
     "section_raw": "Intro",
@@ -390,7 +393,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "Intro",
     "subheading": "",

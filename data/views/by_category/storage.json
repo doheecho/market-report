@@ -262,8 +262,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Storage",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "Storage"
     ],
     "section_raw": "저장 장치 (스토리지)",
@@ -564,8 +565,9 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "GPU",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "GPU",
       "Storage"
     ],
@@ -1255,8 +1257,9 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "Storage",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "Storage"
     ],
     "section_raw": "4 스토리지 (저장장치)",
@@ -2982,8 +2985,9 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC",
       "Storage"
     ],
@@ -3427,6 +3431,22 @@
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "NVMe 시리즈는 계속 가장 제한적입니다. SATA 시리즈도 제조업체의 NVMe 시리즈로의 생산 전환에서 직결되는 결과의 영향을 받고 있습니다. 모든 시리즈에 걸쳐 고용량 공급은 여전히 가장 부족합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -4247,6 +4267,22 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "제조업체 및 기업 업데이트",
+    "subheading": "",
+    "text": "Seagate는 사용된 하드 드라이브를 신품으로 판매한 스캔들에 휘말렸으며, 주로 Exos 모델이 영향을 받고 있습니다.",
+    "detected_vendors": [
+      "Seagate"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,

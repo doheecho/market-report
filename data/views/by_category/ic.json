@@ -24,8 +24,9 @@
   {
     "year": 2020,
     "month": 4,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -318,8 +319,9 @@
   {
     "year": 2020,
     "month": 6,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -414,8 +416,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -467,8 +470,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Memory"
     ],
@@ -959,6 +963,22 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
+    "text": "그동안 원자재 부족 때문에 광 트랜시버, 웹캠, 와이파이 카드 생산에 여러 차례 차질이 빚어졌고, 3분기 중반으로 접어들고 있지만 공급 문제는 나아지지 않고 있습니다. 중국의 코로나19 사태가 안정화되면서 중국의 공장들이 전면 가동을 재개하고 있지만 원자재 공급 부족은 장기화될 것으로 보입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
     "text": "동남아시아 국가들의 락다운으로 인해 칩셋 공급에도 문제가 있습니다. 통신산업에 대한 투자가 늘고 5G가 발전하면서 공급이 수요를 따라가지 못하고 있지만, 공급업체들은 올해 4분기부터는 공급 상황이 다소 나아질 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1435,8 +1455,9 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -1502,6 +1523,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -1519,8 +1541,9 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -2170,8 +2193,9 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "2 ICs (집적회로)",
@@ -2562,8 +2586,9 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -3470,8 +3495,9 @@
   {
     "year": 2021,
     "month": 5,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -4262,8 +4288,9 @@
   {
     "year": 2021,
     "month": 8,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -4727,8 +4754,9 @@
   {
     "year": 2021,
     "month": 11,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -4964,8 +4992,9 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "1 IC (집적회로)",
@@ -5530,6 +5559,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "IC",
@@ -6591,6 +6621,25 @@
     "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
     "detected_vendors": [
       "Microchip"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "트랜시버 제조업체 Finisar는 EEPROM이 최적의 통신 부품 및 서브시스템을 생산하길 요구합니다. 하지만, EEPROM 공급 부족으로 리드 타임이 더 길어져 30주 이상 연장되었습니다. 85xx 시리즈 8574, 8536 부품은 이러한 제약의 영향을 받았습니다. 아시아와 다른 지역에서 가동 중단이 예상되며 물량 제한도 점점 확산되고 있습니다.",
+    "detected_vendors": [
+      "Coherent"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -8216,8 +8265,9 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -8727,8 +8777,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Memory"
     ],
@@ -9109,8 +9160,9 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -9125,8 +9177,9 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -9825,8 +9878,9 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "완제품",
@@ -10306,8 +10360,9 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -10454,8 +10509,9 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -10528,8 +10584,9 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC",
       "Storage"
     ],
@@ -10671,6 +10728,20 @@
       "Geopolitics / Sanctions"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "특히 광섬유 케이블, 네트워크 스위치, 광트랜시버, 네트워킹 어댑터 카드와 같은 네트워킹 제품 공급이 제한됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -10862,6 +10933,22 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "광섬유 케이블, 네트워크 스위치, 광트랜시버, 네트워킹 어댑터 카드는 수요가 가장 높은 제품입니다. 이러한 상황으로 인하여 공급이 제한되고 특히 100G 및 200G 제품과 같은 고성능 및 고사양 부품의 경우 리드 타임이 무기한 연장되었습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -12873,6 +12960,26 @@
     ],
     "detected_keywords": [
       "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "지난 분기에 증가한 수요에도 전반적인 네트워킹 제품의 공급은 양호한 상태를 유지하고 있습니다. 공급 부족은 고사양 네트워킹 카드, 케이블 및 광트랜시버에 국한됩니다. 또한 H100 GPU 수요 급증으로 MCX5/6 시리즈에 비해 Mellanox MCX7 시리즈 제품에 대한 문의가 증가했습니다. Mellanox가 CX7 생산을 우선하여 지원하는 상황이 지속되면서 CX6의 리드 타임이 연장되었으며 고객 측에서 확정된 출하일이 부족하다고 보고하고 있습니다.",
+    "detected_vendors": [
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -15628,8 +15735,9 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
@@ -16128,6 +16236,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "Fan",
       "IC"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
@@ -16653,6 +16762,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -16754,8 +16864,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -16947,8 +17058,9 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -17251,8 +17363,9 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -17514,9 +17627,11 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC",
+      "PCB",
       "Passive"
     ],
     "section_raw": "Intro",
@@ -18211,8 +18326,9 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -18863,8 +18979,9 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -19156,6 +19273,7 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "PCB",
       "Passive"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -19552,7 +19670,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "Intro",
     "subheading": "",
@@ -19685,8 +19804,9 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -19824,8 +19944,9 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "IC",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -20044,7 +20165,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
     "subheading": "",

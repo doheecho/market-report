@@ -38,42 +38,10 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "그동안 원자재 부족 때문에 광 트랜시버, 웹캠, 와이파이 카드 생산에 여러 차례 차질이 빚어졌고, 3분기 중반으로 접어들고 있지만 공급 문제는 나아지지 않고 있습니다. 중국의 코로나19 사태가 안정화되면서 중국의 공장들이 전면 가동을 재개하고 있지만 원자재 공급 부족은 장기화될 것으로 보입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
     "text": "제조사들은 미·중 무역전쟁의 결과로 WLAN카드 생산 공장을 중국에서 대만으로 서서히 이전하고 있습니다. 공장 이전의 영향을 받는 시리즈는 AX200, AX201, AC 9461, AC 9462 이며, 일부 시리즈가 평소보다 불량률이 높아 공급에 더욱 차질이 있다는 소문도 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "고객들은 대체품을 찾고 있지만 원재료 부족으로 인한 PCB, 크리스탈 발진기 등의 공급 부족으로 인해 대체품을 찾지 못하고 있습니다. 한편으로는 10월 초에 공급이 회복되기 시작할 수도 있다는 의견도 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -160,20 +128,6 @@
     "section_raw": "완제품",
     "subheading": "",
     "text": "한편 가격은 20%이상 상승했고 공인된 유통업체들에겐 재고가 거의 없습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "1 전반적 소식 (General News)",
-    "subheading": "",
-    "text": "자동차 산업이 코로나19 팬데믹의 충격에서 벗어나 회복되기 시작했습니다. 소비자가 대중교통을 피하는 경향과 신차 모델 출시가 이어지는 상황이 맞물려, 올해 4분기를 거쳐 2021년까지 수요가 계속 증가할 것으로 예측됩니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -366,20 +320,6 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "5 완제품 (Finished Goods)",
-    "subheading": "",
-    "text": "코로나19 팬데믹으로 인해 패널 수요가 증가할 것으로 보입니다. 재택근무하는 사람들에게서 노트북 수요가 증가하기 때문입니다. 그 결과 더 많은 LCD 패널이 필요하게 됩니다.",
-    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -882,20 +822,6 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2021,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "Sierra Wireless Wi-Fi 모듈은 코로나19 팬데믹으로 인한 생산비 증가로 인해 8월 초 이후로 가격이 20% 뛰었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -1543,25 +1469,6 @@
   },
   {
     "year": 2022,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "트랜시버 제조업체 Finisar는 EEPROM이 최적의 통신 부품 및 서브시스템을 생산하길 요구합니다. 하지만, EEPROM 공급 부족으로 리드 타임이 더 길어져 30주 이상 연장되었습니다. 85xx 시리즈 8574, 8536 부품은 이러한 제약의 영향을 받았습니다. 아시아와 다른 지역에서 가동 중단이 예상되며 물량 제한도 점점 확산되고 있습니다.",
-    "detected_vendors": [
-      "Coherent"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
     "month": 6,
     "category": "기타",
     "detected_categories": [
@@ -1741,20 +1648,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "Apple 공급업체의 절반이 상하이 및 그 인근에 공장을 두고 있는 만큼 강제 코로나19 봉쇄 조치로 인해 직격탄을 맞았습니다. Apple 아이폰 제조사인 Pegatron Corp.을 비롯해 디스플레이, 인쇄회로기판, 열 부품, 배터리, 음향 부품 등을 담당하는 제조업체가 그 영향을 받고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "onsemi",
     "detected_vendors": [
       "Onsemi"
@@ -1863,25 +1756,6 @@
     "text": "이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "Nvidia의 이더넷 어댑터 카드 공급은 팬데믹으로 인한 전자 부품 산업의 주요 공급망 문제로 인해 2021년부터 적체되었습니다. 공급과 수요 간의 격차를 줄이려는 제조업체의 노력 덕분에 공급 급증이 산발적으로 발생하기도 했지만 리드 타임은 여전히 길며 현재 평균 32주를 기록하고 있습니다. 특히 MCX-6 시리즈는 Nvidia의 공급 라인 전반의 자재 부족과 낮은 생산성의 영향을 받았습니다. 이러한 지속적인 공급망 문제에 대응하기 위해 Nvidia는 6월 중순 이후로 모든 광학 및 네트워크 제품에 대해 가격을 15% 인상하겠다고 발표했습니다. 소비자 구매는 매달 변화하기 때문에 공급 역량 및 가용성의 변동은 단기간에 안정화되지 않을 것으로 예상됩니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2874,40 +2748,10 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "Spartan 6(45nm): 현재 상태가 2023년까지 동일하게 지속",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "잔여 Xilinx 머추어 노드: 2023년 1분기까지 표준 리드 타임 예상",
     "detected_vendors": [
       "Amd"
     ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "Ultra Scale 시리즈(16nm 및 20nm): 2023년 2분기까지 20주 리드 타임 예상",
-    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2977,20 +2821,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "이 미드레인지 FPGA 제품을 위한 신기술 플랫폼인 Avant과 함께 이 플랫폼에 탑재될 최초의 미드레인지 시리즈가 발표되었습니다. 이 시리즈의 이름은 “Avant-E”가 될 것입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -3193,23 +3023,6 @@
       "Price Decrease"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이전에는 원자재와 칩의 공급 부족으로 공급량이 크게 줄었고 쿨러 팬에 대한 수요는 증가했습니다. 이러한 공급 부족으로 쿨러 팬 리드 타임이 최소 1년까지 늘어났지만, 공급망 병목 현상이 나아짐에 따라 모든 주요 브랜드 전반에서 리드 타임이 개선되기 시작했습니다. 또한, 신생 에너지와 산업 자동화 현대화 증가는 수요를 더욱 더 증가시킬 예정입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -3470,24 +3283,6 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "점점 더 많은 고객이 소싱 요구를 충족하기 위해 오픈 마켓으로 눈을 돌리면서 산업용 팬 공급이 악화되고 있습니다. 이러한 부족의 주요 요인은 인쇄 회로 기판 어셈블리(PCBA) 스테이지의 제한된 공급입니다. 이러한 원자재는 전기 자동차 산업에도 필수적이지만 여러 산업에서 공급량 확보 경쟁이 치열하여 할당을 어렵게 만듭니다. 현재의 수주 잔량과 자재 공급 부족으로 인해 리드 타임이 58~78주로 늘어났습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Allocation",
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -3768,20 +3563,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "추가적인 지연은 이미 공급이 제한된 산업용 및 소비자용 팬의 공급에 영향을 미치고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "전반적으로 자동차 산업은 공급 부족이 계속되고 있으며, 산업 제품의 리드 타임은 52주 이상으로 길어지고 가격 인상도 가시화되고 있습니다. 자세한 내용은 아래에서 보고서 전문을 읽어보시기 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3883,39 +3664,6 @@
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "원자재 부족으로 인해 모든 산업용 및 소비자용 팬의 리드 타임이 불안정해지고 있습니다. Sanyo Denki 및 Delta와 같은 팬 제조업체는 한동안 공급 제약을 겪어왔습니다. 그 결과, 주문 적체가 업계 전반에 걸쳐 점진적으로 증가하여, 제조 역량이 주문을 따라잡기 위해 노력하고는 있지만 리드 타임이 연장되었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "특정 팬 시리즈의 경우 예약 리드 타임이 52주 이상 소요되고 있으며, 배송 확인을 기다리는 고객의 경우 배송이 더 지연될 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -4167,20 +3915,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "특히 광섬유 케이블, 네트워크 스위치, 광트랜시버, 네트워킹 어댑터 카드와 같은 네트워킹 제품 공급이 제한됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4243,22 +3977,6 @@
     "section_raw": "완제품",
     "subheading": "",
     "text": "AI, 기계 학습, 데이터 센터 네트워킹 산업은 네트워킹 제품에 대한 수요 반등을 계속해서 가속화하고 있습니다. 지난 4월부터 수요가 유통업체의 초과 재고를 소화하기 시작했고 6월에는 리드 타임이 최소 30~40주까지 늘어나기 시작했습니다. 이제는 대부분의 네트워킹 제품에서 수요가 급증함에 따라 시장이 일 년 내내 성장할 것이라는 낙관적인 전망이 나왔습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "광섬유 케이블, 네트워크 스위치, 광트랜시버, 네트워킹 어댑터 카드는 수요가 가장 높은 제품입니다. 이러한 상황으로 인하여 공급이 제한되고 특히 100G 및 200G 제품과 같은 고성능 및 고사양 부품의 경우 리드 타임이 무기한 연장되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -4640,22 +4358,6 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "NVMe 시리즈는 계속 가장 제한적입니다. SATA 시리즈도 제조업체의 NVMe 시리즈로의 생산 전환에서 직결되는 결과의 영향을 받고 있습니다. 모든 시리즈에 걸쳐 고용량 공급은 여전히 가장 부족합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
     "text": "이러한 추세는 결과적으로 지난 분기 이후 비용이 15~20% 상승하며 전체 제조업체 가격에 영향을 미쳤습니다. 가격이 매주 계속 상승하면서, 고객들은 가능한 영역에서 비용을 절약하기 위해 적극적으로 비용 효율적 대안을 찾고 있습니다. 이에 따라 일반적으로 가격이 더 낮은 단종(EOL) 시리즈 및 구형 모델의 수요가 증가했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4803,24 +4505,6 @@
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "연초부터 꾸준히 연장된 리드 타임으로 인해 Nvidia의 Jetson 모듈에 대한 공급이 제한되고 있습니다. 수요 전망을 제공하는 고객은 3개월의 리드 타임을 보고하고 있지만 전망을 제공하지 않는 고객은 6개월의 리드 타임에 직면하고 있습니다. 로보틱스 및 자율 시스템 고객은 일상적인 업무와 프로세스에 해당 기술을 점진적으로 통합하면서, 이러한 모듈 및 개발자 키트에 대한 수요를 이끌고 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -4996,22 +4680,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "시장이 안정화되기 시작하면서 재고조정 싸이클도 끝나가는 것 같습니다. 리드 타임은 특히 팬데믹 이전 수준으로 회복되었으며, 레거시 및 특수 가공 부품에 대해서만 사소한 예외가 있습니다. 많은 공급업체가 2024년 4분기 말과 2025년 초에 대대적인 수요 증가를 예상합니다. 긍정적인 수주 대 출하(Book-to-bill) 추세는 2024년 2분기가 현재 주기의 최저점이었다는 의견을 뒷받침해 줍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "아래 보고서 전문을 참조하여 시장 상황을 더 알아보시기를 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -5102,24 +4770,6 @@
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
-    "text": "컴퓨트 모듈 시장은 Nvidia Jetson products과 관련 개발 키트에 부과된 관세의 영향을 받고 있습니다. 이러한 관세는 시장 변동을 야기하며, 공급 수준과 수요 역학에 큰 영향을 미치고 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Tariff"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
     "text": "10월 동향",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -5134,61 +4784,8 @@
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
-    "text": "AI가 Jetson 제품 수요를 견인: Nvidia의 Jetson 카드 시리즈와 관련 개발 키트는 엣지 AI 컴퓨팅, 로보틱스, 사물인터넷(IoT) 애플리케이션에서의 활용도가 높아 강한 수요를 보이며, 이는 곧 가격 인상으로 이어질 가능성이 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
-    "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10-15% 상승한 바 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Price Increase",
-      "Tariff"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
     "text": "시장 점유율 변화: 중국 제조사들의 확장으로 인해 기존 브랜드는 경쟁력을 유지하고 시장 위치를 확보하기 위해 전략을 재조정해야 할 필요가 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
-    "text": "Seagate는 사용된 하드 드라이브를 신품으로 판매한 스캔들에 휘말렸으며, 주로 Exos 모델이 영향을 받고 있습니다.",
-    "detected_vendors": [
-      "Seagate"
-    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -6073,20 +5670,6 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
-    "text": "3. 이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래: 중동 지역 분쟁으로 핵심 원자재 공급이 차질을 빚고 있으며, 스마트폰과 컴퓨터부터 AI 서버에 이르기까지 거의 모든 전자기기에 사용되는 인쇄회로기판(PCB) 가격이 상승했다.",
-    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },

@@ -316,8 +316,9 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -372,8 +373,9 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC",
       "Storage"
     ],

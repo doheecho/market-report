@@ -95,8 +95,9 @@
   {
     "year": 2020,
     "month": 4,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -562,8 +563,9 @@
   {
     "year": 2020,
     "month": 6,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Passive"
     ],
@@ -774,8 +776,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -827,8 +830,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Memory"
     ],
@@ -974,8 +978,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Storage",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "Storage"
     ],
     "section_raw": "저장 장치 (스토리지)",
@@ -1922,9 +1927,9 @@
   {
     "year": 2020,
     "month": 9,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -1966,9 +1971,9 @@
   {
     "year": 2020,
     "month": 9,
-    "category": "기타",
+    "category": "PCB",
     "detected_categories": [
-      "기타"
+      "PCB"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -2087,9 +2092,9 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "기타",
+    "category": "Fan",
     "detected_categories": [
-      "기타"
+      "Fan"
     ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
@@ -2688,8 +2693,9 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "GPU",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "GPU",
       "Storage"
     ],
@@ -3567,8 +3573,9 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -3634,6 +3641,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -3651,8 +3659,9 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "IC",
+    "category": "FPGA",
     "detected_categories": [
+      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -4866,9 +4875,9 @@
   {
     "year": 2020,
     "month": 12,
-    "category": "기타",
+    "category": "Fan",
     "detected_categories": [
-      "기타"
+      "Fan"
     ],
     "section_raw": "5 완제품 (Finished Goods)",
     "subheading": "",

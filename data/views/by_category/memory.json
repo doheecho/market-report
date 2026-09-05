@@ -127,8 +127,9 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Memory"
     ],
@@ -1051,7 +1052,8 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "6 GPU (그래픽 및 가속기)",
     "subheading": "",
@@ -2385,8 +2387,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "IC",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "IC",
       "Memory"
     ],
@@ -2477,8 +2480,9 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Memory",
+    "category": "Fan",
     "detected_categories": [
+      "Fan",
       "Memory"
     ],
     "section_raw": "Intro",
@@ -6192,7 +6196,8 @@
     "month": 10,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "PCB"
     ],
     "section_raw": "DRAM메모리 생산 재개 및 용량 문제",
     "subheading": "",

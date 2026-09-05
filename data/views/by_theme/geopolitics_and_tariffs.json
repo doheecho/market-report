@@ -354,9 +354,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -372,9 +372,9 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
@@ -1039,7 +1039,8 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "PCB"
     ],
     "section_raw": "Intro",
     "subheading": "",
