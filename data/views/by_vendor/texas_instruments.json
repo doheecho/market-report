@@ -39,7 +39,6 @@
     "detected_vendors": [
       "Infineon",
       "Intel",
-      "NXP",
       "Nexperia",
       "STMicroelectronics",
       "Texas Instruments"
@@ -114,7 +113,6 @@
     "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
     "detected_vendors": [
       "Analog Devices",
-      "NXP",
       "Onsemi",
       "Texas Instruments"
     ],

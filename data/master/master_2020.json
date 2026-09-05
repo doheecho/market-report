@@ -418,7 +418,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "말레이시아에 있는 Renesas 생산 공장은 벅 부스트 레귤레이터 및 송신기/수신기 제품 생산 비중이 큽니다. 말레이시아의 봉쇄 조치와 의료기기 수요의 상승이 맞물리면서 이들 다양한 제품에 대한 분배 문제가 발생했습니다. 여러 정보원에 따르면, 생산 능력은 서서히 늘겠지만 이 문제는 3분기 내내 계속될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1847,7 +1849,6 @@
     "subheading": "",
     "text": "우리는 이미 ST Micro 및 NXP 마이크로 컨트롤러의 부족을보고 있으며, 그 원인은 아시아 시장의 산업 및 소비자 부문의 수요 급증과 웨이퍼 공급 부족과 관련이있는 것으로 여겨집니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -1913,7 +1914,6 @@
     "subheading": "",
     "text": "공급 문제에 원인을 제공하는 또 다른 요인은 웨이퍼 원자재 부족입니다. 이 문제로 인해 NXP MCU의 리드타임이 늘어났습니다. 특히, NXP LPC540X 및 LPC11XX의 리드타임이 최소한 39주 이상으로 늘었습니다. 제조업체에서 가격을 엄격히 관리하고 있고, 유통업체들은 감사에 직면하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -1929,9 +1929,7 @@
     "section_raw": "3 ICs (집적회로)",
     "subheading": "",
     "text": "NXP는 특정 최종 제품을 겨냥해 생산 역량을 집중하고 있습니다. 유통업체들은 올해는 NXP가 주로 자동차 제품에 초점을 맞출 것이라고 언급해왔습니다. NXP에서 현재 생산 중인 FS32K 시리즈 제품 5천만 개가 여기에 포함됩니다. 산업적 측면에서, MCIMX 6Y/2C 시리즈는 POS 장비/드론 애플리케이션에 더 적합하고, 8 시리즈는 HD 4K TV를 염두하고 설계되었으며, RT 시리즈는 키보드 제어에 맞춰져 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1942,9 +1940,7 @@
     "section_raw": "3 ICs (집적회로)",
     "subheading": "",
     "text": "또한 NXP는 MPX 시리즈와 관련하여 자체 제품으로 STM의 센서 시장 점유율을 추월하려고 노력하고 있습니다. 하지만 STM의 센서가 일반적으로 MPX 시리즈보다 더 호환성이 뛰어나므로, NXP는 이 목표를 포기할 계획입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1956,7 +1952,6 @@
     "subheading": "",
     "text": "NXP 제품의 가격 및 리드 타임이 계속 상승함에 따라 공장이 조만간 가격 인하의 조짐은 보이지 않습니다",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2197,7 +2192,6 @@
     "subheading": "",
     "text": "현재, 전 세계 8인치 파운드리 활용률은 계속 100%에 접근하고 있습니다. 수요가 증가했는데, 8인치 파운드리 장비 공급이 고르지 못해 공급이 영향을 받았습니다. 이 때문에, 공급에 비해 수요가 20% 정도 초과하여 어려움이 있었으며 ST Micro 와 NXP Microcontrollers 를 포함한 회사가 공급 부족에 직면해 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2806,7 +2800,6 @@
     "subheading": "",
     "text": "따라서 많은 고객이 지금은 다이오드는 NXP, MOSFET 생산은 OnSemi 에 의지하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia",
       "Onsemi"
     ],
@@ -2848,7 +2841,9 @@
     "section_raw": "3 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas 의 리드 타임이 계속 연장되고 있습니다. Renesas 측에서 공식적인 성명 발표는 없지만, 코로나19 팬데믹이 시작된 후로 공급 압박을 받아왔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2900,8 +2895,7 @@
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
       "Amd",
-      "Microchip",
-      "Xilinx"
+      "Microchip"
     ],
     "detected_keywords": [
       "M&A"
@@ -2916,7 +2910,7 @@
     "subheading": "",
     "text": "Xilinx 는 또한 모든 Spartan 6 (XC6SLX), Virtex 6 및 7, Kintex 7 (XC7K) FPGA 패밀리 제품에 대해 25% 의 가격 인상이 있을 것이라고 발표했습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -3342,7 +3336,6 @@
     "detected_vendors": [
       "Infineon",
       "Intel",
-      "NXP",
       "Nexperia",
       "STMicroelectronics",
       "Texas Instruments"

@@ -828,9 +828,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "시황 자료에 따르면 NXP는 iMX6 MCU에 관한 공지를 발표했습니다. 해당 공지에서 고객에게 계약 가격 인상을 알리면서 최신 버전으로 전환하도록 권장한 것으로 알려졌습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -1659,9 +1657,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "NXP에서는 2024년 초부터 MCU 제품 가격을 꾸준히 조정해 왔습니다. 수차례의 협상 끝에 대부분의 최종 고객이 새로운 계약 가격을 제시받았습니다. 지금까지 수요가 많았던 FS32 MCU의 경우 리드 타임이 안정되어 시장 공급이 원활하게 이루어집니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1674,9 +1670,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "노후화된 IMX6 모델 MCU의 경우 계약 가격에 대한 비용이 조정되면서 리드 타임이 늘어났습니다. NXP가 점차 최신 제품 생산에 주력하면서 해당 시리즈의 공급이 제한적입니다. IMX8 시리즈는 새로운 핵심 모델이자 표준 선택으로 자리매김할 것입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1689,9 +1683,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "그러나 중국 기반 전기 자동차(EV) 제조업체의 수요가 감소할 수 있으므로, 신형 및 구형 시리즈에 대한 수요 예측에 변화가 있을 수 있습니다. 중국 정부는 전기 자동차 업체들이 현지 칩에 대한 지원을 늘릴 것을 권장하고 있습니다. 이러한 시장 변화는 지금까지 자동차 애플리케이션 분야의 선두 주자였던 NXP에 영향을 미칠 것입니다. NXP는 자사 제품에서 전환하는 고객에 대응하기 위해 생산 및 가격 변경을 시행할 수 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2059,7 +2051,6 @@
     "subheading": "",
     "text": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -2072,9 +2063,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "2023년 4분기에 NXP는 고품질 솔루션 제공에 중점을 두고 중국 시장을 대상으로 특별히 맞춤 제작된 C라인 제품 포트폴리오를 선보였습니다. 이 제조업체는 회사의 현지화 전략을 진행하고 공급망 탄력성을 개선하기 위해 OEM에 이 프로그램을 처음 도입했습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2085,9 +2074,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "C라인 제품에는 중국 시장에 맞게 커스터마이징된 OSCCA 호환 보완 기능이 탑재됩니다. NXP는 이러한 기능 변경으로 중국 정부 및 MIIT 승인 목록에 추가될 C라인 제품을 포함하기를 희망히고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2110,7 +2097,6 @@
     "subheading": "",
     "text": "NXP 웹사이트의 C라인 웹페이지는 중국 IP 주소를 가진 방문자만 액세스할 수 있습니다. 제조업체는 S라인에서 C라인 시리즈로의 전환이 부품 번호 변경, 특히 문자 'S'를 'C'로 변경하는 것으로 제한된다고 밝혔습니다. 이러한 변경은 특정 지역과 관련된 제품에 영향을 미치며 글로벌 및 지역 간 무역에 부정적인 영향을 미칠 수 있습니다. 일반 버전의 S라인 공급은 시장에서 더 제한될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -2124,7 +2110,7 @@
     "subheading": "",
     "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL"
@@ -2913,7 +2899,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Maxim Integrated의 경우 몇 달 동안 불안정한 리드 타임으로 어려움을 겪고 있으며, 이는 적시 배송이 중요한 고객에게 지연과 불만을 유발하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3298,7 +3286,8 @@
     "subheading": "",
     "text": "이러한 PMIC 공급 문제는 유사한 구성 요소를 제공하는 Intel 및 Renesas와 같은 다른 브랜드에 영향을 줄 수 있습니다. 현재 MPS의 PMIC는 총생산의 약 20%를 차지하며, 자동차 및 소비자용 애플리케이션이 각각 20%와 15%를 차지하고 있습니다. 나머지는 산업용 품목으로 구성되어 있습니다.",
     "detected_vendors": [
-      "Intel"
+      "Intel",
+      "Renesas"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4195,7 +4184,9 @@
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다. 퀄컴은 AI를 통합한 갤럭시 Z 폴드6과 같은 기기 덕분에 81억 달러의 칩셋 매출을 기록했습니다. 미디어텍은 신흥 시장에서의 4G SoC 수요와 5G AI 스마트폰 발전 덕분에 휴대전화 매출이 전년 대비 52% 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Mediatek"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4980,7 +4971,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL",
@@ -4997,6 +4988,7 @@
     "subheading": "",
     "text": "IC 생산 용량 제약: 온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
     "detected_vendors": [
+      "Analog Devices",
       "Onsemi"
     ],
     "detected_keywords": [
@@ -5025,9 +5017,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Price Increase"
     ],

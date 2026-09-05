@@ -94,6 +94,7 @@
     "subheading": "",
     "text": "Toshiba의 광학 아이솔레이터(TLP 시리즈)와 IC 드라이버(TC 시리즈)가 심각한 공급 부족 상태를 겪고 있으며, 일부 유통업체에서는 평균 6~9개월의 리드 타임이 소요될 것으로 견적을 내고 있습니다. 가장 심각한 영향을 받은 시리즈는 2년 이상으로 지연되었습니다. 이와 유사하게 Linear Technology와 Renesas는 리드 타임이 연장되고 시장 가격이 인상될 것으로 예상하고 있습니다. Renesas의 R5 및 R7 시리즈의 경우 현재 최소 52주의 리드 타임이 소요됩니다.",
     "detected_vendors": [
+      "Renesas",
       "Toshiba"
     ],
     "detected_keywords": [

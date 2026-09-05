@@ -45,7 +45,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "그뿐 아니라, Renesas는 진도 7.3의 지진 발생 후 2월 13일에 이바라키 공장의 조업을 중단 했습니다. 전력 복구에도 불구하고, 이 회사는 건물 및 장비 검사를 위해 이틀간 생산을 중단하기로 했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -58,7 +60,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일, Renesas는 화재로 인해 일본의 나카 공장을 폐쇄했습니다. 공장 1 층에 화재가 진압 되었음에도 불구하고 회사는 가동을 재개하는 데 최소 한 달이 필요할 것으로 믿고 있으며 분석가들은 생산이 손실되거나 손상된 재고를 보충하기까지 더 오래 걸릴 것이라고 예측합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -71,7 +75,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일 Renesas 나카 공장에서 발생한 화재가 다양한 MCU, 특히 그곳에서 생산하던 자동차 시리즈 R5/R7에 계속 영향을 미치고 있습니다. 공급이 매우 제한적이라, 이 시리즈의 오픈 마켓 가격이 급등했습니다. 그 결과, 이러한 제품의 가격은 표준 가격의 최대 10~15배까지 상승했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -97,7 +103,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "일본에 있는 Renesas 공장 두 곳이 1분기에 두 차례 지진의 영향을 받았습니다. 피해 평가를 위한 작업 중단으로 인한 생산 지연으로 생산량이 감소했습니다. 3월 16일 발생한 지진의 진원지 근처에 위치한 공장 세 곳은 나카 공장, 타카사키 공장, 요네자와 공장입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -110,7 +118,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Renesas는 코로나19 봉쇄 및 지진의 여파로 인해 공장 가동이 차질을 빚고 있습니다. 이는 지연 및 가격 상승으로 이어져 리드 타임은 일 년을 초과하게 되었고 제조업체는 5월 모든 시리즈의 가격을 인상했습니다. 특히 R5F523/RF5100/R5F101 시리즈의 리드 타임은 50주 이상으로 늘어났고 Intersil 시리즈 CA3/DG4/ICL3/ISL12/ISL2는 78주로 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Natural Disaster / Incident",
@@ -577,6 +587,7 @@
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [
@@ -592,7 +603,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "5. Renesas는 구마모토 지진의 여파를 계속 겪고 있습니다. 포토커플러 생산은 여전히 중단된 상태이거나 서서히 회복되고 있으며, 자동차용 MCU(RL78·RH850)의 백로그도 크게 늘어나고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -605,7 +618,9 @@
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],

@@ -109,8 +109,8 @@
     "subheading": "",
     "text": "Xilinx Spartan-7 및 Lattice 디바이스의 리드타임은 AI 서버 수요가 패키징 및 유리 섬유 원자재를 잠식함에 따라 기존 8주에서 32~52주로 급증했습니다.",
     "detected_vendors": [
-      "Lattice",
-      "Xilinx"
+      "Amd",
+      "Lattice"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -218,7 +218,6 @@
     "subheading": "",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
-      "Altera",
       "Analog Devices",
       "Intel",
       "Lattice",
@@ -275,9 +274,9 @@
     "subheading": "",
     "text": "• Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
     "detected_vendors": [
-      "Altera",
-      "Lattice",
-      "Xilinx"
+      "Amd",
+      "Intel",
+      "Lattice"
     ],
     "detected_keywords": [
       "Discommit",

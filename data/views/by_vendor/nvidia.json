@@ -2666,7 +2666,8 @@
     "subheading": "",
     "text": "6. Renesas 전력 제품(예: ISL99360FRZ-T)의 리드타임은 Nvidia 보드 수요 증가로 1년까지 늘어났다. 2026년 7월 1일부터 5~50% 가격 인상이 예상된다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Renesas"
     ],
     "detected_keywords": [
       "Lead Time",

@@ -7,11 +7,10 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
+      "Amd",
       "Analog Devices",
       "Broadcom",
-      "NXP",
-      "Nexperia",
-      "Xilinx"
+      "Nexperia"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -52,6 +51,21 @@
   },
   {
     "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "일부 Maxim 부품에 대한 리드 타임이 최대 90주까지 증가한 것으로 알려졌습니다. Maxim의 DS 시리즈 리드 타임은 70주까지 늘어났습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
     "month": 8,
     "category": "IC",
     "section_raw": "IC",
@@ -75,9 +89,23 @@
     "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
     "detected_vendors": [
       "Analog Devices",
-      "NXP",
       "Onsemi",
       "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "Maxim 증폭기 제품은 현재 리드 타임이 60주에 달하며, MAX 40/44/96/99은 상당히 짧습니다. Maxim은 하이 레벨 사업에 집중하기 위해 이윤이 적은 제품의 생산을 줄이고 있습니다. 이로 인해 용량에 어떤 영향이 있을지에 대한 소식은 없지만, 수요가 강력하게 유지된다면 Maxim이 9월경 가격을 인상할 것이라는 소문이 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -158,6 +186,21 @@
       "M&A"
     ],
     "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -334,6 +377,21 @@
     "category": "IC",
     "section_raw": "IC",
     "subheading": "",
+    "text": "Maxim Integrated의 경우 몇 달 동안 불안정한 리드 타임으로 어려움을 겪고 있으며, 이는 적시 배송이 중요한 고객에게 지연과 불만을 유발하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
     "text": "Analog Devices는 최근 취소 기간을 45~70일로 연장하는 등 유통 전략과 파트너십을 조정했습니다. 이러한 움직임은 공급을 관리하기 위한 것이지만 고객이 비용 절감 옵션을 모색함에 따라 주문량에 변동이 발생할 수 있습니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -355,6 +413,22 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "IC 생산 용량 제약: 온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -386,6 +460,21 @@
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "애널로그 디바이스는 대부분의 Maxim 시리즈 리드타임을 30주 이상으로 연장했습니다. 최종 고객의 당겨오기 요청은 충족되기 어려운 상황입니다. Linear Tech 제품은 이제 아날로그 및 전력 관리 장치에서 특히 36~42주의 리드타임을 보이고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -548,7 +637,6 @@
     "subheading": "",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
-      "Altera",
       "Analog Devices",
       "Intel",
       "Lattice",

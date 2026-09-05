@@ -298,7 +298,8 @@
     "subheading": "",
     "text": "Micron의 히로시마 DRAM 공장에서 정전으로 인해 생산이 일시적으로 중단되었습니다. 이곳에서는 주로 DDR4 관련 1베타 DRAM 칩을 생산하고, 하이엔드 스마트폰과 기타 고성능 휴대용 장치와 같은 최종 제품의 공급품을 생산합니다. 이와 유사하게 Renesas 또한 벼락으로 인해 구마모토시 공장 가동이 잠시 중단되었습니다. Renesas MCU의 대부분을 책임지고 있는 이 공장은 7월 11일 전체 생산 능력을 회복했고, 일주일에 해당하는 작업만 손실된 것으로 알려졌습니다.",
     "detected_vendors": [
-      "Micron"
+      "Micron",
+      "Renesas"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

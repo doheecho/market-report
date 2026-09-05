@@ -568,7 +568,9 @@
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Capacity Expansion"
     ],
@@ -782,7 +784,9 @@
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],

@@ -175,7 +175,6 @@
     "subheading": "",
     "text": "NXP 제품의 가격 및 리드 타임이 계속 상승함에 따라 공장이 조만간 가격 인하의 조짐은 보이지 않습니다",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -192,7 +191,7 @@
     "subheading": "",
     "text": "Xilinx 는 또한 모든 Spartan 6 (XC6SLX), Virtex 6 및 7, Kintex 7 (XC7K) FPGA 패밀리 제품에 대해 25% 의 가격 인상이 있을 것이라고 발표했습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -206,7 +205,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas의 레거시 시리즈 제품 가격도 인상되었습니다. Renesas는 원자재와 재고 보유 비용 증가, 자재 리드 타임 지연, 정부 규제를 가격 조정의 원인으로 들었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -338,9 +339,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -656,7 +655,7 @@
     "subheading": "",
     "text": "말레이시아에서 제조되는 Altera의 Cyclone 시리즈 FPGA의 생산량이 말레이시아 정부의 봉쇄 조치로 인해 감소했습니다. 이는 MAX10, MAX II, CYCLONE 10, STRTIX 10, 10M, 10C, 10S 및 CYCLONE 2 3 4 5 시리즈의 극심한 가격 인상으로 이어졌습니다. 심지어 일부 부품의 리드 타임이 1년 이상 밀렸습니다.",
     "detected_vendors": [
-      "Altera"
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -797,11 +796,10 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
+      "Amd",
       "Analog Devices",
       "Broadcom",
-      "NXP",
-      "Nexperia",
-      "Xilinx"
+      "Nexperia"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -816,7 +814,7 @@
     "subheading": "",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -924,7 +922,7 @@
     "subheading": "",
     "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -1062,9 +1060,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP는 자동차 부품 가격을 20% 인상했습니다. 2022년 6월까지 또 다른 30%의 가격 인상이 시행될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -1218,7 +1214,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Renesas는 코로나19 봉쇄 및 지진의 여파로 인해 공장 가동이 차질을 빚고 있습니다. 이는 지연 및 가격 상승으로 이어져 리드 타임은 일 년을 초과하게 되었고 제조업체는 5월 모든 시리즈의 가격을 인상했습니다. 특히 R5F523/RF5100/R5F101 시리즈의 리드 타임은 50주 이상으로 늘어났고 Intersil 시리즈 CA3/DG4/ICL3/ISL12/ISL2는 78주로 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Natural Disaster / Incident",
@@ -1618,8 +1616,7 @@
     "subheading": "",
     "text": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다. AMD는 2023년에 Xilinx 재고를 모두 소진하고 생산 리드 타임 주기를 단축하고자 합니다. 현재 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Amd",
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -2228,9 +2225,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "또한 NXP는 최종 고객에게 10%~20% 범위 내에서 MCIMX6 시리즈에 대한 공식 가격 인상 공지를 보냈습니다. 이 시리즈의 리드 타임은 다양하지만, 소비자 응용 분야의 일부 MPN은 37주에서 50주 사이입니다. 산업용 응용 분야의 MPN은 최대 57주의 리드 타임을 보고했습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -2563,9 +2558,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "시황 자료에 따르면 NXP는 iMX6 MCU에 관한 공지를 발표했습니다. 해당 공지에서 고객에게 계약 가격 인상을 알리면서 최신 버전으로 전환하도록 권장한 것으로 알려졌습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -3071,9 +3064,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -3528,7 +3519,6 @@
     "subheading": "",
     "text": "NXP는 RF 제품 가격 인상을 진행하고 있으며, 이로 인해 백로그에 영향을 주고 재견적이 발생하고 있습니다. NXP MCU 시리즈의 리드타임은 12주에서 20주로 연장되었습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -4286,7 +4276,8 @@
     "subheading": "",
     "text": "6. Renesas 전력 제품(예: ISL99360FRZ-T)의 리드타임은 Nvidia 보드 수요 증가로 1년까지 늘어났다. 2026년 7월 1일부터 5~50% 가격 인상이 예상된다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Renesas"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4576,7 +4567,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "1. Renesas는 심각한 공급 불안정에 직면해 있으며, 전력 관련 품목(예: ISL99390FRZ)의 리드타임은 52주 이상으로 늘어나고 있다. 2026년 7월 1일부터 5~50%의 가격 인상이 예상된다. 타이밍 사업부 매각이 불확실성을 가중시키면서 OEM 전반에서 광범위한 설계 제외 움직임이 나타나고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -4741,7 +4734,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "• Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예: ISL99390FRZ)의 리드타임은 52주 이상이다. 7월 1일부터 5~50%의 가격 인상이 적용되었다. 타이밍 사업 매각과 최근 시스템 업그레이드 차질은 신규 제품 도입(NPI) 프로그램 전반에서 설계 제외 활동을 계속 촉진하고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -4928,9 +4923,7 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "NXP는 2026년 8월 1일부터 적용되는 가격 인상을 발표했으며, 주요 대상은 자동차 및 산업용 MCU 제품군이다(5~15% 인상). 리드타임은 두 배 수준인 26~52주까지 늘어나고 있으며, 일부 고수요 제품은 최대 99주의 납기 지연에 직면하고 있다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"

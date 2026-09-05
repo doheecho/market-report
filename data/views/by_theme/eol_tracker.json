@@ -1345,7 +1345,7 @@
     "subheading": "",
     "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL"
@@ -1453,7 +1453,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL",

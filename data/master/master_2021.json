@@ -274,8 +274,8 @@
     "subheading": "",
     "text": "대다수의 마이크로 컨트롤러 제조업체는 1 월 1 일부터 12 월에 업데이트 된 가격 계획을 발표했습니다. STMicroelectronics, NXP, Renesas의 세 주요 회사는 제품 라인업 전반에 걸쳐 가격을 최소 10% 이상 인상했습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia",
+      "Renesas",
       "STMicroelectronics"
     ],
     "detected_keywords": [],
@@ -288,7 +288,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas의 레거시 시리즈 제품 가격도 인상되었습니다. Renesas는 원자재와 재고 보유 비용 증가, 자재 리드 타임 지연, 정부 규제를 가격 조정의 원인으로 들었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -302,9 +304,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "또한, 유통업체들은 표준 리드 타임이 전반적으로 30주 이상으로 늘고 있는 점에 이미 주목하고 있습니다. 예를 들어, STMIC의 32비트 MCU(ST32 시리즈)는 2020년 3분기 이후로 리드 타임 연장 문제를 겪었습니다. 게다가, 16비트 및 32비트 MCU의 공급이 2020년 4분기에 자동차 수요의 증가로 인해 악화되었습니다. 마지막으로, MCU 공급 문제는 NXP의 MC56F8, MC9S08, MCF5, MCIMX6, FS32K 및 SPC56 시리즈를 포함한 더 많은 브랜드와 시리즈에 영향을 미치고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -318,7 +318,6 @@
     "subheading": "",
     "text": "NXP 유통업체들은 가격이 인상된 자사 제품 중 2,000개가 자동차 응용 분야에만 속한 제품이라는 점을 명시했습니다. 결과적으로, 자동차 관련 시리즈의 현재 리드 타임은 30~50주 또는 그 이상입니다. 2021년 1분기에는 공급이 개선되지 않을 것으로 예상되지만, 웨이퍼 할당에 더 이상 문제가 없다면 2분기에 다시 회복될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -909,6 +908,7 @@
     "subheading": "",
     "text": "상황이 너무 심각해서 미국 정부는 TSMC, MediaTek과 같은 대만 반도체 생산 업체들에게 큰 타격을 입은 미국 자동차 제조업체들의 칩 크런치를 해결하도록 압력을 가했습니다.",
     "detected_vendors": [
+      "Mediatek",
       "TSMC"
     ],
     "detected_keywords": [],
@@ -922,7 +922,6 @@
     "subheading": "",
     "text": "자동차 산업의 예상되는 성장세만으로도 수요가 더욱 커질 것입니다. 여기에는 EV(전기자동차)에 전력 IC와 다중화 버스 시스템 채택이 증가되는 것뿐 아니라, 스마트 시티와 IoT의 본격적인 전개라는 요인도 포함됩니다. 예를 들어 NXP Semiconductors는 오하이오주 콜럼버스시와의 스마트 시티 협업에 있어 다음 단계를 발표했는데, 이를 통해 테스트 목적의 중요한 기술을 제공할 것입니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -1003,9 +1002,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "자동차 수요의 급증을 뒷받침하기 위해, NXP는 공급의 상황을 호전시키기 위해 산업 생산 라인을 자동차 부품에 집중하는 방향으로 전환했습니다. 하지만 단기적으로는 일부 시리즈에서 산업용 MCU가 리드 타임 연장 문제에 직면하고 있습니다. MKExxxx, MKLxxxx, LPCxxx가 가장 큰 영향을 받고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1018,9 +1015,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -1035,7 +1030,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas Electronics Corp.은 2020년까지는 PC와 스마트폰에 비해 상대적으로 마진이 적은 자동차 제품의 사내 생산을 줄였습니다. 하지만 현재 Renesas는 모든 계약 주문을 계속 이행하기 위해 자동차 반도체의 사내 생산을 늘리고 있습니다. 이 회사는 2021년 1분기에 150억 엔 이상의 설비 투자를 계획하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1046,7 +1043,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "그뿐 아니라, Renesas는 진도 7.3의 지진 발생 후 2월 13일에 이바라키 공장의 조업을 중단 했습니다. 전력 복구에도 불구하고, 이 회사는 건물 및 장비 검사를 위해 이틀간 생산을 중단하기로 했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -1499,7 +1498,6 @@
     "subheading": "",
     "text": "지난 2월 중순 텍사스 겨울 폭풍으로 NXP 생산 시설 두 곳이 폐쇄되는 등, 각종 웨이퍼 팹이 피해를 입았습니다. 3월 11일 두 시설의 가동이 재개되었음에도, 생산 지연에 따른 피해가 눈덩이처럼 불어나며 리드 타임에 영향을 미치고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -1578,7 +1576,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일, Renesas는 화재로 인해 일본의 나카 공장을 폐쇄했습니다. 공장 1 층에 화재가 진압 되었음에도 불구하고 회사는 가동을 재개하는 데 최소 한 달이 필요할 것으로 믿고 있으며 분석가들은 생산이 손실되거나 손상된 재고를 보충하기까지 더 오래 걸릴 것이라고 예측합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -1591,7 +1591,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "이 곳에서 생산되는 웨이퍼의 약 2/3는 자동차 생산에 사용됩니다. 이러한 제품 중에는 자동차 및 비자동차 용도의 Renesas MCU R5F, DS7, R5S, R7S7은 물론이고, 전력 관리 및 MOSFET 제품도 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1602,7 +1604,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "이 문제를 극복하려고 Renesas는 손실된 생산 중 일부를 다른 공장으로 이전할 방안을 모색 중입니다. 그 실현 여부는 미지수입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2074,7 +2078,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일 Renesas 나카 공장에서 발생한 화재가 다양한 MCU, 특히 그곳에서 생산하던 자동차 시리즈 R5/R7에 계속 영향을 미치고 있습니다. 공급이 매우 제한적이라, 이 시리즈의 오픈 마켓 가격이 급등했습니다. 그 결과, 이러한 제품의 가격은 표준 가격의 최대 10~15배까지 상승했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -2087,7 +2093,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas는 자동차 이외 분야에 사용되는 MCU 중 일부를 사이조 공장과 다른 파운드리에 주조 공장에 이미 아웃소싱했습니다. Renesas는 3분기에 원래 생산 속도로 돌아갈 것으로 예상하지만, 시간이 더 걸릴 것으로 내다봅니다. Renesas의 UPD 시리즈에 대한 수요가 증가하여 부족이 증가하고 있음을 나타냅니다. 이로 인해 시장에서 부품을 구하기가 빠른 속도로 더 어려워지고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -2139,9 +2147,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -2155,9 +2161,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "예를 들어 MKxxxx 시리즈의 리드 타임은 52주입니다. 2분기와 3분기에는 생산 및 납품 상황이 개선될 것으로 예상되지만, NXP의 자동차 부품 리드 타임은 2021년 남은 기간 동안 계속 길어 질 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2552,7 +2556,6 @@
     "subheading": "",
     "text": "가장 큰 영향을 받고 있는 NXP 및 ST Microelectronics MCU의 자동차용 칩 리드 타임이 계속 오래 걸립니다. 고객께서는 필요할 때 배송받지 못하는 상황을 피하려면 이런 사정을 고려해 적절히 미리 계획하는 것이 좋습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2978,7 +2981,8 @@
     "subheading": "",
     "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
-      "Amd"
+      "Amd",
+      "Mediatek"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3182,8 +3186,8 @@
     "text": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다.",
     "detected_vendors": [
       "Infineon",
-      "NXP",
       "Nexperia",
+      "Renesas",
       "STMicroelectronics"
     ],
     "detected_keywords": [],
@@ -3268,7 +3272,6 @@
     "subheading": "",
     "text": "*   **NXP**: 말레이시아와 대만에 있는 NXP의 조립 및 테스트 공장이 봉쇄 조치의 영향을 받은 것으로 보도되었습니다. 이미 일부 배송이 지연되고 있는 상황에서, 3분기와 4분기 내내 자동차 MCU가 계속 큰 영향을 받을 것으로 예상합니다. 'S9' 시리즈가 가장 눈에 띄게 영향을 받았고 시장에서의 수요가 많습니다. 또한, NXP는 부품이 올바르게 판매되도록 보장하기 위해 오픈 마켓 내의 유통업체 거래 활동을 조사하고 있습니다. 현재 제품 배송에 대해 자세히 들여다 보고 있어 유통업체와 파트너를 위한 배송이 지연되고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -3851,7 +3854,7 @@
     "subheading": "",
     "text": "말레이시아에서 제조되는 Altera의 Cyclone 시리즈 FPGA의 생산량이 말레이시아 정부의 봉쇄 조치로 인해 감소했습니다. 이는 MAX10, MAX II, CYCLONE 10, STRTIX 10, 10M, 10C, 10S 및 CYCLONE 2 3 4 5 시리즈의 극심한 가격 인상으로 이어졌습니다. 심지어 일부 부품의 리드 타임이 1년 이상 밀렸습니다.",
     "detected_vendors": [
-      "Altera"
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4404,7 +4407,6 @@
     "subheading": "",
     "text": "NXP 리드 타임은 계속 늘어나 현재 52주 이상인 상황입니다. 더욱이, 9~11월 사이에 인도 예정인 주문은 이 회사의 말레이시아 조립 공장 폐쇄로 인해 납품이 지연될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -4419,9 +4421,7 @@
     "section_raw": "1 ICs (집적회로)",
     "subheading": "",
     "text": "공급은 적어도 2021년 말까지는 계속 빠듯할 가능성이 큽니다. 수요 증가와 새로운 봉쇄 조치 외에도, 계속되는 웨이퍼 공급 부족으로 인해 NXP가 자동차 고객의 수요를 따라잡을 방법이 없습니다. 이 때문에 공급 제한 상황이 2022년까지 계속될 것으로 보입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
     ],
@@ -4434,9 +4434,7 @@
     "section_raw": "1 ICs (집적회로)",
     "subheading": "",
     "text": "NXP는 3분기에 모든 유통업체의 상품 가격을 10% 인상한다고도 발표했습니다. 영향을 받는 시리즈로는 MKExxxx, MKLxxxx, MCIMxxx, TJAxxx, 산업용 애플리케이션 MCU, MPXxxx 압력 센서, S9S08xxx, MCIMX6xxx, LPC177xxx, LPC24xxx, MCU 32BIT ARM CORTEX 등이 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5068,11 +5066,10 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
+      "Amd",
       "Analog Devices",
       "Broadcom",
-      "NXP",
-      "Nexperia",
-      "Xilinx"
+      "Nexperia"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -5087,7 +5084,7 @@
     "subheading": "",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -5136,7 +5133,6 @@
     "subheading": "",
     "text": "주로 자동차 부문에서 사용되는 NXP MKxxx 시리즈는 코로나19 발병으로 인해 말레이시아에서 이루어진 이전의 공장 폐쇄 사태의 영향을 끊임없이 받았습니다. 제조 지연으로 인해 리드 타임이 극히 늘어나 2022~2023년까지도 제대로 제품 인도가 이행되지 않을 것으로 예상합니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -5602,7 +5598,7 @@
     "subheading": "",
     "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Price Increase",

@@ -148,8 +148,7 @@
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
       "Amd",
-      "Microchip",
-      "Xilinx"
+      "Microchip"
     ],
     "detected_keywords": [
       "M&A"
@@ -617,7 +616,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL",
@@ -751,7 +750,9 @@
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Capacity Expansion"
     ],

@@ -7,7 +7,6 @@
     "subheading": "",
     "text": "우리는 이미 ST Micro 및 NXP 마이크로 컨트롤러의 부족을보고 있으며, 그 원인은 아시아 시장의 산업 및 소비자 부문의 수요 급증과 웨이퍼 공급 부족과 관련이있는 것으로 여겨집니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -23,7 +22,6 @@
     "subheading": "",
     "text": "공급 문제에 원인을 제공하는 또 다른 요인은 웨이퍼 원자재 부족입니다. 이 문제로 인해 NXP MCU의 리드타임이 늘어났습니다. 특히, NXP LPC540X 및 LPC11XX의 리드타임이 최소한 39주 이상으로 늘었습니다. 제조업체에서 가격을 엄격히 관리하고 있고, 유통업체들은 감사에 직면하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -40,7 +38,6 @@
     "subheading": "",
     "text": "NXP 제품의 가격 및 리드 타임이 계속 상승함에 따라 공장이 조만간 가격 인하의 조짐은 보이지 않습니다",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -57,7 +54,6 @@
     "subheading": "",
     "text": "현재, 전 세계 8인치 파운드리 활용률은 계속 100%에 접근하고 있습니다. 수요가 증가했는데, 8인치 파운드리 장비 공급이 고르지 못해 공급이 영향을 받았습니다. 이 때문에, 공급에 비해 수요가 20% 정도 초과하여 어려움이 있었으며 ST Micro 와 NXP Microcontrollers 를 포함한 회사가 공급 부족에 직면해 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -73,7 +69,6 @@
     "subheading": "",
     "text": "따라서 많은 고객이 지금은 다이오드는 NXP, MOSFET 생산은 OnSemi 에 의지하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia",
       "Onsemi"
     ],
@@ -90,7 +85,6 @@
     "detected_vendors": [
       "Infineon",
       "Intel",
-      "NXP",
       "Nexperia",
       "STMicroelectronics",
       "Texas Instruments"
@@ -108,8 +102,8 @@
     "subheading": "",
     "text": "대다수의 마이크로 컨트롤러 제조업체는 1 월 1 일부터 12 월에 업데이트 된 가격 계획을 발표했습니다. STMicroelectronics, NXP, Renesas의 세 주요 회사는 제품 라인업 전반에 걸쳐 가격을 최소 10% 이상 인상했습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia",
+      "Renesas",
       "STMicroelectronics"
     ],
     "detected_keywords": [],
@@ -123,7 +117,6 @@
     "subheading": "",
     "text": "NXP 유통업체들은 가격이 인상된 자사 제품 중 2,000개가 자동차 응용 분야에만 속한 제품이라는 점을 명시했습니다. 결과적으로, 자동차 관련 시리즈의 현재 리드 타임은 30~50주 또는 그 이상입니다. 2021년 1분기에는 공급이 개선되지 않을 것으로 예상되지만, 웨이퍼 할당에 더 이상 문제가 없다면 2분기에 다시 회복될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -140,7 +133,6 @@
     "subheading": "",
     "text": "자동차 산업의 예상되는 성장세만으로도 수요가 더욱 커질 것입니다. 여기에는 EV(전기자동차)에 전력 IC와 다중화 버스 시스템 채택이 증가되는 것뿐 아니라, 스마트 시티와 IoT의 본격적인 전개라는 요인도 포함됩니다. 예를 들어 NXP Semiconductors는 오하이오주 콜럼버스시와의 스마트 시티 협업에 있어 다음 단계를 발표했는데, 이를 통해 테스트 목적의 중요한 기술을 제공할 것입니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -154,7 +146,6 @@
     "subheading": "",
     "text": "지난 2월 중순 텍사스 겨울 폭풍으로 NXP 생산 시설 두 곳이 폐쇄되는 등, 각종 웨이퍼 팹이 피해를 입았습니다. 3월 11일 두 시설의 가동이 재개되었음에도, 생산 지연에 따른 피해가 눈덩이처럼 불어나며 리드 타임에 영향을 미치고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -170,7 +161,6 @@
     "subheading": "",
     "text": "가장 큰 영향을 받고 있는 NXP 및 ST Microelectronics MCU의 자동차용 칩 리드 타임이 계속 오래 걸립니다. 고객께서는 필요할 때 배송받지 못하는 상황을 피하려면 이런 사정을 고려해 적절히 미리 계획하는 것이 좋습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -187,8 +177,8 @@
     "text": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다.",
     "detected_vendors": [
       "Infineon",
-      "NXP",
       "Nexperia",
+      "Renesas",
       "STMicroelectronics"
     ],
     "detected_keywords": [],
@@ -202,7 +192,6 @@
     "subheading": "",
     "text": "*   **NXP**: 말레이시아와 대만에 있는 NXP의 조립 및 테스트 공장이 봉쇄 조치의 영향을 받은 것으로 보도되었습니다. 이미 일부 배송이 지연되고 있는 상황에서, 3분기와 4분기 내내 자동차 MCU가 계속 큰 영향을 받을 것으로 예상합니다. 'S9' 시리즈가 가장 눈에 띄게 영향을 받았고 시장에서의 수요가 많습니다. 또한, NXP는 부품이 올바르게 판매되도록 보장하기 위해 오픈 마켓 내의 유통업체 거래 활동을 조사하고 있습니다. 현재 제품 배송에 대해 자세히 들여다 보고 있어 유통업체와 파트너를 위한 배송이 지연되고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -216,7 +205,6 @@
     "subheading": "",
     "text": "NXP 리드 타임은 계속 늘어나 현재 52주 이상인 상황입니다. 더욱이, 9~11월 사이에 인도 예정인 주문은 이 회사의 말레이시아 조립 공장 폐쇄로 인해 납품이 지연될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -232,11 +220,10 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
+      "Amd",
       "Analog Devices",
       "Broadcom",
-      "NXP",
-      "Nexperia",
-      "Xilinx"
+      "Nexperia"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -251,7 +238,6 @@
     "subheading": "",
     "text": "주로 자동차 부문에서 사용되는 NXP MKxxx 시리즈는 코로나19 발병으로 인해 말레이시아에서 이루어진 이전의 공장 폐쇄 사태의 영향을 끊임없이 받았습니다. 제조 지연으로 인해 리드 타임이 극히 늘어나 2022~2023년까지도 제대로 제품 인도가 이행되지 않을 것으로 예상합니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -267,7 +253,6 @@
     "subheading": "",
     "text": "중국 생산 공장이 주로 MCIMX 시리즈 MCU에 주력하는 NXP Tianjin은 최근 코로나19 봉쇄 조치의 영향을 받았습니다. 그 결과로, 자동차 부품에 대한 리드 타임은 현재 52주를 넘어 늘어날 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -299,7 +284,6 @@
     "subheading": "",
     "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -316,7 +300,6 @@
     "subheading": "",
     "text": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -330,7 +313,6 @@
     "subheading": "",
     "text": "NXP 웹사이트의 C라인 웹페이지는 중국 IP 주소를 가진 방문자만 액세스할 수 있습니다. 제조업체는 S라인에서 C라인 시리즈로의 전환이 부품 번호 변경, 특히 문자 'S'를 'C'로 변경하는 것으로 제한된다고 밝혔습니다. 이러한 변경은 특정 지역과 관련된 제품에 영향을 미치며 글로벌 및 지역 간 무역에 부정적인 영향을 미칠 수 있습니다. 일반 버전의 S라인 공급은 시장에서 더 제한될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -344,7 +326,6 @@
     "subheading": "",
     "text": "네트워킹 컨트롤러에 사용되는 NXP MPU의 MPC8시리즈는2025년1분기 동안 수요가 증가하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -358,7 +339,6 @@
     "subheading": "",
     "text": "NXP i.MX8시리즈는 기존 i.MX6 시리즈를 점진적으로 대체하려고 하지만, 가격 차이로 인해 전환이 예상보다 원활하지 않습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -372,7 +352,6 @@
     "subheading": "",
     "text": "NXP는 RF 제품 가격 인상을 진행하고 있으며, 이로 인해 백로그에 영향을 주고 재견적이 발생하고 있습니다. NXP MCU 시리즈의 리드타임은 12주에서 20주로 연장되었습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [

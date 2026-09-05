@@ -596,7 +596,6 @@
     "subheading": "",
     "text": "우리는 이미 ST Micro 및 NXP 마이크로 컨트롤러의 부족을보고 있으며, 그 원인은 아시아 시장의 산업 및 소비자 부문의 수요 급증과 웨이퍼 공급 부족과 관련이있는 것으로 여겨집니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -640,7 +639,6 @@
     "subheading": "",
     "text": "공급 문제에 원인을 제공하는 또 다른 요인은 웨이퍼 원자재 부족입니다. 이 문제로 인해 NXP MCU의 리드타임이 늘어났습니다. 특히, NXP LPC540X 및 LPC11XX의 리드타임이 최소한 39주 이상으로 늘었습니다. 제조업체에서 가격을 엄격히 관리하고 있고, 유통업체들은 감사에 직면하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -734,7 +732,6 @@
     "subheading": "",
     "text": "현재, 전 세계 8인치 파운드리 활용률은 계속 100%에 접근하고 있습니다. 수요가 증가했는데, 8인치 파운드리 장비 공급이 고르지 못해 공급이 영향을 받았습니다. 이 때문에, 공급에 비해 수요가 20% 정도 초과하여 어려움이 있었으며 ST Micro 와 NXP Microcontrollers 를 포함한 회사가 공급 부족에 직면해 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -1078,7 +1075,6 @@
     "detected_vendors": [
       "Infineon",
       "Intel",
-      "NXP",
       "Nexperia",
       "STMicroelectronics",
       "Texas Instruments"
@@ -1559,9 +1555,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -1576,7 +1570,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "그뿐 아니라, Renesas는 진도 7.3의 지진 발생 후 2월 13일에 이바라키 공장의 조업을 중단 했습니다. 전력 복구에도 불구하고, 이 회사는 건물 및 장비 검사를 위해 이틀간 생산을 중단하기로 했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -1784,7 +1780,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일, Renesas는 화재로 인해 일본의 나카 공장을 폐쇄했습니다. 공장 1 층에 화재가 진압 되었음에도 불구하고 회사는 가동을 재개하는 데 최소 한 달이 필요할 것으로 믿고 있으며 분석가들은 생산이 손실되거나 손상된 재고를 보충하기까지 더 오래 걸릴 것이라고 예측합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -2019,7 +2017,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일 Renesas 나카 공장에서 발생한 화재가 다양한 MCU, 특히 그곳에서 생산하던 자동차 시리즈 R5/R7에 계속 영향을 미치고 있습니다. 공급이 매우 제한적이라, 이 시리즈의 오픈 마켓 가격이 급등했습니다. 그 결과, 이러한 제품의 가격은 표준 가격의 최대 10~15배까지 상승했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -2032,7 +2032,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas는 자동차 이외 분야에 사용되는 MCU 중 일부를 사이조 공장과 다른 파운드리에 주조 공장에 이미 아웃소싱했습니다. Renesas는 3분기에 원래 생산 속도로 돌아갈 것으로 예상하지만, 시간이 더 걸릴 것으로 내다봅니다. Renesas의 UPD 시리즈에 대한 수요가 증가하여 부족이 증가하고 있음을 나타냅니다. 이로 인해 시장에서 부품을 구하기가 빠른 속도로 더 어려워지고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -2360,7 +2362,8 @@
     "subheading": "",
     "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
-      "Amd"
+      "Amd",
+      "Mediatek"
     ],
     "detected_keywords": [
       "Shortage"
@@ -2761,9 +2764,7 @@
     "section_raw": "1 ICs (집적회로)",
     "subheading": "",
     "text": "공급은 적어도 2021년 말까지는 계속 빠듯할 가능성이 큽니다. 수요 증가와 새로운 봉쇄 조치 외에도, 계속되는 웨이퍼 공급 부족으로 인해 NXP가 자동차 고객의 수요를 따라잡을 방법이 없습니다. 이 때문에 공급 제한 상황이 2022년까지 계속될 것으로 보입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
     ],
@@ -2924,7 +2925,7 @@
     "subheading": "",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -3110,7 +3111,7 @@
     "subheading": "",
     "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -3775,7 +3776,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "일본에 있는 Renesas 공장 두 곳이 1분기에 두 차례 지진의 영향을 받았습니다. 피해 평가를 위한 작업 중단으로 인한 생산 지연으로 생산량이 감소했습니다. 3월 16일 발생한 지진의 진원지 근처에 위치한 공장 세 곳은 나카 공장, 타카사키 공장, 요네자와 공장입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -4037,8 +4040,7 @@
     "subheading": "",
     "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
     "detected_vendors": [
-      "Microchip",
-      "NXP"
+      "Microchip"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4098,7 +4100,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Renesas는 코로나19 봉쇄 및 지진의 여파로 인해 공장 가동이 차질을 빚고 있습니다. 이는 지연 및 가격 상승으로 이어져 리드 타임은 일 년을 초과하게 되었고 제조업체는 5월 모든 시리즈의 가격을 인상했습니다. 특히 R5F523/RF5100/R5F101 시리즈의 리드 타임은 50주 이상으로 늘어났고 Intersil 시리즈 CA3/DG4/ICL3/ISL12/ISL2는 78주로 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Natural Disaster / Incident",
@@ -4506,6 +4510,7 @@
     "subheading": "",
     "text": "Toshiba의 광학 아이솔레이터(TLP 시리즈)와 IC 드라이버(TC 시리즈)가 심각한 공급 부족 상태를 겪고 있으며, 일부 유통업체에서는 평균 6~9개월의 리드 타임이 소요될 것으로 견적을 내고 있습니다. 가장 심각한 영향을 받은 시리즈는 2년 이상으로 지연되었습니다. 이와 유사하게 Linear Technology와 Renesas는 리드 타임이 연장되고 시장 가격이 인상될 것으로 예상하고 있습니다. Renesas의 R5 및 R7 시리즈의 경우 현재 최소 52주의 리드 타임이 소요됩니다.",
     "detected_vendors": [
+      "Renesas",
       "Toshiba"
     ],
     "detected_keywords": [
@@ -4828,9 +4833,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -5203,9 +5206,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "NXP의 센서 공급은 안정화되었지만, 자동차 및 산업용 고객에 대한 MCU 제약은 계속되고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
     ],
@@ -5261,7 +5262,6 @@
     "subheading": "",
     "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -5562,7 +5562,7 @@
     "subheading": "",
     "text": "Renesas 및 NXP의 차량용 집적 회로에 대한 공급 부족이 계속되고 있습니다.",
     "detected_vendors": [
-      "NXP"
+      "Renesas"
     ],
     "detected_keywords": [
       "Shortage"
@@ -5604,7 +5604,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 16~24주의 표준 기간으로 돌아감에 따라 일반 시리즈를 중심으로 Renesas 시리즈의 시장 상황이 안정화되고 있습니다. 그러나 자동차용 시리즈의 경우 수요로 인해 리드 타임이 더 길어지고 있습니다. 이미지 센서, MOSFET 및 트랜지스터의 공급 부족이 지속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5618,7 +5620,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "자동차 시장의 활동으로 인해 Renesas는 주요 시장 동인인 R5# 및 R7# MCU 시리즈에 대한 주문을 우선적으로 처리하고 있습니다. 또한 R5F, ISL 및 PS 시리즈와 함께 한동안 공급 부족을 경험하고 있었습니다. Renesas의 리드 타임은 다음과 같습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5646,9 +5650,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP는 자동차용 시리즈에서도 비슷한 제약을 겪고 있습니다. MCIMxx 시리즈의 리드 타임은 불안정하며 최대 70주까지 늘어납니다. 반면, 자동차용 MCU 시리즈인 FSxxx는 최소 52주입니다. 심각한 공급 부족에 직면한 S9x 시리즈의 가격도 상승하고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -6152,9 +6154,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP에서 공급하는 MCU는 지속적인 공급 부족을 겪고 있으며 MCIMX6 시리즈는 99주를 초과하는 리드 타임으로 2023년을 시작했습니다. 공급은 개선되지 않았으며 MCIMX6 시리즈의 가격은 10%에서 15%까지 인상되었습니다. NXP에서는 MCIMX8 시리즈를 지원하기 위해 생산 능력 및 라인업을 전환하고 있어 공급 부족은 계속될 전망입니다. MCIMX6의 리드 타임은 단축되고 있으나 여전히 87주 내외입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -6168,9 +6168,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -6292,9 +6290,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "Vishay 및 NXP의 제조 능력의 어려움으로 인해 리드 타임이 변동하고 있으며, 이로 인해 제약이 발생하고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -6349,9 +6345,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 길면 NXP의 S32K1 시리즈 ARM MCU의 특정 MPN에 영향을 미칩니다. 가장 짧은 리드 타임은 52주이며, 제약이 많은 시리즈는 170주까지 늘어납니다. 이는 배송이 지연되고 제조업체의 할당량이 제한적이었던 FS32K144 및 FS32K146의 시장 가격이 눈에 띄게 상승한 데 따른 것입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -7093,7 +7087,7 @@
     "subheading": "",
     "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL"
@@ -7975,7 +7969,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL",
@@ -7992,6 +7986,7 @@
     "subheading": "",
     "text": "IC 생산 용량 제약: 온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
     "detected_vendors": [
+      "Analog Devices",
       "Onsemi"
     ],
     "detected_keywords": [
@@ -9213,7 +9208,7 @@
     "subheading": "",
     "text": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다. 주문 시스템 업데이트는 2025년 8월 15일에 시행되었으며, 1~2분기 내 해결이 예상됩니다.",
     "detected_vendors": [
-      "Altera"
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -10767,7 +10762,9 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 르네사스 공급 불안정, 시장 전반의 설계 변경 촉발: 르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -10782,7 +10779,6 @@
     "subheading": "",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
-      "Altera",
       "Analog Devices",
       "Intel",
       "Lattice",
@@ -11507,9 +11503,9 @@
     "subheading": "",
     "text": "• Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
     "detected_vendors": [
-      "Altera",
-      "Lattice",
-      "Xilinx"
+      "Amd",
+      "Intel",
+      "Lattice"
     ],
     "detected_keywords": [
       "Discommit",
@@ -12165,6 +12161,7 @@
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [
@@ -12231,7 +12228,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "5. Renesas는 구마모토 지진의 여파를 계속 겪고 있습니다. 포토커플러 생산은 여전히 중단된 상태이거나 서서히 회복되고 있으며, 자동차용 MCU(RL78·RH850)의 백로그도 크게 늘어나고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -12245,8 +12244,8 @@
     "subheading": "",
     "text": "7. Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다.",
     "detected_vendors": [
-      "Altera",
-      "Xilinx"
+      "Amd",
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -12475,7 +12474,9 @@
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],

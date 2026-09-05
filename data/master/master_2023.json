@@ -6,9 +6,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -135,8 +133,7 @@
     "subheading": "",
     "text": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다. AMD는 2023년에 Xilinx 재고를 모두 소진하고 생산 리드 타임 주기를 단축하고자 합니다. 현재 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Amd",
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -176,7 +173,7 @@
     "subheading": "",
     "text": "잔여 Xilinx 머추어 노드: 2023년 1분기까지 표준 리드 타임 예상",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -705,7 +702,9 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1582,9 +1581,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "NXP의 센서 공급은 안정화되었지만, 자동차 및 산업용 고객에 대한 MCU 제약은 계속되고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
     ],
@@ -1692,7 +1689,6 @@
     "subheading": "",
     "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2594,7 +2590,7 @@
     "subheading": "",
     "text": "Renesas 및 NXP의 차량용 집적 회로에 대한 공급 부족이 계속되고 있습니다.",
     "detected_vendors": [
-      "NXP"
+      "Renesas"
     ],
     "detected_keywords": [
       "Shortage"
@@ -2671,7 +2667,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 16~24주의 표준 기간으로 돌아감에 따라 일반 시리즈를 중심으로 Renesas 시리즈의 시장 상황이 안정화되고 있습니다. 그러나 자동차용 시리즈의 경우 수요로 인해 리드 타임이 더 길어지고 있습니다. 이미지 센서, MOSFET 및 트랜지스터의 공급 부족이 지속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -2685,7 +2683,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "자동차 시장의 활동으로 인해 Renesas는 주요 시장 동인인 R5# 및 R7# MCU 시리즈에 대한 주문을 우선적으로 처리하고 있습니다. 또한 R5F, ISL 및 PS 시리즈와 함께 한동안 공급 부족을 경험하고 있었습니다. Renesas의 리드 타임은 다음과 같습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -2739,9 +2739,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP는 자동차용 시리즈에서도 비슷한 제약을 겪고 있습니다. MCIMxx 시리즈의 리드 타임은 불안정하며 최대 70주까지 늘어납니다. 반면, 자동차용 MCU 시리즈인 FSxxx는 최소 52주입니다. 심각한 공급 부족에 직면한 S9x 시리즈의 가격도 상승하고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -4545,9 +4543,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP에서 공급하는 MCU는 지속적인 공급 부족을 겪고 있으며 MCIMX6 시리즈는 99주를 초과하는 리드 타임으로 2023년을 시작했습니다. 공급은 개선되지 않았으며 MCIMX6 시리즈의 가격은 10%에서 15%까지 인상되었습니다. NXP에서는 MCIMX8 시리즈를 지원하기 위해 생산 능력 및 라인업을 전환하고 있어 공급 부족은 계속될 전망입니다. MCIMX6의 리드 타임은 단축되고 있으나 여전히 87주 내외입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -4561,9 +4557,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -5275,9 +5269,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "Vishay 및 NXP의 제조 능력의 어려움으로 인해 리드 타임이 변동하고 있으며, 이로 인해 제약이 발생하고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5406,9 +5398,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 길면 NXP의 S32K1 시리즈 ARM MCU의 특정 MPN에 영향을 미칩니다. 가장 짧은 리드 타임은 52주이며, 제약이 많은 시리즈는 170주까지 늘어납니다. 이는 배송이 지연되고 제조업체의 할당량이 제한적이었던 FS32K144 및 FS32K146의 시장 가격이 눈에 띄게 상승한 데 따른 것입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -5423,9 +5413,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "또한 NXP는 최종 고객에게 10%~20% 범위 내에서 MCIMX6 시리즈에 대한 공식 가격 인상 공지를 보냈습니다. 이 시리즈의 리드 타임은 다양하지만, 소비자 응용 분야의 일부 MPN은 37주에서 50주 사이입니다. 산업용 응용 분야의 MPN은 최대 57주의 리드 타임을 보고했습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"

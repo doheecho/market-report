@@ -388,7 +388,6 @@
     "subheading": "",
     "text": "공급 문제에 원인을 제공하는 또 다른 요인은 웨이퍼 원자재 부족입니다. 이 문제로 인해 NXP MCU의 리드타임이 늘어났습니다. 특히, NXP LPC540X 및 LPC11XX의 리드타임이 최소한 39주 이상으로 늘었습니다. 제조업체에서 가격을 엄격히 관리하고 있고, 유통업체들은 감사에 직면하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -405,7 +404,6 @@
     "subheading": "",
     "text": "NXP 제품의 가격 및 리드 타임이 계속 상승함에 따라 공장이 조만간 가격 인하의 조짐은 보이지 않습니다",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -522,7 +520,9 @@
     "section_raw": "3 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas 의 리드 타임이 계속 연장되고 있습니다. Renesas 측에서 공식적인 성명 발표는 없지만, 코로나19 팬데믹이 시작된 후로 공급 압박을 받아왔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -717,7 +717,9 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas의 레거시 시리즈 제품 가격도 인상되었습니다. Renesas는 원자재와 재고 보유 비용 증가, 자재 리드 타임 지연, 정부 규제를 가격 조정의 원인으로 들었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -731,9 +733,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "또한, 유통업체들은 표준 리드 타임이 전반적으로 30주 이상으로 늘고 있는 점에 이미 주목하고 있습니다. 예를 들어, STMIC의 32비트 MCU(ST32 시리즈)는 2020년 3분기 이후로 리드 타임 연장 문제를 겪었습니다. 게다가, 16비트 및 32비트 MCU의 공급이 2020년 4분기에 자동차 수요의 증가로 인해 악화되었습니다. 마지막으로, MCU 공급 문제는 NXP의 MC56F8, MC9S08, MCF5, MCIMX6, FS32K 및 SPC56 시리즈를 포함한 더 많은 브랜드와 시리즈에 영향을 미치고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -747,7 +747,6 @@
     "subheading": "",
     "text": "NXP 유통업체들은 가격이 인상된 자사 제품 중 2,000개가 자동차 응용 분야에만 속한 제품이라는 점을 명시했습니다. 결과적으로, 자동차 관련 시리즈의 현재 리드 타임은 30~50주 또는 그 이상입니다. 2021년 1분기에는 공급이 개선되지 않을 것으로 예상되지만, 웨이퍼 할당에 더 이상 문제가 없다면 2분기에 다시 회복될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -955,9 +954,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "자동차 수요의 급증을 뒷받침하기 위해, NXP는 공급의 상황을 호전시키기 위해 산업 생산 라인을 자동차 부품에 집중하는 방향으로 전환했습니다. 하지만 단기적으로는 일부 시리즈에서 산업용 MCU가 리드 타임 연장 문제에 직면하고 있습니다. MKExxxx, MKLxxxx, LPCxxx가 가장 큰 영향을 받고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -970,9 +967,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -1079,7 +1074,6 @@
     "subheading": "",
     "text": "지난 2월 중순 텍사스 겨울 폭풍으로 NXP 생산 시설 두 곳이 폐쇄되는 등, 각종 웨이퍼 팹이 피해를 입았습니다. 3월 11일 두 시설의 가동이 재개되었음에도, 생산 지연에 따른 피해가 눈덩이처럼 불어나며 리드 타임에 영향을 미치고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -1323,9 +1317,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -1339,9 +1331,7 @@
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "예를 들어 MKxxxx 시리즈의 리드 타임은 52주입니다. 2분기와 3분기에는 생산 및 납품 상황이 개선될 것으로 예상되지만, NXP의 자동차 부품 리드 타임은 2021년 남은 기간 동안 계속 길어 질 것으로 예상됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1566,7 +1556,6 @@
     "subheading": "",
     "text": "가장 큰 영향을 받고 있는 NXP 및 ST Microelectronics MCU의 자동차용 칩 리드 타임이 계속 오래 걸립니다. 고객께서는 필요할 때 배송받지 못하는 상황을 피하려면 이런 사정을 고려해 적절히 미리 계획하는 것이 좋습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -1911,7 +1900,7 @@
     "subheading": "",
     "text": "말레이시아에서 제조되는 Altera의 Cyclone 시리즈 FPGA의 생산량이 말레이시아 정부의 봉쇄 조치로 인해 감소했습니다. 이는 MAX10, MAX II, CYCLONE 10, STRTIX 10, 10M, 10C, 10S 및 CYCLONE 2 3 4 5 시리즈의 극심한 가격 인상으로 이어졌습니다. 심지어 일부 부품의 리드 타임이 1년 이상 밀렸습니다.",
     "detected_vendors": [
-      "Altera"
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -2056,7 +2045,6 @@
     "subheading": "",
     "text": "NXP 리드 타임은 계속 늘어나 현재 52주 이상인 상황입니다. 더욱이, 9~11월 사이에 인도 예정인 주문은 이 회사의 말레이시아 조립 공장 폐쇄로 인해 납품이 지연될 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2249,7 +2237,7 @@
     "subheading": "",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -2281,7 +2269,6 @@
     "subheading": "",
     "text": "주로 자동차 부문에서 사용되는 NXP MKxxx 시리즈는 코로나19 발병으로 인해 말레이시아에서 이루어진 이전의 공장 폐쇄 사태의 영향을 끊임없이 받았습니다. 제조 지연으로 인해 리드 타임이 극히 늘어나 2022~2023년까지도 제대로 제품 인도가 이행되지 않을 것으로 예상합니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2658,7 +2645,6 @@
     "subheading": "",
     "text": "중국 생산 공장이 주로 MCIMX 시리즈 MCU에 주력하는 NXP Tianjin은 최근 코로나19 봉쇄 조치의 영향을 받았습니다. 그 결과로, 자동차 부품에 대한 리드 타임은 현재 52주를 넘어 늘어날 수 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2701,7 +2687,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "일부 Maxim 부품에 대한 리드 타임이 최대 90주까지 증가한 것으로 알려졌습니다. Maxim의 DS 시리즈 리드 타임은 70주까지 늘어났습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3120,8 +3108,7 @@
     "subheading": "",
     "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
     "detected_vendors": [
-      "Microchip",
-      "NXP"
+      "Microchip"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -3184,7 +3171,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Renesas는 코로나19 봉쇄 및 지진의 여파로 인해 공장 가동이 차질을 빚고 있습니다. 이는 지연 및 가격 상승으로 이어져 리드 타임은 일 년을 초과하게 되었고 제조업체는 5월 모든 시리즈의 가격을 인상했습니다. 특히 R5F523/RF5100/R5F101 시리즈의 리드 타임은 50주 이상으로 늘어났고 Intersil 시리즈 CA3/DG4/ICL3/ISL12/ISL2는 78주로 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Natural Disaster / Incident",
@@ -3497,6 +3486,7 @@
     "subheading": "",
     "text": "Toshiba의 광학 아이솔레이터(TLP 시리즈)와 IC 드라이버(TC 시리즈)가 심각한 공급 부족 상태를 겪고 있으며, 일부 유통업체에서는 평균 6~9개월의 리드 타임이 소요될 것으로 견적을 내고 있습니다. 가장 심각한 영향을 받은 시리즈는 2년 이상으로 지연되었습니다. 이와 유사하게 Linear Technology와 Renesas는 리드 타임이 연장되고 시장 가격이 인상될 것으로 예상하고 있습니다. Renesas의 R5 및 R7 시리즈의 경우 현재 최소 52주의 리드 타임이 소요됩니다.",
     "detected_vendors": [
+      "Renesas",
       "Toshiba"
     ],
     "detected_keywords": [
@@ -3572,7 +3562,6 @@
     "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
     "detected_vendors": [
       "Analog Devices",
-      "NXP",
       "Onsemi",
       "Texas Instruments"
     ],
@@ -3588,7 +3577,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Maxim 증폭기 제품은 현재 리드 타임이 60주에 달하며, MAX 40/44/96/99은 상당히 짧습니다. Maxim은 하이 레벨 사업에 집중하기 위해 이윤이 적은 제품의 생산을 줄이고 있습니다. 이로 인해 용량에 어떤 영향이 있을지에 대한 소식은 없지만, 수요가 강력하게 유지된다면 Maxim이 9월경 가격을 인상할 것이라는 소문이 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3674,9 +3665,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3782,7 +3771,6 @@
     "subheading": "",
     "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다.",
     "detected_vendors": [
-      "NXP",
       "TSMC"
     ],
     "detected_keywords": [
@@ -3896,9 +3884,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -3944,8 +3930,7 @@
     "subheading": "",
     "text": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다. AMD는 2023년에 Xilinx 재고를 모두 소진하고 생산 리드 타임 주기를 단축하고자 합니다. 현재 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Amd",
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -3974,7 +3959,7 @@
     "subheading": "",
     "text": "잔여 Xilinx 머추어 노드: 2023년 1분기까지 표준 리드 타임 예상",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -4157,7 +4142,9 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -4443,7 +4430,6 @@
     "subheading": "",
     "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -4782,7 +4768,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 16~24주의 표준 기간으로 돌아감에 따라 일반 시리즈를 중심으로 Renesas 시리즈의 시장 상황이 안정화되고 있습니다. 그러나 자동차용 시리즈의 경우 수요로 인해 리드 타임이 더 길어지고 있습니다. 이미지 센서, MOSFET 및 트랜지스터의 공급 부족이 지속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -4796,7 +4784,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "자동차 시장의 활동으로 인해 Renesas는 주요 시장 동인인 R5# 및 R7# MCU 시리즈에 대한 주문을 우선적으로 처리하고 있습니다. 또한 R5F, ISL 및 PS 시리즈와 함께 한동안 공급 부족을 경험하고 있었습니다. Renesas의 리드 타임은 다음과 같습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -4850,9 +4840,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP는 자동차용 시리즈에서도 비슷한 제약을 겪고 있습니다. MCIMxx 시리즈의 리드 타임은 불안정하며 최대 70주까지 늘어납니다. 반면, 자동차용 MCU 시리즈인 FSxxx는 최소 52주입니다. 심각한 공급 부족에 직면한 S9x 시리즈의 가격도 상승하고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5407,9 +5395,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "NXP에서 공급하는 MCU는 지속적인 공급 부족을 겪고 있으며 MCIMX6 시리즈는 99주를 초과하는 리드 타임으로 2023년을 시작했습니다. 공급은 개선되지 않았으며 MCIMX6 시리즈의 가격은 10%에서 15%까지 인상되었습니다. NXP에서는 MCIMX8 시리즈를 지원하기 위해 생산 능력 및 라인업을 전환하고 있어 공급 부족은 계속될 전망입니다. MCIMX6의 리드 타임은 단축되고 있으나 여전히 87주 내외입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5423,9 +5409,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -5717,9 +5701,7 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "Vishay 및 NXP의 제조 능력의 어려움으로 인해 리드 타임이 변동하고 있으며, 이로 인해 제약이 발생하고 있습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5746,9 +5728,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 길면 NXP의 S32K1 시리즈 ARM MCU의 특정 MPN에 영향을 미칩니다. 가장 짧은 리드 타임은 52주이며, 제약이 많은 시리즈는 170주까지 늘어납니다. 이는 배송이 지연되고 제조업체의 할당량이 제한적이었던 FS32K144 및 FS32K146의 시장 가격이 눈에 띄게 상승한 데 따른 것입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -5763,9 +5743,7 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "또한 NXP는 최종 고객에게 10%~20% 범위 내에서 MCIMX6 시리즈에 대한 공식 가격 인상 공지를 보냈습니다. 이 시리즈의 리드 타임은 다양하지만, 소비자 응용 분야의 일부 MPN은 37주에서 50주 사이입니다. 산업용 응용 분야의 MPN은 최대 57주의 리드 타임을 보고했습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -6554,9 +6532,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "NXP에서는 2024년 초부터 MCU 제품 가격을 꾸준히 조정해 왔습니다. 수차례의 협상 끝에 대부분의 최종 고객이 새로운 계약 가격을 제시받았습니다. 지금까지 수요가 많았던 FS32 MCU의 경우 리드 타임이 안정되어 시장 공급이 원활하게 이루어집니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -6569,9 +6545,7 @@
     "section_raw": "CPU",
     "subheading": "",
     "text": "노후화된 IMX6 모델 MCU의 경우 계약 가격에 대한 비용이 조정되면서 리드 타임이 늘어났습니다. NXP가 점차 최신 제품 생산에 주력하면서 해당 시리즈의 공급이 제한적입니다. IMX8 시리즈는 새로운 핵심 모델이자 표준 선택으로 자리매김할 것입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -6839,7 +6813,9 @@
     "section_raw": "IC",
     "subheading": "",
     "text": "Maxim Integrated의 경우 몇 달 동안 불안정한 리드 타임으로 어려움을 겪고 있으며, 이는 적시 배송이 중요한 고객에게 지연과 불만을 유발하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -7184,7 +7160,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "EOL",
@@ -8163,7 +8139,6 @@
     "subheading": "",
     "text": "Altera (Intel) 주문은 데이터 마이그레이션 중으로, 소폭의 가격 변동과 잠재적인 리드타임 지연이 발생하고 있습니다. 여기에 더해, 조립 및 테스트 하우스의 제한된 생산 능력으로 인해 FPGA Cyclone® 10 GX, Arria® II/V/10, Stratix® III/IV/V 제품군의 리드타임이 24주로 연장되었습니다.",
     "detected_vendors": [
-      "Altera",
       "Intel"
     ],
     "detected_keywords": [
@@ -8447,7 +8422,9 @@
     "section_raw": "집적 회로",
     "subheading": "",
     "text": "애널로그 디바이스는 대부분의 Maxim 시리즈 리드타임을 30주 이상으로 연장했습니다. 최종 고객의 당겨오기 요청은 충족되기 어려운 상황입니다. Linear Tech 제품은 이제 아날로그 및 전력 관리 장치에서 특히 36~42주의 리드타임을 보이고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -8461,7 +8438,7 @@
     "subheading": "",
     "text": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다. 주문 시스템 업데이트는 2025년 8월 15일에 시행되었으며, 1~2분기 내 해결이 예상됩니다.",
     "detected_vendors": [
-      "Altera"
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -8477,7 +8454,6 @@
     "subheading": "",
     "text": "NXP는 RF 제품 가격 인상을 진행하고 있으며, 이로 인해 백로그에 영향을 주고 재견적이 발생하고 있습니다. NXP MCU 시리즈의 리드타임은 12주에서 20주로 연장되었습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -9135,7 +9111,7 @@
     "subheading": "",
     "text": "자일링스XC7 시리즈는 원자재 공급 및 비용 영향으로 최근 리드타임이 14~23주로 연장되었습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -9742,8 +9718,8 @@
     "subheading": "",
     "text": "Xilinx Spartan-7 및 Lattice 디바이스의 리드타임은 AI 서버 수요가 패키징 및 유리 섬유 원자재를 잠식함에 따라 기존 8주에서 32~52주로 급증했습니다.",
     "detected_vendors": [
-      "Lattice",
-      "Xilinx"
+      "Amd",
+      "Lattice"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -10187,7 +10163,8 @@
     "subheading": "",
     "text": "6. Renesas 전력 제품(예: ISL99360FRZ-T)의 리드타임은 Nvidia 보드 수요 증가로 1년까지 늘어났다. 2026년 7월 1일부터 5~50% 가격 인상이 예상된다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Renesas"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -10502,7 +10479,9 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 르네사스 공급 불안정, 시장 전반의 설계 변경 촉발: 르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -10517,7 +10496,6 @@
     "subheading": "",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
-      "Altera",
       "Analog Devices",
       "Intel",
       "Lattice",
@@ -10587,7 +10565,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "2. 르네사스는 심각한 공급 불안정에 직면해 있으며, 고객들은 출하 중단과 불명확한 납품 일정을 보고하고 있습니다. 타이밍 사업부 매각은 불확실성을 더욱 가중시키며, OEM 전반에서 광범위한 설계 제외(design-out) 움직임을 촉발하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -10667,7 +10647,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "7. Diodes Incorporated의 리드타임은 크게 늘어나, 경우에 따라 48주에서 최대 1년까지 소요되고 있습니다. 동사는 르네사스 설계 제외 흐름의 수혜를 입고 있으며, 대체 프로그램 전반에서 수요가 증가하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -10959,7 +10941,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "1. Renesas는 심각한 공급 불안정에 직면해 있으며, 전력 관련 품목(예: ISL99390FRZ)의 리드타임은 52주 이상으로 늘어나고 있다. 2026년 7월 1일부터 5~50%의 가격 인상이 예상된다. 타이밍 사업부 매각이 불확실성을 가중시키면서 OEM 전반에서 광범위한 설계 제외 움직임이 나타나고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -11425,7 +11409,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "• Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예: ISL99390FRZ)의 리드타임은 52주 이상이다. 7월 1일부터 5~50%의 가격 인상이 적용되었다. 타이밍 사업 매각과 최근 시스템 업그레이드 차질은 신규 제품 도입(NPI) 프로그램 전반에서 설계 제외 활동을 계속 촉진하고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -11474,9 +11460,9 @@
     "subheading": "",
     "text": "• Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
     "detected_vendors": [
-      "Altera",
-      "Lattice",
-      "Xilinx"
+      "Amd",
+      "Intel",
+      "Lattice"
     ],
     "detected_keywords": [
       "Discommit",
@@ -11962,9 +11948,7 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "NXP는 2026년 8월 1일부터 적용되는 가격 인상을 발표했으며, 주요 대상은 자동차 및 산업용 MCU 제품군이다(5~15% 인상). 리드타임은 두 배 수준인 26~52주까지 늘어나고 있으며, 일부 고수요 제품은 최대 99주의 납기 지연에 직면하고 있다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -12307,8 +12291,8 @@
     "subheading": "",
     "text": "7. Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다.",
     "detected_vendors": [
-      "Altera",
-      "Xilinx"
+      "Amd",
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",

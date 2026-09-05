@@ -115,6 +115,7 @@
     "subheading": "",
     "text": "상황이 너무 심각해서 미국 정부는 TSMC, MediaTek과 같은 대만 반도체 생산 업체들에게 큰 타격을 입은 미국 자동차 제조업체들의 칩 크런치를 해결하도록 압력을 가했습니다.",
     "detected_vendors": [
+      "Mediatek",
       "TSMC"
     ],
     "detected_keywords": [],
@@ -369,7 +370,6 @@
     "subheading": "",
     "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다.",
     "detected_vendors": [
-      "NXP",
       "TSMC"
     ],
     "detected_keywords": [

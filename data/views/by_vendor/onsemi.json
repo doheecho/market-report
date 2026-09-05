@@ -7,7 +7,6 @@
     "subheading": "",
     "text": "따라서 많은 고객이 지금은 다이오드는 NXP, MOSFET 생산은 OnSemi 에 의지하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia",
       "Onsemi"
     ],
@@ -256,7 +255,6 @@
     "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
     "detected_vendors": [
       "Analog Devices",
-      "NXP",
       "Onsemi",
       "Texas Instruments"
     ],
@@ -418,6 +416,7 @@
     "subheading": "",
     "text": "IC 생산 용량 제약: 온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
     "detected_vendors": [
+      "Analog Devices",
       "Onsemi"
     ],
     "detected_keywords": [

@@ -850,6 +850,7 @@
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [

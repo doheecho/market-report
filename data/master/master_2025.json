@@ -49,7 +49,6 @@
     "subheading": "",
     "text": "네트워킹 컨트롤러에 사용되는 NXP MPU의 MPC8시리즈는2025년1분기 동안 수요가 증가하고 있습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -514,9 +513,7 @@
     "section_raw": "집적 회로 시장 변화 동향",
     "subheading": "",
     "text": "NXP의 MPC8 시리즈 수요는 전반적인 시장 변동에도 불구하고 네트워킹 분야에서 꾸준히 증가 중입니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1175,7 +1172,9 @@
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "Renesas는 진행 중인 생산 재고의 감소가 예상보다 더디게 진행되며, 자사 내 재고 수준이 증가하고 있다고 언급했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1234,9 +1233,7 @@
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "NXP는 Tier 1 자동차 고객의 재고 수준에 대해 조심스러운 입장을 유지하고 있으며, 과잉 재고가 언제 해소될지는 확실하지 않다고 밝혔습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1481,7 +1478,9 @@
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "Renesas는 산업 수요에 어려움이 있지만, 자동차용 마이크로컨트롤러 및 AI 데이터센터 관련 제품에서 회복 조짐을 보고 있다고 밝혔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Renesas"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1505,9 +1504,7 @@
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "NXP는 자동차 소프트웨어 정의 차량(SDV) 및 레이더 분야에서는 강점을 보이고 있지만, Tier 1 고객사들의 재고 조정이 지속되고 있어 2025년 전망은 중립적이라고 밝혔습니다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2593,7 +2590,6 @@
     "subheading": "",
     "text": "NXP i.MX8시리즈는 기존 i.MX6 시리즈를 점진적으로 대체하려고 하지만, 가격 차이로 인해 전환이 예상보다 원활하지 않습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [],
@@ -4071,7 +4067,6 @@
     "subheading": "",
     "text": "Altera (Intel) 주문은 데이터 마이그레이션 중으로, 소폭의 가격 변동과 잠재적인 리드타임 지연이 발생하고 있습니다. 여기에 더해, 조립 및 테스트 하우스의 제한된 생산 능력으로 인해 FPGA Cyclone® 10 GX, Arria® II/V/10, Stratix® III/IV/V 제품군의 리드타임이 24주로 연장되었습니다.",
     "detected_vendors": [
-      "Altera",
       "Intel"
     ],
     "detected_keywords": [
@@ -4613,7 +4608,9 @@
     "section_raw": "집적 회로",
     "subheading": "",
     "text": "애널로그 디바이스는 대부분의 Maxim 시리즈 리드타임을 30주 이상으로 연장했습니다. 최종 고객의 당겨오기 요청은 충족되기 어려운 상황입니다. Linear Tech 제품은 이제 아날로그 및 전력 관리 장치에서 특히 36~42주의 리드타임을 보이고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -4627,7 +4624,7 @@
     "subheading": "",
     "text": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다. 주문 시스템 업데이트는 2025년 8월 15일에 시행되었으며, 1~2분기 내 해결이 예상됩니다.",
     "detected_vendors": [
-      "Altera"
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4643,7 +4640,6 @@
     "subheading": "",
     "text": "NXP는 RF 제품 가격 인상을 진행하고 있으며, 이로 인해 백로그에 영향을 주고 재견적이 발생하고 있습니다. NXP MCU 시리즈의 리드타임은 12주에서 20주로 연장되었습니다.",
     "detected_vendors": [
-      "NXP",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -5127,9 +5123,7 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "",
     "text": "NXP가 RF 제품 가격을 평균 300% 인상하는 것으로 전해져, 백로그에 영향을 미치고 고객들로 하여금 재견적을 강요하고 있다.",
-    "detected_vendors": [
-      "NXP"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -6172,7 +6166,7 @@
     "subheading": "",
     "text": "자일링스XC7 시리즈는 원자재 공급 및 비용 영향으로 최근 리드타임이 14~23주로 연장되었습니다.",
     "detected_vendors": [
-      "Xilinx"
+      "Amd"
     ],
     "detected_keywords": [
       "Lead Time"
