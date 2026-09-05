@@ -1,0 +1,160 @@
+[
+  {
+    "year": 2022,
+    "month": 7,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다. 이전 보고서에 따르면 Sapphire Rapid CPU 출시는 2022년 후반으로 미뤄졌지만 계속되는 공급망 장애로 인해 출시는 다시 한번 미뤄졌습니다. 보고서가 정확하다면 Sapphire Rapid 및 Emerald Rapid 시리즈 CPU는 모두 2023년에 출시될 예정입니다. Intel이 최신 시리즈 쪽으로 생산 지원을 전환한다는 사실은 고객이 Cascade Lake 및 Cascade Lake (R)를 더 이상 이용할 수 없기 전 향후 2~3년 내에 전환해야 한다는 것을 의미합니다. 이미 Sapphire Rapid로 전환할 의도를 가지고 Ice Lake로 전환한 고객은 Sapphire Rapid가 출시될 때까지 예상했던 것보다 더 오래 현재 CPU 시리즈를 사용해야 합니다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Other",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "데스크탑 CPU 공급 제약: 12세대 Alder Lake CPU(Core i3/i5/i7/i9 GT0)의 공급이 4분기까지 제한될 것으로 예상되며, Pentium과 Celeron은 2025년 1월 말까지 공급이 타이트할 것으로 보입니다. 또한, 13세대 Raptor Lake의 Core i7 및 i9은 12월까지 사용 가능하나, 14900 및 T SKU는 공급이 제한적입니다. 15세대 Arrow Lake가 2024년 4분기 중 신제품으로 출시될 예정입니다.",
+    "detected_vendors": [
+      "Arrow"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
+    "subheading": "",
+    "text": "Arrow는 특히 대중 시장 부문에서 재고 소화 속도가 느리며, 완전한 회복 시점을 가늠하기 어렵다고 전했습니다.",
+    "detected_vendors": [
+      "Arrow"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
+    "subheading": "",
+    "text": "Arrow는 산업 시장의 안정화는 확인되었지만, 대중 시장 전자제품 회복 속도에 대해서는 불확실하다고 평가했습니다.",
+    "detected_vendors": [
+      "Arrow"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Corporate",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "인텔은 최근 골드만삭스 기술 컨퍼런스에서 2026년 Arrow Lake 리프레시를 출시하고 같은 해 말에 차세대 Nova Lake 설계를 출시할 계획이라고 확인했습니다. [출처: 시킹알파]",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "",
+    "text": "백엔드 용량 제약과 2026년까지 이어지는 가격 인상으로 만성적인 부족 사태에 직면한 아날로그 디바이스(ADI)에서 고객들이 전환함에 따라 텍사스 인스트루먼트(TI) 부품에 대한 수요가 가속화되고 있다. 상황을 더욱 악화시키는 것은 상하이와 홍콩 법인이 미국 수출 제한 목록에 추가된 이후 애로(Arrow)의 아시아 사업이 혼란에 빠졌다는 점이다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Arrow",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Geopolitics / Sanctions",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "시장은 신규 아키텍처보다 Intel 12/13/14세대 CPU(앨더 레이크 및 랩터 레이크)를 압도적으로 선호하고 있습니다. 메테오 레이크, 루나 레이크, 애로우 레이크의 채택은 성능 및 설계 측면의 상당한 트레이드오프 때문에 제한적입니다. 그 결과 구세대 Intel CPU에 대한 수요가 여전히 매우 강해 공급 부족을 악화시키고 현물 시장 프리미엄을 끌어올리고 있습니다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "5. 유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
+    "detected_vendors": [
+      "Arrow",
+      "Macnica",
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "4. Intel 데스크톱 및 모바일 CPU: Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• Intel 데스크톱 및 모바일 Alder Lake(12세대)는 공식적으로 단종(EOL)되었으며 제조사 지원이 제한적이어서 공개 시장 프리미엄이 상승하고 있다. Raptor Lake Refresh 및 Arrow Lake는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  }
+]

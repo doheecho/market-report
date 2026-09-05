@@ -1,0 +1,945 @@
+[
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "자동차 산업의 둔화가 저항기, 커패시터, 인덕터 시장에 영향을 미치고 있으며, 산업 및 소비자 전자기기 산업의 수요는 안정적으로 유지되고 있습니다. 그러나 견고한 산업 부문에서도 재고 조정 가능성이 제기되면서 공급 과잉과 가격 압박에 대한 우려가 커지고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "10월 동향",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "제조업체의 산업 수요 동향: Vishay Intertechnology의 최근 실적 보고서에 따르면, 자동차, 산업, AI 컴퓨팅 부문이 수동 부품 수요를 증가시켰으며, 이로 인해 인덕터와 광전자 부품의 매출이 성장했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "안정적인 수요: 수동 부품에 대한 전체적인 수요는 산업 및 소비자 전자기기 응용 분야에서 지속적으로 안정적일 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "리드 타임 업데이트: 일본에서 제조되는 인덕터의 리드 타임은 최대 6개월, 다른 국가에서 생산되는 인덕터의 리드 타임은 3개월에 달할 수 있습니다. 이는 수요 변동과 잠재적인 공급 과잉에 대비한 신중한 재고 관리의 필요성을 강조합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "자동차 산업 둔화의 영향: 자동차 부문의 둔화는 자동차용 수동 부품 판매에 부정적인 영향을 미칠 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "공급 과잉 가능성: 산업 부문의 재고 조정은 일시적인 수동 부품 공급 과잉을 초래해 다양한 제품 라인에 영향을 미칠 수 있습니다. 비록 산업 부문 활동은 꾸준히 유지되고 있지만, 다른 전자 부품군의 수요는 약세를 보이고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "가격 압박: 현재 강세를 보이는 시장에서 수요 변화가 발생하면, 공급 과잉으로 인해 수동 부품 시장에서 가격 압박이 발생할 수 있습니다. 특히 Murata 인덕터는 이미 긴 리드 타임으로 인해 가격 상승의 초기 신호를 보일 가능성이 높습니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "MLCC 시장은 AI와 자동차 부문에서의 수요 증가로 인한 공급 제한에 직면하고 있습니다. 공급망 혼란과 2025년 초 예상되는 시장 부족은 향후 MLCC의 가용성과 가격에 영향을 미칠 것으로 보입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "10월 동향",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "에너지, 자동차, 산업 자동화가 수요 견인: Vishay Intertechnology의 최근 실적 보고서에 따르면, 에너지, 자동차, 산업 자동화 부문이 MLCC 수요를 주도하고 있으며, 특히 고전압 DC 응용 제품, 공장 자동화, 재생 에너지 시스템에서 수요가 두드러지고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "신흥 산업 동향: 스마트 그리드 인프라와 에너지 저장에 대한 관심이 증가하면서 복잡한 전력 작업을 관리하는 MLCC의 수요가 강조되고 있습니다. 이들 산업이 장기적인 공급 과잉 주기에서 회복함에 따라, MLCC 수요가 더욱 확대될 가능성이 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "AI의 자동차용 MLCC 활용: AI 응용 제품에서 자동차 등급의 MLCC 사용이 증가하고 있으며, 주요 OEM 업체들은 Murata, Taiyo, Samsung, Yageo와 같은 주요 MLCC 제조업체와의 거래가 활발하다고 보고하고 있습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Taiyo Yuden",
+      "Yageo",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "가격 인상: AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
+    "detected_vendors": [
+      "AVX",
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "생산 증가와 경쟁 압력: MLCC 시장의 단기 전망은 AI 서버, AI PC, 스마트폰 출시(특히 iPhone 16)로 인한 수요 증가로 삼성전기가 90% 이상의 생산 가동률에 도달하는 등 생산 증가를 보여줍니다. 그러나 치열한 경쟁으로 인해 판매 가격이 정체되면서 수익성은 제한될 수 있습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "2025년 전망: MLCC 제조업체들은 2025년 초부터 중반까지 시장이 제약을 받을 것으로 예측하고 있으며, 이는 과거의 수요 증가 패턴과 일치합니다. 또한 메모리 가격 상승과 리드 타임 연장과 같은 초기 지표들도 이를 뒷받침하고 있습니다. 그러나 AI 관련 수요가 공급을 확장시키더라도 본격적인 가격 회복은 2025년 하반기까지 지연될 수 있어 시장 역학을 복잡하게 만들 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "폴리머 커패시터 시장은 AI와 서버 응용 프로그램에 대한 수요 증가로 인해 심각한 압박을 받고 있습니다. 리드 타임 연장과 생산 능력에 대한 압박이 커패시터의 가용성과 가격에 영향을 미치는 주요 트렌드로 나타나고 있습니다. Panasonic은 최근 실적 발표에서 올해 초보다 가동률이 낮아졌으며, 일부 시설의 생산 능력을 점진적으로 확장하고 있다고 언급했습니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "10월 동향",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인: Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "AI/ML에서의 광범위한 사용: Panasonic 커패시터는 AI/ML, 서버, 데이터 센터 응용 프로그램에 필수적이지만, 제한된 생산 능력으로 인해 증가하는 수요를 충족하지 못하고 있습니다. Panasonic은 생성형 AI가 매출 성장의 주요 원인이었으며, 다른 시장에서의 부진을 보완했다고 말했습니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "1차 제조업체의 어려움: 시장 정보에 따르면, 이들 커패시터의 공급 확보가 어렵고, 수요 불균형으로 리드 타임이 불안정하다고 보고되고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "다양한 응용 분야에서의 수요 급증: 서버, 노트북, 디스플레이, 그래픽 카드, 데이터 센터, 산업 제어 보드 등 다양한 부문에서 Panasonic 커패시터에 대한 수요가 크게 증가했으며, 이에 따라 생산 라인이이 현재 풀 가동상태입니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "Nvidia가 공급에 미치는 영향: Nvidia는 특히 고온(105°C) 커패시터의 생산 능력을 대거 흡수했으며, 이에 따라 여러 시리즈의 리드 타임이 140일을 초과하면서 공급이 더욱 긴축되고 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Passive",
+    "section_raw": "수동 부품 업데이트",
+    "subheading": "",
+    "text": "커패시터 종류별 긴 리드 타임: 폴리머 탄탈 커패시터의 리드 타임은 현재 24주이며, 폴리머 알루미늄 커패시터의 리드 타임은 16주로 여러 시리즈에 영향을 미치고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "패시브 부품",
+    "subheading": "",
+    "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터의 리드 타임이 20주에서 36주로 증가했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "패시브 부품",
+    "subheading": "",
+    "text": "Kemet의 폴리머 탄탈륨 커패시터는 높은 수요로 인해 리드 타임이 36~40주로 연장되었습니다.",
+    "detected_vendors": [
+      "Kemet"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "패시브 부품",
+    "subheading": "",
+    "text": "AVX의 탄탈륨 커패시터는 16~28주의 짧은 리드 타임을 제공하여 대체 옵션으로 고려될 수 있습니다.",
+    "detected_vendors": [
+      "AVX"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동소자",
+    "subheading": "",
+    "text": "최신 공급업체 업데이트에 따르면 MFG는 Chitose 공장에서 일부 제품에 한해 운영을 재개했습니다. 고객 우선순위와 사용량에 따라 할당이 결정되며, 공급 제약은 8월까지 지속될 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동소자",
+    "subheading": "",
+    "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 애플리케이션 수요 증가로 인해 리드 타임이 36주를 초과하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동소자",
+    "subheading": "",
+    "text": "Kemet Polymer Tantalums는 2.5V–10V B-케이스 커패시터(47μF–330μF)에 대해 6월 1일부터 가격 인상을 발표했습니다.",
+    "detected_vendors": [
+      "Kemet"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동소자",
+    "subheading": "",
+    "text": "TE Connectivity는 원자재 비용 상승을 이유로 커넥터에 대해 4월 가격 인상을 시행했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동소자",
+    "subheading": "",
+    "text": "Kemet는탄탈륨 커패시터에 대해 10–15%의 가격 인상을 시행했으며, 리드 타임을 추가로 2–4주 연장했습니다.",
+    "detected_vendors": [
+      "Kemet"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "Vishay의 T55/T550 탄탈륨 커패시터는 리드 타임이 40주를 초과했으며, 자동차 및 방위 산업에서의 수요가 여전히 강세를 보이고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "Kemet은 B케이스 커패시터에 대해 10-15%의 두 번째 가격 인상을 발표했으며, 여러 전압 등급에서 3-5주의 추가 지연이 발생하고 있습니다.",
+    "detected_vendors": [
+      "Kemet"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "Panasonic의 치토세 공장은 3월 화재 이후 부분적으로 가동 중단된 상태이며, NTC 서미스터 및 칩 인덕터 생산에 영향을 미치고 있습니다. 생산 정상화는 3분기에나 가능할 것으로 보입니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "AI 및 서버 애플리케이션용 고사양 제품에 대한 주요 수요 지속",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "Panasonic이 타이트한 리드타임을 유지하는 가운데, Kemet 및 Nippon Chemicon 또한 주문 전환으로 인해 알루미늄 폴리머 및 탄탈륨 커패시터의 추가 지연 발생",
+    "detected_vendors": [
+      "Kemet",
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "중국의 전기차(EV) 부문이 여전히 자동차용 수동 부품의 글로벌 수요를 주도 중. 그러나 현재 시장에 과잉 공급 상태로 유통업체에서 고객 수요 반영이 느림",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "야게오 저항기 및 타이요/무라타 커패시터의 리드 타임이 증가하고 있습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "삼성 수동 부품의 리드 타임은 기존 8-12주에서 14-18주로 늘어났습니다. 공식적인 부족 선언은 없지만, 제약은 증가하고 있습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "Samsung, Murata, Taiyo Yuden MLCC는 3분기에 공급 문제에 직면할 수 있습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Taiyo Yuden",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "탄탈륨 커패시터는 리드타임이 24-28주로 늘어나고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "Panasonic 커패시터는 현재 리드타임이 16~18주입니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "AVX 및 Kemet 탄탈륨 커패시터의 리드타임은 24~28주에 달합니다.",
+    "detected_vendors": [
+      "AVX",
+      "Kemet"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "파나소닉 탄탈륨 커패시터는 리드타임이 24주이며, 알루미늄 커패시터는 16~18주입니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "Panasonic은 2026년 1분기에 탄탈럼 커패시터 라인에 대한 대규모 가격 인상을 시행할 예정이며, 전체 생산 능력은 이미 해당 분기까지 완전 예약된 상태다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "케멧 탄탈 커패시터 리드타임은 32주에서 42주로 늘어났습니다.",
+    "detected_vendors": [
+      "Kemet"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "Passive",
+    "section_raw": "수동 부품",
+    "subheading": "",
+    "text": "파나소닉와 케멧은 모두 가격을 인상했으며, 2026년에 추가 인상을 예상하고 있습니다.",
+    "detected_vendors": [
+      "Kemet",
+      "Panasonic"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "파나소닉은 탄탈 캐패시터에 대해 2026년 1분기 대폭적인 가격 인상을 발표했으며, 분기 전체 캐파가 이미 예약 완료되었습니다. 리드타임은 현재 40주를 초과합니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24-28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Taiyo Yuden",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Passive",
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "",
+    "text": "비쉐이(Vishay) MOSFET(예: SQ2389CES)은 25주 리드타임을 보이며, 유통사는 저항/캐패시터/디스크리트 전반에서 배정 축소가 발생하고 있다고 보고합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "MLCC는 구정 이후 공급 부족이 예상되며, 리드타임은 16주 이상으로 확대될 전망입니다. 탄탈룸 커패시터 리드타임은 40주를 초과하고 있으며, 일부 공급사는 저마진 제품군의 단종 가능성을 경고하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 주문 디커밋과 파운드리 전환이 발생하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "Lattice는 리드타임이 매우 제한적인 상황이며, 44주 미만 납기를 요청하는 주문에는 급행 수수료가 부과됩니다.",
+    "detected_vendors": [
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "자동차 고객들은 Vishay의 잠재적 웨이퍼 품질 이슈를 조사하고 있으며, 이는 Nexperia 다이오드 공백을 메우는 과정에서 추가 리스크로 작용하고 있습니다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "1. MLCC는 춘절 이후 공급 부족이 예상되며 리드타임은 16주 이상이다. 탄탈 커패시터는 40주 이상이며 저마진 제품 단종 가능성이 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "2. T-글래스 기판 부족은 ADI, Intel, Lattice, Sony의 주요 병목이며, 유리 섬유 원단 리드타임은 4주에서 20주로 증가했다. 이는 디커밋과 파운드리 전환을 유발하고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "3. Vishay MOSFET(예: SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "4. Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "1. MLCC 및 탄탈룸 커패시터의 리드타임은 16주 이상으로 연장되고 있습니다. 탄탈룸 커패시터의 리드타임은 40주를 초과하고 있으며, 일부 공급사는 저마진 제품군의 단종 가능성을 경고하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "2. 무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "3. 무라타의 GRM185 시리즈는 서버, 전원 공급장치 및 웨어러블 기기 애플리케이션에 널리 사용됩니다. 현재 해당 제품은 일본 생산 시설에서만 생산되고 있으며, 생산 능력이 글로벌 수요를 충족하기에 부족한 상황입니다. 올해 하반기에는 공급 부족이 예상됩니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "4. T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "5. 중동 긴장에서 비롯된 헬륨 부족이 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 일본과 한국 제조업체들은 비상 조달 절차를 가동하고 있으며, 2027년 말까지는 의미 있는 생산 능력 회복이 어려울 것으로 예상하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "Murata와 Taiyo Yuden의 리드타임은 20~52주까지 확대됐다. Murata는 엄격한 물량 할당 정책을 시행하고 있으며(3개월 평균 주문량 기준으로 제한), 모든 ‘지원 주문(help orders)’을 거부하고 있다. 고용량 사양(예: 0805 10u/22u, 0603 22u/47u)이 가장 심각한 공급 부족을 겪고 있다.",
+    "detected_vendors": [
+      "Murata",
+      "Taiyo Yuden"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "중국의 일시적인 헬륨 수출 금지와 지속되는 중동 긴장이 맞물리면서 글로벌 반도체 공급망에 새로운 위험 요인이 발생하고 있다. 헬륨은 웨이퍼 제조, 테스트 및 패키징 공정에 필수적인 소재이기 때문이다. T-글래스 기판 공급 부족은 여전히 ADI, Intel 및 Lattice 생산의 주요 병목 요인으로 작용하고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  }
+]

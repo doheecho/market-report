@@ -1,0 +1,891 @@
+[
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "우리는 이미 ST Micro 및 NXP 마이크로 컨트롤러의 부족을보고 있으며, 그 원인은 아시아 시장의 산업 및 소비자 부문의 수요 급증과 웨이퍼 공급 부족과 관련이있는 것으로 여겨집니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "공급 문제에 원인을 제공하는 또 다른 요인은 웨이퍼 원자재 부족입니다. 이 문제로 인해 NXP MCU의 리드타임이 늘어났습니다. 특히, NXP LPC540X 및 LPC11XX의 리드타임이 최소한 39주 이상으로 늘었습니다. 제조업체에서 가격을 엄격히 관리하고 있고, 유통업체들은 감사에 직면하고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP는 특정 최종 제품을 겨냥해 생산 역량을 집중하고 있습니다. 유통업체들은 올해는 NXP가 주로 자동차 제품에 초점을 맞출 것이라고 언급해왔습니다. NXP에서 현재 생산 중인 FS32K 시리즈 제품 5천만 개가 여기에 포함됩니다. 산업적 측면에서, MCIMX 6Y/2C 시리즈는 POS 장비/드론 애플리케이션에 더 적합하고, 8 시리즈는 HD 4K TV를 염두하고 설계되었으며, RT 시리즈는 키보드 제어에 맞춰져 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "또한 NXP는 MPX 시리즈와 관련하여 자체 제품으로 STM의 센서 시장 점유율을 추월하려고 노력하고 있습니다. 하지만 STM의 센서가 일반적으로 MPX 시리즈보다 더 호환성이 뛰어나므로, NXP는 이 목표를 포기할 계획입니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP 제품의 가격 및 리드 타임이 계속 상승함에 따라 공장이 조만간 가격 인하의 조짐은 보이지 않습니다",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Decrease"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "section_raw": "1 전반적 소식 (General News)",
+    "subheading": "",
+    "text": "현재, 전 세계 8인치 파운드리 활용률은 계속 100%에 접근하고 있습니다. 수요가 증가했는데, 8인치 파운드리 장비 공급이 고르지 못해 공급이 영향을 받았습니다. 이 때문에, 공급에 비해 수요가 20% 정도 초과하여 어려움이 있었으며 ST Micro 와 NXP Microcontrollers 를 포함한 회사가 공급 부족에 직면해 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "따라서 많은 고객이 지금은 다이오드는 NXP, MOSFET 생산은 OnSemi 에 의지하고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "웨이퍼 공급 부족은 2020년 불안정한 상황과 맞물려 시장에서 상당히 많은 장애를 계속해서 초래하고 있습니다. 3분기에 STMicroelectronics, Texas Instruments, Intel, NXP, Infineon 를 비롯한 주요 반도체 제조업체들의 공급량 제약을 목격했습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Intel",
+      "NXP",
+      "Nexperia",
+      "STMicroelectronics",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "대다수의 마이크로 컨트롤러 제조업체는 1 월 1 일부터 12 월에 업데이트 된 가격 계획을 발표했습니다. STMicroelectronics, NXP, Renesas의 세 주요 회사는 제품 라인업 전반에 걸쳐 가격을 최소 10% 이상 인상했습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "또한, 유통업체들은 표준 리드 타임이 전반적으로 30주 이상으로 늘고 있는 점에 이미 주목하고 있습니다. 예를 들어, STMIC의 32비트 MCU(ST32 시리즈)는 2020년 3분기 이후로 리드 타임 연장 문제를 겪었습니다. 게다가, 16비트 및 32비트 MCU의 공급이 2020년 4분기에 자동차 수요의 증가로 인해 악화되었습니다. 마지막으로, MCU 공급 문제는 NXP의 MC56F8, MC9S08, MCF5, MCIMX6, FS32K 및 SPC56 시리즈를 포함한 더 많은 브랜드와 시리즈에 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP 유통업체들은 가격이 인상된 자사 제품 중 2,000개가 자동차 응용 분야에만 속한 제품이라는 점을 명시했습니다. 결과적으로, 자동차 관련 시리즈의 현재 리드 타임은 30~50주 또는 그 이상입니다. 2021년 1분기에는 공급이 개선되지 않을 것으로 예상되지만, 웨이퍼 할당에 더 이상 문제가 없다면 2분기에 다시 회복될 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "자동차 산업의 예상되는 성장세만으로도 수요가 더욱 커질 것입니다. 여기에는 EV(전기자동차)에 전력 IC와 다중화 버스 시스템 채택이 증가되는 것뿐 아니라, 스마트 시티와 IoT의 본격적인 전개라는 요인도 포함됩니다. 예를 들어 NXP Semiconductors는 오하이오주 콜럼버스시와의 스마트 시티 협업에 있어 다음 단계를 발표했는데, 이를 통해 테스트 목적의 중요한 기술을 제공할 것입니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "자동차 수요의 급증을 뒷받침하기 위해, NXP는 공급의 상황을 호전시키기 위해 산업 생산 라인을 자동차 부품에 집중하는 방향으로 전환했습니다. 하지만 단기적으로는 일부 시리즈에서 산업용 MCU가 리드 타임 연장 문제에 직면하고 있습니다. MKExxxx, MKLxxxx, LPCxxx가 가장 큰 영향을 받고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "지난 2월 중순 텍사스 겨울 폭풍으로 NXP 생산 시설 두 곳이 폐쇄되는 등, 각종 웨이퍼 팹이 피해를 입았습니다. 3월 11일 두 시설의 가동이 재개되었음에도, 생산 지연에 따른 피해가 눈덩이처럼 불어나며 리드 타임에 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "예를 들어 MKxxxx 시리즈의 리드 타임은 52주입니다. 2분기와 3분기에는 생산 및 납품 상황이 개선될 것으로 예상되지만, NXP의 자동차 부품 리드 타임은 2021년 남은 기간 동안 계속 길어 질 것으로 예상됩니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "가장 큰 영향을 받고 있는 NXP 및 ST Microelectronics MCU의 자동차용 칩 리드 타임이 계속 오래 걸립니다. 고객께서는 필요할 때 배송받지 못하는 상황을 피하려면 이런 사정을 고려해 적절히 미리 계획하는 것이 좋습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "NXP",
+      "Nexperia",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "*   **NXP**: 말레이시아와 대만에 있는 NXP의 조립 및 테스트 공장이 봉쇄 조치의 영향을 받은 것으로 보도되었습니다. 이미 일부 배송이 지연되고 있는 상황에서, 3분기와 4분기 내내 자동차 MCU가 계속 큰 영향을 받을 것으로 예상합니다. 'S9' 시리즈가 가장 눈에 띄게 영향을 받았고 시장에서의 수요가 많습니다. 또한, NXP는 부품이 올바르게 판매되도록 보장하기 위해 오픈 마켓 내의 유통업체 거래 활동을 조사하고 있습니다. 현재 제품 배송에 대해 자세히 들여다 보고 있어 유통업체와 파트너를 위한 배송이 지연되고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP 리드 타임은 계속 늘어나 현재 52주 이상인 상황입니다. 더욱이, 9~11월 사이에 인도 예정인 주문은 이 회사의 말레이시아 조립 공장 폐쇄로 인해 납품이 지연될 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "공급은 적어도 2021년 말까지는 계속 빠듯할 가능성이 큽니다. 수요 증가와 새로운 봉쇄 조치 외에도, 계속되는 웨이퍼 공급 부족으로 인해 NXP가 자동차 고객의 수요를 따라잡을 방법이 없습니다. 이 때문에 공급 제한 상황이 2022년까지 계속될 것으로 보입니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP는 3분기에 모든 유통업체의 상품 가격을 10% 인상한다고도 발표했습니다. 영향을 받는 시리즈로는 MKExxxx, MKLxxxx, MCIMxxx, TJAxxx, 산업용 애플리케이션 MCU, MPXxxx 압력 센서, S9S08xxx, MCIMX6xxx, LPC177xxx, LPC24xxx, MCU 32BIT ARM CORTEX 등이 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Broadcom",
+      "NXP",
+      "Nexperia",
+      "Xilinx"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "주로 자동차 부문에서 사용되는 NXP MKxxx 시리즈는 코로나19 발병으로 인해 말레이시아에서 이루어진 이전의 공장 폐쇄 사태의 영향을 끊임없이 받았습니다. 제조 지연으로 인해 리드 타임이 극히 늘어나 2022~2023년까지도 제대로 제품 인도가 이행되지 않을 것으로 예상합니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "NXP는 자동차 부품 가격을 20% 인상했습니다. 2022년 6월까지 또 다른 30%의 가격 인상이 시행될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "중국 생산 공장이 주로 MCIMX 시리즈 MCU에 주력하는 NXP Tianjin은 최근 코로나19 봉쇄 조치의 영향을 받았습니다. 그 결과로, 자동차 부품에 대한 리드 타임은 현재 52주를 넘어 늘어날 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
+    "detected_vendors": [
+      "Microchip",
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "NXP",
+      "Onsemi",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다.",
+    "detected_vendors": [
+      "NXP",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "NXP의 센서 공급은 안정화되었지만, 자동차 및 산업용 고객에 대한 MCU 제약은 계속되고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Renesas 및 NXP의 차량용 집적 회로에 대한 공급 부족이 계속되고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "NXP는 자동차용 시리즈에서도 비슷한 제약을 겪고 있습니다. MCIMxx 시리즈의 리드 타임은 불안정하며 최대 70주까지 늘어납니다. 반면, 자동차용 MCU 시리즈인 FSxxx는 최소 52주입니다. 심각한 공급 부족에 직면한 S9x 시리즈의 가격도 상승하고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "NXP에서 공급하는 MCU는 지속적인 공급 부족을 겪고 있으며 MCIMX6 시리즈는 99주를 초과하는 리드 타임으로 2023년을 시작했습니다. 공급은 개선되지 않았으며 MCIMX6 시리즈의 가격은 10%에서 15%까지 인상되었습니다. NXP에서는 MCIMX8 시리즈를 지원하기 위해 생산 능력 및 라인업을 전환하고 있어 공급 부족은 계속될 전망입니다. MCIMX6의 리드 타임은 단축되고 있으나 여전히 87주 내외입니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Vishay 및 NXP의 제조 능력의 어려움으로 인해 리드 타임이 변동하고 있으며, 이로 인해 제약이 발생하고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "리드 타임이 길면 NXP의 S32K1 시리즈 ARM MCU의 특정 MPN에 영향을 미칩니다. 가장 짧은 리드 타임은 52주이며, 제약이 많은 시리즈는 170주까지 늘어납니다. 이는 배송이 지연되고 제조업체의 할당량이 제한적이었던 FS32K144 및 FS32K146의 시장 가격이 눈에 띄게 상승한 데 따른 것입니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "또한 NXP는 최종 고객에게 10%~20% 범위 내에서 MCIMX6 시리즈에 대한 공식 가격 인상 공지를 보냈습니다. 이 시리즈의 리드 타임은 다양하지만, 소비자 응용 분야의 일부 MPN은 37주에서 50주 사이입니다. 산업용 응용 분야의 MPN은 최대 57주의 리드 타임을 보고했습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "시황 자료에 따르면 NXP는 iMX6 MCU에 관한 공지를 발표했습니다. 해당 공지에서 고객에게 계약 가격 인상을 알리면서 최신 버전으로 전환하도록 권장한 것으로 알려졌습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "NXP에서는 2024년 초부터 MCU 제품 가격을 꾸준히 조정해 왔습니다. 수차례의 협상 끝에 대부분의 최종 고객이 새로운 계약 가격을 제시받았습니다. 지금까지 수요가 많았던 FS32 MCU의 경우 리드 타임이 안정되어 시장 공급이 원활하게 이루어집니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "노후화된 IMX6 모델 MCU의 경우 계약 가격에 대한 비용이 조정되면서 리드 타임이 늘어났습니다. NXP가 점차 최신 제품 생산에 주력하면서 해당 시리즈의 공급이 제한적입니다. IMX8 시리즈는 새로운 핵심 모델이자 표준 선택으로 자리매김할 것입니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "그러나 중국 기반 전기 자동차(EV) 제조업체의 수요가 감소할 수 있으므로, 신형 및 구형 시리즈에 대한 수요 예측에 변화가 있을 수 있습니다. 중국 정부는 전기 자동차 업체들이 현지 칩에 대한 지원을 늘릴 것을 권장하고 있습니다. 이러한 시장 변화는 지금까지 자동차 애플리케이션 분야의 선두 주자였던 NXP에 영향을 미칠 것입니다. NXP는 자사 제품에서 전환하는 고객에 대응하기 위해 생산 및 가격 변경을 시행할 수 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "2023년 4분기에 NXP는 고품질 솔루션 제공에 중점을 두고 중국 시장을 대상으로 특별히 맞춤 제작된 C라인 제품 포트폴리오를 선보였습니다. 이 제조업체는 회사의 현지화 전략을 진행하고 공급망 탄력성을 개선하기 위해 OEM에 이 프로그램을 처음 도입했습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "C라인 제품에는 중국 시장에 맞게 커스터마이징된 OSCCA 호환 보완 기능이 탑재됩니다. NXP는 이러한 기능 변경으로 중국 정부 및 MIIT 승인 목록에 추가될 C라인 제품을 포함하기를 희망히고 있습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "NXP 웹사이트의 C라인 웹페이지는 중국 IP 주소를 가진 방문자만 액세스할 수 있습니다. 제조업체는 S라인에서 C라인 시리즈로의 전환이 부품 번호 변경, 특히 문자 'S'를 'C'로 변경하는 것으로 제한된다고 밝혔습니다. 이러한 변경은 특정 지역과 관련된 제품에 영향을 미치며 글로벌 및 지역 간 무역에 부정적인 영향을 미칠 수 있습니다. 일반 버전의 S라인 공급은 시장에서 더 제한될 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "집적 회로(IC)",
+    "subheading": "",
+    "text": "네트워킹 컨트롤러에 사용되는 NXP MPU의 MPC8시리즈는2025년1분기 동안 수요가 증가하고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "집적 회로 시장 변화 동향",
+    "subheading": "",
+    "text": "NXP의 MPC8 시리즈 수요는 전반적인 시장 변동에도 불구하고 네트워킹 분야에서 꾸준히 증가 중입니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
+    "subheading": "",
+    "text": "NXP는 Tier 1 자동차 고객의 재고 수준에 대해 조심스러운 입장을 유지하고 있으며, 과잉 재고가 언제 해소될지는 확실하지 않다고 밝혔습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
+    "subheading": "",
+    "text": "NXP는 자동차 소프트웨어 정의 차량(SDV) 및 레이더 분야에서는 강점을 보이고 있지만, Tier 1 고객사들의 재고 조정이 지속되고 있어 2025년 전망은 중립적이라고 밝혔습니다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "NXP i.MX8시리즈는 기존 i.MX6 시리즈를 점진적으로 대체하려고 하지만, 가격 차이로 인해 전환이 예상보다 원활하지 않습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "NXP는 RF 제품 가격 인상을 진행하고 있으며, 이로 인해 백로그에 영향을 주고 재견적이 발생하고 있습니다. NXP MCU 시리즈의 리드타임은 12주에서 20주로 연장되었습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "",
+    "text": "NXP가 RF 제품 가격을 평균 300% 인상하는 것으로 전해져, 백로그에 영향을 미치고 고객들로 하여금 재견적을 강요하고 있다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "NXP는 2026년 8월 1일부터 적용되는 가격 인상을 발표했으며, 주요 대상은 자동차 및 산업용 MCU 제품군이다(5~15% 인상). 리드타임은 두 배 수준인 26~52주까지 늘어나고 있으며, 일부 고수요 제품은 최대 99주의 납기 지연에 직면하고 있다.",
+    "detected_vendors": [
+      "NXP"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "우리는 이미 ST Micro 및 NXP 마이크로 컨트롤러의 부족을보고 있으며, 그 원인은 아시아 시장의 산업 및 소비자 부문의 수요 급증과 웨이퍼 공급 부족과 관련이있는 것으로 여겨집니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "공급 문제에 원인을 제공하는 또 다른 요인은 웨이퍼 원자재 부족입니다. 이 문제로 인해 NXP MCU의 리드타임이 늘어났습니다. 특히, NXP LPC540X 및 LPC11XX의 리드타임이 최소한 39주 이상으로 늘었습니다. 제조업체에서 가격을 엄격히 관리하고 있고, 유통업체들은 감사에 직면하고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP 제품의 가격 및 리드 타임이 계속 상승함에 따라 공장이 조만간 가격 인하의 조짐은 보이지 않습니다",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Decrease"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "section_raw": "1 전반적 소식 (General News)",
+    "subheading": "",
+    "text": "현재, 전 세계 8인치 파운드리 활용률은 계속 100%에 접근하고 있습니다. 수요가 증가했는데, 8인치 파운드리 장비 공급이 고르지 못해 공급이 영향을 받았습니다. 이 때문에, 공급에 비해 수요가 20% 정도 초과하여 어려움이 있었으며 ST Micro 와 NXP Microcontrollers 를 포함한 회사가 공급 부족에 직면해 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "3 ICs (집적회로)",
+    "subheading": "",
+    "text": "따라서 많은 고객이 지금은 다이오드는 NXP, MOSFET 생산은 OnSemi 에 의지하고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "웨이퍼 공급 부족은 2020년 불안정한 상황과 맞물려 시장에서 상당히 많은 장애를 계속해서 초래하고 있습니다. 3분기에 STMicroelectronics, Texas Instruments, Intel, NXP, Infineon 를 비롯한 주요 반도체 제조업체들의 공급량 제약을 목격했습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Intel",
+      "NXP",
+      "Nexperia",
+      "STMicroelectronics",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "대다수의 마이크로 컨트롤러 제조업체는 1 월 1 일부터 12 월에 업데이트 된 가격 계획을 발표했습니다. STMicroelectronics, NXP, Renesas의 세 주요 회사는 제품 라인업 전반에 걸쳐 가격을 최소 10% 이상 인상했습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP 유통업체들은 가격이 인상된 자사 제품 중 2,000개가 자동차 응용 분야에만 속한 제품이라는 점을 명시했습니다. 결과적으로, 자동차 관련 시리즈의 현재 리드 타임은 30~50주 또는 그 이상입니다. 2021년 1분기에는 공급이 개선되지 않을 것으로 예상되지만, 웨이퍼 할당에 더 이상 문제가 없다면 2분기에 다시 회복될 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "자동차 산업의 예상되는 성장세만으로도 수요가 더욱 커질 것입니다. 여기에는 EV(전기자동차)에 전력 IC와 다중화 버스 시스템 채택이 증가되는 것뿐 아니라, 스마트 시티와 IoT의 본격적인 전개라는 요인도 포함됩니다. 예를 들어 NXP Semiconductors는 오하이오주 콜럼버스시와의 스마트 시티 협업에 있어 다음 단계를 발표했는데, 이를 통해 테스트 목적의 중요한 기술을 제공할 것입니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "지난 2월 중순 텍사스 겨울 폭풍으로 NXP 생산 시설 두 곳이 폐쇄되는 등, 각종 웨이퍼 팹이 피해를 입았습니다. 3월 11일 두 시설의 가동이 재개되었음에도, 생산 지연에 따른 피해가 눈덩이처럼 불어나며 리드 타임에 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "가장 큰 영향을 받고 있는 NXP 및 ST Microelectronics MCU의 자동차용 칩 리드 타임이 계속 오래 걸립니다. 고객께서는 필요할 때 배송받지 못하는 상황을 피하려면 이런 사정을 고려해 적절히 미리 계획하는 것이 좋습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "NXP",
+      "Nexperia",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "*   **NXP**: 말레이시아와 대만에 있는 NXP의 조립 및 테스트 공장이 봉쇄 조치의 영향을 받은 것으로 보도되었습니다. 이미 일부 배송이 지연되고 있는 상황에서, 3분기와 4분기 내내 자동차 MCU가 계속 큰 영향을 받을 것으로 예상합니다. 'S9' 시리즈가 가장 눈에 띄게 영향을 받았고 시장에서의 수요가 많습니다. 또한, NXP는 부품이 올바르게 판매되도록 보장하기 위해 오픈 마켓 내의 유통업체 거래 활동을 조사하고 있습니다. 현재 제품 배송에 대해 자세히 들여다 보고 있어 유통업체와 파트너를 위한 배송이 지연되고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "NXP 리드 타임은 계속 늘어나 현재 52주 이상인 상황입니다. 더욱이, 9~11월 사이에 인도 예정인 주문은 이 회사의 말레이시아 조립 공장 폐쇄로 인해 납품이 지연될 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Broadcom",
+      "NXP",
+      "Nexperia",
+      "Xilinx"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "주로 자동차 부문에서 사용되는 NXP MKxxx 시리즈는 코로나19 발병으로 인해 말레이시아에서 이루어진 이전의 공장 폐쇄 사태의 영향을 끊임없이 받았습니다. 제조 지연으로 인해 리드 타임이 극히 늘어나 2022~2023년까지도 제대로 제품 인도가 이행되지 않을 것으로 예상합니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "중국 생산 공장이 주로 MCIMX 시리즈 MCU에 주력하는 NXP Tianjin은 최근 코로나19 봉쇄 조치의 영향을 받았습니다. 그 결과로, 자동차 부품에 대한 리드 타임은 현재 52주를 넘어 늘어날 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "Nexperia는 자동차 부문의 수요를 지원하는 데 대부분의 생산 역량을 쏟고 있습니다. 지원 전환에도 불구하고 이전 분기의 전반적인 공급망 적체를 완화하지 못해 여러 시리즈의 리드 타임이 길어지게 되었습니다. Nexperia의 빠르고 느린 단일 게이트 제품 리드 타임은 현재 54주로, SOT353/SOT363/TSSOP/DFN 시리즈는 할당 기반으로 운영되고 있습니다. 또한 산업 MCU 시리즈 리드 타임은 여전히 52주~78주 사이입니다. 수요 및 생산 지원으로 인해 7월에는 가격이 10~25% 인상될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "NXP 웹사이트의 C라인 웹페이지는 중국 IP 주소를 가진 방문자만 액세스할 수 있습니다. 제조업체는 S라인에서 C라인 시리즈로의 전환이 부품 번호 변경, 특히 문자 'S'를 'C'로 변경하는 것으로 제한된다고 밝혔습니다. 이러한 변경은 특정 지역과 관련된 제품에 영향을 미치며 글로벌 및 지역 간 무역에 부정적인 영향을 미칠 수 있습니다. 일반 버전의 S라인 공급은 시장에서 더 제한될 수 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "집적 회로(IC)",
+    "subheading": "",
+    "text": "네트워킹 컨트롤러에 사용되는 NXP MPU의 MPC8시리즈는2025년1분기 동안 수요가 증가하고 있습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "NXP i.MX8시리즈는 기존 i.MX6 시리즈를 점진적으로 대체하려고 하지만, 가격 차이로 인해 전환이 예상보다 원활하지 않습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "NXP는 RF 제품 가격 인상을 진행하고 있으며, 이로 인해 백로그에 영향을 주고 재견적이 발생하고 있습니다. NXP MCU 시리즈의 리드타임은 12주에서 20주로 연장되었습니다.",
+    "detected_vendors": [
+      "NXP",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "넥스페리아 압수로 자동차용 칩 위기 촉발: 네덜란드 정부가 중국 소유의 Nexperia에 대한 통제권을 압수했다. 차량 전자에 필수적인 다이오드, 트랜지스터, 전력 관리 칩의 핵심 공급업체인 만큼, 이번 혼란은 유럽 전역과 그 밖의 지역의 자동차 부문에 급격한 품귀를 초래할 위험이 있으며, 주요 제조사들은 대체 공급원을 확보하기 위해 서두르는 반면 유통업체들은 브로커를 통한 거래가 차단되며 어려움에 직면하고 있다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "",
+    "text": "Nexperia는 중국(원산지 COO CN)에서 제조된 특정 완제품과 서브어셈블리의 출하를 금지하는 수출 통제 통지를 받았다. 중국 모회사인 Wingtech으로 민감한 기술이 이전될 가능성에 대한 우려를 이유로 들었다. 수많은 유통업체가 Nexperia MPN에 대한 모든 견적 활동을 동결해 유럽과 미주 전역의 공급 불확실성을 더욱 악화시키고 있다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "Logistics & Supply Chain",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "ACEA, Nexperia 사태 해결 촉구: 유럽자동차제조협회(ACEA)는 자동차 공급업체들이 완성차 업체에 공급할 부품과 컴포넌트를 생산할 수 없어 유럽 자동차 생산에 중대한 혼란이 발생할 가능성에 대해 깊은 우려를 표했다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Nexperia 위기가 새로운 국면에 접어들며 산업 전반에 대체 수요가 촉발됨: 위안화 기반 거래를 통한 Nexperia 중국발 제한적 선적이 재개되었으나, OEMs들은 진위성 우려로 인해 10월 13일 이후 생산된 부품을 더 이상 수용하지 않고 있다. 이로 인해 대체품을 찾기 위한 전 세계적 긴급 수요가 발생했으며 일부 유통사는 브로커 거래 지원이 금지되는 상황에 이르렀다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Onsemi",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "Logistics & Supply Chain",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "자동차 산업의 ‘탈-중국’ 가속화: Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다. 보고서에 따르면 Tesla와 그 공급업체들은 이미 일부 중국산 부품을 대체했으며, 나머지 부품도 향후 1~2년 내 비중국 생산품으로 교체하는 것을 목표로 하고 있다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음: 샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "Corporate",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "네덜란드 소재 칩메이커 넥스페리아의 중국계 모회사인 윙텍은 네덜란드 회사의 법원 지정 관리인들에게 회사 지배권과 관련해 협의를 제안했다고 밝혔으며, 이는 관계 완화를 위한 가능한 첫 단계가 될 수 있습니다. [소스: CNA]",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Quality / Defect"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Nexperia의 공급 상황은 여전히 심각합니다. 말레이시아 및 필리핀 생산 물량의 리드타임은 30~44주로 지연되었습니다. 자동차 고객은 물량 배정을 확보하지 못하고 있으며, 2025년 말 접수된 주문은 2026년 말로 이연되었습니다. 가격은 약 10~15% 인상될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면해 있습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "자동차 고객들은 Vishay의 잠재적 웨이퍼 품질 이슈를 조사하고 있으며, 이는 Nexperia 다이오드 공백을 메우는 과정에서 추가 리스크로 작용하고 있습니다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "3. Infineon은 2026년 4월 1일부터 전력 IC 제품군 가격 인상을 발표했다. 리드타임은 30~52주로 두 배 증가했으며, 이는 Nexperia 수요 유입 영향이다. 중국 러산 공장의 웨이퍼 생산 제약이 지연을 악화시키고 있다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "4. 넥스페리아 공급망 분절화로 영구적 대체 인증 전환 가속: 넥스페리아 차이나가 위안화 기반 거래를 통해 중국 내 출하를 제한적으로 재개했음에도 불구하고, 글로벌 OEM, 특히 자동차 Tier 1 업체들은 드롭인 대체품 인증을 가속화하고 있습니다. 말레이시아 생산은 계속해서 신뢰성 문제에 직면해 있으며, 리드타임은 30~44주까지 늘어나고 있습니다. 정품 인증 절차로 인해 기존 넥스페리아 기반 설계의 조달 주기에는 2~4주가 추가로 소요되고 있습니다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "5. 넥스페리아의 공급 상황은 여전히 심각합니다. 말레이시아 및 필리핀 생산의 리드타임은 30~44주까지 늘어났습니다. 자동차 고객들은 할당 확보가 어렵다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 지연되고 있습니다. 초과 수요를 흡수하고 수출 통제의 복잡성에 대응하는 과정에서 가격은 약 10~15% 인상될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "6. Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Geopolitics / Sanctions",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "4. EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화: EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• On Semi와 Diodes Incorporated는 Nexperia 및 MCC의 인증 전환에 따른 초과 수요를 흡수하고 있다. 리드타임은 40~52주 이상으로 확대되었으며, On Semi는 7월 가격 조정(약 15% 이상)을 발표했고 Diodes는 상업용 등급 주문에 대해 백로그 압축 정책을 시행하고 있다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Infineon과 On Semi의 리드타임은 Nexperia의 초과 수요를 흡수하면서 두 배 증가해 30~52주까지 확대됐다. Infineon MOSFET(특히 TOLL 패키지)은 2027년 3분기까지 지속될 것으로 예상되는 공급 부족에 직면해 있으며, 고객에 대한 할당 보장은 제공되지 않고 있다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  }
+]

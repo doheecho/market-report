@@ -1,0 +1,125 @@
+[
+  {
+    "year": 2020,
+    "month": 5,
+    "category": "Storage",
+    "section_raw": "스토리지",
+    "subheading": "",
+    "text": "Finisar의 프랑스 제조 공장은 FTLX8574 라인에 필요한 자재를 소싱하는 데 어려움을 겪었습니다. 리드 타임이 4주로 길어질 수 있고 다른 라인에도 영향을 미칠 수 있습니다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "트랜시버 제조업체 Finisar는 EEPROM이 최적의 통신 부품 및 서브시스템을 생산하길 요구합니다. 하지만, EEPROM 공급 부족으로 리드 타임이 더 길어져 30주 이상 연장되었습니다. 85xx 시리즈 8574, 8536 부품은 이러한 제약의 영향을 받았습니다. 아시아와 다른 지역에서 가동 중단이 예상되며 물량 제한도 점점 확산되고 있습니다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
+    "subheading": "",
+    "text": "Coherent는 소재 부문에서 재고 조정이 발생하고 있으며, 이는 자동차 수요 약세 때문이라고 밝혔습니다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
+    "detected_vendors": [
+      "Coherent",
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Networking",
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "",
+    "text": "Coherent(Finisar)는 400G/800G 트랜시버의 리드타임을 6개월 연장했으며, 일부 자재는 2028년까지의 공급 일정으로만 확보된 상태입니다. 말레이시아 및 중국 생산 시설은 신규 주문을 적극적으로 제한하고 있습니다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Networking",
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "",
+    "text": "3. Coherent(Finisar)는 400G/800G 트랜시버 리드타임을 6개월 연장했으며 일부 소재는 2028년까지 지연되고 있다. 말레이시아 및 중국 생산은 신규 주문을 제한하고 있다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "Networking",
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "",
+    "text": "3. Coherent(Finisar)는 400G/800G 트랜시버 리드타임을 6개월 연장했으며 일부 소재는 2028년까지 지연되고 있다. 말레이시아 및 중국 생산은 신규 주문을 제한하고 있다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• Coherent(Finisar)는 400G/800G 트랜시버의 리드타임을 6개월 추가 연장했다. NVIDIA는 Q3400 스위치에 트랜시버 번들 구매를 의무화하고 있으며, H200 수출 규제로 인해 규제 준수 인터커넥트의 현물 시장 가격 변동성이 지속되고 있다.",
+    "detected_vendors": [
+      "Coherent",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Geopolitics / Sanctions",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Broadcom",
+      "NXP",
+      "Nexperia",
+      "Xilinx"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "Analog Devices Inc.(ADI)의 Maxim Integrated 인수 이후로, ADI가 유통업체에 제한된 일정에 따라서만 기존 고객 주문 물량을 공급한다는 소문이 있습니다. 인수에 따른 전환 기간이 가뜩이나 어렵던 ADI의 현 상황에 부담을 더할 것으로 예상됩니다. ADI의 리드 타임은 공급이 계속 제한된 상태에서 이미 최대 52~72주로 늘었습니다. 11월에는 15~20%의 가격 인상이 예상됩니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "M&A",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "Analog Devices, Inc.(ADI) MEM 센서에 대한 리드 타임은 현재 60주이지만 가격은 안정적으로 유지되고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "그 대신 공식 유통업체가 할당량을 풀면서 Analog Devices ADUM 시리즈에 대한 시장 공급 압박이 완화되고 있습니다. 또한 STMicro는 약 6개월~1년 사이의 MOSFET 및 다이오드 리드 타임으로 안정적이며, 유통업체들은 주요 공급 중단이 일어날 것이라고는 예측하지 않습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "NXP",
+      "Onsemi",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "미국과 중국 사이의 긴장이 계속되는 한, Analog Devices의 4분기 전망은 낙관적이지 않습니다. 글로벌 정치적 불안정 및 경제 취약성은 다음과 시리즈의  공급 부족(Shortage)을 야기했습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "상용 등급 제품에 대한 수요는 약간 감소한 반면, 산업 성과는 일관되게 유지되고 있습니다. Analog Devices가 Linear Tech 및 Maxim과 함께 가격을 인상할 것이라는 소문이 있지만, 어떤 공식 발표도 없기에, 몇 퍼센트의 가격 인상이 있을 것인지는 아무도 모릅니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "긍정적인 소식은 Analog Devices의 ADUM 시리즈의 안정적인 시장 공급이 이루어지고 있다는 것인데, 이는 특히 공인 유통업체가 시장에 더 많은 재고를 안겨주고, 할당을 완화한 노력 덕분입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "두 개 범주의 자동차 센서를 생산하고 있는 Analog Devices는 자사의 공급에 심각한 영향을 경험했습니다. 첫 번째 범주인 MEMS 안전 및 보안 센서에는 충돌 감지, 보안 및 안정성 제어를 위한 가속도계와 자이로스코프가 포함됩니다. 두 번째 범주는 자율 주행 차량 인식 센서 및 내비게이션입니다. 가속도계와 자이로스코프 대부분은 필리핀 공장에서 조립 및 테스트하고 있으며, 현재 ADXL1/2/3 xxx와 같은 주요 제품 시리즈의 경우 리드 타임이 26~52주입니다. 최고 인기 시리즈인 ADXL312, ADXL362, ADXL345는 리드 타임이 최대 90주나 걸립니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "최근 발표된 공지에 따르면 2023년에 Analog Devices의 제품 리드 타임이 단축될 것으로 예상됩니다. 현재 동사 포트폴리오의 절반은 리드 타임이 13주 미만입니다. 이러한 회복은 부분적으로 AD7/8xxx 시리즈와 같이 수요가 적은 Linear Tech 품목의 생산 감축과 같은 전략적 제조 감축에 기인합니다. 가장 최근 분기 실적 보고서에서 Analog Devices는 공급 문제를 해결하기 위한 전략으로 내부 생산량 증가와 파운드리 파트너와의 긴밀한 협력에 초점을 맞추고 있음을 분명히 했습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Production Cut"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "올해 10월까지 Analog Devices 제품의 95%, 총 75,000개가 넘는 고유 부품의 리드 타임이 13주 이하로 개선될 것입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Analog Devices는 운영 방식을 현대화하기 위해 R&D에 투자해 왔으며 현재는 수요가 높은 시장을 공략하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "지난 한 해 동안 Analog Devices는 연구 및 개발에 투자를 확대했습니다. 목표는 더욱 탄력적인 운용을 구축하여 실행하고, 보다 지속 가능한 생산을 위해 회사의 팹을 현대화하는 것이었으며, 이 목표는 성공했습니다. 그 결과, 이제는 산업 및 자동차 시장과 같이 수요가 많은 수직 산업 분야를 목표로 삼을 수 있게 되었습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "이렇게 되면 공급은 늘어나지만, LTC4XXX 및 LTC6XXX 시리즈는 여전히 공급 부족(Shortage)의 영향을 받습니다. 두 시리즈 모두 배터리 충전 및 모니터링에 사용되며, 이는 전기 차량에 대한 수요가 공급 문제를 촉발하는 역할을 했을 가능성이 있음을 의미합니다. Analog Devices는 지난 분기 매출의 대부분이 현재의 전기화 추세 덕분이라고 봤습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "Analog Devices는 20년 이상 지난 구형 시리즈에 속하는 MPN 가격 인상을 시행할 계획이라고 발표했습니다. 가격은 20% 인상될 것이며, 일부 제품은 그 이상 변동할 가능성도 있지만, 자세한 사항은 아직 최종적으로 결정된 것은 아닙니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "Analog Devices에서는 장기적인 웨이퍼 생산 능력을 제공하기 위해 TSMC에서 대다수의 지분을 소유한 제조 자회사인 일본의 JASM(Japan Advanced Semiconductor Manufacturing)과 특별 협약을 체결하여 이러한 상황에 대응하고 있습니다. 협약은 40nm 및 미세 공정 기술 노드에 초점을 맞추며, 이는 무선 BMS(wBMS) 및 GMSL™(Gigabit Multimedia Serial Link) 애플리케이션을 비롯한 중요한 플랫폼 역할을 수행합니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "TSMC"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Analog Devices의 전사적인 배송 중단으로 인해 가용성에 영향을 주었습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "운영 중단 후 배송을 재개하는 Analog Devices",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "Analog Devices는 3월 15일부터 3월 24일까지 배송이 지연될 것이라고 발표했습니다. 영향의 규모는 창고 위치에 따라 다르지만 기존 주문에 지연이 발생했습니다. 지연 기간은 공식적으로 종료되었지만 생산량이 100% 회복되는 데는 4주가 소요될 예정입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "CPU",
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "운영 중단은 Maxim Integrated Products와 Analog Devices의 합병으로 인해 발생했습니다. 3년 전 Analog Devices에서 Maxim을 인수했지만 당초 예상했던 것보다 더 오랜 시간이 걸렸습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "고객들은 반도체 시장에서 각각의 직면하고 있는 공급 문제로 인해 onsemi, Maxim Integrated, Analog Devices를 면밀히 모니터링하고 있습니다. onsemi의 경우 산업용 부품 대신 자동차 부품에 더 집중하면서 제조 변화에 대응하고 있습니다. 이러한 변화는 구형 기술을 단계적으로 폐지하고 최대 생산 능력 이하로 운영하면서 특히 ASIC 및 다이오드 분야에 우려를 불러오고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Onsemi"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "Analog Devices는 최근 취소 기간을 45~70일로 연장하는 등 유통 전략과 파트너십을 조정했습니다. 이러한 움직임은 공급을 관리하기 위한 것이지만 고객이 비용 절감 옵션을 모색함에 따라 주문량에 변동이 발생할 수 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "자동차 수요 증가: 자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Onsemi",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Logistics & Supply Chain",
+    "section_raw": "관세 업데이트",
+    "subheading": "",
+    "text": "TI, Intel, ADI, Micron 등 미국 기반 IDM 팹에 영향, 최종 조립이 해외에서 이뤄지더라도 적용됩니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Micron",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "IC",
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "",
+    "text": "백엔드 용량 제약과 2026년까지 이어지는 가격 인상으로 만성적인 부족 사태에 직면한 아날로그 디바이스(ADI)에서 고객들이 전환함에 따라 텍사스 인스트루먼트(TI) 부품에 대한 수요가 가속화되고 있다. 상황을 더욱 악화시키는 것은 상하이와 홍콩 법인이 미국 수출 제한 목록에 추가된 이후 애로(Arrow)의 아시아 사업이 혼란에 빠졌다는 점이다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Arrow",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Geopolitics / Sanctions",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "Analog Devices는 2026년 2월 1일부터 전체 포트폴리오에 대해 공식적으로 15% 가격 인상을 시행한다고 고객들에게 통보했다. 추가로 약 1,000개 이상의 군용 등급 MPNs(/883 접미사) 들은 약 30%의 가격 인상이 적용될 예정이다. OPA 등 핵심 시리즈의 리드타임이 40주 이상으로 연장된 상황에서 나온 조치다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의‑ T-글래스 기판‑ 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Analog Devices는 전력 관리 및 신호 체인 포트폴리오 전반에 걸쳐 15~30% 수준의 가격 인상을 단행하고 있습니다. 리드타임은 24~40주로 확대되었으며, 구정(CNY) 기간 중 자동차 고객 대상 주문 디커밋 사례가 구체적으로 보고되었습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 주문 디커밋과 파운드리 전환이 발생하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. 반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "SK하이닉스",
+      "Sony",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "1. Analog Devices는 2026년 2월 1일부터 전 제품군 가격을 15~30% 인상했으며, 군용 등급 MPN은 약 30% 인상되었다. 주요 OP Amp(OPA 시리즈)의 리드타임은 후공정 용량 제한과 T-글래스 기판 부족으로 40주를 초과하고 있다. 자동차 고객은 춘절 기간 동안 디커밋을 보고했다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "2. T-글래스 기판 부족은 ADI, Intel, Lattice, Sony의 주요 병목이며, 유리 섬유 원단 리드타임은 4주에서 20주로 증가했다. 이는 디커밋과 파운드리 전환을 유발하고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "detected_vendors": [
+      "Altera",
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "5. 패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화: 2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "4. Analog Devices(ADI)는 전력 및 신호 체인 포트폴리오 전반에 15~30%의 전반적인 가격 인상을 시행했습니다. 리드타임은 26~40주로 연장되었으며, 자동차 고객을 대상으로 한 특정 납품 취소(디커밋) 사례도 보고되고 있습니다. LT 시리즈 연산 증폭기와 정밀 레퍼런스의 주요 병목 요인으로는 T-글래스 기판 제약이 지목되고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "4. T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• Analog Devices는 전 포트폴리오에 걸쳐 15~30%의 가격 인상을 전면 시행했다. 리드타임은 여전히 32~40주 이상 수준이며, LT 시리즈 연산 증폭기 및 정밀 기준 전압 제품의 주요 병목 요인으로 T-글래스 기판 제약이 지목되고 있다. 자동차 및 산업용 고객들은 공급 확약 철회와 급행 수수료 요구가 가속화되고 있다고 보고하고 있다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• T-글래스 기판은 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 여전히 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Analog Devices(ADI)의 리드타임은 기존 20주 이상에서 40~52주 이상으로 확대됐다. 고객들은 사전 주문에도 불구하고 광범위한 공급 확약 철회가 발생하고 있다고 보고하고 있으며, T-글래스 기판 공급 제약이 LT 시리즈 연산 증폭기 및 정밀 기준 전압 제품의 주요 병목 요인으로 지목되고 있다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "중국의 일시적인 헬륨 수출 금지와 지속되는 중동 긴장이 맞물리면서 글로벌 반도체 공급망에 새로운 위험 요인이 발생하고 있다. 헬륨은 웨이퍼 제조, 테스트 및 패키징 공정에 필수적인 소재이기 때문이다. T-글래스 기판 공급 부족은 여전히 ADI, Intel 및 Lattice 생산의 주요 병목 요인으로 작용하고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "2. Analog Devices(ADI)는 9월 13일부로 추가 가격 조정을 시행합니다. 정밀 연산증폭기 MPN의 리드타임은 400일 이상으로 늘어나고 있으며, AD5545BRUZ의 경우 476일에 달해 산업용 신제품 도입(NPI)에 심각한 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  }
+]

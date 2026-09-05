@@ -1,0 +1,106 @@
+[
+  {
+    "year": 2021,
+    "month": 8,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "말레이시아에서 제조되는 Altera의 Cyclone 시리즈 FPGA의 생산량이 말레이시아 정부의 봉쇄 조치로 인해 감소했습니다. 이는 MAX10, MAX II, CYCLONE 10, STRTIX 10, 10M, 10C, 10S 및 CYCLONE 2 3 4 5 시리즈의 극심한 가격 인상으로 이어졌습니다. 심지어 일부 부품의 리드 타임이 1년 이상 밀렸습니다.",
+    "detected_vendors": [
+      "Altera"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "category": "IC",
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "",
+    "text": "Altera (Intel) 주문은 데이터 마이그레이션 중으로, 소폭의 가격 변동과 잠재적인 리드타임 지연이 발생하고 있습니다. 여기에 더해, 조립 및 테스트 하우스의 제한된 생산 능력으로 인해 FPGA Cyclone® 10 GX, Arria® II/V/10, Stratix® III/IV/V 제품군의 리드타임이 24주로 연장되었습니다.",
+    "detected_vendors": [
+      "Altera",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다. 주문 시스템 업데이트는 2025년 8월 15일에 시행되었으며, 1~2분기 내 해결이 예상됩니다.",
+    "detected_vendors": [
+      "Altera"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "detected_vendors": [
+      "Altera",
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
+    "detected_vendors": [
+      "Altera",
+      "Lattice",
+      "Xilinx"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "7. Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다.",
+    "detected_vendors": [
+      "Altera",
+      "Xilinx"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  }
+]

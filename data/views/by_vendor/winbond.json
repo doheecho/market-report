@@ -1,0 +1,96 @@
+[
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "Memory",
+    "section_raw": "3 메모리 (Memory)",
+    "subheading": "",
+    "text": "지난 Greensheet에서 Fusion Worldwide는 DDR3와 저전력 DDR4 DRAM 칩의 공급 부족과 같이, 메모리 시장의 수많은 공급 문제를 보도했습니다. 그 이후로 DRAM과 DIMM 시장은 크게 중요성을 부각시켰습니다 지금은 여러 제품 그룹에서 공급 부족과 가격 상승이 나타나고 있는데, 삼성전자, Micron, 하이닉스뿐 아니라 Winbond, Silicon Labs 등의 규모가 적은 제조업체에도 영향을 미치고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "Winbond",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "3 메모리 (Memory)",
+    "subheading": "",
+    "text": "다른 뉴스에서는 하이닉스가 2GB DDR3의 단종 계획을 공식적으로 발표함에 따라, 고객이 삼성과 Winbond 같은 다른 제조업체로 눈을 돌리게 되었다는 소식이 있습니다. 하지만 이 두 회사 모두 엄청난 수요에 압도되어 당분간은 신규 주문을 받지 않기로 했습니다. 이 때문에 각각 3분기와 4분기쯤 되어야 기존 주문 물량을 인도할 수 있을 것으로 예상하고 있습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "Winbond",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "마찬가지로 Winbond의 매출도 3.3%까지 하락했습니다. 이는 네트워킹 고객 사이의 재고 조정 및 TV 제조업자의 공급 연기로 인한 것입니다. 현재 Winbond의 Kaohsiung 공장은 25S NM 생산에 완전히 주력하고 있습니다. 차세대 20nm 공정의 다량 생산은 2023년 중반에 가능할 것으로 예상돼 매출 성장에 효과적으로 기여할 것으로 기대됩니다.",
+    "detected_vendors": [
+      "Winbond"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "2. Winbond DDR3/DDR4 가격은 2분기 상승이 예상된다. DDR4 16Gb 가격은 2025년 상반기 약 $2.3에서 현재 $15 이상으로 급등했다.",
+    "detected_vendors": [
+      "Winbond"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "Logistics & Supply Chain",
+    "section_raw": "공급망 동향",
+    "subheading": "",
+    "text": "1. 대만 메모리 반도체 업체 Winbond가 NOR Flash 제품을 통해 NVIDIA의 차세대 Vera Rubin 플랫폼 공급망에 진입한 것으로 알려졌으며, 대량 출하는 올해 하반기부터 시작될 것으로 예상된다. [출처: FinanceBigGo]",
+    "detected_vendors": [
+      "Nvidia",
+      "Winbond"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "RDIMM",
+    "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
+    "subheading": "",
+    "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
+    "detected_vendors": [
+      "Nanya",
+      "Winbond"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  }
+]

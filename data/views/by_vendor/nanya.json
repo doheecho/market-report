@@ -1,0 +1,80 @@
+[
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "IC",
+    "subheading": "",
+    "text": "대만의 Nanya의 경우 소비자 DRAM 출하가 감소했습니다. 이는 다른 메모리 칩 제조업자와 비교하여 매출에 부정적인 영향을 미쳤습니다.",
+    "detected_vendors": [
+      "Nanya"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "category": "Memory",
+    "section_raw": "메모리",
+    "subheading": "",
+    "text": "지난 2분기 동안 DDR3 1G 및 2G 가격이 50% 상승하면서 이미 NANYA Technology의 가격은 가파르게 상승하고 있습니다. 이 분야에서의 고객 수요가 여전히 높으며 AI가 이러한 추세를 주도하고 있습니다. 최근 SK하이닉스와 삼성은 DDR3 생산을 중단하고 HBM 제품에 주력하겠다고 발표했습니다. Micron 등 보다 영향력이 큰 기업이 이러한 산업 동향을 따르면서 NANYA와 같은 기업들의 제품 수요가 확대될 것을 예상할 수 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "Nanya",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "RDIMM",
+    "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
+    "subheading": "",
+    "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
+    "detected_vendors": [
+      "Nanya",
+      "Winbond"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "2. 레거시 DRAM(DDR3/DDR4)은 잇따른 단종 통보에 직면해 있습니다. Micron은 여러 용량의 DDR3 제품에 대해 최종 구매 통보를 발행했으며, Nanya는 향후 생산 계획 없이 남아 있는 웨이퍼 재고를 조용히 소진하고 있습니다.",
+    "detected_vendors": [
+      "Micron",
+      "Nanya"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Corporate",
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "3. 메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",
+    "detected_vendors": [
+      "Nanya"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  }
+]

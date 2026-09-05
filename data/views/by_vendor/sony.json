@@ -1,0 +1,342 @@
+[
+  {
+    "year": 2021,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "최근 뉴스에서, CMOS 시장 점유율 최상위권으로 손꼽히는 삼성전자는 올해 DRAM 팹 중 하나를 CMOS 이미지 센서 라인으로 전환해 생산능력을 대략 20% 정도 늘릴 수도 있다는 계획입니다. 이에 대응해, Sony는 나가사키 생산 라인에 1,000억 엔 규모의 투자해 향후 5년 내에 시장 점유율을 60%로 끌어올릴 계획입니다.",
+    "detected_vendors": [
+      "Sony",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "1 CPUs (중앙처리장치)",
+    "subheading": "",
+    "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다.",
+    "detected_vendors": [
+      "Amd",
+      "Sony",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "2 ICs (집적회로)",
+    "subheading": "",
+    "text": "세계적인 웨이퍼 공급 부족과 원자재 가격 상승이 Sony의 생산에도 계속 영향을 미치고 있습니다. 지난 6개월 동안 Sony의 IMX 시리즈의 가격이 두 배로 올랐고 공급은 계속 극히 빠듯한 상태로 남을 것으로 예상됩니다. 고객은 연중 내내 잠재적인 라인 다운 문제를 피하려면 진행 중인 프로젝트를 위한 여유 재고분을 구매하는 것이 좋습니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "현재 Sony와 On Semi의 흑백 CMOS는 시장에서 공급이 극히 빠듯해, 제조업체나 유통업체에서 재고 물량을 찾아내는 것 자체가 거의 불가능한 실정입니다. 파트 넘버 IMX287LLR-C 및 IMX273LLR-C가 가장 수요가 많아 가장 구하기 어려운 제품입니다.",
+    "detected_vendors": [
+      "Onsemi",
+      "Sony"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "1 ICs (집적회로)",
+    "subheading": "",
+    "text": "전반적으로, On Semi는 최종 고객을 위한 충분한 CMOS 센서를 생산할 수 없어, 그 대신 Sony의 CMOS 센서로 전환하는 고객이 급증하고 있습니다.",
+    "detected_vendors": [
+      "Onsemi",
+      "Sony"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "Other",
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "Raspberry Pi의 생산량이 계속 증가함에 따라 반등할 가능성이 보입니다. Raspberry Pi는 7월에 제한적인 회복을 예상했지만 주문 적체를 처리한 방식으로 미루어 보아 이러한 긍정적인 추세가 지속될 가능성이 있습니다. 원자재가 보다 양호하게 공급되고 있으며 추가 안전 재고가 확보되면서 수요를 꾸준히 따라잡는 안정적인 제조 주기가 형성되었습니다. 장기적 파트너인 Sony의 추가 지원 덕분에 더 많은 고객에게 주문이 전달되기 시작했습니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "집적 회로 시장 변화 동향",
+    "subheading": "",
+    "text": "SONY CMOS 센서는 지속적으로 생산 부족 상태이며, 표준 리드 타임은 약 6개월이고 공급은 배정 방식으로 이루어집니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "IC",
+    "section_raw": "집적 회로",
+    "subheading": "",
+    "text": "소니의 산업용 센서는 부족 상태에 있습니다. 산업 수요 증가로 리드타임은 약 8개월로 연장되었습니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "IC",
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "",
+    "text": "소니 산업용 센서 IC는 일본의 회계연도 말 수요 급증으로 인해 1분기까지 디커밋이 발생하고 있으며, 이로 인해 블랙박스 및 머신비전 빌드가 차질을 빚고 있습니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Sony는 2026년 4월부터 CMOS 이미지 센서 IMX 시리즈의 공급 부족을 전망하고 있으며, 일부 유통사에는 물량의 10%만 배정하고 있습니다. 글로벌 글래스 기판(Nittobo) 부족으로 인해 2027년까지 수요 대비 생산은 약 70% 수준으로 제한될 것으로 보입니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 주문 디커밋과 파운드리 전환이 발생하고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. 반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "SK하이닉스",
+      "Sony",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "7. Sony는 2026년 4월부터 CMOS 센서 IMX 시리즈 부족을 예상하며, 일부 유통사에는 10%만 할당된다. Nittobo 유리 기판 부족으로 2027년까지 생산은 수요의 70% 수준에 제한된다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "2. T-글래스 기판 부족은 ADI, Intel, Lattice, Sony의 주요 병목이며, 유리 섬유 원단 리드타임은 4주에서 20주로 증가했다. 이는 디커밋과 파운드리 전환을 유발하고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "detected_vendors": [
+      "Altera",
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "Passive",
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "",
+    "text": "4. T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "2. Sony CMOS 센서: IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
+    "detected_vendors": [
+      "Nvidia",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "Sony CMOS 센서 IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
+    "detected_vendors": [
+      "Nvidia",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "IC",
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "",
+    "text": "• T-글래스 기판은 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 여전히 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Intel",
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Other",
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
+    "detected_vendors": [
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Geopolitics / Sanctions",
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  }
+]
