@@ -3,6 +3,9 @@
     "year": 2021,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "1 ICs (집적회로)",
     "subheading": "",
     "text": "삼성전자의 말레이시아 생산 공장도 생산능력의 최대 60%까지만 운영할 수 있고, Kemet의 생산 공장도 생산능력을 축소 운영하고 있습니다. 이런 상황이 얼마나 계속될지, 결과적으로 어떤 장기적 효과가 나타날 수 있을지는 알 수 없습니다.",
@@ -17,6 +20,10 @@
     "year": 2022,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "비용 상승이 예상됨에 따라 물량 할당이 빠듯해질 것으로 예상됩니다. Yageo, Kemet Tantalum 및 Polymer 제품의 리드 타임은 현재 54주로 더 길어질 가능성이 있으며 Vishay 탄탈 콘덴서는 주문 시 리드 타임이 82주입니다. TDK와 Murata의 현재 리드 타임은 26주이지만 러시아-우크라이나 전쟁으로 인한 핵심 원료 물량의 수급 불안정으로 그 기간은 더 늘어날 것으로 예상됩니다.",
@@ -35,6 +42,9 @@
     "year": 2025,
     "month": 2,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "패시브 부품",
     "subheading": "",
     "text": "Kemet의 폴리머 탄탈륨 커패시터는 높은 수요로 인해 리드 타임이 36~40주로 연장되었습니다.",
@@ -49,7 +59,11 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "Storage",
+    "category": "Passive",
+    "detected_categories": [
+      "Passive",
+      "Storage"
+    ],
     "section_raw": "HDD AI 채택으로 인한 시장 변화",
     "subheading": "",
     "text": "Kemet의 폴리머 탄탈륨 커패시터는 높은 수요로 인해 리드 타임이 36~40주로 연장되었습니다.",
@@ -65,6 +79,9 @@
     "year": 2025,
     "month": 4,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "수동소자",
     "subheading": "",
     "text": "Kemet Polymer Tantalums는 2.5V–10V B-케이스 커패시터(47μF–330μF)에 대해 6월 1일부터 가격 인상을 발표했습니다.",
@@ -80,6 +97,9 @@
     "year": 2025,
     "month": 4,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "수동소자",
     "subheading": "",
     "text": "Kemet는탄탈륨 커패시터에 대해 10–15%의 가격 인상을 시행했으며, 리드 타임을 추가로 2–4주 연장했습니다.",
@@ -96,6 +116,9 @@
     "year": 2025,
     "month": 5,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "Kemet은 B케이스 커패시터에 대해 10-15%의 두 번째 가격 인상을 발표했으며, 여러 전압 등급에서 3-5주의 추가 지연이 발생하고 있습니다.",
@@ -110,7 +133,11 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Passive",
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "Panasonic이 타이트한 리드타임을 유지하는 가운데, Kemet 및 Nippon Chemicon 또한 주문 전환으로 인해 알루미늄 폴리머 및 탄탈륨 커패시터의 추가 지연 발생",
@@ -127,6 +154,9 @@
     "year": 2025,
     "month": 9,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "AVX 및 Kemet 탄탈륨 커패시터의 리드타임은 24~28주에 달합니다.",
@@ -143,6 +173,9 @@
     "year": 2025,
     "month": 12,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "케멧 탄탈 커패시터 리드타임은 32주에서 42주로 늘어났습니다.",
@@ -158,6 +191,9 @@
     "year": 2025,
     "month": 12,
     "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "파나소닉와 케멧은 모두 가격을 인상했으며, 2026년에 추가 인상을 예상하고 있습니다.",
@@ -172,6 +208,10 @@
     "year": 2026,
     "month": 5,
     "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
     "subheading": "",
     "text": "2. 탄탈 커패시터 리드타임은 40주를 초과했으며, 벤더들은 저마진 라인의 단종 가능성을 경고하고 있다. Panasonic과 Kemet은 2026년 5월부터 20~40%의 가격 인상을 발표했다.",
@@ -190,6 +230,9 @@
     "year": 2026,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "• Panasonic과 Kemet은 7월부터 30~40%의 가격 인상을 발표했다. 리드타임은 40주를 초과하고 있다. 제조사들이 자동차 및 산업용 등급 제품을 우선시함에 따라 저마진 상업용 제품군은 단종 가능성에 직면해 있다.",

@@ -3,6 +3,9 @@
     "year": 2020,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "말레이시아에 있는 Renesas 생산 공장은 벅 부스트 레귤레이터 및 송신기/수신기 제품 생산 비중이 큽니다. 말레이시아의 봉쇄 조치와 의료기기 수요의 상승이 맞물리면서 이들 다양한 제품에 대한 분배 문제가 발생했습니다. 여러 정보원에 따르면, 생산 능력은 서서히 늘겠지만 이 문제는 3분기 내내 계속될 것으로 예상됩니다.",
@@ -16,6 +19,9 @@
     "year": 2020,
     "month": 11,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "3 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas 의 리드 타임이 계속 연장되고 있습니다. Renesas 측에서 공식적인 성명 발표는 없지만, 코로나19 팬데믹이 시작된 후로 공급 압박을 받아왔습니다.",
@@ -31,6 +37,9 @@
     "year": 2021,
     "month": 1,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "대다수의 마이크로 컨트롤러 제조업체는 1 월 1 일부터 12 월에 업데이트 된 가격 계획을 발표했습니다. STMicroelectronics, NXP, Renesas의 세 주요 회사는 제품 라인업 전반에 걸쳐 가격을 최소 10% 이상 인상했습니다.",
@@ -46,6 +55,9 @@
     "year": 2021,
     "month": 1,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas의 레거시 시리즈 제품 가격도 인상되었습니다. Renesas는 원자재와 재고 보유 비용 증가, 자재 리드 타임 지연, 정부 규제를 가격 조정의 원인으로 들었습니다.",
@@ -62,6 +74,9 @@
     "year": 2021,
     "month": 2,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas Electronics Corp.은 2020년까지는 PC와 스마트폰에 비해 상대적으로 마진이 적은 자동차 제품의 사내 생산을 줄였습니다. 하지만 현재 Renesas는 모든 계약 주문을 계속 이행하기 위해 자동차 반도체의 사내 생산을 늘리고 있습니다. 이 회사는 2021년 1분기에 150억 엔 이상의 설비 투자를 계획하고 있습니다.",
@@ -75,6 +90,9 @@
     "year": 2021,
     "month": 2,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "그뿐 아니라, Renesas는 진도 7.3의 지진 발생 후 2월 13일에 이바라키 공장의 조업을 중단 했습니다. 전력 복구에도 불구하고, 이 회사는 건물 및 장비 검사를 위해 이틀간 생산을 중단하기로 했습니다.",
@@ -90,6 +108,9 @@
     "year": 2021,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일, Renesas는 화재로 인해 일본의 나카 공장을 폐쇄했습니다. 공장 1 층에 화재가 진압 되었음에도 불구하고 회사는 가동을 재개하는 데 최소 한 달이 필요할 것으로 믿고 있으며 분석가들은 생산이 손실되거나 손상된 재고를 보충하기까지 더 오래 걸릴 것이라고 예측합니다.",
@@ -105,6 +126,9 @@
     "year": 2021,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "이 곳에서 생산되는 웨이퍼의 약 2/3는 자동차 생산에 사용됩니다. 이러한 제품 중에는 자동차 및 비자동차 용도의 Renesas MCU R5F, DS7, R5S, R7S7은 물론이고, 전력 관리 및 MOSFET 제품도 있습니다.",
@@ -118,6 +142,9 @@
     "year": 2021,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "이 문제를 극복하려고 Renesas는 손실된 생산 중 일부를 다른 공장으로 이전할 방안을 모색 중입니다. 그 실현 여부는 미지수입니다.",
@@ -131,6 +158,9 @@
     "year": 2021,
     "month": 5,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일 Renesas 나카 공장에서 발생한 화재가 다양한 MCU, 특히 그곳에서 생산하던 자동차 시리즈 R5/R7에 계속 영향을 미치고 있습니다. 공급이 매우 제한적이라, 이 시리즈의 오픈 마켓 가격이 급등했습니다. 그 결과, 이러한 제품의 가격은 표준 가격의 최대 10~15배까지 상승했습니다.",
@@ -146,6 +176,9 @@
     "year": 2021,
     "month": 5,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "Renesas는 자동차 이외 분야에 사용되는 MCU 중 일부를 사이조 공장과 다른 파운드리에 주조 공장에 이미 아웃소싱했습니다. Renesas는 3분기에 원래 생산 속도로 돌아갈 것으로 예상하지만, 시간이 더 걸릴 것으로 내다봅니다. Renesas의 UPD 시리즈에 대한 수요가 증가하여 부족이 증가하고 있음을 나타냅니다. 이로 인해 시장에서 부품을 구하기가 빠른 속도로 더 어려워지고 있습니다.",
@@ -161,6 +194,9 @@
     "year": 2021,
     "month": 7,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다.",
@@ -177,6 +213,9 @@
     "year": 2022,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "일본에 있는 Renesas 공장 두 곳이 1분기에 두 차례 지진의 영향을 받았습니다. 피해 평가를 위한 작업 중단으로 인한 생산 지연으로 생산량이 감소했습니다. 3월 16일 발생한 지진의 진원지 근처에 위치한 공장 세 곳은 나카 공장, 타카사키 공장, 요네자와 공장입니다.",
@@ -192,6 +231,9 @@
     "year": 2022,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "Renesas는 코로나19 봉쇄 및 지진의 여파로 인해 공장 가동이 차질을 빚고 있습니다. 이는 지연 및 가격 상승으로 이어져 리드 타임은 일 년을 초과하게 되었고 제조업체는 5월 모든 시리즈의 가격을 인상했습니다. 특히 R5F523/RF5100/R5F101 시리즈의 리드 타임은 50주 이상으로 늘어났고 Intersil 시리즈 CA3/DG4/ICL3/ISL12/ISL2는 78주로 연장되었습니다.",
@@ -209,6 +251,10 @@
     "year": 2022,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "Micron의 히로시마 DRAM 공장에서 정전으로 인해 생산이 일시적으로 중단되었습니다. 이곳에서는 주로 DDR4 관련 1베타 DRAM 칩을 생산하고, 하이엔드 스마트폰과 기타 고성능 휴대용 장치와 같은 최종 제품의 공급품을 생산합니다. 이와 유사하게 Renesas 또한 벼락으로 인해 구마모토시 공장 가동이 잠시 중단되었습니다. Renesas MCU의 대부분을 책임지고 있는 이 공장은 7월 11일 전체 생산 능력을 회복했고, 일주일에 해당하는 작업만 손실된 것으로 알려졌습니다.",
@@ -223,6 +269,9 @@
     "year": 2022,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "Toshiba의 광학 아이솔레이터(TLP 시리즈)와 IC 드라이버(TC 시리즈)가 심각한 공급 부족 상태를 겪고 있으며, 일부 유통업체에서는 평균 6~9개월의 리드 타임이 소요될 것으로 견적을 내고 있습니다. 가장 심각한 영향을 받은 시리즈는 2년 이상으로 지연되었습니다. 이와 유사하게 Linear Technology와 Renesas는 리드 타임이 연장되고 시장 가격이 인상될 것으로 예상하고 있습니다. Renesas의 R5 및 R7 시리즈의 경우 현재 최소 52주의 리드 타임이 소요됩니다.",
@@ -240,6 +289,9 @@
     "year": 2023,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "Renesas 및 NXP의 차량용 집적 회로에 대한 공급 부족이 계속되고 있습니다.",
@@ -255,6 +307,9 @@
     "year": 2023,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "리드 타임이 16~24주의 표준 기간으로 돌아감에 따라 일반 시리즈를 중심으로 Renesas 시리즈의 시장 상황이 안정화되고 있습니다. 그러나 자동차용 시리즈의 경우 수요로 인해 리드 타임이 더 길어지고 있습니다. 이미지 센서, MOSFET 및 트랜지스터의 공급 부족이 지속되고 있습니다.",
@@ -271,6 +326,9 @@
     "year": 2023,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "자동차 시장의 활동으로 인해 Renesas는 주요 시장 동인인 R5# 및 R7# MCU 시리즈에 대한 주문을 우선적으로 처리하고 있습니다. 또한 R5F, ISL 및 PS 시리즈와 함께 한동안 공급 부족을 경험하고 있었습니다. Renesas의 리드 타임은 다음과 같습니다.",
@@ -287,6 +345,9 @@
     "year": 2024,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "이러한 PMIC 공급 문제는 유사한 구성 요소를 제공하는 Intel 및 Renesas와 같은 다른 브랜드에 영향을 줄 수 있습니다. 현재 MPS의 PMIC는 총생산의 약 20%를 차지하며, 자동차 및 소비자용 애플리케이션이 각각 20%와 15%를 차지하고 있습니다. 나머지는 산업용 품목으로 구성되어 있습니다.",
@@ -301,6 +362,9 @@
     "year": 2025,
     "month": 3,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "Renesas는 진행 중인 생산 재고의 감소가 예상보다 더디게 진행되며, 자사 내 재고 수준이 증가하고 있다고 언급했습니다.",
@@ -314,6 +378,9 @@
     "year": 2025,
     "month": 3,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "Renesas는 산업 수요에 어려움이 있지만, 자동차용 마이크로컨트롤러 및 AI 데이터센터 관련 제품에서 회복 조짐을 보고 있다고 밝혔습니다.",
@@ -327,6 +394,9 @@
     "year": 2026,
     "month": 2,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
@@ -342,6 +412,9 @@
     "year": 2026,
     "month": 3,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "6. Renesas 전력 제품(예: ISL99360FRZ-T)의 리드타임은 Nvidia 보드 수요 증가로 1년까지 늘어났다. 2026년 7월 1일부터 5~50% 가격 인상이 예상된다.",
@@ -359,6 +432,9 @@
     "year": 2026,
     "month": 4,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 르네사스 공급 불안정, 시장 전반의 설계 변경 촉발: 르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
@@ -375,6 +451,9 @@
     "year": 2026,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "2. 르네사스는 심각한 공급 불안정에 직면해 있으며, 고객들은 출하 중단과 불명확한 납품 일정을 보고하고 있습니다. 타이밍 사업부 매각은 불확실성을 더욱 가중시키며, OEM 전반에서 광범위한 설계 제외(design-out) 움직임을 촉발하고 있습니다.",
@@ -390,6 +469,9 @@
     "year": 2026,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "7. Diodes Incorporated의 리드타임은 크게 늘어나, 경우에 따라 48주에서 최대 1년까지 소요되고 있습니다. 동사는 르네사스 설계 제외 흐름의 수혜를 입고 있으며, 대체 프로그램 전반에서 수요가 증가하고 있습니다.",
@@ -405,6 +487,9 @@
     "year": 2026,
     "month": 5,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "1. Renesas는 심각한 공급 불안정에 직면해 있으며, 전력 관련 품목(예: ISL99390FRZ)의 리드타임은 52주 이상으로 늘어나고 있다. 2026년 7월 1일부터 5~50%의 가격 인상이 예상된다. 타이밍 사업부 매각이 불확실성을 가중시키면서 OEM 전반에서 광범위한 설계 제외 움직임이 나타나고 있다.",
@@ -421,6 +506,9 @@
     "year": 2026,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "• Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예: ISL99390FRZ)의 리드타임은 52주 이상이다. 7월 1일부터 5~50%의 가격 인상이 적용되었다. 타이밍 사업 매각과 최근 시스템 업그레이드 차질은 신규 제품 도입(NPI) 프로그램 전반에서 설계 제외 활동을 계속 촉진하고 있다.",
@@ -437,6 +525,9 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
@@ -454,6 +545,9 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "5. Renesas는 구마모토 지진의 여파를 계속 겪고 있습니다. 포토커플러 생산은 여전히 중단된 상태이거나 서서히 회복되고 있으며, 자동차용 MCU(RL78·RH850)의 백로그도 크게 늘어나고 있습니다.",
@@ -469,6 +563,9 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",

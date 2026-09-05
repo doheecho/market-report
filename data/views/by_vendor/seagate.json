@@ -2,7 +2,11 @@
   {
     "year": 2020,
     "month": 4,
-    "category": "Storage",
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
     "section_raw": "저장 장치",
     "subheading": "",
     "text": "마닐라와 기타 16개 도시에 대한 필리핀 정부의 락다운 조치가 처음에는 4월 14일에 종료될 예정이었지만, 4월 30일로 연장되었고 상황에 따라 추가 연장될 수도 있습니다. 물류센터와 공장들이 큰 영향을 받았는데, Toshiba의 HDD 생산 시설도 예외는 아니었습니다. 공급 충격이 시장에 본격적인 영향을 주면서 앞으로 몇 주 내로 가격이 오를 것으로 추측됩니다. 전 세계 공급망의 많은 부분에서 똑같은 상황이 발생하고 있습니다. 다수의 제조업체와 유통업체가 물류 부담 능력이 감소하고 제한 사항이 늘어 운임이 늘고 있다고들 합니다. 예를 들어 Seagate는 특별히 더 높아진 물류비를 감당하기 위해 모든 메모리 용량에 대해 3월만 하더라도 2달러였던 HDD의 단위 운임이 3달러로 인상된 점을 반영해 가격을 높이고 있습니다. 대체로 HDD 가격이 10% 정도 상승할 수 있습니다.",
@@ -17,6 +21,9 @@
     "year": 2021,
     "month": 6,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "3 스토리지 (저장장치)",
     "subheading": "",
     "text": "암호화페, 특히 치아 코인(Chia Coin)이 채굴에 사용되는 저장 장치에 대한 전례없는 수요를 지속적으로 보입니다 이로 인해 주요 제조업체 (예 : Western Digital, Seagate, Toshiba)의 SSD 및 HDD 공급이 마비되었고 가격이 최소 200 % 상승했습니다 수요 증가를 예상하므로, HDD의 공식 리드 타임이 13~16주로 늘었습니다.",
@@ -34,6 +41,9 @@
     "year": 2022,
     "month": 2,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "저장 장치",
     "subheading": "",
     "text": "중국의 HDD 수요가 증가 추세에 있습니다. 1월 주요 HDD 브랜드인 Seagate, Western Digital, Hitachi에서 8TB SATA HDD가 시장의 인기 품목이었습니다. OEM은 8TB 용량 HDD 공급이 불안정해지고 있으며 Seagate 리드 타임은 16주에서 18주까지 늘어났다고 보고했습니다.",
@@ -50,6 +60,9 @@
     "year": 2022,
     "month": 3,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "저장 장치",
     "subheading": "",
     "text": "Seagate와 Western Digital의 하드 드라이브 생산이 모두 원자재 부족과 물류 비용 증가의 영향을 받습니다. WD는 2분기에 HDD 가격 5% 인상을 예상합니다. 한편, Seagate는 HDD 제품 가격을 이미 3~4% 인상했습니다.",
@@ -66,6 +79,9 @@
     "year": 2022,
     "month": 4,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "저장 장치",
     "subheading": "",
     "text": "러시아-우크라이나 전쟁 중 시행된 제재로 인한 원자재 공급 부족과 더 높아진 물류비가 하드 드라이브(HDD) 가격에 영향을 주고 있습니다. 2분기에 Seagate는 가격을 3~4% 인상했고, Western Digital은 2분기에 HDD 가격을 5% 인상했습니다. 가격이 인상되는 동안 수요는 둔화되었고, 이에 따라 유럽의 일부 공급업체에서 재고를 과잉 비축하게 되었습니다.",
@@ -83,6 +99,9 @@
     "year": 2023,
     "month": 5,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
@@ -99,6 +118,9 @@
     "year": 2023,
     "month": 6,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "240GB~480GB와 같은 저용량 SSD는 수요가 약세를 보이면서 가격이 바닥을 치고 있습니다. 어려운 시장 상황과 수익 마진 감소로 인해 제조업체들은 저용량 SSD 및 모든 HDD 라인의 생산량을 줄이기로 결정했습니다. Seagate는 이미 감산을 시작했으며 인력도 감축하고 있습니다.",
@@ -114,6 +136,9 @@
     "year": 2023,
     "month": 7,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "Seagate와 Western Digital은 원자재 및 생산 비용 증가에 따라 전체 시리즈 및 모델의 10~12% 가격 인상을 발표했습니다. 해당 가격 변동에 따라 16TB 이상 고용량 HDD 수요가 증가 추세에 있습니다.",
@@ -130,6 +155,9 @@
     "year": 2023,
     "month": 8,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "재고 압박을 전략적으로 완화하기 위해 Seagate, Western Digital, Toshiba은 모든 HDD 라인에서 생산량을 줄였습니다. 7월까지 이러한 전략은 제한된 가용성에서의 경쟁으로 수요가 늘어나면서 초과분 소진을 돕는 조짐이 보였습니다.",
@@ -145,6 +173,9 @@
     "year": 2023,
     "month": 8,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "수요가 공급을 앞지르면서 공급 및 수요 사이에 불균형이 존재하기 때문에 Seagate 고객의 주문 처리가 지연되었습니다. 수요 강세가 지속될 경우 특히 연초부터 HDD 가격이 꾸준히 하락한 이후 제조업체에서 가격을 인상할 가능성이 높습니다.",
@@ -158,6 +189,9 @@
     "year": 2024,
     "month": 2,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "유럽 시장 내 20TB HDD 가격이 20%까지 인상한 것으로 보고되었습니다. 가격을 조정한 기업 중 한 곳은 Seagate로, 1월 초 대용량 HDD의 가격을 5%~10% 인상하였습니다.  Western Digital은 자재 부족으로 어려움을 겪고 있는 기업 중 하나로 생산 능력에도 영향을 받았습니다.",
@@ -174,6 +208,9 @@
     "year": 2024,
     "month": 5,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "4월에는 공급업체들이 10TB 이상의 대용량 드라이브에 대한 주문을 늘리고, 증가분이 중국 시장에 집중되면서 HDD 수요가 늘어났습니다. 이러한 추세로 인해 고객들은 보다 유리한 비용으로 HDD 공급을 확보하기 위해 시장으로 내몰렸습니다. 지금은 이러한 시장 공급 과잉이 해소되면서 고객들은 유통 채널로 돌아와 향후 수요에 맞춰 재고를 조정하고 있습니다. 그 결과 Seagate와 Western Digital은 HDD 가격을 5~10% 인상했습니다.",
@@ -188,6 +225,9 @@
     "year": 2024,
     "month": 5,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "제조업체들이 기존 티어 1 고객의 주문을 우선적으로 처리하면서 12TB~18TB의 SAS HDD 공급이 여전히 부족한 상황입니다. 이러한 공급 부족 현상에 리드 타임 연장 및 비용 증가가 동반되면서, 최종 사용자가 어려움을 겪을 것으로 예상됩니다. Seagate와 같은 주요 제조업체 사이에서 생산 용량 제한으로 가중된 부담은 대용량 스토리지 솔루션의 공급 문제를 더욱 악화시키고 소용량 스토리지에도 간접적인 악영향을 미칠 것으로 예상됩니다.",
@@ -204,6 +244,9 @@
     "year": 2024,
     "month": 8,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "Seagate는 HDD 시장에서 공급이 제한될 조짐을 보인 제조사 중 하나로, 대용량 HDD에 납품 문제가 있는 것을 확인했습니다. 이번 분기부터 Seagate는 수요에 대한 더 큰 가시성을 제시하고 모든 제품군에 대해 52주의 약정 주문서를 제출할 것을 고객사에 요청했습니다.",
@@ -217,6 +260,9 @@
     "year": 2024,
     "month": 10,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "기업용 상품 업데이트",
     "subheading": "",
     "text": "데이터 센터, 클라우드 및 소비자 시장 수요: 웨스턴 디지털, 마이크론 테크놀로지, 씨게이트의 최신 실적 보고서에 따르면, 고성능 SSD 수요는 주로 데이터 센터 산업에서 주도되고 있습니다. 또한 클라우드 환경과 소비자 시장에서도 강한 성장세가 나타나고 있으며, 기업들은 데이터 처리량 증가에 대응하기 위해 컴퓨팅 인프라를 확장하고 스토리지 솔루션을 업그레이드하고 있습니다.",
@@ -232,6 +278,10 @@
     "year": 2024,
     "month": 10,
     "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
     "section_raw": "GPU",
     "subheading": "",
     "text": "HDD 시장은 리드 타임이 연장되면서 공급 제약을 겪고 있으며, 특히 대용량 모델에서 그 영향이 두드러지고 있습니다. Seagate의 새로운 주문 절차와 더불어 배송 지연은 향후 몇 달 동안 시장을 더욱 압박할 수 있습니다.",
@@ -248,6 +298,10 @@
     "year": 2024,
     "month": 10,
     "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
     "section_raw": "GPU",
     "subheading": "",
     "text": "클라우드 컴퓨팅과 AI 부문의 HDD 수요: Western Digital과 Seagate Technology의 최신 실적 보고서에 따르면 클라우드 컴퓨팅과 AI 부문에서 HDD 수요가 증가하고 있습니다. 대용량 클라우드 스토리지와 대량 용량 출하가 주요 동인으로, 하이퍼스케일 클라우드 및 엔터프라이즈 데이터 센터에서 기술적 전환이 진행 중입니다. 클라우드 제공업체들은 AI 애플리케이션을 지원하기 위해 확장 가능하고 에너지 효율적인 HDD에 투자하고 있습니다.",
@@ -262,6 +316,9 @@
     "year": 2024,
     "month": 10,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "GPU",
     "subheading": "",
     "text": "원자재 부족으로 인한 리드 타임 증가: Western Digital과 Seagate는 원자재 부족을 리드 타임 증가의 주요 원인으로 지목하고 있습니다. Western Digital의 리드 타임은 4주, Seagate는 6주 연장되었습니다.",
@@ -279,6 +336,10 @@
     "year": 2024,
     "month": 10,
     "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
     "section_raw": "GPU",
     "subheading": "",
     "text": "배송 지연: Seagate는 대용량 HDD에 대해 30~33주의 배송 지연을 경험하고 있으며, 이에 따라 새로운 주문 절차를 도입했습니다. 주요 제조업체인 Seagate, Western Digital, Toshiba는 리드 타임 개선이 거의 이루어지지 않고 있어 공급 제약이 계속되고 있습니다.",
@@ -297,6 +358,9 @@
     "year": 2025,
     "month": 2,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Seagate는 사용된 하드 드라이브를 신품으로 판매한 스캔들에 휘말렸으며, 주로 Exos 모델이 영향을 받고 있습니다.",
@@ -310,6 +374,9 @@
     "year": 2025,
     "month": 2,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "HDD 시장에서는 소형 용량 드라이브에 대한 수요가 증가하는 반면, 대용량 Seagate HDD는 여전히 충분한 재고를 유지하고 있습니다.",
@@ -323,6 +390,9 @@
     "year": 2025,
     "month": 8,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
     "text": "Seagate HDD, 특히 16TB는 공급이 부족합니다.",
@@ -338,6 +408,9 @@
     "year": 2025,
     "month": 8,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
     "text": "SEAGATE, WD, Toshiba의 1TB 및 8TB HDD도 제약을 받고 있습니다.",
@@ -355,6 +428,9 @@
     "year": 2025,
     "month": 9,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "HDD 시장 혼란: AI 및 클라우드용 대용량 드라이브 수요가 공급을 압도하면서 Seagate와 WD 같은 제조사들은 2년 단위의 수요 예측을 요구하고 있습니다. 동시에 저용량 드라이브는 단종(EOL) 통보와 함께 리드타임이 20주를 초과하여 전체 용량 스펙트럼에 걸쳐 공급 압박이 발생하고 있습니다.",
@@ -372,6 +448,9 @@
     "year": 2025,
     "month": 9,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD",
     "subheading": "",
     "text": "Seagate와 WD 모두 10% 가격 인상이 진행되고 있으며, 20TB 이상 드라이브의 리드타임은 이제 2026년까지 이어지고 있습니다.",
@@ -389,6 +468,9 @@
     "year": 2025,
     "month": 9,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD",
     "subheading": "",
     "text": "Seagate는 신규 1TB 주문 접수를 중단했습니다. 잔여 저용량 모델의 리드타임은 22주를 초과하고 있습니다. 16TB 이하 드라이브, 특히 1TB 및 2TB 모델은 EOL 통보와 심각한 배정 축소에 직면해 있습니다.",
@@ -406,6 +488,9 @@
     "year": 2025,
     "month": 10,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "DRAM메모리 생산 재개 및 용량 문제",
     "subheading": "",
     "text": "Seagate와 Western Digital은 2년 수요 예측을 요구하고 있다. 2020년 이상 드라이브의 리드타임은 현재 2026년까지 이어지고 있다.",
@@ -422,6 +507,9 @@
     "year": 2025,
     "month": 10,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "DRAM메모리 생산 재개 및 용량 문제",
     "subheading": "",
     "text": "16TB 미만 드라이브, 특히 1TB와 2TB 모델은 EOL 공지와 심각한 할당 축소에 직면해 있다. Seagate는 신규 1TB 주문 접수를 중단했다. 남아 있는 저용량 모델의 리드타임은 22주를 초과한다.",
@@ -439,6 +527,9 @@
     "year": 2025,
     "month": 10,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "DRAM메모리 생산 재개 및 용량 문제",
     "subheading": "",
     "text": "Seagate와 WD는 엔터프라이즈 및 고성능 데스크톱(레드/퍼플/골드) 라인 전반에 걸쳐 한 자릿수에서 두 자릿수에 이르는 가격 인상을 시행하거나 시사했다.",
@@ -454,6 +545,9 @@
     "year": 2025,
     "month": 11,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD",
     "subheading": "",
     "text": "Seagate는 특히 저용량 SKUs들에서 “거의 매일” 가격을 인상하고 있으며, 배정은 점점 더 작은 규모로만 풀리고 있다.",
@@ -469,6 +563,9 @@
     "year": 2025,
     "month": 12,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD",
     "subheading": "",
     "text": "씨게이트, WD, 도시바를 포함한 전 벤더에서 리드타임이 현재 52주를 초과하고 있으며, 특히 20TB 및 24TB 용량 모델의 수요가 가장 높습니다.",
@@ -486,6 +583,9 @@
     "year": 2026,
     "month": 1,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20-70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1-2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
@@ -506,6 +606,9 @@
     "year": 2026,
     "month": 1,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
     "text": "씨게이트는 저용량 SKU에 대해 “거의 매일” 가격을 올리고 있으며, 배정 물량을 점점 더 작은 단위로 풀고 있습니다. 1TB 드라이브는 사실상 EOL입니다.",
@@ -522,6 +625,9 @@
     "year": 2026,
     "month": 3,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
@@ -542,6 +648,10 @@
     "year": 2026,
     "month": 3,
     "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
     "section_raw": "RDIMM 긴급한 할당 속 장기 지원",
     "subheading": "",
     "text": "2. Seagate와 WD는 2026년 HDD 생산이 100% 매진되었으며 일부 계약은 2028~2030년까지 연장되고 있다. 백오더 가격은 인정되지 않는다.",
@@ -555,6 +665,9 @@
     "year": 2026,
     "month": 3,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "RDIMM 긴급한 할당 속 장기 지원",
     "subheading": "",
     "text": "3. Seagate는 1TB~5TB 2.5인치 Barracuda 제품을 EOL 예정이며, WD는 저용량 제품 견적을 거부하고 12TB 이상으로 전환을 유도하고 있다.",
@@ -569,7 +682,11 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "Storage",
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "4. 비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
@@ -590,6 +707,9 @@
     "year": 2026,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "• Seagate와 WD는 2026년 생산 능력이 100% 가동 중이며, 공급 계약은 이미 2028~2030년까지 체결된 상태라고 밝혔다. WD는 6월 10일 25% 가격 인상을 시행했으며, 7월 6일에는 40% 추가 인상이 확정되었다. 제조사들은 고객을 12TB 이상의 고마진 SKU로 전환시키기 위해 1TB~5TB 2.5인치 드라이브를 공격적으로 단종(EOL) 처리하고 있다.",
@@ -606,6 +726,9 @@
     "year": 2026,
     "month": 7,
     "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
@@ -625,6 +748,9 @@
     "year": 2026,
     "month": 7,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "subheading": "",
     "text": "Seagate와 WD의 2026년 생산 능력은 100% 소진된 상태다. 고용량 드라이브(20TB/24TB)는 가격이 1,150~1,200달러 이상으로 급등하고 있으며, 리드타임은 52주 이상으로 확대되고 있다. 저용량 드라이브(1TB~5TB)는 전환을 유도하기 위해 적극적인 단종(EOL)이 진행되고 있다.",
@@ -641,6 +767,10 @@
     "year": 2026,
     "month": 7,
     "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "subheading": "",
     "text": "Seagate는 16TB 제품에서 생산 초점을 전환하고, 중국과 미국 시장의 강한 고객 수요에 대응하기 위해 20TB 및 24TB HDD 생산을 우선하고 있다. 30TB HDD 생산은 여전히 특히 제한적인 수준에 머물러 있다.",
@@ -654,6 +784,10 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "2. Seagate, WD, Toshiba HDD는 16TB~24TB CMR 드라이브에서 심각한 공급 제약을 겪고 있습니다. 리드타임은 2027년 중반까지 늘어나고 있으며, 제조업체들은 가격을 10~20% 인상하는 동시에 저용량 모델(1TB~4TB)을 빠르게 단종하고 있습니다.",

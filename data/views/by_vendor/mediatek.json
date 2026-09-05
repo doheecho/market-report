@@ -3,6 +3,9 @@
     "year": 2021,
     "month": 2,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "상황이 너무 심각해서 미국 정부는 TSMC, MediaTek과 같은 대만 반도체 생산 업체들에게 큰 타격을 입은 미국 자동차 제조업체들의 칩 크런치를 해결하도록 압력을 가했습니다.",
@@ -17,6 +20,9 @@
     "year": 2021,
     "month": 6,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
@@ -33,6 +39,10 @@
     "year": 2024,
     "month": 10,
     "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "IC"
+    ],
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다. 퀄컴은 AI를 통합한 갤럭시 Z 폴드6과 같은 기기 덕분에 81억 달러의 칩셋 매출을 기록했습니다. 미디어텍은 신흥 시장에서의 4G SoC 수요와 5G AI 스마트폰 발전 덕분에 휴대전화 매출이 전년 대비 52% 증가했습니다.",

@@ -3,6 +3,9 @@
     "year": 2020,
     "month": 11,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
     "text": "일본에 있는 Asahi Kasei의 노베오카 공장에서 10월 20일에 화재가 발생했습니다. 수정 발진기용 원자재뿐 아니라 오디오 및 음성 시스템용 대규모 집적회로를 생산하던 공장입니다. 공급 제한에 관한 다양한 초기 보도가 들어오고 있지만, 수정 발진기 시장은 55G 기술 제품 생산의 증가로 이미 공급이 이미 빠듯해 지고 있습니다.",
@@ -16,6 +19,9 @@
     "year": 2020,
     "month": 11,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
     "text": "10월 27일 현재, 이 회사는 화재의 영향에 대한 최신 정보를 아직 발표하지 않았지만, 시장에서는 몇 달 정도 지나야 이번 화재의 영향을 완전히 체감할 수 있을 것입니다.",
@@ -29,6 +35,9 @@
     "year": 2020,
     "month": 12,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "AKM(Asahi Kasei Microdevices) 화재는 ADC 및 DAC 칩 공급에 부정적인 영향을 끼쳤습니다. AKM 은 하이엔드 오디오 장치에 사용하는 ADC 및 DAC 칩의 최대 공급업체입니다. AKM 이 해당 라인 생산을 아웃소싱할 계획이라 알려져 있지만 화재는 시장에 많은 공황을 불러일으켰고, 결국 화재 다음 날부터 시장 가격이 급격히 상승하게 되었습니다.",
@@ -42,6 +51,9 @@
     "year": 2021,
     "month": 2,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "그뿐 아니라, Renesas는 진도 7.3의 지진 발생 후 2월 13일에 이바라키 공장의 조업을 중단 했습니다. 전력 복구에도 불구하고, 이 회사는 건물 및 장비 검사를 위해 이틀간 생산을 중단하기로 했습니다.",
@@ -57,6 +69,9 @@
     "year": 2021,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일, Renesas는 화재로 인해 일본의 나카 공장을 폐쇄했습니다. 공장 1 층에 화재가 진압 되었음에도 불구하고 회사는 가동을 재개하는 데 최소 한 달이 필요할 것으로 믿고 있으며 분석가들은 생산이 손실되거나 손상된 재고를 보충하기까지 더 오래 걸릴 것이라고 예측합니다.",
@@ -72,6 +87,9 @@
     "year": 2021,
     "month": 5,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "2 ICs (집적회로)",
     "subheading": "",
     "text": "3월 19일 Renesas 나카 공장에서 발생한 화재가 다양한 MCU, 특히 그곳에서 생산하던 자동차 시리즈 R5/R7에 계속 영향을 미치고 있습니다. 공급이 매우 제한적이라, 이 시리즈의 오픈 마켓 가격이 급등했습니다. 그 결과, 이러한 제품의 가격은 표준 가격의 최대 10~15배까지 상승했습니다.",
@@ -87,6 +105,9 @@
     "year": 2022,
     "month": 4,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "매 분기, 글로벌 공급망이 연속적인 중단을 경험했습니다. 가장 최근 2022년 1분기에 일본에서 발생한 두 차례의 지진이 일본 내 여러 제조업체에 영향을 미쳤습니다. 아시아의 주요 허브들은 코로나19 발생에 따라 조업을 완전히 중단해야 했습니다. 러시아는 우크라이나를 침공하여 내전을 선동하고 해당 지역의 공급망 자원을 차단했습니다.",
@@ -100,6 +121,9 @@
     "year": 2022,
     "month": 4,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "일본에 있는 Renesas 공장 두 곳이 1분기에 두 차례 지진의 영향을 받았습니다. 피해 평가를 위한 작업 중단으로 인한 생산 지연으로 생산량이 감소했습니다. 3월 16일 발생한 지진의 진원지 근처에 위치한 공장 세 곳은 나카 공장, 타카사키 공장, 요네자와 공장입니다.",
@@ -115,6 +139,9 @@
     "year": 2022,
     "month": 6,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "Renesas는 코로나19 봉쇄 및 지진의 여파로 인해 공장 가동이 차질을 빚고 있습니다. 이는 지연 및 가격 상승으로 이어져 리드 타임은 일 년을 초과하게 되었고 제조업체는 5월 모든 시리즈의 가격을 인상했습니다. 특히 R5F523/RF5100/R5F101 시리즈의 리드 타임은 50주 이상으로 늘어났고 Intersil 시리즈 CA3/DG4/ICL3/ISL12/ISL2는 78주로 연장되었습니다.",
@@ -132,6 +159,9 @@
     "year": 2023,
     "month": 2,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
@@ -147,6 +177,9 @@
     "year": 2023,
     "month": 3,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
@@ -162,6 +195,9 @@
     "year": 2023,
     "month": 3,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
@@ -177,6 +213,9 @@
     "year": 2023,
     "month": 7,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "이제 모든 브랜드에서 절연 DC-DC 컨버터가 부족하며, 가장 주목할 만한 브랜드는 Cosel입니다. Cosel은 현재 1년 넘게 부족 현상으로 공급에 영향이 있었고, 생산이 수요를 따라가지 못해 주문 적체가 이어지고 있습니다. 품질 우려로 인해 계속 브랜드 충성도를 보이는 고객도 일부 있지만, 비용 절감 및 가용성의 측면에서 더 나은 선택지를 찾는 고객도 있습니다. 특히 중국 시장은 현지 브랜드인 Mornsun과 Meanwell에 집중했습니다.",
@@ -191,6 +230,9 @@
     "year": 2023,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "STM 모로코 공장의 리드 프레임 패키징 품질 문제로 인해 VN 시리즈의 채널 드라이버가 지연되었습니다. STM이 현 상황에서 주문 할당 방법을 평가하면서 리드 타임이 계속해서 늘어나고 있고 특정 MPN의 경우 리드 타임이 100주가 넘었습니다.",
@@ -208,6 +250,9 @@
     "year": 2023,
     "month": 8,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "DDR4 RDIMM의 오픈 마켓 가격은 특히 64GB의 경우 여전히 경쟁력이 있지만 DDR5 128GB 및 256GB 공급은 여전히 제한적입니다. DDR5 128GB는 5월부터 인기를 끌었으며 이러한 모듈에 대한 수요가 가용성을 훨씬 초과합니다. 삼성에서 1년 내내 생산량을 지속적으로 줄이다가 품질 문제를 겪은 이후 6월부터 DDR5 256Gb에 대한 제약 조건이 시작됐습니다. 또한 DDR5 제약 조건은 글로벌 전망 부족과 AI 산업의 예상치 못한 강세로 인해 악화되었습니다.",
@@ -224,6 +269,9 @@
     "year": 2024,
     "month": 2,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "일본 지진의 영향으로 IC 시장의 수요가 변동하고 있습니다.",
@@ -237,6 +285,9 @@
     "year": 2024,
     "month": 2,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "가격 변동이 수요에 계속해서 영향을 미침에 따라 시황 자료에서 올해는 본 보고서에서 다루는 시장 전반에 걸쳐 활동 증가가 예측된다는 신호가 나타납니다. 1월 일본 지진과 같은 예측 불가의 사건이 발생하면서, 공급망 전략의 도구로서 신뢰할 만한 시황 자료의 가치가 더욱 높아지고 있습니다.",
@@ -250,6 +301,9 @@
     "year": 2024,
     "month": 2,
     "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
     "section_raw": "CPU",
     "subheading": "",
     "text": "일본 지진으로 경쟁사 수요 발생",
@@ -263,6 +317,9 @@
     "year": 2024,
     "month": 2,
     "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
     "section_raw": "CPU",
     "subheading": "",
     "text": "일본 이시카와현 지진의 영향으로 인해 고객들은 대체재를 확보하기 위해 경쟁 브랜드로 돌아서고 있습니다. 지진의 영향을 받은 생산 현장의 생산이 재개될 때까지 경쟁사의 리드 타임이 증가하고 및 가격이 상승할 가능성이 큽니다.",
@@ -277,6 +334,9 @@
     "year": 2024,
     "month": 2,
     "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
     "section_raw": "CPU",
     "subheading": "",
     "text": "지진에 의해 가장 큰 피해를 본 Murata에서 가까운 시일 내 신규 주문을 지원할 수 없음을 예상하면서 고객들의 경쟁사 주문을 장려하기 시작했습니다. Murata의 경쟁사 중 한 곳인 TDK에서는 생산 중단으로 인한 주문 증가가 나타나고 있습니다. TDK의 VLS 시리즈는 Murata LQ 시리즈를 성공적으로 대체했습니다. 그 결과 VL 시리즈의 리드 타임은 계속 연장되어 현재 14주를 초과합니다.",
@@ -293,6 +353,9 @@
     "year": 2024,
     "month": 5,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "대만에서 발생한 지진으로 인해 메모리 시장의 생산이 일시적으로 중단되었습니다. 그러나 이후 비즈니스가 재개되어 2분기 가격 책정이 가능해졌습니다.",
@@ -306,6 +369,9 @@
     "year": 2024,
     "month": 5,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "메모리",
     "subheading": "",
     "text": "새로운 분기의 시작으로 인해 이미 가격 변동이 발생한 상황에서 지진은 메모리 상품 공급망에 집중적으로 영향을 미쳤습니다. DDR4 비용은 20%, 고용량 DDR5 비용은 최대 17%까지 상승할 것으로 예상됩니다. 시장 가격이 거의 매일 변동하고 있어 부품을 저렴하게 조달하기가 어려워지고 있습니다. 수요는 주로 DDR5 32GB 및 64GB 용량에 집중되어 있으며, DDR4의 시장 활동은 소폭 감소했습니다.",
@@ -318,7 +384,11 @@
   {
     "year": 2024,
     "month": 5,
-    "category": "Memory",
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
     "section_raw": "메모리",
     "subheading": "",
     "text": "Micron은 대만에서 발생한 지진의 영향을 가장 크게 받은 제조업체 중 하나로, 가격 책정이 장기간 보류되었습니다. 지금은 가격 책정이 재개되었으며, LPDDR4 및 DDR4 가격은 최대 20%까지 상승했습니다. LPPDR5 및 DDR5 가격은 약 25% 상승했습니다.",
@@ -334,6 +404,9 @@
     "year": 2024,
     "month": 5,
     "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
     "section_raw": "메모리",
     "subheading": "",
     "text": "지진으로 인해 생산에 차질이 생기기 전에는 메모리 부품에 대한 수요가 안정적이었기 때문에 고객들은 비용이 증가할 것으로 예상했습니다. 리드 타임에는 큰 변동이 없었으며 수요가 일정한 품목의 경우 여전히 6~8주에 머물고 있습니다. 리드 타임은 긍정적인 측면에서 증가하고 있으며, 이러한 경우 리드 타임이 12주(약 3개월) 이상 길어지고 있다는 보고가 있습니다.",
@@ -347,7 +420,11 @@
   {
     "year": 2024,
     "month": 5,
-    "category": "Storage",
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
@@ -362,6 +439,9 @@
     "year": 2024,
     "month": 5,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "완제품",
     "subheading": "",
     "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
@@ -375,6 +455,9 @@
     "year": 2024,
     "month": 5,
     "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
     "section_raw": "CPU",
     "subheading": "",
     "text": "반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다.",
@@ -388,6 +471,9 @@
     "year": 2024,
     "month": 10,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "GPU",
     "subheading": "",
     "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다.",
@@ -404,6 +490,9 @@
     "year": 2024,
     "month": 10,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "IC",
     "subheading": "",
     "text": "원자재 영향: 구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
@@ -419,6 +508,9 @@
     "year": 2025,
     "month": 2,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "GPU",
     "subheading": "",
     "text": "NVIDIA의 RTX 5090 GPUs는 결함 논란으로 인해 40xx 시리즈와 같은 이전 구형GPU에 대한 문의가 증가하고 있습니다.",
@@ -434,6 +526,9 @@
     "year": 2025,
     "month": 2,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "NVIDIA의 GeForce RTX 5000 시리즈GPUs는 하드웨어 및 소프트웨어 결함 문제가 발생하면서 소비자들의 불만이 커지고 있습니다.",
@@ -449,6 +544,9 @@
     "year": 2025,
     "month": 3,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "GPU 가격 변동성과 시장 수요",
     "subheading": "",
     "text": "NVIDIA의 최신 소비자용 Blackwell GPUs는 결함 관련 논란이 있으며, 이에 따라 기존 40xx 시리즈에 대한 문의가 증가하고 있습니다.",
@@ -464,6 +562,9 @@
     "year": 2025,
     "month": 3,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "",
     "text": "3월 9일 Panasonic Industry의 치토세 공장에서 발생한 화재로 인해 칩 바리스터, NTC 서미스터, 칩 인덕터 등에 영향이 생겼습니다.",
@@ -479,6 +580,9 @@
     "year": 2025,
     "month": 4,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "2025년 3월 28일 미얀마와 태국을 강타한 지진 이후, 태국 제조업 부문은 거의 영향을 받지 않았습니다. 태국산업연맹은 모든 산업 부문의 제조 운영이 대부분 영향을 받지 않았으며, 주요 생산 인프라는 완전 가동 중이라고 보고했습니다.",
@@ -491,7 +595,11 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Passive",
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
     "section_raw": "수동 부품",
     "subheading": "",
     "text": "Panasonic의 치토세 공장은 3월 화재 이후 부분적으로 가동 중단된 상태이며, NTC 서미스터 및 칩 인덕터 생산에 영향을 미치고 있습니다. 생산 정상화는 3분기에나 가능할 것으로 보입니다.",
@@ -507,6 +615,9 @@
     "year": 2025,
     "month": 7,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로 시장 역학 및 공급 변화",
     "subheading": "",
     "text": "중국 웨이하이에 위치한 조립 공장 ATX에서 화재 사고가 발생했습니다. 이 공장은 도시바 및 텍사스 인스트루먼트를 포함한 여러 주요 IC 제조업체를 지원합니다. 도시바 제품, 특히 MOSFETs에 대해 공개 시장에서 약간의 가격 변동이 관찰되고 있습니다.",
@@ -523,6 +634,9 @@
     "year": 2025,
     "month": 7,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "FGs 젯슨 시리즈 수요 증가",
     "subheading": "",
     "text": "여러 고객이 NVIDIA 젯슨 오린 NX 8GB/16GB에 대해 전압 관련 문제로 품질 문제를 보고했습니다.",
@@ -538,6 +652,9 @@
     "year": 2025,
     "month": 7,
     "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "GPU 전략적 할당 및 시장 변동성",
     "subheading": "",
     "text": "EOL A100 80GB를 둘러싼 품질 우려와 거래 활동 증가가 지속되고 있습니다.",
@@ -552,6 +669,9 @@
     "year": 2026,
     "month": 1,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
@@ -570,6 +690,9 @@
     "year": 2026,
     "month": 6,
     "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "4. Advantech는 Computex 2026에서 엣지 인공지능과 피지컬 AI에 대한 미래 전략과 비전을 공개했으며, 산업용 AI 소프트웨어 플랫폼 WEDA를 통해 AI 에이전트, 디지털 트윈 및 엣지 컴퓨팅을 연결함으로써 산업 현장에서의 AI 도입을 확대하겠다는 계획을 제시했다.",
@@ -583,6 +706,9 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
@@ -600,6 +726,9 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "5. Renesas는 구마모토 지진의 여파를 계속 겪고 있습니다. 포토커플러 생산은 여전히 중단된 상태이거나 서서히 회복되고 있으며, 자동차용 MCU(RL78·RH850)의 백로그도 크게 늘어나고 있습니다.",
@@ -615,6 +744,9 @@
     "year": 2026,
     "month": 8,
     "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
