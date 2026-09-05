@@ -4,10 +4,11 @@
     "month": 1,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "심화되는 FPGA 시장 경쟁",
     "text": "Lattice Semiconductor가 미드레인지(mid-range) FPGA 시장 진출을 선언함에 따라 회사의 시장 점유율이 두 배로 늘어날 전망입니다. 이것은 고객사의 니즈 및 향후 수요의 향방을 심도 있게 고려하여 내린 결정입니다. 연구 결과 미드레인지 부문의 혁신이 특히 수요가 많은 것으로 밝혀졌습니다.",
     "detected_vendors": [
       "Lattice"
@@ -20,10 +21,11 @@
     "month": 1,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "심화되는 FPGA 시장 경쟁",
     "text": "Lattice는 또한 컴퓨팅, 자동차, 산업 시장에서 경쟁하기 위해 이미 뚜렷한 입지를 다지고 있는 소형 FPGA까지 기술을 적용할 것으로 예상됩니다.",
     "detected_vendors": [
       "Lattice"
@@ -36,10 +38,11 @@
     "month": 1,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
     "text": "Lattice 역시 2024년에 시행할 예정인 시장 장수 제품의 7.5% 가격 인상에 관해 최종 고객을 대상으로 천천히 안내하고 있습니다. 이러한 발표에는 최소 10년 이상 출하된 모든 제품이 해당됩니다. Silicon Image 라인의 일부인 SIxxx 시리즈 및 Lattice 4000 시리즈이 여기에 포함됩니다.",
     "detected_vendors": [
       "Lattice"
@@ -54,10 +57,11 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC)",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "제한된 시장 속에서 길을 찾다",
     "text": "Lattice는 2025년 1월부로 제품 포트폴리오 전반에 걸쳐 가격을 인상했습니다.",
     "detected_vendors": [
       "Lattice"
@@ -70,10 +74,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재고 정상화가 진행 중인 기업들",
     "text": "Lattice는 유통 채널의 재고 상황이 꾸준히 개선되고 있으며, 2025년 중반까지 중간 수준의 재고 상태로 회복될 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Lattice"
@@ -84,12 +89,12 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약 및 시장 변화",
     "text": "래티스는 8월 말 기준 리드타임 지침을 업데이트하며 수요와 공급업체 지연을 이유로 들었습니다. 고객에게는 주문 계획을 지원하기 위해 9~12개월 수요 예측 제공을 권장하고 있습니다.",
     "detected_vendors": [
       "Lattice"
@@ -105,10 +110,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의‑ T-글래스 기판‑ 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -128,10 +134,11 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "Xilinx Spartan-7 및 Lattice 디바이스의 리드타임은 AI 서버 수요가 패키징 및 유리 섬유 원자재를 잠식함에 따라 기존 8주에서 32~52주로 급증했습니다.",
     "detected_vendors": [
       "Amd",
@@ -148,10 +155,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Passive"
+      "Other"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동부품 및 원자재: T-글래스 병목",
     "text": "T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 주문 디커밋과 파운드리 전환이 발생하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -172,10 +179,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Passive"
+      "Other"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동부품 및 원자재: T-글래스 병목",
     "text": "Lattice는 리드타임이 매우 제한적인 상황이며, 44주 미만 납기를 요청하는 주문에는 급행 수수료가 부과됩니다.",
     "detected_vendors": [
       "Lattice"
@@ -190,10 +197,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "3. 반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
     "detected_vendors": [
       "Analog Devices",
@@ -215,10 +223,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "5. Lattice Semiconductor 리드타임은 8주에서 44~55주로 급증했으며, AI 서버 수요와 유리 섬유 원자재 부족이 원인이다. 44주 미만 요청 주문에는 긴급 처리 비용이 부과된다.",
     "detected_vendors": [
       "Lattice"
@@ -235,10 +244,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Passive"
+      "Other"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동부품 및 원자재: T-글래스 병목",
     "text": "2. T-글래스 기판 부족은 ADI, Intel, Lattice, Sony의 주요 병목이며, 유리 섬유 원단 리드타임은 4주에서 20주로 증가했다. 이는 디커밋과 파운드리 전환을 유발하고 있다.",
     "detected_vendors": [
       "Analog Devices",
@@ -259,11 +268,12 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "PCB",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -284,10 +294,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Passive"
+      "Other"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동부품 및 원자재: T-글래스 병목",
     "text": "4. T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -307,10 +317,11 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "6. Lattice는 리드타임이 매우 제한적인 상황이며, 44주 미만 납기를 요청하는 주문에는 급행 수수료가 부과됩니다. XC7A50T-2CSG324C 및 MachXO 시리즈에 대한 디커밋 보고서.",
     "detected_vendors": [
       "Lattice"
@@ -326,10 +337,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "• Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
     "detected_vendors": [
       "Amd",
@@ -347,10 +359,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수동소자 및 원자재: 가격 인상 및 병목",
     "text": "• T-글래스 기판은 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 여전히 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -369,10 +382,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수동소자 및 원자재: 가격 인상 및 병목",
     "text": "• Lattice의 리드타임은 현재 42~56주로 매우 제한적인 상황입니다. 44주 미만의 납기를 요청하는 모든 주문에는 급행 수수료가 부과됩니다. XC7A50T 및 MachXO 시리즈에 대한 공급 확약 철회 보고서가 계속되고 있습니다.",
     "detected_vendors": [
       "Lattice"
@@ -389,10 +403,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Passive"
+      "Other"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동부품 및 원자재: T-글래스 병목",
     "text": "중국의 일시적인 헬륨 수출 금지와 지속되는 중동 긴장이 맞물리면서 글로벌 반도체 공급망에 새로운 위험 요인이 발생하고 있다. 헬륨은 웨이퍼 제조, 테스트 및 패키징 공정에 필수적인 소재이기 때문이다. T-글래스 기판 공급 부족은 여전히 ADI, Intel 및 Lattice 생산의 주요 병목 요인으로 작용하고 있다.",
     "detected_vendors": [
       "Analog Devices",

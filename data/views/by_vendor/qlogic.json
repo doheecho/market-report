@@ -5,10 +5,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Storage"
     ],
-    "section_raw": "네트워킹 제품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "네트워크 인터페이스 카드 (NIC)",
     "text": "QLogic 파이버 채널 어댑터 지원 문제: QLogic의 파이버 채널 어댑터 카드 지원이 미흡해 데이터 센터, IT 인프라, 엔터프라이즈 고객들이 어려움을 겪고 있습니다. 이러한 제품은 스토리지 배열과 서버를 연결하는 데 필수적이기 때문에 신속한 지원이 필요하지만, 현재 지원 부족이 고객들에게 큰 불만을 초래하고 있습니다.",
     "detected_vendors": [
       "QLogic"

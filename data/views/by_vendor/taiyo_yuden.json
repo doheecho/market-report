@@ -2,13 +2,13 @@
   {
     "year": 2020,
     "month": 5,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2020년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수동소자 공급 부족량 증가",
     "text": "2019년 말 이후로 또 다른 MLCC 공급 부족이 발생할 것 같다는 추측이 제기되었습니다. 그런데 그 추측이 현실이 되고 있습니다. 2018년의 MLCC 공급 부족 사태 이후로, Murata는 자사의 유통 및 생산량 할당 전략을 다시 들여다봤습니다. 이로 인해 생산량이 과다하게 할당된 자동차 부문을 위한 GCM 시리즈에서 일부 공급 중단으로 이어졌고, 더 큰 케이스 크기 0402, 0603, 0805, 1206에 대한 공급 문제가 확인되고 있습니다. MLCC 이외에, Murata의 LQH/LQW 인덕터와 LFB-/DLP/DLM 시리즈 RF/EMI 필터 역시 말레이시아 및 필리핀 공장 셧다운의 영향을 받고 있습니다. 이런 공장 셧다운으로 인해 인덕터/필터의 리드 타임이 24~26주로 늘었습니다. 고객과 유통업체들은 주문 확인에도 1~2주일 정도 지연되고 있다고 알려오고 있습니다. 코로나19는 대부분의 제조업체에 큰 피해를 입혔지만, 말레이시아 및 필리핀 공장이 여전히 풀 가동 상태로 돌아오지 못한 삼성이 특히 심한 타격을 받았습니다. 제조 현황 페이지에서 언급한 바와 같이, 말레이시아와 필리핀의 락다운으로 인해 삼성은 생산 능력 문제에 봉착했습니다. 필리핀 공장에서는 정부 규제에 따라 조업 활동에 참여할 수 있는 인력이 평소의 절반 미만입니다. 이 공장은 생산 능력의 20~30% 수준으로 가동되고 있었고 5월 중순 이후에 70~80% 수준으로 상승할 것으로 예상됩니다. 삼성은 이런 상황에 대응해 특정 생산 라인(특히 자동차용 MLCC)을 중국 선전으로 옮기고 있지만, 이런 조치만으로는 전 세계 수요를 충족시키기에 부족했습니다. 이는 선전 공장 역시 현지의 코로나19 관련 규제를 준수해야 하는 상황 때문일 가능성이 있습니다. 2020년 2분기가 시작된 이후로 Taiyo Yuden 인덕터와 MLCC의 공급 부족과 리드 타임 연장이 발생하고 있는 것으로 보고되었습니다. 인도 및 생산 할당에 관한 보고에 따르면, 5월의 선적량이 4월에 비해 50% 감소한 것으로 나타났습니다. 6월 할당량은 5월보다도 낮아질 것으로 예측됩니다. 필리핀 공장에서 생산이 전면 재개되는 6월 말 이후로는 회복될 것으로 예상됩니다. Yageo MLCC에 대한 수요는 2019년에 비해 약 10% 떨어졌지만, 고객과 유통업체들은 여전히 가격이 인상되었다고 합니다. Yageo는 40일 이상 재고가 부족했다고 보고했는데, 가격 인상을 뒷받침하려고 생산량을 줄였다는 소문이 있습니다.",
     "detected_vendors": [
       "Murata",
@@ -27,12 +27,12 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
     "text": "Taiyo Yuden 역시 모바일 운영의 증가로 인해 작은 케이스 크기의 수요가 급증세에 있고, 유통업체들은 빠른 재고 회전율 있다는 정보를 공유해주었습니다.",
     "detected_vendors": [
       "Taiyo Yuden"
@@ -43,13 +43,13 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "2 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "다양한 제조업체에 영향을 미치는 말레이시아의 봉쇄 조치",
     "text": "*   **Taiyo Yuden**: 말레이시아에 있는 Taiyo Yuden의 생산 공장은 근로자들이 코로나 양성 판정을 받은 후 6월 1일부터 14일까지 폐쇄되었다고 합니다. 조업이 재개되었지만, 아웃바운드 선적이 2주 지연되었습니다. 말레이시아 공장은 주로 상업용 MLCC를 생산하고 리드 타임은 현재 16주입니다. 상업 및 자동차 등급 부품이 모두 빠듯한 할당에 직면하고 있습니다.",
     "detected_vendors": [
       "Taiyo Yuden"
@@ -65,10 +65,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "타격을 입는 MLCC 생산",
     "text": "Taiyo Yuden, 크리스털 공급업체인 NDK와 Epson, Panasonic, Walsin Technology를 비롯해, 말레이시아 생산 공장을 운영 중인 제조업체들이 정상 조업에 타격을 받으면서 리드 타임이 길어졌습니다.",
     "detected_vendors": [
       "Panasonic",
@@ -82,13 +83,13 @@
   {
     "year": 2021,
     "month": 8,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "타격을 입는 MLCC 생산",
     "text": "말레이시아의 생산 차질을 막으려는 시도로, Murata와 Taiyo Yuden처럼 일본에 본사를 둔 MLCC 생산 공장에서는 생산량을 늘리기 위해 애쓰고 있습니다. 수급 불균형에 빠지지 않고 4분기에는 증가하는 주문량을 소화하기를 희망하며 이루어지는 노력입니다.",
     "detected_vendors": [
       "Murata",
@@ -100,12 +101,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Passive",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Passive"
     ],
-    "section_raw": "수동 부품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "MLCC",
     "text": "AI의 자동차용 MLCC 활용: AI 응용 제품에서 자동차 등급의 MLCC 사용이 증가하고 있으며, 주요 OEM 업체들은 Murata, Taiyo, Samsung, Yageo와 같은 주요 MLCC 제조업체와의 거래가 활발하다고 보고하고 있습니다.",
     "detected_vendors": [
       "Murata",
@@ -119,12 +121,13 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "Passive",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Passive"
     ],
-    "section_raw": "수동 부품 리드 타임 연장 및 할당",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동 부품: 리드 타임 연장 및 할당",
     "text": "Samsung, Murata, Taiyo Yuden MLCC는 3분기에 공급 문제에 직면할 수 있습니다.",
     "detected_vendors": [
       "Murata",
@@ -137,13 +140,14 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "PCB",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "PCB",
       "Passive"
     ],
-    "section_raw": "수동 부품 리드 타임 연장 및 할당",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동 부품: 리드 타임 연장 및 할당",
     "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24-28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
     "detected_vendors": [
       "Murata",
@@ -159,12 +163,13 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Passive",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "2. MLCC 및 수동소자 위기, 심각 단계로 격화: Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
     "detected_vendors": [
       "Murata",
@@ -181,12 +186,12 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수동소자 및 원자재: 가격 인상 및 병목",
     "text": "• Murata, Samsung, Taiyo Yuden은 심각한 할당 제약 상태에서 운영되고 있다. 고용량·고온 제품군(일본 전용 생산 라인)의 리드타임은 36~60주에 달한다. AI 서버 및 자동차 수요가 특수 생산 능력의 80% 이상을 소진하고 있다. 유통업체들은 브로커 거래 제한 및 단계별 가격 정책을 시행하고 있다.",
     "detected_vendors": [
       "Murata",
@@ -206,10 +211,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
     "detected_vendors": [
       "Murata",
@@ -229,12 +235,12 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Passive",
+    "category": "Other",
     "detected_categories": [
-      "Passive"
+      "Other"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "📦 수동부품 및 원자재: T-글래스 병목",
     "text": "Murata와 Taiyo Yuden의 리드타임은 20~52주까지 확대됐다. Murata는 엄격한 물량 할당 정책을 시행하고 있으며(3개월 평균 주문량 기준으로 제한), 모든 ‘지원 주문(help orders)’을 거부하고 있다. 고용량 사양(예: 0805 10u/22u, 0603 22u/47u)이 가장 심각한 공급 부족을 겪고 있다.",
     "detected_vendors": [
       "Murata",
@@ -253,10 +259,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수동소자 및 원자재: MLCC·수지 위기",
     "text": "2. MLCC는 공식적으로 공급 부족 국면에 진입했습니다. Murata, Samsung Electro-Mechanics, Taiyo Yuden, Yageo는 가격을 15~30% 인상하고 있습니다. AI 서버용 고용량 MLCC(예: 100uF)와 자동차용 등급 제품의 리드타임은 20주에서 50주 이상이며, 유통업체들은 브로커 대상 판매를 제한하고 있습니다.",
     "detected_vendors": [
       "Murata",

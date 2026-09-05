@@ -2,12 +2,12 @@
   {
     "year": 2020,
     "month": 12,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "2 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "2020년 하반기 공급 부족 사태를 경험한 Realtek",
     "text": "2020년 하반기 Realtek 구성품 수요가 증가하여 일부 공급 부족 사태가 초래되었습니다. 이러한 수요의 증가는 연말까지 지속될 것으로 예상됩니다.",
     "detected_vendors": [
       "Realtek"
@@ -20,12 +20,12 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "2 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel, 늘어나는 이더넷 컨트롤러 수요에 직면",
     "text": "12월에 언급했듯이, 생산 능력과 계획상의 문제로 인해 오픈 시장에서 Intel의 이더넷 컨트롤러 공급이 제한적입니다. 이 공급 부족 사태는 고객들이 당시에 부족했던 Realtek의 이더넷 컨트롤러에서 Intel의 이더넷 컨트롤러로 방향을 트는 바람에 수요가 증가하면서 시작되었습니다.",
     "detected_vendors": [
       "Intel",
@@ -39,12 +39,12 @@
   {
     "year": 2021,
     "month": 4,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel 이더넷 컨트롤러와 칩 공급의 악화",
     "text": "Realtek의 고객은 다양한 원자재 제약으로 인해 칩 및 이더넷 컨트롤러를 위해 인텔을 선택하고 있습니다. 그러나 이는 인텔이 현재 직면하고있는 공급 제약으로 인해 빠른 수정일뿐입니다. 이런 공급 문제는 2021년 2분기까지 계속될 것으로 예상됩니다.",
     "detected_vendors": [
       "Intel",
@@ -58,12 +58,12 @@
   {
     "year": 2021,
     "month": 9,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "계속 제한을 받는 Realtek 공급",
     "text": "지속적인 원자재 공급 부족 외에도, 노트북, 자동차 및 크롬북에 대한 수요 증가로 인해 Realtek의 리드 타임이 32주 이상으로 늘었습니다. Realtek은 전 세계 노트북 시장에서 사용되는 오디오와 LAN 칩의 70%를 공급한다고 합니다. 광범위한 공급 부족으로 인해 대체 소스를 사용할 수 없습니다.",
     "detected_vendors": [
       "Realtek"
@@ -77,12 +77,12 @@
   {
     "year": 2021,
     "month": 9,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "계속 제한을 받는 Realtek 공급",
     "text": "Realtek의 IoT 및 Bluetooth 시리즈의 공급은 주문 이행을 위해 약간 개선되었지만, 유선 네트워킹 및 무선 통신 칩의 수요는 충족되지 않고 있습니다. 이 상황은 2022년 9월까지 계속될 것으로 예상됩니다.",
     "detected_vendors": [
       "Realtek"
@@ -93,12 +93,12 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "6 완제품 (Finished Goods)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "인텔 이더넷 컨트롤러에 대한 수요 증가 지속",
     "text": "고객이 Realtek, Mellanox Technologies, Broadcom Inc. 같은 다른 제조업체로부터 전환하면서 Intel 이더넷 컨트롤러에 대한 수요가 계속 증가하고 있습니다. 그러나 Intel이 이러한 증가세를 충족하려고 함에 따라 수요가 공급을 앞지르고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -112,12 +112,12 @@
   {
     "year": 2023,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Realtek을 놀라게 한 블루투스 부품의 수요 변동",
     "text": "OTT 및 컨트롤러 응용 분야를 위한 특정 Realtek 부품에 대한 주문이 증가하고 있으며, 특히 한국과 일본에서 소비가 두드러집니다. 작년부터 많은 현지 공급업체는 보유 재고분을 저비용에 매각할 수 있었고, 가격은 이후 정상 수준으로 돌아왔습니다.",
     "detected_vendors": [
       "Realtek"
@@ -128,12 +128,12 @@
   {
     "year": 2023,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Realtek을 놀라게 한 블루투스 부품의 수요 변동",
     "text": "수요는 다양했지만 대부분 Realtek 8761BTV, 8762CKF, 8762CMF, 8762DK 시리즈에 집중되었습니다. 주문량 증가 폭은 Realtek에서 예측한 수요의 거의 두 배에 달해 리드 타임이 더 늘어날 수 있습니다. 이전에 Realtek의 리드 타임은 7~12주였습니다.",
     "detected_vendors": [
       "Realtek"
@@ -146,12 +146,12 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약 및 시장 변화",
     "text": "Marvell(98DX, 88E6320 시리즈)과 Realtek 모두 리드타임이 32~52주에 이르고 있다. 생산 능력은 고급 AI 관련 칩으로 우선 배정되고 있어 중·저가 제품군의 할당이 크게 축소되고 있다.",
     "detected_vendors": [
       "Realtek"
@@ -168,10 +168,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로 공급 제약 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로: 공급 제약 및 시장 변화",
     "text": "마벨과 리얼텍은 TSMC가 웨이퍼 캐파를 AI 메모리로 전환하면서 리드타임을 32~52주로 연장했습니다. 중- 저- 가 이더넷 스위치 IC(예: 88E6320)가 특히 큰 영향을 받고 있습니다.",
     "detected_vendors": [
       "Realtek",

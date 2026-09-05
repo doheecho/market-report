@@ -4,10 +4,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2020년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "크롬북에 대한 수요가 증가함에 따라 모바일 CPU 시장에서 모멘텀을 얻고 있는 AMD",
     "text": "AMD는 부분적으로는 Intel Gemini Lake 및 Gemini Lake Refresh 제품에 대한 공급 제약 조건과 프리미엄 가격 정책으로 인해 CPU 분야에서 시장 점유율을 계속 확대하고 있습니다. AMD Ryzen 4000 시리즈인 Renoir에 대해서는 어떤 오픈 마켓 오퍼도 보이지 않으며, 따라서 많은 제조업체가 7세대 AMD A-Series APU인 Stoney Ridge를 선택하고 있습니다. 현재 Intel이 혼란에 빠진 상황에서, AMD Renoir 및 Stoney Ridge 시리즈에 대한 수요가 상당히 증가할 것으로 예상합니다. 그러나 AMD 생산 공장에서 이처럼 빠른 속도의 수요를 따라잡을 수 있을지 여부는 불분명합니다.",
     "detected_vendors": [
       "Amd",
@@ -23,10 +24,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2020년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "고급형 AMD 데스크톱 Ryzen CPU 수요 증대",
     "text": "AMD EPYC 서버 CPU 공급이 제한된 상황에서, 일부 고객이 AMD 고급형 Ryzen 데스크톱 CPU(AMD Ryzen Threadripper 프로세서 및 AMD Ryzen 9 데스크톱 프로세서)를 대신 선택하고 있습니다. 그 성능이 AMD EPYC 서버 CPU와 필적하기 때문입니다. 이런 고급형 데스크톱 CPU에 대한 오픈 마켓 가격이 약 5% 증가할 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd"
@@ -41,10 +43,11 @@
     "detected_categories": [
       "CPU",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2020년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Filecoin의 인기 급증으로 AMD EPYC 서버 CPU 공급 제한",
     "text": "IPFS 블록체인(Filecoin)과 관련된 대대적인 광고로 인해, AMD의 EPYC 서버 CPU 공급이 오픈 마켓에서 제한되고 리드 타임이 4주 이상으로 늘었습니다. 가장 많이 찾는 SKU는 AMD EPYC 서버 CPU(7742, 7542, 7402, 7302P, 7302, 7282), AMD EPYC 7302 및 AMD EPYC 7282입니다. 오픈 마켓에서 이런 AMD EPYC 서버 CPU의 가격이 전체적으로 3% 높아졌다는 점도 확인했는데, 특히 중국에서 많이 상승했습니다. 이로 인해 대용량 HDD와 서버 RDIMM의 수요가 늘었습니다.",
     "detected_vendors": [
       "Amd"
@@ -61,10 +64,10 @@
     "detected_categories": [
       "CPU",
       "IC",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치 (스토리지)",
-    "subheading": "",
+    "section_raw": "2020년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재택근무 관련 제품의 수요는 계속 증가",
     "text": "Filecoin에 대한 대대적인 광고로 인해 AMD CPU뿐 아니라 이 CPU가 사용되는 마더보드(Supermicro, AsRock, Asus에서 제조하는 CPU 포함)의 가격 폭등과 공급 부족이 발생했습니다. 소식통에 따르면, 듀얼 소켓 마더보드가 가장 큰 영향을 받고 있다고 합니다. 노트북 수요는 3분기 말까지 강세로 유지될 것으로 예상됩니다. 무선 카드와 함께 웹캠 및 헤드셋과 같은 주변 장치 제품 역시 수요 폭증으로 공급을 맞추기 빠듯한 상황입니다. 제조업체들은 학생과 재택근무를 하는 직장인의 넘치는 수요를 충족시키려 노력하고 있지만, 언제 그 수요를 따라잡을지는 분명하지 않습니다.",
     "detected_vendors": [
       "Amd",
@@ -80,10 +83,11 @@
     "month": 8,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (CPUs)",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "고성능 AMD 데스크톱 Ryzen CPU 수요의 증가",
     "text": "AMD EPYC 서버 CPU의 공급이 부족하기 때문에 일부 고객들은 AMD Ryzen Threadripper 프로세서, AMD Ryzen 9 Desktop 프로세서와 같이 성능이 AMD EPYC 서버 CPU와 비슷하여 대체 가능한 AMD 고성능 데스크톱 CPU로 전환하고 있습니다. 이런 이유로 고성능 데스크톱 CPU의 공개시장 가격이 약 5% 인상될 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd"
@@ -98,10 +102,11 @@
     "month": 8,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (CPUs)",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Filecoin 거래로 인해 AMD EPYC 서버 CPU의 공급이 부족",
     "text": "IPFS 블록체인(파일코인)을 둘러싼 과도한 열풍으로 인해 AMD의 EPYC 서버 CPU 공개시장 공급은 제한되고 리드 타임은 4주 이상으로 늘어났습니다. 가장 수요가 많은 SKU는 AMD EPYC 서버 CPU(7742, 7542, 7402, 7302P, 7302 & 7282), AMD EPYC 7302, 그리고 AMD EPYC 7282입니다.",
     "detected_vendors": [
       "Amd"
@@ -118,10 +123,11 @@
     "detected_categories": [
       "CPU",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "CPU (CPUs)",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Filecoin 거래로 인해 AMD EPYC 서버 CPU의 공급이 부족",
     "text": "또한 AMD EPYC 서버 CPU의 공개 시장 가격이 전반적으로 상승하였고 특히 중국에서 3%까지 상승하였습니다. 이 때문에 대용량 HDD와 서버 RDIMM에 대한 수요도 증가했습니다.",
     "detected_vendors": [
       "Amd"
@@ -135,10 +141,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재택근무 관련 제품들에 대한 지속적인 수요 증가",
     "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다.",
     "detected_vendors": [
       "Amd",
@@ -154,10 +161,11 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (CPUs)",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "신학기로 인해 CPU 수요 증가",
     "text": "모바일 CPU의 경우 코로나19의 대유행 때문에 예년보다 수요가 증가할 수 있습니다. 코로나19는 Project Connect(모든 학교를 인터넷에 연결하는 것을 목표로 하는 GIGA 이니셔티브)의 진행 속도를 높였고 그 결과로 Intel 및 AMD 소형 모바일 CPU의 수요가 굉장히 많아졌습니다.",
     "detected_vendors": [
       "Amd",
@@ -171,10 +179,11 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (CPUs)",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 시장 성장 지속",
     "text": "AMD는 2020년 1분기부터 서버 프로세서 분야에 큰 반향을 일으키고 있습니다. 보다 향상된 EPYC 프로세서 성능을 기반으로 AMD는 데이터 센터 사업을 두 배로 확장할 계획입니다.",
     "detected_vendors": [
       "Amd"
@@ -185,12 +194,12 @@
   {
     "year": 2020,
     "month": 9,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU (CPUs)",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 시장 성장 지속",
     "text": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다. 그러나 많은 수요로 인해 공급 제약은 불가피해 보입니다.",
     "detected_vendors": [
       "Amd"
@@ -206,10 +215,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC (ICs)",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "신학기로 인해 CPU 수요 증가",
     "text": "모바일 CPU의 경우 코로나19의 대유행 때문에 예년보다 수요가 증가할 수 있습니다. 코로나19는 Project Connect(모든 학교를 인터넷에 연결하는 것을 목표로 하는 GIGA 이니셔티브)의 진행 속도를 높였고 그 결과로 Intel 및 AMD 소형 모바일 CPU의 수요가 굉장히 많아졌습니다.",
     "detected_vendors": [
       "Amd",
@@ -224,10 +233,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC (ICs)",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 시장 성장 지속",
     "text": "AMD는 2020년 1분기부터 서버 프로세서 분야에 큰 반향을 일으키고 있습니다. 보다 향상된 EPYC 프로세서 성능을 기반으로 AMD는 데이터 센터 사업을 두 배로 확장할 계획입니다.",
     "detected_vendors": [
       "Amd"
@@ -238,12 +247,12 @@
   {
     "year": 2020,
     "month": 9,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC (ICs)",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 시장 성장 지속",
     "text": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다. 그러나 많은 수요로 인해 공급 제약은 불가피해 보입니다.",
     "detected_vendors": [
       "Amd"
@@ -258,10 +267,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "2 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD Ryzen 4000 데스크톱 CPU 출시 예정",
     "text": "현재 AMD Ryzen 3xxx 시리즈(Zen 2, Matisse)의 공급은 오픈 마켓에서 제한적인 상태로 유지되고 있습니다. AMD가 2020년 10월에 새로운 AMD Ryzen 4000 데스크톱 CPU의 출시를 준비 중이라는 얘기가 들려옵니다. 이 무렵은 휴가철을 눈앞에 두고 있을 시점으로, 소비자들은 전통적으로 이 무렵에 새로운 전자제품과 고급스러운 각종 새로운 장치에 가장 많이 지출합니다.",
     "detected_vendors": [
       "Amd"
@@ -275,10 +285,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "2 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 분야 공급의 악순환",
     "text": "Intel 이 1세대 10NM Ice Lake 모바일 CPU에서 2세대 10NM Tiger Lake 버전을 중심으로 집중 할 것이라는 소문이 돌고 있습니다. 이 사실이 확인될 경우에는 Ice Lake 모바일 CPU 공급이 제한될 것으로 예상됩니다. Intel의 Tiger Lake Mobile CPU가 AMD의 4000 Renoir 모바일 시리즈보다 성능이 더 뛰어나 실질적 경쟁 제품인 것으로 홍보되고 있으므로 이런 현상은 이해할 만합니다.",
     "detected_vendors": [
       "Amd",
@@ -290,13 +301,13 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "CPU",
+    "category": "IC",
     "detected_categories": [
-      "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "2 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 분야 공급의 악순환",
     "text": "그럼에도 불구하고, AMD의 4000 Renoir 모바일 시리즈가 소비자 시장에서 압도적으로 뜨거운 호응을 얻고 있어 수요가 두 배로 늘었다는 소식을 듣고 있습니다. 고객들은 이런 추세에 대응해 Ryzen 3000 시리즈 ‘Picasso’로 다시 돌아가는 데는 거부감을 보이는데, 이 시리즈 역시 공급이 제한적이기 때문입니다. 4분기에도 수급 문제가 계속 될 것이므로, 우리는 고객에게 Ryzen 3000 시리즈 상황을 주의 깊게 살펴 단호히 결정 하도록 권고하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -312,10 +323,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
     "text": "한편, AMD는 10월 28일에 차세대 GPU를 발표할 예정입니다. 일부 업계 전문가는 차세대 모델의 사양의 NVIDIA의 RTX 3000 시리즈의 사양에 필적하거나 더 나을 것으로 예측합니다.",
     "detected_vendors": [
       "Amd",
@@ -329,10 +340,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "2 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD Ryzen 5000 시리즈 데스크톱 Vermeer 발표",
     "text": "AMD는 최근에 Zen 3 아키텍처를 가진 최신 7NM 데스크톱 CPU인 새로운 Ryzen 5000 시리즈 ‘Vermeer’ (AMD Ryzen 9 5950X, Ryzen 9 5900X, Ryzen 7 5800X, Ryzen 5 5600X) 를 발표했습니다. 이런 고급형 데스크톱 CPU 는 게이머, 콘텐츠 제작자, PC 애호가를 겨냥한 제품입니다.",
     "detected_vendors": [
       "Amd"
@@ -346,10 +358,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 확대하는 AMD",
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -365,10 +378,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 확대하는 AMD",
     "text": "Xilinx 는 또한 모든 Spartan 6 (XC6SLX), Virtex 6 및 7, Kintex 7 (XC7K) FPGA 패밀리 제품에 대해 25% 의 가격 인상이 있을 것이라고 발표했습니다.",
     "detected_vendors": [
       "Amd"
@@ -384,10 +398,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "분주 해 지는 GPU 업체",
     "text": "Nvidia와 직접적인 경쟁 관계에 있는 AMD 는 역시 이번 달 말에 출시 예정인 새로운 ‘Big Navi’ GPU 인 Radeon 의 RX 6000 시리즈 출시를 통해 Nvidia의 RTX 30 시리즈에 정면으로 맞서게 됩니다. AMD 의 ‘Big Navi’ 는 TSMC 7nm 다이를 통합한 제품으로, (Nvidia 의 RTX 30 시리즈에 사용되는) 삼성의 8nm 보다 수율이 높다고 합니다. 따라서 AMD 는 공급에 있어 Nvidia 보다 유리할 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -404,10 +418,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "분주 해 지는 GPU 업체",
     "text": "역사적으로, AMD 는 Nvidia 보다 낮은 가격 벤치마크를 설정했습니다. Nvidia 의 RTX 30 시리즈와 AMD의 ‘Big Navi’ 시리즈가 모두 성능면에서 비슷하다면 가격이 그래픽 부문에서 누가 승자로 떠오를지 결정하는 요인이 될 것 입니다.",
     "detected_vendors": [
       "Amd",
@@ -421,10 +435,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, 데스크톱 환경 장악",
     "text": "AMD 에서 새로 출시한 Ryzen 5000 시리즈, ‘Vermeer’ 데스크톱 프로세서는 재입고 시마다 날개 돋친 듯 팔려나갔습니다. 이 때문에 이 프로세서는 오픈 마켓에서 그리 널리 사용되지 않습니다. 따라서 구매자는 제품에 대한 프리미엄을 지불할 것으로 예상할 수 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -437,10 +452,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, 데스크톱 환경 장악",
     "text": "현재, AMD 는 Intel의 데스크톱 CPU, 11세대 시리즈, ‘Rocket Lake’ 로 데스크톱 환경에서 우위를 점하고 있는 것 같지만 이 시리즈는 적어도 2021년 1분기까지 출시되지 않을 것입니다. 시간이 지나야만 이 시리즈가 AMD 의 Ryzen 5000 시리즈, ‘Vermeer’ 의 아성을 무너뜨릴 수 있을지 알 수 있을 것입니다.",
     "detected_vendors": [
       "Amd",
@@ -455,10 +471,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 환경에서의 연쇄 반응",
     "text": "AMD의 Ryzen 4000 시리즈, ‘Renoir’ 모바일 프로세서에 대한 수요가 계속해서 공급을 초과함에 따라 고객들은 이전 모델인 AMD의 Ryzen 3000 시리즈, ‘Picasso’ 로 점점 다시 전환하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -472,10 +489,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 환경에서의 연쇄 반응",
     "text": "요약하자면 시장이 최신 기술, 즉 AMD의 Ryzen 4000 시리즈, ‘Picasso’, 7nm 모바일 프로세서를 채택하고 사용하도록 하기 위해 AMD의 Ryzen 3000 시리즈, ‘Renoir’, 12nm 모바일 프로세서의 생산량을 축소했습니다. 결과적으로 AMD는 이제 새로운 시리즈의 공급 부족으로 인해 궁지에 몰렸습니다. 단 2개의 모바일 제품 공급이 부족한 상황에서 AMD는 이 같은 공급 격차를 메울 방법이 부족합니다.",
     "detected_vendors": [
       "Amd"
@@ -490,10 +508,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 환경에서의 연쇄 반응",
     "text": "따라서 AMD 의 모바일 프로세서에서 Intel로 다시 전환하기로 결정한 고객에게 오픈 마켓 가용성을 확인하기를 촉구합니다.",
     "detected_vendors": [
       "Amd",
@@ -507,10 +526,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 공급에 영향을 미치는 기판 공급 부족",
     "text": "Fusion Worldwide 의 고객과 공급업체들은 이러한 공급 부족 현상이 AMD CPU 공급에 영향을 미칠 것이라는 사실을 확인했습니다. 소식통에 따르면 기판 제조업체들은 AMD 보다 Intel 과 Nvidia 를 우선시해 왔고, 더 많은 공급 물량을 확보하려는 이 회사의 노력은 상당히 역부족이었습니다. AMD 는 수익성이 더 높은 고급 CPU 를 위해 최소 1월 말까지 소형 코어 카운트 프로세서에 대한 지원을 축소할 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
@@ -528,10 +548,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "마지막으로, AMD 가 Nvidia 의 RTX 3000 시리즈에 대한 경쟁 제품으로 새로운 Radeon RX 6000 시리즈 GPU 를 공식 발표한 후 차세대 GPU 에 대한 싸움이 여전히 진행되고 있습니다. AMD 는 또한 Radeon RX 5700 과 같은 구세대 GPU의 생산을 중단하여 차세대를 위한 길을 닦고 생산 용량을 확보했습니다.",
     "detected_vendors": [
       "Amd",
@@ -547,10 +567,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "| 칩셋 사양 비교 | AMD Radeon RX 6900 XT | AMD Radeon RX 6800 XT | AMD Radeon RX 6800 | NVIDIA RTX 3090 | NVIDIA RTX 3080 | NVIDIA RTX 3070 |",
     "detected_vendors": [
       "Amd",
@@ -565,10 +585,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "Nvidia 는 주로 AMD RX 6000 시리즈에 비해 가격과 기능적 성능 면에서 전혀 경쟁력이 없는 이유 때문에 RTX 3080 20GB, 3070Ti 및 3070 16GB 등 3가지 모델 출시 계획을 취소했다는 소문이 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -583,10 +603,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "더군다나 AMD 는 새로운 워크스테이션/가속기 GPU 를 공개할 예정인 데, 11월 중순에 출시될 것으로 예상됩니다. 이 제품은 최근 출시된 Nvidia 의 A100 40GB 와 같은 Ampere 시리즈 워크스테이션 GPU와 대항할 것입니다. Nvidia 가 더 나은 수율을 위해 2021년 1분기까지 소비자 등급 GPU 생산을 TSMC 7nm 로 전환하여 공급을 늘리고 시장 점유율을 확보할 것이라는 시장 예측이 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -601,10 +621,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel로 복귀한 Pat Gelsinger",
     "text": "신임 CEO가 Intel을 다시 옛 영광의 시대로 되돌리고 AMD가 장악한 CPU 시장 점유율을 빼앗아 올지에 모든 이목이 쏠릴 것입니다.",
     "detected_vendors": [
       "Amd",
@@ -618,10 +639,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, CES 2021에서 새 CPU 발표",
     "text": "AMD는 CES 2021에서 Ryzen 5000, Zen 3 Cezanne 및 Zen 2 Lucienne 모바일 CPU 출시를 공식 발표했습니다.",
     "detected_vendors": [
       "Amd"
@@ -634,10 +656,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, CES 2021에서 새 CPU 발표",
     "text": "또한, 이르면 3월 말에 출시될 것으로 예상되는 3세대 EPYC 서버 CPU Milan도 발표했습니다. 데스크톱 및 모바일 환경에서 시장 점유율을 확보하면서 AMD의 목표는 EPYC 서버 CPU 출시를 통해 서버 공간에서 인텔의 거점에 도전하는 것이 었습니다.",
     "detected_vendors": [
       "Amd",
@@ -649,12 +672,12 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, CES 2021에서 새 CPU 발표",
     "text": "AMD가 힘차게 끌었음에도, 생산능력의 제약으로 이런 출시 계획이 어려울 수도 있습니다. AMD가 제한된 용량와 ABF 기판 문제로 인해 엄청난 수요를 따라잡을 수 있을지 확실치 않습니다.",
     "detected_vendors": [
       "Amd"
@@ -667,13 +690,13 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, CES 2021에서 새 CPU 발표",
     "text": "그 밖에도, AMD는 Radeon RX 6000 RDNA 2 GPU의 노트북 버전을 2021년 상반기에 공개할 계획입니다.",
     "detected_vendors": [
       "Amd"
@@ -687,10 +710,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "DIMM 수요 충족에 어려움",
     "text": "연휴 이후 DIMM 수요가 30% 증가해 기업 고객이 가장 많이 찾는 32GB RDIMM의 오픈 마켓 가격이 5~10% 상승했습니다. AMD가 서버 부문에서 Intel을 극복하기 위한 전략으로 4월에 3세대 EPYC Milan CPU 출시를 준비함에 따라 제약이 심한 서버 DIMM 공급에 추가적인 압박이 가해지고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -704,12 +728,12 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "GPU",
+    "category": "Other",
     "detected_categories": [
-      "GPU"
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 활동이 시장 성장으로 이어져",
     "text": "채굴 활동 증가에 대응해, AMD는 전통적인 제조 및 유통 파트너를 통하는 방식 대신 다른 전략을 택해 암호화폐 채굴기를 직접 공급하고 있습니다. 이로 인해 많은 AMD 유통 파트너가 RX570, RX580, RX5700, RX5800을 포함한 모델에서 공급 부족에 시달리고 있습니다. 이는 지난해 PS5 도입으로 인한 공급 부족에 가중된 어려움입니다.",
     "detected_vendors": [
       "Amd"
@@ -724,10 +748,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, RX5000 시리즈의 수명 종료 발표",
     "text": "AMD는 신규 모델의 제한적 공급에도 불구하고 새로 출시된 RX6000 시리즈에 대한 수요를 촉진하기 위해 RX5000 시리즈의 수명 종료를 발표할 것으로 예상됩니다. RX5000 시리즈의 재고 수준과 가격이 회복될 것으로 예상할 수는 없습니다. AMD는 매출과 이익을 극대화하기 위해 독립 실행형 GPU가 아닌 더 큰 규모의 제품 패키지(예: 마더보드 포함)의 일부로 나머지 재고를 제공할 수 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -742,10 +767,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD에서 곧 출시할 EPYC Milan CPU를 위한 길 닦기",
     "text": "유통업체와 벤더가 AMD의 EPYC Rome 시리즈 서버 CPU의 재고를 줄여 그 후속 모델인 EPYC Milan 서버 CPU를 위한 공간을 확보하고 있다는 소식을 듣고 있습니다. 이는 오픈 마켓에서 Rome 시리즈의 재고가 즉시 줄어드는 결과로 이어질 수 있고, 가격 상승도 예상됩니다.",
     "detected_vendors": [
       "Amd"
@@ -758,13 +784,13 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "CPU",
+    "category": "IC",
     "detected_categories": [
-      "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
     "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다.",
     "detected_vendors": [
       "Amd",
@@ -781,10 +807,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
     "text": "기판 공급 부족 외에도 이러한 칩에 대한 경쟁 격화로 앞으로 AMD의 모든 CPU 시리즈에 걸쳐 심각한 공급 부족이 발생할 것으로 예상됩니다. 그 결과, 이러한 제품의 리드 타임은 계속 연장되기만 할 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -798,12 +825,12 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
     "text": "한편, AMD가 계속 고객에게 제품 공급을 제때 하지 못하고 약속을 이행하지 않으면 Intel에게는 이익이 됩니다.",
     "detected_vendors": [
       "Amd",
@@ -817,10 +844,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트 코인 성장으로 추가적인 압력",
     "text": "2021년 1월에서 2월 사이에 비트코인의 가격이 30,000달러 이상에서 50,000달러 이상으로 상승했습니다. AMD의 서버 CPU가 비트코인 채굴자에게 인기를 끌면서, 제조업체들이 생산 할당을 받으려 치열하게 경쟁하고 있습니다. AMD 서버 CPU의 지속적인 공급 부족 때문에, 현재 공급량이 엄청난 수요에 부응하기에는 너무 제한적입니다.",
     "detected_vendors": [
       "Amd"
@@ -836,10 +864,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia에 전용 제품 라인이 생길 정도의 엄청난 암호화폐 수요",
     "text": "업계 소식통에 따르면, 최근에 암호화폐 채굴자의 수요 증가세가 워낙 강해 채굴자들이 Nvidia와 AMD로부터 GPU 대량 구매를 위한 직접 지원까지 받았다고 합니다. 최종 고객과의 직접 협력은 주요 제조 파트너와 긴밀히 협력하는 전통적인 유통 전략에서 벗어난 이례적인 일입니다.",
     "detected_vendors": [
       "Amd",
@@ -853,10 +882,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "EPYC Rome Server CPU 생산을 재 할당 중인 AMD",
     "text": "이전에는 AMD의 EPYC Rome 서버 CPU에 대한 수요가 미국에 비해 아시아에서 상대적으로 더 높았지만, AMD의 CPU가 시장 점유율을 더 높임에 따라 그 수요가 달라졌습니다. 이는 미국에서 진행 중인 관세 부과로 인한 것으로, AMD로서는 어쩔 수 없이 중국 이외 지역의 COO 부품을 아시아에서 미국으로 빼내야 했습니다.",
     "detected_vendors": [
       "Amd"
@@ -871,10 +901,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "EPYC Rome Server CPU 생산을 재 할당 중인 AMD",
     "text": "결과적으로, 고객은 AMD와의 거래가 끊기거나 AMD의 인도 리드 타임이 늘어나는 문제에 직면할 수 있습니다. 제한적인 기판 공급 외에도, 이처럼 제한적인 TSMC 생산 능력과 AMD EPYC Milan 시리즈의 출시로 인해 Rome 서버 CPU 공급이 회복되기는 쉽지 않을 것 입니다.",
     "detected_vendors": [
       "Amd",
@@ -890,10 +921,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "기판 공급 부족으로 AMD의 리드 타임 연장",
     "text": "4월에 예측한 바와 같이, 기판 공급 부족으로 인해 AMD의 EPYC Rome 서버 CPU의 오픈 마켓 리드 타임이 연장되는 문제가 나타나고 있습니다. 후속 모델 EPYC Milan이 출시되었지만, 오픈 마켓 공급은 제한적이었습니다.",
     "detected_vendors": [
       "Amd"
@@ -910,10 +942,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel의 서버 Xeon, 추가적인 공급 제약에 직면",
     "text": "다른 소식으로는, Intel이 2021년에 Ice Lake Xeon의 후속 모델인 Sapphire Rapids도 출시할 것이라는 소문도 있습니다. 만약 이게 사실이라면 시장에서는 Ice Lake와 Sapphire Rapids에 대한 수요를 모두 소화해야 할 것이고, 이로 인해 역시 올해 말 출시될 것이라는 소문이 도는 AMD의 4세대 EPYC 서버인 Genoa와 정면 충돌할 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -927,10 +960,11 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수요 충족을 위해 애쓰는 GPU 공급업체",
     "text": "AMD의 최신 GPU 시리즈인 Radeon RX6000과 Nvidia의 RTX 3000 시리즈의 공급은 여전히 빠듯합니다. Nvidia는 여러 메이커가 출시한 새 노트북을 비롯해, 다양한 사업분야 시장의 수요에 부응하느라 계속 애를 먹고 있습니다. CMP GPU를 통해 암호화폐 시장을 더욱 세분화하려고 계속 노력 해 왔습니다.",
     "detected_vendors": [
       "Amd",
@@ -944,10 +978,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "4 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel의 Cascade Lake 제품으로 되돌아가는 고객들",
     "text": "AMD의 EPYC Rome 공급은 여전히 오픈 마켓에서 심하게 제약받고 있습니다. 그 결과, 가격은 지난 몇 개월에 비해 거의 두 배로 뛰었습니다. 더욱이, 공급 제한과 프리미엄 가격이라는 상황이 한 동안 계속될 것으로 예상합니다.",
     "detected_vendors": [
       "Amd"
@@ -963,10 +998,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "그래픽 카드 공급 부족으로 애먹는 AMD",
     "text": "오픈 마켓에서 AMD의 Ryzen 5000 시리즈에 대한 공급량이 적습니다. 더욱이, 이 CPU에 필요한 그래픽 카드가 극히 부족해 오픈 마켓 가격이 매우 높게 형성되어 있습니다. 이로 인해 고객은 11 세대 Tiger Lake 데스크탑 CPU와 같은 Intel의 다른 데스크탑 제품으로 전환하게되었습니다.",
     "detected_vendors": [
       "Amd",
@@ -982,10 +1018,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 공급을 기다리는 고객들",
     "text": "AMD의 GPU 공급이 여전히 부족한 상황입니다. AIB(Add-In-Board) 파트너는 수중에 GPU 재고가 남아 있지 않고 AMD의 공급을 기다리는 동안 5월 말부터 생산이 중단되었다는 소식을 공유했습니다. 3분기 GPU 공급이 2021년 상반기보다 훨씬 더 안 좋아 질 것을으로 예상됩니다. 공급 부족 상황이 2022년까지 계속될 것 같습니다. 특히 AMD의 RX5700과 RX6800에 제한적 입니다.",
     "detected_vendors": [
       "Amd"
@@ -998,16 +1035,15 @@
   {
     "year": 2021,
     "month": 6,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "6 완제품 (Finished Goods)",
-    "subheading": "",
-    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다. AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, 자체 Wi-Fi 모듈 출시",
+    "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
-      "Intel",
       "Mediatek"
     ],
     "detected_keywords": [
@@ -1018,12 +1054,12 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "전환기의 혼란 겪는 Intel 고객",
     "text": "데스크톱 수요가 증가했음에도, 다른 필수 재료의 부족으로 인해 지속적인 게이팅 문제가 발생하고 계속해서 데스크톱 컴퓨터 생산이 중단되고 있습니다. Intel이 AMD와 경쟁하기 위해 새로운 데스크톱 시리즈의 출시를 서두르면서, 고객이 제품 전환에 따른 혼란에 휩싸였습니다.",
     "detected_vendors": [
       "Amd",
@@ -1039,10 +1075,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, POS(Point of Sale) 모니터링",
     "text": "AMD의 2세대 Rome 및 3세대 Milan EPYC 서버 CPU는 시장에서 여전히 원하는 사람이 많습니다. 2세대 Rome에 대한 공급 부족이 계속됨에 따라 제조업체가 소량의 공급을 받고는 있지만, 생산 수요에는 턱없이 부족한 실정입니다. 특히 AMD가 POS(Point of Sale) 및 재고를 면밀히 모니터링하고 있기 때문에 공개 시장에서 거래하여 제한된 공급을 위험에 빠뜨리지 않을 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -1055,12 +1092,12 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, POS(Point of Sale) 모니터링",
     "text": "공급업체에 따르면 3분기 말 이후로는 AMD의 3세대 Milan에 대한 공급이 소량에 그칠 것이라고 합니다. 공급업체들은 제한적 공급뿐 아니라 AMD의 모니터링으로 인해 많은 재판매 기회를 기대하고 있지 않습니다.",
     "detected_vendors": [
       "Amd"
@@ -1073,10 +1110,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, POS(Point of Sale) 모니터링",
     "text": "게다가, AMD는 1세대 Naples EPYC 서버 CPU의 미판매 재고를 반송하라고 유통업체를 압박하고 있습니다. AMD는 그 제품을 사용하는 다른 시스템 통합업체가 2세대 Rome 및/또는 3세대 Milan을 기다리게 하는 대신, 이러한 CPU를 이들 통합업체에 판매하려고 할 가능성이 높습니다.",
     "detected_vendors": [
       "Amd"
@@ -1089,10 +1127,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel, 주력 분야를 네트워크 카드에서 다른 분야로 전환",
     "text": "더욱이, Intel은 현재 모바일 CPU 부문에서 AMD를 상대로 경쟁하면서 고객의 눈길을 받고자, 기판 공급에 할당하던 자원을 모바일 CPU 생산으로 더 많이 돌리고 있습니다. 결과적으로, Intel은 네트워크 카드에서 점점 다른 곳으로 주력 종목을 옮기고 있어, 이더넷 카드 공급이 빠듯해지고 리드 타임이 길어지고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1109,10 +1148,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 시장은 계속해서 수요와 가격이 높은 수준을 형성하고 있습니다.",
     "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다.",
     "detected_vendors": [
       "Amd",
@@ -1129,10 +1169,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "5 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD의 Zen 3 Cezanne G-Series 데스크톱 프로세서 선호",
     "text": "그래픽 카드 가격은 여전히 높고 공급은 계속해서 제한적이므로, Zen 3 Cezanne G-Series 데스크톱 프로세서가 계속 인기를 끌고 있고 내장형 Radeon Graphics 덕분에 소비자들이 많이 찾습니다. 아쉽게도, AMD는 소량의 공급 물량만 풀고 있어 압도적인 수요를 감당하기에는 확실히 충분치 않습니다.",
     "detected_vendors": [
       "Amd"
@@ -1145,10 +1186,11 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "5 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel의 12세대 Alder Lake에 대한 기대 상승",
     "text": "결과적으로, Intel의 11세대 Rocket Lake 데스크톱 CPU와 10세대 Comet Lake 데스크톱 공급은 Intel이 AMD에 잃은 이전의 시장 점유율을 되찾겠다는 목표로 12세대 Alder Lake CPU를 우선시함에 따라 축소될 것 같습니다.",
     "detected_vendors": [
       "Amd",
@@ -1162,10 +1204,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
       "Amd",
@@ -1183,10 +1226,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Xilinx, 고객에게 공급 제약 통지",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
       "Amd"
@@ -1204,10 +1248,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
     "text": "AMD와 Nvidia의 그래픽 카드 가격은 암호화폐 활동의 급증과 세계적인 반도체 공급 부족이 계속되는 가운데 4분기에 들어서면서 6개월 만에 최고치를 기록했습니다.",
     "detected_vendors": [
       "Amd",
@@ -1223,10 +1268,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
     "text": "AMD의 Radeon 시리즈 GPU는 시장에서 재고를 찾기가 어려워 MSRP(권장소비자가격)보다 83% 높은 것으로 알려졌습니다. 보도에 따르면, RX 6800 시리즈가 가장 찾기 힘든 카드로 손꼽혔고 가격 급등에 기여했다고 합니다.",
     "detected_vendors": [
       "Amd"
@@ -1239,10 +1285,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "5 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel - 신세대와 구세대 간의 예상 공급 격차",
     "text": "12세대 Alder Lake 데스크톱 CPU는 Intel의 첫 번째 10NM 노드로, AMD 7NM 노드 Zen 3 CPU와 긴밀히 연결되도록 합니다.",
     "detected_vendors": [
       "Amd",
@@ -1256,10 +1303,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "5 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD와 Intel 모두 최신 서버 CPU 생산 증대",
     "text": "AMD는 Milan CPU보다 Rome CPU를 우선시하여 그 생산 비율을 30%에서 70%로 전환하여 생산에 다시 초점을 맞출 것이라고 합니다. 이는 시장 점유율을 높이기 위해 고마진 및 프리미엄 모델 부품 생산을 추진하겠다는 AMD의 의도를 강조해 줍니다.",
     "detected_vendors": [
       "Amd"
@@ -1272,10 +1320,11 @@
     "month": 12,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 IC (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Xilinx, 고객에게 복수의 통지를 전송",
     "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다.",
     "detected_vendors": [
       "Amd"
@@ -1291,10 +1340,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "5 CPU (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Cryptominers는 고비용 GPU의 대안으로 CPU를 기대",
     "text": "AMD의 CPU는 채굴용으로 만들어지지 않았지만 AMD EPYC 및 Ryzen 9 프로세서를 포함하고 있는 최대 크기의 L3 캐시를 가진 프로세서, 스레드리퍼 서버 및 워크스테이션 CPU와 함께 사용할 수 있습니다. 수요가 계속 증가하면 이러한 칩의 가격도 상승할 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -1307,10 +1357,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "5 CPU (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "랩토리움 채굴에 어울리는 AMD CPU (최대 L3 캐시 구성 장치)",
     "text": "| 프로세서 분류 (AMD 데스크탑 CPU) | L3 캐시 크기 (L3 Cache) |",
     "detected_vendors": [
       "Amd"
@@ -1325,10 +1376,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "TSMC의 1,000억 달러 성장 계획",
     "text": "TSMC는 이미 고급의 처리 노드를 위해 가격을 10~20% 인상했습니다. 파운드리 가격 인상은 CPU, GPU 및 ASICS 가격에 영향을 줄 것으로 예상됩니다. Tech Wire Asia에 따르면 AMD, Intel, Nvidia는 TSMC의 첨단 노드 기술에 의존하는 제조업체들입니다.",
     "detected_vendors": [
       "Amd",
@@ -1344,12 +1396,12 @@
   {
     "year": 2022,
     "month": 2,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Xilinx, Tier 1 고객에게 우선순위 부여",
     "text": "Xilinx의 생산 능력은 개선의 조짐 없이 위험한 상태를 유지하고 있습니다. 이에 따라 제조업체는 글로벌 계층 1 고객으로 지원 우선순위를 변경했습니다. 지원을 보장받은 부문에는 항공우주, 군사 및 미국 정부가 포함됩니다. 또한, 현재 신규 주문을 받고 있지 않으며, 이로 인해 2022년 이미 불안한 시장에서 주문 적체는 불안정한 상태를 유지하게 되었습니다.",
     "detected_vendors": [
       "Amd"
@@ -1362,10 +1414,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 고객, 곧 있을 가격 인상 예측",
     "text": "AMD은 EPYC 데이터 센터 프로세서 제품 라 전반에서 10~30% 가격을 인상할 것으로 알려졌습니다. 가격은 고객에 따라 다를 것으로 예상됩니다. 제조업체가 운영 차질을 직면하면서 AMD의 CPU 제품 전반에서 가격 인상과 불확실한 배송일이 발생하고 있습니다. 이러한 장애는 제조업체가 웨이퍼와 포장 용량을 제공하기 위해 외부 기업에 의존한 것에 따른 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -1380,10 +1433,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급망 문제의 영향을 받는 AMD의 내장형 CPU 세그먼트",
     "text": "원자재 공급 부족이 주로 산업용 주변 장치 및 군수품 고객으로 구성된 AMD의 내장형 부품 세그먼트에 영향을 미치고 있습니다. 이로 인해 내장형 CPU 가격이 15% 상승하고 리드 타임이 최소 30주로 늘었습니다.",
     "detected_vendors": [
       "Amd"
@@ -1400,10 +1454,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리",
-    "subheading": "",
+    "section_raw": "2022년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급업체의 재고 축소로 DIMM 가격 인하가 예상되다",
     "text": "최신 Intel과 AMD의 CPU 시리즈(Sapphire Rapids & Genoa) 출시가 4분기로 연기된 상황에서 해당 CPU에 호환되는 핵심 부품이 서서히 시장에 출시되고 있습니다. 공급업체는 많은 고객이 여전히 NPI 테스트 단계에 있으며 이 단계에서 시간이 꽤 걸릴 것이라고 말했습니다. 마지막으로, 최신 DDD5 모듈의 가격은 DDR4 모듈보다 최소 20~30% 높게 책정되고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1418,10 +1473,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel 및 AMD 서버 CPU 상황 - 계속되는 시장 경쟁",
     "text": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다. Intel의 Sapphire Rapid와 AMD의 Genoa 지연은 공급 병목현상을 일으키고 고객 가용성을 제약할 수 있습니다. 그 결과, 주로 서버 빌더인 고객들은 그 대안으로 기존의 Intel의 Ice Lake 또는 Cascade Lake 시리즈나 AMD의 Rome 또는 Milan 시리즈를 구입해야 하는 상황입니다.",
     "detected_vendors": [
       "Amd",
@@ -1435,12 +1491,12 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel 및 AMD 서버 CPU 상황 - 계속되는 시장 경쟁",
     "text": "Intel and AMD는 중국의 선전 지역과 상하이의 강제 봉쇄에 타격을 입은 다수 제조업체의 일부에 불과합니다. 불안정한 공급 가용성은 한동안 고객에게 좋은 소식을 가져다주지 못할 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd",
@@ -1455,10 +1511,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel, 소프트 런칭을 통해 중국 GPU 시장 진출",
     "text": "이제 중국에서 Intel의 첫 번째 개별 Arc GPU를 만나볼 수 있습니다. 수년간 Intel은 칩셋에 2D 및 3D 가속 기능을 포함시켰지만, AMD and Nvidia는 더 강력한 개별 GPU 카드로 시장을 지배했습니다. 2018년에 Intel은 자체적으로 개별 GPU를 제공할 것이며, 2020년에 출하가 시작될 것이라고 말했습니다. 그러나 Intel은 2021년까지 GPU 활동에 대한 Arc 브랜드를 공개하지 않았으며, 2022년 1분기에 데스크톱 및 랩톱용 개별 그래픽 칩 출시를 약속했습니다.",
     "detected_vendors": [
       "Amd",
@@ -1471,12 +1528,12 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 신제품 출시 및 CPU 수요 증가 창출",
     "text": "AMD는 9월 27일부터 Ryzen 7000 시리즈(Raphael, Zen 4, LGA AM5 소켓, TSMC의 N5 5nm 노드)를 이용할 수 있을 것이라고 발표했습니다. 현재는 4종의 고급 모델(Ryzen 9 7950X, Ryzen 9 7900X, Ryzen™ 7 7700X, Ryzen™ 5 7600X)이 소개되었지만, 향후 중간급 내지 엔트리급 모델의 발표 및 출시 가능성이 높다고 예상됩니다.",
     "detected_vendors": [
       "Amd",
@@ -1491,10 +1548,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 신제품 출시 및 CPU 수요 증가 창출",
     "text": "해당 제품들은 DDR4와의 하위 호환성이 없기 때문에 이러한 구성품으로 전환하려는 고객은 새로운 마더보드와 DDR5 메모리 세트가 필요하게 됩니다. AMD가 새로운 세대의 CPU를 소개한 이후 여러 해가 되었지만, 과거 경험으로 볼 때 새로운 마더보드가 필요하게 되면 프로세서 및 차세대 CPU에 대한 수요가 증가합니다. 새로운 CPU가 필요한 고객은 수요가 공급에 어떻게 영향을 줄 것인지에 주의를 기울여야 합니다.",
     "detected_vendors": [
       "Amd"
@@ -1508,10 +1566,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "미국 정부는 중국 및 러시아에 고급 GPU 수출을 금지하는 새로운 라이센스 요건을 NVIDIA와 AMD에 부과했습니다. 홍콩을 포함한 중국에 대해 향후 모든 선적을 금지하는 이러한 행정 명령은 즉시 효력을 발휘하며 출시 예정인 H100 집적 회로에 영향을 주게 됩니다. A100 또는 H100 칩을 사용하는 DGX/EGX/HGX 시스템뿐만 아니라 A100X도 또한 신규 라이센스 요건의 대상입니다.",
     "detected_vendors": [
       "Amd",
@@ -1525,10 +1584,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수요 감소에도 불구하고 Intel의 서버 CPU 가격은 계속 상승",
     "text": "모든 시선이 AMD가 EPYC 서버 CPU의 가격을 인상할지 여부에 향해 있습니다. Intel의 최근 가격 인상에 따라 Intel과 AMD 모두 오픈 마켓 가격이 상승세를 탈 것이라고 보는 것이 일반적입니다. 따라서 고객들은 비용 절감 기회가 유지되는 동안 이를 활용할 수 있도록 지금 부품을 구매하는 것이 좋습니다.",
     "detected_vendors": [
       "Amd",
@@ -1545,10 +1605,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "유통업체, 불확실한 예측으로 인해 오픈 마켓 물량 공급 보류",
     "text": "온라인 뉴스에 따르면 Intel 13세대 데스크톱 CPU Raptor Lake 시리즈는 10월 20일부터 구할 수 있습니다. 현재 초기 출시 제품에는 하이엔드 데스크톱 CPU 및 Z790 마더보드가 포함되어 있습니다. Ryzen 7000 시리즈와 비교한 핵심 판매 포인트는 Raptor Lake CPU에 LGA1700 소켓이 있으므로 이전 Intel 600 시리즈 데스크톱 칩셋 마더보드와 호환된다는 점입니다. Ryzen 7000 시리즈 CPU에는 최신 AMD 마더보드인 AM5가 필요합니다.",
     "detected_vendors": [
       "Amd",
@@ -1562,10 +1623,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
     "text": "AMD가 10월 말까지 B650E 및 B650이라는 2종의 마더보드를 추가로 출시할 것이라는 소문이 있습니다. 또한 더 많은 메인스트림 Ryzen 7000 시리즈 CPU가 출시될 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd"
@@ -1576,12 +1638,12 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC 시장, 중국 11.11 광군절 특가 전략에도 여전히 강세",
     "text": "더블 11 행사로도 알려진 11월 11일 중국의 “광군절”을 맞아 AMD는 Ryzen 7000 시리즈에 대해 새롭고 개선된 가격을 책정했습니다. Intel의 Gen Raptor Lake 할인과 직접 경쟁하기 위해 가격 인하는 23%~27%대에서 이루어졌습니다. 12세대 Alder Lake와 13세대 Raptor Lake의 판매량은 10세대 Comet Lake와 같은 이전 세대에 한참 못미치고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1597,10 +1659,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel과 AMD의 원가 절감 기회, 곧 없어질 수도 수도",
     "text": "경쟁업체의 생산량이 낮다는 소문에 따라 Intel의 Sapphire Rapid Xeon CPU 출시가 현재 2023년 1분기로 연기되었다고 알려졌으며, AMD는 4세대 EPYC Genoa를 이미 출시했습니다. Sapphire Lake가 출시되고 나면 이전 세대의 모든 특가제가 끝날 것이라는 업계 소문이 돌고 있는데, 이는 Intel이 신규 디자인으로 재빠르게 이전할 때마다 취하는 조치이기 때문입니다.",
     "detected_vendors": [
       "Amd",
@@ -1615,10 +1678,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel과 AMD의 원가 절감 기회, 곧 없어질 수도 수도",
     "text": "AMD Zen 3 EPYC Milan에서 AMD Zen 4 EPYC Genoa로 전환할 때는 마더보드도 교체해야 하는데, 이는 하휘 호환이 아니기 때문입니다. Intel Sapphire Rapid에도 같은 원리가 적용됩니다. 현재 Ice Lake 63XX와 83XX 시리즈와 같은 Intel Ice Lake CPU의 도입율은 몇달 전에 비해 상승하고 있습니다. Intel에서 가격을 이미 조정했음에도 수요가 낮아 주문가는 대부분 협상이 가능합니다.",
     "detected_vendors": [
       "Amd",
@@ -1633,10 +1697,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel과 AMD의 원가 절감 기회, 곧 없어질 수도 수도",
     "text": "AMD 역시 곧 Milan 시리즈의 가격을 올릴 계획입니다. 정확한 가격 상승치는 미정이지만, 고객들은 AMD EPYC Milan CPU와 Intel Cascade Lake, Ice Lake 시리즈를 지금 구매하도록 권장 받고 있으며,  원가 절감의 기회는 여전히 남아 있는 상태입니다.",
     "detected_vendors": [
       "Amd",
@@ -1650,12 +1715,12 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
     "text": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다. AMD는 2023년에 Xilinx 재고를 모두 소진하고 생산 리드 타임 주기를 단축하고자 합니다. 현재 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
       "Amd"
@@ -1669,12 +1734,12 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
     "text": "잔여 Xilinx 머추어 노드: 2023년 1분기까지 표준 리드 타임 예상",
     "detected_vendors": [
       "Amd"
@@ -1689,10 +1754,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "업황 부진과 둔화된 연말 수요에 타격 받은 AMD와 Intel",
     "text": "현재 Intel은 12세대 Alder Lake desktop CPU 생산에 주력하고 있습니다. 하지만 유통업체는 업황 부진과 연말 시기가 겹치면서 완충재고를 많이 쌓지 않고 있습니다. 공급업체들이 Intel에서 추가 제품을 주문하는 것을 꺼려하는 가운데 AMD는 여전히 경쟁력 강화를 위해 노력하고 있습니다. 최근, AMD의 최신 제품인 Ryzen 7000 시리즈는 Intel의 13세대 Raptor Lake Desktop CPU와의 경쟁을 위해 가격이 조정되었습니다.",
     "detected_vendors": [
       "Amd",
@@ -1706,10 +1772,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RTX 30 시리즈의 수요 급증과 함께 예측이 무색해진 GPU 시장 동향",
     "text": "RTX 4080는 첫 출시 이후 RTX 4090과 비교되는 가격 및 성능 수준 때문에 수요가 크게 하락했습니다. RTX 4090과 4080 시리즈는 유럽 통화 가치 하락과 AMD의 7900 XTX의 출시로 인해 가격이 5% 인하되었습니다.",
     "detected_vendors": [
       "Amd"
@@ -1722,10 +1789,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "고객이 완충 재고를 구축하기 시작함에 따라 서버 CPU 수요가 증가함",
     "text": "서버 CPU의 활동과 거래가 이전 달과 비교했을 때 증가하고 있습니다. 이러한 변화의 잠재적인 원인 중 하나는 새로 출시된 Intel Sapphire Rapids로 전환하는 동안 발생할 수 있는 공급 차질에 대비하여 구형 세대에 완충 재고를 구축하는 고객일 수 있습니다. 그 외에도 서버 CPU에 대한 일반적인 오픈 마켓 가격은 협상의 여지가 있습니다. 이는 특히 재고 압박으로 어려움을 겪고 있는 고객에게는 더욱 그러합니다. 특정 가격대는 비용 절감 기회를 찾고 있는 고객들의 수요를 자극할 수 있습니다. 이러한 동향은 이미 Intel 및 AMD의 Rome 및 Milan 시리즈에도 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1740,10 +1808,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel의 최신 4세대 Xeon 확장형 프로세서 Sapphire Rapids의 경쟁 상대는 AMD Genoa",
     "text": "안타까운 것은 좋은 제품은 그냥 주어지지 않는다는 것입니다. Sapphire Rapids의 가격은 AMD Genoa보다 두드러지게 높았고, AMD Genoa는 가격 대비 성능면에서 더 효율적인 선택지가 될 것이라고 여겨집니다. Sapphire Rapids와 AMD Genoa 간의 경쟁이 계속됨에 따라 고객들은 앞으로 몇 달 동안 채택률과 전체 시장 점유율을 모니터링할 것입니다. Intel의 충성 고객들은 비용 때문에 더 새로운 모델보다 이전 세대인 Ice Lake와 Cascade Lake Refresh를 계속 사용할 가능성이 클 것입니다.",
     "detected_vendors": [
       "Amd",
@@ -1757,10 +1826,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "2022년 4분기 사상 최저치에 이은 CPU 시장의 수요 변화",
     "text": "노트북 및 데스크톱의 출하량이 크게 감소함에 따라 2022년 4분기 CPU 판매가 사상 최저치로 떨어졌습니다. 이러한 상황은 주로 Intel과 AMD의 PC 산업에 영향을 주었지만 양사는 난기류를 능동적으로 관리하기 위한 조치를 취하고 있습니다. 주요 전략은 CPU 출하량을 줄이는 것이며 정책을 시작한 이후 두 회사의 CEO가 투명성을 유지하고 있습니다. 그러나 AMD는 수요가 개선됨에 따라 이 전략이 1분기에 덜 사용될 것이라고 밝혔습니다.",
     "detected_vendors": [
       "Amd",
@@ -1774,10 +1844,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU 고객, 비용 절감 기회를 위해 오픈 마켓으로 전환",
     "text": "Intel Sapphire Rapids 및 AMD의 Genoa에 대한 수요는 미미하지만 더 많은 고객이 이러한 제품으로 전환함에 따라 수요가 증가할 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd",
@@ -1789,12 +1860,12 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC 시장의 하락세에 비용 절감으로 인한 수요 증가",
     "text": "비용 절감 기회는 특정한 핫 스폿을 창출하려는 수요를 발생시켰지만, PC 시장은 몇 가지 이유로 하락세에 있었습니다. Intel과 AMD는 공식 유통업체 공장의 부품 소비량을 면밀히 모니터링해 왔으며 여기에는 이들이 쏟아내거나 취소하고 있는 주문이 포함되어 있었습니다. 결과적으로 유통업체들은 제시간에 부품을 가져오도록 고객들을 압박하고 있습니다. 이러한 요인 중 일부는 제조업자의 또 다른 가격 조정에 대한 원인이 될 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1810,10 +1881,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC 시장의 하락세에 비용 절감으로 인한 수요 증가",
     "text": "보고서에 따르면 AMD의 경우, 특정 고객에 대해서는 출하가 보류되었습니다. 이에 따라 공식 유통업체의 재고 보류가 발생했습니다. 전체 지연 범위는 두고 봐야 하지만, Rome 및 Milan 시리즈에 상당한 영향을 미쳤습니다. 현재 AMD 유통업체들은 재고에 대한 우려로 인해 수요가 계속되고 있음에도 신형 Genoa EPYC 유치를 주저하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -1824,11 +1896,11 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "Cascade Lake, Cascade Lake Refresh, Milan 및 Rome 시리즈는 Intel과 AMD에서 여전히 1위를 차지하고 있습니다.",
     "detected_vendors": [
@@ -1843,10 +1915,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "이전 시리즈, Intel 및 AMD에서 여전히 가장 인기 있어",
     "text": "Intel의 Sapphire Rapids와 AMD의 Genoa 서버 CPU에 대한 문의가 증가하고 있습니다. 두 CPU의 채택 증가는 대체로 AI 산업에서 비롯된 것입니다. 그러나 고객들은 공급 격차를 메우려는 노력보다는 주로 비용 절감을 위해 가격을 확인하고 있습니다. 오픈 마켓의 특가 제안은 제한적이며, 대부분은 평균 예약 리드 타임이 약 2~4주인 직접 가격을 기반으로 합니다. 공급업체들이 완충 재고를 구축하는 예방 조치를 취하지 않고 있어 오픈 마켓의 재고가 수요보다 많습니다.",
     "detected_vendors": [
       "Amd",
@@ -1860,13 +1933,13 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "CPU",
+    "category": "IC",
     "detected_categories": [
-      "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "이전 시리즈, Intel 및 AMD에서 여전히 가장 인기 있어",
     "text": "전반적으로 서버 구매자들은 Intel의 최상위 고객들보다 Ice Lake에 더 많은 관심을 보입니다. 현재 Ice Lake 시리즈는 수요의 약 60~70%를 차지하며, 특히 Cascade Lake Refresh 및 Cascade Lake와 같은 이전 시리즈가 주문의 대부분을 차지합니다. AMD의 경우, 고객들은 여전히 Milan 및 Rome 시리즈를 주로 사용하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1880,10 +1953,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "이전 시리즈, Intel 및 AMD에서 여전히 가장 인기 있어",
     "text": "이러한 품목을 제외하면 대부분의 Intel 및 AMD 서버 CPU 가격은 확실한 수요가 있는 한 협상이 가능합니다. 현재로서는 이러한 상황이 유지되고 있지만, ChatGPT 및 기타 AI 서비스를 둘러싼 관심으로 인해 서버 CPU 시장에 더 많은 부담이 가해질 수 있습니다. 수요가 안정적으로 유지될 경우, 가격 및 리드 타임은 변경될 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -1899,10 +1973,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC 고객의 최우선 순위는 여전히 비용 절감",
     "text": "AMD의 전략은 티어 1 고객에게는 직접 지원을 제공하는 반면, 유통업체의 경우 티어 2 고객에 의존하여 목표 매출을 유지하는 것이었습니다. 그 결과, 티어 2 고객에 대한 주문 처리는 제조업체의 부차적인 초점이라는 점을 고려할 때 순조롭게 진행되고 있습니다. 특히, AMD 모바일 CPU 판매는 적절하게 이루어지고 있으며, 특히 Ryzen 6000 및 Ryzen 7000 시리즈에서 두드러지게 나타나고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -1915,10 +1990,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC 고객의 최우선 순위는 여전히 비용 절감",
     "text": "AMD는 또한 최근 출시된 Ryzen 7000 모바일 APU에 이어 AI 산업을 전략적으로 타겟팅하여 증가하는 수요에서 혜택을 누리고 있습니다. AMD가 AI 고객을 위해 계속해서 더 많은 리소스와 용량을 할당하고 있는 가운데, 새로 출시된 7040 U 시리즈 프로세서의 성능을 지켜보는 것은 흥미로운 일이 될 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -1931,12 +2007,12 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
     "text": "AMD의 4세대 제노아 시리즈에 대한 수요도 비슷한 침체기에 있습니다. 이에 따라 공급업체들은 재고 과잉 문제를 피하기 위해 신중한 예측을 유지하고 있습니다. 또한 이전 두 시리즈인 밀라노와 로마의 재고 적체도 여전히 우려스러운 상황이며, 가격도 하락 추세에 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -1949,10 +2025,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
     "text": "그러나 AI 산업은 구매자가 CPU를 위해 Intel과 AMD를 찾으면서 서버 시장 회복에 박차를 가할 수 있습니다. 더 많은 기업이 AI 서비스를 워크스트림에 통합함에 따라 AI 수요의 잠재력은 더욱 높아질 것입니다.",
     "detected_vendors": [
       "Amd",
@@ -1966,10 +2043,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데스크톱 CPU 기대 꺾이고 게이밍 노트북 판매 증가",
     "text": "전반적으로 Intel 및 AMD의 데스크톱 CPU에 대한 수요는 약세로 여겨집니다. 618 쇼핑 축제로 인해 Intel 12세대 앨더 레이크 데스크톱 CPU를 중심으로 6월 중국 시장 거래가 증가할 것으로 예상되었으나, 연휴 이후 판매 실적은 기대에 부응하지 못했습니다.",
     "detected_vendors": [
       "Amd",
@@ -1983,10 +2061,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI, 클라우드, 데이터 센터 고객의 요구를 겨냥한 새로운 CPU",
     "text": "게다가, AMD는 이미 최신 제품인 EPYC 베르가모 CPU를 홍보하고 있는데, 이는 새로운 Zen4C CPU 코어를 특징으로 합니다. 이는 AMD에서 클라우드 및 데이터 센터 서버 산업을 위해 고안한 제품으로, 보도에 따르면 현재 시장의 하이엔드 서버 CPU 성능을 능가합니다.",
     "detected_vendors": [
       "Amd"
@@ -1999,10 +2078,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI, 클라우드, 데이터 센터 고객의 요구를 겨냥한 새로운 CPU",
     "text": "티어 1 고객은 AMD에서 6월 중순경에 출시한 프리미엄 CPU 분량을 우선으로 배송받습니다.",
     "detected_vendors": [
       "Amd"
@@ -2015,10 +2095,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공인 유통업체의 재고 압력 가중",
     "text": "Intel 및 AMD의 서버 CPU는 여전히 두드러지지 않습니다. 6월에 현물 수요와 거래가 증가했지만 티어 1 고객의 보수적인 구매 패턴 유지로 좋은 시기는 아니었습니다. 이에 오픈 마켓의 가격은 계속 하락하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2030,12 +2111,12 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공인 유통업체의 재고 압력 가중",
     "text": "고객이 점차 AMD 제노아 시리즈로 이동함에 따라 AMD 로마 및 밀라노 시리즈의 가격이 가장 큰 폭으로 하락했습니다.",
     "detected_vendors": [
       "Amd"
@@ -2048,10 +2129,11 @@
     "month": 8,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "산업용 PC가 수요를 주도하는 동안 여전히 약세를 보이는 데스크톱 CPU 시장",
     "text": "시장 활동이 정체된 상황에서 Intel과 AMD는 최고의 비용 절감 기회를 제공하여 수요를 확보하기 위해 경쟁하고 있습니다. 두 회사 모두에게 불행하게도 향후 1~2분기 내에 데스크탑 CPU 수요가 개선될 거라는 전망이 보이지는 않습니다.",
     "detected_vendors": [
       "Amd",
@@ -2066,10 +2148,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU 시장이 정체되었지만 새로운 제품으로 인해 활성화된 업계",
     "text": "데스크톱 CPU 시장 상황과 유사하게 Intel 및 AMD 서버 CPU 시장 상황은 지난 한 달 동안 미미했습니다. AMD의 경우 Genoa 시리즈의 수요가 개선되었지만 재고 문제로 인해 고객의 구매 행동은 여전히 보수적이었습니다. Intel의 경우 아직 대부분의 주문이 Ice Lake에 대한 건이며 Sapphire Rapids 시리즈의 수요는 약간 감소했습니다.",
     "detected_vendors": [
       "Amd",
@@ -2083,10 +2166,11 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD를 넘어선 Intel의 데스크톱 CPU 수요",
     "text": "반면, AMD의 상황은 Intel의 수요보다 훨씬 더 저조했습니다. AMD는 주문량을 다소 낙관적으로 전망하기는 했으나, 실제 주문량은 예상치보다 20%나 낮은 것으로 밝혀졌습니다. 수요와 거래가 저조한 가운데 AMD 공인 유통업체의 인력 감축에 관한 루머가 확산되고 있습니다. 어떤 변화든 PC CPU 협력사에 영향을 미칠 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2101,10 +2185,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
     "text": "AMD의 서버 시장 점유율은 계속해서 증가해 왔으며, 최근 CEO 발표에 따르면 이는 현재 25%를 돌파했습니다. 이는 TSMC가 4분기에 출시될 최신 Instinct MI300 시리즈 생성형 AI 가속기의 생산을 확정한 이후 나온 발표입니다. 오픈 마켓의 추세에 따르면 현재 AMD의 Milan 및 Genoa 시리즈 서버 CPU가 선호되고 있습니다. 수요가 주로 집중되는 시리즈는 다음과 같습니다.",
     "detected_vendors": [
       "Amd",
@@ -2118,10 +2203,11 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
     "text": "Intel 및 AMD 모두 수요가 예상치를 크게 밑도는 상황에서 서버 CPU 가격은 여전히 조정될 가능성이 높습니다.",
     "detected_vendors": [
       "Amd",
@@ -2136,10 +2222,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "DDR5 공급 제약의 심화로 안정되기 시작한 메모리 모듈 가격",
     "text": "한편, DDR5 모듈, 특히 고밀도 제품은 여전히 공급 문제를 겪고 있습니다. 이러한 제약을 시작으로 특정 서버 애플리케이션과의 역호환성 부족 문제가 결합하며 수요는 더욱 증가했습니다. 현재 서버에서 DDR5를 채택하는 것은 Intel Sapphire Rapids 및 AMD의 Genoa 시리즈를 채택하는 것을 의미합니다. 지금 클라우드 서비스 제공업체와 AI 서버 제조업체는 두 자릿수의 사용률을 간신히 넘었습니다. Sapphire Rapids를 사용하는 경우 약 7%에서 11%의 채택률을 보입니다. 내년 6월까지 채택률은 50%에 육박할 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
@@ -2155,10 +2242,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "현물 수요 외 서버 시장 활동, 4분기 내내 낮은 수요 유지",
     "text": "AMD의 밀라노 및 제노아 시리즈의 인기는 꾸준히 지속되고 있습니다. 한편, Intel은 일부 중형 코어 MPN 및 엔트리급 서버와 워크스테이션 CPU에 대한 수요 공급의 불균형을 겪고 있다고 알려졌습니다. 이러한 제약은 Saphire Rapids 64XX 및 E-2378G, E-2388G에 주로 영향을 주고 있습니다. 대부분의 주문에 대한 배송 리드 타임은 계속 불명확한 상태입니다.",
     "detected_vendors": [
       "Amd",
@@ -2175,10 +2263,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "중국 쇼핑 축제를 위한 제조업체 공급 준비",
     "text": "소매업체들은 데스크톱 CPU의 경우 \"K\" 및 \"KF\" 접미사, 노트북 CPU의 경우 \"P\" 및 \"H\" 접미사 제품에 대한 수요가 집중될 것으로 예상하고 있습니다. Intel 외에도, 중국의 1등급 게이밍 고객들은 연휴를 앞두고 AMD 노트북 CPU의 배송을 앞당기고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2190,12 +2279,12 @@
   {
     "year": 2023,
     "month": 11,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "EOL 공지로 인해 CPU 시장의 가격 및 가용성에 변동 발생",
     "text": "AMD 측의 경우, Ryzen Threadripper Pro 7000 시리즈는 여전히 제한된 수량만 판매되고 있습니다. 연말과 2024년에 대한 예측이 구체화되면서 향후 몇 달 내에 가격 및 공급이 더욱 명확해져 가시성이 높아질 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -2208,10 +2297,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU 시장의 수요 부진 지속됨",
     "text": "서버 CPU 시장의 현물 수요와 거래는 주로 비용 절감 기회에 초점을 맞추고 있습니다. 일부 AMD 유통업체는 로마 및 밀라노 시리즈의 재고를 반품할 수 있었지만, 공급업체는 여전히 Intel 및 AMD 제품 모두에 대해 높은 재고를 관리하고 있습니다. 수요가 저조할 경우 유통업체는 제노아 시리즈의 반품을 받기 시작할 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2225,10 +2315,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
     "text": "AMD 노트북 CPU 수요는 Ryzen 5 7350U 및 Ryzen 7 7730U를 중심으로 지난 몇 주간 꾸준히 증가하고 있습니다. 7030 시리즈에 대한 제조업체의 공급 문제에 따른 유통업체의 할당 요청으로 인해 결과적으로 리드 타임이 연장되었습니다.",
     "detected_vendors": [
       "Amd"
@@ -2244,10 +2335,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
     "text": "이러한 제약은 더 최근 모델인 고성능 7035 시리즈로 생산이 집중되었기 때문으로 보입니다. 시황에 따르면 이달 중 AMD 노트북 CPU의 가격 조정 가능성이 예측됩니다. 이러한 가격 조정에 대한 대비로 티어 1 고객은 11월 말 낮은 가격에 부품을 확보하기 시작했습니다.",
     "detected_vendors": [
       "Amd"
@@ -2263,10 +2355,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데스크톱 CPU 고객, 여전히 비용 절감에 집중",
     "text": "대신 AMD의 경우 Ryzen 5 5600G 및 Ryzen 7 5700G를 중심으로 게이밍 데스크톱 CPU 수요가 증가했습니다. 가격은 인상되었고, 오픈 마켓 거래까지 꾸준히 증가하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2279,10 +2372,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU 둔화 추세 마침내 역전 돌입",
     "text": "한편 3세대 Milan 시리즈 및 4세대 Genoa 시리즈를 중심으로 AMD 수요도 증가했습니다. 3세대 Milan 시리즈 공급은 저조한 것으로 알려졌으며 AMD는 비용 수준을 유지하기 위해 가격 통제에 나섰습니다. AMD의 이러한 행보는 고객에게 4세대 Genoa로 업그레이드하기를 권장하는 시도입니다.",
     "detected_vendors": [
       "Amd"
@@ -2295,10 +2389,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "최근 미국 정부는 중국으로의 GPU 수출 금지 대상을 변경했습니다. 11월 중순 해당 조치가 발효되며 이전까지는 해당하지 않았던 NVIDIA, AMD, Intel의 GPU가 영향을 받고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2313,10 +2408,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "RTX 6000, RTX 4090, A30, A40, L4, RTX A6000 (Ampere), DGX, HGX 시스템 및 A100, A800, H100, H800, L40, L40S 등의 NVIDIA 제품이 최근 금지 대상에 올랐습니다. 또한 AMD의 MI250, MI300, Intel의 Gaudi 2 칩도 포함됐습니다.",
     "detected_vendors": [
       "Amd",
@@ -2331,10 +2427,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "꾸준히 유지된 PC 활동, 데스크톱 및 노트북 수요는 증가",
     "text": "전반적으로 AMD 노트북 및 데스크톱 수요는 지난 수개월 대비 소폭 감소하고 있습니다. AMD의 7030 시리즈 노트북 CPU 활동이 급증했지만, 고객들은 12월에 AMD로부터 할당을 받았고, 공인 유통업체에서는 1분기 수요가 약세를 보일 것으로 예측하고 있습니다. 따라서 제조업체는 현재 수요 전망의 균형을 더욱 안정화하기 위해 생산 능력을 줄이고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2349,10 +2446,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "고객들이 공급 문제를 겪는 가운데 서버 시장 수요 강세 지속",
     "text": "지난 몇 주 동안 Intel과 AMD 모두 서버 CPU 시장에서 수요가 강세를 보였습니다. 공급 문제를 겪는 고객이 늘고 있으며, Intel에서 서버 CPU에 대한 특별 가격 책정을 해제한 영향이 더해져 시장의 수요가 증가하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2366,10 +2464,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD의 Milan 및 Genoa 시리즈 인기 계속돼",
     "text": "AMD의 최적화된 재고 관리를 위한 감산 관련 소문이 있었음에도 Milan 및 Genoa 시리즈에 대한 오픈 마켓 활동의 주요 동인은 여전히 비용 절감입니다. AI 확산에 힘입어 전반적인 서버 CPU 수요는 꾸준히 증가할 것으로 기대되지만 이는 공급이 감소할 수 있으므로 변동할 수 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2382,11 +2481,11 @@
   {
     "year": 2024,
     "month": 2,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "AMD와 Intel에 대한 1분기 수요가 증가하고 있습니다.",
     "detected_vendors": [
@@ -2401,10 +2500,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "1분기 초 PC 시장 활동 개선",
     "text": "Intel 12세대 Alder Lake, 13세대 Raptor Lake 노트북 프로세서 및 AMD Ryzen 7030 시리즈에 대한 문의 증가와 함께 Intel Core 및 AMD Ryzen 노트북 프로세서 시장 활동이 개선되었습니다. 최근의 수요 추세를 기반으로 시장 조사에서는  2023년 말 예상치를 상회한 글로벌 PC 출하량이 2024년에도 회복세를 이어갈 것으로 낙관적으로 예측합니다.",
     "detected_vendors": [
       "Amd",
@@ -2418,10 +2518,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "1분기 초 PC 시장 활동 개선",
     "text": "또한 Intel Meteor Lake 및 AMD Ryzen 8000 Ryzen 시리즈의 최근 노트북 CPU 출시는 소비자 시장 전반의 수요에 맞춰 성능 개선 및 지정 AI 통합을 달성합니다.",
     "detected_vendors": [
       "Amd",
@@ -2435,10 +2536,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU 수요 증가세 계속",
     "text": "AMD의 경우, 특히 구형 Milan 시리즈를 중심으로 주문의 요인은 여전히 비용 절감입니다. AND의 공급 할당은 더욱 안정적으로 보이는 가운데, Genoa 시리즈에 대한 수요도 회복되고 있습니다. 공급사에서는 여전히 재고 확보에 관해 보수적인 태도를 견지하고 있으나, 현실적인 목표 가격 논의의 여지는 조금 더 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2453,10 +2555,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU 수요 증가세 계속",
     "text": "시황 전문가들은 특히 구형 ROME 시리즈를 포함한 서버 CPU 수요가 증가하는 점에 주목했습니다.  최근 1월의 비트코인 ETF 승인으로 인해 공급사에서는 암호화폐 채굴 산업에 힘입어 AMD 서버 CPU 수요도 증가할 것으로 봅니다. 이러한 수요 증가의 혜택을 볼 가능성이 큰 제품들은 AMD ROME SKU EPYC 7452, EPYC 7502, EPYC 7402, EPYC 7742, EPYC 7H12입니다.",
     "detected_vendors": [
       "Amd"
@@ -2469,10 +2572,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "게이밍 산업에서 성장하는 Intel PC 시장",
     "text": "AMD의 시장 수요는 Ryzen 9 7950X 데스크톱 CPU에 집중되어 있습니다. 예정된 리드 타임은 최소 8주입니다.",
     "detected_vendors": [
       "Amd"
@@ -2487,10 +2591,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "안정적인 수요 속에서 변함없이 지속되는 Intel과 AMD의 서버 CPU 경쟁",
     "text": "Intel과 AMD에 대한 문의 모두 동일한 비율을 유지하면서 지난달 서버 CPU 수요는 안정적이었습니다. Cascade Lake 및 Cascade Lake Refresh 공급이 대부분 회복되었습니다며 고객들은 다가오는 몇 주 동안의 확실한 할당을 보고하고 있습니다. 하지만 몇몇 SKU의 경우 여전히 긴 리드 타임을 보이고 있습니다. Sapphire Rapids, 특히 Platinum 시리즈에 대한 수요는 고객들이 비용을 절감하면서 증가하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2507,10 +2612,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "안정적인 수요 속에서 변함없이 지속되는 Intel과 AMD의 서버 CPU 경쟁",
     "text": "AMD의 경우 가장 수요가 높은 시리즈는 여전히 Milan과 Genoa 시리즈이며, 주로 EPYC 9554, EPYC 9654, Bergamo 시리즈 EPYC 9754입니다. EPYC 7643 및 EPYC 7713에 대한 수요는 일정 수준을 유지하고 있습니다. AMD 서버 CPU에 대한 공급은 일반적으로 안정적이며, 가격은 절충 가능한 수준입니다.",
     "detected_vendors": [
       "Amd"
@@ -2523,9 +2629,10 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "가상화폐 채굴자 사이에서 고성능 CPU 수요가 높아지고 있으며 AMD 제품 수요에 강력한 영향을 미치고 있습니다.",
     "detected_vendors": [
@@ -2540,10 +2647,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가상화폐 채굴자 사이에서 AMD 제품 수요 증가",
     "text": "Advanced Micro Devices(AMD)의 Ryzen 9 7950X 프로세서에 대한 수요가 눈에 띄게 급증했습니다. 이러한 급증은 고성능 CPU를 확보하려는 가상화폐 채굴자로 인해 발생했습니다. AMD의 Rome 시리즈 수요도 채굴 업계에서 증가했습니다. 채굴 업계 외의 고객들은 현재 시장 가격으로 AMD CPU에 투자하기를 꺼리고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2556,10 +2664,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가상화폐 채굴자 사이에서 AMD 제품 수요 증가",
     "text": "AMD의 서버 CPU 수요는 대부분 Genoa 시리즈에 집중되어 있습니다. 이 시리즈는 고성능 컴퓨팅(HPC) 및 AI 관련 장치의 애플리케이션을 위한 맞춤형 고성능 서버 CPU를 포함합니다. 가장 많은 수요를 보이는 프로세서는 EPYC 9684X 및 EPYC 9384X로, AI용 애플리케이션으로 인한 것입니다.",
     "detected_vendors": [
       "Amd"
@@ -2572,10 +2681,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "예상치 못한 수요 및 원자재 부족으로 인한 Intel PC 시리즈 공급 제약",
     "text": "2분기 첫 달은 AMD PC CPU 시장 활동이 하이엔드급 Ryzen 9 7950X, Ryzen Threadripper PRO 5995WX, Ryzen 9 5950x로 제한되면서 PC 시장이 상대적으로 저조했습니다.",
     "detected_vendors": [
       "Amd"
@@ -2588,10 +2698,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "12세대 Alder Lake 및 13세대 Raptor Lake의 비용 절감을 요청하는 고객들",
     "text": "AMD 모바일 CPU의 경우 고객이 유통업체와 직접 제조업체로부터 부품을 조금씩 조달하고 있기 때문에 시장 활동이 더욱 일정했습니다.",
     "detected_vendors": [
       "Amd"
@@ -2605,10 +2716,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "고객 업그레이드 및 전환에 집중하는 서버 시장 수요",
     "text": "Intel Ice Lake 및 Sapphire Rapids, AMD의 Genoa 시리즈를 중심으로 서버 CPU에 대한 오픈 마켓 활동이 조금씩 회복되고 있습니다. Intel Cascade Lake의 경우 공급업체들이 재고 압박으로 인해 부품 공급을 서두르면서 수요와 가격이 하락세를 보이고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2622,10 +2734,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "고객 업그레이드 및 전환에 집중하는 서버 시장 수요",
     "text": "AMD의 경우 이전에는 Rome 및 Milan 시리즈에 대한 수요가 꾸준했지만, 이제는 고객들이 Genoa 시리즈로 전환하면서 수요가 감소하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2636,13 +2749,13 @@
   {
     "year": 2024,
     "month": 5,
-    "category": "CPU",
+    "category": "IC",
     "detected_categories": [
-      "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
     "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다.",
     "detected_vendors": [
       "Amd"
@@ -2657,10 +2770,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD Milan의 리드 타임 확대",
     "text": "AMD의 EPYC Genoa-X 시리즈도 비슷한 수요 증가를 겪고 있어서 공급이 더 부족합니다. 영향을 받는 제품에는 EPYC 9684X 및 EPYC 9384X가 포함됩니다.",
     "detected_vendors": [
       "Amd"
@@ -2675,10 +2789,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재고 압박에 영향을 미치는 서버 시장 가격",
     "text": "고객들이 시장 공급이 양호한 구형 모델을 선호함에 따라 AMD는 Genoa 시리즈의 도입을 계속해서 늦추고 있습니다. 하지만 다가오는 EPYC Turin 시리즈 출시로 인해 구형 시리즈의 수요 및 공급이 영향을 받을 수 있는데, 이는 고객과 유통업체에서 신제품으로 전환하기 때문입니다. 출시 시기는 연말이 될 가능성이 높습니다.",
     "detected_vendors": [
       "Amd"
@@ -2692,10 +2807,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "DDR 제조사들의 메모리 가격 증가세 지속",
     "text": "Micron은 3분기를 시작하면서 LPDDR5 메모리의 가격을 15% 인상한다고 발표했습니다. 이번 가격 인상은 AI 애플리케이션에 대한 높은 수요 및 구성 요소가 가진 AMD 기반 PC와의 독점적인 호환성에서 비롯되었습니다. LPDDR5 공급은 아직도 늘어나는 수요를 따라가지 못하고 있으며, 예측에 따르면 이러한 추세는 Chromebook, 휴대용 장치, 모빌리티 제품의 추가 출하량 덕분에 하반기까지 이어질 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
@@ -2711,10 +2827,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
     "text": "이러한 제약에도 수요 적체는 양호한 편이며 곧 회복될 것으로 예상됩니다. 한편, AMD의 MI300X 가속기는 초기에 경쟁 제품인 NVIDIA H100 GPU를 찾던 고객에게서 넘어온 수요로 혜택을 보고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2728,12 +2845,12 @@
   {
     "year": 2024,
     "month": 8,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 CPU 시장: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
     "text": "고객이 비용 효율적인 계획 수립을 우선하면서 기존 PC에 대한 수요는 부진합니다. 이러한 추세로 인해 노트북 제조사의 주문이 감소하여 2차 및 3차 공급업체에 영향을 미치고 있습니다. AMD의 경우 노트북 고객 주문이 10~15% 감소하였으며, Intel의 경우 공급이 양호하기 때문에 전반적인 수요가 안정적인 것으로 알려졌습니다.",
     "detected_vendors": [
       "Amd",
@@ -2747,10 +2864,11 @@
     "month": 8,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 CPU 시장: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
     "text": "공급 측면에서는 2024년 3분기 말까지 Intel의 노트북용 Meteor Lake H 시리즈 CPU와 Chromebook용 12세대 Alder Lake N 시리즈 ATOM CPU(N200, N300, N305)에서 약간의 공급 제약이 있을 것으로 예상됩니다. 또한 AMD는 데스크톱 CPU의 수주 리드 타임을 2~3주 연장했으며, 수익성이 높은 AI 관련 제품에 생산력을 재할당하기 위한 것일 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2769,10 +2887,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 CPU 시장: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
     "text": "Intel은 2024년 3분기에 Lunar Lake CPU를 출시할 계획이며, AMD는 최근 Ryzen AI 9 365 및 Ryzen AI 9 HX 370에 LPDDR5X 버전을 제공하는 등 AI 300 시리즈에 집중하고 있습니다. 두 기업 모두 AI 가속화와 같은 발전하는 시장 수요를 충족하기 위해 서비스를 강화하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2786,10 +2905,11 @@
     "month": 8,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "서버 CPU: 공급 제약을 마주한 Intel, 성과를 얻는 AMD의 Genoa 시리즈",
     "text": "AMD의 4세대 Genoa 시리즈 서버 CPU는 특히 아시아 이외의 시장에서 꾸준한 시장 활동을 보이고 있으며, 이는 최근 전체 수요 중 약 70%를 차지합니다. 유통사들은 Genoa EPYC 프로세서(예: EPYC 9124, 9654, 9754, 9534, 9554)에 대한 높은 시장의 관심을 보고하고 있으며, 오픈 마켓 가격은 경쟁 압박으로 인해 협상 가능성이 높습니다.",
     "detected_vendors": [
       "Amd"
@@ -2803,10 +2923,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "기업용 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RDIMM",
     "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2821,10 +2942,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "CPU 시장은 부문별로 상반된 상황을 보이고 있으며, 특정 부문에서는 공급이 제한되고 있습니다. 인텔과 AMD는 각각 고유한 공급 문제에 직면해 있지만, 전반적인 가격은 아직 안정적입니다. 다만, 특정 서버 CPU의 소규모 부족과 수요 증가로 인해 앞으로 몇 달 동안 시장 변동이 예상됩니다. 인텔은 구형 제품을 단계적으로 중단하고, AMD는 생산 지연 문제를 겪고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2838,12 +2960,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "AI PC, 데이터 센터 및 엔터프라이즈 부문 수요: 인텔, AMD, 엔비디아의 최신 실적 보고서에 따르면, AI PC 시장이 급격히 성장하며 2026년까지 점유율이 10% 미만에서 50% 이상으로 확대될 것으로 예상됩니다. 또한, 데이터 센터 및 엔터프라이즈 부문에서도 AI 기술의 발전에 힘입어 강한 수요가 나타나고 있습니다. 금융, 의료, 소매, 자동차 등 주요 산업이 성능 개선 및 AI 기반 애플리케이션 도입을 위해 시스템을 업그레이드하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2858,10 +2980,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "인텔 아이스 레이크 서버 CPU 제품 수명 주기 변화: 인텔은 아이스 레이크 서버 CPU의 수명 주기를 단계적으로 종료하고 있으며, 구형 모델에 대한 지원을 축소하고 있습니다. 이에 따라 고객들은 차세대 모델로 전환하고 있으며, 인텔의 특별 할인 정책 부재로 AMD가 시장 점유율을 확대하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2875,10 +2998,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "AMD 서버 CPU 부족: AMD의 7713 서버 CPU는 특정 고객들이 생산 용량을 독점적으로 구매하면서 시장에 부족 현상이 발생하고 있습니다. 또한, 7713 시리즈에 대한 AMD의 출하 취소로 인해 서버 및 데스크톱 CPU 모두에서 공백이 발생할 수 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -2893,10 +3017,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "인텔 Sapphire Rapids 및 Emerald Rapids 수요 증가: AMD의 공급 부족 상황 속에서 데이터 센터와 엔터프라이즈 고객들은 고성능 컴퓨팅(HPC), AI, 클라우드 솔루션을 찾으며 인텔의 Sapphire Rapids 및 Emerald Rapids 금·플래티넘 CPU 수요가 증가하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2912,10 +3037,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "AMD Genoa 서버 CPU 지연: AMD의 4세대 Genoa 9004X 시리즈는 낮은 수율과 대만 TSMC의 칩-온-웨이퍼-온-서브스트레이트(CoWoS) 패키징 병목 현상으로 인해 두세 달의 지연이 발생하고 있습니다. TSMC의 고급 패키징 용량이 5월부터 전부 예약된 상태라 AMD의 차세대 Nvidia 제품 지원 능력도 제한되고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2930,10 +3056,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요: Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2948,10 +3075,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
     "detected_vendors": [
       "Amd",
@@ -2967,10 +3095,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 CPU",
     "text": "모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다.",
     "detected_vendors": [
       "Amd",
@@ -2988,10 +3117,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "모바일 CPU",
     "text": "AMD 모바일 CPU 수요 증가: 유통업체들은 AMD Ryzen 5000, 7000, 8000 시리즈에 대한 오픈마켓 수요가 증가하고 있음을 보고하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3004,10 +3134,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데스크탑 PC",
     "text": "데스크탑 PC 시장은 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다.",
     "detected_vendors": [
       "Amd",
@@ -3023,10 +3154,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데스크탑 PC",
     "text": "Intel 보증 연장: Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3040,10 +3172,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데스크탑 PC",
     "text": "AMD 시장 점유율 증가: Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3055,13 +3188,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3073,13 +3206,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
@@ -3091,13 +3224,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3109,12 +3242,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 IC",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
       "Amd"
@@ -3131,9 +3264,10 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "2025년 2월그린시트는 Fusion Worldwide가 주기적으로 발행하는 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 2월 호에서는 7개 제품 그룹의 심층적인 트렌드 업데이트와 STMicroelectronics,인텔(Intel), AMD, Nvidia 등 주요 제조업체에 대한 통찰을 제공합니다. 그리고 변화하는 글로벌 공급망 혼란과 가격 변동의 잠재적 영향도 탐구합니다.",
     "detected_vendors": [
@@ -3150,10 +3284,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약과 변화하는 수요",
     "text": "AMD의 EPYC Turin 서버 CPUs에 대한 수요가 급증했지만, 특히 고성능 모델의 경우 공급이 여전히 제한적이어서 할당이 어려운 상황입니다.",
     "detected_vendors": [
       "Amd"
@@ -3166,12 +3301,12 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약과 변화하는 수요",
     "text": "AMD 7713 단축 할당 문제는 3월 말 생산 계획 변경으로 해결될 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd"
@@ -3186,10 +3321,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약과 변화하는 수요",
     "text": "AMD의 3세대 Milan 및 4세대 Genoa CPUs는 현재 워크로드 요구를 충족하며 경쟁력을 유지하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3200,12 +3336,12 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "GPU",
+    "category": "Other",
     "detected_categories": [
-      "GPU"
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 문제 속 Nvidia의 강세",
     "text": "AMD 7900XTX(24GB)는 Deepseek R1 Distill AI 모델에서 NVIDIA 4080보다 20~30%, 4090보다 10% 더 높은 성능을 보이며, 더 낮은 가격과 전력 소비를 제공합니다.",
     "detected_vendors": [
       "Amd",
@@ -3219,9 +3355,10 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "2025년 3월 그린시트는 Fusion Worldwide가 주기적으로 발행하는 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 2월 호에서는 7개 제품 그룹의 심층적인 트렌드 업데이트와 STMicroelectronics,인텔(Intel), AMD, Nvidia 등 주요 제조업체에 대한 통찰을 제공합니다. 그리고 변화하는 글로벌 공급망 혼란과 가격 변동의 잠재적 영향도 탐구합니다.",
     "detected_vendors": [
@@ -3238,10 +3375,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 시장 조정과 수요 변동",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 시장 조정과 수요 변동",
     "text": "AMD의 EPYC Turin 서버 CPU에 대한 수요는 계속 증가 중이며, 프로젝트 확대가 늘고 있지만 공급은 여전히 타이트하고 배정 확보가 어렵습니다.",
     "detected_vendors": [
       "Amd"
@@ -3256,10 +3394,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 시장 조정과 수요 변동",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 시장 조정과 수요 변동",
     "text": "AMD의 3세대 Milan과 4세대 Genoa 서버 CPU는 기업용 컴퓨팅 및 AI 워크로드에서 꾸준한 수요를 보이고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3272,10 +3411,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 시장 조정과 수요 변동",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 시장 조정과 수요 변동",
     "text": "Intel과 AMD는 데스크탑 CPU의 신규 리프레시 주기를 준비 중이며, AI 가속 기능이 수요를 견인할 것으로 예상됩니다.",
     "detected_vendors": [
       "Amd",
@@ -3287,12 +3427,12 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "GPU",
+    "category": "Other",
     "detected_categories": [
-      "GPU"
+      "Other"
     ],
-    "section_raw": "GPU 가격 변동성과 시장 수요",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가격 변동성과 시장 수요",
     "text": "AMD의 7900XTX는 AI 모델 처리 성능이 우수하여, 비용 효율적인 대안으로 데이터센터 채택이 늘고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3306,10 +3446,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "2025년 낙관적 전망",
     "text": "AMD는 데이터센터, AI, 클라이언트 컴퓨팅의 성장에 힘입어 2025년 두 자릿수 매출 성장을 예상하고 있습니다. 특히 AI GPU와 기업 AI 도입에서 강세를 유지할 것으로 보고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3322,10 +3462,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "AMD의 EPYC Genoa와 Turin CPU에 대한 수요는 여전히 강세를 보이고 있으며, 특히 엔터프라이즈 AI 워크로드에서 두드러집니다.",
     "detected_vendors": [
       "Amd"
@@ -3336,12 +3477,12 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "GPU",
+    "category": "Other",
     "detected_categories": [
-      "GPU"
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "AMD의 7900XTX는 AI 워크로드에서 NVIDIA의 4080보다 우수한 성능을 제공하며, 효율적이고 강력한 솔루션을 원하는 비용 민감형 데이터 센터에서 점점 더 인기를 얻고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3356,10 +3497,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "슈퍼마이크로의 AMD 프로세서를 사용하는 메인보드에 대한 새로운 부족 현상이 발생했으며, 확정된 ETA는 제공되지 않았습니다.",
     "detected_vendors": [
       "Amd",
@@ -3375,10 +3516,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "미국은 중국을 대상으로 한 Nvidia H20 및 AMD MI308 등 AI 프로세서 수출을 제한했습니다.",
     "detected_vendors": [
       "Amd",
@@ -3392,10 +3534,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급업체 전반의 가용성 문제 및 비용 상승",
     "text": "AMD’s EPYC Turin 및Genoa CPUs는 AI 및 데이터 센터 분야에서 강한 성장세를 유지하고 있습니다. 그러나 수요가 예상을 초과하면서 공급은 여전히 부족한 상태입니다.",
     "detected_vendors": [
       "Amd"
@@ -3410,10 +3553,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급업체 전반의 가용성 문제 및 비용 상승",
     "text": "AMD Milan CPUs는 공급 긴축 및 가격 불안정이 나타나고 있으며, OEM은 2분기(Q2) 말까지 계약 단가 상승을 예측합니다.",
     "detected_vendors": [
       "Amd"
@@ -3426,10 +3570,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급업체 전반의 가용성 문제 및 비용 상승",
     "text": "AMD 임베디드 CPU 가격이 15–20% 상승하며 공급 부족 심화 및 산업 고객의 수요 증가를 나타냅니다.",
     "detected_vendors": [
       "Amd"
@@ -3445,10 +3590,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "AMD EPYC Turin은 AI 서버 수요로 인해 공급 제약이 심화; Milan 가격은 DDR5 전환 지연으로 인해 10% 상승",
     "detected_vendors": [
       "Amd"
@@ -3463,10 +3609,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "32코어 AMD 서버 CPU는 가격 개선이 예상됨",
     "detected_vendors": [
       "Amd"
@@ -3479,10 +3626,11 @@
     "month": 6,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "AMD, 데이터 센터 시장의 판도를 바꾸다 자신에게 유리하게: AMD는 경쟁력 있는 EPYC CPUs 들을 통해 10년도 안 되어 서버 CPU 시장 점유율을 50%까지 확대함",
     "detected_vendors": [
       "Amd"
@@ -3495,10 +3643,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 가격 변동 및 할당 문제",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 가격 변동 및 할당 문제",
     "text": "AMD 투린 시리즈의 수요는 고코어 수 프로세서를 요구하는 EU/미국의 강력한 수요로 증가하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3509,12 +3658,12 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU 가격 추세 및 공급 제약",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 가격 추세 및 공급 제약",
     "text": "AMD Ryzen 8000 시리즈는 극도로 제한된 가용성 문제에 직면해 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3527,10 +3676,11 @@
     "month": 8,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 가격 추세 및 공급 제약",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 가격 추세 및 공급 제약",
     "text": "AMD Turin 및 Genoa 서버 CPU 수요는 EU/미국의 고코어 프로세서 수요 증가에 힘입어 늘어나고 있으며, 더 긴 리드타임이 예상됩니다.",
     "detected_vendors": [
       "Amd"
@@ -3545,10 +3695,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "Nvidia, AMD, 중국 칩 판매 매출의 15%를 미국에 납부: 애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다.",
     "detected_vendors": [
       "Amd",
@@ -3564,10 +3715,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3585,10 +3737,11 @@
     "month": 9,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "리드타임 증가 및 EOL 통보",
     "text": "AMD의 Genoa 및 Turin 리드타임은 전반적으로 8주에서 20주 이상으로 전망됩니다. 9554와 같은 고코어 SKUs의 배정은 극도로 타이트하며 가격 인상도 확인되었습니다.",
     "detected_vendors": [
       "Amd"
@@ -3605,10 +3758,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 가격 추세 및 공급 제약",
-    "subheading": "",
+    "section_raw": "2025년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU 가격 추세 및 공급 제약",
     "text": "AMD 제노아 CPU 가격은 희소성을 반영해 상승세를 이어가고 있다. 구체적인 4분기 가격은 명시되지 않았지만, 서버 CPU에 대한 전반적인 시장 압박으로 인해 상승 압력이 지속될 것으로 보인다. 부족 현상은 고코어 수 처리기를 향한 EU/ US의 강한 수요 배경 속에서 발생하고 있다.",
     "detected_vendors": [
       "Amd"
@@ -3623,10 +3777,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가격 추세 및 공급 제약",
     "text": "AMD의 Genoa 및 Turin 서버 CPU는 이제 24주 리드타임에 직면하고 있다. 고객들은 AMD가 수요 예측을 “참고용”으로만 수락하고 실제 할당을 보장하지 않아, 핵심 프로젝트를 위해 오픈마켓 지원을 찾을 수밖에 없다고 보고하고 있다.",
     "detected_vendors": [
       "Amd"
@@ -3640,12 +3795,12 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로",
     "text": "자일링스XC7 시리즈는 원자재 공급 및 비용 영향으로 최근 리드타임이 14~23주로 연장되었습니다.",
     "detected_vendors": [
       "Amd"
@@ -3660,10 +3815,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "AMD 서버 CPU는제노아 및 투린 시리즈에서 지속적으로 공급 이슈를 겪고 있습니다. 특히 9554, 9654, 9334의 공급이 제한적이며, 예약 리드타임은 약 8~12주 수준입니다.",
     "detected_vendors": [
       "Amd"
@@ -3678,10 +3834,11 @@
     "month": 12,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU",
     "text": "서버 외 세그먼트에서는 AMD 데스크톱 CPU 리드타임이 3~4주로 안정화되어, 전반적으로 타이트한 시장에서 드문 긍정 요인으로 평가됩니다.",
     "detected_vendors": [
       "Amd"
@@ -3696,10 +3853,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 가격 추세 및 공급 제약",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU: 가격 추세 및 공급 제약",
     "text": "AMD는 2026년까지 서버 CPU 캐파가 전량 소진되었으며, 제노아 / 투린 리드타임은 24주 이상입니다. 클라우드 제공업체가 거의 전량을 흡수하고 있어, 채널 고객들은 배정 보장을 전혀 받지 못하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3715,10 +3873,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
     "detected_vendors": [
       "Amd",
@@ -3734,10 +3893,11 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "Xilinx Spartan-7 및 Lattice 디바이스의 리드타임은 AI 서버 수요가 패키징 및 유리 섬유 원자재를 잠식함에 따라 기존 8주에서 32~52주로 급증했습니다.",
     "detected_vendors": [
       "Amd",
@@ -3753,10 +3913,11 @@
     "month": 2,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU (서버, 데스크톱, 임베디드): 구조적 공급 부족 및 파운드리 전환",
     "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년 물량이 완전히 매진되었습니다. 주문 리드타임은 불확실한 상태이며, 고코어 SKU(9555P, 9654P)는 AMD가 하이퍼스케일러 AI 프로젝트를 우선 배정함에 따라 8개월 이상의 지연이 발생하고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -3773,10 +3934,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "3. AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년까지 전량 매진 상태이다. 예약 리드타임은 불확실하며, 고코어 SKU(9555P, 9654P, 9454P)는 하이퍼스케일러 AI 프로젝트 우선 배정으로 8개월 이상 지연되고 있다.",
     "detected_vendors": [
       "Amd"
@@ -3792,10 +3953,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU (서버, 데스크톱, 임베디드): 구조적 공급 부족 및 파운드리 전환",
     "text": "2. AMD 서버(EPYC)는 여전히 할당이 매우 제한적이며, 하이퍼스케일러 및 AI 관련 수요가 공급의 대부분을 계속 흡수하고 있습니다. 신규 주문에 대한 가시성은 제한적이며, 고코어 수 SKU의 리드타임도 연장되고 있습니다. 공급 상황에서 의미 있는 완화 조짐은 관측되지 않았습니다.",
     "detected_vendors": [
       "Amd"
@@ -3812,10 +3974,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "1. Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예: 6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다.",
     "detected_vendors": [
       "Amd",
@@ -3833,10 +3995,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "7. AMD 서버(EPYC) Genoa 및 Turin 시리즈는 엄격한 할당 상태가 지속되고 있으며, 하이퍼스케일러 및 AI 관련 수요가 계속해서 공급의 대부분을 흡수하고 있다. 고코어 수 SKU(-F 시리즈 주파수 최적화 모델 포함)는 리드타임이 장기화되고 있으며, 일부 고객은 공식 리드타임 12~16주 이상과 오픈마켓에서 개당 약 1,000달러의 프리미엄이 발생하고 있다고 보고하고 있다. 공급 상황의 실질적인 완화 조짐은 관측되지 않는다.",
     "detected_vendors": [
       "Amd"
@@ -3852,10 +4014,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "• Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
     "detected_vendors": [
       "Amd",
@@ -3874,10 +4037,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "• AMD 서버용 EPYC Genoa 및 Turin 시리즈는 2026년까지 전량 매진된 상태다. 고주파 '-F' 모델의 공식 리드타임은 12~16주 이상이며, 공개 시장 프리미엄은 대당 약 1,000달러 수준을 유지하고 있다. AI 및 하이퍼스케일러 우선 배정이 완화되는 조짐은 아직 나타나지 않고 있다.",
     "detected_vendors": [
       "Amd"
@@ -3891,12 +4054,12 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU (서버, 데스크톱, 임베디드): 구조적 공급 부족 및 파운드리 전환",
     "text": "AMD 고코어 수 SKU(예: 9575F)는 AI 프로젝트 우선 배정으로 인해 최대 40주(10개월)의 리드타임에 직면하고 있으며, OEM에는 어떠한 물량 할당 보장도 제공되지 않고 있다.",
     "detected_vendors": [
       "Amd"
@@ -3912,10 +4075,11 @@
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU (서버, 데스크톱, 임베디드): 구조적 공급 부족 및 파운드리 전환",
     "text": "AMD Turin “-F” 주파수 최적화 SKU(9275F, 9375F, 9475F)는 AI 프로젝트에 우선 할당이 이루어지면서 현재 최대 40주의 리드타임에 직면하고 있다. Tier 1 파트너도 예외가 아니며, 일반 Turin MPN 제품의 리드타임은 6~9개월에 달하고 있다.",
     "detected_vendors": [
       "Amd"
@@ -3931,10 +4095,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "7. Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3952,10 +4117,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "3. AMD 서버용 EPYC Genoa 및 Turin 시리즈는 여전히 엄격한 할당 상태이며, 클라우드 서비스 제공업체가 생산 물량을 흡수하면서 리드타임이 늘어나고 있습니다. 최대 256개 코어를 지원하는 6세대 EPYC ‘Venice’의 Tier 1 고객 대상 샘플 공급도 시작됐습니다.",
     "detected_vendors": [
       "Amd"

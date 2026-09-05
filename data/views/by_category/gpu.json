@@ -5,10 +5,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치",
-    "subheading": "",
+    "section_raw": "2020년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia GeForce RTX 2080 Ti 단종?",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -26,10 +26,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "스토리지",
-    "subheading": "",
+    "section_raw": "2020년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, RTX20xx 시리즈 단계적 단종",
     "text": "RTX20xx의 OEM 생산이 둔화되어 Nvidia의 새로운 RTX30xx 시리즈 GPU 칩셋 출시가 임박한 것이 아니냐는 추측으로 이어졌습니다. 3분기 말 또는 4분기 초 무렵에 출시될 것이라는 추측이 가장 유력합니다. 마지막 구매 일정이 발표되지 않았으며 가격은 안정적으로 유지되고 있습니다. 코로나19로 인해 RTX20xx 시리즈의 수요가 하락세에 있지만, 공급업체들은 RTX30xx 출시를 내다보고 있습니다. 하지만 대부분의 공급 물량은 9월까지는 시장에 풀리지 않을 것입니다. 공급업체들은 3분기가 되기까지 3~4개월 정도는 현재 재고분으로 대부분의 수요에 대응해야 합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -44,10 +44,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치 (스토리지)",
-    "subheading": "",
+    "section_raw": "2020년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "차세대 GeForce로의 전환 진행 중",
     "text": "차세대 GeForce 30xx 시리즈 출시를 앞두고 있는 상황에서, 기존 RTX 20xx 시리즈의 공급이 크게 줄어 새 제품 라인을 위한 길을 터주었습니다. 더욱이, RTX 2080 TI에 대한 수요가 꾸준하고 Nvidia가 5월 중순에 RTX2080Ti 칩셋을 단종함에 따라, 6월을 지나며 시장 가격이 약 5% 정도 상승 추세를 타고 있습니다. 시장의 재고 물량이 소진되고 나면 수요가 RTX2080 Super로 옮겨갈 것입니다. 몇몇 소식통은 2080 Super에 대한 문의가 이미 늘었다는 점을 지적했는데, 현재 리드 타임이 1-2주일 정도 늘어나고 있는 것으로 보입니다. 차세대 GeForce 30xx가 3분기에 출시될 것이라는 뉴스가 떠돌았습니다. 하지만 Nvidia는 어떤 공식 발표도 하지 않았고, 고객들은 새 모델이 출시되기 전까지 필사적으로 공급 격차를 적정 수준으로 관리해야 하는 상황입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -65,10 +65,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치 (스토리지)",
-    "subheading": "",
+    "section_raw": "2020년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 공급 제한으로 오픈 마켓으로 향하는 고객",
     "text": "시장에서 공급이 매우 제한된 GeForce RTX2080Ti에 대한 수요는 여전히 비교적 높습니다. 티어 2 및 티어 3 공급업체의 공급 중 일부만 수중에 넣을 수 있는 상황이라, 이제는 브랜드를 불문하고 GeForce RTX2080Ti라면 무조건 기꺼이 받겠다는 사용자도 있습니다. 다른 고객들은 RTX 2080 SUPER를 대체품으로 사용하는 것 이외의 다른 옵션이 남아 있지 않습니다. 결과적으로, RTX 2080 SUPER의 가격이 약 3~5% 증가했습니다. RTX 2080 SUPER용 칩셋 공급이 7월 이후로 중단될 것으로 예상되므로 이는 일시적인 해결책일 뿐입니다. 공급 제한으로 인해, 채널 파트너조차도 칩셋을 구하러 오픈 마켓으로 몰리고 있습니다. 한편, 제조업체들은 차세대 GeForce 카드로 전환할 준비를 하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -80,10 +80,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 공급 부족 때문에 공개 시장에 눈을 돌리는 고객들",
     "text": "GeForce RTX2080Ti에 대한 수요는 여전히 높고 시장 공급은 굉장히 제한적입니다. 일부 사용자들은 이제 극소량의 2차, 3차 공급업체 물량만 보이는 만큼, 브랜드와 관계없이 GeForce RTX2080Ti를 받아들이고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -96,10 +96,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 공급 부족 때문에 공개 시장에 눈을 돌리는 고객들",
     "text": "나머지 고객들에게는 RTX 2080 SUPER를 대체품으로 사용하는 것 외엔 다른 옵션조차 없습니다. 결과적으로 RTX 2080 SUPER의 가격이 3-5% 상승하였고, 7월 이후로 RTX 2080 SUPER 칩셋 공급이 중단될 예정이기 때문에 RTX 2080 SUPER를 대체품으로 사용하는 방법은 임시방편일 뿐입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -111,10 +111,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장장치",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "파일코인 채굴로 인한 GPU 수요 급증",
     "text": "차세대 GeForce 시리즈인 Nvidia GeForce RTX 30의 출시일이 9월 초~중순으로 예정되어 있습니다. 잠정적으로 RTX 3080이 먼저 출시되고 이어서 10월에 RTX 3070가 출시될 것으로 예상됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -128,10 +128,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장장치",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "파일코인 채굴로 인한 GPU 수요 급증",
     "text": "공식 출시 날짜가 아직 확정되지 않았기 때문에 RTX 20 시리즈에 대한 문의가 증가하고 있습니다. RTX 2080 시리즈의 단종이 발표되면서 발생한 공급 부족에도 불구하고 가상화폐 채굴활동으로 인해 GPU의 수요가 증가하는 상황입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -146,10 +146,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장장치",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "파일코인 채굴로 인한 GPU 수요 급증",
     "text": "RTX 2060과 더불어 GTX 16 시리즈도 가격이 5~10% 정도 상승했습니다. 파일코인 채굴은 보다 강력한 성능의 GPU를 필요로 하고 주로 중국 채굴꾼들이 채굴하기 때문에 중국에서 RTX 2080ti의 가격이 지속적으로 폭등했습니다. 고사양 GeForce 그래픽카드의 가격 상승세는 적어도 4분기까지는 지속될 전망입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -163,10 +163,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "4 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "그래픽 DRAM에 대한 갈망",
     "text": "4분기의 플래그십 게이밍 머신 수요 증대와 더불어 NVIDIA의 최신 그래픽 카드 제품군의 출시가 예상되면서, 광범위한 GDDR5/6의 공급 부족 현상이 나타나고 있습니다. 그에 상응해 시장 가격이 30% 이상 급등했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -182,10 +183,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
     "text": "NVIDIA가 마침내 GeForce RTX 30 시리즈 그래픽 카드의 신규 라인을 선보였습니다. 이번 출시를 준비하기 위해, NVIDIA는 생산능력의 약 80%를 새 카드 제조에 할당했습니다. 새로 출시 된 시리즈는 NVIDIA의 이전 모델 인 RTX 20 시리즈에 비해 인상적인 성능 향상과 훨씬 더 매력적인 가격대를 제공합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -201,10 +202,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
     "text": "RTX 30 시리즈는 이전에 가장 흔히 사용되던 TSMC 7nm 다이 대신에 삼성 8nm 다이를 기반으로 생산됩니다. NVIDIA 공급업체들은 이 점이 RTX 30 시리즈의 공급에 어떤 영향을 미치게 될지 복잡한 심경으로 지켜보고 있습니다. 일부는 RTX 30에 대한 공급 전망이 TSMC 포장 생산으로 인해 영향 받지 않아 안정적이라고 추측하는 반면, 다른 사람들은 삼성 8nm에 대한 주요 수요가 공급 부족을 초래할 것이라고 생각합니다.",
     "detected_vendors": [
       "Nvidia",
@@ -222,10 +223,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
     "text": "그 밖에도, RTX 2080Ti에 대한 시장 수요가 여전히 높습니다. 새로운 RTX 3080 모델이 거의 절반의 가격에 향상된 성능을 자랑하지만, 초기 리뷰에서는 높은 방열 요구 사항을 충족하기 위해 추가된 새로운 삼중 팬 설계가 서버 GPU 슬롯에 적합하지 않을 수 있다는 점을 보여주었습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -237,10 +238,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
     "text": "특정 지역에서 RTX 2080Ti 수요가 아직 있는 것으로 보이므로, 앞으로 몇 주간은 시장 가격이 떨어질 것으로는 예상하지 않습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -252,10 +253,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
     "text": "한편, AMD는 10월 28일에 차세대 GPU를 발표할 예정입니다. 일부 업계 전문가는 차세대 모델의 사양의 NVIDIA의 RTX 3000 시리즈의 사양에 필적하거나 더 나을 것으로 예측합니다.",
     "detected_vendors": [
       "Amd",
@@ -271,10 +272,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Quadro 시리즈 카드에 영향을 미치는 칩셋 공급 부족",
     "text": "최근에 칩셋 공급 부족으로 인해 Quadro 시리즈 카드의 배송 지연이 발생하고 있다는 소식이 들립니다. Quadro 시리즈 중에서 가장 큰 영향을 받는 모델은 RTX 6000입니다. 과거보다 1~2주일 더 리드타임이 늘어났음에도, 지역의 유통업체들이 RTX 6000 및 RTX 8000과 같이 공급의 어려움을 직면한 Quadro 모델에 대한 마케팅 활동을 줄이려고 한다는 소식도 들었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -289,10 +290,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "2 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia GeForce RTX 30 시리즈 그래픽 카드에 의한 연쇄 반응",
     "text": "Nvidia 에서 최신 GeForce RTX 30 시리즈 그래픽 카드의 첫선을 보일 때 PC 시장은 들떠 있었습니다. 게다가, Nvidia 의 2 세대 RTX 아키텍처는 Intel의 i9 10세대 및 9세대와 같은 고급형 데스크톱 CPU 에 대한 수요를 자극했습니다.",
     "detected_vendors": [
       "Intel",
@@ -304,13 +306,13 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "2 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia GeForce RTX 30 시리즈 그래픽 카드에 의한 연쇄 반응",
     "text": "이와 같이, 빌드에 Nvidia GeForce RTX 30 시리즈 그래픽 카드 (GeForce RTX 3090, RTX 3080, RTX 3070) 중 어떤 제품이든 포함되는 경우에는 늘어나는 리드 타임이나 공급 부족을 감안한 비상 계획을 세워야 합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -327,10 +329,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "분주 해 지는 GPU 업체",
     "text": "Nvidia의 새로운 라인 출시 이후로 GeForce RTX 30 시리즈 그래픽 카드의 수요가 급증하고 있습니다. RTX 30 그래픽 카드에 사용되는 삼성의 8nm 웨이퍼의 수율이 이전 버전보다 낮은 것으로 보고되었습니다. 현물 시장 가격은 3080과 3090 모두 공식 가격보다 30% 이상 높은 가격으로 치솟았으며, 더 인상 될 가능성도 있습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -345,10 +347,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "분주 해 지는 GPU 업체",
     "text": "압도적 수요로 인해, 기업 사용자는 어쩔 수 없이 이전의 RTX 20 시리즈로 되돌아가고 있습니다. 공급을 따라잡고 빠듯한 생산 일정에 숨통을 틔우기 위해, Nvidia는 RTX 3070의 출시를 연기했습니다. Nvidia 는 기존 수요를 더욱 잘 충족시키기 위해 12월로 계획했던 20GB 3080과 16GB 3070의 출시 일정도 취소했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -362,10 +364,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "분주 해 지는 GPU 업체",
     "text": "Nvidia와 직접적인 경쟁 관계에 있는 AMD 는 역시 이번 달 말에 출시 예정인 새로운 ‘Big Navi’ GPU 인 Radeon 의 RX 6000 시리즈 출시를 통해 Nvidia의 RTX 30 시리즈에 정면으로 맞서게 됩니다. AMD 의 ‘Big Navi’ 는 TSMC 7nm 다이를 통합한 제품으로, (Nvidia 의 RTX 30 시리즈에 사용되는) 삼성의 8nm 보다 수율이 높다고 합니다. 따라서 AMD 는 공급에 있어 Nvidia 보다 유리할 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -382,10 +384,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "5 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "분주 해 지는 GPU 업체",
     "text": "역사적으로, AMD 는 Nvidia 보다 낮은 가격 벤치마크를 설정했습니다. Nvidia 의 RTX 30 시리즈와 AMD의 ‘Big Navi’ 시리즈가 모두 성능면에서 비슷하다면 가격이 그래픽 부문에서 누가 승자로 떠오를지 결정하는 요인이 될 것 입니다.",
     "detected_vendors": [
       "Amd",
@@ -400,10 +402,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "지난달 비트코인 가격이 거의 30%까지 증가해 GPU 수요가 훨씬 늘어나게 되었으며 이미 공급이 제한된 시장을 악화시키고 있습니다. 이로 인해 연말까지 GPU 공급 부족 사태가 이어질 것으로 보음니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -417,10 +419,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "GDDR6 의 상당한 공급 부족 현상으로 인해 GPU 공급이 추가로 제한되었으며, 제조업체들은 수요를 따라잡기가 더 어려워졌습니다. 결과적으로 RTX 3060Ti 출시 일정은 11월 중순에서 12월 초로 연기되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -434,10 +437,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "또한 Nvidia RTX 3000 시리즈 GPU 는 주로 삼성의 8nm 생산 설비를 사용하는 Nvidia 로 인해 공급이 계속 낮아지고 있습니다. 이 생산 설비는 낮은 수율 문제가 있는 것으로 보고되었습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -452,10 +455,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "마지막으로, AMD 가 Nvidia 의 RTX 3000 시리즈에 대한 경쟁 제품으로 새로운 Radeon RX 6000 시리즈 GPU 를 공식 발표한 후 차세대 GPU 에 대한 싸움이 여전히 진행되고 있습니다. AMD 는 또한 Radeon RX 5700 과 같은 구세대 GPU의 생산을 중단하여 차세대를 위한 길을 닦고 생산 용량을 확보했습니다.",
     "detected_vendors": [
       "Amd",
@@ -471,10 +474,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "| 칩셋 사양 비교 | AMD Radeon RX 6900 XT | AMD Radeon RX 6800 XT | AMD Radeon RX 6800 | NVIDIA RTX 3090 | NVIDIA RTX 3080 | NVIDIA RTX 3070 |",
     "detected_vendors": [
       "Amd",
@@ -489,10 +492,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "| **평가 결과** | RTX 3090 대항 | RTX 3080 대항 | RTX 3070/2080 TI 대항 | - | - | - |",
     "detected_vendors": [
       "Texas Instruments"
@@ -506,10 +509,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "Nvidia 는 주로 AMD RX 6000 시리즈에 비해 가격과 기능적 성능 면에서 전혀 경쟁력이 없는 이유 때문에 RTX 3080 20GB, 3070Ti 및 3070 16GB 등 3가지 모델 출시 계획을 취소했다는 소문이 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -524,10 +527,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "3 메모리 (Memory)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "더군다나 AMD 는 새로운 워크스테이션/가속기 GPU 를 공개할 예정인 데, 11월 중순에 출시될 것으로 예상됩니다. 이 제품은 최근 출시된 Nvidia 의 A100 40GB 와 같은 Ampere 시리즈 워크스테이션 GPU와 대항할 것입니다. Nvidia 가 더 나은 수율을 위해 2021년 1분기까지 소비자 등급 GPU 생산을 TSMC 7nm 로 전환하여 공급을 늘리고 시장 점유율을 확보할 것이라는 시장 예측이 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -540,13 +543,13 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "1 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, CES 2021에서 새 CPU 발표",
     "text": "그 밖에도, AMD는 Radeon RX 6000 RDNA 2 GPU의 노트북 버전을 2021년 상반기에 공개할 계획입니다.",
     "detected_vendors": [
       "Amd"
@@ -561,10 +564,11 @@
     "detected_categories": [
       "GPU",
       "Memory",
+      "Other",
       "PCB"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "기업들이 공급 부족에 직면함에 따라 GPU 가격이 높게 유지",
     "text": "2020년 하반기에 뜨거운 관심과 수요를 일으킨 Nvidia의 RTX 30xx 시리즈 GPU는 여전히 강세를 보이고 있습니다. 하지만 Nvidia는 파운드리 협력사인 삼성에서 8nm 웨이퍼의 수율이 만족스럽지 않아 생산 문제에 직면했습니다. 더욱이, 일반적인 원자재 공급 부족과 가격 상승(예: PCB 보드 및 GDDR6 메모리 칩)도 Nvidia와 기타 GPU 제조업체에 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -581,10 +585,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "기업들이 공급 부족에 직면함에 따라 GPU 가격이 높게 유지",
     "text": "제조업체들은 공식적으로 가격을 인상했고 추가 비용을 유통업체에 떠넘기고 있습니다. 그럼에도 불구하고, 오픈 마켓 가격은 빠듯한 할당량과 제한된 제품 가용성 때문에 공식 가격을 초과하고 있습니다. 미국 기반의 고객에 관해서는 중국제 GPU 면세 혜택이 2020년 12월 31일에 만료되고 갱신되지는 않아 이들 제품에 25%의 관세가 추가로 부과되는 상태로 남습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -598,10 +603,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 활동이 시장 성장으로 이어져",
     "text": "예측한 대로, 암호화폐 시장 활황으로 채굴 활동의 현저한 증가로 이어졌습니다. 신형 RTX 3000 시리즈의 가용성이 떨어지므로, 많은 채굴자가 RTX 2060, GTX 1650, GTX 1660과 같은 구형 GeForce 카드를 사용하고 있습니다. 이들 카드의 공급은 제한적이고 가격은 오름세에 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -614,28 +620,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "채굴 활동 증가에 대응해, AMD는 전통적인 제조 및 유통 파트너를 통하는 방식 대신 다른 전략을 택해 암호화폐 채굴기를 직접 공급하고 있습니다. 이로 인해 많은 AMD 유통 파트너가 RX570, RX580, RX5700, RX5800을 포함한 모델에서 공급 부족에 시달리고 있습니다. 이는 지난해 PS5 도입으로 인한 공급 부족에 가중된 어려움입니다.",
-    "detected_vendors": [
-      "Amd"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 1,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, RX5000 시리즈의 수명 종료 발표",
     "text": "AMD는 신규 모델의 제한적 공급에도 불구하고 새로 출시된 RX6000 시리즈에 대한 수요를 촉진하기 위해 RX5000 시리즈의 수명 종료를 발표할 것으로 예상됩니다. RX5000 시리즈의 재고 수준과 가격이 회복될 것으로 예상할 수는 없습니다. AMD는 매출과 이익을 극대화하기 위해 독립 실행형 GPU가 아닌 더 큰 규모의 제품 패키지(예: 마더보드 포함)의 일부로 나머지 재고를 제공할 수 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -650,10 +639,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD, RX5000 시리즈의 수명 종료 발표",
     "text": "GPU 시장의 상층부에서는 기업 사용자들이 Tesla의 이전 세대 V100에서 새로운 A100 카드로 전환하기 시작했습니다. 이는 2020년 12월부로 수명이 종료된 16GB V100으로 상쇄되었습니다. 32GB 버전은 1분기 말이면 그 뒤를 이어 출시될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -664,10 +654,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 부족으로 GPU 가격 폭등",
     "text": "GPU의 공급이 계속해서 높아진 수요를 따라잡기 못하고 있습니다. TSMC와 삼성 같은 주요 파운드리가 모든 부문에서 높은 수요를 따라잡지 못하고 있는데, 특히 가전제품과 자동차 제조업체의 수요에 대한 공급 부족이 심합니다.",
     "detected_vendors": [
       "TSMC",
@@ -685,10 +676,11 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 부족으로 GPU 가격 폭등",
     "text": "CMOS, 전원 공급 컨트롤러, MCU, RF 구성요소, MEMS 등 수 많은 구성요소에 8nm 웨이퍼가 필요하므로, GPU 제조업체들은 이 원자재를 놓고 경쟁해야 상황입니다. 이 문제는 GPU에도 사용되는 ABF 기판 및 GDDR6 DRAM과 관련된 기존 공급 문제에 추가됩니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -699,10 +691,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 부족으로 GPU 가격 폭등",
     "text": "결국, 오픈 마켓 가격이 꾸준히 상승하고 있습니다. 설 연휴가 끝나면서 또 다시 급등하는 바람에, GPU 가격은 이제 공식 유통업체 가격의 거의 3배에 육박하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -713,10 +706,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, 특정 RTX 2000 모델 재출시",
     "text": "공급과 생산 문제에도 불구하고, CES 2021에 참가한 Nvidia는 2월 말에 출시될 새 GPU 모델 RTX 3060 12GB를 발표했습니다. 그에 상관없이, 삼성은 여전히 Nvidia의 새 RTX 3000 Ampere 시리즈를 위한 충분한 8nm 웨이퍼를 Nvidia에 공급하려 애쓰고 있습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -731,10 +725,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, 특정 RTX 2000 모델 재출시",
     "text": "Ampere 시리즈가 출시되기 전에 Nvidia는 RTX 2000 Turing 시리즈를 중단하고 신제품에 생산 능력을 할당했습니다. 그러나 RTX 3000의 생산에 영향을 미치는 부족으로 인해 Nvidia는 GPU 시장 수요를 충족하고 일반적으로 모든 모델의 공급 부족에 대처하기 위해 일부 RTX 2000 모델을 다시 도입했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -750,10 +745,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia에 전용 제품 라인이 생길 정도의 엄청난 암호화폐 수요",
     "text": "업계 소식통에 따르면, 최근에 암호화폐 채굴자의 수요 증가세가 워낙 강해 채굴자들이 Nvidia와 AMD로부터 GPU 대량 구매를 위한 직접 지원까지 받았다고 합니다. 최종 고객과의 직접 협력은 주요 제조 파트너와 긴밀히 협력하는 전통적인 유통 전략에서 벗어난 이례적인 일입니다.",
     "detected_vendors": [
       "Amd",
@@ -767,27 +763,12 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia에 전용 제품 라인이 생길 정도의 엄청난 암호화폐 수요",
     "text": "암호화폐 채굴 활동이 이처럼 높은 수준으로 이루어지는 상황이라, 사용 가능한 RTX 3060 공급의 상당 부분이 기존의 수요와 억눌린 수요를 충족시키지 못할 것으로 예상됩니다. 이에 대응하여, Nvidia는 이 부문을 위한 새로운 전용 GPU 제품 라인인 Nvidia CMP(Cryptocurrency Mining Processor)를 발표했습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 2,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "6 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "Nvidia의 새로운 CMP 제품 라인의 성공은 이 회사의 8nm 웨이퍼 확보 능력에 달려 있습니다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -801,10 +782,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
     "text": "GPU 유통업체들은 암호화폐 채굴 활동으로 인해 Nvidia AIC('애드인' 파트너)가 지난 2개월 동안 RTX 3060 Ti 칩셋 공급을 받지 못하고 있는 실태를 공유했습니다. 이를 해결하기 위해, Nvidia는 암호화폐 채굴자를 대상으로 삼아 범용 그래픽 카드로부터 이 수요를 분리하기 위해 CMP(암호화폐 채굴 프로세서) 카드를 출시했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -817,10 +799,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
     "text": "이는 Nvidia의 새 모델 인 RTX 3060 12GB가 출시 된 이후에 나온 것입니다. 이 모델은 채굴자를 막기위한 전술로 이더 리움 채굴 효율성을 50 %까지 낮추도록 의도적으로 프로그램되었습니다. 하지만 암호화폐의 가치가 높게 평가되어 있어, 채굴자들이 이 소프트웨어를 우회하고 있고 범용 그래픽 카드를 사용하고 있는 것으로 알려졌습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -833,10 +816,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
     "text": "Nvidia는 4월이나 5월 중에 출시될 것으로 예상되는 이들 제품을 암호화폐 채굴자가 구매하지 못하도록 하려고 RTX 3080 Ti와 RTX 3070 Ti에도 유사한 전략을 시도할 수 있습니다. Nvidia가 해결책을 찾지 못하면 채굴자들이 CMP GPU를 그대로 공급받으면서도 계속 게이머와 기타 최종 사용자보다 더 비싼 값을 부를 것입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -849,10 +833,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
     "text": "Nvidia의 두 가지 새로운 모델인 A4000 and A5000은 기존의 Quadro RTX 4000과 RTX 5000 GPU를 대체할 것으로 예상됩니다. 구형 모델들이 단계적으로 단종됨에 따라, 오픈 마켓에서 마지막으로 구할 수 있는 재고 물량을 얻기 위한 문의가 또 한 번 증가 할 것으로 예상됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -867,10 +852,11 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수요 충족을 위해 애쓰는 GPU 공급업체",
     "text": "AMD의 최신 GPU 시리즈인 Radeon RX6000과 Nvidia의 RTX 3000 시리즈의 공급은 여전히 빠듯합니다. Nvidia는 여러 메이커가 출시한 새 노트북을 비롯해, 다양한 사업분야 시장의 수요에 부응하느라 계속 애를 먹고 있습니다. CMP GPU를 통해 암호화폐 시장을 더욱 세분화하려고 계속 노력 해 왔습니다.",
     "detected_vendors": [
       "Amd",
@@ -885,10 +871,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "Other",
       "PCB"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수요 충족을 위해 애쓰는 GPU 공급업체",
     "text": "일부 공급업체는 Nvidia의 RTX 3070 공급이 향후 몇 주 내에 약간 개선될 수 있다는 소식을 듣고 있지만, 공급에 비해 높은 수요 현상으로 가격이 계속 오를 것으로 예상하고 있기도 합니다. 게다가 Nvidia는 PCB와 구성 부품 공급 부족으로 인해 투입 비용 증가에 직면하고 있습니다. 이런 비용은 더 높은 가격을 통해 공급망으로 그대로 반영되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -904,10 +891,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "그래픽 카드 공급 부족으로 애먹는 AMD",
     "text": "오픈 마켓에서 AMD의 Ryzen 5000 시리즈에 대한 공급량이 적습니다. 더욱이, 이 CPU에 필요한 그래픽 카드가 극히 부족해 오픈 마켓 가격이 매우 높게 형성되어 있습니다. 이로 인해 고객은 11 세대 Tiger Lake 데스크탑 CPU와 같은 Intel의 다른 데스크탑 제품으로 전환하게되었습니다.",
     "detected_vendors": [
       "Amd",
@@ -923,10 +911,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC와 워크스테이션 제작업체를 우선시하는 Nvidia",
     "text": "Nvidia의 RTX 3000 시리즈 GPU에 대한 수요는 계속해서 공급을 초과하고 있습니다. Nvidia는 이러한 그래픽 카드를 게이머를 위해 만들려고 하지만, 공급은 주로 PC와 워크스테이션에게로 치중 되었습니다. 이로 인해 많은 게임 제작업체가 냉대를 당해, 높은 가격을 부담하거나 ETA 없이 향후 지원을 기다리는 대신, 3000 시리즈 카드가 포함된 사전 조립 PC를 구매해야 했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -939,10 +928,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC와 워크스테이션 제작업체를 우선시하는 Nvidia",
     "text": "Nvidia는 원래 의도했던 최종 사용자에게 공급 물량이 더 많이 갈 수 있도록 암호화폐 채굴자가 자사의 그래픽 카드를 사용할 수 없도록 할 방법을 계속 연구하고 있습니다. 이 회사가 지난 2월에 마이닝 리미터 (hash rate limiter ) 도입했던 시도는 암호화폐 채굴자들이 제한기를 우회하는 방법을 고안하면서 실패로 돌아갔습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -955,29 +945,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "Nvidia는 현재 6월 초에 배송을 시작할 것으로 예상되는 새로운 '라이트 해시 레이트' ( 리미터)모델을 출시할 예정이며, 이는 암호화폐 채굴자에게 또 다른 장애물이 될 것입니다. 이 새로운 기능은 최근의 비트코인 가격 하락과 함께하여, 채굴자가 새로운 모델에 대한 또 다른 해결책을 찾지 못한다고 가정할 때 앞으로 몇 달에 걸쳐 수급 문제를 개선해 줄 수도 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Price Decrease",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 6,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC와 워크스테이션 제작업체를 우선시하는 Nvidia",
     "text": "다른 소식으로, Nvidia의 Quadro 시리즈 공급 역시도 빠듯하다고 합니다. RTX4000, RTX5000 및 RTX6000의 리드 타임이 8~10주로 늘었습니다. 그 밖에도, 일부 벤더가 제조업체의 예상 출하일을 추측하지 못하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -993,10 +965,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "PC와 워크스테이션 제작업체를 우선시하는 Nvidia",
     "text": "공인 유통업체들은 GPU에 필수적인 메모리 가격 상승으로 인해 5월에 전반적인 가격이 다시 한 번 올랐다는 데 의견을 같이했습니다. 새로운 가격은 5월 이후의 신규 할당과 출하 물량에 적용됩니다. 고객은 인상된 가격을 받아들이거나 주문을 취소해야 합니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1010,10 +983,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 공급을 기다리는 고객들",
     "text": "AMD의 GPU 공급이 여전히 부족한 상황입니다. AIB(Add-In-Board) 파트너는 수중에 GPU 재고가 남아 있지 않고 AMD의 공급을 기다리는 동안 5월 말부터 생산이 중단되었다는 소식을 공유했습니다. 3분기 GPU 공급이 2021년 상반기보다 훨씬 더 안 좋아 질 것을으로 예상됩니다. 공급 부족 상황이 2022년까지 계속될 것 같습니다. 특히 AMD의 RX5700과 RX6800에 제한적 입니다.",
     "detected_vendors": [
       "Amd"
@@ -1028,10 +1002,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴이 타격을 받으면서 GPU 수요 감소",
     "text": "암호화폐 채굴이 여러 번 타격을 받아 디지털 통화와 GPU처럼 채굴 작업에 사용되는 부품의 가격이 하락하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1042,10 +1017,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴이 타격을 받으면서 GPU 수요 감소",
     "text": "수요 감소와 Nvidia의 새로운 보안 기능인 LHR(Lite Hash Rate)로 인해 GPU 가격이 급격히 하락했는데, LHR은 Nvidia 측에서 채굴자가 새로운 30 시리즈 카드를 사용하지 못하도록 시도한 이전 조치보다 더 큰 효과를 보였습니다. 이런 수요 감소의 유일한 예외는 Nvidia의 RTX 3090으로, 여전히 공급이 빠듯하고 가격이 뛰고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1058,43 +1034,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "중국 정부의 채굴 단속이 전 세계적으로 수요를 위축시켰지만, 채굴 활동의 거점이 카자흐스탄과 같은 다른 지역으로 이동했습니다. 카자흐스탄은 암호화폐를 지지하는 입장을 취하고 있을 뿐 아니라, 중국에 비해 낮은 에너지 비용 등의 다른 요인 때문에 이 지역의 암호화폐 채굴장 수요가 증가할 것으로 예상합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "이런 소식에도 불구하고, Nvidia는 소화해야 할 막대한 수주 잔고를 안고 있어 당분간은 공급 제약에 시달릴 것으로 예상합니다. Nvidia는 가장 인기 있는 제품군인 3080, A6000 등에 생산 능력을 할당하고 있어 수주 잔고를 해소하기까지 다소 시간이 걸릴 것입니다. 그렇지만, 미국의 카드 공급업체들은 3분기 중반이면 공급에 숨통이 트일 것으로 안내하고 있습니다. 그렇게 된다면 미국 시장에서 더 낫고 안정적인 가격 책정으로 이어질 것입니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Allocation",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "5 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "암호화폐 채굴이 타격을 받으면서 GPU 수요 감소",
     "text": "PC 조립업체는 고객이 한 번에 구매할 수 있는 GPU의 수에 제한을 두고 가용 재고품 대다수를 소매 시장에 출시할 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1105,10 +1049,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트코인 채굴의 붕괴로 Nvidia의 GPU를 둘러싼 불확실성 발생",
     "text": "중국의 암호화폐 채굴에 대한 강력한 단속으로 데이터 센터를 보유한 여러 채굴업자가 활동을 중단할 수밖에 없어 공급망 충격이 발생했습니다. 많은 GPU 소비자가 최근 비트코인 채굴의 붕괴로 Nvidia의 GeForce 3000 시리즈에 대한 공급 문제와 가격 앙등이 해소되기를 바랐지만, 아직 그 효과를 완전히 체감하지는 못하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1121,10 +1066,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트코인 채굴의 붕괴로 Nvidia의 GPU를 둘러싼 불확실성 발생",
     "text": "중고 GPU가 시장에 넘쳐났고 많은 중국 채굴업자가 Nvidia에 주문했던 물량을 취소하고 있습니다. 그래서 고객 입장에서는 공급량이 약간 증가하는 것으로 보이지만, 유통업체와 소매업체는 여전히 제약을 받고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1139,10 +1085,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트코인 채굴의 붕괴로 Nvidia의 GPU를 둘러싼 불확실성 발생",
     "text": "Nvidia는 소비자 카드 배송을 중단하기로 결정했으며 회사는 새로운 할당을 처리하지 않을 것입니다. 따라서 비트코인의 가치 하락이 GPU 가격을 떨어뜨리는 영향을 미치지 않은 것으로 보입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1157,10 +1104,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트코인 채굴의 붕괴로 Nvidia의 GPU를 둘러싼 불확실성 발생",
     "text": "또한, PC 조립업체들이 주문 잔고를 처리하느라 Nvidia의 모든 3000 시리즈 GPU가 심한 공급 제약으로 물량 부족에 시달리고 있습니다. 이는 특히 여전히 공급이 빠듯한 RTX 3090의 경우 더욱 그러합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1175,10 +1123,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트코인 채굴의 붕괴로 Nvidia의 GPU를 둘러싼 불확실성 발생",
     "text": "Nvidia의 CMP HX(전문 채굴 전용 GPU) 시리즈 30HX와 90HX를 대량 보유하고 있는 제조업체는 가격 책정 논의에 열린 입장입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1191,10 +1140,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "비트코인 채굴의 붕괴로 Nvidia의 GPU를 둘러싼 불확실성 발생",
     "text": "Nvidia의 Quadro 시리즈 공급이 매우 제한적이며 리드 타임도 매우 불확실합니다. 이는 특히 P2000/P4000과 RTX4000/5000/6000에 더욱 그러한 반면에, 신제품인 A2000/4000/5000은 공급 상황이 비교적 양호합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1209,42 +1159,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "Nvidia는 지난 12개월 동안 활발히 이루어진 암호화폐 채굴 활동 덕분에 수익을 올렸으며 현재 시장 가치는 3,000억 달러에 달합니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 8,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "이 회사가 LHR(Low Hash Rate)을 출시한 것은 채굴과 판매 활동에 영향력을 행사해 시장을 독점하려는 노력이었습니다. Nvidia는 Genesis와 Hydro와 같은 세계 최대 채굴업체에 이미 직접 판매하고 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 8,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 시장의 급성장 원인이 된 암호화폐",
     "text": "전반적으로, 올해는 전년 대비 마진이 크게 증가하면서 모든 GPU 파트너에게 수익을 안겨주었습니다. 유통업체 마진은 3%에서 20%가 된 반면, 소매 파트너 마진은 2019년 5% 대비 올해는 50%에 달했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1255,10 +1174,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 시장의 급성장 원인이 된 암호화폐",
     "text": "이더리움 채굴은 한 해 더 연장될 수 있으며 이에 따라 수요 유지가 보장되겠지만, 이더리움 가격에 따라 달라질 것입니다. 현재 가격 이상으로 유지되면 수요가 지속되고 GPU 가격이 가능한 최고 수준으로 책정될 것입니다. 결론적으로, 공급 제약은 계속 있을 것이라는 뜻입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1271,10 +1191,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 시장은 계속해서 수요와 가격이 높은 수준을 형성하고 있습니다.",
     "text": "일반적으로, GPU 수요와 가격은 그대로 높은 수준입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1283,31 +1204,13 @@
   {
     "year": 2021,
     "month": 9,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU",
-      "GPU"
-    ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
-    "text": "Nvidia LHR 카드의 낮은 가용성과 최근 암호화폐 가격 상승으로 인한 채굴 활동의 빠른 회복으로 인해, CMP(Crypto Mining Processor)에 대한 수요가 자극을 받았지만, 이런 프로세서는 여전히 채굴자와 대체 사용자에겐 고가로 생각됩니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2021,
-    "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 시장은 계속해서 수요와 가격이 높은 수준을 형성하고 있습니다.",
     "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다.",
     "detected_vendors": [
       "Amd",
@@ -1322,10 +1225,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 시장은 계속해서 수요와 가격이 높은 수준을 형성하고 있습니다.",
     "text": "아직 알려지지 않은 사항이 많지만, 새로운 플레이어가 GPU 시장에 진입하는 것을 보게 되는 흥미로운 시기입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1338,10 +1242,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "5 CPUs (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD의 Zen 3 Cezanne G-Series 데스크톱 프로세서 선호",
     "text": "그래픽 카드 가격은 여전히 높고 공급은 계속해서 제한적이므로, Zen 3 Cezanne G-Series 데스크톱 프로세서가 계속 인기를 끌고 있고 내장형 Radeon Graphics 덕분에 소비자들이 많이 찾습니다. 아쉽게도, AMD는 소량의 공급 물량만 풀고 있어 압도적인 수요를 감당하기에는 확실히 충분치 않습니다.",
     "detected_vendors": [
       "Amd"
@@ -1355,10 +1260,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
     "text": "AMD와 Nvidia의 그래픽 카드 가격은 암호화폐 활동의 급증과 세계적인 반도체 공급 부족이 계속되는 가운데 4분기에 들어서면서 6개월 만에 최고치를 기록했습니다.",
     "detected_vendors": [
       "Amd",
@@ -1374,10 +1280,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
     "text": "AMD의 Radeon 시리즈 GPU는 시장에서 재고를 찾기가 어려워 MSRP(권장소비자가격)보다 83% 높은 것으로 알려졌습니다. 보도에 따르면, RX 6800 시리즈가 가장 찾기 힘든 카드로 손꼽혔고 가격 급등에 기여했다고 합니다.",
     "detected_vendors": [
       "Amd"
@@ -1391,10 +1298,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
     "text": "Nvidia의 GeForce 시리즈 GPU도 9월과 10월 사이에 72% 상승해 가격이 더 높아진 서버 카드로 손꼽혔습니다. RTX 3090 시리즈는 심각한 공급 부족으로 인해 RTX 20 시리즈 및 GTX16xx GPU와 같은 레거시 모델에 영향을 미쳤습니다. GDDR5 시리즈의 부족은 시장을 괴롭히는 공급 문제의 표시이기도 합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1409,10 +1317,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
     "text": "RTX 3070에 대한 수요 증가로 Nvidia RTX 3090 GPU가 지속적으로 더욱 제약받고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1427,10 +1336,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
     "text": "한편, Quadro RTX A4000의 전문가용 카드 리드 타임은 최대 32주까지 연장되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1443,10 +1353,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
     "text": "NVIDIA가 새 RTX A2000을 출하합니다. 이 새로운 카드는 평범하고 저렴한 워크스테이션 GPU 옵션이며 비트코인 채굴에 인상적인 사용성을 보여줍니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1459,10 +1370,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "4 GPU (그래픽 및 가속기)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
     "text": "새 시리즈의 향상된 리드 타임과 임박한 출하는 RTX A2000 시리즈 GPU를 기대하는 워크스테이션 제작업체라면 일찌감치 주문해야 한다는 것을 의미합니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1473,13 +1385,13 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "5 CPU (중앙처리장치)",
-    "subheading": "",
+    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Cryptominers는 고비용 GPU의 대안으로 CPU를 기대",
     "text": "L3 캐시가 필요한 새로운 형태의 암호화폐인 랩토리움 채굴은 Nvidia GPU를 사용한 마이닝에 대한 대안을 모색하는 크립토마이너입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1492,10 +1404,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "Nvidia의 새로운 플래그십 GPU 발표",
     "detected_vendors": [
       "Nvidia"
@@ -1508,10 +1421,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "Nvidia는 GeForce RTX 3090 Ti를 새로운 플래그십 GPU로 발표했습니다. 새로운 시리즈에 생산을 다시 할당하면 이전 모델 RTX 3080, 3080, 3090 공급에 부담이 발생할 수 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1528,10 +1442,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "TSMC의 1,000억 달러 성장 계획",
     "text": "TSMC는 이미 고급의 처리 노드를 위해 가격을 10~20% 인상했습니다. 파운드리 가격 인상은 CPU, GPU 및 ASICS 가격에 영향을 줄 것으로 예상됩니다. Tech Wire Asia에 따르면 AMD, Intel, Nvidia는 TSMC의 첨단 노드 기술에 의존하는 제조업체들입니다.",
     "detected_vendors": [
       "Amd",
@@ -1549,10 +1464,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia의 GPU 가용성, 음력 설 후 계속 빠듯할 예정",
     "text": "RTX 3070/3070Ti/3080/3080Ti/3090을 포함한 Nvidia의 GeForce 시리즈가 공급 부족을 계속 겪고 있습니다. 일부 공급업체는 RTX 3090 Ti의 추가 재고가 음력 설 전에 풀릴 것으로 예상되었다고 보고했지만, 이 높은 수요에 대한 GPU의 공급은 계속 빠듯할 예정입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1567,10 +1483,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia의 GPU 가용성, 음력 설 후 계속 빠듯할 예정",
     "text": "NVIDIA는 2022년 1월 말 출하되는 선적에서 '보급형' RTX 3050을 출시하여 많은 이들을 놀라게 했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1583,10 +1500,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, GPU 전반에 걸쳐 수요 감소세 직면",
     "text": "제조업체에 영향을 미치는 물류 비용 증가로 인해 GPU 생산과 공급이 둔화되었습니다. 암호화폐 가격의 급락으로 인한 수요가 둔화되고 Nvidia RTX 30의 시장 가격도 약간 하락하면서 이 점이 시장에 중대한 영향을 미치지는 않았습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1599,20 +1517,17 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다. Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다. 전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
+    "section_raw": "2022년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, GPU 전반에 걸쳐 수요 감소세 직면",
+    "text": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다.",
     "detected_vendors": [
-      "Broadcom",
-      "Intel",
-      "Mellanox",
       "Nvidia"
     ],
     "detected_keywords": [
-      "EOL",
-      "Lead Time"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1621,10 +1536,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "러시아-우크라이나 전쟁에 따른 제약이 GPU 출하 제한",
     "text": "러시아의 GPU 수요는 제재로 중단되었습니다. 그 결과, 공급업체는 출하할 수 없는 재고를 쌓아둘 수 밖에 없는 상황입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1637,10 +1553,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "러시아-우크라이나 전쟁에 따른 제약이 GPU 출하 제한",
     "text": "GPU 생산 능력은 중국 상하이와 광둥의 코로나19로 인한 봉쇄가 제조에 지장을 주면서 개선될 가능성이 낮습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1651,10 +1568,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "미국, 중국에서 수입된 그래픽 카드에 대한 관세 일시적으로 해제",
     "text": "미국이 관세를 해제함에 따라 GPU 가격이 10~15% 내려갈 것으로 예상됩니다. 기존 관세에서 제외된 부품에는 PC 그래픽 카드, 마더보드 및 기타 상위 등급 GPU가 포함됩니다. 이러한 관세 제외는 2021년 10월부터 2022년 12월까지의 수입품에 적용될 것으로 알려졌습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1667,10 +1585,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "GPU 시장은 작년 이맘때보다 최종 사용자에게 훨씬 더 친화적입니다. 상하이 봉쇄로 인해 GPU 제조업체의 중국 출하가 타격을 입고 있음에도 GPU 가격은 계속해서 떨어지고 있습니다. 가격 하락이 지속되는 가운데 가상화폐 공간의 GPU 소비는 급격히 줄었습니다. 현지 PC DIY 소매업체의 수요는 늘었습니다. 전반적으로 Tier 1 GPU 제조업체는 가격을 약 5% 인하했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -1683,10 +1602,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, 암호화 공간의 하락으로 인해 새로운 GPU 카드 출시를 추진",
     "text": "최근 몇 주 동안 전반적인 GPU 가격은 주로 암호화폐 가격 폭락과 채굴 수요 감소로 인해 하락했습니다. 이러한 암호화 공간의 변화와 더불어 Nvidia 부품 전반에 걸쳐 수개월간 지속된 과잉 공급과 및 가격 변동은 최신 그래픽 카드의 지연에 큰 영향을 미쳤습니다. GeForce GTX 1630은 기존에는 5월 또는 6월 중순에 출시될 예정이었으나 6월 28일에 조용히 출시되었습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1699,10 +1619,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia, 암호화 공간의 하락으로 인해 새로운 GPU 카드 출시를 추진",
     "text": "비슷하게 Nvidia GeForce RTX 40 시리즈도 기존의 8월 출시가 연기된다는 소문이 돌고 있습니다. Nvidia의 공급망 문제가 GTX 1630과 유사하게 RTX 40에 영향을 미치지 않는 한 이 시리즈는 이제 9월에 출시될 것으로 예상됩니다. 제조업체들이 지속되는 자재 및 인력 부족에 대처하는 과정에서 제조업체 제품 로드맵 및 출시 날짜의 지연은 일반적인 추세가 되었습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1718,10 +1639,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel, 소프트 런칭을 통해 중국 GPU 시장 진출",
     "text": "이제 중국에서 Intel의 첫 번째 개별 Arc GPU를 만나볼 수 있습니다. 수년간 Intel은 칩셋에 2D 및 3D 가속 기능을 포함시켰지만, AMD and Nvidia는 더 강력한 개별 GPU 카드로 시장을 지배했습니다. 2018년에 Intel은 자체적으로 개별 GPU를 제공할 것이며, 2020년에 출하가 시작될 것이라고 말했습니다. 그러나 Intel은 2021년까지 GPU 활동에 대한 Arc 브랜드를 공개하지 않았으며, 2022년 1분기에 데스크톱 및 랩톱용 개별 그래픽 칩 출시를 약속했습니다.",
     "detected_vendors": [
       "Amd",
@@ -1736,10 +1658,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "과잉 재고 및 수요 감소로 인한 가격 변동",
     "text": "소비자 등급 및 게임 그래픽 카드의 수요는 하락하여 과잉 공급이 초래되었습니다. 시장에서 재고를 소진하려고 고군분투함에 따라 제조업체들은 기존 재고를 처리하기 위해 공식 가격을 낮출 것으로 예상됩니다. 또한 이러한 움직임은 새로운 시리즈 40xx의 원활한 출시를 보장할 것입니다. 다른 다가오는 출시에는 NVIDIA의 RTX 3090의 하이엔드 모델이 포함되어 있으며, 이 모델은 새 모델이 시장에 출시함에 따라 단종될 것입니다. 출시는 3분기에 계획되어 있으며, 이후 로우엔드 버전이 출시될 예정입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1754,10 +1677,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "과잉 재고 및 수요 감소로 인한 가격 변동",
     "text": "이에 반해 AI 및 데이터 센터 고객은 GPU에 대한 일관된 수요를 보여주고 있습니다. A100 40GB를 대체하는 새로운 A100 80GB는 여전히 높은 수요를 보이고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1768,10 +1692,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "최대 30%에 달하는 가격 하락이 일시적인 시장 변화 암시",
     "text": "RTX 30 시리즈의 현 재고량을 정리하기 위해 유통업체는 RTX 3090의 가격을 25~30%까지 대폭 낮췄습니다. 이는 소비자 시장의 수요 하락뿐 아니라, 암호화폐 채굴 산업의 도산으로 인한 다량의 중고 카드 사용 가능성에 따른 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1782,10 +1707,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2022년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "최대 30%에 달하는 가격 하락이 일시적인 시장 변화 암시",
     "text": "이러한 가격 변동 및 안정적인 공급은 4분기에 출시되는 차세대 GPU로 인해 지속되지는 않을 것으로 예상되며, 구형 모델의 단종으로 이어질 것입니다. 대부분의 제조업자와 달리, Nvidia는 마지막 구매자에게 사전 공지를 많이 제공하지 않으며, 따라서 고객은 수요를 예측하고 현재 분위기를 십분 활용할 것이 장려되지만, 가격 및 공급은 여전히 유리하게 유지될 것입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1797,63 +1723,15 @@
   },
   {
     "year": 2022,
-    "month": 9,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "서버 프로젝트 취소가 다량의 OEM 초과분이 시장으로 유입되면서 MXC-4 및 MCX-5 시리즈 공급이 증가하고 있습니다. 이는 비용 절감 기회를 탐색하고 있는 사람들을 위한 구매자 시장을 만들어 내고 있으나, 수요가 특히 많은 MCX-6 시리즈에 대한 공급은 아직 안정화되지 못했습니다. 이는 최소 4분기까지는 달라질 것 같지 않습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 9,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "Mellanox 카드는 공급을 개선했으며, 이는 새로운 예약 주문의 리드 타임을 32주에서 약 20주로 단축시키는 결과를 낳았습니다. 더욱이 시장 수요가 주춤하면서 Intel의 E810 시리즈 어댑터 카드 가격이 약간 하락하고 있습니다.",
-    "detected_vendors": [
-      "Intel",
-      "Mellanox"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 9,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "하지만 오픈 마켓 공급이 제한되면서 I350T2V2뿐 아니라 X710 및 XL710 모델의 공급 부족(Shortage)이 계속되고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
     "month": 10,
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "완만한 수요로 인한 GPU 시장의 불확실성 둔화",
     "text": "GeForce GPU에 대한 수요가 예상보다 훨씬 더 감소하고 있고 제조업자들이 예상치를 조정함에 따라 GPU 시장에서 파급 효과가 나타나고 있습니다. 다음 달 내에 출시될 새로운 RTX4090 GPU에 대한 가격 충격을 완화하기 위해 Nvidia는 AIC 파트너로부터 RTX3090, RTX3080Ti 및 RTX 3080 12GB용 칩셋 재고를 회수하였습니다. 이는 GPU 모델 간의 경쟁 완화에 도움이 될 뿐만 아니라 시장에서 RTX 30 시리즈에 대한 단계적 철수를 계속함에 따라 새로운 모델의 출시를 준비하기 위한 전략입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1866,10 +1744,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "완만한 수요로 인한 GPU 시장의 불확실성 둔화",
     "text": "다른 뉴스에서 Nvidia와 EVGA 회사의 파트너십이 정리되었다는 보도가 있었습니다. 역사적으로 EVGA는 Nvidia를 위해 GeForce 기반의 비디오 카드를 제조했지만 현재는 GPU 사업에서 멀어지면서 대신 더 많은 수익을 내는 제품에 집중하게 될 것입니다. EVGA는 당분간 RTX 3000 시리즈와 같은 GeForce GPU에 대한 지원을 제공하겠지만, 재고가 모두 소진되면 파트너십을 종료할 예정입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -1883,10 +1762,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "미국 정부는 중국 및 러시아에 고급 GPU 수출을 금지하는 새로운 라이센스 요건을 NVIDIA와 AMD에 부과했습니다. 홍콩을 포함한 중국에 대해 향후 모든 선적을 금지하는 이러한 행정 명령은 즉시 효력을 발휘하며 출시 예정인 H100 집적 회로에 영향을 주게 됩니다. A100 또는 H100 칩을 사용하는 DGX/EGX/HGX 시스템뿐만 아니라 A100X도 또한 신규 라이센스 요건의 대상입니다.",
     "detected_vendors": [
       "Amd",
@@ -1900,10 +1780,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "영향받는 Nvidia GPU 모델:",
     "detected_vendors": [
       "Nvidia"
@@ -1916,10 +1797,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "A100 가속기 카드",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1930,10 +1812,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "H100 가속기 카드",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1944,10 +1827,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "A100X 컨버지드 가속기 카드",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1958,10 +1842,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템",
     "detected_vendors": [
       "Nvidia"
@@ -1974,10 +1859,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
     "detected_vendors": [
       "Nvidia"
@@ -1990,10 +1876,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "행정 명령 발표 이전에 A100 80GB 모델은 과공급 상태였지만 현재 벤더들은 수요의 폭증을 예상하여 재고를 묶어두고 새로운 선적이나 견적을 중단하고 있습니다. 최종 고객 및 중개인 양측 모두로부터 문의가 쇄도함에 따라 결과적으로 시장 활동이 증가했으며 대부분의 오픈 마켓 물량은 신속히 판매되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2004,10 +1891,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "금지된 모델뿐만 아니라 특히 데이터 센터 및 AI 컴퓨팅용 Tesla 시리즈를 포함한 기타 GPU에 대한 시장 가격이 지속적으로 상승할 것이라는 추측이 지배적입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2018,10 +1906,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "벤더들, 과잉 재고를 해소하려 애쓰고 있지만 RTX 4000 시리즈가 시장에 새로운 활력을 불어넣기를 기대",
     "text": "GPU 시장 내 수요는 지난 몇 분기 동안 부진했습니다. 이로 인해 재고가 증가하여 벤더들은 RTX 3000과 같은 시리즈의 공급 과잉을 해소하기 위해 애쓰는 과정에서 손실을 보게 되었습니다. RTX 4000이 발표된 이후 대부분의 벤더는 이전 시리즈 GPU의 대부분을 축소했다고 밝혔습니다. RTX 4000 시리즈의 출시로 GPU 시장 전반에서 수요가 활성화되기를 기대하는 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2032,10 +1921,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "벤더들, 과잉 재고를 해소하려 애쓰고 있지만 RTX 4000 시리즈가 시장에 새로운 활력을 불어넣기를 기대",
     "text": "고급 RTX 30 시리즈에 대한 단종 부품(EOL) 공지가 시장을 강타하면서 RTX 3089 및 RTX 3080 12GB의 블로어 에디션에 대한 수요가 증가했습니다. 전반적인 수요 약세로 인해 시장 가격은 여전히 나쁜 상황입니다. 공급은 더 부족해질 것으로 예상되지만, 신규 모델의 높은 전력 소비로 인해 열 소산 문제를 해결하는 데 시간이 걸리면서 새로운 RTX 40 시리즈 출시에는 몇 가지 복잡한 문제가 있었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2049,10 +1939,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "벤더들, 과잉 재고를 해소하려 애쓰고 있지만 RTX 4000 시리즈가 시장에 새로운 활력을 불어넣기를 기대",
     "text": "전문가용 카드의 경우 RTX 4000, RTX A4000 및 A5000에 대한 현물 수요가 시장에서 확인되었습니다. 벤더들은 가격 지원을 위해 공장과 협상하여 고객들의 일부 비용 절감 요구를 반영할 수 있었습니다. 이전 예로 레거시 모델인 Tesla T4의 상황을 들 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2063,10 +1954,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia의 신제품 RTX 4090 출시의 험난한 여정",
     "text": "RTX 4090에 대한 고객들의 초반 후기는 대부분 긍정적이었고 벤더들은 제조업체로부터 첫 번째 할당 제품을 즉시 구매했습니다. 후속 수요에 관해, 현재로선 확정된 납품이 없는 상태입니다. 현재 과열 문제로 인해 주문이 지체되고 있다는 추측성 뉴스가 돌고 있기 때문에 Nvidia가 문제를 파악하고 해결하는 과정에 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2081,10 +1973,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia의 신제품 RTX 4090 출시의 험난한 여정",
     "text": "초반에 RTX 4090에 대한 관심이 있었지만 이전 세대 RTX 3080과 3090, 특히 블로어 에디션에 대한 수요가 강한 편입니다. 이러한 제품들은 RTX 4090의 저가 버전이지만 제조업체들이 더이상 이 모델의 주문을 받지 않기 때문에 구하기가 어렵습니다. Nvidia가 높은 마진율 때문에 Hopper H100 GPU의 생산에 집중하고 있다는 소문이 도는 가운데 수요가 공급을 선회할 경우 RTX 4090의 가용성에도 영향을 미칠 전망입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2097,10 +1990,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RTX 30 시리즈의 수요 급증과 함께 예측이 무색해진 GPU 시장 동향",
     "text": "관세 면제가 12월 31일로 만료되는 가운데 벤더와 고객들은 연장 여부에 대해 확신하지 못하고 있습니다. 그 결과 고객들은 만일을 대비해 재고를 추가로 사들이고 있습니다. 이에 따라 가격이 주당 4~8% 인상되고 있으며 특히 RTX 3090 블로어 에디션의 상승세가 무섭습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2113,10 +2007,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RTX 30 시리즈의 수요 급증과 함께 예측이 무색해진 GPU 시장 동향",
     "text": "RTX 4080과 4090의 출시에도 불구하고 RTX 30 시리즈에 대한 수요는 계속해서 가열되고 있습니다. 고객들은 현재 오픈 마켓에서 RTX 3080 및 3090을 찾고 있는데 이는 주로 새로운 RTX 40 시리즈의 사양과는 맞지 않는 프로젝트 및 제품 때문입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2127,10 +2022,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RTX 30 시리즈의 수요 급증과 함께 예측이 무색해진 GPU 시장 동향",
     "text": "RTX 4080는 첫 출시 이후 RTX 4090과 비교되는 가격 및 성능 수준 때문에 수요가 크게 하락했습니다. RTX 4090과 4080 시리즈는 유럽 통화 가치 하락과 AMD의 7900 XTX의 출시로 인해 가격이 5% 인하되었습니다.",
     "detected_vendors": [
       "Amd"
@@ -2143,10 +2039,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RTX 30 시리즈의 수요 급증과 함께 예측이 무색해진 GPU 시장 동향",
     "text": "NVIDIA의 RTX 4070Ti는 2023년 1월 5일에 출시될 예정입니다. 이로써 RTX 시리즈는 보다 완성된 제품군을 갖추게 될 것입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2159,10 +2056,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
     "text": "RTX 4090 시리즈 GPU는 아직도 어느 정도는 생산 부족 상태이며 납품 일정이 명확하지 않기 때문에 대안으로 RTX 4070과 4080 모델에 대한 공급 압박이 늘어나고 있습니다. RTX 40 시리즈의 가격은 전작인 RTX 30 시리즈보다 더 높습니다. 결과적으로, RTX 30 시리즈에 대한 요청은 줄어든 가용성에도 불구하고 더 높아졌습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2176,10 +2074,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
     "text": "곧 출시되는 새로운 전문 카드 모델 RTX 6000 ADA는 이전 세대 모델인 RTX A6000의 공급 부족을 초래했습니다. RTX A6000에 대한 수요는 여전히 상승세이며 이 모델의 공급 백로그는 적어도 2월 초까지 계속 불안정할 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2192,10 +2091,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
     "text": "공급과 수요의 변동에도 불구하고 Nvidia의 2023년 1분기 GPU 전 세계 수익은 전년의 같은 분기와 비교했을 때 46% 증가했습니다. 게이밍 GPU에 대한 수요는 감소해 왔으며 이는 가격 하락이 Nvidia의 수익에 영향을 미칠 것이라는 추측으로 이어졌습니다. 하지만 사업은 계속 성장하여 기록적인 결과를 달성했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2210,10 +2110,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 수요에 대한 AI 서비스의 영향",
     "text": "고성능 GPU 벤더들은 ChatGPT 및 BARD와 같은 AI 서비스에 대한 높은 관심이 시장에 어떤 영향을 미칠지 궁금해하기 시작했습니다. 수요가 강세를 유지한다면 GPU 시장은 올해 최소 15% 성장할 수 있을 것으로 예상됩니다. 이러한 상황이 전개된다면 가용한 최고 성능의 GPU에 속하는 Amphere A100 및 Hopper H100 아키텍처를 선보인 Nvidia가 가장 큰 혜택을 볼 것입니다. 그 결과 회사의 주가가 이미 40%까지 상승했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2226,10 +2127,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 수요에 대한 AI 서비스의 영향",
     "text": "AI GPU 비즈니스가 급증할 것으로 예상되며 제조업체는 게임 고객보다 AI 고객을 위한 생산 및 공급을 우선할 수 있습니다. 이러한 상황은 제한된 소비자 GPU 시장에 추가적인 공급 문제를 일으킬 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2240,9 +2142,10 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "게이밍 GPU의 공급은 RTX 4090을 제외하면 양호하며, AI 기술에 대한 인기로 인해 하이엔드 GPU의 리드 타임은 늘어나고 있습니다.",
     "detected_vendors": [],
@@ -2257,10 +2160,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "게이밍 GPU 공급은 안정되고 있지만, 칩셋 공급 문제로 인해 RTX 시리즈에 제약 발생",
     "text": "게이밍 GPU 공급은 계속 양호하고 일정한 상태를 유지하고 있습니다. 하지만, RTX 4090는 고객에게 제한적으로 할당되고 있기 때문에 예외입니다. 이 제약은 주로 GPU 칩셋의 공급 문제로 인한 것입니다. 또한, RTX 4070의 경쟁력 있는 가격과 가용성은 RTX 4080에 주력하기 어렵게 만들고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2274,10 +2178,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "게이밍 GPU 공급은 안정되고 있지만, 칩셋 공급 문제로 인해 RTX 시리즈에 제약 발생",
     "text": "전문가용 GPU인 RTX 6000 ADA도 불안정한 공급과 전반적으로 낮은 시장 수요에 직면했을 때 비슷한 상황에 놓여 있었습니다. 초기 가격은 프리미엄이 붙은 상황이었지만, 업계 성장을 지원하기 위한 목적의 가격 할인으로 인해 하락했습니다. RTX A4000, A5000, A6000 등의 기타 주류 시리즈는 수요가 증가했지만 시장 가격은 변동이 없습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2288,10 +2193,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "게이밍 GPU 공급은 안정되고 있지만, 칩셋 공급 문제로 인해 RTX 시리즈에 제약 발생",
     "text": "게다가 ChatGPT 등의 서비스에 대한 인기가 하이엔드 GPU의 리드 타임 증가의 원인이 되고 있습니다. AI 기술은 최상의 훈련 모델 결과를 얻기 위해 최적의 성능이 필요하므로 수요가 대량으로 집중됩니다. 최근 GPT-4의 출시로 인해 A100 및 H100과 같은 고성능 컴퓨팅 GPU에 대한 수요와 가격이 상승했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2304,10 +2210,11 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI로 촉발된 GPU, 스위치 및 NIC 카드 주문 증가",
     "text": "NVIDIA GPU에 대한 수요는 계속해서 급증하고 있으며, 특별히 Tesla 및 Quadro 시리즈에 집중되고 있습니다. Tesla 시리즈의 고성능 컴퓨팅 기능과 Quadro 시리즈의 수많은 전문 그래픽 애플리케이션으로 인해 이 두 시리즈는 시장에서 가장 많이 찾는 시리즈입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2320,17 +2227,17 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "수요 증가로 인해 두 제품 모두 가격이 최소 5~7% 상승 했습니다. Tesla의 A100과 H100의 가격이 가장 많이 상승했는데, 이는 주로 ChatGPT와 같은 AI 서비스들이 딥 러닝과 자연어 처리, 컴퓨터 비전을 구현하는 데 이들 부품을 선호하기 때문이었습니다. A100과 H100은 모두 작년에 미국이 중국에 판매되는 기술에 대해 시행한 수출 규제의 영향을 받았습니다. NVIDIA는 이에 대한 해결 방안으로 기능을 축소한 대체 버전 제품을 개발했습니다. 또한 Quadro 시리즈 A5000 및 A6000의 가격도 인상되었습니다. 예약 리드 타임도 마찬가지로 연장되어 최소 8주에서 10주까지 늘어나고 있습니다.",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI로 촉발된 GPU, 스위치 및 NIC 카드 주문 증가",
+    "text": "수요 증가로 인해 두 제품 모두 가격이 최소 5~7% 상승 했습니다. Tesla의 A100과 H100의 가격이 가장 많이 상승했는데, 이는 주로 ChatGPT와 같은 AI 서비스들이 딥 러닝과 자연어 처리, 컴퓨터 비전을 구현하는 데 이들 부품을 선호하기 때문이었습니다. A100과 H100은 모두 작년에 미국이 중국에 판매되는 기술에 대해 시행한 수출 규제의 영향을 받았습니다. NVIDIA는 이에 대한 해결 방안으로 기능을 축소한 대체 버전 제품을 개발했습니다.",
     "detected_vendors": [
       "Nvidia"
     ],
     "detected_keywords": [
-      "Geopolitics / Sanctions",
-      "Lead Time"
+      "Geopolitics / Sanctions"
     ],
     "risk_level": "Medium"
   },
@@ -2340,10 +2247,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "기단 리드 타임으로 인해 게이밍 GPU보다 우선시하게 된 기업용 GPU",
     "text": "NVIDIA의 RTX 4090에 대한 견실한 수요에도 불구하고 공급은 제한적입니다. 이는 주로 제조업체가 기업용 GPU 생산에 우선적으로 할당함으로 인해서 GPU 칩셋에 대한 지원이 충분하지 않은 결과입니다. 이러한 상황은 6월에 새로운 RTX 4060ti 및 4060ti 8GB 모델이 출시되면 더욱 악화될 수 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2358,10 +2266,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "기단 리드 타임으로 인해 게이밍 GPU보다 우선시하게 된 기업용 GPU",
     "text": "게이밍 GPU 비즈니스는 안정적이지만, 기업용 GPU는 가장 수요가 많은 제품이며 전문가용 시리즈의 공식 가격이 상승했습니다. AI 응용 분야에 사용되는 Quadro 시리즈의 가격은 10~20% 인상되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2372,10 +2281,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "기단 리드 타임으로 인해 게이밍 GPU보다 우선시하게 된 기업용 GPU",
     "text": "Tesla GPU는 오픈 마켓에서도 인기가 높아 가격이 5~10% 올랐으며 계속 상승하고 있습니다. 특히 하이엔드 시리즈의 경우 재고가 부족하여 예약 리드 타임이 2~3주 정도 연장되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2389,9 +2299,10 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "NVIDIA에서 고객 요구를 충족하기 위해 생산을 확대함에 따라 기업용 GPU 비용이 빠르게 증가하고 있습니다.",
     "detected_vendors": [
@@ -2407,9 +2318,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "재고가 종종 초과 상태에 달했던 수요 둔화 기간 이후 산업용 PC, 특정 메모리 제품, 기업용 GPU, MCU, 네트워킹 제품에 대한 리드 타임과 가격이 다시 한번 상승하고 있습니다.",
     "detected_vendors": [],
@@ -2423,10 +2335,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU 가격 하락에 따른 기업용 GPU 공급 부족",
     "text": "기업용 GPU에 대한 수요는 연초부터 급증했으며 대부분의 수요가 NVIDIA의 A100, H100, A800, H800 제품에 집중됐습니다. 가격이 빠르게 상승하고 있으며 7월에는 단 2주 만에 20%의 비용 상승이 발생했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2439,10 +2352,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU 가격 하락에 따른 기업용 GPU 공급 부족",
     "text": "신규 주문에 대한 리드 타임도 증가했습니다. 리드 타임 증가는 AI 업계의 예상치 못한 수요와 중국에 대한 하이엔드 기업용 GPU 판매를 미국이 제한한 것이 더해진 결과입니다. 늘어난 리드 타임으로 고객은 주문을 빨리 받기 위해 오픈 마켓으로 몰렸지만 이로 인해 비용이 최소 10% 이상 증가했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2456,10 +2370,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU 가격 하락에 따른 기업용 GPU 공급 부족",
     "text": "NVIDIA는 고객 지원을 개선하기 위해 기업용 GPU 생산에 주력하고 있습니다. 그러나 고객들이 공급이 개선될 수 있다고 낙관하는 것에 비해 비용은 계속해서 상승하고 있습니다. GPU 칩셋 공급이 제한되면서 제조업체는 전 지역의 특별 가격 승인을 중단했습니다. NVIDIA의 Quadro 및 Tesla 시리즈는 3분기 이내에 가격이 인상될 것으로 보이며,",
     "detected_vendors": [
       "Nvidia"
@@ -2472,10 +2387,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU 가격 하락에 따른 기업용 GPU 공급 부족",
     "text": "그렇지 않으면 소비자 GPU에 대한 수요는 여전히 낮고 공급은 양호할 것으로 보입니다. 수요가 증가하고 있는 유일한 제품은 RTX 4090 시리즈로 특히 블로어 및 터보 에디션입니다. RTX 4090은 성능 때문에 게임 산업에서 인기가 높지만 AI 업계에서도 딥러닝 및 일반 AI 응용 분야에 선호되고 있습니다. 따라서 이 시리즈의 공급이 제한되고 리드 타임이 길어졌습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2488,10 +2404,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU 가격 하락에 따른 기업용 GPU 공급 부족",
     "text": "비싼 가격 때문에 RTX 4060 및 RTX 4080을 비롯한 RTX 40XX 시리즈의 판매가 둔화되었습니다. 고객들은 RTX 40XX 시리즈보다 RTX 30XX 시리즈를 선호합니다. RTX 30XX 시리즈는 시장에 출시된 지 오래됐고 가격도 떨어졌기 때문입니다. 특히 NVIDIA는 전반적인 매출을 활성화하기 위해 유럽과 미국 시장에서 산발적인 가격 인하를 실행하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2508,9 +2425,10 @@
     "detected_categories": [
       "GPU",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "AI로 인해 GPU 수요가 강화되고 메모리 모듈 가격 역시 안정화됐지만 스토리지 시장에는 아직 긍정적인 영향을 미치지 못하고 있습니다. 수요가 부진했던 해당 분기 이후, 제조업체들은 수요가 회복될 때까지 NAND 생산량을 줄일 예정입니다.",
     "detected_vendors": [],
@@ -2523,10 +2441,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
     "text": "AMD의 서버 시장 점유율은 계속해서 증가해 왔으며, 최근 CEO 발표에 따르면 이는 현재 25%를 돌파했습니다. 이는 TSMC가 4분기에 출시될 최신 Instinct MI300 시리즈 생성형 AI 가속기의 생산을 확정한 이후 나온 발표입니다. 오픈 마켓의 추세에 따르면 현재 AMD의 Milan 및 Genoa 시리즈 서버 CPU가 선호되고 있습니다. 수요가 주로 집중되는 시리즈는 다음과 같습니다.",
     "detected_vendors": [
       "Amd",
@@ -2540,10 +2459,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI 산업으로 인한 GPU 수요 증가",
     "text": "AI 산업의 호황에 따라 기업용 GPU 시장에 상당한 수요가 형성되며 공급 및 가격 경쟁을 심화했습니다. 시장 가격이 급등했으며 기존 주문 건의 출하가 이미 지연되기 시작했습니다. 이러한 시장의 폭발적 성장으로 인해 공급업체의 특별 프로젝트 가격 승인이 감소했으며 제조업체의 할당이 현재 제한적입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2556,10 +2476,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI 산업으로 인한 GPU 수요 증가",
     "text": "이러한 추세는 소비자 GPU 시장, 특히 NVIDIA의 RTX4090에 더욱 영향을 미칠 수 있으며, 이 제품을 자체 AI 구축에 사용하는 중소기업이 증가했기 때문입니다. 올해 게임 산업의 수요가 미미했기에 소비자 GPU 공급 상태는 현재 양호한 편입니다. 또한 RTX4090의 경우 가격이 어느 정도 상승하더라도 비용 절감의 기회가 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2572,10 +2493,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI 산업으로 인한 GPU 수요 증가",
     "text": "인기 측면에서는 NVIDIA의 테슬라 시리즈 GPU인 A100, A800, H100의 수요가 가장 많고 공급이 가장 빠듯합니다. 가용성 제한 및 부품 경쟁 심화에 따라 리드 타임이 늘어나고 있습니다. A100의 경우 단종 상태로 구하기가 점점 어려워지며 가용성이 더 높은 H100으로 고객이 몰리고 있으나, 리드 타임은 여전히 45~52주 사이로 유지되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2591,10 +2513,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI 산업으로 인한 GPU 수요 증가",
     "text": "NVIDIA의 새로운 L40 출시일이 빠르게 가까워지며, NVIDIA는 AI 관련 응용 분야에 대한 테슬라 A100 및 A800에 집중된 수요를 분산하고자 고객에게 지속적으로 전환을 권장할 수 있습니다. 현재 공급 제한 상황에 따라 제조업체는 이 기회에 L40의 4분기 출시 시점에 맞춰 이전 시리즈를 차츰 정리할 수도 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2607,10 +2530,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, 신제품 발표에 따른 GPU 수요 증가로 분투",
     "text": "NVIDIA는 Ada Lovelace 아키텍처 기반의 최신형 워크스테이션 RTX GPU 세 개를 발표했습니다. 신제품인 RTX 5000, RTX 4500, RTX 4000 ADA는 최고의 AI, 그래픽, 실시간 렌더링을 제공합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2624,10 +2548,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, 신제품 발표에 따른 GPU 수요 증가로 분투",
     "text": "전반적으로 소비자용 그래픽 카드의 수요는 저조했으며, 특히 중저가 시리즈의 경우 이러한 경향이 두드러졌습니다. RTX4090과 같은 하이엔드 시리즈에 대한 공급은 여전히 제한적이며, 이는 주로 GPU 칩셋의 부적절한 할당과 RTX4090 블로어 및 터보 시리즈에 대한 수요 증가 때문입니다. NVIDIA는 AI 및 기업 고객이 대체품으로 전환하지 않도록 적극적으로 노력하고 있습니다. 그러나 충성도를 유지하라는 NVIDIA의 권고에도 불구하고 공급 제약이 지속될 경우 고객의 유일한 선택지는 대체품이 될 수도 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2643,10 +2568,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, 신제품 발표에 따른 GPU 수요 증가로 분투",
     "text": "테슬라 시리즈 GPU에 대한 수요 역시 미국이 중동 국가들을 금지 명단에 포함했다는 소식에 따라 증가했습니다. 제한을 확대하면 공급에 영향을 미쳐 오픈 마켓 가격은 더욱 상승할 수 있습니다. 가격은 매주 3~5%의 상승 추세를 보이고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2660,9 +2586,10 @@
       "CPU",
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "제한된 IC 공급은 자동차 및 공업 산업에 계속 영향을 미치고 있습니다. 통신 인프라 산업도 중단으로 인해 필수 부품 공급에 영향을 미치면서 공급 부족에 직면하기 시작했습니다. 한편, AI 고객의 수요는 GPU, CPU 및 시스템 메모리 구성 요소의 가격 및 가용성에 계속 영향을 미치고 있습니다.",
     "detected_vendors": [],
@@ -2676,10 +2603,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약과 함께 계속 연장되는 NVIDIA 리드 타임",
     "text": "NVIDIA의 Tesla 시리즈는 여전히 공급이 제한되어 있습니다. 이러한 제약으로 인해 AI 및 딥 러닝 고객들은 대체 GPU를 찾게 되었고, 그 결과 A10, A30, A40에 대한 수요가 급증했습니다. 수요 증가에 힘입어 아시아 시장에 집중적으로 상승하면서 예상치 못한 상승 추세로 인해 가격도 뒤따랐습니다. 여러 산업 분야에서 수요가 급증함에 따라 메인스트림 워크스테이션 시리즈의 리드 타임도 연장되었습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2696,10 +2624,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약과 함께 계속 연장되는 NVIDIA 리드 타임",
     "text": "또한 GPU 칩셋 할당량 감소로 인해 RTX 4090 공급량이 대폭 감소했습니다. 이러한 개발로 인해 전체 GPU 할당이 영향을 받아 리드 타임이 연장되었습니다. RTX 4090 싱글 블로어 에디션 시리즈의 공급은 변동성이 있으며, 모든 GPU 소싱 파트너의 배송 기간은 추후 공지가 있을 때까지 변경될 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2713,10 +2642,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 제약과 함께 계속 연장되는 NVIDIA 리드 타임",
     "text": "또는 새 모델 L40의 배송 날짜가 확정되었으며 10월에서 11월 사이에 도착할 예정입니다. 이 GPU는 NVIDIA의 Tesla A800에 비해 성능이 향상되었으므로 고객이 최신 모델로 업그레이드함에 따라 구형 시리즈에 대한 수요는 감소할 가능성이 높습니다. 공급업체는 추가 가격 하락을 방지하기 위해 A800 재고를 더 많이 출시할 수 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2731,10 +2661,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "최근 미국 정부는 중국으로의 GPU 수출 금지 대상을 변경했습니다. 11월 중순 해당 조치가 발효되며 이전까지는 해당하지 않았던 NVIDIA, AMD, Intel의 GPU가 영향을 받고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -2749,10 +2680,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "RTX 6000, RTX 4090, A30, A40, L4, RTX A6000 (Ampere), DGX, HGX 시스템 및 A100, A800, H100, H800, L40, L40S 등의 NVIDIA 제품이 최근 금지 대상에 올랐습니다. 또한 AMD의 MI250, MI300, Intel의 Gaudi 2 칩도 포함됐습니다.",
     "detected_vendors": [
       "Amd",
@@ -2767,10 +2699,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "제한 확대 및 A100 및 A800 80GB PCIe GPU 단종(EOL) 발표로 Tesla GPU 시리즈의 수요가 증가했습니다. 단종(EOL) 제품의 마지막 배송은 2024년 말이 될 것으로 보이므로 새해에는 대체 상품에 대한 수요가 밀려오는 추세를 보일지도 모릅니다. GPU 중 영향을 받은 시리즈의 시장 가격은 상승할 것으로 기대됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2783,10 +2716,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "미국의 신규 규제에 대한 NVIDIA의 대응",
     "text": "연말에 미국의 수출 규정에 관한 최근 규제 조치가 시작 되었습니다. 강화된 규제로 인해 고객들이 앞다투어 재고를 확보하려 하면서 오픈 마켓 내 가격이 급등했습니다. RTX 4090은 20~30%의 가격 상승을 경험했고, NVIDIA의 Quadro 시리즈 가격도 비슷하게 올랐습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2801,10 +2735,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "미국의 신규 규제에 대한 NVIDIA의 대응",
     "text": "NVIDIA는 고성능 AD102 기반 그래픽 카드를 중국으로 배송할 수 없게 되어 업데이트된 제한 조치로 인해 가장 큰 타격을 입은 기업입니다. NVIDIA는 미국 정부에게 협조하여 최선을 다해 규정을 준수하고 있으나 중국 기반 고객도 지원하고자 합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2817,10 +2752,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "미국의 신규 규제에 대한 NVIDIA의 대응",
     "text": "이러한 제한 조치에 대응하여 NVIDIA는 전문 그래픽 카드용 최신 버전 R535 U9 드라이버 목록에 RTX 5880 Ada Generation 그래픽 카드를 포함했습니다. RTX 5880 Ada와 RTX 6000 Ada의 유사점을 통해 NVIDIA에서 이 제품을 중국 시장에 맞게 조정한 사실을 알 수 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2833,10 +2769,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, CES 2024에서 RTX 40 GPU 공개",
     "text": "NVIDIA는 CES에서 RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super GPU 등의 최신 제품을 공개했습니다. CES 행사의 주요 주제는 AI였으며, NVIDIA는 이러한 GPU 제품과 온디바이스 AI 작업이 호환되는 방식을 선보였습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2849,10 +2786,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA, CES 2024에서 RTX 40 GPU 공개",
     "text": "신제품 소식에 더해, 최근 NVIDIA에서는 A100에 대한 마지막 주문 배송일을 2월 23일로 밝혔습니다. 주문에는 NCNR(취소 및 반품 불가) 조건이 적용되며, NVIDIA는 올해 내로 모든 물량을 배송할 것입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2867,10 +2805,11 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "메모리 제조사 사이의 경쟁 심화로 이어진 DDR3 수요",
     "text": "또한 삼성 및 SK 하이닉스에서는 제품이 EOL(지원 종료) 상태로 전환되면서 2025년에 DDR3 생산을 중단한다고 발표했습니다. Micron의 DDR4 및 LPDDR에 대한 수요는 강세가 지속되고 있으며 빠듯한 공급으로 인해 더욱 커지고 있습니다. Micron이 HBM으로 생산 라인을 전환하면서 공급 제약이 발생하고 있으며, 이는 Nvidia의 H200 Tensor 코어 GPU에 들어갑니다.",
     "detected_vendors": [
       "Micron",
@@ -2889,10 +2828,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 혁신의 주도를 이어나가는 Nvidia",
     "text": "Nvidia의 RTX 40 Super 시리즈가 1월 말 시장에 출시되면서 생성형 Ai가 탑재된 게이밍 GPU를 찾는 고객의 수요에 박차를 가했습니다. 초기 출시의 높은 인기로 인해 지금은 모든 파트너사에 대한 할당이 제한되었습니다. 공급사가 공급을 유지하기 위해  노력하고 있으며  남은 공급가능성에 대한 문의가 늘어나고  있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2908,10 +2848,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 혁신의 주도를 이어나가는 Nvidia",
     "text": "회사의 다음번 대규모 출시인 H200 GPU는 2분기 말로 예정되었습니다. 해당 GPU에서는 대규모 언어 모델(LLM)을 위한 향상된 효율성, 컴퓨팅, 메모리를 제공할 것으로 보입니다. 보도에 따르면 현재 H100 GPU보다 두 배 높은 성능을 제공합니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2922,10 +2863,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "로보틱스 산업 수요에 따라 Jetson 모듈의 리드 타임 연장",
     "text": "연초부터 꾸준히 연장된 리드 타임으로 인해 Nvidia의 Jetson 모듈에 대한 공급이 제한되고 있습니다. 수요 전망을 제공하는 고객은 3개월의 리드 타임을 보고하고 있지만 전망을 제공하지 않는 고객은 6개월의 리드 타임에 직면하고 있습니다. 로보틱스 및 자율 시스템 고객은 일상적인 업무와 프로세스에 해당 기술을 점진적으로 통합하면서, 이러한 모듈 및 개발자 키트에 대한 수요를 이끌고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2940,9 +2882,10 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "하드웨어 시장 수요가 변동하는 한편 가상화폐 동향으로 인해 GPU에 추가 제약이 발생하고 있습니다.",
     "detected_vendors": [],
@@ -2957,10 +2900,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가상화폐 수요가 GPU 공급에 미치는 영향",
     "text": "GPU 칩셋의 수요 증가와 공급 부족으로 인해 일부 GPU 시리즈의 리드 타임이 연장되었습니다. AI 관련 활동으로 늘어난 수요에 더해 가상화폐 시장의 수요도 높아져 GPU 공급에 제약이 발생하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2975,10 +2919,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가상화폐 수요가 GPU 공급에 미치는 영향",
     "text": "현재 가상화폐 고객들은 해시레이트와 메모리가 더 높은 모델에 집중하고 있습니다. 수요가 가장 높은 품목은 3090/4090 모델로 현재 채굴에 사용되는 주요 카드입니다. 공급이 부족해지고 부품을 구하기가 점점 더 어려워지면서 기업들은 4080/4070 Ti 및 Super 모델로 눈을 돌릴 것입니다. 이러한 추세가 계속되면 RTX A5000 ADA와 같은 워크스테이션 GPU가 수요 급증의 다음 타겟이 될 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2991,10 +2936,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가상화폐 수요가 GPU 공급에 미치는 영향",
     "text": "올해 시장에 신제품이 출시되면 가용성에 추가적인 변화가 있을 것입니다. Nvidia에서는 최근 연례 GTC 컨퍼런스에서 최신 GPU 시리즈와 모델을 공개했습니다. 다만 아직 정확한 출시일을 발표하지는 않았습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3008,10 +2954,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데이터 센터 GPU 할당을 받기 위해 노력하는 유통업체들",
     "text": "AI 교육에 중점을 둔 사업이 GPU 시장에서 가장 큰 수요 추세를 계속해서 주도하고 있습니다. 유통업체들은 데이터 센터 GPU 모델, 특히 인기로 인해 시장에서 한정된 물량이 빠르게 소진되는 GeForce RTX 40 시리즈에 대한 할당량이 제한되어 있다고 보고했습니다. GPU 칩셋 부족으로 인해 리드 타임이 길어지고 있으며, Nvidia는 최근 10%의 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3029,10 +2976,11 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "데이터 센터 GPU 할당을 받기 위해 노력하는 유통업체들",
     "text": "또한 가상화폐 동향도 GPU 수요 급증에 기여하고 있습니다. RTX 30 시리즈 주문이 꾸준히 증가하고 있습니다. 2024년 하반기에 GeForce RTX 50 시리즈가 출시되면 RTX 30 및 RTX 40 시리즈의 공급이 더욱 늘어날 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -3043,10 +2991,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 수요에 영향을 미칠 것으로 예상되는 중국산 제품에 대한 미국 관세",
     "text": "AI GPU는 RTX 40 시리즈, A100 및 H100의 가격이 여전히 높은 반면 공급은 계속 제한되는 등 수요 추세를 주도하고 있습니다.반면, 워크스테이션 GPU 수요는 안정된 상태를 유지하고 있습니다. 제조사들은 곧 있을 가격 조정으로 인해 필요한 수요가 증가할 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3059,10 +3008,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPU 수요에 영향을 미칠 것으로 예상되는 중국산 제품에 대한 미국 관세",
     "text": "또한 중국에서 미국으로 제품을 수입하는 기업에 대한 GPU 관세 면제는 5월 31일부로 종료되었습니다. 2025년에 발효될 새로운 관세는 비용 증가로 인해 수요에 영향을 미칠 것으로 예상됩니다. 이러한 변화에 따라 벌써부터 RTX 40 시리즈에 대한 문의가 증가할 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3075,10 +3025,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "신제품과 관세 발표에도 불구하고 변동성을 보이는 GPU 시장",
     "text": "공급 및 예약 리드 타임이 개선되면서, 최근 GPU 시장은 주로 게이밍 및 워크스테이션 시리즈 수요에서 약간의 감소세를 보이고 있습니다. 하지만 NVIDIA의 A100 및 H100과 같은 AI GPU에 대한 수요는 여전히 견고하며 제한된 할당으로 인해 공급 출처를 확보하는 것이 어려운 상황입니다. 이러한 GPU의 높은 비용과 희소성으로 인해 제조업체는 독립형 GPU보다는 완전히 조립된 서버를 고객에게 제공하는 것을 선호합니다. 이 전략은 제조업체의 통제 아래 공급과 가격을 유지함으로써 오픈 마켓에서의 가용성을 제한합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3095,10 +3046,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "신제품과 관세 발표에도 불구하고 변동성을 보이는 GPU 시장",
     "text": "다른 GPU 소식으로는 NVIDIA에서 차세대 AI 칩 플랫폼인 Rubin을 2026년에 출시한다고 밝혔습니다. Rubin은 GPU, CPU, 네트워킹 칩을 통합할 예정이지만 현재는 신제품에 대한 세부 정보가 제한적입니다. NVIDIA의 CEO인 Jensen Huang은 COMPUTEX 무역 박람회에서 이러한 개발 사항을 소개하며 매년 AI에 초점을 맞춘 새로운 칩 제품군을 발표하겠다는 회사 의사를 밝혔습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3112,10 +3064,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "신제품과 관세 발표에도 불구하고 변동성을 보이는 GPU 시장",
     "text": "GPU의 중요한 역할을 인지한 미국 정부는 그래픽 카드, SSD, 마더보드에 대한 관세 면제를 2025년 5월 31일까지 연장했습니다. 이 면제가 내년에 만료될 경우 GPU 시장에 엄청난 영향을 미칠 것으로 예상되며, NVIDIA와 같은 제조업체는 제품 마케팅 및 유통 방식을 조정할 필요가 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3130,10 +3083,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
     "text": "NVIDIA AI GPU, 특히 H100에 대한 수요는 수명 종료 가능성에 대한 추측에도 불구하고 여전히 건재합니다. 결과적으로 공급이 부족해져 많은 고객이 게이팅 문제를 마주하고 있습니다. 출시 예정인 B200 또한 많은 관심을 받고 있으며, 최종 고객들은 8월 및 9월 할당량을 예측하여 주문하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3150,10 +3104,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
     "text": "이러한 제약에도 수요 적체는 양호한 편이며 곧 회복될 것으로 예상됩니다. 한편, AMD의 MI300X 가속기는 초기에 경쟁 제품인 NVIDIA H100 GPU를 찾던 고객에게서 넘어온 수요로 혜택을 보고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3170,10 +3125,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "하이 스펙 카드 및 광 트랜시버에 국한된 공급 부족",
     "text": "지난 분기에 증가한 수요에도 전반적인 네트워킹 제품의 공급은 양호한 상태를 유지하고 있습니다. 공급 부족은 고사양 네트워킹 카드, 케이블 및 광트랜시버에 국한됩니다. 또한 H100 GPU 수요 급증으로 MCX5/6 시리즈에 비해 Mellanox MCX7 시리즈 제품에 대한 문의가 증가했습니다. Mellanox가 CX7 생산을 우선하여 지원하는 상황이 지속되면서 CX6의 리드 타임이 연장되었으며 고객 측에서 확정된 출하일이 부족하다고 보고하고 있습니다.",
     "detected_vendors": [
       "Mellanox"
@@ -3189,10 +3145,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "GPU 시장은 현재 전환기에 있으며, 공급망 지연과 제품 라인 차질로 인해 주요 부문이 어려움을 겪고 있습니다. 서버와 AI에 대한 전반적인 수요는 공급 부족과 Nvidia의 H100에서 H200으로의 전환으로 제약을 받고 있습니다. 그러나 수요는 여전히 강하며, 곧 증가할 것으로 예상됩니다. 이로 인해 단기적으로는 시장이 둔화된 것처럼 보이지만, 장기적으로는 긍정적인 추세가 예상됩니다. 이러한 차질은 장기적으로 수요와 가격 압박을 더욱 증가시킬 가능성이 큽니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3207,24 +3164,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "10월 동향",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요: Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3239,10 +3183,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -3258,10 +3203,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "지연으로 인한 수요 변화: B200 프로젝트를 준비 중인 고객들은 Nvidia가 지연을 90일로 제한할 수 있을지 의심하며, 일부는 120~150일의 더 긴 지연을 예상하고 있습니다. 이에 따라 많은 고객이 H200과 H100 GPU로 수요를 전환하고 있으며, 대규모 사용자는 후속 모델에 대한 예산을 확보하기 위해 H100 및 A100의 구매를 일시적으로 줄이고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3274,10 +3220,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "예상된 지연과 예기치 못한 지연: 일부 고객은 B200 지연을 예상하고 대비했지만, 단기적으로 B200 프로젝트를 계획하지 않은 주요 GPU 사용자는 영향을 받지 않았습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -3288,10 +3235,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
     "detected_vendors": [
       "Amd",
@@ -3307,10 +3255,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "미·중 기술 전쟁의 영향: 미국의 제재로 인해 중국에서 여러 Nvidia 모델의 판매가 금지되면서 가격 격차가 발생했습니다. 그러나 Nvidia의 H20 GPU는 중국에서 높은 수요를 기록하며 $12B 달러의 매출을 올렸고, 화웨이의 Ascend 910B 가속기 같은 현지 대안을 앞지르고 있습니다. H20는 100만 개 이상이 판매될 것으로 예상됩니다.",
     "detected_vendors": [
       "Huawei",
@@ -3327,133 +3276,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "고대역 메모리 (HBM)",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "HBM 시장은 급증하는 수요와 생산 능력 조정으로 인해 심각한 제약을 받고 있습니다. AI 애플리케이션의 급속한 성장과 Nvidia의 시장 지배력이 수요 환경을 악화시키고 있으며, 이로 인해 리드 타임과 가격 압박이 가중되고 있습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "10월 동향",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "AI와 데이터 센터의 HBM 수요: 삼성전자와 마이크론 테크놀로지의 최신 실적 보고서에 따르면 AI와 클라우드 컴퓨팅의 발전으로 HBM에 대한 수요가 빠르게 증가하고 있습니다. HBM3E 제품 출시로 인한 매출 증가가 특히 두드러지며, AI와 데이터 센터 부문에서 그 영향이 가장 큽니다.",
-    "detected_vendors": [
-      "Micron",
-      "삼성"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "수요가 증가한 주요 제품: 마이크론의 12-High HBM 제품은 이전 8-High 모델보다 전력 소비가 20% 낮아 인기를 끌고 있으며, SK하이닉스는 HBM 신규 주문에 대해 1년 이상의 리드 타임을 제공하고 있습니다. 이 수요 증가는 고성능 컴퓨팅 및 AI 워크로드가 주도하고 있습니다.",
-    "detected_vendors": [
-      "Micron",
-      "SK하이닉스"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "가격 압박과 안정성: AI와 데이터 센터의 강한 수요로 HBM 가격이 높은 수준을 유지하고 있습니다. 마이크론, SK하이닉스, 삼성과 같은 공급업체는 HBM3와 LPDDR5에 대한 장기 계약을 통해 가격 안정성을 확보하며, DDR4와 같은 저가 메모리와는 다른 안정성을 보장하고 있습니다.",
-    "detected_vendors": [
-      "Micron",
-      "SK하이닉스",
-      "삼성"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "공급 제약과 생산 문제: HBM3 및 HBM3E 생산은 복잡한 제조 공정과 높은 자본 투자가 필요해 공급이 제한적입니다. 웨이퍼 생산 능력의 감소가 비트 증가를 제한하고 있지만, 2025년 동안 점진적인 공급 개선이 기대됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "HBM 수요로 인한 DRAM 생산 조정: SK하이닉스는 DRAM 생산의 약 20%를 HBM 생산으로 전환했으며, 이로 인해 DDR5 가격이 상승했습니다. 삼성은 DRAM 생산의 30%를 HBM3E로 할당해 Nvidia의 Blackwell GPU 수요를 충족하고 있습니다. 이로 인해 DDR5 공급 부족이 발생할 가능성이 있으며, 이는 고수요 HBM 제품에 대한 웨이퍼 공급이 우선되기 때문입니다.",
     "detected_vendors": [
       "Nvidia",
@@ -3472,167 +3299,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "복잡성 증가와 경쟁 차별화: 8-High에서 12-High HBM으로의 전환과 전력 효율 및 성능 향상은 2025년까지 가속화될 전망입니다. 마이크론은 전력 효율적인 HBM 제품에서 리더십을 발휘하고 있으며, 삼성의 대규모 HBM3E 생산 능력은 경쟁 구도를 변화시킬 가능성이 있습니다.",
-    "detected_vendors": [
-      "Micron",
-      "삼성"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "HDD 시장은 리드 타임이 연장되면서 공급 제약을 겪고 있으며, 특히 대용량 모델에서 그 영향이 두드러지고 있습니다. Seagate의 새로운 주문 절차와 더불어 배송 지연은 향후 몇 달 동안 시장을 더욱 압박할 수 있습니다.",
-    "detected_vendors": [
-      "Seagate"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "10월 동향",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "클라우드 컴퓨팅과 AI 부문의 HDD 수요: Western Digital과 Seagate Technology의 최신 실적 보고서에 따르면 클라우드 컴퓨팅과 AI 부문에서 HDD 수요가 증가하고 있습니다. 대용량 클라우드 스토리지와 대량 용량 출하가 주요 동인으로, 하이퍼스케일 클라우드 및 엔터프라이즈 데이터 센터에서 기술적 전환이 진행 중입니다. 클라우드 제공업체들은 AI 애플리케이션을 지원하기 위해 확장 가능하고 에너지 효율적인 HDD에 투자하고 있습니다.",
-    "detected_vendors": [
-      "Seagate",
-      "Western Digital"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "원자재 부족으로 인한 리드 타임 증가: Western Digital과 Seagate는 원자재 부족을 리드 타임 증가의 주요 원인으로 지목하고 있습니다. Western Digital의 리드 타임은 4주, Seagate는 6주 연장되었습니다.",
-    "detected_vendors": [
-      "Seagate",
-      "Western Digital"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "배송 지연: Seagate는 대용량 HDD에 대해 30~33주의 배송 지연을 경험하고 있으며, 이에 따라 새로운 주문 절차를 도입했습니다. 주요 제조업체인 Seagate, Western Digital, Toshiba는 리드 타임 개선이 거의 이루어지지 않고 있어 공급 제약이 계속되고 있습니다.",
-    "detected_vendors": [
-      "Seagate",
-      "Toshiba",
-      "Western Digital"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "대용량 HDD에 대한 높은 수요: 대용량 HDD 수요 급증이 시장 역학에 영향을 미치고 있으며, 중견 서버 OEM들이 특히 긴 리드 타임에 영향을 받고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "향상된 공급 가시성: 제조업체들은 모든 제품 범위에 대해 52주 주문 약정을 요구하며 공급망 가시성을 높이고자 하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "시장 변동 예상: 새로운 주문 절차에 적응하는 과정에서 시장 가용성과 가격에 변동이 예상되며, 이는 고객의 계획 및 재고 관리에 영향을 미칠 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "IC"
-    ],
-    "section_raw": "네트워킹 제품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "네트워크 인터페이스 카드 (NIC)",
     "text": "AI 기반 데이터 센터와 엣지 컴퓨팅 수요: Intel, Broadcom, Nvidia의 최신 실적 보고서에 따르면 AI 기반 데이터 센터와 엣지 컴퓨팅, 하이퍼스케일 환경에서 네트워킹 제품에 대한 수요가 증가하고 있습니다. AI 네트워킹 솔루션 및 맞춤형 가속기에 대한 투자가 이러한 성장을 주도하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -3645,13 +3315,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "소비자 GPU 시장은 AI 관련 시장 점유율 경쟁으로 치열해지고 있습니다. Nvidia의 가속화된 출시 일정과 주요 모델의 지속적인 부족으로 인해 역동적인 환경이 조성되고 있으며, 2024년 말까지 급격한 변화가 예상됩니다. 새로운 제품 출시와 공급 문제로 인한 변화 속에서 조기 계획과 전략적 구매가 중요해지고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3664,13 +3334,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3682,13 +3352,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "성능 수요가 전력 효율성에 미치는 영향: Nvidia의 최신 GPU인 RTX 50 시리즈는 이전 세대에 비해 성능이 크게 향상될 것으로 예상되며, TGP(총 그래픽 전력)가 상당히 증가할 것입니다. RTX 40 시리즈보다 기능이 뛰어나지만, 이로 인해 전력 소비도 증가할 것으로 보입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3699,13 +3369,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
@@ -3717,13 +3387,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -3735,14 +3405,14 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "RTX 4090 공급 문제: RTX 4090은 GDDR6X 메모리 부족과 Nvidia가 RTX 50 시리즈 출시를 준비하면서 GPU 칩 공급이 줄어들어 심각한 공급 제약을 겪고 있습니다. 이로 인해 고급 데스크탑 GPU 시장에서 가격 상승과 구매자 간의 경쟁이 심화될 수 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3756,13 +3426,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "PC & 소비자 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "소비자 GPU",
     "text": "가격 변동 가능성: 공급 부족과 높은 수요로 인해 RTX 4090과 같은 고급 소비자용 GPU의 가격이 변동될 수 있습니다. 구매자들은 앞으로 몇 달 동안 변화하는 가격 동향에 유연하게 대응할 필요가 있을 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3775,10 +3445,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "컴퓨트 모듈과 마더보드",
     "text": "컴퓨트 모듈 시장은 Nvidia Jetson products과 관련 개발 키트에 부과된 관세의 영향을 받고 있습니다. 이러한 관세는 시장 변동을 야기하며, 공급 수준과 수요 역학에 큰 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3793,10 +3464,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "컴퓨트 모듈과 마더보드",
     "text": "AI가 Jetson 제품 수요를 견인: Nvidia의 Jetson 카드 시리즈와 관련 개발 키트는 엣지 AI 컴퓨팅, 로보틱스, 사물인터넷(IoT) 애플리케이션에서의 활용도가 높아 강한 수요를 보이며, 이는 곧 가격 인상으로 이어질 가능성이 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3811,10 +3483,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "컴퓨트 모듈과 마더보드",
     "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10-15% 상승한 바 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3832,10 +3505,11 @@
     "detected_categories": [
       "GPU",
       "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "수동 부품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "폴리머 커패시터",
     "text": "다양한 응용 분야에서의 수요 급증: 서버, 노트북, 디스플레이, 그래픽 카드, 데이터 센터, 산업 제어 보드 등 다양한 부문에서 Panasonic 커패시터에 대한 수요가 크게 증가했으며, 이에 따라 생산 라인이이 현재 풀 가동상태입니다.",
     "detected_vendors": [
       "Panasonic"
@@ -3848,27 +3522,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "AMD 7900XTX(24GB)는 Deepseek R1 Distill AI 모델에서 NVIDIA 4080보다 20~30%, 4090보다 10% 더 높은 성능을 보이며, 더 낮은 가격과 전력 소비를 제공합니다.",
-    "detected_vendors": [
-      "Amd",
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 2,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 문제 속 Nvidia의 강세",
     "text": "NVIDIA는 주요 고객을 우선적으로 Blackwell GPU를 출하하고 있어, 다른 고객들의 공급이 제한되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3881,10 +3539,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 문제 속 Nvidia의 강세",
     "text": "NVIDIA의 RTX 5090 GPUs는 결함 논란으로 인해 40xx 시리즈와 같은 이전 구형GPU에 대한 문의가 증가하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3899,10 +3558,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 문제 속 Nvidia의 강세",
     "text": "NVIDIA의 A6000 ADA GPUs 가격은 3월 이후 강력한 시장 수요로 인해 최대 7% 상승할 것으로 예상됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3915,10 +3575,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 문제 속 Nvidia의 강세",
     "text": "NVIDIA의 ARM 기반 GH200 Grasshopper 서버에 대한 수요는 계속 증가하고 있으며, 리드 타임은 약 4-5개월로 추산됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3933,10 +3594,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급 문제 속 Nvidia의 강세",
     "text": "Jetson GPU Orin 모델(8GB, 16GB, 64GB)은 여전히 부족 상태이며, 리드 타임은 최소 10-20주입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3950,10 +3612,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "NVIDIA의 GeForce RTX 5000 시리즈GPUs는 하드웨어 및 소프트웨어 결함 문제가 발생하면서 소비자들의 불만이 커지고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3968,10 +3631,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가격 변동성과 시장 수요",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가격 변동성과 시장 수요",
     "text": "NVIDIA는 Blackwell GPU 출하를 전략적 고객 위주로 진행하고 있으며, 일반 시장에는 공급이 제한되어 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3984,26 +3648,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가격 변동성과 시장 수요",
-    "subheading": "",
-    "text": "AMD의 7900XTX는 AI 모델 처리 성능이 우수하여, 비용 효율적인 대안으로 데이터센터 채택이 늘고 있습니다.",
-    "detected_vendors": [
-      "Amd"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 3,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU 가격 변동성과 시장 수요",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가격 변동성과 시장 수요",
     "text": "GeForce RTX 4090 24GB는 수요가 높으며, 서버 응용 분야에서 큰 수요가 발생하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4014,10 +3663,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가격 변동성과 시장 수요",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가격 변동성과 시장 수요",
     "text": "NVIDIA는 Blackwell GPU 공급을 핵심 고객에게 우선 배정하고 있어, 일반 시장에 대한 공급은 제약되고 있습니다. 신규 주문의 리드 타임은 4~5개월로 예상됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4034,10 +3684,11 @@
     "month": 3,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가격 변동성과 시장 수요",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가격 변동성과 시장 수요",
     "text": "NVIDIA의 최신 소비자용 Blackwell GPUs는 결함 관련 논란이 있으며, 이에 따라 기존 40xx 시리즈에 대한 문의가 증가하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4053,10 +3704,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "2025년 낙관적 전망",
     "text": "AMD는 데이터센터, AI, 클라이언트 컴퓨팅의 성장에 힘입어 2025년 두 자릿수 매출 성장을 예상하고 있습니다. 특히 AI GPU와 기업 AI 도입에서 강세를 유지할 것으로 보고 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -4070,11 +3721,12 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "Other",
       "Passive",
       "Storage"
     ],
-    "section_raw": "관세 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "현재 상황",
     "text": "현재 스마트폰, PC, HDD, SSD, GPU는 임시 면제를 받았으나, 수동소자, 커넥터, PSU는 여전히 10% 관세 적용 대상입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4087,10 +3739,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "NVIDIA는 핵심 고객을 위해 Blackwell GPU 출하를 우선시하고 있어, 기타 고객에게는 제한된 공급만 제공되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4103,10 +3756,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "보고서에 따르면, NVIDIA는 데이터 센터보다 게이머용 GeForce 카드를 우선 공급하고 있으며, 5080/5090 GPU는 2분기 동안 품절 상태입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4119,10 +3773,11 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "RTX 6000 ADA에 대한 수요는 여전히 높으며, 마찬가지로 L40S는 여전히 많은 관심을 받고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4133,82 +3788,15 @@
     "month": 4,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "RTX 6000 Blackwell 발표로 인해 생산 자원이 전환되면서, RTX 6000 Ada는 공급이 더욱 타이트해질 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 4,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "AMD의 7900XTX는 AI 워크로드에서 NVIDIA의 4080보다 우수한 성능을 제공하며, 효율적이고 강력한 솔루션을 원하는 비용 민감형 데이터 센터에서 점점 더 인기를 얻고 있습니다.",
-    "detected_vendors": [
-      "Amd",
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 4,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "메인보드",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 4,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "IC"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "Supermicro는 통합 서버 솔루션 중심으로 전략을 전환하고 있으며, 단독 메인보드 판매를 중단했습니다.       이로 인해 특히 Deepseek 기반 데이터 모델을 위한 대체 브랜드 수요가 증가하고 있습니다.",
-    "detected_vendors": [
-      "Supermicro"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 4,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU",
-      "GPU"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "슈퍼마이크로의 AMD 프로세서를 사용하는 메인보드에 대한 새로운 부족 현상이 발생했으며, 확정된 ETA는 제공되지 않았습니다.",
-    "detected_vendors": [
-      "Amd",
-      "Supermicro"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4218,9 +3806,10 @@
       "CPU",
       "GPU",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "AI 수요로 공급 지속 긴축: AI 인프라 수요 급증으로 DRAM, CPU, GPU, SSD의 공급이 압박받고 있습니다. 리드 타임이 길어지고 가격이 상승하면서 조달 전략이 변화하고 있습니다.",
     "detected_vendors": [],
@@ -4234,10 +3823,11 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI 추론의 공급 부족 및 대체 제품 부상",
     "text": "A6000에 대한 현재 수요는 높지만, RTX 5880 Ada가 우선순위로 지정되면서 전체적인 전망은 불확실합니다. 기존에 A6000 기반으로 설계된 프로젝트를 가진 고객들은 전환 가능성이 낮습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4248,10 +3838,11 @@
     "month": 5,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AI 추론의 공급 부족 및 대체 제품 부상",
     "text": "AI 칩에 대한 수요는 계속해서 높을 것으로 예상됩니다. NVIDIA의 엔터프라이즈급 GPU는 여전히 공급 부족 상태이며, 리드 타임은 8~12주 사이입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4267,10 +3858,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "RTX 5090 수요는 여전히 강하며 공급은 따라잡는 중이나, RTX 50 시리즈 중 공급 격차는 가장 큼",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4281,10 +3873,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "RTX 5060 Ti 8GB & 16GB – 16GB 버전이 8GB보다 선호되며, 16GB 버전은 부족 현상 및 유통업체로의 배송 리드타임 연장",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4298,10 +3891,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "NVIDIA Blackwell Pro 6000 워크스테이션 GPU(96GB)가 일본/인도 시장에 $97K–$98K에 출시; 서버 에디션은 8월로 지연됨",
     "detected_vendors": [
       "Nvidia"
@@ -4314,10 +3908,11 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "Nvidia는 수출 규제를 준수하는 중국 전용 AI 칩을 개발 중인 것으로 알려짐: H20 칩의 중국 수출 금지 이후, Nvidia는 B30으로 불리는 Blackwell 기반 대체 제품을 설계 중이며, multi-GPU 확장 기능을 갖춤",
     "detected_vendors": [
       "Nvidia"
@@ -4333,10 +3928,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "미국, 중국산 GPU 관세 면제 8월 31일까지 연장: 미국무역대표부(USTR)는 GPU, 메인보드, 태양광 패널 등 칩 및 반도체가 포함된 부품에 대한 25% 관세(섹션 301 조항) 부과를 향후 3개월간 유예한다고 발표함",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4349,42 +3945,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "FGs 젯슨 시리즈 수요 증가",
-    "subheading": "",
-    "text": "지속적인 수요로 인해 다양한 젯슨 시리즈 출하가 연말까지 지연될 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "FGs 젯슨 시리즈 수요 증가",
-    "subheading": "",
-    "text": "여러 고객이 NVIDIA 젯슨 오린 NX 8GB/16GB에 대해 전압 관련 문제로 품질 문제를 보고했습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Quality / Defect"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 전략적 할당 및 시장 변동성",
     "text": "고급 데이터 센터 GPU에 대한 수요가 급증하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4395,10 +3960,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 전략적 할당 및 시장 변동성",
     "text": "A100 80GB의 공급이 소진되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4409,10 +3975,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 전략적 할당 및 시장 변동성",
     "text": "H100 80GB 및 94GB 모델은 EOL(생산 종료)에 접어들었으며, 가용성은 제한적입니다. H100 94GB는 리드 타임이 4-6주입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4426,10 +3993,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 전략적 할당 및 시장 변동성",
     "text": "EOL A100 80GB를 둘러싼 품질 우려와 거래 활동 증가가 지속되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4443,10 +4011,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 전략적 할당 및 시장 변동성",
     "text": "Nvidia Blackwell 4000/5000 시리즈는 예상보다 긴 리드 타임을 보이고 있으며, 일반 가용성은 8월 이후로 예상됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4462,82 +4031,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "IC",
+      "Other"
     ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
-    "text": "DDR4 시장은 여전히 매우 타이트한 상태입니다. 리드 타임은 2026년 초까지 연장되었고, 현물 가격은 추가로 10% 상승했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
-    "text": "DDR4 부족은 DDR5로의 전환을 가속화하고 있으며, DDR5는 밀도에 따라 1-7% 가격 상승으로 더 안정적인 상태를 유지하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Price Increase",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
-    "text": "삼성은 3분기 중 주요 재고 방출이 없을 것으로 보이며, LPDDR4/4X 공급은 EOL 상태 및 지속적인 수요로 인해 크게 제한될 것입니다.",
-    "detected_vendors": [
-      "삼성"
-    ],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU 전략적 할당 및 시장 변동성",
-    "subheading": "",
-    "text": "하이닉스는 7월 15–25일 사이에 가격 조정을 할 것으로 예상되며, 가용성은 여전히 제한적입니다.",
-    "detected_vendors": [
-      "SK하이닉스"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "IC"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "생성형 AI 및 칩 맞춤화: AI 붐은 성능 최적화 칩에 대한 수요를 가속화시키고 있으며, ASIC, 도메인 특화 GPU, OEM 및 통신사의 자체 설계에 대한 투자를 늘리고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4548,10 +4046,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "NVIDIA: 젠슨 황 CEO는 워싱턴 D.C.와 베이징에서 AI를 홍보하며, NVIDIA가 중국에서 H20 GPU 판매 재개를 위한 신청서를 제출하고 디지털 트윈 애플리케이션용 완전 준수 RTX PRO GPU를 출시한다고 확인했습니다. NVIDIA 블로그",
     "detected_vendors": [
       "Nvidia"
@@ -4565,10 +4064,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가용성 변화 및 라이프사이클 전환",
     "text": "GDDR6 공급은 여전히 타이트하며, 리드타임은 현재 약 6-8주입니다. 이는 AI 인접 분야 및 고성능 그래픽 수요로 인해 발생하며, 특정 GDDR6 속도 등급 및 밀도에 의존하는 일부 GPU 및 가속기 보드의 리드타임을 연장시키고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4581,10 +4081,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가용성 변화 및 라이프사이클 전환",
     "text": "Nvidia는 2026년 하반기에 일부 Ada Lovelace 시리즈 GPU의 단종(EOL) 발표할 계획입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4599,10 +4100,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가용성 변화 및 라이프사이클 전환",
     "text": "Nvidia Blackwell 200/4000/5000 시리즈는 예상보다 긴 리드타임을 겪고 있으며, 유통은 9월 이후로 지연되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4617,10 +4119,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "Nvidia는 중국을 위한 새로운 AI 칩을 개발 중이며, 이는 H20을 능가할 것으로 보입니다. 이 새로운 칩은 Nvidia의 플래그십 B300 가속기 카드의 정교한 듀얼 다이 구성 대비 절반의 원시 연산 능력을 제공할 가능성이 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4635,10 +4138,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -4656,10 +4160,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "집중 전환 및 배정 변화",
     "text": "Nvidia’s RTX PRO 4000/5000 Blackwell 워크스테이션 GPUs는 심각한 지연을 겪고 있으며, 일부 모델은 10월 중후반 또는 2026년 1분기까지 배정이 미뤄지고 있습니다. RTX PRO 6000은 중급 AI 배치의 중심 제품으로 부상하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4674,10 +4179,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "집중 전환 및 배정 변화",
     "text": "공식적인 EOL 통보 없지만, 유통업체와 사용자들은 널리 RTX PRO 6000을 후속 제품으로 인식하고 있어 L40S 시리즈가 단종에 가까워지고 있음을 시사합니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4690,10 +4196,11 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "집중 전환 및 배정 변화",
     "text": "소비자용 GeForce RTX 5090에 대한 시장 수요가 증가하고 있으며, 유통업체들은 배정 물량이 매진되고 현물가가 상승하고 있다고 보고하고 있습니다. 이는 데이터센터 GPUs와의 다이 공유에 대한 투기 수요가 부분적으로 작용하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4706,10 +4213,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2025년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU 가용성 변화 및 라이프사이클 전환",
     "text": "RTX Ada 시리즈의 Last Time Buy(LTB) 마감일이 두 달(1월에서 2026년 3월) 연장될 수 있다. 출하는 대략 2026년 9월까지 이어질 것으로 예상된다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -4721,10 +4229,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2025년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU 가용성 변화 및 라이프사이클 전환",
     "text": "엔비디아 GeForce RTX 5090 공급이 GDDR7 메모리 제약으로 계속 타이트해지고 있다. 이에 따라 가격은 최소 9% 상승할 것으로 예상되며, 리드타임은 2026년 1월로 밀려 고수요 소비자 GPU에 대한 지속적인 수급 불균형을 시사한다.",
     "detected_vendors": [
       "Nvidia"
@@ -4740,10 +4249,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2025년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "네트워킹 카드 지속적인 부족 현상",
     "text": "엔비디아의 CX8은 이제 신규 GB 시리즈 GPU와 번들로 함께 출하되며, 단독 구매는 일반적으로 불가능하다.",
     "detected_vendors": [
       "Nvidia"
@@ -4753,30 +4263,15 @@
   },
   {
     "year": 2025,
-    "month": 10,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
-    "text": "MCCX-7 출하가 이전 부족 사태에 이어 다시 지연되어 11월 말로 미뤄진 것으로 전해진다. 수요는 계속 증가하는 가운데, 특정 모델에서는 여전히 공급 불확실성이 남아 있다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2025,
     "month": 11,
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가용성 변화 및 라이프사이클 전환",
     "text": "심각한 GDDR7 칩 부족으로 인해 Nvidia는 RTX 5090 생산이 최소 2026년 4월까지 극도로 제한될 것이라고 채널 파트너에게 통보했다. 회사는 신규 구매 주문을 받지 않고 있으며, 이는 해당 GPU에 대해 지속적이고 심각한 공급 격차가 존재함을 확인해 준다.",
     "detected_vendors": [
       "Nvidia"
@@ -4791,10 +4286,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가용성 변화 및 라이프사이클 전환",
     "text": "RTX PRO 2000 및 4000 Ada 시리즈의 할당은 11월 말에서 2026년 1월로 연기되었다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4807,10 +4303,11 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가용성 변화 및 라이프사이클 전환",
     "text": "RTX PRO 5000 또한 리드타임이 8주를 초과하고 있으며, Nvidia는 AI 배치를 위해 마진이 더 높은 RTX PRO 6000 및 Blackwell B 시리즈에 우선순위를 두고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -4825,10 +4322,11 @@
     "month": 12,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "엔비디아 RTX 2000 및 4000 Ada 워크스테이션 GPU는 할당이 11월에서 2026년 1월로 이연되었으며, 리드타임이 현재 8주를 초과하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4845,10 +4343,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "엔비디아 RTX 5090 리드타임은 AI 개발용 GPU에 대한 폭발적 수요와 GDDR 메모리 잠재적 공급 부족으로 인해 2026년 2월까지 늘어났습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4862,48 +4361,14 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "메모리",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 12,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Memory",
-      "Storage"
-    ],
-    "section_raw": "GPU",
-    "subheading": "",
-    "text": "마이크론은 소비자용 크루셜 메모리 및 SSD 제품 라인을 단종하겠다고 공식 발표했습니다. 출하는 FY2026 2분기 말(2026년 2월)까지 중단되며, 이후 해당 사업 라인은 공식적으로 종료됩니다.",
-    "detected_vendors": [
-      "Micron"
-    ],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2025,
-    "month": 12,
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "엔비디아 H200 칩, 중국 반입 전 우회 경로 필요: 트럼프 행정부는 엔비디아의 H200 인공지능 프로세서의 중국 수출을 승인했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4917,10 +4382,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "SK하이닉스는 H200 수출 승인으로 가장 큰 수혜를 보고 있습니다. SK하이닉스가 H200에 사용되는 5세대 고대역폭 메모리(HBM3E)의 주요 공급사로 알려져 있어, 공급 물량이 불가피하게 증가하며 최대 수혜자가 될 것이라는 관측입니다. [소스: 트렌드포스]",
     "detected_vendors": [
       "SK하이닉스"
@@ -4934,10 +4400,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가용성 변화 및 라이프사이클 전환",
     "text": "NVIDIA RTX 5090 생산은 GDDR7 부족으로 2026년 4월까지 최소 수준에 머물 전망입니다. 현물 가격이 급등했으며, Nvidia는 신규 PO를 받지 않고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4953,10 +4420,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU: 가용성 변화 및 라이프사이클 전환",
     "text": "이미 단종(end‑of‑life)으로 발표된 NVIDIA Ada 워크스테이션 GPU의 공급은 계속해서 더 타이트해지고 있습니다. 지속되는 DRAM 부족으로 가격은 상승 추세를 유지하고 있으며, Nvidia는 AI 구축을 위한 블랙웰B‑시리즈 및 RTX 6000 GPU 생산을 더욱 우선시하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4973,10 +4441,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "네트워킹 지속되는 부족 및 지역 정책 혼란",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 네트워킹: 지속되는 부족 및 지역 정책 혼란",
     "text": "NVIDIA는 CX8 NIC를 GB 시리즈 GPU와 함께만 번들로 제공하고 있어, 단독 구매는 사실상 불가능합니다. MCCX-7의 가용성은 이전의 개선 신호에도 불구하고 여전히 불안정합니다.",
     "detected_vendors": [
       "Nvidia"
@@ -4989,10 +4458,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
     "detected_vendors": [
       "Amd",
@@ -5008,10 +4478,11 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "중국, 미국 H200 칩 수출에 대해 신중한 입장: 중국은 미국의 승인 이후 Nvidia의 H200 인공지능(AI) 칩을 수용할 가능성이 높으며, 이는 중국의 방대한 기술 부문에서의 즉각적인 수요에 의해 촉진됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5025,10 +4496,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
     "detected_vendors": [
       "Coherent",
@@ -5046,10 +4518,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU (데이터센터, 컨슈머, 워크스테이션): 물량 축소 및 채널 혼란",
     "text": "NVIDIA Blackwell(RTX 6000 / 5090) 서버 에디션은 약 25%의 가격 인상이 적용되고 있으며, 일부 제시 가격은 8,300~8,800달러에 달합니다. 컨슈머용 RTX 5090은 GDDR7 메모리 부족으로 공급 제약이 지속되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5065,10 +4538,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU (데이터센터, 컨슈머, 워크스테이션): 물량 축소 및 채널 혼란",
     "text": "Nvidia RTX 4000/5000 Ada 제품군은 리드타임이 48~52주로 유지되고 있으며, Blackwell 중심 생산 전략에 따라 일부 생산이 축소되면서 5~10%의 가격 인상이 이루어지고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5085,10 +4559,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💾 메모리 (DRAM, RDIMM, LPDDR, eMMC): 변동 가격 체계 및 물량 배정 붕괴",
     "text": "차량용‑ 8GB 및 16GB eMMC는 심각한 공급 부족이 발생하고 있습니다. 삼성과 마이크론은 사실상 견적 제시를 중단했으며, 리드타임은 2027년까지 연장되었습니다. SanDisk는 2026년 요청 물량의 15~20%만 계획할 것을 고객사에 안내했습니다. 레거시 eMMC 가격은 AI 가속기에 사용되는 ‑HBM3E/HBM4로 생산 능력이 재배치되면서 세 배로 상승했습니다.",
     "detected_vendors": [
       "Micron",
@@ -5106,10 +4581,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 뉴스",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 뉴스",
     "text": "메타, 장기 AI 인프라 계약으로 수백만 개의 Nvidia GPU·CPU 확보: Nvidia와 메타는 확대된 다년간 계약을 체결했습니다. 메타는 전 세계 데이터센터에 수백만 개의 Nvidia AI 칩을 배치하며, 대규모 인공지능 인프라 구축을 위한 장기적인 GPU, CPU 및 네트워킹 공급을 확보했습니다. 계약에는 Nvidia Blackwell GPU, 차세대 Rubin GPU, 독립형 Grace CPU, 향후 출시될 Vera CPU, 네트워킹 시스템 및 보안 기술이 포함됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5122,10 +4598,11 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 뉴스",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 뉴스",
     "text": "미국 안보 검토로 Nvidia의 중국 AI 칩 판매 지연: 도널드 트럼프의 수출 승인 이후 약 두 달이 경과했으나, Nvidia의 중국 대상 H200 AI 칩 판매는 여전히 워싱턴의 최종 승인을 기다리고 있습니다. 미국 정부는 중국 고객에 대한 라이선스 발급에 앞서 국가 안보 검토를 진행 중입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5140,10 +4617,11 @@
     "detected_categories": [
       "GPU",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "4. 중국 시장 분절화와 국산 대체 가속: H200 수출 승인 지연과 중국 하이퍼스케일러에 대한 RDIMM 공급이 약 30%로 제한됨에 따라, 주요 중국 OEM들은 국산 메모리 및 SSD 공급업체 인증을 가속화하고 있다. 엔터프라이즈급 성능 격차는 여전히 존재하지만, 수입 제품 대비 60~75%의 가격 경쟁력이 비용 민감형 시장에서 빠른 채택을 이끌고 있다. 이로 인해 가격 구조, 할당 우선순위, 공급망 가시성이 상이한 이중 구조의 글로벌 메모리 시장이 형성되고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5157,11 +4635,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "1. NVIDIA RTX 6000 Blackwell Server Edition 가격은 약 25% 상승했으며. 소비자용 RTX 5090은 GDDR7 메모리 부족으로 공급이 제한되며, 고마진 모델에 생산이 우선 배정되고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -5178,10 +4656,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "2. NVIDIA RTX 4000/5000 Ada 워크스테이션 GPU 리드타임은 48~52주로 유지되며, Blackwell 시리즈 집중으로 생산이 축소되고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -5197,10 +4675,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "3. Jetson 모듈 가격은 약 30% 상승했으며 리드타임은 24~26주로 증가했다. 할당은 매우 제한적이며 유통사는 확정 납기 일정이 없다고 보고하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5216,10 +4694,11 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "메모리: 가격 변동 및 할당 붕괴",
     "text": "3. Samsung 및 Micron의 8GB/16GB 자동차용 eMMC는 심각한 공급 부족 상태이다. 레거시 eMMC 가격은 3배 상승했으며, AI 가속기용 HBM3E/HBM4 생산 집중으로 공급이 축소되고 있다.",
     "detected_vendors": [
       "Micron",
@@ -5236,10 +4715,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
     "text": "1. Mellanox ConnectX-7 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사하다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능하다.",
     "detected_vendors": [
       "Mellanox",
@@ -5253,14 +4733,14 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
       "GPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "1. NVIDIA Blackwell(RTX 6000 / 5090) 서버 에디션은 25%의 가격 인상이 적용되고 있습니다. 컨슈머용 RTX 5090은 GDDR7 메모리 부족으로 공급 제약이 지속되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5274,13 +4754,13 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "2. RTX PRO 6000 Blackwell 서버 에디션은 전 세계 고객 수요가 급증하고 있으며, 평균 리드타임은 12주 이상으로 확대되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5291,13 +4771,13 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "3. NVIDIA RTX 4000/5000 Ada의 리드타임은 여전히 48~52주로 길게 유지되고 있으며, Blackwell에 집중하기 위해 생산이 축소되고 있습니다. 유통사들은 확정적인 납품 일정이 없다고 보고하고 있으며, NVIDIA는 하이퍼스케일러 주문을 충족하기 위해 이미 할당된 재고의 반환을 요구하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5311,13 +4791,13 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "CPU",
+    "category": "GPU",
     "detected_categories": [
-      "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "4. NVIDIA Jetson 모듈은 음향 소음 문제를 해결하기 위해 T5000 및 T4000 모듈의 업데이트된 부품 번호를 도입했습니다. Jetson Nano(900-13448-0020-0020)의 단종(EOL) 공지에 따라 최종 수요 예측 제출 마감일은 2026년 5월 15일, 최종 출하일은 2027년 1월 15일로 설정되었습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5333,10 +4813,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
     "text": "1. Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다.",
     "detected_vendors": [
       "Mellanox",
@@ -5355,10 +4836,10 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "4. Intel 데스크톱 및 모바일 CPU: Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
     "detected_vendors": [
       "Arrow",
@@ -5377,11 +4858,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "1. NVIDIA Blackwell(RTX 6000 / 5090) 서버 에디션은 약 25%의 가격 인상이 적용되고 있으며, 일부 제시 가격은 8,300 ~ 9,360에 달합니다. 컨슈머용 RTX 5090은 GDDR7 메모리 부족으로 공급 제약이 지속되고 있으며, 생산은 고마진 모델에 우선 배정되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5399,10 +4880,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "2. RTX PRO 6000 Blackwell Server Edition은 전 세계 고객 수요가 급증하고 있다. 가격은 15~20% 인상될 것으로 예상되며, 평균 리드타임은 12주 이상이고 할당은 매우 제한적이다. 유통사들은 워크스테이션 모델에 대해 확정 납기 일정을 제시하지 못하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5417,10 +4898,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "3. NVIDIA RTX 4000/5000 Ada의 리드타임은 여전히 48~52주로 길게 유지되고 있으며, Blackwell에 집중하기 위해 생산이 축소되고 있습니다. NVIDIA는 하이퍼스케일러 주문을 충족하기 위해 이미 할당된 재고의 반환을 요구하고 있으며, 이로 인해 중고(2차) 시장의 변동성이 확대되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5437,10 +4918,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "4. NVIDIA Jetson 모듈은 음향 소음 문제를 해결하기 위해 T5000 및 T4000 모듈의 업데이트된 부품 번호를 도입했습니다. Jetson Nano(900-13448-0020-0020)의 단종(EOL) 공지에 따라 최종 수요 예측 제출 마감일은 2026년 5월 15일, 최종 출하일은 2027년 1월 15일로 설정되었습니다. Jetson TX2 NX(900-13636-0010-000)도 단종되며, 최종 구매 가능일(LTB)은 2026년 7월 1일입니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5457,10 +4938,11 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "메모리: 가격 변동 및 할당 붕괴",
     "text": "3. LPDDR4/5 및 자동차용 eMMC: 8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
     "detected_vendors": [
       "Micron",
@@ -5478,10 +4960,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
     "text": "4. H200의 중국 수출 통제가 지속되면서 MCX75310AAS-NEAT와 같은 규제 준수 인터커넥트의 현물 시장 변동성이 이어지고 있다. 중국 유통사들은 규제 명확성이 확보될 때까지 해당 모델의 재고 확보를 보류하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -5493,10 +4975,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "• Intel 데스크톱 및 모바일 Alder Lake(12세대)는 공식적으로 단종(EOL)되었으며 제조사 지원이 제한적이어서 공개 시장 프리미엄이 상승하고 있다. Raptor Lake Refresh 및 Arrow Lake는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
     "detected_vendors": [
       "Arrow",
@@ -5514,11 +4996,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "• NVIDIA Blackwell(RTX 6000/5090) 서버 에디션 가격은 약 25% 상승했으며, RTX PRO 6000 Blackwell의 거래 가격은 1만1,000~1만2,500달러 이상 수준이다. 리드타임은 평균 12주 이상이다. 소비자용 RTX 5090은 GDDR7 메모리 공급 부족으로 인해 여전히 공급 제약 상태이며, 생산 능력은 수익성이 높은 AI 서버 제품에 우선 배정되고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -5536,10 +5018,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "• RTX PRO 6000 Blackwell의 수요 급증이 지속되고 있으며, 추가로 15~20%의 가격 인상이 예상된다. 할당은 여전히 매우 제한적이며, 유통업체들은 2026년 4분기까지 워크스테이션 버전에 대한 확정 납기 일정을 제시하지 못하고 있다고 보고하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5555,10 +5037,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "• NVIDIA RTX 4000/5000 Ada의 리드타임은 여전히 48~52주 수준으로 길게 유지되고 있다. Blackwell용 생산 능력을 확보하기 위해 생산량 축소가 계속되고 있으며, 유통업체들은 재고가 하이퍼스케일러 주문으로 재배정되고 있다고 보고하고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -5575,10 +5057,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "• NVIDIA Jetson 모듈은 전 제품 포트폴리오에 걸쳐 약 15%의 가격 인상이 예상된다. 레거시 모듈(Nano, TX2 NX)은 단계적 단종 전환이 진행 중이며, 최종 주문(LTB) 기간은 2026년 7월 종료된다. T5000/T4000 모듈의 업데이트된 부품 번호는 음향 노이즈 문제를 개선한 버전이다.",
     "detected_vendors": [
       "Nvidia"
@@ -5596,10 +5078,11 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "스토리지: 가격 재설정 및 급등",
     "text": "• Micron NOR Flash의 공급 부족은 여전히 심각한 수준이다. 웨이퍼 생산 능력이 엔터프라이즈 메모리와 AI 가속기 부품에 우선 배정되면서 리드타임은 2026년 하반기까지 연장되고 있다.",
     "detected_vendors": [
       "Micron"
@@ -5617,10 +5100,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "네트워킹: 공급 제약 및 스위치 납기 지연",
     "text": "• Mellanox CX6/CX7 100G/200G/400G NIC의 리드타임은 30~52주에 달하고 있다. NVIDIA가 차세대 GB 시리즈 GPU 번들용 CX8 생산을 우선시하고 있기 때문이다. 중국 하이퍼스케일러(ByteDance, Tencent)의 대량 조달로 인해 남아 있는 CX7의 가용 물량도 더욱 제한되고 있다.",
     "detected_vendors": [
       "Mellanox",
@@ -5637,10 +5121,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "네트워킹: 공급 제약 및 스위치 납기 지연",
     "text": "• Coherent(Finisar)는 400G/800G 트랜시버의 리드타임을 6개월 추가 연장했다. NVIDIA는 Q3400 스위치에 트랜시버 번들 구매를 의무화하고 있으며, H200 수출 규제로 인해 규제 준수 인터커넥트의 현물 시장 가격 변동성이 지속되고 있다.",
     "detected_vendors": [
       "Coherent",
@@ -5658,10 +5143,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "2. NVIDIA RTX GPU가 통합된 Intel CPU가 2028년 초 출시될 것이라는 관측이 제기되고 있다. Intel은 NVIDIA 그래픽 기술을 탑재한 프로세서를 2028년 1분기에 출시하는 것을 목표로 하고 있으며, 일정이 변동되지 않을 경우 해당 칩은 CES 2028에서 공개될 가능성이 있다. [출처: Yahoo News]",
     "detected_vendors": [
       "Intel",
@@ -5676,10 +5162,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "2. NVIDIA RTX GPU가 통합된 Intel CPU가 2028년 초 출시될 것이라는 관측이 제기되고 있다. Intel은 NVIDIA 그래픽 기술을 탑재한 프로세서를 2028년 1분기에 출시하는 것을 목표로 하고 있으며, 일정이 변동되지 않을 경우 해당 칩은 CES 2028에서 공개될 가능성이 있다.",
     "detected_vendors": [
       "Intel",
@@ -5693,10 +5180,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
     "detected_vendors": [
       "Broadcom",
@@ -5714,10 +5202,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU (데이터센터, 컨슈머, 워크스테이션): 물량 축소 및 채널 혼란",
     "text": "NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 24~48주까지 확대됐으며, 가격도 단계적으로 상승하고 있다. H200의 대중국 공급 승인은 미국 보안 심사로 인해 여전히 지연되고 있으며, 이로 인해 규제 준수 인터커넥트를 중심으로 변동성이 큰 현물 시장이 형성되고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -5732,10 +5221,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU (데이터센터, 컨슈머, 워크스테이션): 물량 축소 및 채널 혼란",
     "text": "NVIDIA Jetson 모듈은 대규모 가격 인상(30~50%)과 레거시 모듈(예: Nano, TX2 NX)에 대한 갑작스러운 단종(EOL) 통보에 직면하고 있으며, 최종 주문 기한은 2026년 7월 말로 다가오고 있다. NVIDIA는 또한 공개 시장 구매를 차단하고, 판매 대상을 메인보드 제조업체로만 제한하고 있다.",
     "detected_vendors": [
       "Nvidia"
@@ -5752,10 +5242,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
     "text": "Mellanox ConnectX-7/8의 리드타임은 여전히 20~24주 이상을 유지하고 있다. NVIDIA는 CX8 NIC를 GB 시리즈 GPU와 독점 번들 형태로 공급하고 있어, 단독 구매는 사실상 불가능한 상황이다.",
     "detected_vendors": [
       "Mellanox",
@@ -5771,10 +5262,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "주요 주제",
     "text": "4. NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격: NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5791,10 +5283,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "1. NVIDIA Blackwell 워크스테이션 및 서버 GPU는 RTX PRO 6000·5000·4000·2000 시리즈 전반에서 20~66%의 대폭적인 가격 인상에 직면해 있습니다. PRO 6000 Server Edition의 공식 매입가는 1만 4,000달러를 넘어섰으며, 납기 일정은 2027년 2분기 중반 이후까지 밀려 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5811,10 +5303,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "2. NVIDIA H200은 단계적 생산 종료 및 단종을 앞두면서 리드타임이 갑자기 28주에서 40~48주로 늘어났으며, 이에 따라 남은 OEM 재고와 정상 분리품 재고를 확보하기 위한 경쟁이 벌어지고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5831,10 +5323,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "3. 소비자용 GPU(RTX 5090/5080)는 가격이 20% 이상 인상되고 있으며, NVIDIA는 회색시장으로의 유출을 막기 위해 최종 사용자 확인 정책을 한층 강화하고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5848,10 +5340,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "GPUs: 할당 축소 및 채널 혼란",
     "text": "4. NVIDIA Jetson 모듈은 가격이 최대 60% 인상됐습니다. 수출 감시도 강화되고 있으며, 구형 모듈인 Jetson Nano는 엄격한 할당 제한과 단종 일정에 직면해 있습니다.",
     "detected_vendors": [
       "Nvidia"

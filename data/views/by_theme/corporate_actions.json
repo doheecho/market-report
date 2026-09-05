@@ -5,10 +5,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "저장 장치",
-    "subheading": "",
+    "section_raw": "2020년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nvidia GeForce RTX 2080 Ti 단종?",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -24,10 +24,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2020년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Infineon, Cypress 인수 완료",
     "text": "Infineon Technologies는 Cypress Semiconductor Industries 매입 절차를 완료했습니다. 이 인수 계약은 2019년 6월에 발표되었지만, 규제 기관의 최종 승인을 기다리느라 지연되었습니다. 그러나 지금은 양측 모두 인수 작업이 모두 종료되었음을 확인했습니다. 공급망에 즉각적인 영향이 미칠 것으로 예상하지는 않지만, 생산이 다른 곳으로 이전되거나 통합되는 경우 2020년 후반에 복잡한 상황이 전개될 수도 있습니다. Infineon 측에서는 이런 세부 사항은 여전히 계류 중입니다.",
     "detected_vendors": [
       "Infineon"
@@ -40,12 +41,12 @@
   {
     "year": 2020,
     "month": 6,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2020년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Infineon/Cypress, 전환 시작",
     "text": "Infineon은 4월에 Cypress 인수를 완료한 이후로 생산 활동의 전환 작업을 시작했는데, 여기에는 최종 조립 및 테스트 현장을 다른 Infineon 사업장으로 이전하는 작업이 포함되어 있습니다. 현재의 조업률은 80%에 불과해 리드 타임이 정상 상황보다 길다고 합니다.",
     "detected_vendors": [
       "Infineon"
@@ -61,10 +62,11 @@
     "month": 7,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2020년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "사물인터넷 시장 점유율을 확대하는 Dialog Semiconductor",
     "text": "Dialog Semiconductor가 Adesto Technologies를 성공리에 인수했습니다. 이번 인수를 통해 Dialog Semiconductor는 산업, 소비자, 의료 및 통신 시장과 같은 신규 시장에 진입할 수 있을 것입니다. 또한 두 회사 간의 교차 판매도 가능할 것이며 Dialog Semiconductor가 비즈니스 규모를 한 차원 더 키울 수 있을 것입니다. Adesto Technologies 역시 이번 인수를 통해 유통업체의 구조 조정 및 체제 개편과 같은 내부적인 변화가 있을 수 있으며, 이를 기반으로 서비스와 영업 활동을 더 나은 방향으로 통합할 수 있을 것입니다. 궁극적으로는 소비자들이 오늘날과 같이 촘촘히 연결된 세상에서 ‘사물’을 지능적으로 제어할 수 있도록 완벽한 데이터 액세스를 기대할 수 있을 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -77,10 +79,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC (ICs)",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Dialog Semiconductor, 사물인터넷 시장점유율 확대할 예정",
     "text": "Dialog Semiconductor가 Adesto Technologies를 성공적으로 인수하였고, 이번 인수를 통해 Dialog Semiconductor는 공업용, 소비자용, 의료용, 통신용 반도체 시장에 뛰어들 수 있게 되었습니다. 또한 두 회사 간 교차판매가 가능해지면서 Dialog Semiconductor의 사업은 더욱 높은 수준으로 확장될 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -91,12 +94,12 @@
   {
     "year": 2020,
     "month": 8,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC (ICs)",
-    "subheading": "",
+    "section_raw": "2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Dialog Semiconductor, 사물인터넷 시장점유율 확대할 예정",
     "text": "인수 이후 서비스와 업무 활동을 통합하기 위해 Adesto Technologies는 대리점의 구조 조정, 개편과 같은 내부 변화가 있을 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -109,10 +112,11 @@
     "month": 9,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수요 약화에 따른 DRAM 시장의 비관적 전망",
     "text": "플래그십 휴대폰 출시가 늦어지면서 제조사들은 모바일 DRAM 생산량을 줄이고 대신 서버 DRAM 생산을 늘렸습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -123,12 +127,13 @@
   {
     "year": 2020,
     "month": 9,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "저장장치",
-    "subheading": "",
+    "section_raw": "2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "대용량 기업용 HDD 수요 급증, 그러나 SSD는 그대로",
     "text": "SSD 수요는 아직 늘지 않았으며 제조업체들은 재고 이슈를 피하기 위해 생산량을 줄이고 있습니다. 공급업체들은 2020년 4분기까지 SSD 가격이 비슷하게 유지될 것으로 예측합니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -141,10 +146,11 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "text": "Nuvoton Technology는 Panasonic Semiconductor Solutions(PSCS)의 100%를 포함한 Panasonic의 반도체 사업 인수를 완료했다고 발표했습니다. PSCS는 2021년에 이루어질 것으로 예상되는 변화와 함께 Nuvoton Technology Japan으로 이름을 바꿀 예정입니다.",
     "detected_vendors": [
       "Panasonic"
@@ -160,10 +166,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 10월 마켓 리포트 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "text": "센서, 마이크로컨트롤러, 전력 관리 시스템, MOSFET, 다이오드 및 무선 주파수 장치와 같은 제품이 영향을 받게 됩니다. 커패시터 및 인덕터와 같은 수동 소자 는 인수 대상이 아닙니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -177,10 +184,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 확대하는 AMD",
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -194,12 +202,13 @@
   {
     "year": 2020,
     "month": 12,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "4 스토리지 (저장장치)",
-    "subheading": "",
+    "section_raw": "2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "팹리스로 가는 Intel",
     "text": "Intel 소식통은 이러한 인수는 Intel 의 SSD 공급에 그리 많은 영향을 미치지 않을 것이라는 생각을 공유했습니다. Intel 은 스토리지 비즈니스를 포기하지 않지만 단순히 제조를 아웃소싱할 뿐입니다. 이 기간 동안 Intel 은 시장에 SSD 제품을 계속해서 공급할 뿐만 아니라 고객들에게 관련 기술 지원 및 소프트웨어 업그레이드 서비스를 계속해서 제공할 것입니다.",
     "detected_vendors": [
       "Intel"
@@ -214,10 +223,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "1 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Analog Devices Inc., Maxim Integrated 인수 후 공급 격차 확인",
     "text": "Analog Devices Inc.(ADI)의 Maxim Integrated 인수 이후로, ADI가 유통업체에 제한된 일정에 따라서만 기존 고객 주문 물량을 공급한다는 소문이 있습니다. 인수에 따른 전환 기간이 가뜩이나 어렵던 ADI의 현 상황에 부담을 더할 것으로 예상됩니다. ADI의 리드 타임은 공급이 계속 제한된 상태에서 이미 최대 52~72주로 늘었습니다. 11월에는 15~20%의 가격 인상이 예상됩니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -232,12 +242,13 @@
   {
     "year": 2022,
     "month": 3,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "저장 장치",
-    "subheading": "",
+    "section_raw": "2022년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💾 저장 장치",
     "text": "SK Hynix가 Intel SSD 사업을 인수하고 Solidigm으로 브랜드를 바꾸었습니다. SSD 시장에 미칠 파급 효과를 제한하고자, SK Hynix와 Intel이 2025년까지 공존하는 체제가 될 것입니다.",
     "detected_vendors": [
       "Intel",
@@ -252,13 +263,13 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "새로운 시설이 가동되기를 기다리는 동안 어려움을 겪고 있는 생산 레벨",
     "text": "제조 역량과 관련하여, 삼성의 한국 내 시설은 올해  최대치를 생산했으며, 14NM 팹을 위해 2023년 1분기 DRAM 증산을 위한 새로운 공장을 오픈할 것이라고 발표했습니다. 경쟁사인 SK Hynix도 이를 따라 중국 우시 및 한국에 있는 공장에서 증산에 들어갔습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -275,10 +286,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "과잉 공급으로 생산을 줄이고 사업을 미루는 제조업체들",
     "text": "이런 상황을 주시하고 있던 제조업체 일부는 DRAM과 NAND 플래시 생산 감축을 발표하고 나섰습니다. 제일 먼저 생산량을 줄이겠다고 공개한 기업은 Micron이며 NAND 생산량을 30%나 줄이겠다는 KIOXIA가 그 뒤를 이었습니다. DRAM에 비해 NAND 플래시의 시장 상황은 더욱 악화되어 주력 용량 웨이퍼의 평균 계약가가 현금 가격으로 떨어져 거의 손해를 보고 판매하는 셈입니다.",
     "detected_vendors": [
       "Kioxia",
@@ -292,13 +304,13 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "과잉 공급으로 생산을 줄이고 사업을 미루는 제조업체들",
     "text": "현재 공급이 넘치는 시장을 고려할 때 DRAM 보급률이 예상했던 11.6%에서 10% 이하로 하락할 전망입니다. 또한 NAND 플래시 영역의 비율은 10.1%에서 5.6%로 감소할 것입니다. 따라서 가격 하락세의 속도가 늦춰질 것으로 예상되고 2023년에는 재고에 대한 압박이 약화되고 생산 감축에 따라 과잉 공급이 제한될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -312,29 +324,30 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다. 역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Analog Devices와 Maxim 합병 거의 완료",
+    "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다.",
     "detected_vendors": [
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Lead Time",
       "M&A"
     ],
-    "risk_level": "Medium"
+    "risk_level": "Low"
   },
   {
     "year": 2023,
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "과잉생산 문제 해결은 메모리 시장의 장기적인 문제가 되고 있음",
     "text": "생산을 양호하게 유지하기 위해 Kioxia 및 Micron과 같은 제조업체는 생산량을 줄이고 있으며 웨이퍼 생산 축소를 발표했습니다. 이러한 축소가 시장에 균형을 가져오기에 충분할 것인지는 확실하지 않습니다. 최근, 제조 라인에 들어간 웨이퍼는 약 4분의 1에 대해서는 공정이 유지될 것이므로 축소 효과가 영향을 미치려면 어느 정도 시간이 걸릴 것입니다.",
     "detected_vendors": [
       "Kioxia",
@@ -350,10 +363,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "개선 조짐을 보이는 Analog Devices의 리드 타임",
     "text": "최근 발표된 공지에 따르면 2023년에 Analog Devices의 제품 리드 타임이 단축될 것으로 예상됩니다. 현재 동사 포트폴리오의 절반은 리드 타임이 13주 미만입니다. 이러한 회복은 부분적으로 AD7/8xxx 시리즈와 같이 수요가 적은 Linear Tech 품목의 생산 감축과 같은 전략적 제조 감축에 기인합니다. 가장 최근 분기 실적 보고서에서 Analog Devices는 공급 문제를 해결하기 위한 전략으로 내부 생산량 증가와 파운드리 파트너와의 긴밀한 협력에 초점을 맞추고 있음을 분명히 했습니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -367,12 +381,12 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
     "text": "지난해, SK Hynix는 2023년에는 설비 투자를 50% 이상 줄이겠다는 계획을 발표했습니다. 생산 감축은 주로 수익성이 낮고 수요가 적은 제품을 대상으로 이루어졌습니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -385,11 +399,12 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "다른 업체들은 공급 과잉을 해결하기 위해 감산을 유지하고 있지만, SK Hynix는 자사의 전략이 SSD 및 HDD 시장의 회복 전망에 더 잘 부합할 것이라고 밝히고 있습니다.",
     "detected_vendors": [
@@ -405,10 +420,11 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "공급과 수요의 균형을 이루기 위한 제조업자 전략",
     "text": "그럼에도 불구하고 Quanta Computer, Compal Electronics, Wistron, Inventec과 같은 대만 소재의 ODM 업체들의 3월 매출 실적을 보면 노트북 수요가 당초 예상보다 양호했던 것으로 나타났습니다. 시장 상황을 미루어 볼 때, 제조업자들은 채널 수요가 더 강해질 것으로 보이는 2023년 2분기에 감산 전략을 철회할 가능성이 높습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -419,12 +435,12 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
     "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -438,12 +454,13 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
     "text": "단종 부품(EOL) 소식으로는 Intel이 SSD 시리즈 S4510 및 S4610의 최종 주문을 출하했습니다. 이는 일반적으로 가격 상승을 야기하지만, 고객들은 이미 대체 시리즈를 찾았습니다. Intel의 SSD 사업을 인수한 Solidigm은 Intel의 단종된 SSD에 대한 고객 지원 옵션을 제공하고 있지만 수요가 많지 않습니다. 이러한 수요 추세가 지속될 경우, 특히 S4510의 경우 시장 가격이 계속 하락할 것이라는 예측이 나오고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -462,10 +479,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
     "text": "DDR5에 영향을 미치는 공급 부족에도 불구하고, 삼성은 1분기 영업이익이 무려 95.8%나 급감하자 4월 7일 신규 감산을 발표했습니다. 이 발표는 중국이 Micron에 대한 보안 조사를 시작한 것과 맞물려 메모리 시장 전반에 걸쳐 엇갈린 반응을 불러일으켰습니다. 삼성과 SK Hynix 모듈의 가격 하락세는 이후 둔화되었습니다. 벤더들은 이것이 메모리 시장 수요에 절실히 필요한 재충전의 기회가 되기를 희망하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -482,12 +500,13 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "낮은 수요와 공급 증가가 SSD 및 HDD의 감산으로 이어지다",
     "text": "240GB~480GB와 같은 저용량 SSD는 수요가 약세를 보이면서 가격이 바닥을 치고 있습니다. 어려운 시장 상황과 수익 마진 감소로 인해 제조업체들은 저용량 SSD 및 모든 HDD 라인의 생산량을 줄이기로 결정했습니다. Seagate는 이미 감산을 시작했으며 인력도 감축하고 있습니다.",
     "detected_vendors": [
       "Seagate"
@@ -500,12 +519,13 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "낮은 수요와 공급 증가가 SSD 및 HDD의 감산으로 이어지다",
     "text": "공급업체들은 고용량 및 기업용 HDD가 문의와 주문에 있어 유일하게 각광받는 부분이라는 점을 인정합니다. 그러나 공급 상태는 양호한 편이며 감산이 이러한 제품에 미치는 영향은 거의 없을 것입니다. 또한 2021년 10월에 판매 종료(EOL) 통지를 한 Intel의 S4510 시리즈도 공급이 감소했습니다. 제조업체는 EOL 시리즈가 완전히 단종되기 전에 유통업체와 최종 고객에게 공급을 보장하기 위해 지금 S4520으로 전환할 것을 권장합니다.",
     "detected_vendors": [
       "Intel"
@@ -521,10 +541,11 @@
     "month": 6,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "메모리 제조업체, 시장 회복에 따른 가격 하락 방지에 집중",
     "text": "제조업체들이 감산을 단행한 이후로 지난 한 달 동안 RDIMM 시장 내 활동이 증가했습니다. 이러한 전략으로 인해 특정 고가 제품에 대한 주문이 증가하여 일시적으로 가격이 상승했지만, 초기 급등 이후 현재는 가격이 안정화되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -535,12 +556,12 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Cypress의 생산 능력 문제 및 리드 타임 장기화 지속",
     "text": "2021년 Infineon이 Cypress 인수를 완료했을 때, 팬데믹에 따른 어려움이 계속되어 제조가 정상 수준에 미치지 못하고 있었습니다. 해당 인수의 초기 의도는 Infineon을 자동차 산업을 위한 최대 칩 생산업체로 만들고, 증가하는 사물인터넷(IoT) 시장의 필요성을 지원하는 것이었습니다.",
     "detected_vendors": [
       "Infineon"
@@ -553,12 +574,13 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "원자재 및 생산 비용에 따라 HDD 제조업체 가격 인상",
     "text": "지난 몇 달간 시장이 침체한 상황이어서 SSD 공급 상태는 아직 양호합니다. SSD 제조업체는 결과적으로 과잉되지 않고 안정적인 재고 수준을 보장할 수 있도록 감산 및 공급 조절을 실시하고 있습니다. 오픈 마켓 공급이 줄어들면 SSD 가격을 회복할 것으로 기대하지만, 이를 위해서는 상당한 수요 회복이 필요합니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -569,12 +591,12 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Intel 비즈니스 전략, 서버 리드 타임 증가시켜",
     "text": "MiTAC은 Intel 서버 사업 인수로 인해 공급 차질이 발생해 추후 안내 시까지 리드 타임이 지연되는 것으로 알려졌습니다. 생산 능력을 회복할 때까지 신규 주문을 받을 수 없습니다.",
     "detected_vendors": [
       "Intel"
@@ -588,12 +610,12 @@
   {
     "year": 2023,
     "month": 8,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "DDR4 및 DDR5 가격 경쟁 심화",
     "text": "오픈 마켓의 재고 수준은 일반적으로 여전히 높으며, 비용이 공식 제조업체의 가격보다 낮습니다. 다만 상황이 바뀔 가능성은 있습니다. 공급 및 수요 주기에 대한 이해를 바탕으로 볼 때 1분기부터 2분기까지 채택된 생산량 감소 전략이 시장에 영향을 미치는 데는 약 6개월이 걸릴 것으로 예상됩니다. AI 산업으로 인해 수요가 회복되면서 이러한 감산 효과가 나타나기 시작할 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -606,10 +628,11 @@
     "month": 9,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "DDR5 공급 제약의 심화로 안정되기 시작한 메모리 모듈 가격",
     "text": "지속적인 하락세를 보이던 메모리 모듈 가격은 현재 수급 불균형이 전환되며 안정화되기 시작했습니다. 유의미한 비용 상승은 다소 시간이 걸릴 것입니다. 단 제조업체가 DRAM을 감산하는 경우 이 과정이 가속화될 수 있습니다. 오픈 마켓에서 공급이 감소하면 가격이 상승하므로 수요가 가용성을 초과하게 됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -620,11 +643,12 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "HDD 시장의 정체가 제조업체의 감산 시행과 가격 인상을 유발하고 있습니다.",
     "detected_vendors": [],
@@ -637,12 +661,13 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "제조업체의 할당 이행 노력에 따라 SSD 가격 매일 변동",
     "text": "일 년간의 시장 둔화로 제조업체는 수익 회복을 위해 가격을 인상하며 유통업체 및 최종 고객에 대한 SSD 할당을 대폭 줄였습니다. 지난 몇 분기 동안 정체된 수요에 따라 고객은 보수적인 예측치를 제출했으나 할당 및 생산 감축으로 예상치 못한 수요 증가가 발생하면서 SSD 시장 상황이 급격하게 반전되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -656,10 +681,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "AMD의 Milan 및 Genoa 시리즈 인기 계속돼",
     "text": "AMD의 최적화된 재고 관리를 위한 감산 관련 소문이 있었음에도 Milan 및 Genoa 시리즈에 대한 오픈 마켓 활동의 주요 동인은 여전히 비용 절감입니다. AI 확산에 힘입어 전반적인 서버 CPU 수요는 꾸준히 증가할 것으로 기대되지만 이는 공급이 감소할 수 있으므로 변동할 수 있습니다.",
     "detected_vendors": [
       "Amd"
@@ -672,13 +698,13 @@
   {
     "year": 2024,
     "month": 4,
-    "category": "CPU",
+    "category": "IC",
     "detected_categories": [
-      "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "CPU",
-    "subheading": "",
+    "section_raw": "2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가상화폐 채굴자 사이에서 AMD 제품 수요 증가",
     "text": "운영 중단은 Maxim Integrated Products와 Analog Devices의 합병으로 인해 발생했습니다. 3년 전 Analog Devices에서 Maxim을 인수했지만 당초 예상했던 것보다 더 오랜 시간이 걸렸습니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -691,11 +717,12 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2024년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "HDD 공급은 감산으로 인해 극도로 제한되어 가격이 상승하고 있으며, SSD 공급은 안정적으로 유지되고 있지만 비용이 상승하고 있습니다.",
     "detected_vendors": [],
@@ -707,12 +734,13 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2024년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -726,10 +754,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🎮 GPU",
     "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
     "detected_vendors": [
       "Amd",
@@ -743,12 +772,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 IC",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
       "Amd"
@@ -763,13 +792,13 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "CPU",
+    "category": "Memory",
     "detected_categories": [
-      "CPU",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메인보드 Supermicro 전략 조정",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "RDIMM:시장 동향과 수요 변화",
     "text": "4800 속도의 RDIMM 모듈에 대한 관심은 점점 줄어들고 있으며, 단종(EOL) 공지가 나온 상태입니다. 반면, 96GB 및 128GB의 고용량 모듈은 예측 상향 또는 감산에 따라 수요가 계속 증가하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -783,10 +812,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "Onsemi는 Allegro MicroSystems를 69억 달러에 인수 제안했으며, 이 인수는 시장 침체 속에서 새로운 수익원을 확보하기 위한 전략으로 해석됩니다.",
     "detected_vendors": [
       "Onsemi"
@@ -801,10 +831,11 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
     "detected_vendors": [
       "Onsemi"
@@ -819,10 +850,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "GlobalFoundries, 미국 내 반도체 생산 확대를 위해 160억 달러 투자 계획 발표: 미국 최대 파운드리인 GlobalFoundries는 Apple 및 Qualcomm과 같은 현지 고객의 미충족 수요 대응을 위해 해당 결정을 발표",
     "detected_vendors": [],
     "detected_keywords": [
@@ -835,10 +867,11 @@
     "month": 6,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
     "detected_vendors": [
       "Kioxia"
@@ -851,12 +884,12 @@
   {
     "year": 2025,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로 공급 제약 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2025년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로 공급 제약 및 시장 변화",
     "text": "Skyworks의 SMPxx 시리즈 다이오드 리드타임이 생산 감축과 원자재 부족으로 8주에서 16주로 연장되었다. 여기에 더해, 해당 부품 가격이 10배 급등해 많은 구매자들이 사실상 시장에서 배제되고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -871,10 +904,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "Skyworks, Qorvo 합병 추진: 주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
     "detected_vendors": [
       "Qorvo"
@@ -889,10 +923,11 @@
     "month": 12,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "TSMC, 엔비디아와 CoWoS 생산능력 확대: 반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -908,10 +943,11 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
     "detected_vendors": [
       "Renesas"
@@ -926,10 +962,11 @@
     "month": 2,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "Texas Instruments는 Silicon Labs 인수 계약을 발표했으며, 거래는 2027년 상반기 중 완료될 예정입니다. 본 인수는 제조 리쇼어링을 목표로 하나, 향후 24개월간 양사 고객에게 공급 차질 및 통합 리스크가 발생할 가능성이 있습니다. [출처: TI]",
     "detected_vendors": [
       "Texas Instruments"
@@ -944,10 +981,11 @@
     "month": 4,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
+    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "💻 CPU (서버, 데스크톱, 임베디드): 구조적 공급 부족 및 파운드리 전환",
     "text": "3. Intel 데스크톱 및 임베디드 소형 코어 CPU(N 시리즈, J6412/SRKUA)는 여전히 심각한 공급 제약을 받고 있습니다. 인텔은 Panther Lake/18A AI PC 증산에 집중하기 위해 저마진 SKU의 우선순위를 낮추고 있습니다. 3월 말부터 약 10%의 가격 인상이 시행되고 있으며, N97, N305, J6412에서는 디커밋이 빈번하게 발생하고 있습니다.",
     "detected_vendors": [
       "Intel"
@@ -966,10 +1004,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "CPU: 구조적 공급 부족 및 파운드리 전환",
     "text": "• 스몰 코어 CPU인 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약 상태가 지속되고 있다. Intel은 Panther Lake 및 18A AI PC 증산에 집중하기 위해 저마진 SKU의 우선순위를 낮추고 있으며, 2026년 2분기부터 전 포트폴리오에 걸쳐 5~25%의 가격 인상을 시행하고 있다.",
     "detected_vendors": [
       "Intel"
@@ -986,10 +1024,11 @@
     "month": 7,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🌐 공급망 동향",
     "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]",
     "detected_vendors": [
       "Infineon",
@@ -1005,12 +1044,12 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
     "detected_vendors": [
       "TSMC",

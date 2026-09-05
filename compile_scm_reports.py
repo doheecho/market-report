@@ -208,46 +208,63 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
         
-    lines = content.split("\n")
+    lines = content.split(chr(10))
     records = []
     
     current_section = "Intro"
     current_subheading = ""
-    
+
     for line in lines:
         line = line.strip()
         if not line:
             continue
-            
-        if line.startswith("### "):
-            current_section = line.replace("### ", "").strip()
+
+        # 1. ## (H2) represents the main Section/Category (e.g. ## 3. Memory)
+        if line.startswith("## "):
+            current_section = line.replace("## ", "").strip()
             current_subheading = ""
             continue
-        elif line.startswith("---"):
-            continue
-        elif line.startswith("##"):
+        elif line.startswith("##") and not line.startswith("###"):
+            current_section = line.replace("##", "").strip()
+            current_subheading = ""
             continue
             
-        if line.startswith("#### "):
+        # 2. ### (H3) represents the Subheading (e.g. ### DRAM, ### NAND)
+        elif line.startswith("### "):
+            current_subheading = line.replace("### ", "").strip()
+            continue
+        elif line.startswith("###") and not line.startswith("####"):
+            current_subheading = line.replace("###", "").strip()
+            continue
+            
+        # 3. #### (H4) can also represent the Subheading
+        elif line.startswith("#### "):
             current_subheading = line.replace("#### ", "").strip()
             continue
-            
-        if "The Greensheet는" in line or "제공된 정보는" in line:
+        elif line.startswith("####"):
+            current_subheading = line.replace("####", "").strip()
             continue
             
+        elif line.startswith("---"):
+            continue
+
+        # Filter out Greensheet header/footer lines
+        if "The Greensheet" in line or "제공된 정보는" in line:
+            continue
+
         vendors, keywords = analyze_paragraph(line)
         category_raw = map_category_user(current_section, user_cat_map)
-        
+
         detected_categories = analyze_categories_for_paragraph(line, category_raw)
         category = detected_categories[0] if detected_categories else "기타"
-        
+
         risk_level = calculate_risk_level(keywords)
-        
+
         record = {
             "year": int(year),
             "month": int(month),
-            "category": category, 
-            "detected_categories": detected_categories, 
+            "category": category,
+            "detected_categories": detected_categories,
             "section_raw": clean_section(current_section),
             "subheading": current_subheading,
             "text": line,
@@ -256,7 +273,7 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
             "risk_level": risk_level
         }
         records.append(record)
-        
+
     return records
 
 def clean_filename(name):
@@ -272,9 +289,57 @@ def clean_filename(name):
     name = re.sub(r"_+", "_", name)
     return name.strip("_")
 
+
+def split_raw_full_archive():
+    archive_path = os.path.join(REPO_DIR, "data", "raw", "raw_full_archive.md")
+    if not os.path.exists(archive_path):
+        print(f"- Warning: raw_full_archive.md not found at '{archive_path}'. Skipping split.")
+        return
+        
+    print("- Found raw_full_archive.md. Splitting into monthly source files...")
+    with open(archive_path, "r", encoding="utf-8") as f:
+        content = f.read()
+        
+    lines = content.split(chr(10))
+    
+    current_year = None
+    current_month = None
+    current_file_lines = []
+    
+    for line in lines:
+        # Detect lines like "## 📦 2020년 4월..." or with Mojibake (##.*?(\d{4}).*?(\d{1,2}))
+        match = re.search(r"^##\s+.*?(\d{4}).*?(\d{1,2})", line)
+        if match:
+            # Save the previous file before starting the new one
+            if current_year and current_month and current_file_lines:
+                save_monthly_source(current_year, current_month, current_file_lines)
+            
+            current_year = match.group(1)
+            current_month = f"{int(match.group(2)):02d}" # Pad month to 2 digits (e.g. 04)
+            current_file_lines = [line]
+        else:
+            if current_year and current_month:
+                current_file_lines.append(line)
+                
+    # Save the very last month!
+    if current_year and current_month and current_file_lines:
+        save_monthly_source(current_year, current_month, current_file_lines)
+
+def save_monthly_source(year, month, lines):
+    filename = f"fusion_greensheet_{year}.{month}.txt"
+    dest_path = os.path.join(FORM_DIR, filename)
+    
+    content = chr(10).join(lines)
+    with open(dest_path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+
 def main():
     print("=========================================================")
     print("🚀 SCM DATA LAKE MASTER COMPILER ACTIVE")
+    print("=========================================================")
+    # 1. Automatically split single source of truth raw_full_archive.md into monthly txt files!
+    split_raw_full_archive()
     print("=========================================================")
     
     csv_rows = try_read_user_csv()

@@ -4,10 +4,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2020년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "가격 인상에 나선 Microchip",
     "text": "2020년 초 이후로 Microchip이 가격을 인상할 것이라는 얘기가 있었습니다. 하지만 이제 겨우 그 과정을 시작하고 있는 단계일 뿐입니다. 가격 조정의 주된 이유는 제조원가 상승 때문으로, 주로 ATTINY, ATXMEGA, ATMEGA에 탑재되는 Atmel 시리즈에 영향을 미칩니다.",
     "detected_vendors": [
       "Microchip"
@@ -23,10 +24,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "3 ICs (집적회로)",
-    "subheading": "",
+    "section_raw": "2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "시장 점유율을 확대하는 AMD",
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
       "Amd",
@@ -42,10 +44,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "대규모 공급 부족, IC 생산에 지속적인 영향",
     "text": "모든 주요 집적 회로(IC) 공급업체가 높은 수요로 인해 자동차 주문을 우선시했습니다. 하지만, 심각한 공급 부족란이 공장에 영향을 미치는 인력 및 원자재 부족을 비롯하여 생산 라인에 부담을 가중하고 있습니다. 영향을 받은 부품에는 STMicroelectronics, Infineon, Microchip에서 제조하는 전력 관리 및 아날로그 IC, 아날로그 신호 변환기 및 MOSFET이 포함됩니다. Infineon의 리드 타임은 평균 48주에서 60주로 늘어났습니다.",
     "detected_vendors": [
       "Infineon",
@@ -63,10 +66,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip, 전 제품에서 가격 인상 단행",
     "text": "Microchip은 전 제품에 걸쳐 평균 10% 인상과 함께 5%~40%의 광범위한 가격 인상을 단행했습니다. 리드 타임은 현재 최대 50주이고 신규 주문에는 1년의 배송 시간과 함께 NCNR이 요청됩니다. Microchip의 선호 공급업체 프로그램에 참여해도 할당량 전체가 보장되지 않았고 부족분이 50%에 달했던 것으로 보고되는 것과 같은 경우가 많이 있었습니다. 이는 공급 격차가 참여하지 않는 업체에서 훨씬 높게 나타난다는 것을 시사합니다.",
     "detected_vendors": [
       "Microchip"
@@ -85,10 +89,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "완제품",
-    "subheading": "",
+    "section_raw": "2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "EEPROM 공급 부족, 트랜시버 생산에 영향",
     "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
     "detected_vendors": [
       "Microchip"
@@ -104,10 +109,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "리드 타임 연장과 가격 인상이 예상되는 Microchip 시리즈",
     "text": "원자재 부족과 TSMC의 0.18마이크론 웨이퍼 중단으로 인해 모바일 및 스마트 전자기기 산업 부품을 비롯한 전 부문의 생산이 영향을 받고 있는 가운데 Microchip 할당은 여전히 빠듯한 상황입니다. Microchip은 또한 일부 시리즈의 가격을 5~40% 인상했습니다. 전반적으로 10%의 인상을 단행한 가운데 리드 타임은 현재 50주 이상으로 지속되고 있습니다. 소문에 따르면 Microchip의 고객은 제품 확보를 위해 1년 전에 주문을 넣어야 하며 공식 대리점은 주문의 60%밖에 수령하지 못하고 있다고 합니다.",
     "detected_vendors": [
       "Microchip",
@@ -126,10 +132,11 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "대조적으로 Microchip MCP 시리즈는 생산으로 재고 수준이 보충됨에 따라 리드 타임이 단축되었습니다. PIC12와 16 시리즈의 리드 타임은 8~12 주로 개선된 반면, PIC24와 25 시리즈는 20주를 상회하여 시장에서 여전히 공급이 부족한 상태입니다.",
     "detected_vendors": [
       "Microchip"
@@ -145,10 +152,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "text": "소문에 따르면 Microchip은 고객이 예상보다 빨리 자재가 배송될 수 있는지 확인하려는 경우 2,000달러의 수수료 지불을 요구하고 있습니다. 더 빨리 배송되지 않는 경우에도, 고객은 수고비 명목으로 이 수수료를 지불해야 한다고 합니다. 고객들은 이미 이 서비스를 이용했지만, 일부 고객은 어떤 피드백도 받은 바가 없다고 전했습니다.",
     "detected_vendors": [
       "Microchip"
@@ -161,10 +169,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "text": "또한 Microchip이 여러 프로젝트에 대한 철회를 발표하고 있다는 보도가 있습니다. 이와 동시에 고객들은 시장 수요가 크게 감소함에 따라 Microchip 선호 공급업체 프로그램에서 탈퇴하려고 하고 있습니다. 여러 OEM 및 ODM은 미래 수요를 계산할 수 없어 여러 번의 취소를 통해 예측치를 20% 이상 줄였습니다.",
     "detected_vendors": [
       "Microchip"
@@ -177,10 +186,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "text": "공급의 예측 불가능성으로 인해 고객들은 다른 제조업자들로 발길을 돌리고 있으며 이로 인해 Microchip은 과잉 재고를 떠안고 있습니다. 이것이 유리해 보일 수 있지만 표준 리드 타임은 평균 45~48주 사이에 머물러 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -195,10 +205,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip, 5% 가격 인상",
     "text": "이전 분기 동안 Microchip은 원자재 부족이 제품 생산에 영향을 주어 리드 타임이 더 늘어났다고 보고했습니다. EEPROM 부품과 같은 특정 제품의 리드 타임은 50주 이상이었습니다. 새해에는 특히 ATMEL SAM 및 ATMEGA 시리즈 내에서 공급이 악화되었고 Microchip은 NCNR 주문만 수락했습니다.",
     "detected_vendors": [
       "Microchip"
@@ -214,10 +225,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "",
+    "section_raw": "2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip, 5% 가격 인상",
     "text": "그러나 고객이 공통 부품의 납기를 늦추면서 Microchip은 여전히 수요가 적은 곳에서 어려움을 겪었습니다. 이러한 지연으로 인한 수익 손실과 원자재 비용 상승으로 인해 Microchip의 제품 가격이 약 5% 인상되는 결과를 초래했습니다.",
     "detected_vendors": [
       "Microchip"
@@ -232,9 +244,10 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "Microchip의 기존 MCU에 대한 수요는 둔화됐지만, EEPROM에 대한 수요는 늘어나고 있으며 이는 리드 타임의 연장으로 이어지고 있습니다.",
     "detected_vendors": [
@@ -250,10 +263,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip, MCU 수요는 둔화됐지만 IC 리드 타임 연장 확인",
     "text": "Microchip의 기존 8비트 및 16비트 MCU에 대한 수요가 둔화하였으며 오픈 마켓에서의 공급이 개선되고 있습니다. 게다가 블루투스 모듈 공급도 더 양호해져 현재는 리드 타임이 24~26주입니다.",
     "detected_vendors": [
       "Microchip"
@@ -268,10 +282,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "Microchip, MCU 수요는 둔화됐지만 IC 리드 타임 연장 확인",
     "text": "최종 소비자 시장은 최근 몇 달 동안 수요가 줄어드는 추세를 보여 어려움을 겪고 있습니다. 하지만, Microchip에 따르면 가정용 기기는 괜찮은 상황입니다. 가정용 기기는 일반적으로 프로그래밍과 유지관리를 간소화하기 위해 EEPROM을 사용합니다. 수직 산업 분야의 고객은 공급 부족(Shortage)이 계속되면 오픈 마켓으로 방향을 바꿀 수도 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -286,10 +301,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Microchip은 여전히 높은 재고 수준에 어려움을 겪고 있으며, 특히 직접 고객들의 재고가 유통사 재고보다 더 큰 문제로 지적되고 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -302,10 +318,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "2025년 비관적 전망",
     "text": "Microchip은 산업 및 자동차 고객의 재고 감축이 계속되면서 공장 가동률 저하와 같은 어려움을 겪고 있어 비관적인 전망을 유지하고 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -318,10 +335,11 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 및 기업 업데이트",
     "text": "Microchip은 자동차 수요 감소로 인해 구조조정 계획을 발표했으며, 2,000명 규모의 인력 감축 및 중국 파트너사에 IC 판매 계획도 포함되어 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -334,10 +352,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "6. Microchip은 8월 중순부터 전 시리즈의 가격을 15~20% 인상했으며, PIC 및 MCP 시리즈의 리드타임은 20~30주로 늘어났습니다.",
     "detected_vendors": [
       "Microchip"

@@ -4,10 +4,11 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "완제품 상품 업데이트",
-    "subheading": "",
+    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "컴퓨트 모듈과 마더보드",
     "text": "중국 기업과의 경쟁 심화: 화웨이와 Inspur 같은 중국 브랜드의 경쟁력 있는 가격대의 서버 마더보드가 등장하면서, Supermicro와 같은 기존 기업의 시장 점유율에 변화가 나타나고 있습니다.",
     "detected_vendors": [
       "Huawei",

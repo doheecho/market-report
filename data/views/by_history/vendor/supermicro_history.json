@@ -8,10 +8,10 @@
       "detected_categories": [
         "CPU",
         "IC",
-        "Storage"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Filecoin에 대한 대대적인 광고로 인해 AMD CPU뿐 아니라 이 CPU가 사용되는 마더보드(Supermicro, AsRock, Asus에서 제조하는 CPU 포함)의 가격 폭등과 공급 부족이 발생했습니다.",
+      "summary": "재택근무 관련 제품의 수요는 계속 증가",
       "text": "Filecoin에 대한 대대적인 광고로 인해 AMD CPU뿐 아니라 이 CPU가 사용되는 마더보드(Supermicro, AsRock, Asus에서 제조하는 CPU 포함)의 가격 폭등과 공급 부족이 발생했습니다. 소식통에 따르면, 듀얼 소켓 마더보드가 가장 큰 영향을 받고 있다고 합니다. 노트북 수요는 3분기 말까지 강세로 유지될 것으로 예상됩니다. 무선 카드와 함께 웹캠 및 헤드셋과 같은 주변 장치 제품 역시 수요 폭증으로 공급을 맞추기 빠듯한 상황입니다. 제조업체들은 학생과 재택근무를 하는 직장인의 넘치는 수요를 충족시키려 노력하고 있지만, 언제 그 수요를 따라잡을지는 분명하지 않습니다."
     },
     {
@@ -19,94 +19,99 @@
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다.",
+      "summary": "재택근무 관련 제품들에 대한 지속적인 수요 증가",
       "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "마더보드 시장은 현재 중국 브랜드의 경쟁 심화와 주요 기업들의 전략적 변화로 인한 가격 상승으로 특징지어집니다.",
+      "summary": "컴퓨트 모듈과 마더보드",
       "text": "마더보드 시장은 현재 중국 브랜드의 경쟁 심화와 주요 기업들의 전략적 변화로 인한 가격 상승으로 특징지어집니다. 또한 Supermicro가 완전한 서버 조립 제품으로 전환하면서 최소 주문 수량(MOQ) 증가와 리드 타임 연장이 발생하여 가격 압박이 가중되고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "중국 기업과의 경쟁 심화: 화웨이와 Inspur 같은 중국 브랜드의 경쟁력 있는 가격대의 서버 마더보드가 등장하면서, Supermicro와 같은 기존 기업의 시장 점유율에 변화가 나타나고 있습니다.",
+      "summary": "컴퓨트 모듈과 마더보드",
       "text": "중국 기업과의 경쟁 심화: 화웨이와 Inspur 같은 중국 브랜드의 경쟁력 있는 가격대의 서버 마더보드가 등장하면서, Supermicro와 같은 기존 기업의 시장 점유율에 변화가 나타나고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "가격 상승: Supermicro 마더보드를 포함한 마더보드 가격은 수요 증가와 판매 전략 변화로 인해 상승하고 있습니다.",
+      "summary": "컴퓨트 모듈과 마더보드",
       "text": "가격 상승: Supermicro 마더보드를 포함한 마더보드 가격은 수요 증가와 판매 전략 변화로 인해 상승하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "판매 전략 변화: Supermicro가 완제품 서버 조립 제품 판매로 전환하면서 MOQ와 리드 타임이 증가해 가격 인상 압력이 커지고 있습니다.",
+      "summary": "컴퓨트 모듈과 마더보드",
       "text": "판매 전략 변화: Supermicro가 완제품 서버 조립 제품 판매로 전환하면서 MOQ와 리드 타임이 증가해 가격 인상 압력이 커지고 있습니다."
     },
     {
       "date": "2025.02",
-      "category": "CPU",
+      "category": "IC",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Supermicro는 개별 마더보드 판매를 중단하고 통합 서버 솔루션에 집중하고 있으며, X11 및 X13 시리즈에 대한 수요는 여전히 강세를 보이고 있습니다.",
+      "summary": "Supermicro, 통합 솔루션으로 초점 이동",
       "text": "Supermicro는 개별 마더보드 판매를 중단하고 통합 서버 솔루션에 집중하고 있으며, X11 및 X13 시리즈에 대한 수요는 여전히 강세를 보이고 있습니다."
     },
     {
       "date": "2025.02",
-      "category": "CPU",
+      "category": "IC",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Supermicro는 마더보드의 정확한 납기 일정을 제공하지 않고 있으며, 이에 따라 고객들은 Deepseek 기반 데이터 모델을 위한 대체 브랜드를 찾고 있습니다.",
+      "summary": "Supermicro, 통합 솔루션으로 초점 이동",
       "text": "Supermicro는 마더보드의 정확한 납기 일정을 제공하지 않고 있으며, 이에 따라 고객들은 Deepseek 기반 데이터 모델을 위한 대체 브랜드를 찾고 있습니다."
     },
     {
       "date": "2025.03",
-      "category": "CPU",
+      "category": "IC",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Supermicro는 독립형 메인보드보다 통합형 서버 솔루션에 집중하는 전략으로 전환했으며, 이에 따라 X11 및 X13 시리즈 채택이 증가하고 있습니다.",
+      "summary": "📹 메인보드: Supermicro 전략 조정",
       "text": "Supermicro는 독립형 메인보드보다 통합형 서버 솔루션에 집중하는 전략으로 전환했으며, 이에 따라 X11 및 X13 시리즈 채택이 증가하고 있습니다."
     },
     {
       "date": "2025.04",
-      "category": "GPU",
+      "category": "IC",
       "detected_categories": [
-        "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Supermicro는 통합 서버 솔루션 중심으로 전략을 전환하고 있으며, 단독 메인보드 판매를 중단했습니다.",
+      "summary": "🎮 GPU",
       "text": "Supermicro는 통합 서버 솔루션 중심으로 전략을 전환하고 있으며, 단독 메인보드 판매를 중단했습니다.       이로 인해 특히 Deepseek 기반 데이터 모델을 위한 대체 브랜드 수요가 증가하고 있습니다."
     },
     {
@@ -114,10 +119,10 @@
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "GPU"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "슈퍼마이크로의 AMD 프로세서를 사용하는 메인보드에 대한 새로운 부족 현상이 발생했으며, 확정된 ETA는 제공되지 않았습니다.",
+      "summary": "🎮 GPU",
       "text": "슈퍼마이크로의 AMD 프로세서를 사용하는 메인보드에 대한 새로운 부족 현상이 발생했으며, 확정된 ETA는 제공되지 않았습니다."
     }
   ]

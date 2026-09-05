@@ -1,285 +1,322 @@
 {
   "vendor": "Mellanox",
-  "total_milestones": 47,
+  "total_milestones": 50,
   "history": [
     {
       "date": "2021.07",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "유통업체들이 현재 Mellanox 예약 리드 타임이 4~6개월로 늘었다는 소식을 공유해 주었습니다.",
+      "summary": "수익성이 낮은 SKU의 생산 루트를 재배치하는 제조업체들",
       "text": "유통업체들이 현재 Mellanox 예약 리드 타임이 4~6개월로 늘었다는 소식을 공유해 주었습니다. Mellanox는 이더넷 어댑터와 InfiniBand 카드에 대해 매달 예약 할당량을 500개로 제한해야 했습니다(단일 SKU당 500개가 아니라 전체 SKU당 500개)."
     },
     {
       "date": "2021.09",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "데이터 센터 사용자와 서버 통합업체는 네트워크 카드 공급 부족을 겪고 있습니다.",
+      "summary": "오실레이터 공급 부족으로 네트워킹 카드 공급 차질",
       "text": "데이터 센터 사용자와 서버 통합업체는 네트워크 카드 공급 부족을 겪고 있습니다. 오실레이터 공급 부족으로 인해 연장된 리드 타임은 최장 8개월로, 오픈 마켓에서 네트워크 카드 가격이 30~40% 오르고 있습니다. 특히 Mellanox의 MCX4 및 MCX5 시리즈 네트워크 인터페이스 카드는 여전히 공급이 제한적입니다."
     },
     {
       "date": "2021.09",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "GB 용량의 네트워크 카드 부문에서 눈에 띄게 영향을 받은 것은 Intel의 E810 시리즈로, Intel이 2020년 3분기에 자체 제품을 출시할 때까지는 Mellanox가 한때 독점했습니다.",
+      "summary": "오실레이터 공급 부족으로 네트워킹 카드 공급 차질",
       "text": "25GB 용량의 네트워크 카드 부문에서 눈에 띄게 영향을 받은 것은 Intel의 E810 시리즈로, Intel이 2020년 3분기에 자체 제품을 출시할 때까지는 Mellanox가 한때 독점했습니다."
     },
     {
       "date": "2021.09",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "다른 모듈의 가격도 인상 중",
+      "text": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다."
+    },
+    {
+      "date": "2021.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다.",
-      "text": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다. 11월에 이러한 이더넷 어댑터를 위해 Mellanox의 512 및 4121 시리즈 네트워킹 카드를 100~200k 정도로 할당할 가능성이 있지만, 유통업체에서는 일반적인 원자재 공급 부족으로 인한 철회를 경계하고 있습니다."
+      "summary": "다른 모듈의 가격도 인상 중",
+      "text": "11월에 이러한 이더넷 어댑터를 위해 Mellanox의 512 및 4121 시리즈 네트워킹 카드를 100~200k 정도로 할당할 가능성이 있지만, 유통업체에서는 일반적인 원자재 공급 부족으로 인한 철회를 경계하고 있습니다."
     },
     {
       "date": "2021.11",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox CX 시리즈의 리드 타임이 26-32주로 연장되어 주문이 밀린 제품의 인도 기일이 2022년 6월까지 미뤄지고 있습니다.",
+      "summary": "Mellanox 네트워크 어댑터 카드는 2022년까지 백로그됨",
       "text": "Mellanox CX 시리즈의 리드 타임이 26-32주로 연장되어 주문이 밀린 제품의 인도 기일이 2022년 6월까지 미뤄지고 있습니다. 4분기의 공식 가격은 아직 발표되지 않았지만, 공급업체들은 가격을 올리려고 합니다."
     },
     {
       "date": "2021.11",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "중국 시장의 할당 문제는 Mellanox HDR 200G 광섬유 케이블과 Y 케이블의 공급 차질로 이어지고 있으며, 리드 타임은 35~36주 정도입니다.",
+      "summary": "Mellanox 네트워크 어댑터 카드는 2022년까지 백로그됨",
       "text": "중국 시장의 할당 문제는 Mellanox HDR 200G 광섬유 케이블과 Y 케이블의 공급 차질로 이어지고 있으며, 리드 타임은 35~36주 정도입니다."
     },
     {
       "date": "2021.11",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox 공급 부족 상황은 전 세계적으로 다양한 Mellanox 시설에 영향을 미친 다양한 공장 폐쇄 조치, 생산 지연, 인력 부족 등으로 인해 2022년에 더욱 확대될 수 있습니다.",
+      "summary": "Mellanox 네트워크 어댑터 카드는 2022년까지 백로그됨",
       "text": "Mellanox 공급 부족 상황은 전 세계적으로 다양한 Mellanox 시설에 영향을 미친 다양한 공장 폐쇄 조치, 생산 지연, 인력 부족 등으로 인해 2022년에 더욱 확대될 수 있습니다. 다가오는 춘절과 함께 기존 주문 적체 상황이 악화할 수 있고, 이로 인해 1월 말에서 2월 중순까지 중국 공장 생산이 제한되어 Mellanox의 기존 공급망 중단에 부담이 가중될 전망입니다."
     },
     {
       "date": "2021.12",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "고객이 Realtek, Mellanox Technologies, Broadcom Inc.",
+      "summary": "인텔 이더넷 컨트롤러에 대한 수요 증가 지속",
       "text": "고객이 Realtek, Mellanox Technologies, Broadcom Inc. 같은 다른 제조업체로부터 전환하면서 Intel 이더넷 컨트롤러에 대한 수요가 계속 증가하고 있습니다. 그러나 Intel이 이러한 증가세를 충족하려고 함에 따라 수요가 공급을 앞지르고 있습니다."
     },
     {
       "date": "2021.12",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "네트워크 어댑터 카드 공급은 악화일로의 글로벌 IC 공급 부족에 의해 계속 영향을 받고 있습니다.",
+      "summary": "IC 공급 부족으로 네트워크 어댑터 카드 공급이 영향을 받음",
       "text": "네트워크 어댑터 카드 공급은 악화일로의 글로벌 IC 공급 부족에 의해 계속 영향을 받고 있습니다. Intel, Mellanox, Broadcom의 어댑터 카드 가격은 품귀 현상으로 급등하고 있습니다. 이런 추세는 또한 대체 카드와 다양한 제조업체 부품으로 확산되고 있습니다."
     },
     {
       "date": "2021.12",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox는 리드 타임이 28nm 웨이퍼 공급 부족으로 인해 NICx4 및 NICx5 시리즈 카드에 대해 1년에서 1.",
+      "summary": "Mellanox 어댑터 카드 리드 타임이 주문 적체로 인해 계속 증가",
       "text": "Mellanox는 리드 타임이 28nm 웨이퍼 공급 부족으로 인해 NICx4 및 NICx5 시리즈 카드에 대해 1년에서 1.5년으로 늘어남에 따라 어댑터 카드 주문 적체에 대처하기 위해 애쓰고 있습니다. 일반적으로 부품 공급 부족은 예약 리드 타임에도 영향을 미치며, 이 리드 타임은 공식적으로 모든 시리즈에 대해 기본 12~16주에서 26-32주로 연장되었습니다. 주문 이행 부족으로 인해 최종 고객으로부터 압력이 있으며, 이는 Mellanox를 압박하여 부품에 대해 유통업체를 엄격하게 통제하도록 만들고 있습니다. 이는 가격과 관계없이 오픈 마켓 가용성을 제한하고 있습니다."
     },
     {
       "date": "2022.02",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다.",
-      "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다. 그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다."
+      "summary": "Mellanox 공급 제약, 여러 완제품 전반에서 지속",
+      "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다."
+    },
+    {
+      "date": "2022.02",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Mellanox 공급 제약, 여러 완제품 전반에서 지속",
+      "text": "그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다."
     },
     {
       "date": "2022.03",
-      "category": "GPU",
+      "category": "Other",
       "detected_categories": [
-        "GPU"
+        "Other"
       ],
-      "risk_level": "High",
-      "summary": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다.",
-      "text": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다. Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다. 전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다."
+      "risk_level": "Medium",
+      "summary": "Mellanox 네트워크 어댑터 카드의 빠듯한 공급으로 인해 고객은 대체 부품을 찾아 나서",
+      "text": "Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다."
+    },
+    {
+      "date": "2022.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Mellanox 네트워크 어댑터 카드의 빠듯한 공급으로 인해 고객은 대체 부품을 찾아 나서",
+      "text": "전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다."
     },
     {
       "date": "2022.04",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
-        "Storage"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox 제품의 평균 리드 타임은 수요가 공급을 초과하면서 36주까지 치솟은 상태가 지속되고 있습니다.",
+      "summary": "Mellanox에서 수요가 공급을 초과",
       "text": "Mellanox 제품의 평균 리드 타임은 수요가 공급을 초과하면서 36주까지 치솟은 상태가 지속되고 있습니다. 계속해서 높은 수요가 유지되면서 가장 심각한 공급 격차가 MCX-6, MCX-5, MCX-4 시리즈에 영향을 미치고 있으며, 이에 따라 고객은 제한적인 옵션과 더 높아진 제품 가격을 떠앉게 되었습니다. Mellanox의 25% 가격 인상은 4월 이후 효력을 발생하며 생산 제약은 1년 이상 리드 타임을 연장하고 있습니다."
     },
     {
       "date": "2022.06",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox은 NIC 제품의 가격 인상에 보수적인 태도를 보여 지금까지 가격 상승폭을 적게 유지해 왔습니다.",
+      "summary": "어댑터 카드 제조업인 Mellanox, 공급망 압력을 느끼다",
       "text": "Mellanox은 NIC 제품의 가격 인상에 보수적인 태도를 보여 지금까지 가격 상승폭을 적게 유지해 왔습니다. 하지만 생산용량제한으로 발생한 심각한 공급 격차와 높은 수요로 인해 25~30%에 달하는 가격 인상이 예상됩니다. 지금까지의 전략적 가격 조정 방식에도 불구하고 제조 라인 전반에 걸친 지원의 부족이 Mellanox의 파이프라인에 타격을 주었습니다."
     },
     {
       "date": "2022.06",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다.",
+      "summary": "어댑터 카드 제조업인 Mellanox, 공급망 압력을 느끼다",
       "text": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다. 하지만 다른 어댑터 카드 제조회사인 Intel과 Broadcom 역시 비슷하게 심각한 공급 문제를 겪고 있습니다. Mellanox는 생산 제약 때문에 자사 레거시 라인인 MCX-4와 MCX-5를 밀었으며, MCX-6는 평균 리드 타임이 32주가 넘는 관계로 만족스러운 옵션이 아닙니다."
     },
     {
       "date": "2022.08",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다.",
+      "summary": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
       "text": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다"
     },
     {
       "date": "2022.09",
-      "category": "GPU",
+      "category": "Other",
       "detected_categories": [
-        "GPU"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox 카드는 공급을 개선했으며, 이는 새로운 예약 주문의 리드 타임을 32주에서 약 20주로 단축시키는 결과를 낳았습니다.",
+      "summary": "일부 MXC 시리즈의 구매자 시장 부상, 그러나 거의 진전이 없는 MCX-6 공급",
       "text": "Mellanox 카드는 공급을 개선했으며, 이는 새로운 예약 주문의 리드 타임을 32주에서 약 20주로 단축시키는 결과를 낳았습니다. 더욱이 시장 수요가 주춤하면서 Intel의 E810 시리즈 어댑터 카드 가격이 약간 하락하고 있습니다."
     },
     {
       "date": "2022.10",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Mellanox MXC5 시리즈(특히 25GbEs 속도 모델)의 공급 물량에 대한 소비 둔화로 초과 공급이 발생했습니다.",
+      "summary": "불안정한 수요가 일부 네트워크 어댑터 카드에 대한 초과 공급을 초래",
       "text": "Mellanox MXC5 시리즈(특히 25GbEs 속도 모델)의 공급 물량에 대한 소비 둔화로 초과 공급이 발생했습니다. 시장 가격은 현재 완전 저점에 도달하여 더 이상 하락할 여지가 거의 없어 보입니다. 고객들은 선적 물량을 늘리려 하지 않으며 시장이 현재의 과도한 재고 물량을 소진하려면 앞으로 1~2분기가 지나야 될 것으로 보고서에서 예상합니다."
     },
     {
       "date": "2022.11",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox 어댑터 카드는 이전의 이중 예약 및 주문으로 인해 현재 공급 과잉 상태에 있는데, 특히 MCX4 및 MCX5 시리즈가 그렇습니다.",
+      "summary": "공급 과잉, Mellanox 어댑터 카드 원가에 영향",
       "text": "Mellanox 어댑터 카드는 이전의 이중 예약 및 주문으로 인해 현재 공급 과잉 상태에 있는데, 특히 MCX4 및 MCX5 시리즈가 그렇습니다. 오픈 마켓으로 유입되는 공급의 급격한 증가로 인해 이 두 시리즈에서 가격이 약 5~10% 하락했습니다. 벤더들은 또한 MCX6의 공급이 다소 개선되었으며 리드 타임이 점점 단축되고 있다고 밝혔습니다. 2분기에는 자재 공급 부족(Shortage)으로 인해 이 시리즈의 공급에 제한이 있었으나 제조업자가 생산과 납품을 개선했습니다."
     },
     {
       "date": "2023.01",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox 제품 대다수가 리드 타임은 줄고 물량은 늘고 있습니다.",
+      "summary": "제품 대부분의 공급이 개선되고 있는 가운데 여전히 고전 중인 Mellanox 스위치",
       "text": "Mellanox 제품 대다수가 리드 타임은 줄고 물량은 늘고 있습니다. 이는 고객들의 이중 예약으로 오픈 마켓에 재고가 넘쳐난 영향이 큽니다."
     },
     {
       "date": "2023.01",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "단, Mellanox 스위치는 예외로서 현재 제약이 심화되고 있습니다.",
+      "summary": "제품 대부분의 공급이 개선되고 있는 가운데 여전히 고전 중인 Mellanox 스위치",
       "text": "단, Mellanox 스위치는 예외로서 현재 제약이 심화되고 있습니다. IC와 칩 부품의 공급 부족(Shortage)에 고객의 수요 예측 실패가 더해져 스위치의 리드 타임은 최대 8~12개월까지 늘어났습니다. 가장 큰 타격을 입은 시리즈는 7800과 7890입니다. 이 시리즈는 2023년 2분기에 단종될 것으로 예상되어 벤더들은 현재 리드타임 주문을 받고 있습니다."
     },
     {
       "date": "2023.02",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox의 경우 최고 인기 모델은 MCX-5 및 MCX-6 시리즈였습니다.",
+      "summary": "제조업체들이 수요를 늘리기 위한 선택지를 모색하고 있으므로 네트워크 어댑터 카드 공급은 계속해서 양호한 상태를 유지함",
       "text": "Mellanox의 경우 최고 인기 모델은 MCX-5 및 MCX-6 시리즈였습니다. MCX-4 시리즈는 단종 부품 상태로 가고 있으므로 현재는 수요가 적습니다. 그 결과 공급이 감소되었습니다. 이전에 누적된 예약 초과와 수요 둔화로 인해 모든 시리즈에 대한 전반적인 공급은 양호하며 공급 부족의 징후는 없습니다."
     },
     {
       "date": "2023.04",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox는 리드 타임이 전반적으로 상당히 회복되었습니다.",
+      "summary": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
       "text": "Mellanox는 리드 타임이 전반적으로 상당히 회복되었습니다. 중국의 새로운 프로젝트와 관련된 네트워킹 제품에 대한 수요가 약간 급증하여 유통업체들이 재고를 어느 정도 소화한 것일 수도 있습니다. 많은 벤더들이 낙관적이고 ChatGPT와 같은 서비스가 부상하는 것을 확신하고 있으므로 최근 AI 기술과 개발이 증가한 것이 원인일 수도 있습니다."
     },
     {
       "date": "2023.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "스위치와 NIC 카드도 ChatGPT 덕분에 수요가 지속적으로 증가하면서 AI의 인기 효과를 톡톡히 누리고 있습니다.",
+      "summary": "AI로 촉발된 GPU, 스위치 및 NIC 카드 주문 증가",
       "text": "스위치와 NIC 카드도 ChatGPT 덕분에 수요가 지속적으로 증가하면서 AI의 인기 효과를 톡톡히 누리고 있습니다. 결과적으로 벤더들은 대부분의 Mellanox 제품 라인에서 기존 특가를 없앴습니다. 그 결과 가격은 현재 15% 상승했으며 표준 예약 리드 타임은 최소 8주에서 10주로 늘어났습니다."
     },
     {
       "date": "2023.07",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "AI 산업의 성장으로 네트워킹 제품 수요가 증가하고 있습니다.",
+      "summary": "AI 산업으로 인해 Mellanox 예약 가격 인상 가능성",
       "text": "AI 산업의 성장으로 네트워킹 제품 수요가 증가하고 있습니다. 이러한 국면의 혜택을 최근 가장 많이 받은 브랜드로는 Mellanox가 있습니다. 하이엔드 고성능 모델의 리드 타임은 전반적으로 연장되고 있으며, 200GB 스위치의 리드 타임은 30주 이상으로 추정됩니다. 또한 대부분의 MCX6 및 MCX7 이더넷 카드의 리드 타임은 10~15주 사이입니다."
     },
     {
       "date": "2023.07",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "예측에 따르면 이러한 추세는 2023년까지 이어질 전망입니다.",
+      "summary": "AI 산업으로 인해 Mellanox 예약 가격 인상 가능성",
       "text": "예측에 따르면 이러한 추세는 2023년까지 이어질 전망입니다. Mellanox NIC 카드 및 케이블의 신규 예약 가격은 5~10% 인상될 것으로 보입니다. 이러한 제품은 AI 시스템을 위한 안정적이고 효율적인 network 연결을 제공합니다."
     },
     {
       "date": "2024.06",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "네트워킹 제품 수요는 여전히 높으며, 특히 하이엔드 NIC, 광트랜시버, 케이블, 스위치에 대한 수요가 높습니다.",
+      "summary": "안정적으로 유지되는 네트워킹 제품 수요",
       "text": "네트워킹 제품 수요는 여전히 높으며, 특히 하이엔드 NIC, 광트랜시버, 케이블, 스위치에 대한 수요가 높습니다. Mellanox는 특정 시리즈의 고성능 네트워크 어댑터 및 NIC에 대한 공급 부족을 겪고 있는 제조사 중 하나입니다. 수요 증가와 함께 MXC7 시리즈 가격이 인상되었으며, 리드 타임은 약 8주 정도 소요됩니다."
     },
     {
       "date": "2024.06",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox는 수요가 많은 MCX7 시리즈 생산량을 우선적으로 확보하기 위해 하반기의 MCX6 시리즈 생산량을 서서히 줄이고 있습니다.",
+      "summary": "안정적으로 유지되는 네트워킹 제품 수요",
       "text": "Mellanox는 수요가 많은 MCX7 시리즈 생산량을 우선적으로 확보하기 위해 하반기의 MCX6 시리즈 생산량을 서서히 줄이고 있습니다. 이러한 변화로 인해 MCX6 시리즈에 대한 할당량이 거의 없거나 전혀 없는 상황입니다."
     },
     {
@@ -287,100 +324,108 @@
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "지난 분기에 증가한 수요에도 전반적인 네트워킹 제품의 공급은 양호한 상태를 유지하고 있습니다.",
+      "summary": "하이 스펙 카드 및 광 트랜시버에 국한된 공급 부족",
       "text": "지난 분기에 증가한 수요에도 전반적인 네트워킹 제품의 공급은 양호한 상태를 유지하고 있습니다. 공급 부족은 고사양 네트워킹 카드, 케이블 및 광트랜시버에 국한됩니다. 또한 H100 GPU 수요 급증으로 MCX5/6 시리즈에 비해 Mellanox MCX7 시리즈 제품에 대한 문의가 증가했습니다. Mellanox가 CX7 생산을 우선하여 지원하는 상황이 지속되면서 CX6의 리드 타임이 연장되었으며 고객 측에서 확정된 출하일이 부족하다고 보고하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "NIC 시장은 현재 공급 제약과 생산 우선순위 변화로 인해 병목 현상을 겪고 있습니다.",
+      "summary": "네트워크 인터페이스 카드 (NIC)",
       "text": "NIC 시장은 현재 공급 제약과 생산 우선순위 변화로 인해 병목 현상을 겪고 있습니다. 제조업체들은 수익성이 높은 제품에 우선순위를 두고 있으며, Mellanox 제품에서 특히 지연과 부족이 발생하고 있습니다. Intel은 경쟁력 있는 가격을 제시하며 100Gbps 이하 데이터 속도 제품에서 시장 점유율을 확보하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Mellanox ConnectX-CX6 공급 문제: Mellanox는 CX7 생산에 집중하면서 CX6 NIC의 확정 배송일을 제공하지 못하고 있으며, 이는 공급 불균형을 초래하고 있습니다.",
+      "summary": "네트워크 인터페이스 카드 (NIC)",
       "text": "Mellanox ConnectX-CX6 공급 문제: Mellanox는 CX7 생산에 집중하면서 CX6 NIC의 확정 배송일을 제공하지 못하고 있으며, 이는 공급 불균형을 초래하고 있습니다. OEM(주문자 상표 부착 생산) 고객들이 새로운 프로젝트를 출시하면서 추가적인 수요가 발생해 이러한 불균형이 더욱 심화되고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다.",
+      "summary": "네트워크 인터페이스 카드 (NIC)",
       "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다."
     },
     {
       "date": "2025.03",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox의 MCX7 시리즈 네트워크 카드는 심각한 공급 부족 상태이며, Nvidia는 주요 고객에게 우선 공급하고 있어 일반 고객은 리드 타임이 길고 수급이 어렵습니다.",
+      "summary": "🔌 네트워킹 카드: 높은 수요와 공급 제약",
       "text": "Mellanox의 MCX7 시리즈 네트워크 카드는 심각한 공급 부족 상태이며, Nvidia는 주요 고객에게 우선 공급하고 있어 일반 고객은 리드 타임이 길고 수급이 어렵습니다."
     },
     {
       "date": "2025.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox CX-7 NIC 카드에 대한 수요 급증과 리드 타임 연장이 발생하고 있으며, 중국 주요 OEM의 백로그가 누적되어 있습니다.",
+      "summary": "🔌 네트워킹 카드",
       "text": "Mellanox CX-7 NIC 카드에 대한 수요 급증과 리드 타임 연장이 발생하고 있으며, 중국 주요 OEM의 백로그가 누적되어 있습니다. 7월 이후에야 공급 개선이 예상됩니다."
     },
     {
       "date": "2025.05",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Mellanox CX-8 시리즈의 초기 출하가 최종 고객에게 이루어졌으며, 수요 평가가 진행 중입니다.",
+      "summary": "🔌 네트워킹 카드",
       "text": "Mellanox CX-8 시리즈의 초기 출하가 최종 고객에게 이루어졌으며, 수요 평가가 진행 중입니다. 특히 CX-7 및 CX-8 시리즈 전 모델의 원산지(COO)는 전적으로 중국으로 설정되어 있습니다."
     },
     {
       "date": "2025.06",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Mellanox CX-7 NIC 카드의 200Gbps 듀얼 포트 및 400Gbps 싱글 포트 공급 문제 지속.",
+      "summary": "🔌 네트워킹",
       "text": "Mellanox CX-7 NIC 카드의 200Gbps 듀얼 포트 및 400Gbps 싱글 포트 공급 문제 지속"
     },
     {
       "date": "2025.07",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "멜라녹스 CX7 시리즈 NIC 카드는 이란-이스라엘 분쟁으로 인한 원자재 부족으로 인해 배송 지연이 발생하고 있습니다.",
+      "summary": "🔌 네트워킹 카드: 지속적인 부족 및 EOL 공지",
       "text": "멜라녹스 CX7 시리즈 NIC 카드는 이란-이스라엘 분쟁으로 인한 원자재 부족으로 인해 배송 지연이 발생하고 있습니다. 리드 타임은 현재 2025년 9월에서 11월로 변경되었습니다."
     },
     {
       "date": "2025.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox CX7 카드는 지속적인 IC 부족 및 적체로 인해 납품 지연과 리드타임 연장을 겪고 있습니다.",
+      "summary": "🔌 네트워킹 카드: 지속적인 부족 현상",
       "text": "Mellanox CX7 카드는 지속적인 IC 부족 및 적체로 인해 납품 지연과 리드타임 연장을 겪고 있습니다."
     },
     {
@@ -388,20 +433,21 @@
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다.",
+      "summary": "주요 주제",
       "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다."
     },
     {
       "date": "2026.02",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다.",
+      "summary": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
       "text": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다."
     },
     {
@@ -409,10 +455,11 @@
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": ".",
+      "summary": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
       "text": "1. Mellanox ConnectX-7 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사하다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능하다."
     },
     {
@@ -420,20 +467,22 @@
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": ".",
+      "summary": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
       "text": "1. Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     },
     {
       "date": "2026.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": ".",
+      "summary": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
       "text": "1. NVIDIA/Mellanox ConnectX-6 100G NIC 리드타임은 약 30주로 연장되었으며, NVIDIA가 ConnectX-8 생산을 우선시하고 하이퍼스케일러 고객을 차세대 플랫폼으로 전환함에 따라 납품 약속 철회 위험이 증가하고 있다."
     },
     {
@@ -441,20 +490,22 @@
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "• Mellanox CX6/CX7 100G/200G/400G NIC의 리드타임은 30~52주에 달하고 있다.",
+      "summary": "네트워킹: 공급 제약 및 스위치 납기 지연",
       "text": "• Mellanox CX6/CX7 100G/200G/400G NIC의 리드타임은 30~52주에 달하고 있다. NVIDIA가 차세대 GB 시리즈 GPU 번들용 CX8 생산을 우선시하고 있기 때문이다. 중국 하이퍼스케일러(ByteDance, Tencent)의 대량 조달로 인해 남아 있는 CX7의 가용 물량도 더욱 제한되고 있다."
     },
     {
       "date": "2026.07",
       "category": "GPU",
       "detected_categories": [
-        "GPU"
+        "GPU",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다.",
+      "summary": "주요 주제",
       "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다."
     },
     {
@@ -462,20 +513,22 @@
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Mellanox ConnectX-7/8의 리드타임은 여전히 20~24주 이상을 유지하고 있다.",
+      "summary": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
       "text": "Mellanox ConnectX-7/8의 리드타임은 여전히 20~24주 이상을 유지하고 있다. NVIDIA는 CX8 NIC를 GB 시리즈 GPU와 독점 번들 형태로 공급하고 있어, 단독 구매는 사실상 불가능한 상황이다."
     },
     {
       "date": "2026.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": ".",
+      "summary": "🔌 네트워킹: 단종 확대 및 스위치 공급 지연",
       "text": "2. Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다. AI 인프라 수요가 가용 생산 능력의 상당 부분을 흡수하고 있습니다."
     }
   ]

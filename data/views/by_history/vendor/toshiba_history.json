@@ -7,244 +7,254 @@
       "category": "Memory",
       "detected_categories": [
         "Memory",
+        "Other",
         "Storage"
       ],
       "risk_level": "Low",
-      "summary": "마닐라와 기타 16개 도시에 대한 필리핀 정부의 락다운 조치가 처음에는 4월 14일에 종료될 예정이었지만, 4월 30일로 연장되었고 상황에 따라 추가 연장될 수도 있습니다.",
+      "summary": "코로나19 락다운/운영 중단으로 HDD 물류비와 리드 타임 증가",
       "text": "마닐라와 기타 16개 도시에 대한 필리핀 정부의 락다운 조치가 처음에는 4월 14일에 종료될 예정이었지만, 4월 30일로 연장되었고 상황에 따라 추가 연장될 수도 있습니다. 물류센터와 공장들이 큰 영향을 받았는데, Toshiba의 HDD 생산 시설도 예외는 아니었습니다. 공급 충격이 시장에 본격적인 영향을 주면서 앞으로 몇 주 내로 가격이 오를 것으로 추측됩니다. 전 세계 공급망의 많은 부분에서 똑같은 상황이 발생하고 있습니다. 다수의 제조업체와 유통업체가 물류 부담 능력이 감소하고 제한 사항이 늘어 운임이 늘고 있다고들 합니다. 예를 들어 Seagate는 특별히 더 높아진 물류비를 감당하기 위해 모든 메모리 용량에 대해 3월만 하더라도 2달러였던 HDD의 단위 운임이 3달러로 인상된 점을 반영해 가격을 높이고 있습니다. 대체로 HDD 가격이 10% 정도 상승할 수 있습니다."
     },
     {
       "date": "2020.12",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "현재 LCD 패널 공급은 수요 증가로 인해 불안정한 상태를 유지하고 있습니다.",
+      "summary": "불안정한 공급 추이를 보이는 LCD 패널",
       "text": "현재 LCD 패널 공급은 수요 증가로 인해 불안정한 상태를 유지하고 있습니다. 가장 선호되는 패널 규격은 HP, Toshiba 및 Sharp의 14.0 인치 및 15.6 인치 패널이며 Dell 패널에 대한 수요는 주로 14.0 인치 및 17.3인치(4K 해상도)에 초점이 맞추어져 있습니다."
     },
     {
       "date": "2021.06",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
+        "Other",
         "Storage"
       ],
       "risk_level": "Medium",
-      "summary": "암호화페, 특히 치아 코인(Chia Coin)이 채굴에 사용되는 저장 장치에 대한 전례없는 수요를 지속적으로 보입니다 이로 인해 주요 제조업체 (예 : Western Digital, Seagate, Toshiba)의 SSD 및 HDD 공급이 마비되었고 가격이 최소 200 % 상승했습니다 수요 증가를 예상하므로, HDD의 공식 리드 타임이 13~16주로 늘었습니다.",
+      "summary": "암호 화폐로 인한 HDD 및 SSD 공급",
       "text": "암호화페, 특히 치아 코인(Chia Coin)이 채굴에 사용되는 저장 장치에 대한 전례없는 수요를 지속적으로 보입니다 이로 인해 주요 제조업체 (예 : Western Digital, Seagate, Toshiba)의 SSD 및 HDD 공급이 마비되었고 가격이 최소 200 % 상승했습니다 수요 증가를 예상하므로, HDD의 공식 리드 타임이 13~16주로 늘었습니다."
     },
     {
       "date": "2021.12",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "일본에 소재한 제조업체인 도시바는 다양한 공급망 충격이 차량 조립 라인에 미치는 영향을 최소화하기 위해 일본 내 국내 고객뿐 아니라 자동차 고객도 우선적으로 대우하고 있습니다.",
+      "summary": "Toshiba 공장의 생산능력 제한으로 부품 출하 억제",
       "text": "일본에 소재한 제조업체인 도시바는 다양한 공급망 충격이 차량 조립 라인에 미치는 영향을 최소화하기 위해 일본 내 국내 고객뿐 아니라 자동차 고객도 우선적으로 대우하고 있습니다. 9월, Toshiba는 자동차, 가전, 산업용 기계 업계의 고객에게 제품에 사용되는 전력 칩에 대한 수요를 향후 1년간 더 충족할 수 없을 것이라고 통보했습니다."
     },
     {
       "date": "2021.12",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "또한 Toshiba의 중국 및 태국 공장은 제한된 생산능력으로 운영되고 있습니다.",
+      "summary": "Toshiba 공장의 생산능력 제한으로 부품 출하 억제",
       "text": "또한 Toshiba의 중국 및 태국 공장은 제한된 생산능력으로 운영되고 있습니다. 중국에서는 전력 제한으로 인해 일부 공장이 주 3~4일만 가동되고 있습니다. 또한 태국의 MOSFET 공장은 단 50-60% 생산능력으로 가동되고 있어 출하가 불안정해지고 있으며 이는 다양한 부품의 가격 인상으로 이어질 수 있습니다."
     },
     {
       "date": "2021.12",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "이런 제조상의 어려움으로 인해 Toshiba의 고객 지원 제약은 2023년까지 지속될 것으로 예상됩니다.",
+      "summary": "Toshiba 공장의 생산능력 제한으로 부품 출하 억제",
       "text": "이런 제조상의 어려움으로 인해 Toshiba의 고객 지원 제약은 2023년까지 지속될 것으로 예상됩니다."
     },
     {
       "date": "2022.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Toshiba의 광학 아이솔레이터(TLP 시리즈)와 IC 드라이버(TC 시리즈)가 심각한 공급 부족 상태를 겪고 있으며, 일부 유통업체에서는 평균 6~9개월의 리드 타임이 소요될 것으로 견적을 내고 있습니다.",
+      "summary": "년 이상 연장된 Toshiba 부품 리드 타임",
       "text": "Toshiba의 광학 아이솔레이터(TLP 시리즈)와 IC 드라이버(TC 시리즈)가 심각한 공급 부족 상태를 겪고 있으며, 일부 유통업체에서는 평균 6~9개월의 리드 타임이 소요될 것으로 견적을 내고 있습니다. 가장 심각한 영향을 받은 시리즈는 2년 이상으로 지연되었습니다. 이와 유사하게 Linear Technology와 Renesas는 리드 타임이 연장되고 시장 가격이 인상될 것으로 예상하고 있습니다. Renesas의 R5 및 R7 시리즈의 경우 현재 최소 52주의 리드 타임이 소요됩니다."
     },
     {
       "date": "2022.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Toshiba Electronic Devices & Storage Corporation의 발표에 따르면, 일본에 있는 Toshiba 시설에서 9월 11일에 정전이 발생하였습니다.",
+      "summary": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
       "text": "Toshiba Electronic Devices & Storage Corporation의 발표에 따르면, 일본에 있는 Toshiba 시설에서 9월 11일에 정전이 발생하였습니다. 전력 시설을 검사하는 동안 정전으로 인해 생산 중단이 발생하였습니다."
     },
     {
       "date": "2022.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다.",
-      "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다. 그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다."
+      "summary": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
+      "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다."
     },
     {
       "date": "2022.10",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Toshiba Arm Cortex-M4 코어 – 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX.",
+      "summary": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
       "text": "Toshiba Arm Cortex-M4 코어 – 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX"
     },
     {
       "date": "2022.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX.",
+      "summary": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
       "text": "Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX"
     },
     {
       "date": "2022.10",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Toshiba Power Management 및 MOSFET – SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호.",
+      "summary": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
       "text": "Toshiba Power Management 및 MOSFET – SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호"
     },
     {
       "date": "2023.08",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
+        "Other",
         "Storage"
       ],
       "risk_level": "Low",
-      "summary": "재고 압박을 전략적으로 완화하기 위해 Seagate, Western Digital, Toshiba은 모든 HDD 라인에서 생산량을 줄였습니다.",
+      "summary": "HDD 수요 증가에 따라 제약 조건이 가용성에 미치는 영향",
       "text": "재고 압박을 전략적으로 완화하기 위해 Seagate, Western Digital, Toshiba은 모든 HDD 라인에서 생산량을 줄였습니다. 7월까지 이러한 전략은 제한된 가용성에서의 경쟁으로 수요가 늘어나면서 초과분 소진을 돕는 조짐이 보였습니다."
     },
     {
       "date": "2024.02",
-      "category": "CPU",
+      "category": "Other",
       "detected_categories": [
-        "CPU"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "여전히 피해를 산정 중인 Toshiba의 고객은 Toshiba TC7 제품의 대체재로 onsemi의 NL17 시리즈를 이용하고 있습니다.",
+      "summary": "서버 CPU 수요 증가세 계속",
       "text": "여전히 피해를 산정 중인 Toshiba의 고객은 Toshiba TC7 제품의 대체재로 onsemi의 NL17 시리즈를 이용하고 있습니다."
     },
     {
       "date": "2024.10",
-      "category": "GPU",
+      "category": "Other",
       "detected_categories": [
-        "GPU",
+        "Other",
         "Storage"
       ],
       "risk_level": "High",
-      "summary": "배송 지연: Seagate는 대용량 HDD에 대해 30~33주의 배송 지연을 경험하고 있으며, 이에 따라 새로운 주문 절차를 도입했습니다.",
+      "summary": "HDD",
       "text": "배송 지연: Seagate는 대용량 HDD에 대해 30~33주의 배송 지연을 경험하고 있으며, 이에 따라 새로운 주문 절차를 도입했습니다. 주요 제조업체인 Seagate, Western Digital, Toshiba는 리드 타임 개선이 거의 이루어지지 않고 있어 공급 제약이 계속되고 있습니다."
     },
     {
       "date": "2025.07",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "중국 웨이하이에 위치한 조립 공장 ATX에서 화재 사고가 발생했습니다.",
+      "summary": "🔌 집적 회로: 시장 역학 및 공급 변화",
       "text": "중국 웨이하이에 위치한 조립 공장 ATX에서 화재 사고가 발생했습니다. 이 공장은 도시바 및 텍사스 인스트루먼트를 포함한 여러 주요 IC 제조업체를 지원합니다. 도시바 제품, 특히 MOSFETs에 대해 공개 시장에서 약간의 가격 변동이 관찰되고 있습니다."
     },
     {
       "date": "2025.08",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
+        "Other",
         "Storage"
       ],
       "risk_level": "High",
-      "summary": "SEAGATE, WD, Toshiba의 1TB 및 8TB HDD도 제약을 받고 있습니다.",
+      "summary": "💾 HDD: 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "SEAGATE, WD, Toshiba의 1TB 및 8TB HDD도 제약을 받고 있습니다."
     },
     {
       "date": "2025.11",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
-        "Storage"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다.",
+      "summary": "고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10–24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다."
     },
     {
       "date": "2025.12",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
-        "Storage"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "씨게이트, WD, 도시바를 포함한 전 벤더에서 리드타임이 현재 52주를 초과하고 있으며, 특히 20TB 및 24TB 용량 모델의 수요가 가장 높습니다.",
+      "summary": "💾 HDD",
       "text": "씨게이트, WD, 도시바를 포함한 전 벤더에서 리드타임이 현재 52주를 초과하고 있으며, 특히 20TB 및 24TB 용량 모델의 수요가 가장 높습니다."
     },
     {
       "date": "2026.01",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
-        "Storage"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "도시바는 20TB+ 모델(예: MG10ACA20TE)을 지원하지 못하고 있으며, 10-24TB 드라이브 리드타임은 2026년 2분기까지 늘어나고 있습니다.",
+      "summary": "💾 HDD: 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "도시바는 20TB+ 모델(예: MG10ACA20TE)을 지원하지 못하고 있으며, 10-24TB 드라이브 리드타임은 2026년 2분기까지 늘어나고 있습니다. 백오더 가격은 더 이상 유지되지 않습니다."
     },
     {
       "date": "2026.01",
-      "category": "Storage",
+      "category": "Other",
       "detected_categories": [
+        "Other",
         "Storage"
       ],
       "risk_level": "High",
-      "summary": "주요 CSP조차 16-24TB 용량에서 HDD 부족을 보고하고 있으며, 도시바는 대부분의 승인 벤더 리스트에서 제외되어 있습니다.",
+      "summary": "💾 HDD: 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "주요 CSP조차 16-24TB 용량에서 HDD 부족을 보고하고 있으며, 도시바는 대부분의 승인 벤더 리스트에서 제외되어 있습니다."
     },
     {
       "date": "2026.03",
-      "category": "Memory",
+      "category": "Other",
       "detected_categories": [
-        "Memory",
+        "Other",
         "Storage"
       ],
       "risk_level": "Medium",
-      "summary": ".",
+      "summary": "스토리지: 용량 부족 및 가격 상승",
       "text": "4. WD 고용량 HDD(18TB~24TB) 리드타임은 3개월~54주이며, Toshiba는 20TB 이상 지원이 불가하다. 10~24TB 제품 리드타임은 2026년 2분기까지 연장된다."
     },
     {
       "date": "2026.05",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC",
+        "Other",
         "Storage"
       ],
       "risk_level": "Medium",
-      "summary": ".",
+      "summary": "스토리지: 2028년까지 완판",
       "text": "4. WD 고용량 HDD(18TB~24TB) 리드타임은 3개월~54주로 예상되며, Toshiba는 20TB 이상 모델 지원이 불가하다. 10~24TB 드라이브의 리드타임은 2026년 2분기까지 연장된다."
     },
     {
       "date": "2026.08",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC",
+        "Other",
         "Storage"
       ],
       "risk_level": "High",
-      "summary": ".",
+      "summary": "스토리지: 용량 부족 및 가격 상승",
       "text": "2. Seagate, WD, Toshiba HDD는 16TB~24TB CMR 드라이브에서 심각한 공급 제약을 겪고 있습니다. 리드타임은 2027년 중반까지 늘어나고 있으며, 제조업체들은 가격을 10~20% 인상하는 동시에 저용량 모델(1TB~4TB)을 빠르게 단종하고 있습니다."
     }
   ]

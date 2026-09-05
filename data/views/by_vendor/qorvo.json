@@ -4,10 +4,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "",
+    "section_raw": "2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "수출 제한 조치가 반도체 제조에 미칠 수 있는 영향",
     "text": "7월 초, 중국은 칩 제조에 필수인 두 가지 금속 갈륨 및 게르마늄에 대한 수출 제한을 발표했습니다. 이 두 금속은 전력 반도체 및 고주파 부품 제조의 핵심입니다. 이러한 수출 규제에 대한 초기 평가에서는 공급망에 즉각적인 차질을 빚지 않을 것으로 보입니다. 하지만 갈륨과 게르마늄이 없으면 제품을 제조할 수 없기 때문에 장기적으로는 부정적인 영향을 미칠 것으로 예상됩니다. 8월에 접어들면 Broadcom, Skyworks, Qorvo, Infineon, STMicroelectronics, WIN Semiconductors와 같은 제조업체에서 이러한 차질을 한층 더 심각하게 평가할 것으로 예상됩니다.",
     "detected_vendors": [
       "Broadcom",
@@ -25,10 +26,11 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🏢 제조업체 뉴스 및 업데이트",
     "text": "Skyworks, Qorvo 합병 추진: 주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
     "detected_vendors": [
       "Qorvo"
@@ -43,10 +45,11 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "3. Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족에 직면해 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다.",
     "detected_vendors": [
       "Qorvo"
@@ -62,10 +65,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
+    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "subheading": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
     "text": "• Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족이 계속되고 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다.",
     "detected_vendors": [
       "Qorvo"

@@ -6,30 +6,32 @@
       "date": "2020.04",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Infineon Technologies는 Cypress Semiconductor Industries 매입 절차를 완료했습니다.",
+      "summary": "Infineon, Cypress 인수 완료",
       "text": "Infineon Technologies는 Cypress Semiconductor Industries 매입 절차를 완료했습니다. 이 인수 계약은 2019년 6월에 발표되었지만, 규제 기관의 최종 승인을 기다리느라 지연되었습니다. 그러나 지금은 양측 모두 인수 작업이 모두 종료되었음을 확인했습니다. 공급망에 즉각적인 영향이 미칠 것으로 예상하지는 않지만, 생산이 다른 곳으로 이전되거나 통합되는 경우 2020년 후반에 복잡한 상황이 전개될 수도 있습니다. Infineon 측에서는 이런 세부 사항은 여전히 계류 중입니다."
     },
     {
       "date": "2020.06",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon은 4월에 Cypress 인수를 완료한 이후로 생산 활동의 전환 작업을 시작했는데, 여기에는 최종 조립 및 테스트 현장을 다른 Infineon 사업장으로 이전하는 작업이 포함되어 있습니다.",
+      "summary": "Infineon/Cypress, 전환 시작",
       "text": "Infineon은 4월에 Cypress 인수를 완료한 이후로 생산 활동의 전환 작업을 시작했는데, 여기에는 최종 조립 및 테스트 현장을 다른 Infineon 사업장으로 이전하는 작업이 포함되어 있습니다. 현재의 조업률은 80%에 불과해 리드 타임이 정상 상황보다 길다고 합니다."
     },
     {
       "date": "2020.12",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "웨이퍼 공급 부족은 2020년 불안정한 상황과 맞물려 시장에서 상당히 많은 장애를 계속해서 초래하고 있습니다.",
+      "summary": "웨이퍼 공급 부족으로 시장 혼란 지속",
       "text": "웨이퍼 공급 부족은 2020년 불안정한 상황과 맞물려 시장에서 상당히 많은 장애를 계속해서 초래하고 있습니다. 3분기에 STMicroelectronics, Texas Instruments, Intel, NXP, Infineon 를 비롯한 주요 반도체 제조업체들의 공급량 제약을 목격했습니다."
     },
     {
@@ -37,137 +39,141 @@
       "category": "IC",
       "detected_categories": [
         "IC",
-        "Memory"
+        "Memory",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Infineon Technologies도 텍사스 폭풍의 영향을 받았으며 아직도 작업 재개하지 못하고 있습니다.",
+      "summary": "아직 작업을 재개하지 못한 Infineon",
       "text": "Infineon Technologies도 텍사스 폭풍의 영향을 받았으며 아직도 작업 재개하지 못하고 있습니다. 이로 인해 Cypress NOR 플래시 메모리 칩과 MCU의 공급에 훨씬 더 많은 부담이 가중되었습니다."
     },
     {
       "date": "2021.06",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon은 또한 고객에 대한 지원을 늘리려고 계획의 전략을 다시 짜기 시작했습니다.",
+      "summary": "Infineon, 제품 가격 인상 준비",
       "text": "Infineon은 또한 고객에 대한 지원을 늘리려고 계획의 전략을 다시 짜기 시작했습니다. 이런 노력에도 불구하고, Infineon이 리드 타임을 줄이지 못하고 할당량도 계속 빠듯하여 신제품 가격을 약 15% 인상할 것이라는 설이 있습니다."
     },
     {
       "date": "2021.06",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon의 전력 MOSFET과 MCU의 리드 타임은 현재 12주에서 23주 사이입니다.",
+      "summary": "Infineon, 제품 가격 인상 준비",
       "text": "Infineon의 전력 MOSFET과 MCU의 리드 타임은 현재 12주에서 23주 사이입니다. 이러한 리드 타임은 non-tier 고객에게 가장 큰 영향을 미칠 것으로 보입니다."
     },
     {
       "date": "2021.07",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다.",
+      "summary": "다양한 제조업체에 영향을 미치는 말레이시아의 봉쇄 조치",
       "text": "그래서 Infineon, NXP, Renesas, STMicroelectronics와 같이, 말레이시아에 공장을 둔 제조업체는 이제 정부 승인을 받아 생산 능력의 60%만 가동할 수 있습니다."
     },
     {
       "date": "2021.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "*   **Infineon**: Infineon은 말레이시아의 봉쇄 조치로 인해 가격과 리드 타임의 증가를 발표할 것으로 예상됩니다.",
+      "summary": "다양한 제조업체에 영향을 미치는 말레이시아의 봉쇄 조치",
       "text": "*   **Infineon**: Infineon은 말레이시아의 봉쇄 조치로 인해 가격과 리드 타임의 증가를 발표할 것으로 예상됩니다. 유통업체들에 따르면, Infineon 제품의 리드 타임이 26-39주로 늘어났고 기존 주문은 재고 할당에 크게 영향을 받는다고 보고했습니다. Infineon은 이미 작년부터 밀린 주문을 이행하는 노력을 계속하면서 최소한 15~20%의 가격 인상을 계획하고 있었습니다."
     },
     {
       "date": "2022.04",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "모든 주요 집적 회로(IC) 공급업체가 높은 수요로 인해 자동차 주문을 우선시했습니다.",
+      "summary": "대규모 공급 부족, IC 생산에 지속적인 영향",
       "text": "모든 주요 집적 회로(IC) 공급업체가 높은 수요로 인해 자동차 주문을 우선시했습니다. 하지만, 심각한 공급 부족란이 공장에 영향을 미치는 인력 및 원자재 부족을 비롯하여 생산 라인에 부담을 가중하고 있습니다. 영향을 받은 부품에는 STMicroelectronics, Infineon, Microchip에서 제조하는 전력 관리 및 아날로그 IC, 아날로그 신호 변환기 및 MOSFET이 포함됩니다. Infineon의 리드 타임은 평균 48주에서 60주로 늘어났습니다."
     },
     {
       "date": "2022.06",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Infineon의 푸동 유통 센터는 현재 자재 및 완제품 지연을 겪고 있습니다.",
+      "summary": "Infineon Technologies",
       "text": "Infineon의 푸동 유통 센터는 현재 자재 및 완제품 지연을 겪고 있습니다."
     },
     {
       "date": "2022.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "MOSFET에 대한 수요 감소와 더불어 Infineon의 생산 증가는 지금까지 높은 수요와 최소 공급의 불균형으로 힘들어 했던 고객들에게 좋은 소식입니다.",
+      "summary": "분기로 접어들면서 완화된 Infineon의 MOSFET 상황",
       "text": "MOSFET에 대한 수요 감소와 더불어 Infineon의 생산 증가는 지금까지 높은 수요와 최소 공급의 불균형으로 힘들어 했던 고객들에게 좋은 소식입니다. 하지만 모든 시리즈가 그렇지는 않습니다."
     },
     {
       "date": "2022.10",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다.",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
       "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다."
     },
     {
       "date": "2022.11",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "자동차 부문 및 산업용 로봇 공학 제조에 많이 활용되는 Infineon SAK/TC27 시리즈에 필요한 생산 자재의 가용성은 계속 부족한 상태입니다.",
+      "summary": "Infineon 및 NXP에 대한 공급 여전히 부족",
       "text": "자동차 부문 및 산업용 로봇 공학 제조에 많이 활용되는 Infineon SAK/TC27 시리즈에 필요한 생산 자재의 가용성은 계속 부족한 상태입니다. 이러한 상황은 2023년 2분기까지 계속될 것으로 예상되며, 가격은 높은 수준을 유지할 가능성이 큽니다. 현재 이들 제품의 표준 리드 타임은 40~50주로 일정하게 유지되고 있습니다."
     },
     {
       "date": "2023.02",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다.",
+      "summary": "Wuxi Looms 도금 공장에서 대형 화재 발생",
       "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다."
     },
     {
       "date": "2023.03",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다.",
+      "summary": "우시 화재로 Infineon과 Vishay에 영향",
       "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다."
     },
     {
       "date": "2023.03",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다.",
+      "summary": "우시 화재로 Infineon과 Vishay에 영향",
       "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다."
     },
     {
       "date": "2023.07",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
       "summary": "Infineon의 공급 제약으로 산업 및 자동차 고객 간 경쟁이 뜨겁습니다.",
@@ -175,32 +181,32 @@
     },
     {
       "date": "2023.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "년 Infineon이 Cypress 인수를 완료했을 때, 팬데믹에 따른 어려움이 계속되어 제조가 정상 수준에 미치지 못하고 있었습니다.",
+      "summary": "Cypress의 생산 능력 문제 및 리드 타임 장기화 지속",
       "text": "2021년 Infineon이 Cypress 인수를 완료했을 때, 팬데믹에 따른 어려움이 계속되어 제조가 정상 수준에 미치지 못하고 있었습니다. 해당 인수의 초기 의도는 Infineon을 자동차 산업을 위한 최대 칩 생산업체로 만들고, 증가하는 사물인터넷(IoT) 시장의 필요성을 지원하는 것이었습니다."
     },
     {
       "date": "2023.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Infineon의 TLE, IPD, AUIR 자동차용 시리즈는 장기적 부족 및 가격 인상에 직면했습니다.",
+      "summary": "제한된 공급을 두고 산업용 및 자동차용 고객 경쟁",
       "text": "Infineon의 TLE, IPD, AUIR 자동차용 시리즈는 장기적 부족 및 가격 인상에 직면했습니다. IPW65/90, IPB65, IPP65/IPW90과 같은 고전압 MOS 부품도 리드 타임이 50주를 초과하는 등 부족 현상을 겪고 있습니다."
     },
     {
       "date": "2023.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "대신 Infineon의 SAK 및 BSS 시리즈 공급이 점차 회복되고 있습니다.",
+      "summary": "제한된 공급을 두고 산업용 및 자동차용 고객 경쟁",
       "text": "대신 Infineon의 SAK 및 BSS 시리즈 공급이 점차 회복되고 있습니다. 그러나 리드 타임은 여전히 상이하며, 대체로 긴 상황입니다."
     },
     {
@@ -208,47 +214,50 @@
       "category": "IC",
       "detected_categories": [
         "IC",
+        "Other",
         "Storage"
       ],
       "risk_level": "Medium",
-      "summary": "또한 Infineon의 IKZ 및 IKW 시리즈 IGBT에 대한 수요가 증가했으며, 현재 리드 타임은 39~50주입니다.",
+      "summary": "제한된 공급을 두고 산업용 및 자동차용 고객 경쟁",
       "text": "또한 Infineon의 IKZ 및 IKW 시리즈 IGBT에 대한 수요가 증가했으며, 현재 리드 타임은 39~50주입니다. 해당 시리즈에는 산업용 SMPS 및 UPS와 같은 다양한 적용 분야와 제어 장치가 있습니다. 이외에도 FPGA, 태양광 스트링 인버터, 에너지 저장장치, 충전기, 홈 게이트웨이, 가전제품, 컴퓨터 서버, 시스템 등의 용도가 있습니다. 이렇듯 광범위한 사용 사례가 있기 때문에 리드 타임이 길고 공급이 제한된 상황에서 여러 업계가 이를 두고 경쟁하고 있습니다."
     },
     {
       "date": "2023.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "자동차, 디지털, 전기 제품에 주로 사용되는 Infineon의 FM 시리즈의 리드 타임은 현재 약 20주입니다.",
+      "summary": "FM 시리즈의 리드 타임 단축 및 비용 절감 시작",
       "text": "자동차, 디지털, 전기 제품에 주로 사용되는 Infineon의 FM 시리즈의 리드 타임은 현재 약 20주입니다. 특히 F1 시리즈는 탄력을 받고 있으며, 공급이 용이해 F2 및 F3 시리즈를 대체할 가능성도 있습니다."
     },
     {
       "date": "2023.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "월 초, 중국은 칩 제조에 필수인 두 가지 금속 갈륨 및 게르마늄에 대한 수출 제한을 발표했습니다.",
+      "summary": "수출 제한 조치가 반도체 제조에 미칠 수 있는 영향",
       "text": "7월 초, 중국은 칩 제조에 필수인 두 가지 금속 갈륨 및 게르마늄에 대한 수출 제한을 발표했습니다. 이 두 금속은 전력 반도체 및 고주파 부품 제조의 핵심입니다. 이러한 수출 규제에 대한 초기 평가에서는 공급망에 즉각적인 차질을 빚지 않을 것으로 보입니다. 하지만 갈륨과 게르마늄이 없으면 제품을 제조할 수 없기 때문에 장기적으로는 부정적인 영향을 미칠 것으로 예상됩니다. 8월에 접어들면 Broadcom, Skyworks, Qorvo, Infineon, STMicroelectronics, WIN Semiconductors와 같은 제조업체에서 이러한 차질을 한층 더 심각하게 평가할 것으로 예상됩니다."
     },
     {
       "date": "2023.09",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "전반적으로 MOSFET의 수요가 낮은 시리즈에 대한 공급은 점차 개선되었습니다.",
+      "summary": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
       "text": "전반적으로 MOSFET의 수요가 낮은 시리즈에 대한 공급은 점차 개선되었습니다. 그러나 여전히 공급이 수요를 따라가지 못하는 영역이 존재하며 Infineon, onsemi와 같은 제조업체의 리드 타임이 늘어나고 있습니다. SiC, IGBT, 고전압 MOSFET의 경우 리드 타임이 60주 이상입니다. 제한된 가용성으로 인해 모든 부품의 가격이 상승하고 있습니다."
     },
     {
       "date": "2024.01",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Medium",
       "summary": "Infineon의 IGBT 리드 타임은 연장되고 있지만 특정 고전압 MOSFET의 초과 공급은 증가하고 있습니다.",
@@ -256,192 +265,201 @@
     },
     {
       "date": "2024.01",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "지난 한 달 동안 Infineon은 특정 고전압 MOSFET의 제약을 겪었고 이에 따라 배송 기간이 연장되었습니다.",
+      "summary": "초과 공급이 IC 시장에 영향을 미치는 반면 IGBT 공급 부족은 지속",
       "text": "지난 한 달 동안 Infineon은 특정 고전압 MOSFET의 제약을 겪었고 이에 따라 배송 기간이 연장되었습니다. 대신 소비자 시장의 수요 감소에 따라 제조업체에서 초과 재고를 관리하면서 저전압 MOSFET의 공급은 꾸준히 개선되었습니다. 수요 변화로 인해 Infineon에서 생산 능력을 전환해 고전압 MOSFET 지원을 확대할 수 있었고 공급은 현재 안정화되었습니다."
     },
     {
       "date": "2024.10",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "공급 관리 전략: 인피니언(Infineon)과 온세미는 주요 고객과 장기 재고 관리 계약을 체결하여, 수요 증가 속에서도 적시 납품을 보장하려는 움직임을 보이고 있습니다.",
+      "summary": "🔌 IC",
       "text": "공급 관리 전략: 인피니언(Infineon)과 온세미는 주요 고객과 장기 재고 관리 계약을 체결하여, 수요 증가 속에서도 적시 납품을 보장하려는 움직임을 보이고 있습니다. 이는 안정적인 공급을 위한 제조업체들의 전략적 전환을 반영합니다."
     },
     {
       "date": "2025.02",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Infineon의 보안ICs는 특히 고전압 Cool Mosfet 및 IGBT 세그먼트에서 강력한 수요를 보이고 있으며, 2025년 2분기부터 추가 증가가 예상됩니다.",
+      "summary": "제한된 시장 속에서 길을 찾다",
       "text": "Infineon의 보안ICs는 특히 고전압 Cool Mosfet 및 IGBT 세그먼트에서 강력한 수요를 보이고 있으며, 2025년 2분기부터 추가 증가가 예상됩니다."
     },
     {
       "date": "2025.02",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Nvidia가 MPS에서 Infineon으로 전환하면서 SLB 시리즈의 생산 용량 대부분을 예약함에 따라 Infineon의 SLB 시리즈 리드 타임이 연장되었습니다.",
+      "summary": "제한된 시장 속에서 길을 찾다",
       "text": "Nvidia가 MPS에서 Infineon으로 전환하면서 SLB 시리즈의 생산 용량 대부분을 예약함에 따라 Infineon의 SLB 시리즈 리드 타임이 연장되었습니다."
     },
     {
       "date": "2025.03",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon의 고전압 Cool Mosfet 및 IGBT 제품 라인은 여전히 수요가 높으며, 2025년 2분기까지 리드 타임 증가가 예상됩니다.",
+      "summary": "🔌 집적 회로: 시장 변화 동향",
       "text": "Infineon의 고전압 Cool Mosfet 및 IGBT 제품 라인은 여전히 수요가 높으며, 2025년 2분기까지 리드 타임 증가가 예상됩니다."
     },
     {
       "date": "2025.03",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Infineon은 유통사들 사이에서 재고 정상화가 나타나고 있다고 보고했으며, 일부 영역에서는 추가 조정이 필요하지만 2025년 중반까지는 대부분 해결될 것으로 기대하고 있습니다.",
+      "summary": "재고 정상화가 진행 중인 기업들",
       "text": "Infineon은 유통사들 사이에서 재고 정상화가 나타나고 있다고 보고했으며, 일부 영역에서는 추가 조정이 필요하지만 2025년 중반까지는 대부분 해결될 것으로 기대하고 있습니다."
     },
     {
       "date": "2025.03",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "Infineon은 2025년을 긍정적으로 전망하며, AI 관련 매출이 2년 이내에 10억 유로를 초과할 것으로 내다보고 있습니다.",
+      "summary": "년 낙관적 전망",
       "text": "Infineon은 2025년을 긍정적으로 전망하며, AI 관련 매출이 2년 이내에 10억 유로를 초과할 것으로 내다보고 있습니다. 중국을 중심으로 자동차 분야에서도 지속적인 성장을 기대하고 있으며, 실리콘 카바이드(SiC) 및 전력전자 부문에서도 강한 성과를 보이고 있습니다."
     },
     {
       "date": "2025.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon의 SiC MOSFETs와 고전압 IGBT는 EV 및 산업 수요가 강세이며, AI/자동차 성장으로 리드 타임 압박이 지속됩니다.",
+      "summary": "지속되는 부족과 수요 변화",
       "text": "Infineon의 SiC MOSFETs와 고전압 IGBT는 EV 및 산업 수요가 강세이며, AI/자동차 성장으로 리드 타임 압박이 지속됩니다."
     },
     {
       "date": "2025.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon의 BTT/BTS 전력 IC는 7월 중순까지 리드 타임이 안정될 것으로 보います.",
+      "summary": "지속되는 부족과 수요 변화",
       "text": "Infineon의 BTT/BTS 전력 IC는 7월 중순까지 리드 타임이 안정될 것으로 보います."
     },
     {
       "date": "2025.07",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "인피니언: 300mm 웨이퍼 기반 GaN 제조를 추진 중이며, 첫 샘플은 2025년 4분기에 나올 예정입니다—GaN 분야에서 IDM 리더십을 강화하고 있습니다.",
+      "summary": "🏢 제조업체 뉴스 및 업데이트",
       "text": "인피니언: 300mm 웨이퍼 기반 GaN 제조를 추진 중이며, 첫 샘플은 2025년 4분기에 나올 예정입니다—GaN 분야에서 IDM 리더십을 강화하고 있습니다. 인피니언 보도자료"
     },
     {
       "date": "2025.12",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음: 샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다.",
+      "summary": "주요 주제",
       "text": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음: 샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다."
     },
     {
       "date": "2026.01",
-      "category": "기타",
+      "category": "Other",
       "detected_categories": [
-        "기타"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다.",
+      "summary": "주요 주제",
       "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다."
     },
     {
       "date": "2026.02",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다.",
+      "summary": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면해 있습니다."
     },
     {
       "date": "2026.03",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": ".",
+      "summary": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
       "text": "3. Infineon은 2026년 4월 1일부터 전력 IC 제품군 가격 인상을 발표했다. 리드타임은 30~52주로 두 배 증가했으며, 이는 Nexperia 수요 유입 영향이다. 중국 러산 공장의 웨이퍼 생산 제약이 지연을 악화시키고 있다."
     },
     {
       "date": "2026.04",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": ".",
+      "summary": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
       "text": "6. Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다."
     },
     {
       "date": "2026.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": ".",
+      "summary": "주요 주제",
       "text": "3. Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다."
     },
     {
       "date": "2026.07",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "Infineon과 On Semi의 리드타임은 Nexperia의 초과 수요를 흡수하면서 두 배 증가해 30~52주까지 확대됐다.",
+      "summary": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
       "text": "Infineon과 On Semi의 리드타임은 Nexperia의 초과 수요를 흡수하면서 두 배 증가해 30~52주까지 확대됐다. Infineon MOSFET(특히 TOLL 패키지)은 2027년 3분기까지 지속될 것으로 예상되는 공급 부족에 직면해 있으며, 고객에 대한 할당 보장은 제공되지 않고 있다."
     },
     {
       "date": "2026.07",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다.",
+      "summary": "🌐 공급망 동향",
       "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]"
     },
     {
       "date": "2026.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": ".",
+      "summary": "🔌 집적 회로(IC): 가격 인상 및 원자재 병목",
       "text": "4. Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다. 자동차용 전력 소자와 MCU(예: SAK-TC277TP)의 리드타임은 52주 이상이며, 유통업체들은 가격과 납기 확정 내용을 신뢰하기 어렵다고 보고하고 있습니다."
     }
   ]
