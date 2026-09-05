@@ -73,9 +73,8 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Fan",
+    "category": "PCB",
     "detected_categories": [
-      "Fan",
       "PCB"
     ],
     "section_raw": "완제품",
@@ -132,9 +131,8 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "PCB",
       "Passive"

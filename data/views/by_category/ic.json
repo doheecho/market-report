@@ -24,9 +24,8 @@
   {
     "year": 2020,
     "month": 4,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -319,9 +318,8 @@
   {
     "year": 2020,
     "month": 6,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -416,9 +414,8 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -470,9 +467,8 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Memory"
     ],
@@ -1455,9 +1451,8 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -1523,7 +1518,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -1541,9 +1535,8 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -2193,9 +2186,8 @@
   {
     "year": 2021,
     "month": 1,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "2 ICs (집적회로)",
@@ -2586,9 +2578,8 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -3495,9 +3486,8 @@
   {
     "year": 2021,
     "month": 5,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -4288,9 +4278,8 @@
   {
     "year": 2021,
     "month": 8,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -4754,9 +4743,8 @@
   {
     "year": 2021,
     "month": 11,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -4992,9 +4980,8 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "1 IC (집적회로)",
@@ -5559,7 +5546,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "IC",
@@ -8265,9 +8251,8 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -8777,9 +8762,8 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Memory"
     ],
@@ -9150,6 +9134,36 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
+    "text": "Spartan 6(45nm): 현재 상태가 2023년까지 동일하게 지속",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "Ultra Scale 시리즈(16nm 및 20nm): 2023년 2분기까지 20주 리드 타임 예상",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Intro",
+    "subheading": "",
     "text": "Silicon Labs 역시 가격 인상을 발표했습니다. Silicon Labs는 고객사에 보낸 공고를 통해 가격 상승은 전 세계적인 제조 위기와 거의 모든 업계로 확산된 전반적인 인플레이션이 원인으로 이로 인해 공급망 비용이 상승했기 때문이라고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -9160,9 +9174,8 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -9177,9 +9190,22 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
+      "IC"
+    ],
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "이 미드레인지 FPGA 제품을 위한 신기술 플랫폼인 Avant과 함께 이 플랫폼에 탑재될 최초의 미드레인지 시리즈가 발표되었습니다. 이 시리즈의 이름은 “Avant-E”가 될 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
       "IC"
     ],
     "section_raw": "Intro",
@@ -9878,9 +9904,8 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "완제품",
@@ -10360,9 +10385,8 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -10509,9 +10533,8 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -10584,9 +10607,8 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "Storage"
     ],
@@ -12462,6 +12484,25 @@
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "IC"
+    ],
+    "section_raw": "CPU",
+    "subheading": "",
+    "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다.",
+    "detected_vendors": [
+      "Amd"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -15735,9 +15776,8 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
@@ -16236,7 +16276,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Fan",
       "IC"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
@@ -16762,7 +16801,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -16864,9 +16902,8 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -17058,9 +17095,8 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -17627,9 +17663,8 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "PCB",
       "Passive"
@@ -19804,9 +19839,8 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",

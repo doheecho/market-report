@@ -1,0 +1,262 @@
+{
+  "vendor": "Panasonic",
+  "total_milestones": 24,
+  "history": [
+    {
+      "date": "2020.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "탄탈 커패시터의 원자재는 주로 중앙아프리카에서 공급되는데 최근 몇 달간 공급망의 안정적 운용에 대한 우려가 높아졌습니다.",
+      "text": "탄탈 커패시터의 원자재는 주로 중앙아프리카에서 공급되는데 최근 몇 달간 공급망의 안정적 운용에 대한 우려가 높아졌습니다. 코로나바이러스 팬데믹으로 인해 광산 조업이 중단되면서, 리드 타임이 늘어났고 불안정한 상태로 남아 있습니다. 관련 회사들이 영업을 재개함에 따라, 수요를 맞추고 공급을 안정화하기 위해 노력하고 있습니다. AVX 및 Panasonic과 같은 공급업체가 정상적인 생산 속도로 돌아가려면 여러 주가 걸릴 것이며 전반적으로 재고 수준이 사상 최저 수준인 상황에서 리드 타임이 늘어난 상태로 유지됩니다."
+    },
+    {
+      "date": "2020.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Nuvoton Technology는 Panasonic Semiconductor Solutions(PSCS)의 100%를 포함한 Panasonic의 반도체 사업 인수를 완료했다고 발표했습니다.",
+      "text": "Nuvoton Technology는 Panasonic Semiconductor Solutions(PSCS)의 100%를 포함한 Panasonic의 반도체 사업 인수를 완료했다고 발표했습니다. PSCS는 2021년에 이루어질 것으로 예상되는 변화와 함께 Nuvoton Technology Japan으로 이름을 바꿀 예정입니다."
+    },
+    {
+      "date": "2020.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "이와는 별개로, 현재 전반적으로 대량의 Panasonic 알루미늄 커패시터 공급 부족 사태가 빚어지고 있는데, 다음 분기까지도 이 문제가 지속할 것으로 예상합니다.",
+      "text": "이와는 별개로, 현재 전반적으로 대량의 Panasonic 알루미늄 커패시터 공급 부족 사태가 빚어지고 있는데, 다음 분기까지도 이 문제가 지속할 것으로 예상합니다."
+    },
+    {
+      "date": "2021.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Taiyo Yuden, 크리스털 공급업체인 NDK와 Epson, Panasonic, Walsin Technology를 비롯해, 말레이시아 생산 공장을 운영 중인 제조업체들이 정상 조업에 타격을 받으면서 리드 타임이 길어졌습니다.",
+      "text": "Taiyo Yuden, 크리스털 공급업체인 NDK와 Epson, Panasonic, Walsin Technology를 비롯해, 말레이시아 생산 공장을 운영 중인 제조업체들이 정상 조업에 타격을 받으면서 리드 타임이 길어졌습니다."
+    },
+    {
+      "date": "2021.12",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "Yageo와 삼성전자의 탄탈륨 커패시터 리드 타임은 2주로 연장되었으며 생산 라인이 건강한 것으로 보고되었습니다.",
+      "text": "Yageo와 삼성전자의 탄탈륨 커패시터 리드 타임은 2주로 연장되었으며 생산 라인이 건강한 것으로 보고되었습니다. 그러나 Panasonic의 상황은 다릅니다. 이 제조업체는 원료 공급 부족에 따른 중단으로 인해 P5KF, A4S 및 A35S 시리즈 커패시터 생산이 빠듯하기 때문입니다."
+    },
+    {
+      "date": "2022.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다.",
+      "text": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다. 특히 TDK Corporation, Panasonic Corporation, Vishay Intertechnology, Inc., WIMA와 같은 제조업체는 커패시터 제조용 소재 할당 문제로 인한 어려움을 겪고 있습니다. 생산 지연으로 리드 타임이 증가했습니다. 필름 커패시터의 대체적인 현재 표준 리드 타임은 다음과 같습니다."
+    },
+    {
+      "date": "2022.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Panasonic: 최대 26주.",
+      "text": "Panasonic: 최대 26주"
+    },
+    {
+      "date": "2024.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "폴리머 커패시터 시장은 AI와 서버 응용 프로그램에 대한 수요 증가로 인해 심각한 압박을 받고 있습니다.",
+      "text": "폴리머 커패시터 시장은 AI와 서버 응용 프로그램에 대한 수요 증가로 인해 심각한 압박을 받고 있습니다. 리드 타임 연장과 생산 능력에 대한 압박이 커패시터의 가용성과 가격에 영향을 미치는 주요 트렌드로 나타나고 있습니다. Panasonic은 최근 실적 발표에서 올해 초보다 가동률이 낮아졌으며, 일부 시설의 생산 능력을 점진적으로 확장하고 있다고 언급했습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Low",
+      "summary": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인: Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다.",
+      "text": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인: Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Low",
+      "summary": "AI/ML에서의 광범위한 사용: Panasonic 커패시터는 AI/ML, 서버, 데이터 센터 응용 프로그램에 필수적이지만, 제한된 생산 능력으로 인해 증가하는 수요를 충족하지 못하고 있습니다.",
+      "text": "AI/ML에서의 광범위한 사용: Panasonic 커패시터는 AI/ML, 서버, 데이터 센터 응용 프로그램에 필수적이지만, 제한된 생산 능력으로 인해 증가하는 수요를 충족하지 못하고 있습니다. Panasonic은 생성형 AI가 매출 성장의 주요 원인이었으며, 다른 시장에서의 부진을 보완했다고 말했습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU",
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Low",
+      "summary": "다양한 응용 분야에서의 수요 급증: 서버, 노트북, 디스플레이, 그래픽 카드, 데이터 센터, 산업 제어 보드 등 다양한 부문에서 Panasonic 커패시터에 대한 수요가 크게 증가했으며, 이에 따라 생산 라인이이 현재 풀 가동상태입니다.",
+      "text": "다양한 응용 분야에서의 수요 급증: 서버, 노트북, 디스플레이, 그래픽 카드, 데이터 센터, 산업 제어 보드 등 다양한 부문에서 Panasonic 커패시터에 대한 수요가 크게 증가했으며, 이에 따라 생산 라인이이 현재 풀 가동상태입니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "월 9일 Panasonic Industry의 치토세 공장에서 발생한 화재로 인해 칩 바리스터, NTC 서미스터, 칩 인덕터 등에 영향이 생겼습니다.",
+      "text": "3월 9일 Panasonic Industry의 치토세 공장에서 발생한 화재로 인해 칩 바리스터, NTC 서미스터, 칩 인덕터 등에 영향이 생겼습니다."
+    },
+    {
+      "date": "2025.05",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "Panasonic의 치토세 공장은 3월 화재 이후 부분적으로 가동 중단된 상태이며, NTC 서미스터 및 칩 인덕터 생산에 영향을 미치고 있습니다.",
+      "text": "Panasonic의 치토세 공장은 3월 화재 이후 부분적으로 가동 중단된 상태이며, NTC 서미스터 및 칩 인덕터 생산에 영향을 미치고 있습니다. 생산 정상화는 3분기에나 가능할 것으로 보입니다."
+    },
+    {
+      "date": "2025.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "Panasonic이 타이트한 리드타임을 유지하는 가운데, Kemet 및 Nippon Chemicon 또한 주문 전환으로 인해 알루미늄 폴리머 및 탄탈륨 커패시터의 추가 지연 발생.",
+      "text": "Panasonic이 타이트한 리드타임을 유지하는 가운데, Kemet 및 Nippon Chemicon 또한 주문 전환으로 인해 알루미늄 폴리머 및 탄탈륨 커패시터의 추가 지연 발생"
+    },
+    {
+      "date": "2025.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "Panasonic 커패시터는 현재 리드타임이 16~18주입니다.",
+      "text": "Panasonic 커패시터는 현재 리드타임이 16~18주입니다."
+    },
+    {
+      "date": "2025.09",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "파나소닉 탄탈륨 커패시터는 리드타임이 24주이며, 알루미늄 커패시터는 16~18주입니다.",
+      "text": "파나소닉 탄탈륨 커패시터는 리드타임이 24주이며, 알루미늄 커패시터는 16~18주입니다."
+    },
+    {
+      "date": "2025.10",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "탄탈륨 커패시터의 리드타임은 24~28주를 보이고 있다.",
+      "text": "탄탈륨 커패시터의 리드타임은 24~28주를 보이고 있다. 파나소닉 커패시터는 16~18주다."
+    },
+    {
+      "date": "2025.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "Panasonic은 2026년 1분기에 탄탈럼 커패시터 라인에 대한 대규모 가격 인상을 시행할 예정이며, 전체 생산 능력은 이미 해당 분기까지 완전 예약된 상태다.",
+      "text": "Panasonic은 2026년 1분기에 탄탈럼 커패시터 라인에 대한 대규모 가격 인상을 시행할 예정이며, 전체 생산 능력은 이미 해당 분기까지 완전 예약된 상태다."
+    },
+    {
+      "date": "2025.12",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Low",
+      "summary": "파나소닉와 케멧은 모두 가격을 인상했으며, 2026년에 추가 인상을 예상하고 있습니다.",
+      "text": "파나소닉와 케멧은 모두 가격을 인상했으며, 2026년에 추가 인상을 예상하고 있습니다."
+    },
+    {
+      "date": "2026.01",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "파나소닉은 탄탈 캐패시터에 대해 2026년 1분기 대폭적인 가격 인상을 발표했으며, 분기 전체 캐파가 이미 예약 완료되었습니다.",
+      "text": "파나소닉은 탄탈 캐패시터에 대해 2026년 1분기 대폭적인 가격 인상을 발표했으며, 분기 전체 캐파가 이미 예약 완료되었습니다. 리드타임은 현재 40주를 초과합니다."
+    },
+    {
+      "date": "2026.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": ".",
+      "text": "4. Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다."
+    },
+    {
+      "date": "2026.04",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": ".",
+      "text": "2. 무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다."
+    },
+    {
+      "date": "2026.05",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": ".",
+      "text": "2. 탄탈 커패시터 리드타임은 40주를 초과했으며, 벤더들은 저마진 라인의 단종 가능성을 경고하고 있다. Panasonic과 Kemet은 2026년 5월부터 20~40%의 가격 인상을 발표했다."
+    },
+    {
+      "date": "2026.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "• Panasonic과 Kemet은 7월부터 30~40%의 가격 인상을 발표했다.",
+      "text": "• Panasonic과 Kemet은 7월부터 30~40%의 가격 인상을 발표했다. 리드타임은 40주를 초과하고 있다. 제조사들이 자동차 및 산업용 등급 제품을 우선시함에 따라 저마진 상업용 제품군은 단종 가능성에 직면해 있다."
+    }
+  ]
+}

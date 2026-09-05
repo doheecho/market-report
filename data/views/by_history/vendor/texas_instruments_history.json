@@ -1,0 +1,381 @@
+{
+  "vendor": "Texas Instruments",
+  "total_milestones": 37,
+  "history": [
+    {
+      "date": "2020.05",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "TI 제품은 오픈 마켓에서 계속 많이 거래되고 있습니다.",
+      "text": "TI 제품은 오픈 마켓에서 계속 많이 거래되고 있습니다. TPSxxxx 시리즈 제품의 전반적인 공급이 비교적 안정적으로 유지되고 있지만, 멕시코와 동남아시아에서 제조되는 다른 제품의 경우 인도 지연과 리드 타임 연장이 발생하고 있습니다. 이 제품은 SNxxx 시리즈 중 하나로, 주로 멕시코와 말레이시아에서 제조됩니다. 지연 사태를 완화하고 현재의 수요를 보다 잘 충족하기 위해, TI는 현재 일부 생산을 동남아시아에서 중국으로 이전하고 있습니다."
+    },
+    {
+      "date": "2020.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "TI 공급은 상용 및 5G 애플리케이션에 사용되는 부품의 경우 비교적 안정적이었습니다.",
+      "text": "TI 공급은 상용 및 5G 애플리케이션에 사용되는 부품의 경우 비교적 안정적이었습니다. 하지만 자동차 고객의 수요 급증으로 인해 자동차 등급 품목의 경우 리드 타임이 최대 16주까지 늘었습니다."
+    },
+    {
+      "date": "2020.12",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "웨이퍼 공급 부족은 2020년 불안정한 상황과 맞물려 시장에서 상당히 많은 장애를 계속해서 초래하고 있습니다.",
+      "text": "웨이퍼 공급 부족은 2020년 불안정한 상황과 맞물려 시장에서 상당히 많은 장애를 계속해서 초래하고 있습니다. 3분기에 STMicroelectronics, Texas Instruments, Intel, NXP, Infineon 를 비롯한 주요 반도체 제조업체들의 공급량 제약을 목격했습니다."
+    },
+    {
+      "date": "2020.12",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU",
+        "Memory"
+      ],
+      "risk_level": "Low",
+      "summary": "| **평가 결과** | RTX 3090 대항 | RTX 3080 대항 | RTX 3070/2080 TI 대항 | - | - | - |.",
+      "text": "| **평가 결과** | RTX 3090 대항 | RTX 3080 대항 | RTX 3070/2080 TI 대항 | - | - | - |"
+    },
+    {
+      "date": "2021.02",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Texas Instruments는 차세대 시리즈에서 고전압 전력 관리 칩을 생산할 예정입니다.",
+      "text": "Texas Instruments는 차세대 시리즈에서 고전압 전력 관리 칩을 생산할 예정입니다. 이러한 GaN(질화갈륨) 및 FET(전계 효과 트랜지스터)는 첨단 자동차 및 산업용으로 사용하기에 적합하도록 650V 및 600V의 더욱 높은 전압을 제공합니다. 새로운 GaN 및 FET는 99 %의 효율을 달성하기 위해 두 배의 전력 밀도를 제공하고 현재 모델에 비해 전력 자기의 크기를 줄일 것이라고보고되었습니다."
+    },
+    {
+      "date": "2021.02",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "현재, Texas Instruments에서 완제품 칩 생산 리드 타임은 26주입니다.",
+      "text": "현재, Texas Instruments에서 완제품 칩 생산 리드 타임은 26주입니다. 하지만 현재의 공급 부족은 앞으로 몇 달 정도 지나면 완화되고 공급이 서서히 수요를 따라가기 시작할 것으로 생각됩니다."
+    },
+    {
+      "date": "2021.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "Texas Instruments는 Micron 측에 4분기에 일부 제품 라인의 가동을 중단한다고 알렸는데, 이로 인해 5300 시리즈 SSD를 포함하여, 10월/11월 인도 물량 전체에 영향을 미치게 됩니다.",
+      "text": "Texas Instruments는 Micron 측에 4분기에 일부 제품 라인의 가동을 중단한다고 알렸는데, 이로 인해 5300 시리즈 SSD를 포함하여, 10월/11월 인도 물량 전체에 영향을 미치게 됩니다."
+    },
+    {
+      "date": "2022.09",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU",
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다.",
+      "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다."
+    },
+    {
+      "date": "2022.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Texas Instruments는 가장 안정적인 증폭기 공급이 이루어지고 있는 것으로 보으나, 고객이 짧은 리드 타임의 대체품을 찾고 있기 때문에 수요는 앞으로 수개월에 걸쳐 증가할 것으로 예상됩니다.",
+      "text": "Texas Instruments는 가장 안정적인 증폭기 공급이 이루어지고 있는 것으로 보으나, 고객이 짧은 리드 타임의 대체품을 찾고 있기 때문에 수요는 앞으로 수개월에 걸쳐 증가할 것으로 예상됩니다."
+    },
+    {
+      "date": "2024.07",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "시장 정보 소스에 따르면 이러한 상황으로 인해 Texas Instruments와 같은 제조업체가 내년 할당 일정을 확정하는 데 주저하는 등 IC 업계에 큰 변화가 일어나고 있습니다.",
+      "text": "시장 정보 소스에 따르면 이러한 상황으로 인해 Texas Instruments와 같은 제조업체가 내년 할당 일정을 확정하는 데 주저하는 등 IC 업계에 큰 변화가 일어나고 있습니다. 이러한 현상은 유통업체들이 향후 몇 달 동안 반등 정도를 지켜보기 위해 기다리면서 업계가 신중하게 접근하고 있기 때문일 수 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "AI 발전이 IC 시장 동향 주도: 인텔(Intel)과 텍사스 인스트루먼트(Texas Instruments) 등 주요 제조업체의 최근 실적 보고서에 따르면, 인공지능(AI)의 발전과 산업 및 자동차 부문의 성장으로 인해 IC 수요가 증가하고 있습니다.",
+      "text": "AI 발전이 IC 시장 동향 주도: 인텔(Intel)과 텍사스 인스트루먼트(Texas Instruments) 등 주요 제조업체의 최근 실적 보고서에 따르면, 인공지능(AI)의 발전과 산업 및 자동차 부문의 성장으로 인해 IC 수요가 증가하고 있습니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "Texas Instruments(TI)는 TCAN 시리즈의 생산을 확대 중이지만, 생산 지연으로 인해 공급 제약과 리드 타임 증가가 발생하고 있습니다.",
+      "text": "Texas Instruments(TI)는 TCAN 시리즈의 생산을 확대 중이지만, 생산 지연으로 인해 공급 제약과 리드 타임 증가가 발생하고 있습니다."
+    },
+    {
+      "date": "2025.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "TI, Intel, ADI, Micron 등 미국 기반 IDM 팹에 영향, 최종 조립이 해외에서 이뤄지더라도 적용됩니다.",
+      "text": "TI, Intel, ADI, Micron 등 미국 기반 IDM 팹에 영향, 최종 조립이 해외에서 이뤄지더라도 적용됩니다."
+    },
+    {
+      "date": "2025.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Texas Instruments (TI)의TCAN시리즈는 생산 라인 업그레이드로 인해 지속적인 공급 문제가 있으며, 자동차 고객에 영향을 주고 있습니다.",
+      "text": "Texas Instruments (TI)의TCAN시리즈는 생산 라인 업그레이드로 인해 지속적인 공급 문제가 있으며, 자동차 고객에 영향을 주고 있습니다."
+    },
+    {
+      "date": "2025.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "TI 자체 재고는 (시장 내 가용성과 무관하게) 거의 고갈 상태입니다.",
+      "text": "TI 자체 재고는 (시장 내 가용성과 무관하게) 거의 고갈 상태입니다. TPS5 시리즈는 AI/서버 수요 증가로 인해 제조 지연 발생 중. 자동차 관련 제품인 TLIN-Q1, TCAN-Q1, TPS5-Q1 등의 리드타임은 약 20주까지 연장되었습니다."
+    },
+    {
+      "date": "2025.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Texas Instruments (TI)는 텍사스와 유타에서 건설 중인 3개 반도체 공장 건설을 지원받기 위해 16억 달러의 연방 자금을 받은 후에도 유타에서 직원 감축을 단행하고 있습니다.",
+      "text": "Texas Instruments (TI)는 텍사스와 유타에서 건설 중인 3개 반도체 공장 건설을 지원받기 위해 16억 달러의 연방 자금을 받은 후에도 유타에서 직원 감축을 단행하고 있습니다."
+    },
+    {
+      "date": "2025.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "TI 자동차 IC의 TCAN/Q1 시리즈는 생산 병목 현상으로 인해 리드타임이 20주 이상으로 연장됨.",
+      "text": "TI 자동차 IC의 TCAN/Q1 시리즈는 생산 병목 현상으로 인해 리드타임이 20주 이상으로 연장됨"
+    },
+    {
+      "date": "2025.07",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "중국 웨이하이에 위치한 조립 공장 ATX에서 화재 사고가 발생했습니다.",
+      "text": "중국 웨이하이에 위치한 조립 공장 ATX에서 화재 사고가 발생했습니다. 이 공장은 도시바 및 텍사스 인스트루먼트를 포함한 여러 주요 IC 제조업체를 지원합니다. 도시바 제품, 특히 MOSFETs에 대해 공개 시장에서 약간의 가격 변동이 관찰되고 있습니다."
+    },
+    {
+      "date": "2025.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Texas Instruments (TI)는 최근 가격 조정 이후 전 세계적으로 수요가 여전히 높으며, 대부분의 자동차용 부품 리드타임이 현재 20주를 초과하고 있습니다.",
+      "text": "Texas Instruments (TI)는 최근 가격 조정 이후 전 세계적으로 수요가 여전히 높으며, 대부분의 자동차용 부품 리드타임이 현재 20주를 초과하고 있습니다."
+    },
+    {
+      "date": "2025.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Texas Instruments (TI)는 8월 중순 가격 인상을 통해 산업 및 자동차 응용 분야 전반에 걸쳐 6만 개 이상의 MPN(모델)에 영향을 주며, TI가 구형 모델보다 신형 모델을 우선적으로 밀어내기 시작했습니다.",
+      "text": "Texas Instruments (TI)는 8월 중순 가격 인상을 통해 산업 및 자동차 응용 분야 전반에 걸쳐 6만 개 이상의 MPN(모델)에 영향을 주며, TI가 구형 모델보다 신형 모델을 우선적으로 밀어내기 시작했습니다."
+    },
+    {
+      "date": "2025.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
+      "text": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다."
+    },
+    {
+      "date": "2025.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "텍사스 인스트루먼트는 8월에 6만여 개 이상의 모델에 대해 대규모 가격 인상을 시행했으며, 이는 6월의 이전 라운드 대비 20배에 달합니다.",
+      "text": "텍사스 인스트루먼트는 8월에 6만여 개 이상의 모델에 대해 대규모 가격 인상을 시행했으며, 이는 6월의 이전 라운드 대비 20배에 달합니다. 영향을 받는 범주에는 디지털 절연기, LDO 레귤레이터, ADCs가 포함되며 가격 인상률은 10%에서 30% 사이입니다. 적용 분야는 산업 제어 및 자동차 부문입니다."
+    },
+    {
+      "date": "2025.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "백엔드 용량 제약과 2026년까지 이어지는 가격 인상으로 만성적인 부족 사태에 직면한 아날로그 디바이스(ADI)에서 고객들이 전환함에 따라 텍사스 인스트루먼트(TI) 부품에 대한 수요가 가속화되고 있다.",
+      "text": "백엔드 용량 제약과 2026년까지 이어지는 가격 인상으로 만성적인 부족 사태에 직면한 아날로그 디바이스(ADI)에서 고객들이 전환함에 따라 텍사스 인스트루먼트(TI) 부품에 대한 수요가 가속화되고 있다. 상황을 더욱 악화시키는 것은 상하이와 홍콩 법인이 미국 수출 제한 목록에 추가된 이후 애로(Arrow)의 아시아 사업이 혼란에 빠졌다는 점이다."
+    },
+    {
+      "date": "2025.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다.",
+      "text": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다."
+    },
+    {
+      "date": "2026.02",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Texas Instruments(TI)의 주문 접수 기준 리드타임은 6개월(180일)로 연장되었습니다.",
+      "text": "Texas Instruments(TI)의 주문 접수 기준 리드타임은 6개월(180일)로 연장되었습니다. TI는 견적 제공 절차를 대폭 강화하여 가격 공개 이전에 최종 고객 정보 및 프로젝트 계획 제출을 의무화하고 있습니다. 이는 사실상 자유 시장 기반의 구매를 제한하는 조치입니다. 레거시 제품 및 전력 IC에 대해 10~30%의 가격 인상이 적용되고 있습니다."
+    },
+    {
+      "date": "2026.02",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Texas Instruments는 Silicon Labs 인수 계약을 발표했으며, 거래는 2027년 상반기 중 완료될 예정입니다.",
+      "text": "Texas Instruments는 Silicon Labs 인수 계약을 발표했으며, 거래는 2027년 상반기 중 완료될 예정입니다. 본 인수는 제조 리쇼어링을 목표로 하나, 향후 24개월간 양사 고객에게 공급 차질 및 통합 리스크가 발생할 가능성이 있습니다. [출처: TI]"
+    },
+    {
+      "date": "2026.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": ".",
+      "text": "2. Texas Instruments는 2026년 4월 1일부터 신규 리드타임 주문에 대해 15~85% 가격 인상을 예고했다. 리드타임은 180일까지 증가했으며, TI는 가격 제공 전 최종 고객 정보와 프로젝트 계획 제출을 요구하는 등 견적 절차를 강화하여 자유 시장 구매를 사실상 제한하고 있다."
+    },
+    {
+      "date": "2026.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": ".",
+      "text": "1. Texas Instruments(TI)는 가격 제시 전 상세한 최종 고객 정보와 프로젝트 계획 제출을 요구하는 등 견적 절차를 강화했습니다. 주문 예약 리드타임은 180일로 연장되었으며, 레거시 제품 및 전력 IC 포트폴리오에는 10~30%의 가격 인상이 적용되고 있습니다."
+    },
+    {
+      "date": "2026.05",
+      "category": "기타",
+      "detected_categories": [
+        "기타"
+      ],
+      "risk_level": "High",
+      "summary": ".",
+      "text": "2. Texas Instruments, 7월 1일 가격 인상 통보로 가격 압박 심화: TI는 2026년 7월 1일부터 전사적 가격 인상을 시행한다고 공식 통보했으며, 인상 폭은 포트폴리오 전반에 걸쳐 10~85%에 달한다. 주문 리드타임은 180일까지 연장되었고, 한층 엄격해진 견적 프로토콜에 따라 가격 공개 전 상세한 최종 고객 정보와 프로젝트 계획 제출이 요구되고 있다. TPS, TLV, LMR 시리즈가 가장 큰 영향을 받고 있으며, 자동차 및 산업용 고객들은 공급 확약 철회와 긴급 납기 수수료 요청 사례를 보고하고 있다."
+    },
+    {
+      "date": "2026.05",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": ".",
+      "text": "5. Texas Instruments는 2026년 7월 1일부터 적용되는 전사적 가격 인상 통보를 발행했다. 이번 조정은 모든 미결 주문 및 선적 물량에 적용되며, 인상률은 제품군 및 MPN에 따라 달라진다. 대부분의 포트폴리오는 10~35%, 일부 레거시/전력 관리 제품군은 최대 85%까지 인상된다."
+    },
+    {
+      "date": "2026.06",
+      "category": "기타",
+      "detected_categories": [
+        "기타"
+      ],
+      "risk_level": "High",
+      "summary": ".",
+      "text": "3. Texas Instruments 공급망 혼란 심화: 7월 1일부 가격 인상(전 제품 포트폴리오 기준 10~85%)이 발효되었으며, 리드타임이 52주 이상 또는 1년까지 연장되면서 공급 부담이 가중되고 있다. 더욱 엄격해진 견적 프로토콜, SN74 시리즈의 공급 확약 철회 및 급행 수수료 부과는 자동차 및 산업용 Tier 1 업체들이 공개 시장 조달과 버퍼 재고 확보 전략을 앞당기도록 만들고 있다."
+    },
+    {
+      "date": "2026.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "• Texas Instruments의 7월 1일 가격 조정이 시행되었으며, 일반 포트폴리오는 10~35%, 레거시 및 전력 관리 제품군은 최대 85%까지 인상되었다.",
+      "text": "• Texas Instruments의 7월 1일 가격 조정이 시행되었으며, 일반 포트폴리오는 10~35%, 레거시 및 전력 관리 제품군은 최대 85%까지 인상되었다. 주문 리드타임은 180일 또는 52주 이상으로 확대되었다. SN74 로직 시리즈에서는 광범위한 공급 확약 철회가 발생하고 있으며, 제조사들은 가격을 제공하기 전에 최종 고객에 대한 상세 검증을 의무화하고 있다."
+    },
+    {
+      "date": "2026.07",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다.",
+      "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다."
+    },
+    {
+      "date": "2026.07",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "Texas Instruments(TI)는 심각한 공급 확약 철회와 리드타임 연장(52주 이상)을 겪고 있다.",
+      "text": "Texas Instruments(TI)는 심각한 공급 확약 철회와 리드타임 연장(52주 이상)을 겪고 있다. TI는 올해 레거시 IC 및 전력 IC에 대해 10~30% 수준의 다차례 가격 인상을 단행했으며, 유통업체 판매를 제한하고 있다. 또한 가격 공개 전 최종 고객 상세 정보를 요구하고 있어 사실상 자유 시장 구매를 차단하고 있다."
+    },
+    {
+      "date": "2026.07",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다.",
+      "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]"
+    },
+    {
+      "date": "2026.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": ".",
+      "text": "3. Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다."
+    },
+    {
+      "date": "2026.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": ".",
+      "text": "1. Texas Instruments는 10월 1일부터 추가 가격 인상을 시행하며, AI 서버용 PMIC(TPS·UCC 시리즈)와 고속 신호 체인 제품의 가격은 15~85% 인상됩니다. 리드타임은 여전히 매우 불안정해 20~48주 또는 그 이상으로 늘어나는 경우가 빈번하며, MicroSiP 전력 모듈(-SILR 접미사)은 할당 물량이 극도로 부족한 상황입니다."
+    }
+  ]
+}

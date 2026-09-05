@@ -986,9 +986,8 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",

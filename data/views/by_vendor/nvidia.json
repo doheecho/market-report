@@ -1082,9 +1082,9 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "Fan",
+    "category": "기타",
     "detected_categories": [
-      "Fan"
+      "기타"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -3181,7 +3181,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",

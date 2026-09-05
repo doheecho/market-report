@@ -23,7 +23,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",

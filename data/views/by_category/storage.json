@@ -262,9 +262,8 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Fan",
+    "category": "Storage",
     "detected_categories": [
-      "Fan",
       "Storage"
     ],
     "section_raw": "저장 장치 (스토리지)",
@@ -565,9 +564,8 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "Fan",
+    "category": "GPU",
     "detected_categories": [
-      "Fan",
       "GPU",
       "Storage"
     ],
@@ -1257,9 +1255,8 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "Fan",
+    "category": "Storage",
     "detected_categories": [
-      "Fan",
       "Storage"
     ],
     "section_raw": "4 스토리지 (저장장치)",
@@ -2985,9 +2982,8 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "Storage"
     ],
@@ -4100,7 +4096,6 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -5257,7 +5252,6 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -5279,7 +5273,6 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20-70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [

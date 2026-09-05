@@ -343,9 +343,8 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -1944,9 +1943,8 @@
   {
     "year": 2021,
     "month": 2,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -3573,9 +3571,8 @@
   {
     "year": 2021,
     "month": 11,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "1 ICs (집적회로)",
@@ -3798,9 +3795,8 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "1 IC (집적회로)",
@@ -4041,7 +4037,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "IC",
@@ -5253,9 +5248,9 @@
   {
     "year": 2022,
     "month": 7,
-    "category": "Fan",
+    "category": "기타",
     "detected_categories": [
-      "Fan"
+      "기타"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -5656,9 +5651,8 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -5838,8 +5832,7 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU",
-      "Fan"
+      "CPU"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -6118,9 +6111,9 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Fan",
+    "category": "기타",
     "detected_categories": [
-      "Fan"
+      "기타"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -6238,9 +6231,8 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Fan",
+    "category": "PCB",
     "detected_categories": [
-      "Fan",
       "PCB"
     ],
     "section_raw": "완제품",
@@ -6574,9 +6566,8 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "완제품",
@@ -6916,9 +6907,8 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",
@@ -7023,9 +7013,9 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Fan",
+    "category": "기타",
     "detected_categories": [
-      "Fan"
+      "기타"
     ],
     "section_raw": "완제품",
     "subheading": "",
@@ -8638,7 +8628,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA"
+      "IC"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -12083,7 +12073,6 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -12154,8 +12143,7 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU",
-      "Fan"
+      "CPU"
     ],
     "section_raw": "CPU 가격 추세 및 공급 제약",
     "subheading": "",
@@ -12393,7 +12381,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -12769,9 +12756,8 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -13126,9 +13112,8 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "PCB",
       "Passive"
@@ -14902,9 +14887,8 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",

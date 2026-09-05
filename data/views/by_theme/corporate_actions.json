@@ -177,7 +177,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",
@@ -535,9 +534,8 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "IC",

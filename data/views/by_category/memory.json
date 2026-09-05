@@ -127,9 +127,8 @@
   {
     "year": 2020,
     "month": 7,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Memory"
     ],
@@ -2387,9 +2386,8 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Memory"
     ],
@@ -2480,9 +2478,8 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Fan",
+    "category": "Memory",
     "detected_categories": [
-      "Fan",
       "Memory"
     ],
     "section_raw": "Intro",

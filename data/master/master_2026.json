@@ -93,7 +93,6 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -220,8 +219,7 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU",
-      "Fan"
+      "CPU"
     ],
     "section_raw": "CPU 가격 추세 및 공급 제약",
     "subheading": "",
@@ -386,7 +384,6 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20-70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -715,7 +712,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -817,9 +813,8 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -1422,9 +1417,8 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -2240,9 +2234,8 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "PCB",
       "Passive"
@@ -5456,9 +5449,8 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",

@@ -18,9 +18,8 @@
   {
     "year": 2020,
     "month": 11,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC"
     ],
     "section_raw": "3 ICs (집적회로)",

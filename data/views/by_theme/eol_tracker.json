@@ -608,7 +608,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "IC",
@@ -1633,7 +1632,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA"
+      "IC"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -2250,7 +2249,6 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [

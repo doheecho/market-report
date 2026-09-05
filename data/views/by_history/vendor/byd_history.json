@@ -1,0 +1,26 @@
+{
+  "vendor": "BYD",
+  "total_milestones": 2,
+  "history": [
+    {
+      "date": "2025.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "BYD’s EV 생산 확대는 자동차용 IC 수요 증가로 이어지고 있으며, 공급사들은 대량 구매 고객을 우선시하고 있어 일반 고객은 배정에 어려움을 겪고 있습니다.",
+      "text": "BYD’s EV 생산 확대는 자동차용 IC 수요 증가로 이어지고 있으며, 공급사들은 대량 구매 고객을 우선시하고 있어 일반 고객은 배정에 어려움을 겪고 있습니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "기타",
+      "detected_categories": [
+        "기타"
+      ],
+      "risk_level": "Low",
+      "summary": "BYD는 2월 출하량이 전년 대비 161% 증가하며 새로운 생산 기록을 세웠고, 전기차 분야에서의 강세가 이어지고 있습니다.",
+      "text": "BYD는 2월 출하량이 전년 대비 161% 증가하며 새로운 생산 기록을 세웠고, 전기차 분야에서의 강세가 이어지고 있습니다."
+    }
+  ]
+}

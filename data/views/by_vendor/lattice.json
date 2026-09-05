@@ -2,9 +2,8 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -19,9 +18,8 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -107,7 +105,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -129,9 +126,8 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -192,9 +188,8 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "Intro",
@@ -261,9 +256,8 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC",
       "PCB",
       "Passive"

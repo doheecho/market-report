@@ -244,25 +244,6 @@
     "risk_level": "Low"
   },
   {
-    "year": 2024,
-    "month": 10,
-    "category": "Storage",
-    "detected_categories": [
-      "Storage"
-    ],
-    "section_raw": "기업용 상품 업데이트",
-    "subheading": "",
-    "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
-    "detected_vendors": [
-      "Solidigm",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2025,
     "month": 9,
     "category": "Memory",
@@ -353,49 +334,6 @@
     "subheading": "",
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
-      "Solidigm",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Allocation"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 1,
-    "category": "Storage",
-    "detected_categories": [
-      "Storage"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20-70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1-2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
-    "detected_vendors": [
-      "Kioxia",
-      "Seagate",
-      "Solidigm",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Allocation",
-      "EOL",
-      "Price Increase"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 1,
-    "category": "Storage",
-    "detected_categories": [
-      "Storage"
-    ],
-    "section_raw": "SSD 용량 부족 및 제조사 가격 변동",
-    "subheading": "",
-    "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20-70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
-    "detected_vendors": [
-      "Micron",
       "Solidigm",
       "삼성"
     ],

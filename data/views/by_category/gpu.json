@@ -219,9 +219,8 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "Fan",
+    "category": "GPU",
     "detected_categories": [
-      "Fan",
       "GPU",
       "Storage"
     ],

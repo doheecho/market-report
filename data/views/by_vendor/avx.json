@@ -2,9 +2,8 @@
   {
     "year": 2020,
     "month": 4,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -22,9 +21,8 @@
   {
     "year": 2020,
     "month": 6,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],
@@ -76,9 +74,8 @@
   {
     "year": 2021,
     "month": 5,
-    "category": "Fan",
+    "category": "IC",
     "detected_categories": [
-      "Fan",
       "IC",
       "Passive"
     ],

@@ -5035,9 +5035,8 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "FPGA",
+    "category": "IC",
     "detected_categories": [
-      "FPGA",
       "IC"
     ],
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
@@ -6870,7 +6869,6 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Fan",
       "IC"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",

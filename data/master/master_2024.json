@@ -2625,7 +2625,7 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "FPGA"
+      "IC"
     ],
     "section_raw": "CPU",
     "subheading": "",
@@ -3747,9 +3747,9 @@
   {
     "year": 2024,
     "month": 8,
-    "category": "Fan",
+    "category": "기타",
     "detected_categories": [
-      "Fan"
+      "기타"
     ],
     "section_raw": "Intro",
     "subheading": "",
@@ -4424,7 +4424,6 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [

@@ -134,6 +134,20 @@
   },
   {
     "year": 2020,
+    "month": 10,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "1 전반적 소식 (General News)",
+    "subheading": "",
+    "text": "자동차 산업이 코로나19 팬데믹의 충격에서 벗어나 회복되기 시작했습니다. 소비자가 대중교통을 피하는 경향과 신차 모델 출시가 이어지는 상황이 맞물려, 올해 4분기를 거쳐 2021년까지 수요가 계속 증가할 것으로 예측됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
     "month": 11,
     "category": "기타",
     "detected_categories": [
@@ -320,6 +334,20 @@
     "detected_vendors": [
       "Toshiba"
     ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "5 완제품 (Finished Goods)",
+    "subheading": "",
+    "text": "코로나19 팬데믹으로 인해 패널 수요가 증가할 것으로 보입니다. 재택근무하는 사람들에게서 노트북 수요가 증가하기 때문입니다. 그 결과 더 많은 LCD 패널이 필요하게 됩니다.",
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -822,6 +850,20 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
+    "subheading": "",
+    "text": "Sierra Wireless Wi-Fi 모듈은 코로나19 팬데믹으로 인한 생산비 증가로 인해 8월 초 이후로 가격이 20% 뛰었습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -1756,6 +1798,25 @@
     "text": "이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "Nvidia의 이더넷 어댑터 카드 공급은 팬데믹으로 인한 전자 부품 산업의 주요 공급망 문제로 인해 2021년부터 적체되었습니다. 공급과 수요 간의 격차를 줄이려는 제조업체의 노력 덕분에 공급 급증이 산발적으로 발생하기도 했지만 리드 타임은 여전히 길며 현재 평균 32주를 기록하고 있습니다. 특히 MCX-6 시리즈는 Nvidia의 공급 라인 전반의 자재 부족과 낮은 생산성의 영향을 받았습니다. 이러한 지속적인 공급망 문제에 대응하기 위해 Nvidia는 6월 중순 이후로 모든 광학 및 네트워크 제품에 대해 가격을 15% 인상하겠다고 발표했습니다. 소비자 구매는 매달 변화하기 때문에 공급 역량 및 가용성의 변동은 단기간에 안정화되지 않을 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3033,6 +3094,23 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
+    "text": "이전에는 원자재와 칩의 공급 부족으로 공급량이 크게 줄었고 쿨러 팬에 대한 수요는 증가했습니다. 이러한 공급 부족으로 쿨러 팬 리드 타임이 최소 1년까지 늘어났지만, 공급망 병목 현상이 나아짐에 따라 모든 주요 브랜드 전반에서 리드 타임이 개선되기 시작했습니다. 또한, 신생 에너지와 산업 자동화 현대화 증가는 수요를 더욱 더 증가시킬 예정입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
     "text": "하지만, 리드 타임은 줄어들고 있는데 수요와 원자재 비용은 높아져서 이로 인한 가격 상승이 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3563,6 +3641,20 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
+    "text": "추가적인 지연은 이미 공급이 제한된 산업용 및 소비자용 팬의 공급에 영향을 미치고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "Intro",
+    "subheading": "",
     "text": "전반적으로 자동차 산업은 공급 부족이 계속되고 있으며, 산업 제품의 리드 타임은 52주 이상으로 길어지고 가격 인상도 가시화되고 있습니다. 자세한 내용은 아래에서 보고서 전문을 읽어보시기 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3664,6 +3756,39 @@
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "원자재 부족으로 인해 모든 산업용 및 소비자용 팬의 리드 타임이 불안정해지고 있습니다. Sanyo Denki 및 Delta와 같은 팬 제조업체는 한동안 공급 제약을 겪어왔습니다. 그 결과, 주문 적체가 업계 전반에 걸쳐 점진적으로 증가하여, 제조 역량이 주문을 따라잡기 위해 노력하고는 있지만 리드 타임이 연장되었습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "완제품",
+    "subheading": "",
+    "text": "특정 팬 시리즈의 경우 예약 리드 타임이 52주 이상 소요되고 있으며, 배송 확인을 기다리는 고객의 경우 배송이 더 지연될 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -4670,6 +4795,22 @@
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "Intro",
+    "subheading": "",
+    "text": "시장이 안정화되기 시작하면서 재고조정 싸이클도 끝나가는 것 같습니다. 리드 타임은 특히 팬데믹 이전 수준으로 회복되었으며, 레거시 및 특수 가공 부품에 대해서만 사소한 예외가 있습니다. 많은 공급업체가 2024년 4분기 말과 2025년 초에 대대적인 수요 증가를 예상합니다. 긍정적인 수주 대 출하(Book-to-bill) 추세는 2024년 2분기가 현재 주기의 최저점이었다는 의견을 뒷받침해 줍니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
