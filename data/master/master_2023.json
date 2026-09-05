@@ -4732,20 +4732,6 @@
   {
     "year": 2023,
     "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 8,
     "category": "IC",
     "detected_categories": [
       "IC"
@@ -5462,20 +5448,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -7147,20 +7119,6 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 12,
     "category": "IC",
     "detected_categories": [
       "IC"
@@ -7453,21 +7411,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
+    "text": "HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다. 그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"

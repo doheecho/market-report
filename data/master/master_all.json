@@ -26952,20 +26952,6 @@
   {
     "year": 2023,
     "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 8,
     "category": "IC",
     "detected_categories": [
       "IC"
@@ -27682,20 +27668,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -29367,20 +29339,6 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 12,
     "category": "IC",
     "detected_categories": [
       "IC"
@@ -29673,21 +29631,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
+    "text": "HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다. 그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -29940,20 +29884,6 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "2024년에 접어들며 전자 부품 산업에서 특히 SSD와 HDD를 중심으로 부품 가격의 변동이 연초의 주요 기사가 될 것으로 보입니다. 많은 제조업체들이 신중한 예측을 유지하고 있는 가운데, 컴퓨팅 및 통신과 같은 산업에서는 장기화된 초과 공급을 타개하고자 하면서 1분기 추세는 여전히 불확실한 상황입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -30445,20 +30375,6 @@
       "Natural Disaster / Incident"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -31015,20 +30931,6 @@
   {
     "year": 2024,
     "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 3,
     "category": "Memory",
     "detected_categories": [
       "Memory"
@@ -31480,20 +31382,6 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "주요 기업들이 신흥 기술을 지원하기 위해 제조 방식을 변경하면서 전자 부품 산업이 격동의 분기를 맞이할 수도 있습니다. 하드웨어 및 CPU 시장 수요의 변화와 예상치 못한 가상화폐 업계의 동향이 겹쳐 공급망 전망의 변동성이 더욱 커지고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -32052,20 +31940,6 @@
     "section_raw": "Intro",
     "subheading": "",
     "text": "지난달 전자 부품 공급망에 심각한 혼란이 발생해 예상치 못한 수요 변동으로 이어졌습니다. 이러한 혼란과 2024년의 지속적인 가격 변동으로 인해 다음 분기에는 공급 가용성이 일정하지 않을 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -32648,20 +32522,6 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2024,
-    "month": 6,
     "category": "Memory",
     "detected_categories": [
       "Memory"
@@ -33042,20 +32902,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2024,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "아래 보고서 전문을 참조하여 시장 동향을 더 알아보시기 바랍니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -35078,9 +34924,7 @@
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다. 퀄컴은 AI를 통합한 갤럭시 Z 폴드6과 같은 기기 덕분에 81억 달러의 칩셋 매출을 기록했습니다. 미디어텍은 신흥 시장에서의 4G SoC 수요와 5G AI 스마트폰 발전 덕분에 휴대전화 매출이 전년 대비 52% 증가했습니다.",
-    "detected_vendors": [
-      "Mediatek"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
