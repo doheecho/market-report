@@ -1343,13 +1343,14 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "그 결과로, 글로벌 공급망에 공급업체 적체 증가, 가격 상승 및 리드 타임 연장이 발생했습니다.",
+    "text": "매 분기, 글로벌 공급망이 연속적인 중단을 경험했습니다. 가장 최근 2022년 1분기에 일본에서 발생한 두 차례의 지진이 일본 내 여러 제조업체에 영향을 미쳤습니다. 아시아의 주요 허브들은 코로나19 발생에 따라 조업을 완전히 중단해야 했습니다. 러시아는 우크라이나를 침공하여 내전을 선동하고 해당 지역의 공급망 자원을 차단했습니다. 그 결과로, 글로벌 공급망에 공급업체 적체 증가, 가격 상승 및 리드 타임 연장이 발생했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
+      "Natural Disaster / Incident",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1799,13 +1800,13 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "기타",
+    "category": "Memory",
     "detected_categories": [
-      "기타"
+      "Memory"
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "벤더들의 4분기 전망에 따르면 가격은 내림세가 지속되어 5~10% 정도 더 하락할 것으로 보입니다.",
+    "text": "지난달과 마찬가지로 메모리 모듈 시장 내 수요 약세가 지속되고 있습니다. 많은 벤더가 직접 제조업자와 백투백 주문(back-to-back order)을 받고 있으며 가격은 지속적으로 하락하고 있습니다. 그 결과, 오픈 마켓에서 비용 절감 기회를 찾는 활동이 증가했습니다. 벤더들의 4분기 전망에 따르면 가격은 내림세가 지속되어 5~10% 정도 더 하락할 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Price Decrease"
@@ -1946,9 +1947,12 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다.",
-    "detected_vendors": [],
+    "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다. 이와 더불어 STM 제조업자는 다음 시리즈에 대해 리드 타임을 연장했습니다.",
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
+      "Lead Time",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -2171,32 +2175,17 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다.",
+    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다. 이전에는 원자재와 칩의 공급 부족으로 공급량이 크게 줄었고 쿨러 팬에 대한 수요는 증가했습니다. 이러한 공급 부족으로 쿨러 팬 리드 타임이 최소 1년까지 늘어났지만, 공급망 병목 현상이 나아짐에 따라 모든 주요 브랜드 전반에서 리드 타임이 개선되기 시작했습니다. 또한, 신생 에너지와 산업 자동화 현대화 증가는 수요를 더욱 더 증가시킬 예정입니다. 하지만, 리드 타임은 줄어들고 있는데 수요와 원자재 비용은 높아져서 이로 인한 가격 상승이 예상됩니다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Decrease"
+      "Price Decrease",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "하지만, 리드 타임은 줄어들고 있는데 수요와 원자재 비용은 높아져서 이로 인한 가격 상승이 예상됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -2442,13 +2431,15 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "리드 타임은 이제 아무리 빨라도 26주, 최악의 경우 1년까지 늘어났습니다. 가격 조정이 6월에 발표될 것으로 보이지만, 어떤 제품이 영향을 받을지, 비용이 어느 정도 인상될지는 아직 확인되지 않았습니다.",
+    "text": "Beckhoff, Phoenix Contact 및 Rockwell과 같은 브랜드는 산업용 제품의 부족 현상을 경험하고 있습니다. 제조업체가 생산에 필요한 부품을 확보하는 데 어려움을 겪으면서 제한된 할당량으로 인해 리드 타임이 연장되었습니다. 또한 원자재 비용 상승으로 인해 공급 상황은 더욱 악화되었습니다. 리드 타임은 이제 아무리 빨라도 26주, 최악의 경우 1년까지 늘어났습니다. 가격 조정이 6월에 발표될 것으로 보이지만, 어떤 제품이 영향을 받을지, 비용이 어느 정도 인상될지는 아직 확인되지 않았습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -2887,7 +2878,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "여전히 대용량 SSD의 수요가 가장 높지만, 수요 정체 및 감소 기간에 공급업체의 안전 재고가 낮아진 이후 가용성에 제한을 받고 있습니다. 불확실한 가용성, 가격 인상 가능성, 수요 증가로 인해 고객들은 한동안 시장으로 눈을 돌려 안전 재고를 구입할 수밖에 없었습니다.",
+    "text": "여전히 대용량 SSD의 수요가 가장 높지만, 수요 정체 및 감소 기간에 공급업체의 안전 재고가 낮아진 이후 가용성에 제한을 받고 있습니다. 불확실한 가용성, 가격 인상 가능성, 수요 증가로 인해 고객들은 한동안 시장으로 눈을 돌려 안전 재고를 구입할 수밖에 없었습니다. HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다. 그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Price Increase"

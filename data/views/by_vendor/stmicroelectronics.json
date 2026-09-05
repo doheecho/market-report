@@ -190,12 +190,13 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "이와 더불어 STM 제조업자는 다음 시리즈에 대해 리드 타임을 연장했습니다.",
+    "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다. 이와 더불어 STM 제조업자는 다음 시리즈에 대해 리드 타임을 연장했습니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },

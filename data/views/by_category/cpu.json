@@ -2642,12 +2642,16 @@
     ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
-    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다.",
+    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다. AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
-      "Intel"
+      "Amd",
+      "Intel",
+      "Mediatek"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -8421,7 +8425,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "아직 공식 날짜는 정해지지 않았지만 사전 주문 목록이 시작되었습니다. Pi 5는 이전 제품보다 더 비싸지만, 더 높은 가격표에 대한 대가로 향상된 성능과 향상된 사양을 제공합니다. Raspberry Pi 5는 업그레이드된 CPU, RAM, 연결성을 통해 Pi 4보다 2.5배 더 빠르게 작동할 것입니다.",
+    "text": "아직 공식 날짜는 정해지지 않았지만 사전 주문 목록이 시작되었습니다. Pi 5는 이전 제품보다 더 비싸지만, 더 높은 가격표에 대한 대가로 향상된 성능과 향상된 사양을 제공합니다. Raspberry Pi 5는 업그레이드된 CPU, RAM, 연결성을 통해 Pi 4보다 2.5배 더 빠르게 작동할 것입니다. 이러한 발전으로 인해 많은 고객이 Pi 5를 선호할 수 있지만, 구형 모델에 대한 수요는 여전히 안정적이고 비용이 적게 드는 옵션으로 남아 있어 견고할 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"

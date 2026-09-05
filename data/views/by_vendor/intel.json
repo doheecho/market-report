@@ -404,7 +404,7 @@
     ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
-    "text": "예를 들어, Intel은 빠듯한 공급 일정에 허덕이고 있고 특정 대규모 고객만이 원활하게 물량 배정을 받고 있어, 현물 시장 가격이 올랐습니다. 다른 주요 제조업체도 같은 상황에 처해 있을 가능성이 있습니다.",
+    "text": "현재, Wi-Fi 카드 공급이 빠듯한 상황입니다. 유통업체들은 Wi-Fi 카드 제조업체가 Chromebook 과 노트북 수요의 급증으로 인해 수개월 전에 주문한 물량을 공급하는 데도 애먹고 있다고 합니다. 예를 들어, Intel은 빠듯한 공급 일정에 허덕이고 있고 특정 대규모 고객만이 원활하게 물량 배정을 받고 있어, 현물 시장 가격이 올랐습니다. 다른 주요 제조업체도 같은 상황에 처해 있을 가능성이 있습니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -1373,12 +1373,16 @@
     ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
-    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다.",
+    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다. AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
-      "Intel"
+      "Amd",
+      "Intel",
+      "Mediatek"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -1996,12 +2000,13 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "서버 제작에 필요한 이더넷 컨트롤러 제품 전반에 걸쳐 수요가 계속됨에 따라 IC, 웨이퍼 및 기판의 공급 부족이 Intel의 주요 제조 장애 요인으로 이어졌습니다. 단종 공지는 고객에게 제품을 인도하기 위한 공급을 유지하고 통합하고자 Intel의 대용량 제품에 대한 수요에 따라 이루어지는 조치입니다. 이 공지는 Intel의 X550-AT2, X540-AT2, X557-AT2, X710-BM2 시리즈 컨트롤러에 영향을 미칩니다.",
+    "text": "서버 제작에 필요한 이더넷 컨트롤러 제품 전반에 걸쳐 수요가 계속됨에 따라 IC, 웨이퍼 및 기판의 공급 부족이 Intel의 주요 제조 장애 요인으로 이어졌습니다. 단종 공지는 고객에게 제품을 인도하기 위한 공급을 유지하고 통합하고자 Intel의 대용량 제품에 대한 수요에 따라 이루어지는 조치입니다. 이 공지는 Intel의 X550-AT2, X540-AT2, X557-AT2, X710-BM2 시리즈 컨트롤러에 영향을 미칩니다. 이러한 500 및 700 시리즈 컨트롤러는 2015년으로 거슬러 올라갈 정도로 오래된 제품이며 생산 및 공급 라인이 갑작스러운 수요 증가에 맞춰 준비되어 있지 않아, 최근의 주요 공급 제약과 극심한 리드 타임(2023/2024년까지 인도되지 않을 것으로 예상)이 발생했습니다. 이로 인해 가격이 원래 단가의 5~10%까지 인상되었습니다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "EOL",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2122,7 +2127,7 @@
     ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
-    "text": "또한, 30개 이상의 이더넷 컨트롤러에 대한 EOL을 고객에게 통지한 Intel의 최근 발표에 인기 높은 X540-AT2가 포함되어 있습니다. EOL 통지는 고객이 2021년 11월 15일부터 부품 주문을 취소하거나 반품할 수 없음을 의미합니다. 마지막 제품 단종 발송일은 2022년 7월 15일입니다.",
+    "text": "*   이더넷 연결 I219-LM 또한, 30개 이상의 이더넷 컨트롤러에 대한 EOL을 고객에게 통지한 Intel의 최근 발표에 인기 높은 X540-AT2가 포함되어 있습니다. EOL 통지는 고객이 2021년 11월 15일부터 부품 주문을 취소하거나 반품할 수 없음을 의미합니다. 마지막 제품 단종 발송일은 2022년 7월 15일입니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -2433,14 +2438,17 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
+    "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다. 그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
     "detected_vendors": [
       "Broadcom",
       "Intel",
       "Mellanox"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -2520,20 +2528,24 @@
   {
     "year": 2022,
     "month": 3,
-    "category": "기타",
+    "category": "GPU",
     "detected_categories": [
-      "기타"
+      "GPU"
     ],
-    "section_raw": "완제품",
+    "section_raw": "GPU",
     "subheading": "",
-    "text": "전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
+    "text": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다. Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다. 전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
     "detected_vendors": [
       "Broadcom",
       "Intel",
-      "Mellanox"
+      "Mellanox",
+      "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3555,10 +3567,11 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다. 시장 가격은 15%~20%씩 점차 하락하고 있습니다. 내부 시스템이 Intel에서 Solidigm으로 옮겨가고 있기 때문에 시스템 자체의 구동이 중지되고 있어 앞으로 시장의 흐름이 잠정 지체될 전망입니다.",
+    "text": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다. 시장 가격은 15%~20%씩 점차 하락하고 있습니다. 내부 시스템이 Intel에서 Solidigm으로 옮겨가고 있기 때문에 시스템 자체의 구동이 중지되고 있어 앞으로 시장의 흐름이 잠정 지체될 전망입니다. 반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
     "detected_vendors": [
       "Intel",
-      "Solidigm"
+      "Solidigm",
+      "삼성"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3805,15 +3818,17 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다.",
+    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다. 이전에는 원자재와 칩의 공급 부족으로 공급량이 크게 줄었고 쿨러 팬에 대한 수요는 증가했습니다. 이러한 공급 부족으로 쿨러 팬 리드 타임이 최소 1년까지 늘어났지만, 공급망 병목 현상이 나아짐에 따라 모든 주요 브랜드 전반에서 리드 타임이 개선되기 시작했습니다. 또한, 신생 에너지와 산업 자동화 현대화 증가는 수요를 더욱 더 증가시킬 예정입니다. 하지만, 리드 타임은 줄어들고 있는데 수요와 원자재 비용은 높아져서 이로 인한 가격 상승이 예상됩니다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Decrease"
+      "Price Decrease",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2023,

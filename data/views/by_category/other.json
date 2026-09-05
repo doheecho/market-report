@@ -52,21 +52,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "최근 중동 지역의 고객들은 프로젝트에 사용하기 위해 저가형 웹캠을 대량 요구하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "아시아 지역의 공급업체들 또한 제조업체들이 아시아 지역이 아닌 EMEA 지역에 우선적으로 출하를 하고 있기 때문에 전분기 대비 재고 할당량이 적다고 보고하고 있습니다. 이런 상황은 결국 공급 부족을 더욱 악화시키고 가격은 상승할 것입니다.",
+    "text": "최근 중동 지역의 고객들은 프로젝트에 사용하기 위해 저가형 웹캠을 대량 요구하고 있습니다. 아시아 지역의 공급업체들 또한 제조업체들이 아시아 지역이 아닌 EMEA 지역에 우선적으로 출하를 하고 있기 때문에 전분기 대비 재고 할당량이 적다고 보고하고 있습니다. 이런 상황은 결국 공급 부족을 더욱 악화시키고 가격은 상승할 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -83,7 +69,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "전세계적인 락다운으로 인해 2분기 LCD 수요는 큰 타격을 받았고, 이 때문에 패널 생산량이 30%나 줄어 가격이 상승하고 있습니다.",
+    "text": "전세계적인 락다운으로 인해 2분기 LCD 수요는 큰 타격을 받았고, 이 때문에 패널 생산량이 30%나 줄어 가격이 상승하고 있습니다. 하지만 3분기 초에 재택근무자와 원격수업을 받는 학생들 때문에 크롬북 수요가 증가하였고, 그 결과 모든 공장이 생산 라인을 크롬북 사이즈 패널로 전환했기 때문에 14인치와 15.6인치 패널에 엄청난 공급 격차가 발생했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -97,40 +83,12 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "하지만 3분기 초에 재택근무자와 원격수업을 받는 학생들 때문에 크롬북 수요가 증가하였고, 그 결과 모든 공장이 생산 라인을 크롬북 사이즈 패널로 전환했기 때문에 14인치와 15.6인치 패널에 엄청난 공급 격차가 발생했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "대부분의 노트북 제조업체들은 주로 사용되는 사이즈의 패널 할당을 거의 받지 못했습니다. 현재 공급량은 전체 수요의 30%에 불과하지만 4분기 말에는 회복될 것으로 보입니다.",
+    "text": "대부분의 노트북 제조업체들은 주로 사용되는 사이즈의 패널 할당을 거의 받지 못했습니다. 현재 공급량은 전체 수요의 30%에 불과하지만 4분기 말에는 회복될 것으로 보입니다. 한편 가격은 20%이상 상승했고 공인된 유통업체들에겐 재고가 거의 없습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "한편 가격은 20%이상 상승했고 공인된 유통업체들에겐 재고가 거의 없습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -169,37 +127,7 @@
     ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
-    "text": "10월 27일 현재, 이 회사는 화재의 영향에 대한 최신 정보를 아직 발표하지 않았지만, 시장에서는 몇 달 정도 지나야 이번 화재의 영향을 완전히 체감할 수 있을 것입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Natural Disaster / Incident"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2020,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "1 전반적 소식 (General News)",
-    "subheading": "",
-    "text": "현재, Wi-Fi 카드 공급이 빠듯한 상황입니다. 유통업체들은 Wi-Fi 카드 제조업체가 Chromebook 과 노트북 수요의 급증으로 인해 수개월 전에 주문한 물량을 공급하는 데도 애먹고 있다고 합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "1 전반적 소식 (General News)",
-    "subheading": "",
-    "text": "예를 들어, Intel은 빠듯한 공급 일정에 허덕이고 있고 특정 대규모 고객만이 원활하게 물량 배정을 받고 있어, 현물 시장 가격이 올랐습니다. 다른 주요 제조업체도 같은 상황에 처해 있을 가능성이 있습니다.",
+    "text": "현재, Wi-Fi 카드 공급이 빠듯한 상황입니다. 유통업체들은 Wi-Fi 카드 제조업체가 Chromebook 과 노트북 수요의 급증으로 인해 수개월 전에 주문한 물량을 공급하는 데도 애먹고 있다고 합니다. 예를 들어, Intel은 빠듯한 공급 일정에 허덕이고 있고 특정 대규모 고객만이 원활하게 물량 배정을 받고 있어, 현물 시장 가격이 올랐습니다. 다른 주요 제조업체도 같은 상황에 처해 있을 가능성이 있습니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -360,23 +288,7 @@
     ],
     "section_raw": "5 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "Logitech 웹캠 공급은 특히 C310 모델의 경우 계속 빠듯한 상태로 남아 있습니다. 벤더들은 2020년 마지막 두 달 동안은 그다지 많은 재고 물량을 받지 못했다고 보고했습니다. C270, B525, C525 등의 저가형 모델 공급도 부족해지고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "5 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "반대로, 헤드셋 공급은 심각한 공급 부족을 겪고 있고 제조업체로부터 확실한 리드 타임에 대한 정보도 없는 H111을 제외하면 양호합니다.",
+    "text": "Logitech 웹캠 공급은 특히 C310 모델의 경우 계속 빠듯한 상태로 남아 있습니다. 벤더들은 2020년 마지막 두 달 동안은 그다지 많은 재고 물량을 받지 못했다고 보고했습니다. C270, B525, C525 등의 저가형 모델 공급도 부족해지고 있습니다. 반대로, 헤드셋 공급은 심각한 공급 부족을 겪고 있고 제조업체로부터 확실한 리드 타임에 대한 정보도 없는 H111을 제외하면 양호합니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -642,25 +554,6 @@
   },
   {
     "year": 2021,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 (Finished Goods)",
-    "subheading": "",
-    "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
-    "detected_vendors": [
-      "Amd",
-      "Mediatek"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
     "month": 7,
     "category": "기타",
     "detected_categories": [
@@ -701,32 +594,17 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "최근 중국과 홍콩 당국의 암호화폐 채굴 단속이 이루어지는 가운데, RAID 컨트롤러 공급에는 여전히 제약이 따르고 있습니다. 특히 Broadcom의 MegaRAID 93xx 및 94xx 시리즈가 영향을 받고 있고 2021년 10월에 단종 예정인데, 마지막 구매 시한은 2022년 10월, 마지막 판매 시한은 2023년 3월입니다.",
+    "text": "최근 중국과 홍콩 당국의 암호화폐 채굴 단속이 이루어지는 가운데, RAID 컨트롤러 공급에는 여전히 제약이 따르고 있습니다. 특히 Broadcom의 MegaRAID 93xx 및 94xx 시리즈가 영향을 받고 있고 2021년 10월에 단종 예정인데, 마지막 구매 시한은 2022년 10월, 마지막 판매 시한은 2023년 3월입니다. 리드 타임은 28주에서 42주로 늘어났으므로, 향후 할당을 받으려 치열한 각축전이 벌어질 것으로 예상합니다.",
     "detected_vendors": [
       "Broadcom"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "리드 타임은 28주에서 42주로 늘어났으므로, 향후 할당을 받으려 치열한 각축전이 벌어질 것으로 예상합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Allocation",
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -860,21 +738,7 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "Sierra Wireless Wi-Fi 모듈은 코로나19 팬데믹으로 인한 생산비 증가로 인해 8월 초 이후로 가격이 20% 뛰었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "또한, 코로나19로 원활한 인력 투입에 차질을 빚는 Sierra Wireless의 베트남 공장은 최소 생산능력으로 가동 중이므로, 신규 주문의 리드 타임이 20주까지 연장됩니다.",
+    "text": "Sierra Wireless Wi-Fi 모듈은 코로나19 팬데믹으로 인한 생산비 증가로 인해 8월 초 이후로 가격이 20% 뛰었습니다. 또한, 코로나19로 원활한 인력 투입에 차질을 빚는 Sierra Wireless의 베트남 공장은 최소 생산능력으로 가동 중이므로, 신규 주문의 리드 타임이 20주까지 연장됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -908,30 +772,13 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다.",
-    "detected_vendors": [
-      "Mellanox"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2021,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "11월에 이러한 이더넷 어댑터를 위해 Mellanox의 512 및 4121 시리즈 네트워킹 카드를 100~200k 정도로 할당할 가능성이 있지만, 유통업체에서는 일반적인 원자재 공급 부족으로 인한 철회를 경계하고 있습니다.",
+    "text": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다. 11월에 이러한 이더넷 어댑터를 위해 Mellanox의 512 및 4121 시리즈 네트워킹 카드를 100~200k 정도로 할당할 가능성이 있지만, 유통업체에서는 일반적인 원자재 공급 부족으로 인한 철회를 경계하고 있습니다.",
     "detected_vendors": [
       "Mellanox"
     ],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1021,23 +868,6 @@
       "Mellanox"
     ],
     "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "이러한 500 및 700 시리즈 컨트롤러는 2015년으로 거슬러 올라갈 정도로 오래된 제품이며 생산 및 공급 라인이 갑작스러운 수요 증가에 맞춰 준비되어 있지 않아, 최근의 주요 공급 제약과 극심한 리드 타임(2023/2024년까지 인도되지 않을 것으로 예상)이 발생했습니다. 이로 인해 가격이 원래 단가의 5~10%까지 인상되었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1288,21 +1118,7 @@
     ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
-    "text": "*   이더넷 연결 I219-LM",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 (Finished Goods)",
-    "subheading": "",
-    "text": "또한, 30개 이상의 이더넷 컨트롤러에 대한 EOL을 고객에게 통지한 Intel의 최근 발표에 인기 높은 X540-AT2가 포함되어 있습니다. EOL 통지는 고객이 2021년 11월 15일부터 부품 주문을 취소하거나 반품할 수 없음을 의미합니다. 마지막 제품 단종 발송일은 2022년 7월 15일입니다.",
+    "text": "*   이더넷 연결 I219-LM 또한, 30개 이상의 이더넷 컨트롤러에 대한 EOL을 고객에게 통지한 Intel의 최근 발표에 인기 높은 X540-AT2가 포함되어 있습니다. EOL 통지는 고객이 2021년 11월 15일부터 부품 주문을 취소하거나 반품할 수 없음을 의미합니다. 마지막 제품 단종 발송일은 2022년 7월 15일입니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -1391,20 +1207,6 @@
   },
   {
     "year": 2022,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "그와 동시에, 물류 비용이 평균적인 공급업체의 기준보다 4~5배나 급등해 다양한 상품 가격의 급등을 불러왔습니다. 전통적인 저비용 제조 지역에서의 조업 활동이 신뢰할 수 없게 되어 고객이 별수 없이 비용이 많이 드는 지역에서 제조해야 하는 상황이라, 전체 생산 비용이 상승했습니다. 제조업체는 2022년에 고객의 수요를 충족하기 위해 계속해서 추격을 할 가능성이 높습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
     "month": 2,
     "category": "기타",
     "detected_categories": [
@@ -1412,8 +1214,10 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다.",
+    "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다. 그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
     "detected_vendors": [
+      "Broadcom",
+      "Intel",
       "Mellanox"
     ],
     "detected_keywords": [
@@ -1424,60 +1228,6 @@
   },
   {
     "year": 2022,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
-    "detected_vendors": [
-      "Broadcom",
-      "Intel",
-      "Mellanox"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "Mellanox"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
-    "detected_vendors": [
-      "Broadcom",
-      "Intel",
-      "Mellanox"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
     "month": 4,
     "category": "기타",
     "detected_categories": [
@@ -1485,29 +1235,14 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "매 분기, 글로벌 공급망이 연속적인 중단을 경험했습니다. 가장 최근 2022년 1분기에 일본에서 발생한 두 차례의 지진이 일본 내 여러 제조업체에 영향을 미쳤습니다. 아시아의 주요 허브들은 코로나19 발생에 따라 조업을 완전히 중단해야 했습니다. 러시아는 우크라이나를 침공하여 내전을 선동하고 해당 지역의 공급망 자원을 차단했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Natural Disaster / Incident"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "그 결과로, 글로벌 공급망에 공급업체 적체 증가, 가격 상승 및 리드 타임 연장이 발생했습니다.",
+    "text": "매 분기, 글로벌 공급망이 연속적인 중단을 경험했습니다. 가장 최근 2022년 1분기에 일본에서 발생한 두 차례의 지진이 일본 내 여러 제조업체에 영향을 미쳤습니다. 아시아의 주요 허브들은 코로나19 발생에 따라 조업을 완전히 중단해야 했습니다. 러시아는 우크라이나를 침공하여 내전을 선동하고 해당 지역의 공급망 자원을 차단했습니다. 그 결과로, 글로벌 공급망에 공급업체 적체 증가, 가격 상승 및 리드 타임 연장이 발생했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
+      "Natural Disaster / Incident",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1778,26 +1513,10 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "지속되는 공급망 대란으로 인해 Raspberry Pi 생산은 현재 모든 제품에 있어서 심각한 병목현상을 겪고 있습니다. 때문에 제조업체가 고객 부품이 아닌 상업 및 산업 부품 쪽으로 우선순위를 옮기고 있는 상황임에도 공급 할당에 타격이 있습니다. 생산 제약뿐 아니라 Raspberry Pi 고객은 재고를 매수해 더 높은 가격에 되파는 봇과도 경쟁하고 있으며, 이에 따라 해당 행위를 방지하기 위한 공급 및 판매 관리에 대한 재평가가 실시될 예정입니다.",
+    "text": "지속되는 공급망 대란으로 인해 Raspberry Pi 생산은 현재 모든 제품에 있어서 심각한 병목현상을 겪고 있습니다. 때문에 제조업체가 고객 부품이 아닌 상업 및 산업 부품 쪽으로 우선순위를 옮기고 있는 상황임에도 공급 할당에 타격이 있습니다. 생산 제약뿐 아니라 Raspberry Pi 고객은 재고를 매수해 더 높은 가격에 되파는 봇과도 경쟁하고 있으며, 이에 따라 해당 행위를 방지하기 위한 공급 및 판매 관리에 대한 재평가가 실시될 예정입니다. 이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
       "Shortage"
     ],
     "risk_level": "High"
@@ -2236,22 +1955,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "마찬가지로 차량 실내 분위기 조명에 주로 사용되는 Melexis의 MLX811은 자동차 고객의 계속적인 수요 증가에 따라 가용성이 제한되고 있습니다. 현재로서는 납기 일정이나 정확한 리드 타임을 확인하기 어렵고 주문을 지원하는 재고 물량도 없는 상태입니다. 이 시리즈들에 대한 리드 타임은 현재 52주로 연장되었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다.",
     "detected_vendors": [
       "Infineon"
@@ -2312,35 +2015,7 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "공급이 지연될 확률은 여전히 높으며 고객은 적체되는 주문을 취소할 수 있다는 통지를 받고 있지만 생산 일정의 지연에 대한 영향을 피할 수는 없어 보입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2401,20 +2076,6 @@
     "section_raw": "완제품",
     "subheading": "",
     "text": "고객은 향후 수요가 다시 치솟을 경우에 대비하여 지금 구매자 시장의 이점을 활용해야 합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "여전히 거래는 발생하고 있지만 주문 당 물량은 더 적어지고 있습니다. 고객들은 ‘만약에 대비한’ 재고 방식으로부터 등을 돌리고 있으며 대신 수요가 필요하다고 생각될 때만 오픈 마켓에서 구매하는 방식을 선택하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2603,22 +2264,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "벤더들의 4분기 전망에 따르면 가격은 내림세가 지속되어 5~10% 정도 더 하락할 것으로 보입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Price Decrease"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "Mellanox 어댑터 카드는 이전의 이중 예약 및 주문으로 인해 현재 공급 과잉 상태에 있는데, 특히 MCX4 및 MCX5 시리즈가 그렇습니다. 오픈 마켓으로 유입되는 공급의 급격한 증가로 인해 이 두 시리즈에서 가격이 약 5~10% 하락했습니다. 벤더들은 또한 MCX6의 공급이 다소 개선되었으며 리드 타임이 점점 단축되고 있다고 밝혔습니다. 2분기에는 자재 공급 부족(Shortage)으로 인해 이 시리즈의 공급에 제한이 있었으나 제조업자가 생산과 납품을 개선했습니다.",
     "detected_vendors": [
       "Mellanox"
@@ -2630,22 +2275,6 @@
     "risk_level": "High"
   },
   {
-    "year": 2022,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
-    "detected_vendors": [
-      "삼성"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
     "year": 2023,
     "month": 1,
     "category": "기타",
@@ -2654,44 +2283,13 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "여전히 정상화 되지 않는 제조 역량도 구형 Freescale 시리즈 MC9S08, MC9S12, MK 및 MCF5의 공급에 영향을 미쳐 이 모든 모델이 시장에서 장기적인 공급 부족(Shortage)을 겪고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "이와 더불어 STM 제조업자는 다음 시리즈에 대해 리드 타임을 연장했습니다.",
+    "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다. 이와 더불어 STM 제조업자는 다음 시리즈에 대해 리드 타임을 연장했습니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2940,27 +2538,13 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "대부분의 산업용 전원 공급 장치는 부품의 공급 부족(Shortage) 및 전기자동차와 자동화 제품에 대한 수요 증가로 인해 리드 타임이 10~24개월 연장되었습니다 COSEL, Phoenix Contact, Weidmüller, TDK, PULS 등의 브랜드가 타격을 입었으며, 리드 타임이 단기적으로 개선될 가능성은 낮습니다.",
+    "text": "대부분의 산업용 전원 공급 장치는 부품의 공급 부족(Shortage) 및 전기자동차와 자동화 제품에 대한 수요 증가로 인해 리드 타임이 10~24개월 연장되었습니다 COSEL, Phoenix Contact, Weidmüller, TDK, PULS 등의 브랜드가 타격을 입었으며, 리드 타임이 단기적으로 개선될 가능성은 낮습니다. 이와 마찬가지로 Raspberry Pi는 소형 사이즈와 낮은 가격 때문에 지난 2~3년간 급증한 수요를 공급이 따라가지 못하고 있습니다. 직접 제조업자의 주문 적체는 1년 반에 달하며 기존 주문이 처리되지 않은 상태에서 계속 늘어나고만 있습니다. 공급이 안정되려면 적어도 1년은 더 필요할 것으로 예상됩니다. 결과적으로 오픈 마켓 가격은 직접 가격보다 최소 3배에서 5배 더 높습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이와 마찬가지로 Raspberry Pi는 소형 사이즈와 낮은 가격 때문에 지난 2~3년간 급증한 수요를 공급이 따라가지 못하고 있습니다. 직접 제조업자의 주문 적체는 1년 반에 달하며 기존 주문이 처리되지 않은 상태에서 계속 늘어나고만 있습니다. 공급이 안정되려면 적어도 1년은 더 필요할 것으로 예상됩니다. 결과적으로 오픈 마켓 가격은 직접 가격보다 최소 3배에서 5배 더 높습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -3024,24 +2608,6 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
-    "detected_vendors": [
-      "Analog Devices"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
     "text": "수요가 줄어들었음에도 불구하고, 연구 결과는 2023년 2분기까지 5G 스마트폰 출하량이 1억대를 초과할 것이며 연말에는 4G 스마트폰 출하량을 앞지를 것이라는 것을 보여주었습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -3075,49 +2641,17 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다.",
+    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다. 이전에는 원자재와 칩의 공급 부족으로 공급량이 크게 줄었고 쿨러 팬에 대한 수요는 증가했습니다. 이러한 공급 부족으로 쿨러 팬 리드 타임이 최소 1년까지 늘어났지만, 공급망 병목 현상이 나아짐에 따라 모든 주요 브랜드 전반에서 리드 타임이 개선되기 시작했습니다. 또한, 신생 에너지와 산업 자동화 현대화 증가는 수요를 더욱 더 증가시킬 예정입니다. 하지만, 리드 타임은 줄어들고 있는데 수요와 원자재 비용은 높아져서 이로 인한 가격 상승이 예상됩니다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Decrease"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이전에는 원자재와 칩의 공급 부족으로 공급량이 크게 줄었고 쿨러 팬에 대한 수요는 증가했습니다. 이러한 공급 부족으로 쿨러 팬 리드 타임이 최소 1년까지 늘어났지만, 공급망 병목 현상이 나아짐에 따라 모든 주요 브랜드 전반에서 리드 타임이 개선되기 시작했습니다. 또한, 신생 에너지와 산업 자동화 현대화 증가는 수요를 더욱 더 증가시킬 예정입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
+      "Price Decrease",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "하지만, 리드 타임은 줄어들고 있는데 수요와 원자재 비용은 높아져서 이로 인한 가격 상승이 예상됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -3215,22 +2749,6 @@
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "또 다른 요인은 자동차 공급망의 전반적인 복잡성입니다. 여기에는 several 계층의 공급업체가 포함되며 이처럼 혼란스러운 시기에는 업계가 유연하게 대처하기 어렵습니다. 결과적으로 고객은 점점 더 오픈 마켓으로 공급원을 돌리고 있지만 동일한 부품에 대한 여러 수직 산업 분야 간의 경쟁이 치열합니다. 그 결과 수요가 많은 자동차 부품의 리드 타임은 2024년 하반기까지 연장될 전망입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -3341,21 +2859,7 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "STM8AW",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "이러한 부품은 자동차, 산업, 의료 가전 및 IoT 제품에 적용됩니다. 이러한 부품의 리드 타임은 40~52주입니다. 해당 스펙트럼의 상단에 있는 것은 F4 시리즈이지만 VNSxxx 및 L9XXX 시리즈도 여전히 높은 수요를 유지하고 있으며 시장에서 거의 구할 수 없습니다.",
+    "text": "STM8AW 이러한 부품은 자동차, 산업, 의료 가전 및 IoT 제품에 적용됩니다. 이러한 부품의 리드 타임은 40~52주입니다. 해당 스펙트럼의 상단에 있는 것은 F4 시리즈이지만 VNSxxx 및 L9XXX 시리즈도 여전히 높은 수요를 유지하고 있으며 시장에서 거의 구할 수 없습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -3473,7 +2977,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "대부분의 산업용 전원 공급 장치에 대한 리드 타임을 줄이는 데는 아직 아무런 진전이 없습니다. 이에 대한 주요 원인은 원자재 부족으로 인한 생산 중단입니다. 일반적으로 산업용 I/O 제품의 리드 타임은 최대 6개월입니다. 시장 수요, 특히 고부가가치 부품에 대한 수요는 여전히 전 세계적으로 증가하고 있습니다. 그 결과, 공급업체는 매달 제한적이고 불안정한 할당량을 받습니다.",
+    "text": "대부분의 산업용 전원 공급 장치에 대한 리드 타임을 줄이는 데는 아직 아무런 진전이 없습니다. 이에 대한 주요 원인은 원자재 부족으로 인한 생산 중단입니다. 일반적으로 산업용 I/O 제품의 리드 타임은 최대 6개월입니다. 시장 수요, 특히 고부가가치 부품에 대한 수요는 여전히 전 세계적으로 증가하고 있습니다. 그 결과, 공급업체는 매달 제한적이고 불안정한 할당량을 받습니다. 마찬가지로, 독일에서 제조된 산업용 제품의 리드 타임도 불안정합니다. 리드가 3개월 이상 연장될 수 있음을 예측하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -3481,22 +2985,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "마찬가지로, 독일에서 제조된 산업용 제품의 리드 타임도 불안정합니다. 리드가 3개월 이상 연장될 수 있음을 예측하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -3618,22 +3106,6 @@
   },
   {
     "year": 2023,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "또한 Quadro 시리즈 A5000 및 A6000의 가격도 인상되었습니다. 예약 리드 타임도 마찬가지로 연장되어 최소 8주에서 10주까지 늘어나고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
     "month": 6,
     "category": "기타",
     "detected_categories": [
@@ -3733,31 +3205,15 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "Beckhoff, Phoenix Contact 및 Rockwell과 같은 브랜드는 산업용 제품의 부족 현상을 경험하고 있습니다. 제조업체가 생산에 필요한 부품을 확보하는 데 어려움을 겪으면서 제한된 할당량으로 인해 리드 타임이 연장되었습니다. 또한 원자재 비용 상승으로 인해 공급 상황은 더욱 악화되었습니다.",
+    "text": "Beckhoff, Phoenix Contact 및 Rockwell과 같은 브랜드는 산업용 제품의 부족 현상을 경험하고 있습니다. 제조업체가 생산에 필요한 부품을 확보하는 데 어려움을 겪으면서 제한된 할당량으로 인해 리드 타임이 연장되었습니다. 또한 원자재 비용 상승으로 인해 공급 상황은 더욱 악화되었습니다. 리드 타임은 이제 아무리 빨라도 26주, 최악의 경우 1년까지 늘어났습니다. 가격 조정이 6월에 발표될 것으로 보이지만, 어떤 제품이 영향을 받을지, 비용이 어느 정도 인상될지는 아직 확인되지 않았습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "리드 타임은 이제 아무리 빨라도 26주, 최악의 경우 1년까지 늘어났습니다. 가격 조정이 6월에 발표될 것으로 보이지만, 어떤 제품이 영향을 받을지, 비용이 어느 정도 인상될지는 아직 확인되지 않았습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -3880,20 +3336,6 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "또한 제조업체는 고객의 강력한 요구에도 특별 가격 책정을 모두 거부하고 있습니다. 이에 3분기 초에 비용이 점차 증가할 것으로 예측됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
     "text": "전자 부품 산업의 미래에 대한 신뢰와 자금 투자가 늘고, 인공지능(AI) 시장의 강세가 올해 NVIDIA 주가를 163%나 끌어올렸습니다. NVIDIA의 Tesla 시리즈는 여전히 가장 인기 있는 제품 중 하나입니다. 그러나 PCIE 인터페이스보다 성능이 우수한 NVLINK 및 SXM4 인터페이스 수요는 증가 추세를 보이고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -3910,26 +3352,12 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "해당 시리즈 문의 증가에 따라 가용성이 제한되었습니다. 공급은 엄격하게 할당 대상이며, 주문의 대부분은 슈퍼컴퓨터 시스템 프로젝트에 지정됩니다.",
+    "text": "해당 시리즈 문의 증가에 따라 가용성이 제한되었습니다. 공급은 엄격하게 할당 대상이며, 주문의 대부분은 슈퍼컴퓨터 시스템 프로젝트에 지정됩니다. 또한 하이엔드 시리즈 중 가장 큰 변동이 있는 Quadro 시리즈의 공급 상황이 일부 개선되기 시작했습니다. 이에 수요는 일정하지만, 가격은 하락 추세에 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "또한 하이엔드 시리즈 중 가장 큰 변동이 있는 Quadro 시리즈의 공급 상황이 일부 개선되기 시작했습니다. 이에 수요는 일정하지만, 가격은 하락 추세에 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -4198,26 +3626,12 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "채택률이 낮더라도, 주문량을 충당하기 위해 이미 생산에 박차를 가하고 있습니다. 채택률이 높아지고 수요가 증가함에 따라 제조업체는 수요를 충족하기 위해 생산 능력을 향상해야 할 것입니다. 현재 할당은 티어 1 고객을 우선으로 하며 공급이 계속 제한되는 경우 이를 유지할 수 있습니다.",
+    "text": "채택률이 낮더라도, 주문량을 충당하기 위해 이미 생산에 박차를 가하고 있습니다. 채택률이 높아지고 수요가 증가함에 따라 제조업체는 수요를 충족하기 위해 생산 능력을 향상해야 할 것입니다. 현재 할당은 티어 1 고객을 우선으로 하며 공급이 계속 제한되는 경우 이를 유지할 수 있습니다. 또한 제조업체는 현재 가격을 유지하기 위해 특별 가격의 승인을 줄이고 있습니다. 그러나 고객은 대안을 활용하여 비용 절감 기회를 찾을 수 있기 때문에 충분한 오픈 마켓 가용성은 이러한 전략의 장벽이 됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "또한 제조업체는 현재 가격을 유지하기 위해 특별 가격의 승인을 줄이고 있습니다. 그러나 고객은 대안을 활용하여 비용 절감 기회를 찾을 수 있기 때문에 충분한 오픈 마켓 가용성은 이러한 전략의 장벽이 됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -4357,20 +3771,6 @@
     "risk_level": "Low"
   },
   {
-    "year": 2023,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이러한 발전으로 인해 많은 고객이 Pi 5를 선호할 수 있지만, 구형 모델에 대한 수요는 여전히 안정적이고 비용이 적게 드는 옵션으로 남아 있어 견고할 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
     "year": 2024,
     "month": 1,
     "category": "기타",
@@ -4403,22 +3803,6 @@
       "Allocation"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2024,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이러한 추세는 결과적으로 지난 분기 이후 비용이 15~20% 상승하며 전체 제조업체 가격에 영향을 미쳤습니다. 가격이 매주 계속 상승하면서, 고객들은 가능한 영역에서 비용을 절약하기 위해 적극적으로 비용 효율적 대안을 찾고 있습니다. 이에 따라 일반적으로 가격이 더 낮은 단종(EOL) 시리즈 및 구형 모델의 수요가 증가했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
   },
   {
     "year": 2024,

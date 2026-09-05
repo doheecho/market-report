@@ -8,27 +8,13 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "리드 타임 연장은 새삼스러울 것 없는 뉴스지만, SFG(Susquehanna Financial Group)의 12월 보고서에 따르면 평균 리드 타임은 현재 25.8주로, 2018년도 당시 전례 없는 수치로 증가했다던 MLCC 공급 부족 시기보다 10주나 더 길어졌습니다. 25.8주라는 기록적인 리드 타임이 발생한 원인은 코로나19로 인한 공장 폐쇄, 극단적인 기상 여건, 지정학적 요인, 기타 등등의 이유를 비롯하여, 거의 2년간에 걸쳐 제조업체에 영향을 미친 공급망 문제가 절정에 이르렀기 때문입니다.",
+    "text": "리드 타임 연장은 새삼스러울 것 없는 뉴스지만, SFG(Susquehanna Financial Group)의 12월 보고서에 따르면 평균 리드 타임은 현재 25.8주로, 2018년도 당시 전례 없는 수치로 증가했다던 MLCC 공급 부족 시기보다 10주나 더 길어졌습니다. 25.8주라는 기록적인 리드 타임이 발생한 원인은 코로나19로 인한 공장 폐쇄, 극단적인 기상 여건, 지정학적 요인, 기타 등등의 이유를 비롯하여, 거의 2년간에 걸쳐 제조업체에 영향을 미친 공급망 문제가 절정에 이르렀기 때문입니다. 그와 동시에, 물류 비용이 평균적인 공급업체의 기준보다 4~5배나 급등해 다양한 상품 가격의 급등을 불러왔습니다. 전통적인 저비용 제조 지역에서의 조업 활동이 신뢰할 수 없게 되어 고객이 별수 없이 비용이 많이 드는 지역에서 제조해야 하는 상황이라, 전체 생산 비용이 상승했습니다. 제조업체는 2022년에 고객의 수요를 충족하기 위해 계속해서 추격을 할 가능성이 높습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "그와 동시에, 물류 비용이 평균적인 공급업체의 기준보다 4~5배나 급등해 다양한 상품 가격의 급등을 불러왔습니다. 전통적인 저비용 제조 지역에서의 조업 활동이 신뢰할 수 없게 되어 고객이 별수 없이 비용이 많이 드는 지역에서 제조해야 하는 상황이라, 전체 생산 비용이 상승했습니다. 제조업체는 2022년에 고객의 수요를 충족하기 위해 계속해서 추격을 할 가능성이 높습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -1286,8 +1272,10 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다.",
+    "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다. 그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
     "detected_vendors": [
+      "Broadcom",
+      "Intel",
       "Mellanox"
     ],
     "detected_keywords": [
@@ -1295,24 +1283,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 2,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
-    "detected_vendors": [
-      "Broadcom",
-      "Intel",
-      "Mellanox"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -1771,50 +1741,18 @@
     ],
     "section_raw": "GPU",
     "subheading": "",
-    "text": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다.",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다.",
-    "detected_vendors": [
-      "Mellanox"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
+    "text": "하지만 2021년 4분기까지 마지막으로 구매할 수 있었던 Nvidia의 Tesla T4와 Quadro P400, P620, P1000과 같은 단종 엔터프라이즈 GPU에 대한 수요가 증가했습니다. Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다. 전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
     "detected_vendors": [
       "Broadcom",
       "Intel",
-      "Mellanox"
+      "Mellanox",
+      "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1844,29 +1782,14 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "매 분기, 글로벌 공급망이 연속적인 중단을 경험했습니다. 가장 최근 2022년 1분기에 일본에서 발생한 두 차례의 지진이 일본 내 여러 제조업체에 영향을 미쳤습니다. 아시아의 주요 허브들은 코로나19 발생에 따라 조업을 완전히 중단해야 했습니다. 러시아는 우크라이나를 침공하여 내전을 선동하고 해당 지역의 공급망 자원을 차단했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Natural Disaster / Incident"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "그 결과로, 글로벌 공급망에 공급업체 적체 증가, 가격 상승 및 리드 타임 연장이 발생했습니다.",
+    "text": "매 분기, 글로벌 공급망이 연속적인 중단을 경험했습니다. 가장 최근 2022년 1분기에 일본에서 발생한 두 차례의 지진이 일본 내 여러 제조업체에 영향을 미쳤습니다. 아시아의 주요 허브들은 코로나19 발생에 따라 조업을 완전히 중단해야 했습니다. 러시아는 우크라이나를 침공하여 내전을 선동하고 해당 지역의 공급망 자원을 차단했습니다. 그 결과로, 글로벌 공급망에 공급업체 적체 증가, 가격 상승 및 리드 타임 연장이 발생했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
+      "Natural Disaster / Incident",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -5780,26 +5703,10 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "지속되는 공급망 대란으로 인해 Raspberry Pi 생산은 현재 모든 제품에 있어서 심각한 병목현상을 겪고 있습니다. 때문에 제조업체가 고객 부품이 아닌 상업 및 산업 부품 쪽으로 우선순위를 옮기고 있는 상황임에도 공급 할당에 타격이 있습니다. 생산 제약뿐 아니라 Raspberry Pi 고객은 재고를 매수해 더 높은 가격에 되파는 봇과도 경쟁하고 있으며, 이에 따라 해당 행위를 방지하기 위한 공급 및 판매 관리에 대한 재평가가 실시될 예정입니다.",
+    "text": "지속되는 공급망 대란으로 인해 Raspberry Pi 생산은 현재 모든 제품에 있어서 심각한 병목현상을 겪고 있습니다. 때문에 제조업체가 고객 부품이 아닌 상업 및 산업 부품 쪽으로 우선순위를 옮기고 있는 상황임에도 공급 할당에 타격이 있습니다. 생산 제약뿐 아니라 Raspberry Pi 고객은 재고를 매수해 더 높은 가격에 되파는 봇과도 경쟁하고 있으며, 이에 따라 해당 행위를 방지하기 위한 공급 및 판매 관리에 대한 재평가가 실시될 예정입니다. 이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
       "Shortage"
     ],
     "risk_level": "High"
@@ -7764,23 +7671,7 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "마찬가지로 차량 실내 분위기 조명에 주로 사용되는 Melexis의 MLX811은 자동차 고객의 계속적인 수요 증가에 따라 가용성이 제한되고 있습니다. 현재로서는 납기 일정이나 정확한 리드 타임을 확인하기 어렵고 주문을 지원하는 재고 물량도 없는 상태입니다. 이 시리즈들에 대한 리드 타임은 현재 52주로 연장되었습니다.",
+    "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다. 마찬가지로 차량 실내 분위기 조명에 주로 사용되는 Melexis의 MLX811은 자동차 고객의 계속적인 수요 증가에 따라 가용성이 제한되고 있습니다. 현재로서는 납기 일정이나 정확한 리드 타임을 확인하기 어렵고 주문을 지원하는 재고 물량도 없는 상태입니다. 이 시리즈들에 대한 리드 타임은 현재 52주로 연장되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -7856,21 +7747,7 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "SAK MCU",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다.",
+    "text": "SAK MCU 이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -7933,24 +7810,10 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다.",
+    "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다. 그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
-    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -8108,21 +7971,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "메모리 모듈 시장에서 수요가 개선되지 않음에도 불구하고 제조업자들은 여전히 벤더에게 더 많은 주문을 요구하려고 합니다. 이로 인해 벤더는 더 많은 재고를 보유하고 있습니다. 따라서 벤더는 손실을 보며 재고를 처리할 수 밖에 없으며, 시장 가격이 공시 가격보다 10~20% 더 낮은 것은 이를 반영합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "여전히 거래는 발생하고 있지만 주문 당 물량은 더 적어지고 있습니다. 고객들은 ‘만약에 대비한’ 재고 방식으로부터 등을 돌리고 있으며 대신 수요가 필요하다고 생각될 때만 오픈 마켓에서 구매하는 방식을 선택하고 있습니다.",
+    "text": "메모리 모듈 시장에서 수요가 개선되지 않음에도 불구하고 제조업자들은 여전히 벤더에게 더 많은 주문을 요구하려고 합니다. 이로 인해 벤더는 더 많은 재고를 보유하고 있습니다. 따라서 벤더는 손실을 보며 재고를 처리할 수 밖에 없으며, 시장 가격이 공시 가격보다 10~20% 더 낮은 것은 이를 반영합니다. 여전히 거래는 발생하고 있지만 주문 당 물량은 더 적어지고 있습니다. 고객들은 ‘만약에 대비한’ 재고 방식으로부터 등을 돌리고 있으며 대신 수요가 필요하다고 생각될 때만 오픈 마켓에서 구매하는 방식을 선택하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -8571,21 +8420,7 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "지난달과 마찬가지로 메모리 모듈 시장 내 수요 약세가 지속되고 있습니다. 많은 벤더가 직접 제조업자와 백투백 주문(back-to-back order)을 받고 있으며 가격은 지속적으로 하락하고 있습니다. 그 결과, 오픈 마켓에서 비용 절감 기회를 찾는 활동이 증가했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "벤더들의 4분기 전망에 따르면 가격은 내림세가 지속되어 5~10% 정도 더 하락할 것으로 보입니다.",
+    "text": "지난달과 마찬가지로 메모리 모듈 시장 내 수요 약세가 지속되고 있습니다. 많은 벤더가 직접 제조업자와 백투백 주문(back-to-back order)을 받고 있으며 가격은 지속적으로 하락하고 있습니다. 그 결과, 오픈 마켓에서 비용 절감 기회를 찾는 활동이 증가했습니다. 벤더들의 4분기 전망에 따르면 가격은 내림세가 지속되어 5~10% 정도 더 하락할 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Price Decrease"
@@ -9113,25 +8948,10 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다. 시장 가격은 15%~20%씩 점차 하락하고 있습니다. 내부 시스템이 Intel에서 Solidigm으로 옮겨가고 있기 때문에 시스템 자체의 구동이 중지되고 있어 앞으로 시장의 흐름이 잠정 지체될 전망입니다.",
+    "text": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다. 시장 가격은 15%~20%씩 점차 하락하고 있습니다. 내부 시스템이 Intel에서 Solidigm으로 옮겨가고 있기 때문에 시스템 자체의 구동이 중지되고 있어 앞으로 시장의 흐름이 잠정 지체될 전망입니다. 반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
     "detected_vendors": [
       "Intel",
-      "Solidigm"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
-    "detected_vendors": [
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [],

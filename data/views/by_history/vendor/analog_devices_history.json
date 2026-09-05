@@ -1,6 +1,6 @@
 {
   "vendor": "Analog Devices",
-  "total_milestones": 50,
+  "total_milestones": 49,
   "history": [
     {
       "date": "2021.11",
@@ -119,19 +119,9 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
-      "summary": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다.",
-      "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다."
-    },
-    {
-      "date": "2023.02",
-      "category": "기타",
-      "detected_categories": [
-        "기타"
-      ],
       "risk_level": "Medium",
-      "summary": "역사적으로, 대개 가격은 이러한 시점에 높아집니다.",
-      "text": "역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다."
+      "summary": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다.",
+      "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다. 역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다."
     },
     {
       "date": "2023.03",

@@ -2004,21 +2004,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "최근 중동 지역의 고객들은 프로젝트에 사용하기 위해 저가형 웹캠을 대량 요구하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "아시아 지역의 공급업체들 또한 제조업체들이 아시아 지역이 아닌 EMEA 지역에 우선적으로 출하를 하고 있기 때문에 전분기 대비 재고 할당량이 적다고 보고하고 있습니다. 이런 상황은 결국 공급 부족을 더욱 악화시키고 가격은 상승할 것입니다.",
+    "text": "최근 중동 지역의 고객들은 프로젝트에 사용하기 위해 저가형 웹캠을 대량 요구하고 있습니다. 아시아 지역의 공급업체들 또한 제조업체들이 아시아 지역이 아닌 EMEA 지역에 우선적으로 출하를 하고 있기 때문에 전분기 대비 재고 할당량이 적다고 보고하고 있습니다. 이런 상황은 결국 공급 부족을 더욱 악화시키고 가격은 상승할 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -2035,7 +2021,7 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "전세계적인 락다운으로 인해 2분기 LCD 수요는 큰 타격을 받았고, 이 때문에 패널 생산량이 30%나 줄어 가격이 상승하고 있습니다.",
+    "text": "전세계적인 락다운으로 인해 2분기 LCD 수요는 큰 타격을 받았고, 이 때문에 패널 생산량이 30%나 줄어 가격이 상승하고 있습니다. 하지만 3분기 초에 재택근무자와 원격수업을 받는 학생들 때문에 크롬북 수요가 증가하였고, 그 결과 모든 공장이 생산 라인을 크롬북 사이즈 패널로 전환했기 때문에 14인치와 15.6인치 패널에 엄청난 공급 격차가 발생했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2049,40 +2035,12 @@
     ],
     "section_raw": "완제품",
     "subheading": "",
-    "text": "하지만 3분기 초에 재택근무자와 원격수업을 받는 학생들 때문에 크롬북 수요가 증가하였고, 그 결과 모든 공장이 생산 라인을 크롬북 사이즈 패널로 전환했기 때문에 14인치와 15.6인치 패널에 엄청난 공급 격차가 발생했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "대부분의 노트북 제조업체들은 주로 사용되는 사이즈의 패널 할당을 거의 받지 못했습니다. 현재 공급량은 전체 수요의 30%에 불과하지만 4분기 말에는 회복될 것으로 보입니다.",
+    "text": "대부분의 노트북 제조업체들은 주로 사용되는 사이즈의 패널 할당을 거의 받지 못했습니다. 현재 공급량은 전체 수요의 30%에 불과하지만 4분기 말에는 회복될 것으로 보입니다. 한편 가격은 20%이상 상승했고 공인된 유통업체들에겐 재고가 거의 없습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2020,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "",
-    "text": "한편 가격은 20%이상 상승했고 공인된 유통업체들에겐 재고가 거의 없습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -2821,7 +2779,7 @@
     ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
-    "text": "일본에 있는 Asahi Kasei의 노베오카 공장에서 10월 20일에 화재가 발생했습니다. 수정 발진기용 원자재뿐 아니라 오디오 및 음성 시스템용 대규모 집적회로를 생산하던 공장입니다. 공급 제한에 관한 다양한 초기 보도가 들어오고 있지만, 수정 발진기 시장은 55G 기술 제품 생산의 증가로 이미 공급이 이미 빠듯해 지고 있습니다.",
+    "text": "일본에 있는 Asahi Kasei의 노베오카 공장에서 10월 20일에 화재가 발생했습니다. 수정 발진기용 원자재뿐 아니라 오디오 및 음성 시스템용 대규모 집적회로를 생산하던 공장입니다. 공급 제한에 관한 다양한 초기 보도가 들어오고 있지만, 수정 발진기 시장은 55G 기술 제품 생산의 증가로 이미 공급이 이미 빠듯해 지고 있습니다. 10월 27일 현재, 이 회사는 화재의 영향에 대한 최신 정보를 아직 발표하지 않았지만, 시장에서는 몇 달 정도 지나야 이번 화재의 영향을 완전히 체감할 수 있을 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -2837,37 +2795,7 @@
     ],
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
-    "text": "10월 27일 현재, 이 회사는 화재의 영향에 대한 최신 정보를 아직 발표하지 않았지만, 시장에서는 몇 달 정도 지나야 이번 화재의 영향을 완전히 체감할 수 있을 것입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Natural Disaster / Incident"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2020,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "1 전반적 소식 (General News)",
-    "subheading": "",
-    "text": "현재, Wi-Fi 카드 공급이 빠듯한 상황입니다. 유통업체들은 Wi-Fi 카드 제조업체가 Chromebook 과 노트북 수요의 급증으로 인해 수개월 전에 주문한 물량을 공급하는 데도 애먹고 있다고 합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2020,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "1 전반적 소식 (General News)",
-    "subheading": "",
-    "text": "예를 들어, Intel은 빠듯한 공급 일정에 허덕이고 있고 특정 대규모 고객만이 원활하게 물량 배정을 받고 있어, 현물 시장 가격이 올랐습니다. 다른 주요 제조업체도 같은 상황에 처해 있을 가능성이 있습니다.",
+    "text": "현재, Wi-Fi 카드 공급이 빠듯한 상황입니다. 유통업체들은 Wi-Fi 카드 제조업체가 Chromebook 과 노트북 수요의 급증으로 인해 수개월 전에 주문한 물량을 공급하는 데도 애먹고 있다고 합니다. 예를 들어, Intel은 빠듯한 공급 일정에 허덕이고 있고 특정 대규모 고객만이 원활하게 물량 배정을 받고 있어, 현물 시장 가격이 올랐습니다. 다른 주요 제조업체도 같은 상황에 처해 있을 가능성이 있습니다.",
     "detected_vendors": [
       "Intel"
     ],

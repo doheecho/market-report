@@ -316,14 +316,15 @@
     ],
     "section_raw": "Intro",
     "subheading": "",
-    "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다.",
+    "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다. 역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
     "detected_vendors": [
       "Analog Devices"
     ],
     "detected_keywords": [
+      "Lead Time",
       "M&A"
     ],
-    "risk_level": "Low"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,

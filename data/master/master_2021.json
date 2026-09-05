@@ -701,23 +701,7 @@
     ],
     "section_raw": "5 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "Logitech 웹캠 공급은 특히 C310 모델의 경우 계속 빠듯한 상태로 남아 있습니다. 벤더들은 2020년 마지막 두 달 동안은 그다지 많은 재고 물량을 받지 못했다고 보고했습니다. C270, B525, C525 등의 저가형 모델 공급도 부족해지고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "5 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "반대로, 헤드셋 공급은 심각한 공급 부족을 겪고 있고 제조업체로부터 확실한 리드 타임에 대한 정보도 없는 H111을 제외하면 양호합니다.",
+    "text": "Logitech 웹캠 공급은 특히 C310 모델의 경우 계속 빠듯한 상태로 남아 있습니다. 벤더들은 2020년 마지막 두 달 동안은 그다지 많은 재고 물량을 받지 못했다고 보고했습니다. C270, B525, C525 등의 저가형 모델 공급도 부족해지고 있습니다. 반대로, 헤드셋 공급은 심각한 공급 부족을 겪고 있고 제조업체로부터 확실한 리드 타임에 대한 정보도 없는 H111을 제외하면 양호합니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -3674,25 +3658,10 @@
     ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
-    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다.",
-    "detected_vendors": [
-      "Intel"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 6,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 (Finished Goods)",
-    "subheading": "",
-    "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
+    "text": "벤더는 Intel이 일부 티어 1 고객을 위해 Intel의 모바일 CPU와 결합해야 하므로 최근에 채널 파트너와 유통업체로 하여금 오픈 마켓에서 이들 제품을 다시 구매하도록 하고 있다는 사실을 공유했습니다. AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
       "Amd",
+      "Intel",
       "Mediatek"
     ],
     "detected_keywords": [
@@ -4444,32 +4413,17 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "최근 중국과 홍콩 당국의 암호화폐 채굴 단속이 이루어지는 가운데, RAID 컨트롤러 공급에는 여전히 제약이 따르고 있습니다. 특히 Broadcom의 MegaRAID 93xx 및 94xx 시리즈가 영향을 받고 있고 2021년 10월에 단종 예정인데, 마지막 구매 시한은 2022년 10월, 마지막 판매 시한은 2023년 3월입니다.",
+    "text": "최근 중국과 홍콩 당국의 암호화폐 채굴 단속이 이루어지는 가운데, RAID 컨트롤러 공급에는 여전히 제약이 따르고 있습니다. 특히 Broadcom의 MegaRAID 93xx 및 94xx 시리즈가 영향을 받고 있고 2021년 10월에 단종 예정인데, 마지막 구매 시한은 2022년 10월, 마지막 판매 시한은 2023년 3월입니다. 리드 타임은 28주에서 42주로 늘어났으므로, 향후 할당을 받으려 치열한 각축전이 벌어질 것으로 예상합니다.",
     "detected_vendors": [
       "Broadcom"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "리드 타임은 28주에서 42주로 늘어났으므로, 향후 할당을 받으려 치열한 각축전이 벌어질 것으로 예상합니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Allocation",
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -6132,21 +6086,7 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "Sierra Wireless Wi-Fi 모듈은 코로나19 팬데믹으로 인한 생산비 증가로 인해 8월 초 이후로 가격이 20% 뛰었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "또한, 코로나19로 원활한 인력 투입에 차질을 빚는 Sierra Wireless의 베트남 공장은 최소 생산능력으로 가동 중이므로, 신규 주문의 리드 타임이 20주까지 연장됩니다.",
+    "text": "Sierra Wireless Wi-Fi 모듈은 코로나19 팬데믹으로 인한 생산비 증가로 인해 8월 초 이후로 가격이 20% 뛰었습니다. 또한, 코로나19로 원활한 인력 투입에 차질을 빚는 Sierra Wireless의 베트남 공장은 최소 생산능력으로 가동 중이므로, 신규 주문의 리드 타임이 20주까지 연장됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -6180,30 +6120,13 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다.",
-    "detected_vendors": [
-      "Mellanox"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2021,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "11월에 이러한 이더넷 어댑터를 위해 Mellanox의 512 및 4121 시리즈 네트워킹 카드를 100~200k 정도로 할당할 가능성이 있지만, 유통업체에서는 일반적인 원자재 공급 부족으로 인한 철회를 경계하고 있습니다.",
+    "text": "Mellanox의 이더넷 어댑터 유통업체들은 현재 신규 예약 리드 타임이 길게는 26주이며 지난 몇 달 동안은 모든 입고 재고품이 기존 주문 이행에 사용되고 있다는 정보를 공유하고 있습니다. 11월에 이러한 이더넷 어댑터를 위해 Mellanox의 512 및 4121 시리즈 네트워킹 카드를 100~200k 정도로 할당할 가능성이 있지만, 유통업체에서는 일반적인 원자재 공급 부족으로 인한 철회를 경계하고 있습니다.",
     "detected_vendors": [
       "Mellanox"
     ],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -6763,28 +6686,12 @@
     ],
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
-    "text": "서버 제작에 필요한 이더넷 컨트롤러 제품 전반에 걸쳐 수요가 계속됨에 따라 IC, 웨이퍼 및 기판의 공급 부족이 Intel의 주요 제조 장애 요인으로 이어졌습니다. 단종 공지는 고객에게 제품을 인도하기 위한 공급을 유지하고 통합하고자 Intel의 대용량 제품에 대한 수요에 따라 이루어지는 조치입니다. 이 공지는 Intel의 X550-AT2, X540-AT2, X557-AT2, X710-BM2 시리즈 컨트롤러에 영향을 미칩니다.",
+    "text": "서버 제작에 필요한 이더넷 컨트롤러 제품 전반에 걸쳐 수요가 계속됨에 따라 IC, 웨이퍼 및 기판의 공급 부족이 Intel의 주요 제조 장애 요인으로 이어졌습니다. 단종 공지는 고객에게 제품을 인도하기 위한 공급을 유지하고 통합하고자 Intel의 대용량 제품에 대한 수요에 따라 이루어지는 조치입니다. 이 공지는 Intel의 X550-AT2, X540-AT2, X557-AT2, X710-BM2 시리즈 컨트롤러에 영향을 미칩니다. 이러한 500 및 700 시리즈 컨트롤러는 2015년으로 거슬러 올라갈 정도로 오래된 제품이며 생산 및 공급 라인이 갑작스러운 수요 증가에 맞춰 준비되어 있지 않아, 최근의 주요 공급 제약과 극심한 리드 타임(2023/2024년까지 인도되지 않을 것으로 예상)이 발생했습니다. 이로 인해 가격이 원래 단가의 5~10%까지 인상되었습니다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "EOL",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2021,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
-    "subheading": "",
-    "text": "이러한 500 및 700 시리즈 컨트롤러는 2015년으로 거슬러 올라갈 정도로 오래된 제품이며 생산 및 공급 라인이 갑작스러운 수요 증가에 맞춰 준비되어 있지 않아, 최근의 주요 공급 제약과 극심한 리드 타임(2023/2024년까지 인도되지 않을 것으로 예상)이 발생했습니다. 이로 인해 가격이 원래 단가의 5~10%까지 인상되었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
       "Lead Time",
       "Shortage"
     ],
@@ -7600,21 +7507,7 @@
     ],
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
-    "text": "*   이더넷 연결 I219-LM",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2021,
-    "month": 12,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "6 완제품 (Finished Goods)",
-    "subheading": "",
-    "text": "또한, 30개 이상의 이더넷 컨트롤러에 대한 EOL을 고객에게 통지한 Intel의 최근 발표에 인기 높은 X540-AT2가 포함되어 있습니다. EOL 통지는 고객이 2021년 11월 15일부터 부품 주문을 취소하거나 반품할 수 없음을 의미합니다. 마지막 제품 단종 발송일은 2022년 7월 15일입니다.",
+    "text": "*   이더넷 연결 I219-LM 또한, 30개 이상의 이더넷 컨트롤러에 대한 EOL을 고객에게 통지한 Intel의 최근 발표에 인기 높은 X540-AT2가 포함되어 있습니다. EOL 통지는 고객이 2021년 11월 15일부터 부품 주문을 취소하거나 반품할 수 없음을 의미합니다. 마지막 제품 단종 발송일은 2022년 7월 15일입니다.",
     "detected_vendors": [
       "Intel"
     ],
