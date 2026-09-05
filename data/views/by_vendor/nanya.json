@@ -31,7 +31,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "RDIMM",
+    "category": "Memory",
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "subheading": "",
     "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
@@ -65,7 +65,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "3. 메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",

@@ -7451,6 +7451,433 @@
     "risk_level": "Low"
   },
   {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel",
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "10월 동향",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다. 퀄컴은 AI를 통합한 갤럭시 Z 폴드6과 같은 기기 덕분에 81억 달러의 칩셋 매출을 기록했습니다. 미디어텍은 신흥 시장에서의 4G SoC 수요와 5G AI 스마트폰 발전 덕분에 휴대전화 매출이 전년 대비 52% 증가했습니다.",
+    "detected_vendors": [
+      "Mediatek"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "PC 출하량 회복: 2024년 6월로 마감된 분기 기준으로 PC 출하량이 7분기 연속 감소 후 2분기 연속 증가했습니다. IDC에 따르면, 2023년 말의 공급 과잉으로 인해 가격이 최저점을 기록했으며, 이는 산업이 반등하고 있음을 시사합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "AI가 모바일 CPU 전망을 개선할 가능성: AI 시장의 활동 덕분에 Chromebook에서 일부 긍정적인 성장 조짐이 보입니다. Intel의 AI PC인 Lunar Lake 시리즈가 3분기에 출시될 예정이며, AI 수요의 강도를 시험할 것입니다. 그러나 4분기 예측이 제한적인 만큼 출시의 지속 가능성에 대한 가시성은 낮습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "AMD 모바일 CPU 수요 증가: 유통업체들은 AMD Ryzen 5000, 7000, 8000 시리즈에 대한 오픈마켓 수요가 증가하고 있음을 보고하고 있습니다.",
+    "detected_vendors": [
+      "Amd"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "Intel Elkhart Lake J6412 부족: 산업 시스템, 의료기기 및 POS 단말기와 같은 임베디드 및 IoT 애플리케이션용 Intel Elkhart Lake J6412 프로세서가 현재 품귀 상태에 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "Alder Lake 소형 코어 공급 부족: Intel의 Alder Lake 소형 코어(N200, N305)는 주문량이 많아 공급이 부족합니다. 유통업체에 따르면 N200/N300 할당이 희소하며, 향후 4주 동안 출하가 예상되지 않습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "데스크탑 PC 시장은 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "10월 동향",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "상업 및 프리미엄 시장 수요: 델 테크놀로지스와 레노버 그룹의 최근 인사이트에 따르면 상업 및 프리미엄 시장에서 데스크탑 PC 수요가 증가하고 있습니다. 델은 상업용 PC 수요가 소폭 증가했으며, 노후화된 설치 기반과 Windows 10의 지원 종료로 인해 교체 주기가 예상된다고 밝혔습니다. 한편, 레노버는 AI 기능이 PC 시장에 도입됨에 따라 프리미엄 판매가 크게 증가하고 있다고 보고했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "데스크탑 CPU 공급 제약: 12세대 Alder Lake CPU(Core i3/i5/i7/i9 GT0)의 공급이 4분기까지 제한될 것으로 예상되며, Pentium과 Celeron은 2025년 1월 말까지 공급이 타이트할 것으로 보입니다. 또한, 13세대 Raptor Lake의 Core i7 및 i9은 12월까지 사용 가능하나, 14900 및 T SKU는 공급이 제한적입니다. 15세대 Arrow Lake가 2024년 4분기 중 신제품으로 출시될 예정입니다.",
+    "detected_vendors": [
+      "Arrow"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "Intel 보증 연장: Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "워크스테이션 시리즈 활동 증가: 3D 렌더링, 비디오 편집 및 엔지니어링 애플리케이션의 수요로 인해 Intel의 워크스테이션 시리즈에 대한 관심이 높아지고 있습니다. 특히 12세대 데스크탑 CPU(12400, 12700)가 데이터 집약적인 작업에 적합한 솔루션으로 높은 수요를 보이고 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "AMD 시장 점유율 증가: Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Intel"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "가격 안정 예상: 가격 변동성의 시기가 지나면서 CPU 가격이 안정될 것으로 보입니다. 공급 제약이 완화되고 수요가 조정됨에 따라 향후 몇 달 동안 구매자에게 더 유리한 환경이 조성될 수 있습니다. 마이크론의 최근 실적 보고서에 따르면 PC OEM들은 2025년 봄까지 재고 문제를 해결할 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "소비자 GPU 시장은 AI 관련 시장 점유율 경쟁으로 치열해지고 있습니다. Nvidia의 가속화된 출시 일정과 주요 모델의 지속적인 부족으로 인해 역동적인 환경이 조성되고 있으며, 2024년 말까지 급격한 변화가 예상됩니다. 새로운 제품 출시와 공급 문제로 인한 변화 속에서 조기 계획과 전략적 구매가 중요해지고 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "10월 동향:",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "성능 수요가 전력 효율성에 미치는 영향: Nvidia의 최신 GPU인 RTX 50 시리즈는 이전 세대에 비해 성능이 크게 향상될 것으로 예상되며, TGP(총 그래픽 전력)가 상당히 증가할 것입니다. RTX 40 시리즈보다 기능이 뛰어나지만, 이로 인해 전력 소비도 증가할 것으로 보입니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다.",
+    "detected_vendors": [
+      "Amd",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다.",
+    "detected_vendors": [
+      "Amd",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "RTX 4090 공급 문제: RTX 4090은 GDDR6X 메모리 부족과 Nvidia가 RTX 50 시리즈 출시를 준비하면서 GPU 칩 공급이 줄어들어 심각한 공급 제약을 겪고 있습니다. 이로 인해 고급 데스크탑 GPU 시장에서 가격 상승과 구매자 간의 경쟁이 심화될 수 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "가격 변동 가능성: 공급 부족과 높은 수요로 인해 RTX 4090과 같은 고급 소비자용 GPU의 가격이 변동될 수 있습니다. 구매자들은 앞으로 몇 달 동안 변화하는 가격 동향에 유연하게 대응할 필요가 있을 것입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "PC DIMM 시장의 활동은 여전히 둔화된 상태이며, AI와 관련된 제품에 대한 수요만 일부 유지되고 있습니다. 이로 인해 OEM들은 시장이 회복될 때까지 높은 재고 비용을 감당해야 할 가능성을 우려하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "10월 동향",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "AI 및 서버 시장 수요: 마이크론(Micron)의 최근 실적 보고서에 따르면, 2025 회계연도에 대한 긍정적인 전망이 제시되었습니다. AI 및 전통적인 서버 시장의 수요가 DIMM에 대한 수요를 견인할 것으로 보입니다. AI 서버와 범용 서버 모두 강력한 성장이 기대되며, 이를 통해 고용량 DIMM에 대한 균형 잡힌 수요가 창출될 전망입니다. 전통 서버의 수요는 점진적으로 회복되고 있으며, IT 부서 내의 애플리케이션 소프트웨어 배포가 활발해지면서 고급 PC DIMM에 대한 수요도 증가할 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "DIMM 가격 인상: 전반적인 수요가 부진함에도 불구하고, PC DIMM 시장의 가격은 8%에서 10%까지 인상될 것으로 전망됩니다. 이는 공급 제한이나 필수적인 비용 조정의 필요성을 시사할 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "DDR4 DIMM 트렌드: DDR4 DIMM에 대한 수요는 예상보다 더 견고하게 유지되고 있습니다. 이러한 지속적인 관심으로 인해 수요가 높아지면 공급이 이를 따라가지 못해 잠재적인 부족 현상이 발생할 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "공급망 문제: 지속적인 공급망 문제는 DIMM의 가용성에 영향을 미칠 수 있으며, 제조업체들이 증가하는 수요에 맞춰 생산을 조정하는 데 어려움을 겪을 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "시장 역학 변화: DDR4 DIMM에 대한 수요 증가와 가격 상승은 시장 역학에 변화를 가져올 수 있으며, 이는 구매자들의 구매 행태와 조달 전략에도 영향을 미칠 가능성이 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "CPU",
+    "section_raw": "PC & 소비자 상품 업데이트",
+    "subheading": "",
+    "text": "미래 전망: DDR4에 대한 수요가 강세를 유지하고 가격이 상승함에 따라, 향후 몇 달 동안 비용과 가용성 변동에 대비해 구매자들이 유연하게 대응해야 할 필요가 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
     "year": 2025,
     "month": 2,
     "category": "CPU",
@@ -7523,6 +7950,34 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "마더보드",
+    "subheading": "",
+    "text": "Supermicro는 개별 마더보드 판매를 중단하고 통합 서버 솔루션에 집중하고 있으며, X11 및 X13 시리즈에 대한 수요는 여전히 강세를 보이고 있습니다.",
+    "detected_vendors": [
+      "Supermicro"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "CPU",
+    "section_raw": "마더보드",
+    "subheading": "",
+    "text": "Supermicro는 마더보드의 정확한 납기 일정을 제공하지 않고 있으며, 이에 따라 고객들은 Deepseek 기반 데이터 모델을 위한 대체 브랜드를 찾고 있습니다.",
+    "detected_vendors": [
+      "Supermicro"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -7634,6 +8089,55 @@
     "detected_vendors": [
       "Intel"
     ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "CPU",
+    "section_raw": "메인보드 Supermicro 전략 조정",
+    "subheading": "",
+    "text": "Supermicro는 독립형 메인보드보다 통합형 서버 솔루션에 집중하는 전략으로 전환했으며, 이에 따라 X11 및 X13 시리즈 채택이 증가하고 있습니다.",
+    "detected_vendors": [
+      "Supermicro"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "CPU",
+    "section_raw": "메인보드 Supermicro 전략 조정",
+    "subheading": "",
+    "text": "AI 투자 확대에 따라 고속, 고용량RDIMM 모듈에 대한 수요가 증가하고 있으며, 특히64GB DDR5-5600 제품이 주목받고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "CPU",
+    "section_raw": "메인보드 Supermicro 전략 조정",
+    "subheading": "",
+    "text": "4800 속도의 RDIMM 모듈에 대한 관심은 점점 줄어들고 있으며, 단종(EOL) 공지가 나온 상태입니다. 반면, 96GB 및 128GB의 고용량 모듈은 예측 상향 또는 감산에 따라 수요가 계속 증가하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Production Cut"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "CPU",
+    "section_raw": "메인보드 Supermicro 전략 조정",
+    "subheading": "",
+    "text": "RDIMM 시장의 가격 전망이 변동 중입니다. 연초에는 시장 가격이 보합세 또는 소폭 하락할 것이라는 전망이 지배적이었지만, 하반기에 가격이 오를 가능성이 있다는 이야기가 점점 많아지고 있습니다.",
+    "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
   },

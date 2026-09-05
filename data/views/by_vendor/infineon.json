@@ -147,7 +147,7 @@
   {
     "year": 2022,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Infineon의 푸동 유통 센터는 현재 자재 및 완제품 지연을 겪고 있습니다.",
@@ -173,7 +173,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다.",
@@ -204,7 +204,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
@@ -219,7 +219,7 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
@@ -234,7 +234,7 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
@@ -249,7 +249,7 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Infineon의 공급 제약으로 산업 및 자동차 고객 간 경쟁이 뜨겁습니다.",
@@ -375,7 +375,7 @@
   {
     "year": 2024,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Infineon의 IGBT 리드 타임은 연장되고 있지만 특정 고전압 MOSFET의 초과 공급은 증가하고 있습니다.",
@@ -520,7 +520,7 @@
   {
     "year": 2025,
     "month": 7,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "인피니언: 300mm 웨이퍼 기반 GaN 제조를 추진 중이며, 첫 샘플은 2025년 4분기에 나올 예정입니다—GaN 분야에서 IDM 리더십을 강화하고 있습니다. 인피니언 보도자료",
@@ -533,7 +533,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음: 샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
@@ -548,7 +548,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
@@ -623,7 +623,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
@@ -661,7 +661,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]",

@@ -175,7 +175,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다.",
@@ -190,7 +190,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "역사적으로, 대개 가격은 이러한 시점에 높아집니다. Maxim 제품의 일반적인 리드 타임은 18주 전후입니다.",
@@ -205,7 +205,7 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "최근 발표된 공지에 따르면 2023년에 Analog Devices의 제품 리드 타임이 단축될 것으로 예상됩니다. 현재 동사 포트폴리오의 절반은 리드 타임이 13주 미만입니다. 이러한 회복은 부분적으로 AD7/8xxx 시리즈와 같이 수요가 적은 Linear Tech 품목의 생산 감축과 같은 전략적 제조 감축에 기인합니다. 가장 최근 분기 실적 보고서에서 Analog Devices는 공급 문제를 해결하기 위한 전략으로 내부 생산량 증가와 파운드리 파트너와의 긴밀한 협력에 초점을 맞추고 있음을 분명히 했습니다.",
@@ -221,7 +221,7 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "올해 10월까지 Analog Devices 제품의 95%, 총 75,000개가 넘는 고유 부품의 리드 타임이 13주 이하로 개선될 것입니다.",
@@ -236,7 +236,7 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Analog Devices는 운영 방식을 현대화하기 위해 R&D에 투자해 왔으며 현재는 수요가 높은 시장을 공략하고 있습니다.",
@@ -306,7 +306,7 @@
   {
     "year": 2024,
     "month": 4,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Analog Devices의 전사적인 배송 중단으로 인해 가용성에 영향을 주었습니다.",
@@ -433,7 +433,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "TI, Intel, ADI, Micron 등 미국 기반 IDM 팹에 영향, 최종 조립이 해외에서 이뤄지더라도 적용됩니다.",
@@ -449,7 +449,7 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
@@ -516,7 +516,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의‑ T-글래스 기판‑ 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
@@ -573,7 +573,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. 반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
@@ -632,7 +632,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. 원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
@@ -652,7 +652,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화: 2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
@@ -780,7 +780,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",

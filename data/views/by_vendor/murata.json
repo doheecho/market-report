@@ -406,7 +406,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "Networking",
+    "category": "IC",
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
     "subheading": "",
     "text": "1. MLCC 공급 부족이 예상되며, 리드타임은 16주 이상으로 늘어나고 있다. Murata의 GRM185 시리즈(일본 전용 생산)는 AI 서버 수요가 생산 능력을 흡수함에 따라 하반기 공급 부족이 예상된다.",
@@ -422,7 +422,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. MLCC 및 수동소자 위기, 심각 단계로 격화: Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
@@ -460,7 +460,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
@@ -500,7 +500,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Networking",
+    "category": "IC",
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
     "subheading": "",
     "text": "2. MLCC는 공식적으로 공급 부족 국면에 진입했습니다. Murata, Samsung Electro-Mechanics, Taiyo Yuden, Yageo는 가격을 15~30% 인상하고 있습니다. AI 서버용 고용량 MLCC(예: 100uF)와 자동차용 등급 제품의 리드타임은 20주에서 50주 이상이며, 유통업체들은 브로커 대상 판매를 제한하고 있습니다.",

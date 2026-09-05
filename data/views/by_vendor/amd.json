@@ -105,7 +105,7 @@
   {
     "year": 2020,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다.",
@@ -806,7 +806,7 @@
   {
     "year": 2021,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "6 완제품 (Finished Goods)",
     "subheading": "",
     "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
@@ -879,7 +879,7 @@
   {
     "year": 2021,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "6 완제품 및 기타 (Finished Goods & Others)",
     "subheading": "",
     "text": "더욱이, Intel은 현재 모바일 CPU 부문에서 AMD를 상대로 경쟁하면서 고객의 눈길을 받고자, 기판 공급에 할당하던 자원을 모바일 CPU 생산으로 더 많이 돌리고 있습니다. 결과적으로, Intel은 네트워크 카드에서 점점 다른 곳으로 주력 종목을 옮기고 있어, 이더넷 카드 공급이 빠듯해지고 리드 타임이 길어지고 있습니다.",
@@ -1219,7 +1219,7 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "미국 정부는 중국 및 러시아에 고급 GPU 수출을 금지하는 새로운 라이센스 요건을 NVIDIA와 AMD에 부과했습니다. 홍콩을 포함한 중국에 대해 향후 모든 선적을 금지하는 이러한 행정 명령은 즉시 효력을 발휘하며 출시 예정인 H100 집적 회로에 영향을 주게 됩니다. A100 또는 H100 칩을 사용하는 DGX/EGX/HGX 시스템뿐만 아니라 A100X도 또한 신규 라이센스 요건의 대상입니다.",
@@ -1336,7 +1336,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다. AMD는 2023년에 Xilinx 재고를 모두 소진하고 생산 리드 타임 주기를 단축하고자 합니다. 현재 리드 타임은 다음과 같습니다.",
@@ -1352,7 +1352,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "잔여 Xilinx 머추어 노드: 2023년 1분기까지 표준 리드 타임 예상",
@@ -1381,7 +1381,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "RTX 4080는 첫 출시 이후 RTX 4090과 비교되는 가격 및 성능 수준 때문에 수요가 크게 하락했습니다. RTX 4090과 4080 시리즈는 유럽 통화 가치 하락과 AMD의 7900 XTX의 출시로 인해 가격이 5% 인하되었습니다.",
@@ -1479,7 +1479,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Cascade Lake, Cascade Lake Refresh, Milan 및 Rome 시리즈는 Intel과 AMD에서 여전히 1위를 차지하고 있습니다.",
@@ -1731,7 +1731,7 @@
   {
     "year": 2023,
     "month": 9,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "한편, DDR5 모듈, 특히 고밀도 제품은 여전히 공급 문제를 겪고 있습니다. 이러한 제약을 시작으로 특정 서버 애플리케이션과의 역호환성 부족 문제가 결합하며 수요는 더욱 증가했습니다. 현재 서버에서 DDR5를 채택하는 것은 Intel Sapphire Rapids 및 AMD의 Genoa 시리즈를 채택하는 것을 의미합니다. 지금 클라우드 서비스 제공업체와 AI 서버 제조업체는 두 자릿수의 사용률을 간신히 넘었습니다. Sapphire Rapids를 사용하는 경우 약 7%에서 11%의 채택률을 보입니다. 내년 6월까지 채택률은 50%에 육박할 것으로 보입니다.",
@@ -1863,7 +1863,7 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "최근 미국 정부는 중국으로의 GPU 수출 금지 대상을 변경했습니다. 11월 중순 해당 조치가 발효되며 이전까지는 해당하지 않았던 NVIDIA, AMD, Intel의 GPU가 영향을 받고 있습니다.",
@@ -1878,7 +1878,7 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "RTX 6000, RTX 4090, A30, A40, L4, RTX A6000 (Ampere), DGX, HGX 시스템 및 A100, A800, H100, H800, L40, L40S 등의 NVIDIA 제품이 최근 금지 대상에 올랐습니다. 또한 AMD의 MI250, MI300, Intel의 Gaudi 2 칩도 포함됐습니다.",
@@ -1937,7 +1937,7 @@
   {
     "year": 2024,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "AMD와 Intel에 대한 1분기 수요가 증가하고 있습니다.",
@@ -2052,7 +2052,7 @@
   {
     "year": 2024,
     "month": 4,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "가상화폐 채굴자 사이에서 고성능 CPU 수요가 높아지고 있으며 AMD 제품 수요에 강력한 영향을 미치고 있습니다.",
@@ -2203,7 +2203,7 @@
   {
     "year": 2024,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "이러한 제약에도 수요 적체는 양호한 편이며 곧 회복될 것으로 예상됩니다. 한편, AMD의 MI300X 가속기는 초기에 경쟁 제품인 NVIDIA H100 GPU를 찾던 고객에게서 넘어온 수요로 혜택을 보고 있습니다.",
@@ -2278,7 +2278,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "기업용 상품 업데이트",
     "subheading": "",
     "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다.",
@@ -2415,7 +2415,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다.",
@@ -2433,7 +2433,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "AMD 모바일 CPU 수요 증가: 유통업체들은 AMD Ryzen 5000, 7000, 8000 시리즈에 대한 오픈마켓 수요가 증가하고 있음을 보고하고 있습니다.",
@@ -2446,7 +2446,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "데스크탑 PC 시장은 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다.",
@@ -2462,7 +2462,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "Intel 보증 연장: Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다.",
@@ -2476,7 +2476,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "AMD 시장 점유율 증가: Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다.",
@@ -2490,7 +2490,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다.",
@@ -2504,7 +2504,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다.",
@@ -2518,7 +2518,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "CPU",
     "section_raw": "PC & 소비자 상품 업데이트",
     "subheading": "",
     "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다.",
@@ -2549,7 +2549,7 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2025년 2월그린시트는 Fusion Worldwide가 주기적으로 발행하는 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 2월 호에서는 7개 제품 그룹의 심층적인 트렌드 업데이트와 STMicroelectronics,인텔(Intel), AMD, Nvidia 등 주요 제조업체에 대한 통찰을 제공합니다. 그리고 변화하는 글로벌 공급망 혼란과 가격 변동의 잠재적 영향도 탐구합니다.",
@@ -2622,7 +2622,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2025년 3월 그린시트는 Fusion Worldwide가 주기적으로 발행하는 시장 정보 보고서로, 전자 부품 공급망 전반에서 가장 중요한 발전 사항을 다룹니다. 2월 호에서는 7개 제품 그룹의 심층적인 트렌드 업데이트와 STMicroelectronics,인텔(Intel), AMD, Nvidia 등 주요 제조업체에 대한 통찰을 제공합니다. 그리고 변화하는 글로벌 공급망 혼란과 가격 변동의 잠재적 영향도 탐구합니다.",
@@ -2749,7 +2749,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "미국은 중국을 대상으로 한 Nvidia H20 및 AMD MI308 등 AI 프로세서 수출을 제한했습니다.",
@@ -2834,7 +2834,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "AMD, 데이터 센터 시장의 판도를 바꾸다 자신에게 유리하게: AMD는 경쟁력 있는 EPYC CPUs 들을 통해 10년도 안 되어 서버 CPU 시장 점유율을 50%까지 확대함",
@@ -2888,7 +2888,7 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Nvidia, AMD, 중국 칩 판매 매출의 15%를 미국에 납부: 애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다.",
@@ -2902,7 +2902,7 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
@@ -3029,7 +3029,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",

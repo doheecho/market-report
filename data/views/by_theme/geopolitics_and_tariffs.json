@@ -143,7 +143,7 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "관세 면제가 12월 31일로 만료되는 가운데 벤더와 고객들은 연장 여부에 대해 확신하지 못하고 있습니다. 그 결과 고객들은 만일을 대비해 재고를 추가로 사들이고 있습니다. 이에 따라 가격이 주당 4~8% 인상되고 있으며 특히 RTX 3090 블로어 에디션의 상승세가 무섭습니다.",
@@ -156,7 +156,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "수요 증가로 인해 두 제품 모두 가격이 최소 5~7% 상승 했습니다. Tesla의 A100과 H100의 가격이 가장 많이 상승했는데, 이는 주로 ChatGPT와 같은 AI 서비스들이 딥 러닝과 자연어 처리, 컴퓨터 비전을 구현하는 데 이들 부품을 선호하기 때문이었습니다. A100과 H100은 모두 작년에 미국이 중국에 판매되는 기술에 대해 시행한 수출 규제의 영향을 받았습니다. NVIDIA는 이에 대한 해결 방안으로 기능을 축소한 대체 버전 제품을 개발했습니다.",
@@ -171,7 +171,7 @@
   {
     "year": 2023,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "중국에서 최근 발표된 수출 제한으로 전력 반도체 및 고주파 부품 제조에 필요한 기판이 위협을 받고 있습니다.",
@@ -216,7 +216,7 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리, 프로세서, 스토리지 시장은 다양한 수요와 공급 제약으로 인해 큰 변화를 겪고 있습니다. 또한 제조사들은 향후 3년에 걸쳐 단계적으로 시행될 미중 관세로 인해 변화하는 환경에 대비할 준비를 하고 있습니다.",
@@ -230,7 +230,7 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "또한 중국에서 미국으로 제품을 수입하는 기업에 대한 GPU 관세 면제는 5월 31일부로 종료되었습니다. 2025년에 발효될 새로운 관세는 비용 증가로 인해 수요에 영향을 미칠 것으로 예상됩니다. 이러한 변화에 따라 벌써부터 RTX 40 시리즈에 대한 문의가 증가할 것으로 예상됩니다.",
@@ -243,7 +243,7 @@
   {
     "year": 2024,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "GPU의 중요한 역할을 인지한 미국 정부는 그래픽 카드, SSD, 마더보드에 대한 관세 면제를 2025년 5월 31일까지 연장했습니다. 이 면제가 내년에 만료될 경우 GPU 시장에 엄청난 영향을 미칠 것으로 예상되며, NVIDIA와 같은 제조업체는 제품 마케팅 및 유통 방식을 조정할 필요가 있습니다.",
@@ -288,7 +288,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
     "text": "컴퓨트 모듈 시장은 Nvidia Jetson products과 관련 개발 키트에 부과된 관세의 영향을 받고 있습니다. 이러한 관세는 시장 변동을 야기하며, 공급 수준과 수요 역학에 큰 영향을 미치고 있습니다.",
@@ -303,7 +303,7 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품 상품 업데이트",
     "subheading": "",
     "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10-15% 상승한 바 있습니다.",
@@ -319,7 +319,7 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "멕시코, 말레이시아, 베트남에 대한 새로운 관세 도입 가능성이 제기되면서, OEM 및 CM 업체들은 비용 증가를 피하기 위해 자재 조달을 앞당기고 있습니다.",
@@ -332,7 +332,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "관세 이슈는 북미 지역 공급망에 혼선을 초래할 가능성이 있으며, 국경 혼잡과 물류비 상승, 배송 지연을 유발할 수 있다는 우려가 나오고 있습니다.",
@@ -346,7 +346,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "관세 변동성 지속: 최근의 변화에도 불구하고, 상황은 4월 초와 유사한 상태를 유지하고 있습니다. 상호관세 체제는 가격 급등락과 미국 재고에 대한 수요를 유발했으며, 이후 90일간의 유예기간이 시작되었습니다.",
@@ -359,7 +359,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "현재 스마트폰, PC, HDD, SSD, GPU는 임시 면제를 받았으나, 수동소자, 커넥터, PSU는 여전히 10% 관세 적용 대상입니다.",
@@ -372,7 +372,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "90일 유예 종료 전 언제든지 관세가 재도입될 수 있습니다.",
@@ -385,7 +385,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "보다 광범위한 반도체 관세에 대해선 두 가지 가능성 존재:",
@@ -398,7 +398,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "IEEPA: 대통령 권한에 의한 긴급 관세 도입 가능 (규모와 복잡성으로 인해 반도체에는 가능성 낮음)",
@@ -411,7 +411,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "중국은 관세 기준을 원산지뿐 아니라 웨이퍼가 제작된 ‘확산국’까지 확대했습니다.",
@@ -424,7 +424,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "생산 이전: 제조업체들은 중국 관련 관세 부담을 줄이기 위해 생산을 멕시코, 말레이시아, 베트남 또는 자국 내로 이전하고 있습니다.",
@@ -437,7 +437,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "비용 전가: 기업들은 견적서에 관세 항목을 추가하거나 하위 고객에게 가격을 조정하는 방식으로 비용을 반영하고 있습니다.",
@@ -450,7 +450,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Networking",
+    "category": "IC",
     "section_raw": "네트워킹 카드",
     "subheading": "",
     "text": "Broadcom은 원자재 비용 상승과 관세 관련 압박을 이유로 네트워킹 부품 가격을 최대 8% 인상한다고 발표했습니다. 이 인상은 이더넷 컨트롤러 및 광 트랜시버와 같은 제품에 영향을 미칩니다.",
@@ -465,7 +465,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "BMW, 폭스바겐, 스텔란티스를 포함한 유럽 주요 자동차 제조업체들은 EU 집행위원들과 만나, 미국의 수입 자동차에 대한 25% 관세 및 부품에 대한 추가 25% 관세에 대한 우려를 전달했습니다. 이 회의에서는 최대 670억 유로에 달하는 EU 자동차 수출에 영향을 미치는 무역 불확실성과 혼란에 대해 논의했습니다.",
@@ -478,7 +478,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "관세 휴전으로 안도감—하지만 불확실성은 여전: 미중 간 90일간의 관세 유예가 당장의 비용 압박을 완화했지만, 장기적인 위험은 여전합니다. 바이어들은 관세 재개에 대비해 재고 확보에 박차를 가하고 있습니다.",
@@ -491,7 +491,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "관세 회피 위한 공급망 재편: 제조업체들은 멕시코, 말레이시아, 베트남으로의 이전을 가속화하고 있으며, 통관 지연과 원산지 정책 변화로 글로벌 소싱이 더욱 복잡해지고 있습니다.",
@@ -504,7 +504,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "미중 관세 휴전 개시: 2025년 5월 12일, 미국과 중국은 90일간의 관세 감축 기간에 합의했습니다. 5월 14일부터 미국은 중국산 제품에 대한 관세를 145%에서 30%로, 중국은 미국산 제품에 대한 관세를 125%에서 10%로 인하했습니다.",
@@ -517,7 +517,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "\"De Minimis\" 면세 기준 변경: 미국은 중국산 저가 소포(800달러 미만)에 적용되는 면세 기준을 변경했습니다. 해당 소포에 대한 관세율은 120%에서 54%로 인하되었고, 소포당 고정 요금 인상 계획(100달러에서 200달러로)은 철회되었습니다.",
@@ -530,7 +530,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "AI 칩 수출 규제 개편 발표: 미국 정부는 5월 15일부터 시행 예정이던 AI 칩 수출 규제를 수정할 계획을 발표했습니다. 이는 국가 안보와 미국의 혁신 보호 사이의 균형을 맞추기 위함입니다.",
@@ -543,7 +543,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "트럼프 행정부는 90일 유예 종료 전에 언제든지 관세를 재도입할 수 있습니다.",
@@ -556,7 +556,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "당장의 관세 부담은 줄었지만, 중국의 \"확산국(Country of Diffusion)\" 정책은 장기적인 공급망 전략에 중대한 변수로 남아 있습니다. 미국 내 IDM 팹들은 최종 조립이 해외에서 이루어지더라도 웨이퍼 제조 위치가 미치는 영향을 여전히 고려해야 하며, 90일 관세 유예 종료 이후의 관세 조정 가능성이 불확실하기 때문입니다.",
@@ -569,7 +569,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "고객들은 90일 유예 기간 동안 전략적 비축(Strategic Stockpiling)을 통해 DRAM, CPU 등 주요 부품의 버퍼 재고를 확보하려 할 수 있으며, 이는 관세 재개 또는 유예 종료 이후 발생할 수 있는 추가 혼란에 대비하기 위한 조치입니다.",
@@ -582,7 +582,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등: 미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
@@ -598,7 +598,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "SMIC, 미국 제재로 인한 생산 차질 직면: 중국의 대표 반도체 제조업체인 SMIC는 장비 유지보수 및 신규 장비 설치 과정에서 심각한 생산 지연을 겪고 있습니다.",
@@ -611,7 +611,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "미국, AI 칩 수출 규제 개편 발표: 미국 정부는 5월 15일부터 시행 예정이던 AI 칩에 대한 수출 규제를 개편하겠다고 발표했으며, 이는 국가 안보와 혁신 간 균형을 맞추기 위한 조치입니다.",
@@ -624,7 +624,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "말레이시아 반도체 산업, 관세 불확실성 직면: 전문가들에 따르면, 세계적인 반도체 수출국인 말레이시아의 반도체 산업은 미국의 관세 재도입 가능성과 지역 내 경쟁 심화로 인해 압박을 받고 있습니다. 현재는 90일간의 관세 유예 조치가 시행 중이지만, 장기적인 투자에 미칠 영향에 대한 우려는 여전히 존재합니다.",
@@ -637,7 +637,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Networking",
+    "category": "IC",
     "section_raw": "네트워킹",
     "subheading": "",
     "text": "미국 정부의 H20 중국 수출 제한으로 인해 1차 기술업체들의 NIC 백로그 감축 중. 오픈 마켓은 여전히 공급 격차와 부족 현상 지속, 가격은 상승세 유지",
@@ -651,7 +651,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Nvidia는 수출 규제를 준수하는 중국 전용 AI 칩을 개발 중인 것으로 알려짐: H20 칩의 중국 수출 금지 이후, Nvidia는 B30으로 불리는 Blackwell 기반 대체 제품을 설계 중이며, multi-GPU 확장 기능을 갖춤",
@@ -666,7 +666,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "미국, 중국산 GPU 관세 면제 8월 31일까지 연장: 미국무역대표부(USTR)는 GPU, 메인보드, 태양광 패널 등 칩 및 반도체가 포함된 부품에 대한 25% 관세(섹션 301 조항) 부과를 향후 3개월간 유예한다고 발표함",
@@ -679,7 +679,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "6월 9일 런던 회담에서 새로운 기본 협정이 체결되었습니다. 미국은 이제 중국산 수입품에 대해 총 55%의 관세를 부과할 예정이며, 이는 25%의 1차 관세, 20%의 ‘펜타닐’ 부과금, 10%의 상호주의 관세로 구성됨",
@@ -692,7 +692,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "미 상무부는 미국 공급망을 보호하기 위해 반도체 및 반도체 장비를 대상으로 한 232조 조사를 시작했으며, 향후 1년 내 관세가 25% 이상까지 오를 수 있음",
@@ -705,7 +705,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "관세 업데이트",
     "subheading": "",
     "text": "관세는 현재 유예 상태입니다 (미국 30% / 중국 10%), 하지만 8월 12일 마감일이 다가오면서 업계 내 회의론이 커지고 있음",
@@ -718,7 +718,7 @@
   {
     "year": 2025,
     "month": 8,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "100% 관세로 인한 공급망 재편: 미국의 아시아 반도체 관세로 인해 글로벌 공급망이 붕괴될 수 있으며, 주요 칩 제조업체들은 막대한 비용을 피하기 위해 미국으로 생산을 이전할 가능성이 있습니다.",
@@ -750,7 +750,7 @@
   {
     "year": 2025,
     "month": 10,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "중국의 희토류 수출 규제로 공급망 비상: 전 세계 반도체 공급망에 있는 기업들은 무역 전쟁 격화로 인한 혼란에 대비하고 있다. 중국이 희토류 광물 수출을 제한하면서, 세계에서 가장 첨단 반도체를 만드는 장비를 유일하게 생산하는 ASML 홀딩 NV의 출하도 수주일 지연될 수 있다.",
@@ -763,7 +763,7 @@
   {
     "year": 2025,
     "month": 10,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "지정학적 리쇼어링 가속화: 관세와 공급망 취약성의 결합으로 지역 제조에 대한 투자가 가속화되고 있다. 기업들은 2029년까지 ‘중국/대만 제로’ 반도체 공급망을 목표로 계획을 적극 추진하면서 리쇼어링 이니셔티브를 주도하고 있다.",
@@ -776,7 +776,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
@@ -792,7 +792,7 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "3. Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
@@ -811,7 +811,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "4. EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화: EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
@@ -845,7 +845,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "5. 지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",

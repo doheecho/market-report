@@ -64,7 +64,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "1. 대만 메모리 반도체 업체 Winbond가 NOR Flash 제품을 통해 NVIDIA의 차세대 Vera Rubin 플랫폼 공급망에 진입한 것으로 알려졌으며, 대량 출하는 올해 하반기부터 시작될 것으로 예상된다. [출처: FinanceBigGo]",
@@ -78,7 +78,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "RDIMM",
+    "category": "Memory",
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "subheading": "",
     "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",

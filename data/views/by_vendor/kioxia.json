@@ -48,7 +48,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "생산을 양호하게 유지하기 위해 Kioxia 및 Micron과 같은 제조업체는 생산량을 줄이고 있으며 웨이퍼 생산 축소를 발표했습니다. 이러한 축소가 시장에 균형을 가져오기에 충분할 것인지는 확실하지 않습니다. 최근, 제조 라인에 들어간 웨이퍼는 약 4분의 1에 대해서는 공정이 유지될 것이므로 축소 효과가 영향을 미치려면 어느 정도 시간이 걸릴 것입니다.",
@@ -64,7 +64,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
@@ -111,7 +111,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "메모리 공급난 전망, 2027년까지 장기화: 주요 OEM 및 엔터프라이즈 고객들은 이제 DRAM/NAND 공급난이 기존 예상, 2026년이 아니라 2028년까지 장기화될 것으로 전망하고 있습니다. 삼성, SK하이닉스, 키옥시아는 이미 2026년 NAND 생산능력이 전량 판매 완료된 것으로 전해지며, 하이퍼스케일러들과 2027년 물량 배정을 협의 중입니다.",
@@ -128,7 +128,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20-70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1-2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
@@ -164,7 +164,7 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
@@ -184,7 +184,7 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. 키옥시아 NAND 플래시 EOL 공지: 키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
@@ -199,7 +199,7 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "1. 메모리 반도체 업체 Kioxia Holdings는 Toyota Motor를 제치고 시가총액 기준 일본 최대 기업으로 올라섰다. 이는 글로벌 인공지능 붐이 일본 기업 지형을 어떻게 재편하고 있는지를 보여준다.",
@@ -212,7 +212,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
@@ -231,7 +231,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "RDIMM",
+    "category": "Memory",
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "subheading": "",
     "text": "Solidigm, Samsung, Kioxia는 3분기 20~50% 가격 인상을 시행하고 있다. Solidigm D3/S4520 SATA 시리즈는 단종(EOL) 통보에 직면했으며, 마이크론은 올해 남은 기간 동안 모든 산업용 SSD 출하를 중단했다.",
@@ -250,7 +250,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "2. 비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",

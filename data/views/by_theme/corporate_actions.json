@@ -253,7 +253,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "Analog Devices는 Maxim과의 합병 과정을 거의 마쳤습니다. 올해, Maxim을 취급하는 벤더들은 Maxim 자동차급 부품으로 사업을 확대할 것으로 예상됩니다.",
@@ -268,7 +268,7 @@
   {
     "year": 2023,
     "month": 2,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "생산을 양호하게 유지하기 위해 Kioxia 및 Micron과 같은 제조업체는 생산량을 줄이고 있으며 웨이퍼 생산 축소를 발표했습니다. 이러한 축소가 시장에 균형을 가져오기에 충분할 것인지는 확실하지 않습니다. 최근, 제조 라인에 들어간 웨이퍼는 약 4분의 1에 대해서는 공정이 유지될 것이므로 축소 효과가 영향을 미치려면 어느 정도 시간이 걸릴 것입니다.",
@@ -284,7 +284,7 @@
   {
     "year": 2023,
     "month": 3,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "최근 발표된 공지에 따르면 2023년에 Analog Devices의 제품 리드 타임이 단축될 것으로 예상됩니다. 현재 동사 포트폴리오의 절반은 리드 타임이 13주 미만입니다. 이러한 회복은 부분적으로 AD7/8xxx 시리즈와 같이 수요가 적은 Linear Tech 품목의 생산 감축과 같은 전략적 제조 감축에 기인합니다. 가장 최근 분기 실적 보고서에서 Analog Devices는 공급 문제를 해결하기 위한 전략으로 내부 생산량 증가와 파운드리 파트너와의 긴밀한 협력에 초점을 맞추고 있음을 분명히 했습니다.",
@@ -315,7 +315,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "다른 업체들은 공급 과잉을 해결하기 위해 감산을 유지하고 있지만, SK Hynix는 자사의 전략이 SSD 및 HDD 시장의 회복 전망에 더 잘 부합할 것이라고 밝히고 있습니다.",
@@ -343,7 +343,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
@@ -359,7 +359,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "단종 부품(EOL) 소식으로는 Intel이 SSD 시리즈 S4510 및 S4610의 최종 주문을 출하했습니다. 이는 일반적으로 가격 상승을 야기하지만, 고객들은 이미 대체 시리즈를 찾았습니다. Intel의 SSD 사업을 인수한 Solidigm은 Intel의 단종된 SSD에 대한 고객 지원 옵션을 제공하고 있지만 수요가 많지 않습니다. 이러한 수요 추세가 지속될 경우, 특히 S4510의 경우 시장 가격이 계속 하락할 것이라는 예측이 나오고 있습니다.",
@@ -377,7 +377,7 @@
   {
     "year": 2023,
     "month": 5,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "DDR5에 영향을 미치는 공급 부족에도 불구하고, 삼성은 1분기 영업이익이 무려 95.8%나 급감하자 4월 7일 신규 감산을 발표했습니다. 이 발표는 중국이 Micron에 대한 보안 조사를 시작한 것과 맞물려 메모리 시장 전반에 걸쳐 엇갈린 반응을 불러일으켰습니다. 삼성과 SK Hynix 모듈의 가격 하락세는 이후 둔화되었습니다. 벤더들은 이것이 메모리 시장 수요에 절실히 필요한 재충전의 기회가 되기를 희망하고 있습니다.",
@@ -396,7 +396,7 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "240GB~480GB와 같은 저용량 SSD는 수요가 약세를 보이면서 가격이 바닥을 치고 있습니다. 어려운 시장 상황과 수익 마진 감소로 인해 제조업체들은 저용량 SSD 및 모든 HDD 라인의 생산량을 줄이기로 결정했습니다. Seagate는 이미 감산을 시작했으며 인력도 감축하고 있습니다.",
@@ -411,7 +411,7 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "공급업체들은 고용량 및 기업용 HDD가 문의와 주문에 있어 유일하게 각광받는 부분이라는 점을 인정합니다. 그러나 공급 상태는 양호한 편이며 감산이 이러한 제품에 미치는 영향은 거의 없을 것입니다. 또한 2021년 10월에 판매 종료(EOL) 통지를 한 Intel의 S4510 시리즈도 공급이 감소했습니다. 제조업체는 EOL 시리즈가 완전히 단종되기 전에 유통업체와 최종 고객에게 공급을 보장하기 위해 지금 S4520으로 전환할 것을 권장합니다.",
@@ -427,7 +427,7 @@
   {
     "year": 2023,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "제조업체들이 감산을 단행한 이후로 지난 한 달 동안 RDIMM 시장 내 활동이 증가했습니다. 이러한 전략으로 인해 특정 고가 제품에 대한 주문이 증가하여 일시적으로 가격이 상승했지만, 초기 급등 이후 현재는 가격이 안정화되고 있습니다.",
@@ -455,7 +455,7 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "지난 몇 달간 시장이 침체한 상황이어서 SSD 공급 상태는 아직 양호합니다. SSD 제조업체는 결과적으로 과잉되지 않고 안정적인 재고 수준을 보장할 수 있도록 감산 및 공급 조절을 실시하고 있습니다. 오픈 마켓 공급이 줄어들면 SSD 가격을 회복할 것으로 기대하지만, 이를 위해서는 상당한 수요 회복이 필요합니다.",
@@ -468,7 +468,7 @@
   {
     "year": 2023,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "MiTAC은 Intel 서버 사업 인수로 인해 공급 차질이 발생해 추후 안내 시까지 리드 타임이 지연되는 것으로 알려졌습니다. 생산 능력을 회복할 때까지 신규 주문을 받을 수 없습니다.",
@@ -484,7 +484,7 @@
   {
     "year": 2023,
     "month": 8,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "오픈 마켓의 재고 수준은 일반적으로 여전히 높으며, 비용이 공식 제조업체의 가격보다 낮습니다. 다만 상황이 바뀔 가능성은 있습니다. 공급 및 수요 주기에 대한 이해를 바탕으로 볼 때 1분기부터 2분기까지 채택된 생산량 감소 전략이 시장에 영향을 미치는 데는 약 6개월이 걸릴 것으로 예상됩니다. AI 산업으로 인해 수요가 회복되면서 이러한 감산 효과가 나타나기 시작할 수 있습니다.",
@@ -497,7 +497,7 @@
   {
     "year": 2023,
     "month": 9,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "지속적인 하락세를 보이던 메모리 모듈 가격은 현재 수급 불균형이 전환되며 안정화되기 시작했습니다. 유의미한 비용 상승은 다소 시간이 걸릴 것입니다. 단 제조업체가 DRAM을 감산하는 경우 이 과정이 가속화될 수 있습니다. 오픈 마켓에서 공급이 감소하면 가격이 상승하므로 수요가 가용성을 초과하게 됩니다.",
@@ -510,7 +510,7 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "HDD 시장의 정체가 제조업체의 감산 시행과 가격 인상을 유발하고 있습니다.",
@@ -524,7 +524,7 @@
   {
     "year": 2023,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "일 년간의 시장 둔화로 제조업체는 수익 회복을 위해 가격을 인상하며 유통업체 및 최종 고객에 대한 SSD 할당을 대폭 줄였습니다. 지난 몇 분기 동안 정체된 수요에 따라 고객은 보수적인 예측치를 제출했으나 할당 및 생산 감축으로 예상치 못한 수요 증가가 발생하면서 SSD 시장 상황이 급격하게 반전되었습니다.",
@@ -568,7 +568,7 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "HDD 공급은 감산으로 인해 극도로 제한되어 가격이 상승하고 있으며, SSD 공급은 안정적으로 유지되고 있지만 비용이 상승하고 있습니다.",
@@ -581,7 +581,7 @@
   {
     "year": 2024,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "완제품",
     "subheading": "",
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
@@ -628,7 +628,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "IC",
+    "category": "CPU",
     "section_raw": "메인보드 Supermicro 전략 조정",
     "subheading": "",
     "text": "4800 속도의 RDIMM 모듈에 대한 관심은 점점 줄어들고 있으며, 단종(EOL) 공지가 나온 상태입니다. 반면, 96GB 및 128GB의 고용량 모듈은 예측 상향 또는 감산에 따라 수요가 계속 증가하고 있습니다.",
@@ -642,7 +642,7 @@
   {
     "year": 2025,
     "month": 3,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Onsemi는 Allegro MicroSystems를 69억 달러에 인수 제안했으며, 이 인수는 시장 침체 속에서 새로운 수익원을 확보하기 위한 전략으로 해석됩니다.",
@@ -657,7 +657,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
@@ -672,7 +672,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "GlobalFoundries, 미국 내 반도체 생산 확대를 위해 160억 달러 투자 계획 발표: 미국 최대 파운드리인 GlobalFoundries는 Apple 및 Qualcomm과 같은 현지 고객의 미충족 수요 대응을 위해 해당 결정을 발표",
@@ -685,7 +685,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
@@ -715,7 +715,7 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "Skyworks, Qorvo 합병 추진: 주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
@@ -730,7 +730,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "TSMC, 엔비디아와 CoWoS 생산능력 확대: 반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
@@ -746,7 +746,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "GlobalFoundries 및 Renesas Electronics Corporation은 반도체 공급망 강화와 복수 지역 생산 능력 확대를 목표로 수십억 달러 규모의 제조 계약을 체결하며 전략적 협력을 확대한다고 밝혔습니다. [출처: GF]",
@@ -761,7 +761,7 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "Texas Instruments는 Silicon Labs 인수 계약을 발표했으며, 거래는 2027년 상반기 중 완료될 예정입니다. 본 인수는 제조 리쇼어링을 목표로 하나, 향후 24개월간 양사 고객에게 공급 차질 및 통합 리스크가 발생할 가능성이 있습니다. [출처: TI]",
@@ -811,7 +811,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "Infineon, Texas Instruments, STMicroelectronics 등을 포함한 약 20개 글로벌 반도체 업체는 7월 1일부터 전력 반도체에 대한 추가 가격 인상을 시행했다. 이는 일부 AI 서버 부품에서 최대 85%에 달했던 기존 가격 인상에 더해진 것이다. Infineon은 AI 데이터센터 수요가 예상을 크게 초과하고 있다고 밝혔으며, 생산 능력 확대를 가속화하기 위해 추가로 5억 유로를 투자하기로 했다. [출처: BigGo Finance]",
@@ -829,7 +829,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",

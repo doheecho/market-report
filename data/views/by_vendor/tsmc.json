@@ -2,7 +2,7 @@
   {
     "year": 2020,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "1 전반적 소식 (General News)",
     "subheading": "",
     "text": "이에 대응하여 자동차 제조업체들은 생산력에 박차를 가했으며 이에 4분기에 생산량 증대를 예상하고 있습니다. 이에 따라 주로 자동차에서 에너지 보존 목적으로 사용되는 전력 MOSFET의 수요가 더욱 늘어나게 될 것입니다. 8인치 웨이퍼의 생산능력 부족(UMC, TSMC, SMIC)으로 인해 전력 MOSFET의 가격은 이미 높아졌습니다.",
@@ -467,7 +467,7 @@
   {
     "year": 2025,
     "month": 2,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "TSMC는 2025년 초 10nm 이하 공정의 가격을 4~10% 인상할 계획이며, 이는 모바일 프로세서, HPC 및 AI 애플리케이션에 영향을 미칠 것입니다.",
@@ -506,7 +506,7 @@
   {
     "year": 2025,
     "month": 4,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조사 뉴스 및 기업 업데이트",
     "subheading": "",
     "text": "TSMC는 미국 내 고급 반도체 제조에 1,000억 달러를 추가 투자할 계획이며, 이에는 세 곳의 신규 팹, 두 곳의 고급 패키징 시설, 그리고 하나의 연구개발 센터가 포함됩니다.",
@@ -519,7 +519,7 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "",
     "text": "TSMC, 미국 공장에서 생산 개시: TSMC는 애리조나 공장에서 4nm 칩의 초기 양산을 공식적으로 시작했으며, 이는 미국 내 반도체 제조 확대의 중요한 이정표입니다.",
@@ -532,7 +532,7 @@
   {
     "year": 2025,
     "month": 6,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "TSMC의 엔터프라이즈 수요, 기타 다양한 칩 제조 분야에도 영향 확대: TSMC의 CoWoS 칩 생산 재료 수요가 급증하면서 메모리 시장까지 자재 부족 현상이 확산",
@@ -547,7 +547,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
@@ -598,7 +598,7 @@
   {
     "year": 2025,
     "month": 12,
-    "category": "Logistics & Supply Chain",
+    "category": "기타",
     "section_raw": "공급망 동향",
     "subheading": "",
     "text": "TSMC, 엔비디아와 CoWoS 생산능력 확대: 반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
@@ -630,7 +630,7 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "TSMC, 매출 약 30% 성장 전망: TSMC는 2026년 1월 15일 실적 콘퍼런스 콜을 개최하고 1분기 가이던스를 제시했습니다. 회사는 매출이 미화 346억~358억 달러 범위가 될 것으로 예상합니다. 매출총이익률은 63~65%로 전망되며, 영업이익률은 54~56%로 크게 상승할 것으로 예상됩니다. [소스: 시킹알파]",
@@ -676,7 +676,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Other",
+    "category": "기타",
     "section_raw": "Intro",
     "subheading": "",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
@@ -714,7 +714,7 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
@@ -730,7 +730,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Networking",
+    "category": "IC",
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
     "subheading": "",
     "text": "1. Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다.",
@@ -747,7 +747,7 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Corporate",
+    "category": "기타",
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
     "text": "2. TSMC, 2027년 가격 인상 경고: TSMC는 주요 클라우드 및 네트워킹 고객에게 2027년 웨이퍼 가격을 전 품목에 걸쳐 10% 인상할 예정이라고 통보한 것으로 알려졌습니다. 이는 기반 IC 및 패키징 비용의 상승세가 당분간 지속될 것임을 시사합니다. [출처: CNA]",
