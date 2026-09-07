@@ -399,7 +399,9 @@
     "section_raw": "자동차 칩 공급 개선에 힘쓰는 NXP",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -1280,7 +1282,9 @@
     "section_raw": "NXP 자동차 부품 공급 부족의 지속으로 추가 가격 인상 발생",
     "subheading": "",
     "text": "NXP는 자동차 부품 가격을 20% 인상했습니다. 2022년 6월까지 또 다른 30%의 가격 인상이 시행될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -2336,7 +2340,7 @@
     "text": "단종 부품(EOL) 소식으로는 Intel이 SSD 시리즈 S4510 및 S4610의 최종 주문을 출하했습니다. 이는 일반적으로 가격 상승을 야기하지만, 고객들은 이미 대체 시리즈를 찾았습니다. Intel의 SSD 사업을 인수한 Solidigm은 Intel의 단종된 SSD에 대한 고객 지원 옵션을 제공하고 있지만 수요가 많지 않습니다. 이러한 수요 추세가 지속될 경우, 특히 S4510의 경우 시장 가격이 계속 하락할 것이라는 예측이 나오고 있습니다.",
     "detected_vendors": [
       "Intel",
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "EOL",
@@ -2681,7 +2685,9 @@
     "section_raw": "IC",
     "subheading": "ARM MCU 시리즈에 대해 최대 170주까지 연장된 NXP 리드 타임",
     "text": "또한 NXP는 최종 고객에게 10%~20% 범위 내에서 MCIMX6 시리즈에 대한 공식 가격 인상 공지를 보냈습니다. 이 시리즈의 리드 타임은 다양하지만, 소비자 응용 분야의 일부 MPN은 37주에서 50주 사이입니다. 산업용 응용 분야의 MPN은 최대 57주의 리드 타임을 보고했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -3062,7 +3068,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "NXP, 고객에게  신제품 전환 장려",
     "text": "시황 자료에 따르면 NXP는 iMX6 MCU에 관한 공지를 발표했습니다. 해당 공지에서 고객에게 계약 가격 인상을 알리면서 최신 버전으로 전환하도록 권장한 것으로 알려졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -3373,7 +3381,7 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -3647,7 +3655,9 @@
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -4243,7 +4253,7 @@
     "subheading": "",
     "text": "Solidigm 및 SanDisk는 수요 증가로 NAND Flash 제품의 가격 인상을 발표할 예정입니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -4317,7 +4327,7 @@
     "text": "고용량 엔터프라이즈 SSDs(15TB, 30TB)에 대한 수요가 증가하면서 고객들이 제약 상태의 대용량 HDD 대체재를 찾고 있습니다. Kioxia 및 Solidigm도 4분기 가격 인상을 예고하고 있습니다.",
     "detected_vendors": [
       "Kioxia",
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -4493,7 +4503,7 @@
     "subheading": "",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -4748,8 +4758,8 @@
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -5303,7 +5313,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 공급은 더욱 제한되고 있으며, 할당 물량의 대부분이 중국으로 배정되고 있습니다. 고객들은 오픈마켓에서 가용 재고를 확보하려는 움직임이 나타나고 있으며, 이는 가격 상승세를 견인하고 있습니다. SATA SSD(Solidigm D3-S4520/S4620)는 단종(EOL) 공지가 발표되었으며, 최종 주문일은 2026년 9월 30일입니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Allocation",
@@ -5402,8 +5412,8 @@
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -5521,7 +5531,7 @@
     "subheading": "",
     "text": "Solidigm D3-S4520/S4620 SATA SSD는 2026년 9월 30일을 최종 주문일로 하는 단종(EOL) 통보를 받은 상태이다. 고객들은 오픈마켓 재고 확보에 나서고 있으며, 이는 가격 상승세로 이어지고 있다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "EOL",
@@ -5847,7 +5857,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "NXP는 2026년 8월 1일부터 적용되는 가격 인상을 발표했으며, 주요 대상은 자동차 및 산업용 MCU 제품군이다(5~15% 인상). 리드타임은 두 배 수준인 26~52주까지 늘어나고 있으며, 일부 고수요 제품은 최대 99주의 납기 지연에 직면하고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -5886,7 +5898,7 @@
     "detected_vendors": [
       "Kioxia",
       "Micron",
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [

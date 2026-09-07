@@ -768,7 +768,8 @@
     {
       "date": "2022.04",
       "detected_vendors": [
-        "Microchip"
+        "Microchip",
+        "Nexperia"
       ],
       "risk_level": "High",
       "summary": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다.",
@@ -973,7 +974,7 @@
       "date": "2022.12",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다.",
@@ -1260,7 +1261,7 @@
     {
       "date": "2023.11",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "분기 시작과 함께 DRAM 및 NAND 가격 상승 추세",
@@ -1676,7 +1677,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -2350,7 +2351,7 @@
     {
       "date": "2025.09",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Medium",
       "summary": "Solidigm 및 SanDisk는 수요 증가로 NAND Flash 제품의 가격 인상을 발표할 예정입니다.",
@@ -2477,7 +2478,7 @@
     {
       "date": "2025.11",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Medium",

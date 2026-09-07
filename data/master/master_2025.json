@@ -589,7 +589,9 @@
     "section_raw": "집적 회로 시장 변화 동향",
     "subheading": "",
     "text": "NXP의 MPC8 시리즈 수요는 전반적인 시장 변동에도 불구하고 네트워킹 분야에서 꾸준히 증가 중입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1476,7 +1478,9 @@
     "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
     "subheading": "",
     "text": "NXP는 Tier 1 자동차 고객의 재고 수준에 대해 조심스러운 입장을 유지하고 있으며, 과잉 재고가 언제 해소될지는 확실하지 않다고 밝혔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1822,7 +1826,9 @@
     "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
     "subheading": "",
     "text": "NXP는 자동차 소프트웨어 정의 차량(SDV) 및 레이더 분야에서는 강점을 보이고 있지만, Tier 1 고객사들의 재고 조정이 지속되고 있어 2025년 전망은 중립적이라고 밝혔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5296,7 +5302,7 @@
     "subheading": "",
     "text": "Solidigm 및 SanDisk는 수요 증가로 NAND Flash 제품의 가격 인상을 발표할 예정입니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -5385,7 +5391,7 @@
     "text": "고용량 엔터프라이즈 SSDs(15TB, 30TB)에 대한 수요가 증가하면서 고객들이 제약 상태의 대용량 HDD 대체재를 찾고 있습니다. Kioxia 및 Solidigm도 4분기 가격 인상을 예고하고 있습니다.",
     "detected_vendors": [
       "Kioxia",
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -5611,7 +5617,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "",
     "text": "NXP가 RF 제품 가격을 평균 300% 인상하는 것으로 전해져, 백로그에 영향을 미치고 고객들로 하여금 재견적을 강요하고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5905,7 +5913,7 @@
     "subheading": "",
     "text": "Solidigm 엔터프라이즈 SSDs의 평균 리드타임은 6~8주이며, 미국 지역의 QLC 관련 요인과 보드 수준 자재 부족으로 수요가 높은 일부 SKUs는 10주를 넘어선다. Solidigm 공식 가격은 10~15% 인상될 예정이며, 전반적인 수요 증가로 공급은 이전보다 크게 감소할 전망이다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -6230,7 +6238,7 @@
     "subheading": "",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -6544,7 +6552,7 @@
     "subheading": "",
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [

@@ -193,7 +193,9 @@
     "section_raw": "NXP 자동차 부품, 2021년에 회복되지 않을 수도",
     "subheading": "",
     "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",

@@ -891,7 +891,9 @@
     "section_raw": "MCU, 자동차 수요로 인해 비용 및 리드 타임 상승에 직면",
     "subheading": "",
     "text": "또한, 유통업체들은 표준 리드 타임이 전반적으로 30주 이상으로 늘고 있는 점에 이미 주목하고 있습니다. 예를 들어, STMIC의 32비트 MCU(ST32 시리즈)는 2020년 3분기 이후로 리드 타임 연장 문제를 겪었습니다. 게다가, 16비트 및 32비트 MCU의 공급이 2020년 4분기에 자동차 수요의 증가로 인해 악화되었습니다. 마지막으로, MCU 공급 문제는 NXP의 MC56F8, MC9S08, MCF5, MCIMX6, FS32K 및 SPC56 시리즈를 포함한 더 많은 브랜드와 시리즈에 영향을 미치고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1164,7 +1166,9 @@
     "section_raw": "자동차 칩 공급 개선에 힘쓰는 NXP",
     "subheading": "",
     "text": "자동차 수요의 급증을 뒷받침하기 위해, NXP는 공급의 상황을 호전시키기 위해 산업 생산 라인을 자동차 부품에 집중하는 방향으로 전환했습니다. 하지만 단기적으로는 일부 시리즈에서 산업용 MCU가 리드 타임 연장 문제에 직면하고 있습니다. MKExxxx, MKLxxxx, LPCxxx가 가장 큰 영향을 받고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1180,7 +1184,9 @@
     "section_raw": "자동차 칩 공급 개선에 힘쓰는 NXP",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -1610,7 +1616,9 @@
     "section_raw": "NXP 자동차 부품, 2021년에 회복되지 않을 수도",
     "subheading": "",
     "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -1628,7 +1636,9 @@
     "section_raw": "NXP 자동차 부품, 2021년에 회복되지 않을 수도",
     "subheading": "",
     "text": "예를 들어 MKxxxx 시리즈의 리드 타임은 52주입니다. 2분기와 3분기에는 생산 및 납품 상황이 개선될 것으로 예상되지만, NXP의 자동차 부품 리드 타임은 2021년 남은 기간 동안 계속 길어 질 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3920,7 +3930,8 @@
     "subheading": "",
     "text": "EEPROM 프로그래밍 가능 메모리 부품의 공급 부족이 트랜시버 생산에 영향을 미치고 있습니다. 중국 시장에서 트랜시버에 대한 수요가 급증했지만, 제한적인 원자재, 인력 부족 및 충분하지 못한 EEPROM 생산량으로 인해 배송이 지연되고 있습니다. EEPROM 제조업체인 Microchip, STMicro과 NXP의 리드 타임이 52주에 달하며 공급 격차가 예상됩니다.",
     "detected_vendors": [
-      "Microchip"
+      "Microchip",
+      "Nexperia"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4358,7 +4369,7 @@
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
       "Micron",
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -4458,6 +4469,7 @@
     "text": "자동차 등급 부품, 특히 리드 타임이 50주가 넘는 IGBT 부품에 대한 수요가 가장 많습니다. 글로벌 증폭기 시장의 주요 기업으로는 Texas Instruments, STMicro, onsemi, API Manufacturing, Analog Devices, NXP가 있습니다.",
     "detected_vendors": [
       "Analog Devices",
+      "Nexperia",
       "Onsemi",
       "Texas Instruments"
     ],
@@ -4582,7 +4594,9 @@
     "section_raw": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "subheading": "",
     "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -4710,6 +4724,7 @@
     "subheading": "",
     "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다.",
     "detected_vendors": [
+      "Nexperia",
       "TSMC"
     ],
     "detected_keywords": [
@@ -4852,7 +4867,9 @@
     "section_raw": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "subheading": "",
     "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -5522,7 +5539,7 @@
     "text": "Intel은 지난해 Intel과 Solidigm 간의 시스템 변경에 어려움을 겪었으며 이로 인해 SSD 제품의 리드 타임이 길어졌습니다. 그 이후에는 P4510 및 S4610의 가용성에서 알 수 있듯이 수요 약화와 공급 증가가 함께 나타났습니다. 지난해에 이 두 시리즈에 대한 단종 부품(EOL) 공지가 발표되었음에도, 고객들이 제품에 거의 관심을 보이지 않았기 때문에 유통업체들은 제조업자에 여전히 주문을 할 수 있습니다.",
     "detected_vendors": [
       "Intel",
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "EOL",
@@ -5953,7 +5970,9 @@
     "section_raw": "IC",
     "subheading": "자동차 집적 회로에 대한 수요 및 리드 타임 증가",
     "text": "NXP는 자동차용 시리즈에서도 비슷한 제약을 겪고 있습니다. MCIMxx 시리즈의 리드 타임은 불안정하며 최대 70주까지 늘어납니다. 반면, 자동차용 MCU 시리즈인 FSxxx는 최소 52주입니다. 심각한 공급 부족에 직면한 S9x 시리즈의 가격도 상승하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -6559,7 +6578,9 @@
     "section_raw": "IC",
     "subheading": "NXP의 생산 전환에 따라 MCU 공급 부족 지속 전망",
     "text": "NXP에서 공급하는 MCU는 지속적인 공급 부족을 겪고 있으며 MCIMX6 시리즈는 99주를 초과하는 리드 타임으로 2023년을 시작했습니다. 공급은 개선되지 않았으며 MCIMX6 시리즈의 가격은 10%에서 15%까지 인상되었습니다. NXP에서는 MCIMX8 시리즈를 지원하기 위해 생산 능력 및 라인업을 전환하고 있어 공급 부족은 계속될 전망입니다. MCIMX6의 리드 타임은 단축되고 있으나 여전히 87주 내외입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -6576,7 +6597,9 @@
     "section_raw": "IC",
     "subheading": "NXP의 생산 전환에 따라 MCU 공급 부족 지속 전망",
     "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Allocation"
     ],
@@ -6902,7 +6925,9 @@
     "section_raw": "IC",
     "subheading": "ARM MCU 시리즈에 대해 최대 170주까지 연장된 NXP 리드 타임",
     "text": "리드 타임이 길면 NXP의 S32K1 시리즈 ARM MCU의 특정 MPN에 영향을 미칩니다. 가장 짧은 리드 타임은 52주이며, 제약이 많은 시리즈는 170주까지 늘어납니다. 이는 배송이 지연되고 제조업체의 할당량이 제한적이었던 FS32K144 및 FS32K146의 시장 가격이 눈에 띄게 상승한 데 따른 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -6919,7 +6944,9 @@
     "section_raw": "IC",
     "subheading": "ARM MCU 시리즈에 대해 최대 170주까지 연장된 NXP 리드 타임",
     "text": "또한 NXP는 최종 고객에게 10%~20% 범위 내에서 MCIMX6 시리즈에 대한 공식 가격 인상 공지를 보냈습니다. 이 시리즈의 리드 타임은 다양하지만, 소비자 응용 분야의 일부 MPN은 37주에서 50주 사이입니다. 산업용 응용 분야의 MPN은 최대 57주의 리드 타임을 보고했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -7810,7 +7837,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "MCU 가격 변동 및 리드 타임을 겪는 NXP 고객들",
     "text": "NXP에서는 2024년 초부터 MCU 제품 가격을 꾸준히 조정해 왔습니다. 수차례의 협상 끝에 대부분의 최종 고객이 새로운 계약 가격을 제시받았습니다. 지금까지 수요가 많았던 FS32 MCU의 경우 리드 타임이 안정되어 시장 공급이 원활하게 이루어집니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -7826,7 +7855,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "MCU 가격 변동 및 리드 타임을 겪는 NXP 고객들",
     "text": "노후화된 IMX6 모델 MCU의 경우 계약 가격에 대한 비용이 조정되면서 리드 타임이 늘어났습니다. NXP가 점차 최신 제품 생산에 주력하면서 해당 시리즈의 공급이 제한적입니다. IMX8 시리즈는 새로운 핵심 모델이자 표준 선택으로 자리매김할 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -10266,7 +10297,7 @@
     "subheading": "",
     "text": "Solidigm 엔터프라이즈 SSDs의 평균 리드타임은 6~8주이며, 미국 지역의 QLC 관련 요인과 보드 수준 자재 부족으로 수요가 높은 일부 SKUs는 10주를 넘어선다. Solidigm 공식 가격은 10~15% 인상될 예정이며, 전반적인 수요 증가로 공급은 이전보다 크게 감소할 전망이다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -10398,7 +10429,7 @@
     "subheading": "",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -10621,7 +10652,7 @@
     "subheading": "",
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -11007,8 +11038,8 @@
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -11209,7 +11240,7 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20~70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -11839,8 +11870,8 @@
     "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -12746,7 +12777,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 공급은 더욱 제한되고 있으며, 할당 물량의 대부분이 중국으로 배정되고 있습니다. 고객들은 오픈마켓에서 가용 재고를 확보하려는 움직임이 나타나고 있으며, 이는 가격 상승세를 견인하고 있습니다. SATA SSD(Solidigm D3-S4520/S4620)는 단종(EOL) 공지가 발표되었으며, 최종 주문일은 2026년 9월 30일입니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Allocation",
@@ -12944,8 +12975,8 @@
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -14028,8 +14059,8 @@
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -14176,7 +14207,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "NXP는 2026년 8월 1일부터 적용되는 가격 인상을 발표했으며, 주요 대상은 자동차 및 산업용 MCU 제품군이다(5~15% 인상). 리드타임은 두 배 수준인 26~52주까지 늘어나고 있으며, 일부 고수요 제품은 최대 99주의 납기 지연에 직면하고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -14764,7 +14797,7 @@
     "subheading": "",
     "text": "Solidigm 엔터프라이즈 SSD는 3·4분기에 가격이 20~30% 인상되고 있습니다. 대용량 드라이브(15TB·30TB·61TB·122TB)는 하이퍼스케일러가 전량 흡수해 유통 파트너에 할당되는 물량이 전혀 없습니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Allocation"

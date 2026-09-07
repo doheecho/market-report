@@ -804,7 +804,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "NXP, 고객에게  신제품 전환 장려",
     "text": "시황 자료에 따르면 NXP는 iMX6 MCU에 관한 공지를 발표했습니다. 해당 공지에서 고객에게 계약 가격 인상을 알리면서 최신 버전으로 전환하도록 권장한 것으로 알려졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -1591,7 +1593,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "MCU 가격 변동 및 리드 타임을 겪는 NXP 고객들",
     "text": "NXP에서는 2024년 초부터 MCU 제품 가격을 꾸준히 조정해 왔습니다. 수차례의 협상 끝에 대부분의 최종 고객이 새로운 계약 가격을 제시받았습니다. 지금까지 수요가 많았던 FS32 MCU의 경우 리드 타임이 안정되어 시장 공급이 원활하게 이루어집니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1607,7 +1611,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "MCU 가격 변동 및 리드 타임을 겪는 NXP 고객들",
     "text": "노후화된 IMX6 모델 MCU의 경우 계약 가격에 대한 비용이 조정되면서 리드 타임이 늘어났습니다. NXP가 점차 최신 제품 생산에 주력하면서 해당 시리즈의 공급이 제한적입니다. IMX8 시리즈는 새로운 핵심 모델이자 표준 선택으로 자리매김할 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1623,7 +1629,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "MCU 가격 변동 및 리드 타임을 겪는 NXP 고객들",
     "text": "그러나 중국 기반 전기 자동차(EV) 제조업체의 수요가 감소할 수 있으므로, 신형 및 구형 시리즈에 대한 수요 예측에 변화가 있을 수 있습니다. 중국 정부는 전기 자동차 업체들이 현지 칩에 대한 지원을 늘릴 것을 권장하고 있습니다. 이러한 시장 변화는 지금까지 자동차 애플리케이션 분야의 선두 주자였던 NXP에 영향을 미칠 것입니다. NXP는 자사 제품에서 전환하는 고객에 대응하기 위해 생산 및 가격 변경을 시행할 수 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1740,7 +1748,7 @@
     "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
     "text": "Solidigm SSD 가격은 4월에 10% 인상되었으며, 시장 보고서에 따르면 5월에도 가격이 계속 상승할 것으로 보입니다. 유통업체의 사전 시장 정보에 따르면 삼성 SSD의 비용이 20~30%까지 인상될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1968,7 +1976,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
     "text": "2023년 4분기에 NXP는 고품질 솔루션 제공에 중점을 두고 중국 시장을 대상으로 특별히 맞춤 제작된 C라인 제품 포트폴리오를 선보였습니다. 이 제조업체는 회사의 현지화 전략을 진행하고 공급망 탄력성을 개선하기 위해 OEM에 이 프로그램을 처음 도입했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1982,7 +1992,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
     "text": "C라인 제품에는 중국 시장에 맞게 커스터마이징된 OSCCA 호환 보완 기능이 탑재됩니다. NXP는 이러한 기능 변경으로 중국 정부 및 MIIT 승인 목록에 추가될 C라인 제품을 포함하기를 희망히고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2938,7 +2950,7 @@
     "subheading": "SSD: 용량 전반에 걸친 10~25%의 가격 상승",
     "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3415,7 +3427,7 @@
     "text": "수요가 높은 SSD 브랜드: 삼성, 솔리다임(Solidigm), 마이크론과 같은 브랜드가 여전히 가장 많이 요청되고 있어 고성능 및 신뢰성 있는 스토리지 솔루션에 대한 수요가 꾸준히 유지되고 있음을 보여줍니다.",
     "detected_vendors": [
       "Micron",
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3452,7 +3464,7 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -5122,7 +5134,9 @@
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
     "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],

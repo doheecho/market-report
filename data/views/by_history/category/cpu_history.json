@@ -1316,6 +1316,7 @@
       "date": "2022.09",
       "detected_vendors": [
         "Analog Devices",
+        "Nexperia",
         "Onsemi",
         "Texas Instruments"
       ],

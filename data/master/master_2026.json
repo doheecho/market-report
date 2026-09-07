@@ -96,8 +96,8 @@
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -388,7 +388,7 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20~70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -1049,7 +1049,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 가격은 전 분기 대비 50~90% 상승했습니다. Solidigm과 삼성은 주 단위로 가격을 재조정하고 있습니다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1408,8 +1408,8 @@
     "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -1904,7 +1904,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2617,7 +2617,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 공급은 더욱 제한되고 있으며, 할당 물량의 대부분이 중국으로 배정되고 있습니다. 고객들은 오픈마켓에서 가용 재고를 확보하려는 움직임이 나타나고 있으며, 이는 가격 상승세를 견인하고 있습니다. SATA SSD(Solidigm D3-S4520/S4620)는 단종(EOL) 공지가 발표되었으며, 최종 주문일은 2026년 9월 30일입니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Allocation",
@@ -2904,8 +2904,8 @@
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -3364,7 +3364,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3381,7 +3381,7 @@
     "subheading": "",
     "text": "Solidigm D3-S4520/S4620 SATA SSD는 2026년 9월 30일을 최종 주문일로 하는 단종(EOL) 통보를 받은 상태이다. 고객들은 오픈마켓 재고 확보에 나서고 있으며, 이는 가격 상승세로 이어지고 있다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "EOL",
@@ -4177,7 +4177,7 @@
     "subheading": "",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. 저가 SATA 모델은 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다. Gen5 엔터프라이즈 SSD는 3분기에 추가로 20~30% 급등할 것으로 전망된다.",
     "detected_vendors": [
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4194,7 +4194,7 @@
     "subheading": "",
     "text": "Solidigm SATA D3-S4520/S4620 시리즈는 2026년 9월 30일 최종 주문(LTB)을 앞두고 있으며, 이에 따라 2차 시장의 변동성과 공개 시장 프리미엄 견적이 확대되고 있다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4568,8 +4568,8 @@
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
     "detected_vendors": [
       "Kioxia",
+      "SK하이닉스",
       "Seagate",
-      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -4733,7 +4733,9 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "",
     "text": "NXP는 2026년 8월 1일부터 적용되는 가격 인상을 발표했으며, 주요 대상은 자동차 및 산업용 MCU 제품군이다(5~15% 인상). 리드타임은 두 배 수준인 26~52주까지 늘어나고 있으며, 일부 고수요 제품은 최대 99주의 납기 지연에 직면하고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -4933,7 +4935,7 @@
     "detected_vendors": [
       "Kioxia",
       "Micron",
-      "Solidigm",
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -5648,7 +5650,7 @@
     "subheading": "",
     "text": "Solidigm 엔터프라이즈 SSD는 3·4분기에 가격이 20~30% 인상되고 있습니다. 대용량 드라이브(15TB·30TB·61TB·122TB)는 하이퍼스케일러가 전량 흡수해 유통 파트너에 할당되는 물량이 전혀 없습니다.",
     "detected_vendors": [
-      "Solidigm"
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Allocation"

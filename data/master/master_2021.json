@@ -287,7 +287,9 @@
     "section_raw": "MCU, 자동차 수요로 인해 비용 및 리드 타임 상승에 직면",
     "subheading": "",
     "text": "또한, 유통업체들은 표준 리드 타임이 전반적으로 30주 이상으로 늘고 있는 점에 이미 주목하고 있습니다. 예를 들어, STMIC의 32비트 MCU(ST32 시리즈)는 2020년 3분기 이후로 리드 타임 연장 문제를 겪었습니다. 게다가, 16비트 및 32비트 MCU의 공급이 2020년 4분기에 자동차 수요의 증가로 인해 악화되었습니다. 마지막으로, MCU 공급 문제는 NXP의 MC56F8, MC9S08, MCF5, MCIMX6, FS32K 및 SPC56 시리즈를 포함한 더 많은 브랜드와 시리즈에 영향을 미치고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1165,7 +1167,9 @@
     "section_raw": "자동차 칩 공급 개선에 힘쓰는 NXP",
     "subheading": "",
     "text": "자동차 수요의 급증을 뒷받침하기 위해, NXP는 공급의 상황을 호전시키기 위해 산업 생산 라인을 자동차 부품에 집중하는 방향으로 전환했습니다. 하지만 단기적으로는 일부 시리즈에서 산업용 MCU가 리드 타임 연장 문제에 직면하고 있습니다. MKExxxx, MKLxxxx, LPCxxx가 가장 큰 영향을 받고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1181,7 +1185,9 @@
     "section_raw": "자동차 칩 공급 개선에 힘쓰는 NXP",
     "subheading": "",
     "text": "다른 뉴스를 살펴보면 NXP가 S9, SPCxx, MPCxx 시리즈의 대체품으로 새로운 시리즈 FSxxx를 출시한다고 합니다. 모든 자동차 칩이 최소한 2분기 초까지는 계속 공급이 부족한 한편, 가격 상승과 리드 타임 연장은 최소한 2021년 중반까지는 계속될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -2609,7 +2615,9 @@
     "section_raw": "NXP 자동차 부품, 2021년에 회복되지 않을 수도",
     "subheading": "",
     "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -2627,7 +2635,9 @@
     "section_raw": "NXP 자동차 부품, 2021년에 회복되지 않을 수도",
     "subheading": "",
     "text": "예를 들어 MKxxxx 시리즈의 리드 타임은 52주입니다. 2분기와 3분기에는 생산 및 납품 상황이 개선될 것으로 예상되지만, NXP의 자동차 부품 리드 타임은 2021년 남은 기간 동안 계속 길어 질 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -5582,7 +5592,9 @@
     "section_raw": "NXP, 리드 타임을 2022년까지 연장",
     "subheading": "",
     "text": "공급은 적어도 2021년 말까지는 계속 빠듯할 가능성이 큽니다. 수요 증가와 새로운 봉쇄 조치 외에도, 계속되는 웨이퍼 공급 부족으로 인해 NXP가 자동차 고객의 수요를 따라잡을 방법이 없습니다. 이 때문에 공급 제한 상황이 2022년까지 계속될 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -5599,7 +5611,9 @@
     "section_raw": "NXP, 리드 타임을 2022년까지 연장",
     "subheading": "",
     "text": "NXP는 3분기에 모든 유통업체의 상품 가격을 10% 인상한다고도 발표했습니다. 영향을 받는 시리즈로는 MKExxxx, MKLxxxx, MCIMxxx, TJAxxx, 산업용 애플리케이션 MCU, MPXxxx 압력 센서, S9S08xxx, MCIMX6xxx, LPC177xxx, LPC24xxx, MCU 32BIT ARM CORTEX 등이 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },

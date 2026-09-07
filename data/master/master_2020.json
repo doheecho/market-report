@@ -2475,7 +2475,9 @@
     "section_raw": "자동차 및 산업용 제품에 초점을 맞추는 NXP의 생산",
     "subheading": "",
     "text": "NXP는 특정 최종 제품을 겨냥해 생산 역량을 집중하고 있습니다. 유통업체들은 올해는 NXP가 주로 자동차 제품에 초점을 맞출 것이라고 언급해왔습니다. NXP에서 현재 생산 중인 FS32K 시리즈 제품 5천만 개가 여기에 포함됩니다. 산업적 측면에서, MCIMX 6Y/2C 시리즈는 POS 장비/드론 애플리케이션에 더 적합하고, 8 시리즈는 HD 4K TV를 염두하고 설계되었으며, RT 시리즈는 키보드 제어에 맞춰져 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2490,7 +2492,9 @@
     "section_raw": "자동차 및 산업용 제품에 초점을 맞추는 NXP의 생산",
     "subheading": "",
     "text": "또한 NXP는 MPX 시리즈와 관련하여 자체 제품으로 STM의 센서 시장 점유율을 추월하려고 노력하고 있습니다. 하지만 STM의 센서가 일반적으로 MPX 시리즈보다 더 호환성이 뛰어나므로, NXP는 이 목표를 포기할 계획입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },

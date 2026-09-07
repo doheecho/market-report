@@ -755,8 +755,7 @@
       "date": "2022.03",
       "detected_vendors": [
         "Intel",
-        "SK하이닉스",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "SK Hynix가 Intel SSD 사업을 인수하고 Solidigm으로 브랜드를 바꾸었습니다.",
@@ -824,7 +823,7 @@
       "date": "2022.04",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "Solidigm은 시장에 발생 가능한 파급 효과를 줄이기 위한 노력으로 2분기와 3분기에 걸쳐 Intel 유통 채널을 계속해서 이용하고 있지만, Intel와 Solidigm 시리즈 모두 생산에 제약을 받고 있습니다.",
@@ -850,7 +849,7 @@
       "date": "2022.04",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
@@ -940,7 +939,7 @@
       "date": "2022.08",
       "detected_vendors": [
         "Micron",
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "High",
@@ -950,7 +949,7 @@
     {
       "date": "2022.09",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다.",
@@ -1017,7 +1016,7 @@
       "date": "2022.12",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다.",
@@ -1034,7 +1033,7 @@
       "date": "2023.02",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "Intel의 Solidigm S4510 SSD 시리즈는 다음 분기 내에 단종될 예정입니다.",
@@ -1086,7 +1085,7 @@
       "date": "2023.04",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "여전히 낮은 SSD 및 HDD 수요",
@@ -1110,7 +1109,7 @@
       "date": "2023.05",
       "detected_vendors": [
         "Intel",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
@@ -1388,7 +1387,7 @@
     {
       "date": "2024.05",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -1532,7 +1531,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -1568,7 +1567,7 @@
       "date": "2024.10",
       "detected_vendors": [
         "Micron",
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -1585,7 +1584,7 @@
     {
       "date": "2024.10",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -1925,7 +1924,7 @@
       "date": "2025.09",
       "detected_vendors": [
         "Kioxia",
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Medium",
       "summary": "고용량 엔터프라이즈 SSDs(15TB, 30TB)에 대한 수요가 증가하면서 고객들이 제약 상태의 대용량 HDD 대체재를 찾고 있습니다.",
@@ -1941,7 +1940,7 @@
     {
       "date": "2025.10",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "Solidigm 엔터프라이즈 SSDs의 평균 리드타임은 6~8주이며, 미국 지역의 QLC 관련 요인과 보드 수준 자재 부족으로 수요가 높은 일부 SKUs는 10주를 넘어선다.",
@@ -1995,7 +1994,7 @@
     {
       "date": "2025.11",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -2016,7 +2015,7 @@
     {
       "date": "2025.11",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -2117,8 +2116,8 @@
       "date": "2026.01",
       "detected_vendors": [
         "Kioxia",
+        "SK하이닉스",
         "Seagate",
-        "Solidigm",
         "삼성"
       ],
       "risk_level": "High",
@@ -2129,7 +2128,7 @@
       "date": "2026.01",
       "detected_vendors": [
         "Micron",
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -2202,7 +2201,7 @@
     {
       "date": "2026.02",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -2261,8 +2260,8 @@
       "date": "2026.03",
       "detected_vendors": [
         "Kioxia",
+        "SK하이닉스",
         "Seagate",
-        "Solidigm",
         "삼성"
       ],
       "risk_level": "High",
@@ -2292,7 +2291,7 @@
     {
       "date": "2026.03",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -2353,7 +2352,7 @@
     {
       "date": "2026.04",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "엔터프라이즈 SSD 공급은 더욱 제한되고 있으며, 할당 물량의 대부분이 중국으로 배정되고 있습니다.",
@@ -2363,8 +2362,8 @@
       "date": "2026.05",
       "detected_vendors": [
         "Micron",
+        "SK하이닉스",
         "Seagate",
-        "Solidigm",
         "삼성"
       ],
       "risk_level": "High",
@@ -2374,7 +2373,7 @@
     {
       "date": "2026.05",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -2384,7 +2383,7 @@
     {
       "date": "2026.05",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "High",
       "summary": "Solidigm D3-S4520/S4620 SATA SSD는 2026년 9월 30일을 최종 주문일로 하는 단종(EOL) 통보를 받은 상태이다.",
@@ -2433,7 +2432,7 @@
     {
       "date": "2026.06",
       "detected_vendors": [
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "Low",
@@ -2443,7 +2442,7 @@
     {
       "date": "2026.06",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Low",
       "summary": "Solidigm SATA D3-S4520/S4620 시리즈는 2026년 9월 30일 최종 주문(LTB)을 앞두고 있으며, 이에 따라 2차 시장의 변동성과 공개 시장 프리미엄 견적이 확대되고 있다.",
@@ -2471,8 +2470,8 @@
       "date": "2026.07",
       "detected_vendors": [
         "Kioxia",
+        "SK하이닉스",
         "Seagate",
-        "Solidigm",
         "삼성"
       ],
       "risk_level": "High",
@@ -2484,7 +2483,7 @@
       "detected_vendors": [
         "Kioxia",
         "Micron",
-        "Solidigm",
+        "SK하이닉스",
         "삼성"
       ],
       "risk_level": "High",
@@ -2540,7 +2539,7 @@
     {
       "date": "2026.08",
       "detected_vendors": [
-        "Solidigm"
+        "SK하이닉스"
       ],
       "risk_level": "Medium",
       "summary": "Solidigm 엔터프라이즈 SSD는 3·4분기에 가격이 20~30% 인상되고 있습니다.",
