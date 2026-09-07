@@ -273,7 +273,7 @@ def split_raw_full_archive():
     
     for line in lines:
         # Detect lines like "## 📦 2020년 4월..." or with Mojibake (##.*?(\d{4}).*?(\d{1,2}))
-        match = re.search(r"^##\s+📅\s*(\d{4})년\s*(\d{1,2})월", line)
+        match = re.search(r"^\[The Greensheet\s+(\d{4})년\s+(\d{1,2})월호\]", line)
         if match:
             # Save the previous file before starting the new one
             if current_year and current_month and current_file_lines:

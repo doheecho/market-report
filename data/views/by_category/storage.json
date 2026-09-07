@@ -3194,11 +3194,10 @@
     "category": "Memory",
     "detected_categories": [
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "SSD: SSD 시장은 데이터 센터 및 클라우드 부문에서 강한 수요를 보이고 있지만, 전반적인 시장 상황으로 인해 판매가 둔화되고 있습니다. NAND와 같은 주요 부품의 공급 제약이 SSD 생산에 영향을 미치면서, 가격 변동이 시장의 향후 흐름을 좌우할 중요한 요소로 작용할 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -3207,13 +3206,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "데이터 센터, 클라우드 및 소비자 시장 수요: 웨스턴 디지털, 마이크론 테크놀로지, 씨게이트의 최신 실적 보고서에 따르면, 고성능 SSD 수요는 주로 데이터 센터 산업에서 주도되고 있습니다. 또한 클라우드 환경과 소비자 시장에서도 강한 성장세가 나타나고 있으며, 기업들은 데이터 처리량 증가에 대응하기 위해 컴퓨팅 인프라를 확장하고 스토리지 솔루션을 업그레이드하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -3226,13 +3224,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "SSD 판매 둔화: 9월 SSD 판매는 시장 수요 감소로 둔화되었으나, SSD 생산에 사용되는 핵심 부품의 부족으로 인해 시장에 새로운 제약이 발생할 가능성이 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3243,13 +3240,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "수요가 높은 SSD 브랜드: 삼성, 솔리다임(Solidigm), 마이크론과 같은 브랜드가 여전히 가장 많이 요청되고 있어 고성능 및 신뢰성 있는 스토리지 솔루션에 대한 수요가 꾸준히 유지되고 있음을 보여줍니다.",
     "detected_vendors": [
       "Micron",
@@ -3265,11 +3261,10 @@
     "category": "Memory",
     "detected_categories": [
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "부품 부족이 SSD 생산에 미치는 영향: NAND 수요 예측이 2025년까지 예상치를 초과하며, 생산 능력과 가동률이 이를 따라가지 못할 조짐을 보이고 있습니다. 이로 인해 SSD 공급 부족이 발생하고, 공급 부족 상황이 지속되면서 가격 상승 압력이 가중될 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3281,13 +3276,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -3304,11 +3298,10 @@
     "category": "Memory",
     "detected_categories": [
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "2025년 가격 압박: 일부 기업은 연말까지 SSD 가격이 하락할 수 있다고 예측하지만, 이 추세는 제조 공급 제약에 따라 달라질 것입니다. NAND 공급 문제로 인해 2025년에도 가격 인상 가능성이 있으며, 시장은 지속적인 부족과 공급망 문제로 변동성이 클 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3320,13 +3313,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "HDD: 시장은 리드 타임이 연장되면서 공급 제약을 겪고 있으며, 특히 대용량 모델에서 그 영향이 두드러지고 있습니다. Seagate의 새로운 주문 절차와 더불어 배송 지연은 향후 몇 달 동안 시장을 더욱 압박할 수 있습니다.",
     "detected_vendors": [
       "Seagate"
@@ -3339,13 +3331,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "클라우드 컴퓨팅과 AI 부문의 HDD 수요: Western Digital과 Seagate Technology의 최신 실적 보고서에 따르면 클라우드 컴퓨팅과 AI 부문에서 HDD 수요가 증가하고 있습니다. 대용량 클라우드 스토리지와 대량 용량 출하가 주요 동인으로, 하이퍼스케일 클라우드 및 엔터프라이즈 데이터 센터에서 기술적 전환이 진행 중입니다. 클라우드 제공업체들은 AI 애플리케이션을 지원하기 위해 확장 가능하고 에너지 효율적인 HDD에 투자하고 있습니다.",
     "detected_vendors": [
       "Seagate",
@@ -3357,13 +3348,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "배송 지연: Seagate는 대용량 HDD에 대해 30~33주의 배송 지연을 경험하고 있으며, 이에 따라 새로운 주문 절차를 도입했습니다. 주요 제조업체인 Seagate, Western Digital, Toshiba는 리드 타임 개선이 거의 이루어지지 않고 있어 공급 제약이 계속되고 있습니다.",
     "detected_vendors": [
       "Seagate",
@@ -3378,13 +3368,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "대용량 HDD에 대한 높은 수요: 대용량 HDD 수요 급증이 시장 역학에 영향을 미치고 있으며, 중견 서버 OEM들이 특히 긴 리드 타임에 영향을 받고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -3398,11 +3387,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "QLogic 파이버 채널 어댑터 지원 문제: QLogic의 파이버 채널 어댑터 카드 지원이 미흡해 데이터 센터, IT 인프라, 엔터프라이즈 고객들이 어려움을 겪고 있습니다. 이러한 제품은 스토리지 배열과 서버를 연결하는 데 필수적이기 때문에 신속한 지원이 필요하지만, 현재 지원 부족이 고객들에게 큰 불만을 초래하고 있습니다.",
     "detected_vendors": [
       "QLogic"
@@ -3962,13 +3950,12 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "HDD 시장 혼란: AI 및 클라우드용 대용량 드라이브 수요가 공급을 압도하면서 Seagate와 WD 같은 제조사들은 2년 단위의 수요 예측을 요구하고 있습니다. 동시에 저용량 드라이브는 단종(EOL) 통보와 함께 리드타임이 20주를 초과하여 전체 용량 스펙트럼에 걸쳐 공급 압박이 발생하고 있습니다.",
     "detected_vendors": [
       "Seagate",
@@ -4154,11 +4141,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -4270,11 +4256,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -4401,13 +4386,12 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
@@ -4542,11 +4526,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
     "detected_vendors": [
       "Nexperia",
@@ -4561,13 +4544,12 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "스토리지 공급망 붕괴 및 전략적 단종: 2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
     "detected_vendors": [
       "Western Digital"
@@ -4699,13 +4681,12 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
     "detected_vendors": [
       "Kioxia",
@@ -4727,11 +4708,10 @@
     "detected_categories": [
       "GPU",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "중국 시장 분절화와 국산 대체 가속: H200 수출 승인 지연과 중국 하이퍼스케일러에 대한 RDIMM 공급이 약 30%로 제한됨에 따라, 주요 중국 OEM들은 국산 메모리 및 SSD 공급업체 인증을 가속화하고 있다. 엔터프라이즈급 성능 격차는 여전히 존재하지만, 수입 제품 대비 60~75%의 가격 경쟁력이 비용 민감형 시장에서 빠른 채택을 이끌고 있다. 이로 인해 가격 구조, 할당 우선순위, 공급망 가시성이 상이한 이중 구조의 글로벌 메모리 시장이 형성되고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -4746,11 +4726,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
     "detected_vendors": [
       "Arrow",
@@ -4915,11 +4894,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
@@ -5044,13 +5022,12 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴: 엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5137,13 +5114,12 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
     "detected_vendors": [
       "Kioxia",
@@ -5259,11 +5235,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",

@@ -8926,11 +8926,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "🔌 네트워크 인터페이스 카드 (NIC): 시장은 현재 공급 제약과 생산 우선순위 변화로 인해 병목 현상을 겪고 있습니다. 제조업체들은 수익성이 높은 제품에 우선순위를 두고 있으며, Mellanox 제품에서 특히 지연과 부족이 발생하고 있습니다. Intel은 경쟁력 있는 가격을 제시하며 100Gbps 이하 데이터 속도 제품에서 시장 점유율을 확보하고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -8946,11 +8945,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "Mellanox ConnectX-CX6 공급 문제: Mellanox는 CX7 생산에 집중하면서 CX6 NIC의 확정 배송일을 제공하지 못하고 있으며, 이는 공급 불균형을 초래하고 있습니다. OEM(주문자 상표 부착 생산) 고객들이 새로운 프로젝트를 출시하면서 추가적인 수요가 발생해 이러한 불균형이 더욱 심화되고 있습니다.",
     "detected_vendors": [
       "Mellanox"
@@ -8963,11 +8961,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "Intel 이더넷 어댑터 수요 회복: Intel의 이더넷 어댑터에 대한 수요는 COVID-19 이전 수준으로 회복되고 있습니다. 특히 OCP(Open Compute Project) 모델이 확장성과 효율성 덕분에 인기를 끌고 있으며, 주요 서버 제조업체와 중국의 시스템 통합업체들이 Intel의 NIC 카드에 대한 관심을 높이고 있습니다.",
     "detected_vendors": [
       "Intel"
@@ -8980,11 +8977,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -9001,11 +8997,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "AI 애플리케이션이 스위치 시장 활성화: PCIe 스위치 인터페이스 IC(SS2X)는 고속 데이터 전송을 관리해야 하는 AI 애플리케이션에서 중요한 역할을 하고 있습니다. 이에 따라 Broadcom에 대한 수요가 증가하고 있습니다. 고객들은 Gen 6 스위치의 출시를 준비하고 있으며, 이는 B100/B200 모델과 함께 도입될 예정입니다. 이로 인해 Gen 5 스위치 수요는 급감할 것으로 예상되며, Gen 5 스위치의 재고 과잉 문제가 발생할 가능성도 있습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -9019,11 +9014,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "QLogic 파이버 채널 어댑터 지원 문제: QLogic의 파이버 채널 어댑터 카드 지원이 미흡해 데이터 센터, IT 인프라, 엔터프라이즈 고객들이 어려움을 겪고 있습니다. 이러한 제품은 스토리지 배열과 서버를 연결하는 데 필수적이기 때문에 신속한 지원이 필요하지만, 현재 지원 부족이 고객들에게 큰 불만을 초래하고 있습니다.",
     "detected_vendors": [
       "QLogic"
@@ -9039,11 +9033,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다. 퀄컴은 AI를 통합한 갤럭시 Z 폴드6과 같은 기기 덕분에 81억 달러의 칩셋 매출을 기록했습니다. 미디어텍은 신흥 시장에서의 4G SoC 수요와 5G AI 스마트폰 발전 덕분에 휴대전화 매출이 전년 대비 52% 증가했습니다.",
     "detected_vendors": [
       "Mediatek"
@@ -9056,11 +9049,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "AI 및 서버 시장 수요: 마이크론(Micron)의 최근 실적 보고서에 따르면, 2025 회계연도에 대한 긍정적인 전망이 제시되었습니다. AI 및 전통적인 서버 시장의 수요가 DIMM에 대한 수요를 견인할 것으로 보입니다. AI 서버와 범용 서버 모두 강력한 성장이 기대되며, 이를 통해 고용량 DIMM에 대한 균형 잡힌 수요가 창출될 전망입니다. 전통 서버의 수요는 점진적으로 회복되고 있으며, IT 부서 내의 애플리케이션 소프트웨어 배포가 활발해지면서 고급 PC DIMM에 대한 수요도 증가할 것으로 예상됩니다.",
     "detected_vendors": [
       "Micron"
@@ -9073,11 +9065,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "마더보드 시장은 현재 중국 브랜드의 경쟁 심화와 주요 기업들의 전략적 변화로 인한 가격 상승으로 특징지어집니다. 또한 Supermicro가 완전한 서버 조립 제품으로 전환하면서 최소 주문 수량(MOQ) 증가와 리드 타임 연장이 발생하여 가격 압박이 가중되고 있습니다.",
     "detected_vendors": [
       "Supermicro"
@@ -9093,11 +9084,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "중국 기업과의 경쟁 심화: 화웨이와 Inspur 같은 중국 브랜드의 경쟁력 있는 가격대의 서버 마더보드가 등장하면서, Supermicro와 같은 기존 기업의 시장 점유율에 변화가 나타나고 있습니다.",
     "detected_vendors": [
       "Huawei",
@@ -9112,11 +9102,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "가격 상승: Supermicro 마더보드를 포함한 마더보드 가격은 수요 증가와 판매 전략 변화로 인해 상승하고 있습니다.",
     "detected_vendors": [
       "Supermicro"
@@ -9131,11 +9120,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "판매 전략 변화: Supermicro가 완제품 서버 조립 제품 판매로 전환하면서 MOQ와 리드 타임이 증가해 가격 인상 압력이 커지고 있습니다.",
     "detected_vendors": [
       "Supermicro"
@@ -9151,11 +9139,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "🔌 집적회로(IC): 제조업체들이 생산 용량 제약과 원자재 비용 상승에 직면하면서, IC 시장에 부족위험이 증가하고 있습니다. 이러한 위험은 자동차 및 IT 데이터 통신과 같은 핵심 산업에서 수요가 회복되는지 여부에 달려 있습니다. 또한, 단종 예정 제품에 대한 관심이 높아지면서 가격 급등과 생산 중단 가능성 속에서 기업들은 기회를 모색하는 동시에 도전에 직면하고 있습니다. 이에 따라 기업들은 장기 재고 계약과 같은 전략적 공급 관리 방식을 채택하며 불확실한 환경 속에서 운영의 안정성을 확보하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -9169,11 +9156,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "AI 발전이 IC 시장 동향 주도: 인텔(Intel)과 텍사스 인스트루먼트(Texas Instruments) 등 주요 제조업체의 최근 실적 보고서에 따르면, 인공지능(AI)의 발전과 산업 및 자동차 부문의 성장으로 인해 IC 수요가 증가하고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -9187,11 +9173,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "자동차 수요 증가: 자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -9206,11 +9191,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "IC 생산 용량 제약: 온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -9226,11 +9210,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
     "detected_vendors": [
       "Nexperia"
@@ -9246,11 +9229,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "폴리머 커패시터: AI와 서버 응용 프로그램에 대한 수요 증가로 인해 심각한 압박을 받고 있습니다. 리드 타임 연장과 생산 능력에 대한 압박이 커패시터의 가용성과 가격에 영향을 미치는 주요 트렌드로 나타나고 있습니다. Panasonic은 최근 실적 발표에서 올해 초보다 가동률이 낮아졌으며, 일부 시설의 생산 능력을 점진적으로 확장하고 있다고 언급했습니다.",
     "detected_vendors": [
       "Panasonic"
@@ -9266,11 +9248,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인: Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다.",
     "detected_vendors": [
       "Panasonic"
@@ -9284,11 +9265,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "AI/ML에서의 광범위한 사용: Panasonic 커패시터는 AI/ML, 서버, 데이터 센터 응용 프로그램에 필수적이지만, 제한된 생산 능력으로 인해 증가하는 수요를 충족하지 못하고 있습니다. Panasonic은 생성형 AI가 매출 성장의 주요 원인이었으며, 다른 시장에서의 부진을 보완했다고 말했습니다.",
     "detected_vendors": [
       "Panasonic"
@@ -9303,11 +9283,10 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "다양한 응용 분야에서의 수요 급증: 서버, 노트북, 디스플레이, 그래픽 카드, 데이터 센터, 산업 제어 보드 등 다양한 부문에서 Panasonic 커패시터에 대한 수요가 크게 증가했으며, 이에 따라 생산 라인이이 현재 풀 가동상태입니다.",
     "detected_vendors": [
       "Panasonic"
@@ -10701,11 +10680,10 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -10724,11 +10702,10 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
     "detected_vendors": [
       "AMD",
@@ -11063,11 +11040,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -11276,11 +11252,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -11485,11 +11460,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
     "detected_vendors": [
       "Nexperia",
@@ -11507,11 +11481,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
     "detected_vendors": [
       "Coherent",
@@ -11528,11 +11501,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의- T-글래스 기판- 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -11823,11 +11795,10 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
     "detected_vendors": [
       "Analog Devices",
@@ -11851,11 +11822,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
     "detected_vendors": [
       "Arrow",
@@ -12211,12 +12181,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "PCB",
       "Passive"
     ],
-    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -12236,11 +12205,10 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화: 2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -12491,11 +12459,10 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
       "Infineon",
@@ -12515,11 +12482,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
@@ -13172,11 +13138,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
     "detected_vendors": [
       "Micron",
@@ -13194,11 +13159,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
     "detected_vendors": [
       "Murata",
@@ -13460,11 +13424,10 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
@@ -13481,11 +13444,10 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -13504,11 +13466,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "PCB"
     ],
-    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",

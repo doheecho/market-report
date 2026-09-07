@@ -606,11 +606,10 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다.",
     "detected_vendors": [
       "Nvidia",
@@ -624,12 +623,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "기타",
     "detected_categories": [
-      "Other"
+      "기타"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "원자재 영향: 구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -803,12 +802,12 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Other",
+    "category": "기타",
     "detected_categories": [
-      "Other"
+      "기타"
     ],
-    "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
       "Infineon",
@@ -843,11 +842,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "PCB"
     ],
-    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",

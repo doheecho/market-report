@@ -286,11 +286,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "자동차 수요 증가: 자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -381,11 +380,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
     "detected_vendors": [
       "Murata",

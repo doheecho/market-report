@@ -67,13 +67,12 @@
     },
     {
       "date": "2024.10",
-      "category": "Other",
+      "category": "Passive",
       "detected_categories": [
-        "Other",
         "Passive"
       ],
       "risk_level": "Low",
-      "summary": "년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+      "summary": "Intro",
       "text": "AI의 자동차용 MLCC 활용: AI 응용 제품에서 자동차 등급의 MLCC 사용이 증가하고 있으며, 주요 OEM 업체들은 Murata, Taiyo, Samsung, Yageo와 같은 주요 MLCC 제조업체와의 거래가 활발하다고 보고하고 있습니다."
     },
     {

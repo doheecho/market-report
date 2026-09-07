@@ -217,13 +217,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "배송 지연: Seagate는 대용량 HDD에 대해 30~33주의 배송 지연을 경험하고 있으며, 이에 따라 새로운 주문 절차를 도입했습니다. 주요 제조업체인 Seagate, Western Digital, Toshiba는 리드 타임 개선이 거의 이루어지지 않고 있어 공급 제약이 계속되고 있습니다.",
     "detected_vendors": [
       "Seagate",

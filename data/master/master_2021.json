@@ -7012,12 +7012,12 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "Other",
+    "category": "기타",
     "detected_categories": [
-      "Other"
+      "기타"
     ],
-    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "TDK Corporation의 제품 배송은 6개월로 연장되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -7026,13 +7026,12 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "Other",
+    "category": "Passive",
     "detected_categories": [
-      "Other",
       "Passive"
     ],
-    "section_raw": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "중국 남동부 해안의 다롄과 샤먼에 위치한 TDK 공장은 중국의 전력 제한으로 영향을 받고 있으며, 최대 6개월까지 제조 및 발송이 지연되고 있습니다. 영향을 받는 제품으로 클램프 필터(ZCAT 시리즈), 파워 인덕터(VLS 시리즈), MLCC(CKG 시리즈) 및 PC용 페라이트 코어 등이 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],

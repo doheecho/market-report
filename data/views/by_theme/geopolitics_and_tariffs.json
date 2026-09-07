@@ -310,11 +310,10 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "미·중 기술 전쟁의 영향: 미국의 제재로 인해 중국에서 여러 Nvidia 모델의 판매가 금지되면서 가격 격차가 발생했습니다. 그러나 Nvidia의 H20 GPU는 중국에서 높은 수요를 기록하며 $12B 달러의 매출을 올렸고, 화웨이의 Ascend 910B 가속기 같은 현지 대안을 앞지르고 있습니다. H20는 100만 개 이상이 판매될 것으로 예상됩니다.",
     "detected_vendors": [
       "Huawei",
@@ -330,11 +329,10 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "컴퓨트 모듈과 마더보드: 컴퓨트 모듈 시장은 Nvidia Jetson products과 관련 개발 키트에 부과된 관세의 영향을 받고 있습니다. 이러한 관세는 시장 변동을 야기하며, 공급 수준과 수요 역학에 큰 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -349,11 +347,10 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10~15% 상승한 바 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -841,11 +838,10 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
       "Infineon",
@@ -862,12 +858,12 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "기타",
     "detected_categories": [
-      "Other"
+      "기타"
     ],
-    "section_raw": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화: EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
     "detected_vendors": [
       "Nexperia",
@@ -906,11 +902,10 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "PCB"
     ],
-    "section_raw": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",

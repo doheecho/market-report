@@ -1,6 +1,4 @@
-## 📅 2020년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 4월호
+[The Greensheet 2020년 4월호]
 
 # 스토리지
 
@@ -62,12 +60,9 @@ The Greensheet 2020년 4월호
 
 ### 사무실과 강의실이 문을 닫고 집에서 원격 근무나 원격 학습이 이루어지고 있어, 관련 도구의 수요가 급증했습니다. 특히 웹캠은 시중에서 물량이 무척 딸리고 가격도 20~30% 급증했습니다. 특정 모델의 경우 최대 200%나 값이 뛰기도 했습니다. 특히 미국과 유럽/중동/아프리카에서는 이미 오픈 마켓에 대한 공급량이 줄고 있습니다. 시장 점유율에서 선두 주자인 Logitech의 경우, 가장 눈에 띄는 모델은 C525 및 C270 시리즈입니다.
 
-
 ---
 
-## 📅 2020년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 5월호
+[The Greensheet 2020년 5월호]
 
 # 메모리
 
@@ -137,12 +132,9 @@ The Greensheet 2020년 5월호
 
 ### 저가형 시스템 온 칩(SoC) 서버 등급 Atom CPU(구 Denverton)는 최근 몇 주간 공급에 제약이 있었으며 3분기 내내 그런 상황이 계속될 것입니다. 전하는 바에 의하면, 이러한 저가형 프로세서의 생산은 다른 공급 제약 조건이 엄존하는 상황에서 그 우선순위가 낮게 설정되었다고 합니다. Denverton 시리즈 프로세서는 일반적으로 엔터프라이즈 네트워킹 장치에 사용됩니다.
 
-
 ---
 
-## 📅 2020년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 6월호
+[The Greensheet 2020년 6월호]
 
 # 🔌 IC
 
@@ -212,12 +204,9 @@ The Greensheet 2020년 6월호
 
 ### 차세대 GeForce 30xx 시리즈 출시를 앞두고 있는 상황에서, 기존 RTX 20xx 시리즈의 공급이 크게 줄어 새 제품 라인을 위한 길을 터주었습니다. 더욱이, RTX 2080 TI에 대한 수요가 꾸준하고 Nvidia가 5월 중순에 RTX2080Ti 칩셋을 단종함에 따라, 6월을 지나며 시장 가격이 약 5% 정도 상승 추세를 타고 있습니다. 시장의 재고 물량이 소진되고 나면 수요가 RTX2080 Super로 옮겨갈 것입니다. 몇몇 소식통은 2080 Super에 대한 문의가 이미 늘었다는 점을 지적했는데, 현재 리드 타임이 1~2주일 정도 늘어나고 있는 것으로 보입니다. 차세대 GeForce 30xx가 3분기에 출시될 것이라는 뉴스가 떠돌았습니다. 하지만 Nvidia는 어떤 공식 발표도 하지 않았고, 고객들은 새 모델이 출시되기 전까지 필사적으로 공급 격차를 적정 수준으로 관리해야 하는 상황입니다.
 
-
 ---
 
-## 📅 2020년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 7월호
+[The Greensheet 2020년 7월호]
 
 # 🔌 IC
 
@@ -293,12 +282,9 @@ The Greensheet 2020년 7월호
 
 ### Filecoin에 대한 대대적인 광고로 인해 AMD CPU뿐 아니라 이 CPU가 사용되는 마더보드(Supermicro, AsRock, Asus에서 제조하는 CPU 포함)의 가격 폭등과 공급 부족이 발생했습니다. 소식통에 따르면, 듀얼 소켓 마더보드가 가장 큰 영향을 받고 있다고 합니다. 노트북 수요는 3분기 말까지 강세로 유지될 것으로 예상됩니다. 무선 카드와 함께 웹캠 및 헤드셋과 같은 주변 장치 제품 역시 수요 폭증으로 공급을 맞추기 빠듯한 상황입니다. 제조업체들은 학생과 재택근무를 하는 직장인의 넘치는 수요를 충족시키려 노력하고 있지만, 언제 그 수요를 따라잡을지는 분명하지 않습니다.
 
-
 ---
 
-## 📅 2020년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 8월호
+[The Greensheet 2020년 8월호]
 
 # 🔌 IC
 
@@ -402,12 +388,9 @@ The Greensheet 2020년 8월호
 
 ### 노트북 수요는 3분기 말까지 많을 것으로 예상됩니다. 웹캠, 헤드셋, 무선랜카드와 같은 컴퓨터 주변장치 또한 수요 급증으로 인해 공급이 부족합니다. 화상 강의를 듣는 학생들과 재택 근무를 하는 직장인들의 수요를 맞추기 위해 제조업체들은 노력하고 있지만 언제쯤 수요를 충족시킬 수 있을지는 미지수입니다.
 
-
 ---
 
-## 📅 2020년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 9월호
+[The Greensheet 2020년 9월호]
 
 # 💻 CPU
 
@@ -527,12 +510,9 @@ The Greensheet 2020년 9월호
 
 ### 한편 가격은 20%이상 상승했고 공인된 유통업체들에겐 재고가 거의 없습니다.
 
-
 ---
 
-## 📅 2020년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 10월호
+[The Greensheet 2020년 10월호]
 
 # 🌐 공급망 뉴스
 
@@ -656,12 +636,9 @@ The Greensheet 2020년 10월호
 
 ### 최근에 칩셋 공급 부족으로 인해 Quadro 시리즈 카드의 배송 지연이 발생하고 있다는 소식이 들립니다. Quadro 시리즈 중에서 가장 큰 영향을 받는 모델은 RTX 6000입니다. 과거보다 1~2주일 더 리드타임이 늘어났음에도, 지역의 유통업체들이 RTX 6000 및 RTX 8000과 같이 공급의 어려움을 직면한 Quadro 모델에 대한 마케팅 활동을 줄이려고 한다는 소식도 들었습니다.
 
-
 ---
 
-## 📅 2020년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 11월호
+[The Greensheet 2020년 11월호]
 
 # 🌐 공급망 뉴스
 
@@ -807,12 +784,9 @@ The Greensheet 2020년 11월호
 
 ### 역사적으로, AMD 는 Nvidia 보다 낮은 가격 벤치마크를 설정했습니다. Nvidia 의 RTX 30 시리즈와 AMD의 ‘Big Navi’ 시리즈가 모두 성능면에서 비슷하다면 가격이 그래픽 부문에서 누가 승자로 떠오를지 결정하는 요인이 될 것 입니다.
 
-
 ---
 
-## 📅 2020년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2020년 12월호
+[The Greensheet 2020년 12월호]
 
 # 💻 CPU
 
@@ -954,12 +928,9 @@ The Greensheet 2020년 12월호
 
 ### # ==========================================
 
-
 ---
 
-## 📅 2021년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 1월호
+[The Greensheet 2021년 1월호]
 
 # 💻 CPU
 
@@ -1107,12 +1078,9 @@ The Greensheet 2021년 1월호
 
 ### GPU 시장의 상층부에서는 기업 사용자들이 Tesla의 이전 세대 V100에서 새로운 A100 카드로 전환하기 시작했습니다. 이는 2020년 12월부로 수명이 종료된 16GB V100으로 상쇄되었습니다. 32GB 버전은 1분기 말이면 그 뒤를 이어 출시될 것으로 예상됩니다.
 
-
 ---
 
-## 📅 2021년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 2월호
+[The Greensheet 2021년 2월호]
 
 # 💻 CPU
 
@@ -1262,13 +1230,9 @@ The Greensheet 2021년 2월호
 
 ### 1월 이후로 Intel의 WiFi 카드에 대한 수요가 계속 증가하고 있는데, 특히 AX200과 AX201의 수요가 크게 증가 중입니다. 고객들은 공급 상황이 개선되지 않아 안전 재고 확보의 길을 모색하고 있습니다.
 
-
-
 ---
 
-## 📅 2021년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 4월호
+[The Greensheet 2021년 4월호]
 
 # 💻 CPU
 
@@ -1408,12 +1372,9 @@ The Greensheet 2021년 4월호
 
 ### 지난 2 월 이후 Wi-Fi 카드 공급은 특히 Intel의 AX200 및 AX201 모델에서 타이트한 상태를 유지하고 있습니다. 공급업체는 어떤 수단을 동원해서든 기존 계약을 이행해야 하므로 이들 제품의 상당 부분을 그럭저럭 공급할 수 있었습니다. 하지만 공급 상황이 가까운 시일 내에 회복될 것으로는 보이지 않아 가격이 상당히 올랐습니다. 예를 들어 AX200 가격은 2월 이후 20%나 급등했습니다.
 
-
 ---
 
-## 📅 2021년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 5월호
+[The Greensheet 2021년 5월호]
 
 # 💻 CPU
 
@@ -1535,12 +1496,9 @@ The Greensheet 2021년 5월호
 
 ### 가격 인상과 함께 14 형 및 15.6 형 디스플레이는 여전히 부족합니다 제조업체들은 여전히 고객의 예상 수요를 기준으로 주문을 받고 있지만, 생산에 필요한 원자재 공급이 일정하지 않아 생산 할당 보장하고 있지는 않습니다.
 
-
 ---
 
-## 📅 2021년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 6월호
+[The Greensheet 2021년 6월호]
 
 # 🔌 IC
 
@@ -1660,12 +1618,9 @@ The Greensheet 2021년 6월호
 
 ### AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.
 
-
 ---
 
-## 📅 2021년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 7월호
+[The Greensheet 2021년 7월호]
 
 # 💻 CPU
 
@@ -1799,12 +1754,9 @@ The Greensheet 2021년 7월호
 
 ### 더욱이, Intel은 현재 모바일 CPU 부문에서 AMD를 상대로 경쟁하면서 고객의 눈길을 받고자, 기판 공급에 할당하던 자원을 모바일 CPU 생산으로 더 많이 돌리고 있습니다. 결과적으로, Intel은 네트워크 카드에서 점점 다른 곳으로 주력 종목을 옮기고 있어, 이더넷 카드 공급이 빠듯해지고 리드 타임이 길어지고 있습니다.
 
-
 ---
 
-## 📅 2021년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 8월호
+[The Greensheet 2021년 8월호]
 
 # 🔌 IC
 
@@ -1970,9 +1922,7 @@ The Greensheet 2021년 8월호
 
 ---
 
-## 📅 2021년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 9월호
+[The Greensheet 2021년 9월호]
 
 # 🔌 IC
 
@@ -2144,12 +2094,9 @@ The Greensheet 2021년 9월호
 
 ### 17.3, 15.6, 13.3형 패널은 여전히 대부분 부족하고, 13.3~17.3형에 대한 가격은 계속 오름세입니다. 반면에 11.6형 패널의 가격은 정체 상태였습니다.
 
-
 ---
 
-## 📅 2021년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 11월호
+[The Greensheet 2021년 11월호]
 
 # 🔌 IC
 
@@ -2263,12 +2210,9 @@ The Greensheet 2021년 11월호
 
 ### 전체 W-Fi 6 AXxx 시리즈의 공급은 4분기에 더 줄어들 것으로 예상됩니다.
 
-
 ---
 
-## 📅 2021년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2021년 12월호
+[The Greensheet 2021년 12월호]
 
 # 🔌 IC
 
@@ -2368,12 +2312,9 @@ The Greensheet 2021년 12월호
 
 ### 낮은 생산 수준으로 인해 Raspberry Pi Zero와 2GB RAM이 장착된 Raspberry Pi 4 시리즈의 공급 부족이 증가했습니다. 전반적으로 Raspberry Pi 모듈에 영향을 미치는 공급망 문제는 올해는 물론 그 이후에도 계속될 것으로 예상됩니다.
 
-
 ---
 
-## 📅 2022년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 1월호
+[The Greensheet 2022년 1월호]
 
 # 모두
 
@@ -2447,12 +2388,9 @@ The Greensheet 2022년 1월호
 
 ### 게이팅 문제와 IC 구성부품 공급 부족으로 인해 고객이 서버 제품 사용을 늘리고 있으며, 그에 따라 고객들은 Cascade Lake 및 Cascade Lake Refresh 시리즈 CPU를 확보하려고 오픈 마켓으로 눈길을 돌리고 있습니다. 고객들은 주로 42xx, 42xxR, 52xx, 52xxR, 62xx 및 62xxR 시리즈 CPU를 찾고 있습니다.이러한 수요 급증은 Cascade Lake 및 Cascade Lake Refresh 시리즈의 공급 제약으로 이어졌고, 이는 다시 오픈 마켓 가격 인상으로 이어졌습니다.
 
-
 ---
 
-## 📅 2022년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 2월호
+[The Greensheet 2022년 2월호]
 
 # 🔌 IC
 
@@ -2550,12 +2488,9 @@ The Greensheet 2022년 2월호
 
 ### 그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.
 
-
 ---
 
-## 📅 2022년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 3월호
+[The Greensheet 2022년 3월호]
 
 # 🔌 IC
 
@@ -2659,12 +2594,9 @@ The Greensheet 2022년 3월호
 
 ### Raspberry Pi 제품 RPI3B+, RPI3-MODBP 및 CM3+ 16GB/32GB는 교육 및 제조 부문에서 수요가 많았습니다. 이 시리즈에 대한 수요가 증가함에 따라 제작 완료에 어려움이 있습니다. 이 어려움은 Broadcom 칩 공급 부족으로 인한 Raspberry Pi 제품의 IC 게이팅 문제에서 비롯됩니다. Broadcom은 Raspberry Pi 제품을 위해 특수 제작된 부품을 설계했으며, 현재 리드 타임이 1년에서 2년으로 연장되었습니다.
 
-
 ---
 
-## 📅 2022년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 4월호
+[The Greensheet 2022년 4월호]
 
 # 모두
 
@@ -2788,12 +2720,9 @@ The Greensheet 2022년 4월호
 
 ### 트랜시버 제조업체 Finisar는 EEPROM이 최적의 통신 부품 및 서브시스템을 생산하길 요구합니다. 하지만, EEPROM 공급 부족으로 리드 타임이 더 길어져 30주 이상 연장되었습니다. 85xx 시리즈 8574, 8536 부품은 이러한 제약의 영향을 받았습니다. 아시아와 다른 지역에서 가동 중단이 예상되며 물량 제한도 점점 확산되고 있습니다.
 
-
 ---
 
-## 📅 2022년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 6월호
+[The Greensheet 2022년 6월호]
 
 # 모두
 
@@ -2907,12 +2836,9 @@ The Greensheet 2022년 6월호
 
 ### 이러한 공급망 차질에도 불구하고 Raspberry Pi 4 모델은 생산 제약으로 인해 2023년 4월까지 부족 현상이 지속될 것으로 예상됩니다.
 
-
 ---
 
-## 📅 2022년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 7월호
+[The Greensheet 2022년 7월호]
 
 # 💻 CPU
 
@@ -3000,12 +2926,9 @@ The Greensheet 2022년 7월호
 
 ### 산업용 부품의 경우 여전히 수요가 높으며, 특히 IRFxxx와 IPDxxx는 여전히 부족합니다.
 
-
 ---
 
-## 📅 2022년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 8월호
+[The Greensheet 2022년 8월호]
 
 # CPU
 
@@ -3087,12 +3010,9 @@ The Greensheet 2022년 8월호
 
 ### 반대로 삼성, Micron 및 다른 프랜차이즈 유통업체는 이전 예약으로 인해 높은 수준의 재고와 생산량을 갖추고 있습니다. 개인용 컴퓨터 및 노트북을 포함한 컴퓨터 제품은 데이터 센터의 수요 감소와 충분한 공급을 받는 고객 덕분에 현재 하락하는 추세입니다. 이로 인해 DDR4, LPDDR 및 eMMC의 가격이 하락할 것으로 예상됩니다.
 
-
 ---
 
-## 📅 2022년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 9월호
+[The Greensheet 2022년 9월호]
 
 # CPU
 
@@ -3202,12 +3122,9 @@ The Greensheet 2022년 9월호
 
 ### 마찬가지로 Winbond의 매출도 3.3%까지 하락했습니다. 이는 네트워킹 고객 사이의 재고 조정 및 TV 제조업자의 공급 연기로 인한 것입니다. 현재 Winbond의 Kaohsiung 공장은 25S NM 생산에 완전히 주력하고 있습니다. 차세대 20nm 공정의 다량 생산은 2023년 중반에 가능할 것으로 예상돼 매출 성장에 효과적으로 기여할 것으로 기대됩니다.
 
-
 ---
 
-## 📅 2022년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 10월호
+[The Greensheet 2022년 10월호]
 
 # 🔌 IC
 
@@ -3297,9 +3214,7 @@ The Greensheet 2022년 10월호
 
 ---
 
-## 📅 2022년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 11월호
+[The Greensheet 2022년 11월호]
 
 # 하드웨어
 
@@ -3389,9 +3304,7 @@ The Greensheet 2022년 11월호
 
 ---
 
-## 📅 2022년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2022년 12월호
+[The Greensheet 2022년 12월호]
 
 # 하드웨어
 
@@ -3477,9 +3390,7 @@ The Greensheet 2022년 12월호
 
 ---
 
-## 📅 2023년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 1월호
+[The Greensheet 2023년 1월호]
 
 # IC
 
@@ -3587,12 +3498,9 @@ The Greensheet 2023년 1월호
 
 #### 이와 마찬가지로 Raspberry Pi는 소형 사이즈와 낮은 가격 때문에 지난 2~3년간 급증한 수요를 공급이 따라가지 못하고 있습니다. 직접 제조업자의 주문 적체는 1년 반에 달하며 기존 주문이 처리되지 않은 상태에서 계속 늘어나고만 있습니다. 공급이 안정되려면 적어도 1년은 더 필요할 것으로 예상됩니다. 결과적으로 오픈 마켓 가격은 직접 가격보다 최소 3배에서 5배 더 높습니다.
 
-
 ---
 
-## 📅 2023년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 2월호
+[The Greensheet 2023년 2월호]
 
 # IC
 
@@ -3696,9 +3604,7 @@ The Greensheet 2023년 2월호
 
 ---
 
-## 📅 2023년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 3월호
+[The Greensheet 2023년 3월호]
 
 # IC
 
@@ -3798,9 +3704,7 @@ The Greensheet 2023년 3월호
 
 ---
 
-## 📅 2023년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 4월호
+[The Greensheet 2023년 4월호]
 
 # 제품 업데이트
 
@@ -3912,12 +3816,9 @@ The Greensheet 2023년 4월호
 
 #### 보고서에 따르면 AMD의 경우, 특정 고객에 대해서는 출하가 보류되었습니다. 이에 따라 공식 유통업체의 재고 보류가 발생했습니다. 전체 지연 범위는 두고 봐야 하지만, Rome 및 Milan 시리즈에 상당한 영향을 미쳤습니다. 현재 AMD 유통업체들은 재고에 대한 우려로 인해 수요가 계속되고 있음에도 신형 Genoa EPYC 유치를 주저하고 있습니다.
 
-
 ---
 
-## 📅 2023년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 5월호
+[The Greensheet 2023년 5월호]
 
 # 제품 업데이트
 
@@ -3999,12 +3900,9 @@ The Greensheet 2023년 5월호
 
 #### Intel은 지속적인 전략에 따라 서버 사업을 MiTAC에 매각하여 데이터 센터 솔루션 그룹(DSG)을 철수 했습니다. 지난 1년 동안 이 전략에는 Optane 메모리 및 SSD와 같은 몇 가지 중요하지 않은 사업을 정리하는 것이 포함되었습니다. 당분간 Intel의 서버 표준 예약 리드 타임은 종전과 동일하게 유지됩니다.
 
-
 ---
 
-## 📅 2023년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 6월호
+[The Greensheet 2023년 6월호]
 
 # 제품 업데이트
 
@@ -4114,12 +4012,9 @@ The Greensheet 2023년 6월호
 
 #### 특정 팬 시리즈의 경우 예약 리드 타임이 52주 이상 소요되고 있으며, 배송 확인을 기다리는 고객의 경우 배송이 더 지연될 수 있습니다.
 
-
 ---
 
-## 📅 2023년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 7월호
+[The Greensheet 2023년 7월호]
 
 # 제품 업데이트
 
@@ -4235,12 +4130,9 @@ The Greensheet 2023년 7월호
 
 #### 해당 제품에 대한 수요는 하늘을 찌르고, 평균 리드 타임이 최소 1년으로 늘어남에 따라 공급 확보에 대한 고객의 의지도 높아지고 있습니다. 이러한 상황으로 인해 오픈 마켓으로 눈을 돌려 프리미엄 가격을 지불하려는 고객이 많아졌습니다.
 
-
 ---
 
-## 📅 2023년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 8월호
+[The Greensheet 2023년 8월호]
 
 # 제품 업데이트
 
@@ -4356,12 +4248,9 @@ The Greensheet 2023년 8월호
 
 #### 이러한 부족의 주요 원인은 높은 수요가 지속된 기간 동안 IC 부품의 공급이 부족했기 때문입니다. 가능한 공급을 창출하기 위해 일부 고객은 유통업체와 제휴하여 DC-DC 변환기 제조업체에 제품 제조에 필요한 IC 부품을 공급하고 있습니다. 이로 인해 제조업체의 부담은 일부 완화되고 있지만 수많은 산업에서 이러한 부품에 의존하고 있기 때문에 전반적인 수요는 줄어들 기미를 보이지 않고 있습니다. 자동차 산업과 통신 산업이 확장을 추진함에 따라 변환기 시장은 향후 4년간 20.75% 성장할 것으로 전망됩니다. 이는 주로 전기 자동차, 휴대 전화 및 확장되는 5G 네트워크에 대한 수요 때문이며, 이들 모두 다양한 응용 분야에서 DC-DC 변환기를 필요로 합니다.
 
-
 ---
 
-## 📅 2023년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 9월호
+[The Greensheet 2023년 9월호]
 
 # 제품 업데이트
 
@@ -4465,12 +4354,9 @@ The Greensheet 2023년 9월호
 
 #### 고속 제품의 예약 리드 타임 대부분은 가장 빠른 경우 최소 16~20주까지 연장됐으며, 제조업체들은 생산 능력을 높이기 위해 고군분투하고 있습니다.
 
-
 ---
 
-## 📅 2023년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 10월호
+[The Greensheet 2023년 10월호]
 
 # 제품 업데이트
 
@@ -4540,12 +4426,9 @@ The Greensheet 2023년 10월호
 
 #### 긴 리드 타임에 따라 고객은 요구 사항을 충족하는 유사한 사양의 대체 브랜드를 물색하고 있습니다. 공급 제한은 최소한 다음 분기까지 지속될 예정이며 이에 따라 시장의 긴급 수요를 맞추기 위해 경쟁하는 브랜드가 많습니다.
 
-
 ---
 
-## 📅 2023년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 11월호
+[The Greensheet 2023년 11월호]
 
 # 제품 업데이트
 
@@ -4635,12 +4518,9 @@ The Greensheet 2023년 11월호
 
 #### 이러한 발전으로 인해 많은 고객이 Pi 5를 선호할 수 있지만, 구형 모델에 대한 수요는 여전히 안정적이고 비용이 적게 드는 옵션으로 남아 있어 견고할 수 있습니다.
 
-
 ---
 
-## 📅 2023년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2023년 12월호
+[The Greensheet 2023년 12월호]
 
 # 제품 업데이트
 
@@ -4734,9 +4614,7 @@ The Greensheet 2023년 12월호
 
 ---
 
-## 📅 2024년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 1월호
+[The Greensheet 2024년 1월호]
 
 # 제품 업데이트
 
@@ -4814,9 +4692,7 @@ The Greensheet 2024년 1월호
 
 ---
 
-## 📅 2024년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 2월호
+[The Greensheet 2024년 2월호]
 
 # 제품 업데이트
 
@@ -4898,12 +4774,9 @@ The Greensheet 2024년 2월호
 
 #### 따라서 빠르게 전환할 수 없는 고객은 대안을 찾아야 할 수 있습니다. 제품의 AC 버전 수요가 있는 많은 고객은 여전히 AD 버전에 대한 승인을 받아야 합니다. 이에 고객들은 즉시 전환 또는 추가 재고 확보 사이에서 어떤 조치를 취할지 확신하지 못하고 있습니다.
 
-
 ---
 
-## 📅 2024년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 3월호
+[The Greensheet 2024년 3월호]
 
 # 제품 업데이트
 
@@ -4979,12 +4852,9 @@ The Greensheet 2024년 3월호
 
 #### 이러한 문제를 해결하기 위해 제조사에서는 해당 제조 시설 전략을 변경하여 소비재나 마진이 적은 제품에 대한 생산을 줄이고 있습니다. 증가하는 수요를 충족하기 위해 추가 지원이 자동차 및 산업 개발 쪽으로 이동하고 있습니다.
 
-
 ---
 
-## 📅 2024년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 4월호
+[The Greensheet 2024년 4월호]
 
 # 제품 업데이트
 
@@ -5072,9 +4942,7 @@ The Greensheet 2024년 4월호
 
 ---
 
-## 📅 2024년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 5월호
+[The Greensheet 2024년 5월호]
 
 # 제품 업데이트
 
@@ -5162,12 +5030,9 @@ The Greensheet 2024년 5월호
 
 #### 반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다.
 
-
 ---
 
-## 📅 2024년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 6월호
+[The Greensheet 2024년 6월호]
 
 # 제품 업데이트
 
@@ -5225,12 +5090,9 @@ The Greensheet 2024년 6월호
 
 #### AMD의 EPYC Genoa-X 시리즈도 비슷한 수요 증가를 겪고 있어서 공급이 더 부족합니다. 영향을 받는 제품에는 EPYC 9684X 및 EPYC 9384X가 포함됩니다.
 
-
 ---
 
-## 📅 2024년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 7월호
+[The Greensheet 2024년 7월호]
 
 # 제품 업데이트
 
@@ -5320,9 +5182,7 @@ The Greensheet 2024년 7월호
 
 ---
 
-## 📅 2024년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 8월호
+[The Greensheet 2024년 8월호]
 
 # 제품 업데이트
 
@@ -5398,9 +5258,7 @@ The Greensheet 2024년 8월호
 
 ---
 
-## 📅 2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2024년 10월호
+[The Greensheet 2024년 10월호]
 
 # 제품 업데이트
 
@@ -5674,9 +5532,7 @@ The Greensheet 2024년 10월호
 
 ---
 
-## 📅 2025년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 2월호
+[The Greensheet 2025년 2월호]
 
 # 제품 업데이트
 
@@ -5770,12 +5626,9 @@ The Greensheet 2025년 2월호
 
 ### 멕시코, 말레이시아, 베트남에 대한 새로운 관세 도입 가능성이 제기되면서, OEM 및 CM 업체들은 비용 증가를 피하기 위해 자재 조달을 앞당기고 있습니다.
 
-
 ---
 
-## 📅 2025년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 3월호
+[The Greensheet 2025년 3월호]
 
 # 제품 업데이트
 
@@ -5985,9 +5838,7 @@ The Greensheet 2025년 3월호
 
 ---
 
-## 📅 2025년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 4월호
+[The Greensheet 2025년 4월호]
 
 # 📑 관세 업데이트
 
@@ -6139,12 +5990,9 @@ The Greensheet 2025년 4월호
 
 ### 자동차 OEM 업체들은 칩 부족과 같은 공급망 문제를 완화하기 위해 스마트 제조 방식을 점점 더 도입하고 있습니다. AI와 블록체인 같은 기술이 공급망 전반, 즉 Tier 1 공급업체를 넘어 원자재 출처까지 가시성과 예측 가능성을 높이는 데 활용되고 있습니다.
 
-
 ---
 
-## 📅 2025년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 5월호
+[The Greensheet 2025년 5월호]
 
 # 📑 관세 업데이트
 
@@ -6262,12 +6110,9 @@ The Greensheet 2025년 5월호
 
 ### 말레이시아 반도체 산업, 관세 불확실성 직면: 전문가들에 따르면, 세계적인 반도체 수출국인 말레이시아의 반도체 산업은 미국의 관세 재도입 가능성과 지역 내 경쟁 심화로 인해 압박을 받고 있습니다. 현재는 90일간의 관세 유예 조치가 시행 중이지만, 장기적인 투자에 미칠 영향에 대한 우려는 여전히 존재합니다.
 
-
 ---
 
-## 📅 2025년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 6월호
+[The Greensheet 2025년 6월호]
 
 # 제품 업데이트
 
@@ -6367,12 +6212,9 @@ The Greensheet 2025년 6월호
 
 ### 중국산 알루미늄이나 희토류가 포함된 부품(예: 수동소자, 커넥터)에 대한 문서 검토가 강화되고 있음
 
-
 ---
 
-## 📅 2025년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 7월호
+[The Greensheet 2025년 7월호]
 
 # 제품 업데이트
 
@@ -6476,12 +6318,9 @@ The Greensheet 2025년 7월호
 
 ### 인피니언: 300mm 웨이퍼 기반 GaN 제조를 추진 중이며, 첫 샘플은 2025년 4분기에 나올 예정입니다-GaN 분야에서 IDM 리더십을 강화하고 있습니다. 인피니언 보도자료
 
-
 ---
 
-## 📅 2025년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 8월호
+[The Greensheet 2025년 8월호]
 
 # 제품 업데이트
 
@@ -6571,13 +6410,9 @@ The Greensheet 2025년 8월호
 
 ### Nvidia는 중국을 위한 새로운 AI 칩을 개발 중이며, 이는 H20을 능가할 것으로 보입니다. 이 새로운 칩은 Nvidia의 플래그십 B300 가속기 카드의 정교한 듀얼 다이 구성 대비 절반의 원시 연산 능력을 제공할 가능성이 있습니다. [출처: Economictimes]
 
-
-
 ---
 
-## 📅 2025년 9월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 9월호
+[The Greensheet 2025년 9월호]
 
 # 주요 주제
 
@@ -6695,12 +6530,9 @@ The Greensheet 2025년 9월호
 
 ### 인텔은 최근 골드만삭스 기술 컨퍼런스에서 2026년 Arrow Lake 리프레시를 출시하고 같은 해 말에 차세대 Nova Lake 설계를 출시할 계획이라고 확인했습니다. [출처: 시킹알파]
 
-
 ---
 
-## 📅 2025년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 10월호
+[The Greensheet 2025년 10월호]
 
 # 주요 주제
 
@@ -6798,12 +6630,9 @@ The Greensheet 2025년 10월호
 
 ### 인텔: 인텔은 10월 9일 발표를 통해 최첨단 애리조나 Fab 52에서 공식적으로 생산을 시작했다고 밝혔다. 이번 이정표에는 인텔의 최첨단 18A 공정을 처음 적용한 오랜 기대작 팬서 레이크 프로세서의 출시가 포함된다. 이 칩은 2026년 CES에서 데뷔할 것으로 예상되는 차세대 AI PC를 구동하며, 미국 반도체 대기업의 잠재적 전환점으로 평가된다. [Source: Intel Press Release]
 
-
 ---
 
-## 📅 2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 11월호
+[The Greensheet 2025년 11월호]
 
 # 주요 주제
 
@@ -6909,12 +6738,9 @@ The Greensheet 2025년 11월호
 
 ### Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]
 
-
 ---
 
-## 📅 2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2025년 12월호
+[The Greensheet 2025년 12월호]
 
 # 주요 주제
 
@@ -6994,12 +6820,9 @@ The Greensheet 2025년 12월호
 
 ### # ==========================================
 
-
 ---
 
-## 📅 2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 1월호
+[The Greensheet 2026년 1월호]
 
 # 주요 주제
 
@@ -7095,12 +6918,9 @@ The Greensheet 2026년 1월호
 
 ### TSMC, 매출 약 30% 성장 전망: TSMC는 2026년 1월 15일 실적 콘퍼런스 콜을 개최하고 1분기 가이던스를 제시했습니다. 회사는 매출이 미화 346억~358억 달러 범위가 될 것으로 예상합니다. 매출총이익률은 63~65%로 전망되며, 영업이익률은 54~56%로 크게 상승할 것으로 예상됩니다. [소스: 시킹알파]
 
-
 ---
 
-## 📅 2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 2월호
+[The Greensheet 2026년 2월호]
 
 # 주요 주제
 
@@ -7204,12 +7024,9 @@ The Greensheet 2026년 2월호
 
 ### Texas Instruments는 Silicon Labs 인수 계약을 발표했으며, 거래는 2027년 상반기 중 완료될 예정입니다. 본 인수는 제조 리쇼어링을 목표로 하나, 향후 24개월간 양사 고객에게 공급 차질 및 통합 리스크가 발생할 가능성이 있습니다. [출처: TI]
 
-
 ---
 
-## 📅 2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 3월호
+[The Greensheet 2026년 3월호]
 
 # 주요 주제
 
@@ -7321,12 +7138,9 @@ The Greensheet 2026년 3월호
 
 ### Applied Materials는 인공지능 및 고성능 컴퓨팅에 핵심적인 차세대 반도체 개발을 위해 메모리 칩 기업 Micron Technology 및 SK Hynix와 협력하고 있다. Micron과 SK Hynix는 Applied Materials의 연구 센터인 Equipment and Process Innovation and Commercialization(장비 및 공정 혁신 및 상용화), 즉 EPIC Center에서 해당 반도체 개발을 위한 창립 파트너로 참여하게 된다. [출처:ChannelNewsAsia]
 
-
 ---
 
-## 📅 2026년 4월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 4월호
+[The Greensheet 2026년 4월호]
 
 # 주요 주제
 
@@ -7418,12 +7232,9 @@ The Greensheet 2026년 4월호
 
 ### STMicroelectronics, 4월 26일부터 가격 인상: STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.
 
-
 ---
 
-## 📅 2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 5월호
+[The Greensheet 2026년 5월호]
 
 # 주요 주제
 
@@ -7537,12 +7348,9 @@ The Greensheet 2026년 5월호
 
 ### Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진: 계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]
 
-
 ---
 
-## 📅 2026년 6월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 6월호
+[The Greensheet 2026년 6월호]
 
 # 주요 주제
 
@@ -7660,12 +7468,9 @@ The Greensheet 2026년 6월호
 
 ### Advantech는 Computex 2026에서 엣지 인공지능과 피지컬 AI에 대한 미래 전략과 비전을 공개했으며, 산업용 AI 소프트웨어 플랫폼 WEDA를 통해 AI 에이전트, 디지털 트윈 및 엣지 컴퓨팅을 연결함으로써 산업 현장에서의 AI 도입을 확대하겠다는 계획을 제시했다.
 
-
 ---
 
-## 📅 2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 7월호
+[The Greensheet 2026년 7월호]
 
 # 주요 주제
 
@@ -7757,12 +7562,9 @@ The Greensheet 2026년 7월호
 
 ### Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.
 
-
 ---
 
-## 📅 2026년 8월 Fusion Worldwide Greensheet 마켓 리포트 전문
-
-The Greensheet 2026년 8월호
+[The Greensheet 2026년 8월호]
 
 # 주요 주제
 

@@ -622,11 +622,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "🔌 네트워크 인터페이스 카드 (NIC): 시장은 현재 공급 제약과 생산 우선순위 변화로 인해 병목 현상을 겪고 있습니다. 제조업체들은 수익성이 높은 제품에 우선순위를 두고 있으며, Mellanox 제품에서 특히 지연과 부족이 발생하고 있습니다. Intel은 경쟁력 있는 가격을 제시하며 100Gbps 이하 데이터 속도 제품에서 시장 점유율을 확보하고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -642,11 +641,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "Mellanox ConnectX-CX6 공급 문제: Mellanox는 CX7 생산에 집중하면서 CX6 NIC의 확정 배송일을 제공하지 못하고 있으며, 이는 공급 불균형을 초래하고 있습니다. OEM(주문자 상표 부착 생산) 고객들이 새로운 프로젝트를 출시하면서 추가적인 수요가 발생해 이러한 불균형이 더욱 심화되고 있습니다.",
     "detected_vendors": [
       "Mellanox"
@@ -659,11 +657,10 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -773,11 +770,10 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
     "detected_vendors": [
       "Coherent",
@@ -890,11 +886,10 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
+    "section_raw": "Intro",
+    "subheading": "Intro",
     "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
     "detected_vendors": [
       "Broadcom",
