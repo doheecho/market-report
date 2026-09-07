@@ -1,13 +1,20 @@
 {
   "category": "기타",
-  "total_milestones": 82,
+  "total_milestones": 83,
   "history": [
     {
-      "date": "2021.12",
+      "date": "2021.04",
       "detected_vendors": [],
       "risk_level": "Low",
-      "summary": "Intro",
-      "text": "TDK Corporation의 제품 배송은 6개월로 연장되었습니다."
+      "summary": "완제품",
+      "text": "고객이 LCD 주문 물량을 온전히 받지 못하고 있는 실정입니다."
+    },
+    {
+      "date": "2021.04",
+      "detected_vendors": [],
+      "risk_level": "High",
+      "summary": "완제품",
+      "text": "강한 LCD 수요와 원자재 공급 부족으로 인해, 패널 크기 14인치, 15.6인치, 17.3인치 LCD 가격이 설 이후로 5~10% 정도 올랐습니다 수요는 대부분 사이즈에 집중됩니다. 리드 타임이 1~2주 정도 늘었으며 고객은 대부분 주문품 전량을 받지 못하고 있습니다. 일부 고객은 주문 물량의 50% 정도밖에 받지 못하고 있는 실정입니다."
     },
     {
       "date": "2022.02",

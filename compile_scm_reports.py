@@ -187,6 +187,11 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
             continue
 
         if line.startswith("# "):
+            cleaned = line.replace("# ", "").strip()
+            # If it is a real category heading, set current_section context!
+            if any(cat in cleaned for cat in ["IC", "CPU", "하드웨어", "메모리", "스토리지", "완제품", "수동소자", "수동 부품", "네트워크"]):
+                current_section = cleaned
+                current_subheading = ""
             continue
 
         body_text = None

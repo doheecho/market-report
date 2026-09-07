@@ -6812,12 +6812,12 @@
   {
     "year": 2021,
     "month": 4,
-    "category": "GPU",
+    "category": "기타",
     "detected_categories": [
-      "GPU"
+      "기타"
     ],
-    "section_raw": "암호화폐 채굴 활동으로 GPU 소비 증가",
-    "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
+    "section_raw": "완제품",
+    "subheading": "완제품",
     "text": "고객이 LCD 주문 물량을 온전히 받지 못하고 있는 실정입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -6826,12 +6826,12 @@
   {
     "year": 2021,
     "month": 4,
-    "category": "GPU",
+    "category": "기타",
     "detected_categories": [
-      "GPU"
+      "기타"
     ],
-    "section_raw": "암호화폐 채굴 활동으로 GPU 소비 증가",
-    "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
+    "section_raw": "완제품",
+    "subheading": "완제품",
     "text": "강한 LCD 수요와 원자재 공급 부족으로 인해, 패널 크기 14인치, 15.6인치, 17.3인치 LCD 가격이 설 이후로 5~10% 정도 올랐습니다 수요는 대부분 사이즈에 집중됩니다. 리드 타임이 1~2주 정도 늘었으며 고객은 대부분 주문품 전량을 받지 못하고 있습니다. 일부 고객은 주문 물량의 50% 정도밖에 받지 못하고 있는 실정입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -11613,12 +11613,12 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "IC",
+    "subheading": "IC",
     "text": "TDK Corporation의 제품 배송은 6개월로 연장되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -11627,12 +11627,13 @@
   {
     "year": 2021,
     "month": 12,
-    "category": "Passive",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "IC",
+    "subheading": "IC",
     "text": "중국 남동부 해안의 다롄과 샤먼에 위치한 TDK 공장은 중국의 전력 제한으로 영향을 받고 있으며, 최대 6개월까지 제조 및 발송이 지연되고 있습니다. 영향을 받는 제품으로 클램프 필터(ZCAT 시리즈), 파워 인덕터(VLS 시리즈), MLCC(CKG 시리즈) 및 PC용 페라이트 코어 등이 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
