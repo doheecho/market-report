@@ -113,12 +113,11 @@
     "month": 7,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "다양한 제조업체에 영향을 미치는 말레이시아의 봉쇄 조치",
-    "subheading": "다양한 제조업체에 영향을 미치는 말레이시아의 봉쇄 조치",
-    "text": "On Semiconductor**: On Semiconductor 역시 봉쇄 조치가 말레이시아에 기반을 둔 현지 생산 시설에 상당한 영향을 미칠 것이라는 의견을 공유했습니다. 이 회사는 현재 생산 및 유통 지연을 평가하고 있으며 가능한 한 빨리 최대 생산 능력으로 가동하기를 바라고 있습니다. 6월에 가격이 올랐고 말레이시아에서 직접 생산하는 시리즈에 대한 할당이 이루어짐에 따라 7월에 또 한 번의 인상이 예상됩니다. BD135, 137 및 139 시리즈 트랜지스터의 리드 타임이 40주로 늘어났고, NCP3, NCP1, NCP5, NCP6 및 NCP7 시리즈 컨트롤러의 리드 타임은 최대 60주입니다.",
+    "section_raw": "On Semiconductor",
+    "subheading": "On Semiconductor",
+    "text": "On Semiconductor 역시 봉쇄 조치가 말레이시아에 기반을 둔 현지 생산 시설에 상당한 영향을 미칠 것이라는 의견을 공유했습니다. 이 회사는 현재 생산 및 유통 지연을 평가하고 있으며 가능한 한 빨리 최대 생산 능력으로 가동하기를 바라고 있습니다. 6월에 가격이 올랐고 말레이시아에서 직접 생산하는 시리즈에 대한 할당이 이루어짐에 따라 7월에 또 한 번의 인상이 예상됩니다. BD135, 137 및 139 시리즈 트랜지스터의 리드 타임이 40주로 늘어났고, NCP3, NCP1, NCP5, NCP6 및 NCP7 시리즈 컨트롤러의 리드 타임은 최대 60주입니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -263,9 +262,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "onsemi: 중국의 Onsemi 글로벌 유통 센터는 코로나19 프로토콜로 인해 강제 폐쇄되었습니다. 제조사는 선전, 쑤저우, 러산 공장이 폐쇄되자 싱가포르와 마닐라로 생산 지역을 이전했습니다. 하지만 이러한 생산 조정은 onsemi 제품에 대한 높은 수요를 뒷받침하기에 역부족이어서 고객은 리드 타임 연장을 피할 수 없게 되었습니다. 수요가 공급 물량을 상회하면서 Onsemi의 공장 가동은 계속 불안정한 추세를 이어 오고 있습니다.",
+    "section_raw": "onsemi",
+    "subheading": "onsemi",
+    "text": "중국의 Onsemi 글로벌 유통 센터는 코로나19 프로토콜로 인해 강제 폐쇄되었습니다. 제조사는 선전, 쑤저우, 러산 공장이 폐쇄되자 싱가포르와 마닐라로 생산 지역을 이전했습니다. 하지만 이러한 생산 조정은 onsemi 제품에 대한 높은 수요를 뒷받침하기에 역부족이어서 고객은 리드 타임 연장을 피할 수 없게 되었습니다. 수요가 공급 물량을 상회하면서 Onsemi의 공장 가동은 계속 불안정한 추세를 이어 오고 있습니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -484,11 +483,12 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "자동차 수요 증가: 자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
+    "section_raw": "자동차 수요 증가",
+    "subheading": "자동차 수요 증가",
+    "text": "자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Onsemi",
@@ -504,9 +504,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "IC 생산 용량 제약: 온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
+    "section_raw": "IC 생산 용량 제약",
+    "subheading": "IC 생산 용량 제약",
+    "text": "온세미와 맥심(Maxim)과 같은 주요 제조업체들이 생산 용량을 축소하면서, 2025년에 수요가 회복될 경우 공급 부족이 발생할 수 있습니다. 온세미의 현재 가동률은 65%에 불과해 재고 수준에 영향을 미칠 가능성이 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Onsemi"
@@ -519,13 +519,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "공급 관리 전략: 인피니언(Infineon)과 온세미는 주요 고객과 장기 재고 관리 계약을 체결하여, 수요 증가 속에서도 적시 납품을 보장하려는 움직임을 보이고 있습니다. 이는 안정적인 공급을 위한 제조업체들의 전략적 전환을 반영합니다.",
+    "section_raw": "공급 관리 전략",
+    "subheading": "공급 관리 전략",
+    "text": "인피니언(Infineon)과 온세미는 주요 고객과 장기 재고 관리 계약을 체결하여, 수요 증가 속에서도 적시 납품을 보장하려는 움직임을 보이고 있습니다. 이는 안정적인 공급을 위한 제조업체들의 전략적 전환을 반영합니다.",
     "detected_vendors": [
       "Infineon",
       "Onsemi"
@@ -541,8 +541,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "STMicro는 유통 및 OEM 채널 전반에서 심각한 재고 조정이 발생했다고 보고했으며, 정상 수준 대비 1~2개월 분량의 초과 재고가 발생했다고 밝혔습니다.ON Semi는 재고 압박이 커지고 있으며, 제조 가동률은 2024년 4분기에 59%로 떨어졌고, 2025년 1분기에는 더 하락할 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Onsemi"
@@ -557,8 +557,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
     "text": "ON Semi는 2025년 1분기 자동차 수요가 전분기 대비 25% 감소할 것으로 예측하며, 중국 내 공장 셧다운이 주문에 영향을 주고 있다고 밝혔습니다.",
     "detected_vendors": [
       "Onsemi"
@@ -591,9 +591,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
+    "section_raw": "Onsemi, SiC 생산능력 확대",
+    "subheading": "Onsemi, SiC 생산능력 확대",
+    "text": "Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -628,9 +628,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음: 샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
+    "section_raw": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음",
+    "subheading": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음",
+    "text": "샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -646,9 +646,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
+    "section_raw": "넥스페리아 분절화 심화",
+    "subheading": "넥스페리아 분절화 심화",
+    "text": "넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -667,12 +667,11 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
+    "section_raw": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
+    "subheading": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
+    "text": "도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
     "detected_vendors": [
       "Nexperia",
       "Onsemi"
@@ -770,9 +769,9 @@
       "IC",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
+    "section_raw": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
+    "subheading": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
+    "text": "Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -792,9 +791,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화: EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
+    "section_raw": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화",
+    "subheading": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화",
+    "text": "EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
     "detected_vendors": [
       "Nexperia",
       "Onsemi"
@@ -812,12 +811,13 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "On Semi와 Diodes Incorporated는 Nexperia 및 MCC의 인증 전환에 따른 초과 수요를 흡수하고 있다. 리드타임은 40~52주 이상으로 확대되었으며, On Semi는 7월 가격 조정(약 15% 이상)을 발표했고 Diodes는 상업용 등급 주문에 대해 백로그 압축 정책을 시행하고 있다.",
     "detected_vendors": [
       "Nexperia",
-      "Onsemi"
+      "Onsemi",
+      "Renesas"
     ],
     "detected_keywords": [
       "Lead Time",

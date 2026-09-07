@@ -784,16 +784,14 @@
   {
     "year": 2024,
     "month": 5,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC)",
-    "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
-    "text": "반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다.",
-    "detected_vendors": [
-      "AMD"
-    ],
+    "section_raw": "반송 승인(RMA)",
+    "subheading": "반송 승인(RMA)",
+    "text": "품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다.",
+    "detected_vendors": [],
     "detected_keywords": [
       "Quality / Defect"
     ],
@@ -805,11 +803,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다.",
+    "section_raw": "포장 및 생산 문제",
+    "subheading": "포장 및 생산 문제",
+    "text": "Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다.",
     "detected_vendors": [
       "Nvidia",
       "TSMC"
@@ -822,13 +820,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "원자재 영향: 구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
+    "section_raw": "원자재 영향",
+    "subheading": "원자재 영향",
+    "text": "구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Natural Disaster / Incident",
@@ -1006,9 +1004,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
+    "section_raw": "넥스페리아 분절화 심화",
+    "subheading": "넥스페리아 분절화 심화",
+    "text": "넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -1045,9 +1043,9 @@
       "Other",
       "PCB"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
+    "section_raw": "지정학적환경적 차질로 지역 공급망 분절",
+    "subheading": "지정학적환경적 차질로 지역 공급망 분절",
+    "text": "구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",
       "Sony"
@@ -1063,17 +1061,18 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
+    "subheading": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
     "text": "Renesas는 구마모토 지진의 여파를 계속 겪고 있습니다. 포토커플러 생산은 여전히 중단된 상태이거나 서서히 회복되고 있으며, 자동차용 MCU(RL78·RH850)의 백로그도 크게 늘어나고 있습니다.",
     "detected_vendors": [
+      "Infineon",
       "Renesas"
     ],
     "detected_keywords": [
-      "Natural Disaster / Incident",
-      "Price Increase"
+      "Natural Disaster / Incident"
     ],
     "risk_level": "High"
   },
@@ -1082,11 +1081,12 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
+    "section_raw": "Renesas 구마모토 지진 복구",
+    "subheading": "Renesas 구마모토 지진 복구",
+    "text": "Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
     "detected_vendors": [
       "Renesas"
     ],

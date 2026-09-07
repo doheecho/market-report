@@ -390,50 +390,6 @@
   },
   {
     "year": 2025,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "미국, AI 칩 수출 규제 개편 발표: 미국 정부는 5월 15일부터 시행 예정이던 AI 칩에 대한 수출 규제를 개편하겠다고 발표했으며, 이는 국가 안보와 혁신 간 균형을 맞추기 위한 조치입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Geopolitics / Sanctions"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "스마트 제조 도입: 예측 유지보수 및 디지털 트윈과 같은 Industry 4.0 도구가 웨이퍼 팹을 데이터 중심 환경으로 변화시키고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 9,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "AI 원자재 압박: AI 붐은 칩만 소비하는 것이 아니라 갈륨, 게르마늄, 저유전율 유리섬유, HVLP 동박 등 주요 원자재 공급에도 부담을 주어 전자 산업 전반에 새로운 병목 현상을 만들고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
     "month": 9,
     "category": "기타",
     "detected_categories": [
@@ -445,38 +401,6 @@
     "detected_vendors": [
       "Arrow",
       "Intel"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 10,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "ACEA, Nexperia 사태 해결 촉구: 유럽자동차제조협회(ACEA)는 자동차 공급업체들이 완성차 업체에 공급할 부품과 컴포넌트를 생산할 수 없어 유럽 자동차 생산에 중대한 혼란이 발생할 가능성에 대해 깊은 우려를 표했다.",
-    "detected_vendors": [
-      "Nexperia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 11,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "자동차 산업의 ‘탈-중국’ 가속화: Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다. 보고서에 따르면 Tesla와 그 공급업체들은 이미 일부 중국산 부품을 대체했으며, 나머지 부품도 향후 1~2년 내 비중국 생산품으로 교체하는 것을 목표로 하고 있다.",
-    "detected_vendors": [
-      "Nexperia"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -499,38 +423,6 @@
   },
   {
     "year": 2026,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "SK 하이닉스, 소비자 사업 철수 루머에 대응: SK 하이닉스는 OEM 채널을 통해 소비자 수요를 계속 충족하겠지만, 이를 AI 공급과 균형 있게 맞추는 것이 점점 어려워지고 있습니다.",
-    "detected_vendors": [
-      "SK하이닉스"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 1,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "TSMC, 매출 약 30% 성장 전망: TSMC는 2026년 1월 15일 실적 콘퍼런스 콜을 개최하고 1분기 가이던스를 제시했습니다. 회사는 매출이 미화 346억~358억 달러 범위가 될 것으로 예상합니다. 매출총이익률은 63~65%로 전망되며, 영업이익률은 54~56%로 크게 상승할 것으로 예상됩니다. [소스: 시킹알파]",
-    "detected_vendors": [
-      "TSMC"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
     "month": 2,
     "category": "기타",
     "detected_categories": [
@@ -547,22 +439,6 @@
   },
   {
     "year": 2026,
-    "month": 3,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향 및 업데이트",
-    "subheading": "공급망 동향 및 업데이트",
-    "text": "알루미늄 및 헬륨 공급 부족이 한국 전자 산업에 부담: 해당 공급 부족은 미국-이스라엘 공습 이후 이란이 호르무즈 해협 봉쇄를 반복적으로 위협하면서 공급 차질 우려가 확대된 가운데 발생했다. 해당 해협은 원유뿐만 아니라 알루미늄과 헬륨을 포함한 주요 원자재의 핵심 운송 경로이다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2026,
     "month": 4,
     "category": "기타",
     "detected_categories": [
@@ -575,52 +451,6 @@
       "Nvidia"
     ],
     "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "삼성전자 노조, 예정된 파업 강행 방침 유지: 삼성전자 노조는 보상 요구가 충족되지 않을 경우 5월 21일부터 18일간 파업에 돌입하겠다고 경고했다. 노조는 5만 명 이상의 조합원이 참여할 것으로 추산하며, 잠재적 일일 손실 비용은 약 6억7,600만 달러에 달할 것으로 보고 있다.",
-    "detected_vendors": [
-      "삼성"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Advantech, 5개년 엣지 AI 로드맵 수립: Advantech Co.는 엣지 AI 구축 분야의 선도 브랜드로 도약하기 위한 새로운 5개년 계획을 발표했다. 해당 계획은 소프트웨어와 하드웨어 플랫폼 통합, 공급망 디지털화, 글로벌 영업 구조 개편이라는 세 가지 우선순위를 중심으로 한다. [출처: Taipei News]",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 5,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진: 계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "M&A"
-    ],
     "risk_level": "Low"
   },
   {
@@ -682,56 +512,5 @@
       "Quality / Defect"
     ],
     "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "SK하이닉스, 미국 역사상 최대 규모 외국 기업 IPO 기록: SK하이닉스는 7월 9일 미국 공모 가격을 ADR당 149달러로 책정했으며, 약 265억 달러를 조달했다. 이는 비미국 기업으로서는 미국 증시 사상 최대 규모의 데뷔 기록이다. 해당 주식은 나스닥에서 SKHY라는 종목 코드로 거래를 시작했으며, 상장 첫날 약 13% 상승한 가격에 마감했다. 이번 공모는 청약 경쟁률이 약 7배에 달한 것으로 알려졌다.",
-    "detected_vendors": [
-      "SK하이닉스"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 7,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
-    "detected_vendors": [
-      "TSMC",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Capacity Expansion"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "지정학적 병목 부상: 중동의 수지 공급 부족에서 중국의 희토류 수출 금지와 미국의 AI 칩 수출 통제에 이르기까지, 중국이 수출 통제를 재개할 수 있다는 우려로 특정 희토류 가격이 급등하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
   }
 ]

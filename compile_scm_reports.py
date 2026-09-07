@@ -187,35 +187,64 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
             continue
 
         if line.startswith("# "):
-            # Universally set category context for all # level headers (like 제품 업데이트, 주요 주제, etc.)
             current_section = line.replace("# ", "").strip()
             current_subheading = ""
             continue
 
         body_text = None
 
-        if line.startswith("## "):
-            cleaned = line.replace("## ", "").strip()
-            # In technical reporting, only body paragraphs end with '.' or bracket sources ']'
-            if cleaned.endswith(".") or cleaned.endswith("]"):
-                body_text = cleaned
-            else:
-                current_section = cleaned
+        # SCM Intelligent Colon Splitter: Detect 'Header: Body' on the same line
+        has_inline_colon = False
+        if (line.startswith("## ") or line.startswith("### ") or line.startswith("#### ")) and ":" in line:
+            parts = line.split(":", 1)
+            prefix = parts[0].strip()
+            suffix = parts[1].strip()
+            prefix_clean = re.sub(r'^#+\s*', '', prefix)
+            if len(prefix_clean) < 60 and not prefix_clean.endswith(".") and (suffix.endswith(".") or suffix.endswith("]")):
+                has_inline_colon = True
+
+        if has_inline_colon:
+            parts = line.split(":", 1)
+            prefix = parts[0].strip()
+            suffix = parts[1].strip()
+            
+            # Clean and map the prefix as the correct header level
+            prefix_clean = re.sub(r'^#+\s*', '', prefix).strip()
+            prefix_clean = re.sub(r'^[-*·•\s]+', '', prefix_clean)
+            prefix_clean = re.sub(r'^\d+\.\s+', '', prefix_clean)
+            
+            if prefix.startswith("## ") or prefix.startswith("##"):
+                current_section = prefix_clean
                 current_subheading = ""
-                continue
-        elif line.startswith("### "):
-            cleaned = line.replace("### ", "").strip()
-            if cleaned.endswith(".") or cleaned.endswith("]") or "출처" in cleaned:
-                body_text = cleaned
-            else:
-                current_subheading = cleaned
-                continue
-        elif line.startswith("#### "):
-            body_text = line.replace("#### ", "").strip()
-        elif line.startswith("---"):
-            continue
+            elif prefix.startswith("### ") or prefix.startswith("###"):
+                current_subheading = prefix_clean
+            elif prefix.startswith("#### ") or prefix.startswith("####"):
+                current_subheading = prefix_clean
+                
+            body_text = suffix
         else:
-            body_text = line
+            # Standard parsing logic
+            if line.startswith("## "):
+                cleaned = line.replace("## ", "").strip()
+                if cleaned.endswith(".") or cleaned.endswith("]"):
+                    body_text = cleaned
+                else:
+                    current_section = cleaned
+                    current_subheading = ""
+                    continue
+            elif line.startswith("### "):
+                cleaned = line.replace("### ", "").strip()
+                if cleaned.endswith(".") or cleaned.endswith("]") or "출처" in cleaned:
+                    body_text = cleaned
+                else:
+                    current_subheading = cleaned
+                    continue
+            elif line.startswith("#### "):
+                body_text = line.replace("#### ", "").strip()
+            elif line.startswith("---"):
+                continue
+            else:
+                body_text = line
 
         # Filter out Greensheet header/footer lines
         if "The Greensheet" in body_text or "제공된 정보는" in body_text:

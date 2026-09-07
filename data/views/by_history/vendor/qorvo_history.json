@@ -16,20 +16,22 @@
       "date": "2025.11",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제조업체 뉴스 및 업데이트",
-      "text": "Skyworks, Qorvo 합병 추진: 주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]"
+      "summary": "Skyworks, Qorvo 합병 추진",
+      "text": "주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]"
     },
     {
       "date": "2026.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Sony CMOS 센서",
       "text": "Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족에 직면해 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다."
     },
     {
@@ -39,7 +41,7 @@
         "IC"
       ],
       "risk_level": "High",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
       "text": "Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족이 계속되고 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다."
     }
   ]

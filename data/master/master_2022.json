@@ -1997,9 +1997,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "Molex LLC: 중국 상하이와 쿤산의 엄격한 봉쇄 조치는 Molex LLC 공장 가동에 타격을 주었습니다. 전체적으로 코로나19는 현지 공급망에 큰 충격을 주어 모든 운영과 물류망에도 그 여파가 확산되고 있는 추세입니다. Molex의 공급과 배송 일정이 차질을 빚고 있습니다.",
+    "section_raw": "Molex LLC",
+    "subheading": "Molex LLC",
+    "text": "중국 상하이와 쿤산의 엄격한 봉쇄 조치는 Molex LLC 공장 가동에 타격을 주었습니다. 전체적으로 코로나19는 현지 공급망에 큰 충격을 주어 모든 운영과 물류망에도 그 여파가 확산되고 있는 추세입니다. Molex의 공급과 배송 일정이 차질을 빚고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2011,9 +2011,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "Vishay Intertechnology: Vishay의 상하이 공장은 3월 28일 조업을 중단했으나 생산능력 100% 회복을 목표로 서서히 정상화를 꾀하여 현재 공장은 30%의 인력으로 운영 중입니다. 최근의 봉쇄 이전 Vishay은 모든 자동차용 MOSFET, LVM 및 HVM 패키지의 가격을 인상했습니다.",
+    "section_raw": "Vishay Intertechnology",
+    "subheading": "Vishay Intertechnology",
+    "text": "Vishay의 상하이 공장은 3월 28일 조업을 중단했으나 생산능력 100% 회복을 목표로 서서히 정상화를 꾀하여 현재 공장은 30%의 인력으로 운영 중입니다. 최근의 봉쇄 이전 Vishay은 모든 자동차용 MOSFET, LVM 및 HVM 패키지의 가격을 인상했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2025,8 +2025,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
+    "section_raw": "Vishay Intertechnology",
+    "subheading": "Vishay Intertechnology",
     "text": "Tesla Inc.: Tesla는 도시 봉쇄령 이후 상하이 공장 가동을 중단했으나 이후 운영 을 재개했습니다. 하지만 Giga Shanghai 공장은 제한된 인원으로 가동하여 현재 일일 1,200대를 생산 중이며 일일 2,600대로 생산량을 늘리는 것을 목표로 하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2039,9 +2039,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "Infineon Technologies: Infineon의 푸동 유통 센터는 현재 자재 및 완제품 지연을 겪고 있습니다.",
+    "section_raw": "Infineon Technologies",
+    "subheading": "Infineon Technologies",
+    "text": "Infineon의 푸동 유통 센터는 현재 자재 및 완제품 지연을 겪고 있습니다.",
     "detected_vendors": [
       "Infineon"
     ],
@@ -2056,10 +2056,12 @@
       "Other",
       "PCB"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
+    "section_raw": "Infineon Technologies",
+    "subheading": "Infineon Technologies",
     "text": "Apple Inc.: Apple 공급업체의 절반이 상하이 및 그 인근에 공장을 두고 있는 만큼 강제 코로나19 봉쇄 조치로 인해 직격탄을 맞았습니다. Apple 아이폰 제조사인 Pegatron Corp.을 비롯해 디스플레이, 인쇄회로기판, 열 부품, 배터리, 음향 부품 등을 담당하는 제조업체가 그 영향을 받고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Infineon"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2070,9 +2072,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "onsemi: 중국의 Onsemi 글로벌 유통 센터는 코로나19 프로토콜로 인해 강제 폐쇄되었습니다. 제조사는 선전, 쑤저우, 러산 공장이 폐쇄되자 싱가포르와 마닐라로 생산 지역을 이전했습니다. 하지만 이러한 생산 조정은 onsemi 제품에 대한 높은 수요를 뒷받침하기에 역부족이어서 고객은 리드 타임 연장을 피할 수 없게 되었습니다. 수요가 공급 물량을 상회하면서 Onsemi의 공장 가동은 계속 불안정한 추세를 이어 오고 있습니다.",
+    "section_raw": "onsemi",
+    "subheading": "onsemi",
+    "text": "중국의 Onsemi 글로벌 유통 센터는 코로나19 프로토콜로 인해 강제 폐쇄되었습니다. 제조사는 선전, 쑤저우, 러산 공장이 폐쇄되자 싱가포르와 마닐라로 생산 지역을 이전했습니다. 하지만 이러한 생산 조정은 onsemi 제품에 대한 높은 수요를 뒷받침하기에 역부족이어서 고객은 리드 타임 연장을 피할 수 없게 되었습니다. 수요가 공급 물량을 상회하면서 Onsemi의 공장 가동은 계속 불안정한 추세를 이어 오고 있습니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -2087,12 +2089,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "STMicroelectronics: STMicroelectronics는 봉쇄로 인해 1분기에 2주 분량의 생산분이 손실된 것으로 알려졌습니다.",
+    "section_raw": "STMicroelectronics",
+    "subheading": "STMicroelectronics",
+    "text": "STMicroelectronics는 봉쇄로 인해 1분기에 2주 분량의 생산분이 손실된 것으로 알려졌습니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
@@ -2105,12 +2106,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "Micron: Micron은 성명을 통해 상하이의 코로나19 제한 조치로 인해 생산이 지연되고 있음을 밝혔습니다. 특히 NOR Flash 조립 및 테스트 하청업체 생산 라인의 가동이 잠정 중단되었습니다. 이는 Micron의 공급망에 도미노 효과를 초래하여 MT25QU 및 MT25QL 시리즈를 포함한 NOR Flash 제품 전반에 리드 타임 연장과 가격 상승을 불러올 것으로 예상됩니다. 그 외에도 Micron의 예상 생산 90%가 출하 일정이 정해지지 않았다는 소문이 돌고 있습니다.",
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "Micron은 성명을 통해 상하이의 코로나19 제한 조치로 인해 생산이 지연되고 있음을 밝혔습니다. 특히 NOR Flash 조립 및 테스트 하청업체 생산 라인의 가동이 잠정 중단되었습니다. 이는 Micron의 공급망에 도미노 효과를 초래하여 MT25QU 및 MT25QL 시리즈를 포함한 NOR Flash 제품 전반에 리드 타임 연장과 가격 상승을 불러올 것으로 예상됩니다. 그 외에도 Micron의 예상 생산 90%가 출하 일정이 정해지지 않았다는 소문이 돌고 있습니다.",
     "detected_vendors": [
       "Micron"
     ],
@@ -2128,9 +2128,9 @@
       "Other",
       "Storage"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "Intel: Intel SSD의 상당 부분이 상하이 자유무역지역에서 생산되고 있습니다. 하지만 봉쇄로 인해 선적품이 해당 지역에서 출발하지 못하고 있는 상황입니다.",
+    "section_raw": "Intel",
+    "subheading": "Intel",
+    "text": "Intel SSD의 상당 부분이 상하이 자유무역지역에서 생산되고 있습니다. 하지만 봉쇄로 인해 선적품이 해당 지역에서 출발하지 못하고 있는 상황입니다.",
     "detected_vendors": [
       "Intel"
     ],

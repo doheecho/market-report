@@ -5009,65 +5009,54 @@
   {
     "year": 2023,
     "month": 9,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
-    "text": "산업: 산업용 기계의 고전력 부하를 효율적이고 안정적으로 제어할 수 있도록 지원합니다.",
-    "detected_vendors": [
-      "STMicroelectronics"
+    "section_raw": "산업",
+    "subheading": "산업",
+    "text": "산업용 기계의 고전력 부하를 효율적이고 안정적으로 제어할 수 있도록 지원합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
     ],
-    "detected_keywords": [
-      "Shortage"
+    "section_raw": "소비자",
+    "subheading": "소비자",
+    "text": "가전제품, 전동공구, 오디오 시스템과 같은 제품의 사용 사례에서 다양한 부품에 대한 전력 공급을 제어할 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
     ],
-    "risk_level": "High"
+    "section_raw": "배터리 관리 시스템",
+    "subheading": "배터리 관리 시스템",
+    "text": "과충전 및 과방전을 방지합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2023,
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
-    "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
-    "text": "소비자: 가전제품, 전동공구, 오디오 시스템과 같은 제품의 사용 사례에서 다양한 부품에 대한 전력 공급을 제어할 수 있습니다.",
-    "detected_vendors": [
-      "STMicroelectronics"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "IC",
-    "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
-    "text": "배터리 관리 시스템: 과충전 및 과방전을 방지합니다.",
-    "detected_vendors": [
-      "STMicroelectronics"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "IC",
+    "section_raw": "배터리 관리 시스템",
     "subheading": "NXP의 생산 전환에 따라 MCU 공급 부족 지속 전망",
     "text": "NXP에서 공급하는 MCU는 지속적인 공급 부족을 겪고 있으며 MCIMX6 시리즈는 99주를 초과하는 리드 타임으로 2023년을 시작했습니다. 공급은 개선되지 않았으며 MCIMX6 시리즈의 가격은 10%에서 15%까지 인상되었습니다. NXP에서는 MCIMX8 시리즈를 지원하기 위해 생산 능력 및 라인업을 전환하고 있어 공급 부족은 계속될 전망입니다. MCIMX6의 리드 타임은 단축되고 있으나 여전히 87주 내외입니다.",
     "detected_vendors": [
@@ -5084,9 +5073,10 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
+    "section_raw": "배터리 관리 시스템",
     "subheading": "NXP의 생산 전환에 따라 MCU 공급 부족 지속 전망",
     "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다.",
     "detected_vendors": [
@@ -5103,9 +5093,10 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "IC",
+    "section_raw": "배터리 관리 시스템",
     "subheading": "NXP의 생산 전환에 따라 MCU 공급 부족 지속 전망",
     "text": "이러한 상황으로 인해 단가가 상승과 함께 리드 타임이 38~52주 사이로 형성되었습니다. 특정 핀 패키징, 특히 TS18UHV 및 CLN40LP는 비용 증가로 인해 향후 공급 제한이 발생할 수 있습니다. 특히 TS18UHV 핀 패키징이 포함된 S912ZVL12ACLF 시리즈의 수요가 높으며 이는 산업용 제어, AI 및 기타 응용 분야에 사용됩니다.",
     "detected_vendors": [

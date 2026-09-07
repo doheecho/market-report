@@ -1,6 +1,6 @@
 {
   "vendor": "AMD",
-  "total_milestones": 259,
+  "total_milestones": 255,
   "history": [
     {
       "date": "2020.06",
@@ -805,7 +805,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "Intel의 12세대 Alder Lake에 대한 기대 상승",
+      "summary": "Intel이 자사 최신 제품(예",
       "text": "결과적으로, Intel의 11세대 Rocket Lake 데스크톱 CPU와 10세대 Comet Lake 데스크톱 공급은 Intel이 AMD에 잃은 이전의 시장 점유율을 되찾겠다는 목표로 12세대 Alder Lake CPU를 우선시함에 따라 축소될 것 같습니다."
     },
     {
@@ -1956,46 +1956,6 @@
       "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다."
     },
     {
-      "date": "2024.05",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "주요 제품 변경 알림을 발표한 Xilinx",
-      "text": "최종 구매일(LTB): 최종 주문은 2024년 6월 29일까지 접수하며, 재고 상황에 따라 주문 가능 여부가 달라질 수 있습니다."
-    },
-    {
-      "date": "2024.05",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "주요 제품 변경 알림을 발표한 Xilinx",
-      "text": "취소 및 반품 불가(NCNR): 2024년 4월 30일 이후 모든 미결 주문에는 취소 및 반품 불가(NCNR) 약관이 적용됩니다."
-    },
-    {
-      "date": "2024.05",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "주요 제품 변경 알림을 발표한 Xilinx",
-      "text": "최종 배송일(LTS): 최종 배송은 2024년 12월 28일 또는 그 이전에 이루어져야 합니다."
-    },
-    {
-      "date": "2024.05",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "주요 제품 변경 알림을 발표한 Xilinx",
-      "text": "반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다."
-    },
-    {
       "date": "2024.06",
       "category": "CPU",
       "detected_categories": [
@@ -2114,197 +2074,188 @@
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC",
         "Memory"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다."
+      "summary": "속도 DRAM 수요 증가",
+      "text": "6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "💻 CPU: 부문별로 상반된 상황을 보이고 있으며, 특정 부문에서는 공급이 제한되고 있습니다. 인텔과 AMD는 각각 고유한 공급 문제에 직면해 있지만, 전반적인 가격은 아직 안정적입니다. 다만, 특정 서버 CPU의 소규모 부족과 수요 증가로 인해 앞으로 몇 달 동안 시장 변동이 예상됩니다. 인텔은 구형 제품을 단계적으로 중단하고, AMD는 생산 지연 문제를 겪고 있습니다."
+      "summary": "CPU",
+      "text": "부문별로 상반된 상황을 보이고 있으며, 특정 부문에서는 공급이 제한되고 있습니다. 인텔과 AMD는 각각 고유한 공급 문제에 직면해 있지만, 전반적인 가격은 아직 안정적입니다. 다만, 특정 서버 CPU의 소규모 부족과 수요 증가로 인해 앞으로 몇 달 동안 시장 변동이 예상됩니다. 인텔은 구형 제품을 단계적으로 중단하고, AMD는 생산 지연 문제를 겪고 있습니다."
     },
     {
       "date": "2024.10",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI PC, 데이터 센터 및 엔터프라이즈 부문 수요: 인텔, AMD, 엔비디아의 최신 실적 보고서에 따르면, AI PC 시장이 급격히 성장하며 2026년까지 점유율이 10% 미만에서 50% 이상으로 확대될 것으로 예상됩니다. 또한, 데이터 센터 및 엔터프라이즈 부문에서도 AI 기술의 발전에 힘입어 강한 수요가 나타나고 있습니다. 금융, 의료, 소매, 자동차 등 주요 산업이 성능 개선 및 AI 기반 애플리케이션 도입을 위해 시스템을 업그레이드하고 있습니다."
+      "summary": "AI PC, 데이터 센터 및 엔터프라이즈 부문 수요",
+      "text": "인텔, AMD, 엔비디아의 최신 실적 보고서에 따르면, AI PC 시장이 급격히 성장하며 2026년까지 점유율이 10% 미만에서 50% 이상으로 확대될 것으로 예상됩니다. 또한, 데이터 센터 및 엔터프라이즈 부문에서도 AI 기술의 발전에 힘입어 강한 수요가 나타나고 있습니다. 금융, 의료, 소매, 자동차 등 주요 산업이 성능 개선 및 AI 기반 애플리케이션 도입을 위해 시스템을 업그레이드하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "인텔 아이스 레이크 서버 CPU 제품 수명 주기 변화: 인텔은 아이스 레이크 서버 CPU의 수명 주기를 단계적으로 종료하고 있으며, 구형 모델에 대한 지원을 축소하고 있습니다. 이에 따라 고객들은 차세대 모델로 전환하고 있으며, 인텔의 특별 할인 정책 부재로 AMD가 시장 점유율을 확대하고 있습니다."
+      "summary": "인텔 아이스 레이크 서버 CPU 제품 수명 주기 변화",
+      "text": "인텔은 아이스 레이크 서버 CPU의 수명 주기를 단계적으로 종료하고 있으며, 구형 모델에 대한 지원을 축소하고 있습니다. 이에 따라 고객들은 차세대 모델로 전환하고 있으며, 인텔의 특별 할인 정책 부재로 AMD가 시장 점유율을 확대하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "AMD 서버 CPU 부족: AMD의 7713 서버 CPU는 특정 고객들이 생산 용량을 독점적으로 구매하면서 시장에 부족 현상이 발생하고 있습니다. 또한, 7713 시리즈에 대한 AMD의 출하 취소로 인해 서버 및 데스크톱 CPU 모두에서 공백이 발생할 수 있습니다."
+      "summary": "AMD 서버 CPU 부족",
+      "text": "AMD의 7713 서버 CPU는 특정 고객들이 생산 용량을 독점적으로 구매하면서 시장에 부족 현상이 발생하고 있습니다. 또한, 7713 시리즈에 대한 AMD의 출하 취소로 인해 서버 및 데스크톱 CPU 모두에서 공백이 발생할 수 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "인텔 Sapphire Rapids 및 Emerald Rapids 수요 증가: AMD의 공급 부족 상황 속에서 데이터 센터와 엔터프라이즈 고객들은 고성능 컴퓨팅(HPC), AI, 클라우드 솔루션을 찾으며 인텔의 Sapphire Rapids 및 Emerald Rapids 금·플래티넘 CPU 수요가 증가하고 있습니다."
+      "summary": "인텔 Sapphire Rapids 및 Emerald Rapids 수요 증가",
+      "text": "AMD의 공급 부족 상황 속에서 데이터 센터와 엔터프라이즈 고객들은 고성능 컴퓨팅(HPC), AI, 클라우드 솔루션을 찾으며 인텔의 Sapphire Rapids 및 Emerald Rapids 금·플래티넘 CPU 수요가 증가하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AMD Genoa 서버 CPU 지연: AMD의 4세대 Genoa 9004X 시리즈는 낮은 수율과 대만 TSMC의 칩-온-웨이퍼-온-서브스트레이트(CoWoS) 패키징 병목 현상으로 인해 두세 달의 지연이 발생하고 있습니다. TSMC의 고급 패키징 용량이 5월부터 전부 예약된 상태라 AMD의 차세대 Nvidia 제품 지원 능력도 제한되고 있습니다."
+      "summary": "AMD Genoa 서버 CPU 지연",
+      "text": "AMD의 4세대 Genoa 9004X 시리즈는 낮은 수율과 대만 TSMC의 칩-온-웨이퍼-온-서브스트레이트(CoWoS) 패키징 병목 현상으로 인해 두세 달의 지연이 발생하고 있습니다. TSMC의 고급 패키징 용량이 5월부터 전부 예약된 상태라 AMD의 차세대 Nvidia 제품 지원 능력도 제한되고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU"
+      ],
+      "risk_level": "Low",
+      "summary": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요",
+      "text": "Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요: Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "GPU",
-      "detected_categories": [
-        "GPU",
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다."
+      "summary": "고객 불만과 경쟁 심화",
+      "text": "Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "모바일 CPU: 모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다."
+      "summary": "모바일 CPU",
+      "text": "모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU"
+      ],
+      "risk_level": "Low",
+      "summary": "AMD 모바일 CPU 수요 증가",
+      "text": "유통업체들은 AMD Ryzen 5000, 7000, 8000 시리즈에 대한 오픈마켓 수요가 증가하고 있음을 보고하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AMD 모바일 CPU 수요 증가: 유통업체들은 AMD Ryzen 5000, 7000, 8000 시리즈에 대한 오픈마켓 수요가 증가하고 있음을 보고하고 있습니다."
+      "summary": "데스크탑 PC",
+      "text": "고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "데스크탑 PC: 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다."
+      "summary": "Intel 보증 연장",
+      "text": "Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "Intel 보증 연장: Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "CPU",
-      "detected_categories": [
-        "CPU",
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AMD 시장 점유율 증가: Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다."
+      "summary": "AMD 시장 점유율 증가",
+      "text": "Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다."
+      "summary": "제조업체의 산업 수요 동향에 대한 인사이트",
+      "text": "Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU"
+      ],
+      "risk_level": "Low",
+      "summary": "NVIDIA Blackwell GPU 출시",
+      "text": "Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다."
     },
     {
       "date": "2024.10",
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다."
+      "summary": "AMD와의 경쟁 심화",
+      "text": "Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다."
     },
     {
       "date": "2024.10",
-      "category": "GPU",
+      "category": "Other",
       "detected_categories": [
-        "GPU",
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다."
+      "summary": "단종 제품(EOL) 수요 증가",
+      "text": "자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다."
     },
     {
       "date": "2025.02",
@@ -2394,7 +2345,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+      "summary": "년 낙관적 전망",
       "text": "AMD는 데이터센터, AI, 클라이언트 컴퓨팅의 성장에 힘입어 2025년 두 자릿수 매출 성장을 예상하고 있습니다. 특히 AI GPU와 기업 AI 도입에서 강세를 유지할 것으로 보고 있습니다."
     },
     {
@@ -2501,11 +2452,12 @@
       "date": "2025.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "공급망 동향",
-      "text": "Nvidia, AMD, 중국 칩 판매 매출의 15%를 미국에 납부: 애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다."
+      "summary": "Nvidia, AMD, 중국 칩 판매 매출의 15를 미국에 납부",
+      "text": "애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다."
     },
     {
       "date": "2025.09",
@@ -2513,12 +2465,11 @@
       "detected_categories": [
         "CPU",
         "GPU",
-        "IC",
-        "Other"
+        "IC"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다."
+      "summary": "GPU & NIC 배정은 전략적 유지",
+      "text": "Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다."
     },
     {
       "date": "2025.09",
@@ -2595,11 +2546,12 @@
       "date": "2026.01",
       "category": "GPU",
       "detected_categories": [
-        "GPU"
+        "GPU",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "공급망 동향",
-      "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다."
+      "summary": "트럼프, 232조 발동",
+      "text": "Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다."
     },
     {
       "date": "2026.02",
@@ -2627,8 +2579,8 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "risk_level": "Medium",
+      "summary": "Intel 소형 코어 CPU(Alder Lake-N",
       "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년까지 전량 매진 상태이다. 예약 리드타임은 불확실하며, 고코어 SKU(9555P, 9654P, 9454P)는 하이퍼스케일러 AI 프로젝트 우선 배정으로 8개월 이상 지연되고 있다."
     },
     {
@@ -2645,11 +2597,12 @@
       "date": "2026.05",
       "category": "CPU",
       "detected_categories": [
-        "CPU"
+        "CPU",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
-      "text": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예: 6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다."
+      "summary": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
+      "text": "6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다."
     },
     {
       "date": "2026.05",
@@ -2657,8 +2610,8 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "risk_level": "Medium",
+      "summary": "서버 CPU(DCAI)",
       "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 엄격한 할당 상태가 지속되고 있으며, 하이퍼스케일러 및 AI 관련 수요가 계속해서 공급의 대부분을 흡수하고 있다. 고코어 수 SKU(-F 시리즈 주파수 최적화 모델 포함)는 리드타임이 장기화되고 있으며, 일부 고객은 공식 리드타임 12~16주 이상과 오픈마켓에서 개당 약 1,000달러의 프리미엄이 발생하고 있다고 보고하고 있다. 공급 상황의 실질적인 완화 조짐은 관측되지 않는다."
     },
     {
@@ -2668,7 +2621,7 @@
         "IC"
       ],
       "risk_level": "High",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
       "text": "Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다."
     },
     {
@@ -2683,32 +2636,34 @@
     },
     {
       "date": "2026.07",
-      "category": "CPU",
+      "category": "Other",
       "detected_categories": [
-        "CPU"
+        "Other"
       ],
-      "risk_level": "High",
-      "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-      "text": "AMD 고코어 수 SKU(예: 9575F)는 AI 프로젝트 우선 배정으로 인해 최대 40주(10개월)의 리드타임에 직면하고 있으며, OEM에는 어떠한 물량 할당 보장도 제공되지 않고 있다."
+      "risk_level": "Medium",
+      "summary": "AMD 고코어 수 SKU(예",
+      "text": "9575F)는 AI 프로젝트 우선 배정으로 인해 최대 40주(10개월)의 리드타임에 직면하고 있으며, OEM에는 어떠한 물량 할당 보장도 제공되지 않고 있다."
     },
     {
       "date": "2026.07",
       "category": "CPU",
       "detected_categories": [
-        "CPU"
+        "CPU",
+        "Other"
       ],
-      "risk_level": "High",
-      "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
+      "risk_level": "Medium",
+      "summary": "AMD 고코어 수 SKU(예",
       "text": "AMD Turin “-F” 주파수 최적화 SKU(9275F, 9375F, 9475F)는 AI 프로젝트에 우선 할당이 이루어지면서 현재 최대 40주의 리드타임에 직면하고 있다. Tier 1 파트너도 예외가 아니며, 일반 Turin MPN 제품의 리드타임은 6~9개월에 달하고 있다."
     },
     {
       "date": "2026.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
       "text": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다."
     },
     {

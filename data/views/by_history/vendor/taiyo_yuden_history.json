@@ -31,8 +31,8 @@
         "Passive"
       ],
       "risk_level": "Medium",
-      "summary": "다양한 제조업체에 영향을 미치는 말레이시아의 봉쇄 조치",
-      "text": "Taiyo Yuden**: 말레이시아에 있는 Taiyo Yuden의 생산 공장은 근로자들이 코로나 양성 판정을 받은 후 6월 1일부터 14일까지 폐쇄되었다고 합니다. 조업이 재개되었지만, 아웃바운드 선적이 2주 지연되었습니다. 말레이시아 공장은 주로 상업용 MLCC를 생산하고 리드 타임은 현재 16주입니다. 상업 및 자동차 등급 부품이 모두 빠듯한 할당에 직면하고 있습니다."
+      "summary": "Taiyo Yuden",
+      "text": "말레이시아에 있는 Taiyo Yuden의 생산 공장은 근로자들이 코로나 양성 판정을 받은 후 6월 1일부터 14일까지 폐쇄되었다고 합니다. 조업이 재개되었지만, 아웃바운드 선적이 2주 지연되었습니다. 말레이시아 공장은 주로 상업용 MLCC를 생산하고 리드 타임은 현재 16주입니다. 상업 및 자동차 등급 부품이 모두 빠듯한 할당에 직면하고 있습니다."
     },
     {
       "date": "2021.08",
@@ -59,14 +59,14 @@
     },
     {
       "date": "2024.10",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC",
+        "Other",
         "Passive"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI의 자동차용 MLCC 활용: AI 응용 제품에서 자동차 등급의 MLCC 사용이 증가하고 있으며, 주요 OEM 업체들은 Murata, Taiyo, Samsung, Yageo와 같은 주요 MLCC 제조업체와의 거래가 활발하다고 보고하고 있습니다."
+      "summary": "AI의 자동차용 MLCC 활용",
+      "text": "AI 응용 제품에서 자동차 등급의 MLCC 사용이 증가하고 있으며, 주요 OEM 업체들은 Murata, Taiyo, Samsung, Yageo와 같은 주요 MLCC 제조업체와의 거래가 활발하다고 보고하고 있습니다."
     },
     {
       "date": "2025.08",
@@ -80,14 +80,13 @@
     },
     {
       "date": "2026.06",
-      "category": "Other",
+      "category": "Passive",
       "detected_categories": [
-        "Other",
         "Passive"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "MLCC 및 수동소자 위기, 심각 단계로 격화: Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다."
+      "summary": "MLCC 및 수동소자 위기, 심각 단계로 격화",
+      "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다."
     },
     {
       "date": "2026.06",
@@ -104,12 +103,11 @@
       "category": "IC",
       "detected_categories": [
         "IC",
-        "Other",
         "Passive"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다."
+      "summary": "IC 및 수동부품 리드타임 급증",
+      "text": "Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다."
     },
     {
       "date": "2026.07",

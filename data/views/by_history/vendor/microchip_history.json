@@ -244,7 +244,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+      "summary": "재고 소화가 악화된 기업들",
       "text": "Microchip은 여전히 높은 재고 수준에 어려움을 겪고 있으며, 특히 직접 고객들의 재고가 유통사 재고보다 더 큰 문제로 지적되고 있습니다."
     },
     {
@@ -255,7 +255,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+      "summary": "년 비관적 전망",
       "text": "Microchip은 산업 및 자동차 고객의 재고 감축이 계속되면서 공장 가동률 저하와 같은 어려움을 겪고 있어 비관적인 전망을 유지하고 있습니다."
     },
     {
@@ -272,10 +272,11 @@
       "date": "2026.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
       "text": "Microchip은 8월 중순부터 전 시리즈의 가격을 15~20% 인상했으며, PIC 및 MCP 시리즈의 리드타임은 20~30주로 늘어났습니다."
     }
   ]

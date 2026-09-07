@@ -178,12 +178,11 @@
     "month": 6,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
-    "text": "STMicroelectronics: STMicroelectronics는 봉쇄로 인해 1분기에 2주 분량의 생산분이 손실된 것으로 알려졌습니다.",
+    "section_raw": "STMicroelectronics",
+    "subheading": "STMicroelectronics",
+    "text": "STMicroelectronics는 봉쇄로 인해 1분기에 2주 분량의 생산분이 손실된 것으로 알려졌습니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
@@ -402,60 +401,6 @@
   },
   {
     "year": 2023,
-    "month": 9,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "IC",
-    "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
-    "text": "산업: 산업용 기계의 고전력 부하를 효율적이고 안정적으로 제어할 수 있도록 지원합니다.",
-    "detected_vendors": [
-      "STMicroelectronics"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "IC",
-    "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
-    "text": "소비자: 가전제품, 전동공구, 오디오 시스템과 같은 제품의 사용 사례에서 다양한 부품에 대한 전력 공급을 제어할 수 있습니다.",
-    "detected_vendors": [
-      "STMicroelectronics"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 9,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "IC",
-    "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
-    "text": "배터리 관리 시스템: 과충전 및 과방전을 방지합니다.",
-    "detected_vendors": [
-      "STMicroelectronics"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
     "month": 10,
     "category": "IC",
     "detected_categories": [
@@ -518,11 +463,12 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "자동차 수요 증가: 자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
+    "section_raw": "자동차 수요 증가",
+    "subheading": "자동차 수요 증가",
+    "text": "자동차 부문에서 온세미(onsemi)의 MTXX 및 NCP 시리즈와 같은 특정 부품에 대한 수요가 급증하고 있습니다. ST마이크로일렉트로닉스(STM)와 아날로그 디바이스(Analog Devices) 역시 중국 브랜드의 복귀로 인해 부품 수요가 늘어나고 있습니다. 특히 자동차 애플리케이션에서 전력 관리 IC(PMIC) 수요가 증가하면서, 제조업체들은 고효율 솔루션에 집중하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Onsemi",
@@ -554,9 +500,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "STMicroelectronics, 4월 26일부터 가격 인상: STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.",
+    "section_raw": "STMicroelectronics, 4월 26일부터 가격 인상",
+    "subheading": "STMicroelectronics, 4월 26일부터 가격 인상",
+    "text": "STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
@@ -571,18 +517,19 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
     "text": "STMicroelectronics 전력 스위치 드라이버는 특히 VN9D30Q100FTR을 중심으로 자동차 시장의 대규모 수요에 힘입어 수요가 급증하고 있다. 제조사의 생산 능력은 자동차용 IC 수요를 충족하기에 부족한 상황이며, 이에 따라 리드타임 연장과 할당 제약이 발생하고 있다.",
     "detected_vendors": [
-      "STMicroelectronics"
+      "STMicroelectronics",
+      "Sony"
     ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -594,10 +541,11 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "STMicroelectronics는 6월 말 일반 제품군 약 15%, 자동차 등급 제품군 15~30%의 가격 인상을 시행했다. MCU 리드타임은 여전히 20주 이상이며, 센서 제품군은 납기가 2027년 2분기로 연기되고 있다. Mouser를 비롯한 유통업체들은 PMIC 및 전력 스위치 제품의 할당 제한을 시작했다.",
     "detected_vendors": [
+      "Renesas",
       "STMicroelectronics"
     ],
     "detected_keywords": [
@@ -613,12 +561,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
+    "section_raw": "IC 및 수동부품 리드타임 급증",
+    "subheading": "IC 및 수동부품 리드타임 급증",
+    "text": "Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
     "detected_vendors": [
       "Murata",
       "STMicroelectronics",

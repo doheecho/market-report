@@ -1,6 +1,6 @@
 {
   "vendor": "Intel",
-  "total_milestones": 449,
+  "total_milestones": 450,
   "history": [
     {
       "date": "2020.04",
@@ -1181,8 +1181,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "매우 빠듯한 Wi-Fi 모듈 공급 상황",
-      "text": "다른 Intel Wi-Fi 모듈(예: Wi-Fi 모듈 시리즈 7265 및 3168)의 공급 사정은 비교적 좋은 편입니다. 원자재 공급 부족에도 불구하고, 오픈 마켓 내 다른 Wi-Fi 모듈의 수요는 여전히 부진합니다. 이는 부분적으로 칩 부족으로 인한 병목 현상 때문일 수 있습니다."
+      "summary": "다른 Intel Wi-Fi 모듈(예",
+      "text": "Wi-Fi 모듈 시리즈 7265 및 3168)의 공급 사정은 비교적 좋은 편입니다. 원자재 공급 부족에도 불구하고, 오픈 마켓 내 다른 Wi-Fi 모듈의 수요는 여전히 부진합니다. 이는 부분적으로 칩 부족으로 인한 병목 현상 때문일 수 있습니다."
     },
     {
       "date": "2021.09",
@@ -1232,8 +1232,8 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "Intel의 12세대 Alder Lake에 대한 기대 상승",
-      "text": "Intel이 자사 최신 제품(예: Intel 11세대 i9 및 i7 프로세서)을 더 많이 시장으로 밀어내는 것은 일반적인 관행입니다. Intel은 최신 고급 제품에 집중하고 있으므로, Intel의 i5 시리즈 공급이 현재 줄어들고 있습니다."
+      "summary": "Intel이 자사 최신 제품(예",
+      "text": "Intel 11세대 i9 및 i7 프로세서)을 더 많이 시장으로 밀어내는 것은 일반적인 관행입니다. Intel은 최신 고급 제품에 집중하고 있으므로, Intel의 i5 시리즈 공급이 현재 줄어들고 있습니다."
     },
     {
       "date": "2021.09",
@@ -1243,7 +1243,7 @@
         "Other"
       ],
       "risk_level": "Medium",
-      "summary": "Intel의 12세대 Alder Lake에 대한 기대 상승",
+      "summary": "Intel이 자사 최신 제품(예",
       "text": "이전 버전의 Intel 프로세서를 요구하는 고객은 10세대 Comet Lake 데스크톱 CPU 구매에 의존해야 합니다. 하지만 새로 다가오는 분기에 10세대 Comet Lake 데스크톱 CPU에 할당된 공급량이 제한될 가능성이 있습니다."
     },
     {
@@ -1253,7 +1253,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "Intel의 12세대 Alder Lake에 대한 기대 상승",
+      "summary": "Intel이 자사 최신 제품(예",
       "text": "매우 기대되는 12세대 Alder Lake가 이르면 2021년 10월에 출시될 것이라는 소문이 있으므로 그리 놀라운 일이 아닙니다."
     },
     {
@@ -1263,7 +1263,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "Intel의 12세대 Alder Lake에 대한 기대 상승",
+      "summary": "Intel이 자사 최신 제품(예",
       "text": "Intel 12세대 Alder Lake의 성능이 예상대로 유망한 것으로 판명되면 확실히 수요가 공급을 능가할 것입니다."
     },
     {
@@ -1274,7 +1274,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "Intel의 12세대 Alder Lake에 대한 기대 상승",
+      "summary": "Intel이 자사 최신 제품(예",
       "text": "결과적으로, Intel의 11세대 Rocket Lake 데스크톱 CPU와 10세대 Comet Lake 데스크톱 공급은 Intel이 AMD에 잃은 이전의 시장 점유율을 되찾겠다는 목표로 12세대 Alder Lake CPU를 우선시함에 따라 축소될 것 같습니다."
     },
     {
@@ -1862,8 +1862,8 @@
         "Storage"
       ],
       "risk_level": "Low",
-      "summary": "계속되는 중국의 강제 봉쇄 조치",
-      "text": "Intel: Intel SSD의 상당 부분이 상하이 자유무역지역에서 생산되고 있습니다. 하지만 봉쇄로 인해 선적품이 해당 지역에서 출발하지 못하고 있는 상황입니다."
+      "summary": "Intel",
+      "text": "Intel SSD의 상당 부분이 상하이 자유무역지역에서 생산되고 있습니다. 하지만 봉쇄로 인해 선적품이 해당 지역에서 출발하지 못하고 있는 상황입니다."
     },
     {
       "date": "2022.06",
@@ -3681,23 +3681,72 @@
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC",
         "Memory"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다."
+      "summary": "속도 DRAM 수요 증가",
+      "text": "6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU"
+      ],
+      "risk_level": "High",
+      "summary": "CPU",
+      "text": "부문별로 상반된 상황을 보이고 있으며, 특정 부문에서는 공급이 제한되고 있습니다. 인텔과 AMD는 각각 고유한 공급 문제에 직면해 있지만, 전반적인 가격은 아직 안정적입니다. 다만, 특정 서버 CPU의 소규모 부족과 수요 증가로 인해 앞으로 몇 달 동안 시장 변동이 예상됩니다. 인텔은 구형 제품을 단계적으로 중단하고, AMD는 생산 지연 문제를 겪고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "AI PC, 데이터 센터 및 엔터프라이즈 부문 수요",
+      "text": "인텔, AMD, 엔비디아의 최신 실적 보고서에 따르면, AI PC 시장이 급격히 성장하며 2026년까지 점유율이 10% 미만에서 50% 이상으로 확대될 것으로 예상됩니다. 또한, 데이터 센터 및 엔터프라이즈 부문에서도 AI 기술의 발전에 힘입어 강한 수요가 나타나고 있습니다. 금융, 의료, 소매, 자동차 등 주요 산업이 성능 개선 및 AI 기반 애플리케이션 도입을 위해 시스템을 업그레이드하고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU"
+      ],
+      "risk_level": "Low",
+      "summary": "인텔 아이스 레이크 서버 CPU 제품 수명 주기 변화",
+      "text": "인텔은 아이스 레이크 서버 CPU의 수명 주기를 단계적으로 종료하고 있으며, 구형 모델에 대한 지원을 축소하고 있습니다. 이에 따라 고객들은 차세대 모델로 전환하고 있으며, 인텔의 특별 할인 정책 부재로 AMD가 시장 점유율을 확대하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "💻 CPU: 부문별로 상반된 상황을 보이고 있으며, 특정 부문에서는 공급이 제한되고 있습니다. 인텔과 AMD는 각각 고유한 공급 문제에 직면해 있지만, 전반적인 가격은 아직 안정적입니다. 다만, 특정 서버 CPU의 소규모 부족과 수요 증가로 인해 앞으로 몇 달 동안 시장 변동이 예상됩니다. 인텔은 구형 제품을 단계적으로 중단하고, AMD는 생산 지연 문제를 겪고 있습니다."
+      "summary": "인텔 Sapphire Rapids 및 Emerald Rapids 수요 증가",
+      "text": "AMD의 공급 부족 상황 속에서 데이터 센터와 엔터프라이즈 고객들은 고성능 컴퓨팅(HPC), AI, 클라우드 솔루션을 찾으며 인텔의 Sapphire Rapids 및 Emerald Rapids 금·플래티넘 CPU 수요가 증가하고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "인텔의 가격 압박",
+      "text": "인텔은 고객들이 성과급 목표를 달성하지 못하고 지원이 축소되면서 점점 더 오픈 마켓으로 눈을 돌리고 있어 가격 압박을 받고 있습니다. 인텔의 최근 구조조정으로 운영이 악화되면서 고객들은 인텔의 가격 전략에 저항하며 대안을 모색하고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU"
+      ],
+      "risk_level": "Low",
+      "summary": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요",
+      "text": "Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다."
     },
     {
       "date": "2024.10",
@@ -3705,83 +3754,31 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI PC, 데이터 센터 및 엔터프라이즈 부문 수요: 인텔, AMD, 엔비디아의 최신 실적 보고서에 따르면, AI PC 시장이 급격히 성장하며 2026년까지 점유율이 10% 미만에서 50% 이상으로 확대될 것으로 예상됩니다. 또한, 데이터 센터 및 엔터프라이즈 부문에서도 AI 기술의 발전에 힘입어 강한 수요가 나타나고 있습니다. 금융, 의료, 소매, 자동차 등 주요 산업이 성능 개선 및 AI 기반 애플리케이션 도입을 위해 시스템을 업그레이드하고 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "CPU",
-      "detected_categories": [
-        "CPU",
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "인텔 아이스 레이크 서버 CPU 제품 수명 주기 변화: 인텔은 아이스 레이크 서버 CPU의 수명 주기를 단계적으로 종료하고 있으며, 구형 모델에 대한 지원을 축소하고 있습니다. 이에 따라 고객들은 차세대 모델로 전환하고 있으며, 인텔의 특별 할인 정책 부재로 AMD가 시장 점유율을 확대하고 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "CPU",
-      "detected_categories": [
-        "CPU",
-        "IC"
-      ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "인텔 Sapphire Rapids 및 Emerald Rapids 수요 증가: AMD의 공급 부족 상황 속에서 데이터 센터와 엔터프라이즈 고객들은 고성능 컴퓨팅(HPC), AI, 클라우드 솔루션을 찾으며 인텔의 Sapphire Rapids 및 Emerald Rapids 금·플래티넘 CPU 수요가 증가하고 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "인텔의 가격 압박: 인텔은 고객들이 성과급 목표를 달성하지 못하고 지원이 축소되면서 점점 더 오픈 마켓으로 눈을 돌리고 있어 가격 압박을 받고 있습니다. 인텔의 최근 구조조정으로 운영이 악화되면서 고객들은 인텔의 가격 전략에 저항하며 대안을 모색하고 있습니다."
+      "summary": "네트워크 인터페이스 카드 (NIC)",
+      "text": "시장은 현재 공급 제약과 생산 우선순위 변화로 인해 병목 현상을 겪고 있습니다. 제조업체들은 수익성이 높은 제품에 우선순위를 두고 있으며, Mellanox 제품에서 특히 지연과 부족이 발생하고 있습니다. Intel은 경쟁력 있는 가격을 제시하며 100Gbps 이하 데이터 속도 제품에서 시장 점유율을 확보하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요: Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다."
+      "summary": "AI 기반 데이터 센터와 엣지 컴퓨팅 수요",
+      "text": "Intel, Broadcom, Nvidia의 최신 실적 보고서에 따르면 AI 기반 데이터 센터와 엣지 컴퓨팅, 하이퍼스케일 환경에서 네트워킹 제품에 대한 수요가 증가하고 있습니다. AI 네트워킹 솔루션 및 맞춤형 가속기에 대한 투자가 이러한 성장을 주도하고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "IC",
       "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "🔌 네트워크 인터페이스 카드 (NIC): 시장은 현재 공급 제약과 생산 우선순위 변화로 인해 병목 현상을 겪고 있습니다. 제조업체들은 수익성이 높은 제품에 우선순위를 두고 있으며, Mellanox 제품에서 특히 지연과 부족이 발생하고 있습니다. Intel은 경쟁력 있는 가격을 제시하며 100Gbps 이하 데이터 속도 제품에서 시장 점유율을 확보하고 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "GPU",
-      "detected_categories": [
-        "GPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI 기반 데이터 센터와 엣지 컴퓨팅 수요: Intel, Broadcom, Nvidia의 최신 실적 보고서에 따르면 AI 기반 데이터 센터와 엣지 컴퓨팅, 하이퍼스케일 환경에서 네트워킹 제품에 대한 수요가 증가하고 있습니다. AI 네트워킹 솔루션 및 맞춤형 가속기에 대한 투자가 이러한 성장을 주도하고 있습니다."
-    },
-    {
-      "date": "2024.10",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "Intel 이더넷 어댑터 수요 회복: Intel의 이더넷 어댑터에 대한 수요는 COVID-19 이전 수준으로 회복되고 있습니다. 특히 OCP(Open Compute Project) 모델이 확장성과 효율성 덕분에 인기를 끌고 있으며, 주요 서버 제조업체와 중국의 시스템 통합업체들이 Intel의 NIC 카드에 대한 관심을 높이고 있습니다."
+      "summary": "Intel 이더넷 어댑터 수요 회복",
+      "text": "Intel의 이더넷 어댑터에 대한 수요는 COVID-19 이전 수준으로 회복되고 있습니다. 특히 OCP(Open Compute Project) 모델이 확장성과 효율성 덕분에 인기를 끌고 있으며, 주요 서버 제조업체와 중국의 시스템 통합업체들이 Intel의 NIC 카드에 대한 관심을 높이고 있습니다."
     },
     {
       "date": "2024.10",
@@ -3790,107 +3787,105 @@
         "IC"
       ],
       "risk_level": "Medium",
-      "summary": "제품 업데이트",
-      "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다."
+      "summary": "NIC 가격 압박",
+      "text": "Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "모바일 CPU: 모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다."
+      "summary": "모바일 CPU",
+      "text": "모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
-        "CPU",
-        "IC"
+        "CPU"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI가 모바일 CPU 전망을 개선할 가능성: AI 시장의 활동 덕분에 Chromebook에서 일부 긍정적인 성장 조짐이 보입니다. Intel의 AI PC인 Lunar Lake 시리즈가 3분기에 출시될 예정이며, AI 수요의 강도를 시험할 것입니다. 그러나 4분기 예측이 제한적인 만큼 출시의 지속 가능성에 대한 가시성은 낮습니다."
+      "summary": "AI가 모바일 CPU 전망을 개선할 가능성",
+      "text": "AI 시장의 활동 덕분에 Chromebook에서 일부 긍정적인 성장 조짐이 보입니다. Intel의 AI PC인 Lunar Lake 시리즈가 3분기에 출시될 예정이며, AI 수요의 강도를 시험할 것입니다. 그러나 4분기 예측이 제한적인 만큼 출시의 지속 가능성에 대한 가시성은 낮습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "Intel Elkhart Lake J6412 부족: 산업 시스템, 의료기기 및 POS 단말기와 같은 임베디드 및 IoT 애플리케이션용 Intel Elkhart Lake J6412 프로세서가 현재 품귀 상태에 있습니다."
+      "summary": "Intel Elkhart Lake J6412 부족",
+      "text": "산업 시스템, 의료기기 및 POS 단말기와 같은 임베디드 및 IoT 애플리케이션용 Intel Elkhart Lake J6412 프로세서가 현재 품귀 상태에 있습니다."
     },
     {
       "date": "2024.10",
-      "category": "IC",
+      "category": "Other",
       "detected_categories": [
-        "IC"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "제품 업데이트",
-      "text": "Alder Lake 소형 코어 공급 부족: Intel의 Alder Lake 소형 코어(N200, N305)는 주문량이 많아 공급이 부족합니다. 유통업체에 따르면 N200/N300 할당이 희소하며, 향후 4주 동안 출하가 예상되지 않습니다."
+      "summary": "Alder Lake 소형 코어 공급 부족",
+      "text": "Intel의 Alder Lake 소형 코어(N200, N305)는 주문량이 많아 공급이 부족합니다. 유통업체에 따르면 N200/N300 할당이 희소하며, 향후 4주 동안 출하가 예상되지 않습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "데스크탑 PC: 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다."
+      "summary": "데스크탑 PC",
+      "text": "고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "Intel 보증 연장: Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다."
+      "summary": "Intel 보증 연장",
+      "text": "Intel은 13세대 및 14세대 Core 프로세서의 불안정성 문제로 인해 보증 기간을 2년 연장했습니다. 이러한 불안정성 문제로 AMD Ryzen CPU에 대한 수요가 증가하면서 Intel의 시장 점유율에 영향을 미칠 수 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "워크스테이션 시리즈 활동 증가: 3D 렌더링, 비디오 편집 및 엔지니어링 애플리케이션의 수요로 인해 Intel의 워크스테이션 시리즈에 대한 관심이 높아지고 있습니다. 특히 12세대 데스크탑 CPU(12400, 12700)가 데이터 집약적인 작업에 적합한 솔루션으로 높은 수요를 보이고 있습니다."
+      "summary": "워크스테이션 시리즈 활동 증가",
+      "text": "3D 렌더링, 비디오 편집 및 엔지니어링 애플리케이션의 수요로 인해 Intel의 워크스테이션 시리즈에 대한 관심이 높아지고 있습니다. 특히 12세대 데스크탑 CPU(12400, 12700)가 데이터 집약적인 작업에 적합한 솔루션으로 높은 수요를 보이고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AMD 시장 점유율 증가: Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다."
+      "summary": "AMD 시장 점유율 증가",
+      "text": "Intel의 품질 및 공급 문제가 지속됨에 따라 AMD Ryzen CPU가 시장에서 주목받고 있습니다. Ryzen 프로세서에 대한 선호도가 높아지며 소비자 선택의 변화가 감지되고 있습니다."
     },
     {
       "date": "2024.10",
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC",
-        "Memory"
+        "Memory",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "제품 업데이트",
-      "text": "인텔의 LPDDR5X 통합과 가격 상승: 인텔의 Lunar Lake 모바일 CPU가 LPDDR5X를 통합할 예정이지만, 출시가 2024년 4분기로 지연될 가능성이 있습니다."
+      "summary": "인텔의 LPDDR5X 통합과 가격 상승",
+      "text": "인텔의 Lunar Lake 모바일 CPU가 LPDDR5X를 통합할 예정이지만, 출시가 2024년 4분기로 지연될 가능성이 있습니다."
     },
     {
       "date": "2024.10",
@@ -3899,8 +3894,8 @@
         "IC"
       ],
       "risk_level": "Low",
-      "summary": "제품 업데이트",
-      "text": "AI 발전이 IC 시장 동향 주도: 인텔(Intel)과 텍사스 인스트루먼트(Texas Instruments) 등 주요 제조업체의 최근 실적 보고서에 따르면, 인공지능(AI)의 발전과 산업 및 자동차 부문의 성장으로 인해 IC 수요가 증가하고 있습니다."
+      "summary": "AI 발전이 IC 시장 동향 주도",
+      "text": "인텔(Intel)과 텍사스 인스트루먼트(Texas Instruments) 등 주요 제조업체의 최근 실적 보고서에 따르면, 인공지능(AI)의 발전과 산업 및 자동차 부문의 성장으로 인해 IC 수요가 증가하고 있습니다."
     },
     {
       "date": "2025.02",
@@ -4068,11 +4063,12 @@
       "date": "2025.05",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "제조업체 및 기업 업데이트",
-      "text": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등: 미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다."
+      "summary": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등",
+      "text": "미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다."
     },
     {
       "date": "2025.07",
@@ -4193,8 +4189,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "인텔의 10nm 위기가 전면적인 부족 사태로 심화: 인텔의 장기적인 10nm 생산 문제는 제약 수준을 넘어 전면적인 공급 위기로 확대되었다. 한때 관리 가능했던 병목이 이제는 12세대부터 14세대 CPU 제품군뿐 아니라 4세대 사파이어 래피즈와 5세대 에메랄드 래피즈 같은 주요 서버 라인에서도 치명적인 실패 지점이 되었다. 다수 SKU의 ETA가 2026년 1분기로 연기되었으며, N97, N305, N355 같은 소형 코어 CPU는 ‘슈퍼 쇼트’ 수준의 공급 부족 상태다. 근본 원인으로는 인력 감축과 차세대 AI PC 프로세서로의 제조 역량 재배치가 지목되며, 해당 제품군의 수요는 예상보다 약했다. 인텔은 현재 핵심 고객들에게 전례 없는 6개월 수요 예측을 요구하고 있다."
+      "summary": "인텔의 10nm 위기가 전면적인 부족 사태로 심화",
+      "text": "인텔의 장기적인 10nm 생산 문제는 제약 수준을 넘어 전면적인 공급 위기로 확대되었다. 한때 관리 가능했던 병목이 이제는 12세대부터 14세대 CPU 제품군뿐 아니라 4세대 사파이어 래피즈와 5세대 에메랄드 래피즈 같은 주요 서버 라인에서도 치명적인 실패 지점이 되었다. 다수 SKU의 ETA가 2026년 1분기로 연기되었으며, N97, N305, N355 같은 소형 코어 CPU는 ‘슈퍼 쇼트’ 수준의 공급 부족 상태다. 근본 원인으로는 인력 감축과 차세대 AI PC 프로세서로의 제조 역량 재배치가 지목되며, 해당 제품군의 수요는 예상보다 약했다. 인텔은 현재 핵심 고객들에게 전례 없는 6개월 수요 예측을 요구하고 있다."
     },
     {
       "date": "2025.10",
@@ -4241,11 +4237,12 @@
       "category": "CPU",
       "detected_categories": [
         "CPU",
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Low",
-      "summary": "제조업체 뉴스 및 업데이트",
-      "text": "인텔: 인텔은 10월 9일 발표를 통해 최첨단 애리조나 Fab 52에서 공식적으로 생산을 시작했다고 밝혔다. 이번 이정표에는 인텔의 최첨단 18A 공정을 처음 적용한 오랜 기대작 팬서 레이크 프로세서의 출시가 포함된다. 이 칩은 2026년 CES에서 데뷔할 것으로 예상되는 차세대 AI PC를 구동하며, 미국 반도체 대기업의 잠재적 전환점으로 평가된다. [Source: Intel Press Release]"
+      "summary": "인텔",
+      "text": "인텔은 10월 9일 발표를 통해 최첨단 애리조나 Fab 52에서 공식적으로 생산을 시작했다고 밝혔다. 이번 이정표에는 인텔의 최첨단 18A 공정을 처음 적용한 오랜 기대작 팬서 레이크 프로세서의 출시가 포함된다. 이 칩은 2026년 CES에서 데뷔할 것으로 예상되는 차세대 AI PC를 구동하며, 미국 반도체 대기업의 잠재적 전환점으로 평가된다. [Source: Intel Press Release]"
     },
     {
       "date": "2025.11",
@@ -4255,8 +4252,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "Intel의 10nm 위기가 구조적 문제로 전환: Intel은 지속 불가능한 생산 비용을 이유로 10nm 포트폴리오(12~14세대 데스크톱, 모바일, 서버 CPUs) 전체에 대해 두 자릿수 가격 인상을 공식적으로 고객사에 제안하고 있다. 이는 해당 부족이 일시적 병목이 아니라, Intel이 차세대 AI PC를 위한 18A 노드에 우선순위를 두면서 전략적 축소 단계에 들어섰음을 의미한다. 소형 코어 CPUs(N 시리즈)와 Raptor Lake Refresh는 여전히 “초 공급 부족” 상태다."
+      "summary": "Intel의 10nm 위기가 구조적 문제로 전환",
+      "text": "Intel은 지속 불가능한 생산 비용을 이유로 10nm 포트폴리오(12~14세대 데스크톱, 모바일, 서버 CPUs) 전체에 대해 두 자릿수 가격 인상을 공식적으로 고객사에 제안하고 있다. 이는 해당 부족이 일시적 병목이 아니라, Intel이 차세대 AI PC를 위한 18A 노드에 우선순위를 두면서 전략적 축소 단계에 들어섰음을 의미한다. 소형 코어 CPUs(N 시리즈)와 Raptor Lake Refresh는 여전히 “초 공급 부족” 상태다."
     },
     {
       "date": "2025.11",
@@ -4286,7 +4283,7 @@
         "Memory"
       ],
       "risk_level": "Low",
-      "summary": "제조업체 뉴스 및 업데이트",
+      "summary": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",
       "text": "Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]"
     },
     {
@@ -4317,8 +4314,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "Intel의 10nm 포트폴리오, 생존 가능성 약화: Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다."
+      "summary": "Intel의 10nm 포트폴리오, 생존 가능성 약화",
+      "text": "Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다."
     },
     {
       "date": "2026.01",
@@ -4349,8 +4346,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의- T-글래스 기판- 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다."
+      "summary": "T-글래스 기판 부족, 전방위적 공급 차질 확대",
+      "text": "T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의- T-글래스 기판- 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다."
     },
     {
       "date": "2026.02",
@@ -4391,8 +4388,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "Intel 10nm 포트폴리오의 경쟁력 약화: Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다."
+      "summary": "Intel 10nm 포트폴리오의 경쟁력 약화",
+      "text": "Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다."
     },
     {
       "date": "2026.03",
@@ -4402,8 +4399,8 @@
         "Other"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다."
+      "summary": "반도체를 넘어선 원자재 위기 심화",
+      "text": "중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다."
     },
     {
       "date": "2026.03",
@@ -4422,8 +4419,8 @@
         "CPU"
       ],
       "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
-      "text": "Intel 소형 코어 CPU(Alder Lake-N: N97, N305, J6412/SRKUA)는 여전히 심각한 공급 부족 상태이며, 2026년 3월 물량도 이미 취소되었다. Intel은 저마진 SKU를 축소하고 Panther Lake/18A AI PC 생산에 집중하고 있다."
+      "summary": "Intel 소형 코어 CPU(Alder Lake-N",
+      "text": "N97, N305, J6412/SRKUA)는 여전히 심각한 공급 부족 상태이며, 2026년 3월 물량도 이미 취소되었다. Intel은 저마진 SKU를 축소하고 Panther Lake/18A AI PC 생산에 집중하고 있다."
     },
     {
       "date": "2026.03",
@@ -4431,8 +4428,18 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "risk_level": "Medium",
+      "summary": "Intel 소형 코어 CPU(Alder Lake-N",
+      "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년까지 전량 매진 상태이다. 예약 리드타임은 불확실하며, 고코어 SKU(9555P, 9654P, 9454P)는 하이퍼스케일러 AI 프로젝트 우선 배정으로 8개월 이상 지연되고 있다."
+    },
+    {
+      "date": "2026.03",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU"
+      ],
+      "risk_level": "Low",
+      "summary": "Intel 소형 코어 CPU(Alder Lake-N",
       "text": "Intel 데스크톱 엔트리 CPU(Alder Lake, Twin Lake)는 25% 인상, 프리미엄 모바일(Panther Lake)은 15%, 일반 데스크톱/노트북/엔터프라이즈는 5~10%, 레거시/임베디드는 10% 인상된다."
     },
     {
@@ -4456,8 +4463,8 @@
         "Passive"
       ],
       "risk_level": "High",
-      "summary": "주요 주제",
-      "text": "원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다."
+      "summary": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+      "text": "중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다."
     },
     {
       "date": "2026.04",
@@ -4494,20 +4501,22 @@
       "date": "2026.05",
       "category": "CPU",
       "detected_categories": [
-        "CPU"
+        "CPU",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
-      "text": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예: 6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다."
+      "summary": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
+      "text": "6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다."
     },
     {
       "date": "2026.05",
       "category": "CPU",
       "detected_categories": [
-        "CPU"
+        "CPU",
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "summary": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
       "text": "Intel의 현재 주요 병목은 컴퓨트 칩렛에 대한 TSMC의 생산 능력이다. 구체적으로 Intel Lunar Lake(CU7/32) 구성은 “할당” 상태로 전환되었으며, 7월까지 재고가 소진될 것으로 예상된다."
     },
     {
@@ -4516,9 +4525,9 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
-      "text": "Intel 임베디드 CPU 리드타임은 시리즈별로 큰 차이를 보인다: x7 시리즈의 공식 리드타임은 26주인 반면, x6 시리즈는 2028년까지 주문이 찬 상태이다."
+      "risk_level": "Medium",
+      "summary": "Intel 임베디드 CPU 리드타임은 시리즈별로 큰 차이를 보인다",
+      "text": "x7 시리즈의 공식 리드타임은 26주인 반면, x6 시리즈는 2028년까지 주문이 찬 상태이다."
     },
     {
       "date": "2026.05",
@@ -4528,8 +4537,8 @@
         "GPU"
       ],
       "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
-      "text": "Intel 데스크톱 및 모바일 CPU: Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다."
+      "summary": "Intel 데스크톱 및 모바일 CPU",
+      "text": "Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다."
     },
     {
       "date": "2026.05",
@@ -4537,8 +4546,8 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "risk_level": "Medium",
+      "summary": "서버 CPU(DCAI)",
       "text": "2026년 2분기부터 적용되는 Intel 전 포트폴리오 가격 인상 폭은 세그먼트에 따라 5~25% 수준이다. 데스크톱 엔트리 프로세서(Alder Lake, Twin Lake)와 레거시/임베디드 SKU의 조정 폭이 가장 크며(약 15~25%), 메인스트림 데스크톱·노트북·엔터프라이즈 세그먼트는 비교적 완만한 인상(약 5~10%)에 직면해 있다."
     },
     {
@@ -4548,7 +4557,7 @@
         "CPU"
       ],
       "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "summary": "서버 CPU(DCAI)",
       "text": "Intel Atom A39xx 시리즈는 단종(EOL) 통보가 이루어졌으며, 최종 주문일은 2026년 10월 15일, 최종 출하일은 2028년 6월 9일이다."
     },
     {
@@ -4557,8 +4566,8 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
-      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "risk_level": "Medium",
+      "summary": "서버 CPU(DCAI)",
       "text": "Intel Elkhart Lake 스몰 코어 프로세서(J/N/X 시리즈)는 심각한 할당 제약에 직면해 있으며, 일부 구성은 공식적으로 2028년까지 예약이 완료된 상태이다."
     },
     {
@@ -4568,7 +4577,7 @@
         "IC"
       ],
       "risk_level": "High",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
       "text": "Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다."
     },
     {
@@ -4657,13 +4666,13 @@
     },
     {
       "date": "2026.07",
-      "category": "CPU",
+      "category": "Other",
       "detected_categories": [
-        "CPU"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-      "text": "Intel 10nm 임베디드 부품(예: J6412, Elkhart Lake, Raptor Lake-E)은 여전히 심각한 공급 제약 상태에 있으며, 2027~2028년까지 할당 물량에 대한 공급 확약 철회 상태가 지속되고 있다."
+      "summary": "Intel 10nm 임베디드 부품(예",
+      "text": "J6412, Elkhart Lake, Raptor Lake-E)은 여전히 심각한 공급 제약 상태에 있으며, 2027~2028년까지 할당 물량에 대한 공급 확약 철회 상태가 지속되고 있다."
     },
     {
       "date": "2026.07",
@@ -4680,10 +4689,11 @@
       "date": "2026.08",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Other"
       ],
       "risk_level": "Medium",
-      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "summary": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
       "text": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다."
     },
     {

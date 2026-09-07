@@ -1611,13 +1611,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "상업 및 프리미엄 시장 수요: 델 테크놀로지스와 레노버 그룹의 최근 인사이트에 따르면 상업 및 프리미엄 시장에서 데스크탑 PC 수요가 증가하고 있습니다. 델은 상업용 PC 수요가 소폭 증가했으며, 노후화된 설치 기반과 Windows 10의 지원 종료로 인해 교체 주기가 예상된다고 밝혔습니다. 한편, 레노버는 AI 기능이 PC 시장에 도입됨에 따라 프리미엄 판매가 크게 증가하고 있다고 보고했습니다.",
+    "section_raw": "상업 및 프리미엄 시장 수요",
+    "subheading": "상업 및 프리미엄 시장 수요",
+    "text": "델 테크놀로지스와 레노버 그룹의 최근 인사이트에 따르면 상업 및 프리미엄 시장에서 데스크탑 PC 수요가 증가하고 있습니다. 델은 상업용 PC 수요가 소폭 증가했으며, 노후화된 설치 기반과 Windows 10의 지원 종료로 인해 교체 주기가 예상된다고 밝혔습니다. 한편, 레노버는 AI 기능이 PC 시장에 도입됨에 따라 프리미엄 판매가 크게 증가하고 있다고 보고했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "EOL"
@@ -1631,9 +1631,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "🔌 집적회로(IC): 제조업체들이 생산 용량 제약과 원자재 비용 상승에 직면하면서, IC 시장에 부족위험이 증가하고 있습니다. 이러한 위험은 자동차 및 IT 데이터 통신과 같은 핵심 산업에서 수요가 회복되는지 여부에 달려 있습니다. 또한, 단종 예정 제품에 대한 관심이 높아지면서 가격 급등과 생산 중단 가능성 속에서 기업들은 기회를 모색하는 동시에 도전에 직면하고 있습니다. 이에 따라 기업들은 장기 재고 계약과 같은 전략적 공급 관리 방식을 채택하며 불확실한 환경 속에서 운영의 안정성을 확보하고 있습니다.",
+    "section_raw": "집적회로(IC)",
+    "subheading": "집적회로(IC)",
+    "text": "제조업체들이 생산 용량 제약과 원자재 비용 상승에 직면하면서, IC 시장에 부족위험이 증가하고 있습니다. 이러한 위험은 자동차 및 IT 데이터 통신과 같은 핵심 산업에서 수요가 회복되는지 여부에 달려 있습니다. 또한, 단종 예정 제품에 대한 관심이 높아지면서 가격 급등과 생산 중단 가능성 속에서 기업들은 기회를 모색하는 동시에 도전에 직면하고 있습니다. 이에 따라 기업들은 장기 재고 계약과 같은 전략적 공급 관리 방식을 채택하며 불확실한 환경 속에서 운영의 안정성을 확보하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "EOL",
@@ -1644,13 +1644,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
+    "section_raw": "단종 제품(EOL) 수요 증가",
+    "subheading": "단종 제품(EOL) 수요 증가",
+    "text": "자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
       "AMD"
     ],
@@ -2009,14 +2009,13 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "HDD 시장 혼란: AI 및 클라우드용 대용량 드라이브 수요가 공급을 압도하면서 Seagate와 WD 같은 제조사들은 2년 단위의 수요 예측을 요구하고 있습니다. 동시에 저용량 드라이브는 단종(EOL) 통보와 함께 리드타임이 20주를 초과하여 전체 용량 스펙트럼에 걸쳐 공급 압박이 발생하고 있습니다.",
+    "section_raw": "HDD 시장 혼란",
+    "subheading": "HDD 시장 혼란",
+    "text": "AI 및 클라우드용 대용량 드라이브 수요가 공급을 압도하면서 Seagate와 WD 같은 제조사들은 2년 단위의 수요 예측을 요구하고 있습니다. 동시에 저용량 드라이브는 단종(EOL) 통보와 함께 리드타임이 20주를 초과하여 전체 용량 스펙트럼에 걸쳐 공급 압박이 발생하고 있습니다.",
     "detected_vendors": [
       "Seagate",
       "Western Digital"
@@ -2247,14 +2246,13 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
+    "section_raw": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
+    "subheading": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
+    "text": "솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -2291,35 +2289,33 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
-      "Storage"
+      "Other"
     ],
-    "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
-    "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "section_raw": "도시바는 20TB 모델(예",
+    "subheading": "도시바는 20TB 모델(예",
     "text": "씨게이트는 저용량 SKU에 대해 “거의 매일” 가격을 올리고 있으며, 배정 물량을 점점 더 작은 단위로 풀고 있습니다. 1TB 드라이브는 사실상 EOL입니다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Toshiba"
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL",
-      "Lead Time",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
   {
     "year": 2026,
     "month": 2,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "스토리지 공급망 붕괴 및 전략적 단종: 2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
+    "section_raw": "스토리지 공급망 붕괴 및 전략적 단종",
+    "subheading": "스토리지 공급망 붕괴 및 전략적 단종",
+    "text": "2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
     "detected_vendors": [
       "Western Digital"
     ],
@@ -2425,14 +2421,13 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
+    "section_raw": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
+    "subheading": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
+    "text": "Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -2648,11 +2643,12 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "키옥시아 NAND 플래시 EOL 공지: 키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
+    "section_raw": "키옥시아 NAND 플래시 EOL 공지",
+    "subheading": "키옥시아 NAND 플래시 EOL 공지",
+    "text": "키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
     "detected_vendors": [
       "Kioxia"
     ],
@@ -2667,12 +2663,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
+    "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
+    "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
+    "text": "Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
@@ -2694,17 +2689,16 @@
       "CPU",
       "GPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "Intel 데스크톱 및 모바일 CPU: Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
+    "section_raw": "Intel 데스크톱 및 모바일 CPU",
+    "subheading": "Intel 데스크톱 및 모바일 CPU",
+    "text": "Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
     "detected_vendors": [
       "Arrow",
       "Intel"
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -2715,15 +2709,14 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "서버 CPU(DCAI)",
+    "subheading": "서버 CPU(DCAI)",
     "text": "Intel Atom A39xx 시리즈는 단종(EOL) 통보가 이루어졌으며, 최종 주문일은 2026년 10월 15일, 최종 출하일은 2028년 6월 9일이다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -2883,14 +2876,13 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴: 엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
+    "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
+    "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
+    "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -3003,14 +2995,13 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
+    "section_raw": "스토리지 공급망, 한계 상황 도달",
+    "subheading": "스토리지 공급망, 한계 상황 도달",
+    "text": "Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -3028,11 +3019,12 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "subheading": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "text": "NVIDIA Jetson 모듈은 대규모 가격 인상(30~50%)과 레거시 모듈(예: Nano, TX2 NX)에 대한 갑작스러운 단종(EOL) 통보에 직면하고 있으며, 최종 주문 기한은 2026년 7월 말로 다가오고 있다. NVIDIA는 또한 공개 시장 구매를 차단하고, 판매 대상을 메인보드 제조업체로만 제한하고 있다.",
+    "section_raw": "NVIDIA Jetson 모듈은 대규모 가격 인상(3050)과 레거시 모듈(예",
+    "subheading": "NVIDIA Jetson 모듈은 대규모 가격 인상(3050)과 레거시 모듈(예",
+    "text": "Nano, TX2 NX)에 대한 갑작스러운 단종(EOL) 통보에 직면하고 있으며, 최종 주문 기한은 2026년 7월 말로 다가오고 있다. NVIDIA는 또한 공개 시장 구매를 차단하고, 판매 대상을 메인보드 제조업체로만 제한하고 있다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -3153,12 +3145,11 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
+    "section_raw": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
+    "subheading": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
+    "text": "DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
       "Micron"
@@ -3174,12 +3165,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격: NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다.",
+    "section_raw": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격",
+    "subheading": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격",
+    "text": "NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
     ],

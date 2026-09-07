@@ -1000,11 +1000,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
+    "section_raw": "고객 불만과 경쟁 심화",
+    "subheading": "고객 불만과 경쟁 심화",
+    "text": "Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
     "detected_vendors": [
       "AMD",
       "Nvidia"
@@ -1017,13 +1017,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "제품 업데이트",
-    "subheading": "제품 업데이트",
-    "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
+    "section_raw": "단종 제품(EOL) 수요 증가",
+    "subheading": "단종 제품(EOL) 수요 증가",
+    "text": "자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
       "AMD"
     ],
@@ -1092,9 +1092,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
+    "section_raw": "Onsemi, SiC 생산능력 확대",
+    "subheading": "Onsemi, SiC 생산능력 확대",
+    "text": "Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -1126,11 +1126,12 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Skyworks, Qorvo 합병 추진: 주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
+    "section_raw": "Skyworks, Qorvo 합병 추진",
+    "subheading": "Skyworks, Qorvo 합병 추진",
+    "text": "주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
     "detected_vendors": [
       "Qorvo"
     ],
@@ -1144,11 +1145,12 @@
     "month": 12,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "TSMC, 엔비디아와 CoWoS 생산능력 확대: 반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
+    "section_raw": "TSMC, 엔비디아와 CoWoS 생산능력 확대",
+    "subheading": "TSMC, 엔비디아와 CoWoS 생산능력 확대",
+    "text": "반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
     "detected_vendors": [
       "Nvidia",
       "TSMC"
@@ -1218,13 +1220,13 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진: 계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
+    "section_raw": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진",
+    "subheading": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진",
+    "text": "계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
     "detected_vendors": [],
     "detected_keywords": [
       "M&A"
@@ -1291,13 +1293,13 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
+    "section_raw": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발",
+    "subheading": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발",
+    "text": "삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
     "detected_vendors": [
       "TSMC",
       "삼성"

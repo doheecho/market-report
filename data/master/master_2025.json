@@ -1252,9 +1252,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "text": "재고 정상화가 진행 중인 기업들: 이 기업들은 재고 조정이 점차 이루어지고 있으며, 수요가 안정되고 재고 수준이 정상화되고 있다고 보고했습니다.",
+    "section_raw": "재고 정상화가 진행 중인 기업들",
+    "subheading": "재고 정상화가 진행 중인 기업들",
+    "text": "이 기업들은 재고 조정이 점차 이루어지고 있으며, 수요가 안정되고 재고 수준이 정상화되고 있다고 보고했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1266,8 +1266,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 정상화가 진행 중인 기업들",
+    "subheading": "재고 정상화가 진행 중인 기업들",
     "text": "TSMC는 2024년 내내 재고 소화가 도전 과제였지만, 특히 자동차와 고성능 컴퓨팅(HPC) 분야에서 상황이 개선되고 있다고 밝혔습니다.",
     "detected_vendors": [
       "TSMC"
@@ -1282,8 +1282,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 정상화가 진행 중인 기업들",
+    "subheading": "재고 정상화가 진행 중인 기업들",
     "text": "Infineon은 유통사들 사이에서 재고 정상화가 나타나고 있다고 보고했으며, 일부 영역에서는 추가 조정이 필요하지만 2025년 중반까지는 대부분 해결될 것으로 기대하고 있습니다.",
     "detected_vendors": [
       "Infineon"
@@ -1299,8 +1299,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 정상화가 진행 중인 기업들",
+    "subheading": "재고 정상화가 진행 중인 기업들",
     "text": "Lattice는 유통 채널의 재고 상황이 꾸준히 개선되고 있으며, 2025년 중반까지 중간 수준의 재고 상태로 회복될 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Lattice"
@@ -1315,8 +1315,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 정상화가 진행 중인 기업들",
+    "subheading": "재고 정상화가 진행 중인 기업들",
     "text": "Skyworks는 내부 재고가 8분기 연속 감소하고 있으며, 이는 긍정적인 신호로 해석됩니다. 다만, 일부 고객층에서는 여전히 과잉 재고가 존재한다고 언급했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1329,9 +1329,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "text": "재고 소화가 악화된 기업들: 이들 기업은 수요 회복 지연, 장기화된 재고 감축, Tier 1 공급사들의 과잉 재고 등으로 인해 재고 문제가 여전히 심각하거나 오히려 악화되고 있다고 밝혔습니다.",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
+    "text": "이들 기업은 수요 회복 지연, 장기화된 재고 감축, Tier 1 공급사들의 과잉 재고 등으로 인해 재고 문제가 여전히 심각하거나 오히려 악화되고 있다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1344,8 +1344,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "STMicro는 유통 및 OEM 채널 전반에서 심각한 재고 조정이 발생했다고 보고했으며, 정상 수준 대비 1~2개월 분량의 초과 재고가 발생했다고 밝혔습니다.ON Semi는 재고 압박이 커지고 있으며, 제조 가동률은 2024년 4분기에 59%로 떨어졌고, 2025년 1분기에는 더 하락할 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Onsemi"
@@ -1361,8 +1361,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Microchip은 여전히 높은 재고 수준에 어려움을 겪고 있으며, 특히 직접 고객들의 재고가 유통사 재고보다 더 큰 문제로 지적되고 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -1377,8 +1377,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Vishay는 유럽 지역에서 자동차 및 산업용 재고 과잉으로 인해 수요가 둔화되고, 주문 보충도 지연되고 있다고 보고했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1391,8 +1391,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Diodes는 유럽 등 여러 지역에서 재고 소화가 지연되고 있으며, 수요 약세와 장기 휴업으로 인해 재고가 누적되고 있다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1405,8 +1405,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Renesas는 진행 중인 생산 재고의 감소가 예상보다 더디게 진행되며, 자사 내 재고 수준이 증가하고 있다고 언급했습니다.",
     "detected_vendors": [
       "Renesas"
@@ -1421,8 +1421,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Coherent는 소재 부문에서 재고 조정이 발생하고 있으며, 이는 자동차 수요 약세 때문이라고 밝혔습니다.",
     "detected_vendors": [
       "Coherent"
@@ -1438,8 +1438,8 @@
       "Memory",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
     "text": "Western Digital is NAND 시장에서 심각한 재고 문제가 발생했으며, 과잉 공급으로 인해 가격 압박과 수익성 저하가 발생하고 있다고 보고했습니다.",
     "detected_vendors": [
       "Western Digital"
@@ -1454,9 +1454,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "text": "재고 전망이 중립적이거나 조심스러운 기업들: 이 기업들은 재고 문제는 여전히 존재하지만 악화되지는 않았다고 밝혔으며, 점진적인 개선은 기대하고 있으나 수요 변동성에 대해 신중한 입장을 유지하고 있습니다.",
+    "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "text": "이 기업들은 재고 문제는 여전히 존재하지만 악화되지는 않았다고 밝혔으며, 점진적인 개선은 기대하고 있으나 수요 변동성에 대해 신중한 입장을 유지하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1468,8 +1468,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
     "text": "TE Connectivity는 의료 장비 분야에서 재고 정상화가 지연되고 있지만, 2025년 후반에는 점차 나아질 것으로 예상하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1482,8 +1482,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
     "text": "NXP는 Tier 1 자동차 고객의 재고 수준에 대해 조심스러운 입장을 유지하고 있으며, 과잉 재고가 언제 해소될지는 확실하지 않다고 밝혔습니다.",
     "detected_vendors": [
       "Nexperia"
@@ -1498,8 +1498,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
     "text": "Arrow는 특히 대중 시장 부문에서 재고 소화 속도가 느리며, 완전한 회복 시점을 가늠하기 어렵다고 전했습니다.",
     "detected_vendors": [
       "Arrow"
@@ -1514,8 +1514,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
     "text": "Allegro는 일부 분야에서는 주문이 증가하고 있지만, 여전히 다른 분야에서는 과잉 재고가 남아 있어 혼합된 신호를 보고 있다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1528,8 +1528,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 재고 소화 상황",
+    "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
+    "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
     "text": "MPS는 과거의 과잉 주문으로 인한 재고 소화 문제를 겪고 있으나, 유통 채널 내 재고 수준은 점차 개선되고 있다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1556,9 +1556,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "text": "2025년 낙관적 전망: 다음 기업들은 강력한 수요 요인, 회복세, 성장 기회를 근거로2025년에 대해 긍정적인 전망을 제시했습니다.",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
+    "text": "다음 기업들은 강력한 수요 요인, 회복세, 성장 기회를 근거로2025년에 대해 긍정적인 전망을 제시했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1570,8 +1570,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
     "text": "TSMC는 2025년에 대해 매우 낙관적인 입장을 밝혔으며, AI 및 고성능 컴퓨팅(HPC)을 중심으로 연간 20% 중반대의 매출 성장을 전망하고 있습니다. 자동차, 스마트폰, 산업용 응용 분야에서도 완만한 회복세를 기대하고 있습니다.",
     "detected_vendors": [
       "TSMC"
@@ -1586,8 +1586,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
     "text": "Amphenol은 AI, 방위 산업, 산업 시장에 대한 신뢰를 유지하고 있으며, 데이터 센터 수요 사이클과 AI 응용을 위한 고속 인터커넥트 수요 증가로 2025년에도 지속적인 성장을 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1601,8 +1601,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
     "text": "Qualcomm은 Snapdragon 플랫폼을 기반으로 프리미엄 스마트폰, 자동차, AI PC 분야에서 강한 수요를 전망하고 있습니다. 칩셋 매출은 사상 최고치를 기록할 것으로 보이며, AI 추론 솔루션 채택도 확대될 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1616,8 +1616,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
     "text": "Infineon은 2025년을 긍정적으로 전망하며, AI 관련 매출이 2년 이내에 10억 유로를 초과할 것으로 내다보고 있습니다. 중국을 중심으로 자동차 분야에서도 지속적인 성장을 기대하고 있으며, 실리콘 카바이드(SiC) 및 전력전자 부문에서도 강한 성과를 보이고 있습니다.",
     "detected_vendors": [
       "Infineon"
@@ -1633,8 +1633,8 @@
       "GPU",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
     "text": "AMD는 데이터센터, AI, 클라이언트 컴퓨팅의 성장에 힘입어 2025년 두 자릿수 매출 성장을 예상하고 있습니다. 특히 AI GPU와 기업 AI 도입에서 강세를 유지할 것으로 보고 있습니다.",
     "detected_vendors": [
       "AMD"
@@ -1649,8 +1649,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 낙관적 전망",
+    "subheading": "2025년 낙관적 전망",
     "text": "MPS는 2025년에 대해 낙관적이며, 자동차, 통신, 엔터프라이즈 노트북 시장에서의 성장과 함께 유통망 전반의 재고 상황도 개선될 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1663,9 +1663,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "text": "2025년 비관적 전망: 다음 기업들은 수요 부진, 재고 문제, 거시경제적 불확실성을 이유로 2025년에 대해 우려를 표했습니다.",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
+    "text": "다음 기업들은 수요 부진, 재고 문제, 거시경제적 불확실성을 이유로 2025년에 대해 우려를 표했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1678,8 +1678,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
     "text": "STMicro는 유럽 지역을 중심으로 산업 및 자동차 시장의 약세가 지속될 것으로 예상하고 있으며, 마이크로컨트롤러 수요도 감소하고 있다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1692,8 +1692,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
     "text": "ON Semi는 2025년 1분기 자동차 수요가 전분기 대비 25% 감소할 것으로 예측하며, 중국 내 공장 셧다운이 주문에 영향을 주고 있다고 밝혔습니다.",
     "detected_vendors": [
       "Onsemi"
@@ -1709,8 +1709,8 @@
       "IC",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
     "text": "Microchip은 산업 및 자동차 고객의 재고 감축이 계속되면서 공장 가동률 저하와 같은 어려움을 겪고 있어 비관적인 전망을 유지하고 있습니다.",
     "detected_vendors": [
       "Microchip"
@@ -1725,8 +1725,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
     "text": "Vishay는 유럽 산업 및 자동차 시장에서 높은 재고와 수요 부진으로 인해 약세를 이어가고 있다고 보고했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1739,8 +1739,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
     "text": "Diodes는 특히 유럽 시장에서 산업 및 자동차 분야 셧다운이 장기화되고 있으며, 수요 회복 지연이 발생하고 있다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1753,9 +1753,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "text": "2025년 중립적 혹은 신중한 전망: 다음 기업들은 성장 가능성을 인정하면서도, 재고 조정과 공급망 위험에 대해 신중한 입장을 취했습니다.",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
+    "text": "다음 기업들은 성장 가능성을 인정하면서도, 재고 조정과 공급망 위험에 대해 신중한 입장을 취했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1767,8 +1767,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "TE Connectivity는 AI, 에너지, 항공우주 시장이 성장을 견인할 것으로 보며, 2분기에는 순차적 성장을 기대하지만 전반적으로는 신중한 입장입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -1781,8 +1781,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "Arrow는 산업 시장의 안정화는 확인되었지만, 대중 시장 전자제품 회복 속도에 대해서는 불확실하다고 평가했습니다.",
     "detected_vendors": [
       "Arrow"
@@ -1797,8 +1797,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "Renesas는 산업 수요에 어려움이 있지만, 자동차용 마이크로컨트롤러 및 AI 데이터센터 관련 제품에서 회복 조짐을 보고 있다고 밝혔습니다.",
     "detected_vendors": [
       "Renesas"
@@ -1814,8 +1814,8 @@
       "Memory",
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "Samsung은 2025년 하반기 수요 회복을 기대하고 있으나, 단기적으로는 모바일, PC, 메모리 가격 측면에서 여전히 부담 요인이 존재한다고 밝혔습니다.",
     "detected_vendors": [
       "삼성"
@@ -1830,8 +1830,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "NXP는 자동차 소프트웨어 정의 차량(SDV) 및 레이더 분야에서는 강점을 보이고 있지만, Tier 1 고객사들의 재고 조정이 지속되고 있어 2025년 전망은 중립적이라고 밝혔습니다.",
     "detected_vendors": [
       "Nexperia"
@@ -1846,8 +1846,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
-    "subheading": "CY24 4분기 실적 시즌 하이라이트 2025년 시장 전망",
+    "section_raw": "2025년 중립적 혹은 신중한 전망",
+    "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "Skyworks는 자동차 및 IoT 수요는 견조하지만, 주요 고객의 계절적 수요 감소와 공급처 변경으로 인해 어려움이 예상된다고 밝혔습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2001,9 +2001,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "현재 상황",
-    "subheading": "현재 상황",
-    "text": "관세 변동성 지속: 최근의 변화에도 불구하고, 상황은 4월 초와 유사한 상태를 유지하고 있습니다. 상호관세 체제는 가격 급등락과 미국 재고에 대한 수요를 유발했으며, 이후 90일간의 유예기간이 시작되었습니다.",
+    "section_raw": "관세 변동성 지속",
+    "subheading": "관세 변동성 지속",
+    "text": "최근의 변화에도 불구하고, 상황은 4월 초와 유사한 상태를 유지하고 있습니다. 상호관세 체제는 가격 급등락과 미국 재고에 대한 수요를 유발했으며, 이후 90일간의 유예기간이 시작되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -2020,8 +2020,8 @@
       "Passive",
       "Storage"
     ],
-    "section_raw": "현재 상황",
-    "subheading": "현재 상황",
+    "section_raw": "관세 변동성 지속",
+    "subheading": "관세 변동성 지속",
     "text": "현재 스마트폰, PC, HDD, SSD, GPU는 임시 면제를 받았으나, 수동소자, 커넥터, PSU는 여전히 10% 관세 적용 대상입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2037,12 +2037,13 @@
       "Other",
       "Passive"
     ],
-    "section_raw": "현재 상황",
-    "subheading": "현재 상황",
+    "section_raw": "관세 변동성 지속",
+    "subheading": "관세 변동성 지속",
     "text": "탄탈륨 커패시터 등 공급이 제한된 수동소자의 리드타임이 연장되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Tariff"
     ],
     "risk_level": "Medium"
   },
@@ -2105,9 +2106,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "중국의 확산국 정책",
-    "subheading": "중국의 확산국 정책",
-    "text": "결과: 혼란 확산, 출하 중단, 라벨 변경 노력 등 증가. 중국 내 공급 부족과 변동성 심화.",
+    "section_raw": "결과",
+    "subheading": "결과",
+    "text": "혼란 확산, 출하 중단, 라벨 변경 노력 등 증가. 중국 내 공급 부족과 변동성 심화.",
     "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
@@ -2121,9 +2122,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
-    "text": "신중한 구매 태도: 많은 고객들이 ‘관망’ 전략을 채택하여 주요 구매를 보류하거나 재무/구매 부서에 리스크 평가를 맡기고 있습니다.",
+    "section_raw": "신중한 구매 태도",
+    "subheading": "신중한 구매 태도",
+    "text": "많은 고객들이 ‘관망’ 전략을 채택하여 주요 구매를 보류하거나 재무/구매 부서에 리스크 평가를 맡기고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2137,9 +2138,9 @@
       "Memory",
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
-    "text": "버퍼 재고 확보: 일부 고객들은 90일 유예 기간을 활용해 DRAM, CPU 등 전략적 재고를 조기 확보하고 있습니다.",
+    "section_raw": "버퍼 재고 확보",
+    "subheading": "버퍼 재고 확보",
+    "text": "일부 고객들은 90일 유예 기간을 활용해 DRAM, CPU 등 전략적 재고를 조기 확보하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2151,9 +2152,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
-    "text": "생산 이전: 제조업체들은 중국 관련 관세 부담을 줄이기 위해 생산을 멕시코, 말레이시아, 베트남 또는 자국 내로 이전하고 있습니다.",
+    "section_raw": "생산 이전",
+    "subheading": "생산 이전",
+    "text": "제조업체들은 중국 관련 관세 부담을 줄이기 위해 생산을 멕시코, 말레이시아, 베트남 또는 자국 내로 이전하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -2167,9 +2168,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
-    "text": "비용 전가: 기업들은 견적서에 관세 항목을 추가하거나 하위 고객에게 가격을 조정하는 방식으로 비용을 반영하고 있습니다.",
+    "section_raw": "비용 전가",
+    "subheading": "비용 전가",
+    "text": "기업들은 견적서에 관세 항목을 추가하거나 하위 고객에게 가격을 조정하는 방식으로 비용을 반영하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -2183,9 +2184,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
-    "text": "운영 차질: 중국산 또는 알루미늄이 포함된 제품에 대해 통관 지연이 증가하고 있습니다.",
+    "section_raw": "운영 차질",
+    "subheading": "운영 차질",
+    "text": "중국산 또는 알루미늄이 포함된 제품에 대해 통관 지연이 증가하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2197,9 +2198,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
-    "text": "수요 약세: OEM 및 시스템 빌더들은 시장 불확실성으로 인해 주문이 감소하고 있다고 보고하고 있습니다.",
+    "section_raw": "수요 약세",
+    "subheading": "수요 약세",
+    "text": "OEM 및 시스템 빌더들은 시장 불확실성으로 인해 주문이 감소하고 있다고 보고하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2211,8 +2212,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
+    "section_raw": "수요 약세",
+    "subheading": "수요 약세",
     "text": "일부 분야에서 제한된 영향： 미국 기반 및 클라우드/서버 중심 제조업체는 대체로 영향 없이 정상 수요에 따라 운영 중입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2225,8 +2226,8 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "시장 및 고객 대응",
-    "subheading": "시장 및 고객 대응",
+    "section_raw": "수요 약세",
+    "subheading": "수요 약세",
     "text": "공급 측 영향：공급업체 및 OEM들은 점점 더 오픈 마켓에 재고를 공급하지 않고, 이로 인해 가용성 제한 및 견적 통제 강화 현상이 발생하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2908,9 +2909,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "현재 상황",
-    "subheading": "현재 상황",
-    "text": "미중 관세 휴전 개시: 2025년 5월 12일, 미국과 중국은 90일간의 관세 감축 기간에 합의했습니다. 5월 14일부터 미국은 중국산 제품에 대한 관세를 145%에서 30%로, 중국은 미국산 제품에 대한 관세를 125%에서 10%로 인하했습니다.",
+    "section_raw": "미중 관세 휴전 개시",
+    "subheading": "미중 관세 휴전 개시",
+    "text": "2025년 5월 12일, 미국과 중국은 90일간의 관세 감축 기간에 합의했습니다. 5월 14일부터 미국은 중국산 제품에 대한 관세를 145%에서 30%로, 중국은 미국산 제품에 대한 관세를 125%에서 10%로 인하했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -2924,9 +2925,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "현재 상황",
-    "subheading": "현재 상황",
-    "text": "\"De Minimis\" 면세 기준 변경: 미국은 중국산 저가 소포(800달러 미만)에 적용되는 면세 기준을 변경했습니다. 해당 소포에 대한 관세율은 120%에서 54%로 인하되었고, 소포당 고정 요금 인상 계획(100달러에서 200달러로)은 철회되었습니다.",
+    "section_raw": "De Minimis 면세 기준 변경",
+    "subheading": "De Minimis 면세 기준 변경",
+    "text": "미국은 중국산 저가 소포(800달러 미만)에 적용되는 면세 기준을 변경했습니다. 해당 소포에 대한 관세율은 120%에서 54%로 인하되었고, 소포당 고정 요금 인상 계획(100달러에서 200달러로)은 철회되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -2940,9 +2941,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "현재 상황",
-    "subheading": "현재 상황",
-    "text": "AI 칩 수출 규제 개편 발표: 미국 정부는 5월 15일부터 시행 예정이던 AI 칩 수출 규제를 수정할 계획을 발표했습니다. 이는 국가 안보와 미국의 혁신 보호 사이의 균형을 맞추기 위함입니다.",
+    "section_raw": "AI 칩 수출 규제 개편 발표",
+    "subheading": "AI 칩 수출 규제 개편 발표",
+    "text": "미국 정부는 5월 15일부터 시행 예정이던 AI 칩 수출 규제를 수정할 계획을 발표했습니다. 이는 국가 안보와 미국의 혁신 보호 사이의 균형을 맞추기 위함입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -3429,9 +3430,9 @@
     "detected_categories": [
       "Storage"
     ],
-    "section_raw": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
-    "subheading": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
-    "text": "고용량 HDD (20TB/24TB): AI와 하이퍼스케일러의 수요 급증으로 인해 3분기 물량 선점이 진행 중이며, 이로 인해 생산 압박이 심화되고 소형 고객의 가용성이 제한되고 있습니다.",
+    "section_raw": "고용량 HDD (20TB24TB)",
+    "subheading": "고용량 HDD (20TB24TB)",
+    "text": "AI와 하이퍼스케일러의 수요 급증으로 인해 3분기 물량 선점이 진행 중이며, 이로 인해 생산 압박이 심화되고 소형 고객의 가용성이 제한되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3443,9 +3444,9 @@
     "detected_categories": [
       "Storage"
     ],
-    "section_raw": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
-    "subheading": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
-    "text": "중급형 HDD (8TB-16TB): 제조업체들이 고용량 제품에 우선순위를 두면서 공급 부족이 확대되고 있습니다. (8TB/12TB) 제품의 리드 타임은 최대 10~12주이며, 2차 고객은 최대 6주 지연을 보고하고 있습니다.",
+    "section_raw": "중급형 HDD (8TB-16TB)",
+    "subheading": "중급형 HDD (8TB-16TB)",
+    "text": "제조업체들이 고용량 제품에 우선순위를 두면서 공급 부족이 확대되고 있습니다. (8TB/12TB) 제품의 리드 타임은 최대 10~12주이며, 2차 고객은 최대 6주 지연을 보고하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -3460,9 +3461,9 @@
     "detected_categories": [
       "Storage"
     ],
-    "section_raw": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
-    "subheading": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
-    "text": "엔트리급 HDD (2TB-6TB): 클라우드 최적화 모델에 대한 집중으로 납기가 느려지고 있으며, 특히 엔터프라이즈 SATA 및 일부 NAS 제품을 중심으로 전 용량대에서 채널 가격이 강세를 보이고 있습니다.",
+    "section_raw": "엔트리급 HDD (2TB-6TB)",
+    "subheading": "엔트리급 HDD (2TB-6TB)",
+    "text": "클라우드 최적화 모델에 대한 집중으로 납기가 느려지고 있으며, 특히 엔터프라이즈 SATA 및 일부 NAS 제품을 중심으로 전 용량대에서 채널 가격이 강세를 보이고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -3527,11 +3528,12 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등: 미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
+    "section_raw": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등",
+    "subheading": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등",
+    "text": "미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
     "detected_vendors": [
       "Intel",
       "Nvidia"
@@ -3546,11 +3548,12 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "TSMC, 미국 공장에서 생산 개시: TSMC는 애리조나 공장에서 4nm 칩의 초기 양산을 공식적으로 시작했으며, 이는 미국 내 반도체 제조 확대의 중요한 이정표입니다.",
+    "section_raw": "TSMC, 미국 공장에서 생산 개시",
+    "subheading": "TSMC, 미국 공장에서 생산 개시",
+    "text": "TSMC는 애리조나 공장에서 4nm 칩의 초기 양산을 공식적으로 시작했으며, 이는 미국 내 반도체 제조 확대의 중요한 이정표입니다.",
     "detected_vendors": [
       "TSMC"
     ],
@@ -3564,9 +3567,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
+    "section_raw": "Onsemi, SiC 생산능력 확대",
+    "subheading": "Onsemi, SiC 생산능력 확대",
+    "text": "Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -3580,11 +3583,12 @@
     "month": 5,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "삼성, HBM4 로드맵 공개: 삼성은 NVIDIA 및 Broadcom과 맞춤형 HBM4를 2026년 상반기(1H26)에 출하하기 위해 협의 중인 것으로 알려졌습니다.",
+    "section_raw": "삼성, HBM4 로드맵 공개",
+    "subheading": "삼성, HBM4 로드맵 공개",
+    "text": "삼성은 NVIDIA 및 Broadcom과 맞춤형 HBM4를 2026년 상반기(1H26)에 출하하기 위해 협의 중인 것으로 알려졌습니다.",
     "detected_vendors": [
       "Broadcom",
       "Nvidia",
@@ -3600,9 +3604,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "SMIC, 미국 제재로 인한 생산 차질 직면: 중국의 대표 반도체 제조업체인 SMIC는 장비 유지보수 및 신규 장비 설치 과정에서 심각한 생산 지연을 겪고 있습니다.",
+    "section_raw": "SMIC, 미국 제재로 인한 생산 차질 직면",
+    "subheading": "SMIC, 미국 제재로 인한 생산 차질 직면",
+    "text": "중국의 대표 반도체 제조업체인 SMIC는 장비 유지보수 및 신규 장비 설치 과정에서 심각한 생산 지연을 겪고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -3612,13 +3616,13 @@
   {
     "year": 2025,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "미국, AI 칩 수출 규제 개편 발표: 미국 정부는 5월 15일부터 시행 예정이던 AI 칩에 대한 수출 규제를 개편하겠다고 발표했으며, 이는 국가 안보와 혁신 간 균형을 맞추기 위한 조치입니다.",
+    "section_raw": "미국, AI 칩 수출 규제 개편 발표",
+    "subheading": "미국, AI 칩 수출 규제 개편 발표",
+    "text": "미국 정부는 5월 15일부터 시행 예정이던 AI 칩에 대한 수출 규제를 개편하겠다고 발표했으며, 이는 국가 안보와 혁신 간 균형을 맞추기 위한 조치입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -3630,11 +3634,12 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "말레이시아 반도체 산업, 관세 불확실성 직면: 전문가들에 따르면, 세계적인 반도체 수출국인 말레이시아의 반도체 산업은 미국의 관세 재도입 가능성과 지역 내 경쟁 심화로 인해 압박을 받고 있습니다. 현재는 90일간의 관세 유예 조치가 시행 중이지만, 장기적인 투자에 미칠 영향에 대한 우려는 여전히 존재합니다.",
+    "section_raw": "말레이시아 반도체 산업, 관세 불확실성 직면",
+    "subheading": "말레이시아 반도체 산업, 관세 불확실성 직면",
+    "text": "전문가들에 따르면, 세계적인 반도체 수출국인 말레이시아의 반도체 산업은 미국의 관세 재도입 가능성과 지역 내 경쟁 심화로 인해 압박을 받고 있습니다. 현재는 90일간의 관세 유예 조치가 시행 중이지만, 장기적인 투자에 미칠 영향에 대한 우려는 여전히 존재합니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -4180,11 +4185,12 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "생성형 AI 및 칩 맞춤화: AI 붐은 성능 최적화 칩에 대한 수요를 가속화시키고 있으며, ASIC, 도메인 특화 GPU, OEM 및 통신사의 자체 설계에 대한 투자를 늘리고 있습니다.",
+    "section_raw": "생성형 AI 및 칩 맞춤화",
+    "subheading": "생성형 AI 및 칩 맞춤화",
+    "text": "AI 붐은 성능 최적화 칩에 대한 수요를 가속화시키고 있으며, ASIC, 도메인 특화 GPU, OEM 및 통신사의 자체 설계에 대한 투자를 늘리고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4192,27 +4198,13 @@
   {
     "year": 2025,
     "month": 7,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "스마트 제조 도입: 예측 유지보수 및 디지털 트윈과 같은 Industry 4.0 도구가 웨이퍼 팹을 데이터 중심 환경으로 변화시키고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "반도체 주권 및 리쇼어링: 글로벌 리쇼어링과 정부 주도 반도체 이니셔티브는 공급망을 지속 가능성과 무결점 생산 중심으로 재편하고 있습니다.",
+    "section_raw": "스마트 제조 도입",
+    "subheading": "스마트 제조 도입",
+    "text": "예측 유지보수 및 디지털 트윈과 같은 Industry 4.0 도구가 웨이퍼 팹을 데이터 중심 환경으로 변화시키고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4222,11 +4214,27 @@
     "month": 7,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "무어의 법칙을 넘는 혁신: 현재 혁신은 재료 과학 및 이기종 통합-3D 패키징, 칩렛, SiC/GaN 채택, 그리고 양자 및 뉴로모픽 기술로 초점이 이동하고 있습니다.",
+    "section_raw": "반도체 주권 및 리쇼어링",
+    "subheading": "반도체 주권 및 리쇼어링",
+    "text": "글로벌 리쇼어링과 정부 주도 반도체 이니셔티브는 공급망을 지속 가능성과 무결점 생산 중심으로 재편하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "무어의 법칙을 넘는 혁신",
+    "subheading": "무어의 법칙을 넘는 혁신",
+    "text": "현재 혁신은 재료 과학 및 이기종 통합-3D 패키징, 칩렛, SiC/GaN 채택, 그리고 양자 및 뉴로모픽 기술로 초점이 이동하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4737,11 +4745,12 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "100% 관세로 인한 공급망 재편: 미국의 아시아 반도체 관세로 인해 글로벌 공급망이 붕괴될 수 있으며, 주요 칩 제조업체들은 막대한 비용을 피하기 위해 미국으로 생산을 이전할 가능성이 있습니다.",
+    "section_raw": "100 관세로 인한 공급망 재편",
+    "subheading": "100 관세로 인한 공급망 재편",
+    "text": "미국의 아시아 반도체 관세로 인해 글로벌 공급망이 붕괴될 수 있으며, 주요 칩 제조업체들은 막대한 비용을 피하기 위해 미국으로 생산을 이전할 가능성이 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -4753,11 +4762,12 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "Nvidia, AMD, 중국 칩 판매 매출의 15%를 미국에 납부: 애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다.",
+    "section_raw": "Nvidia, AMD, 중국 칩 판매 매출의 15를 미국에 납부",
+    "subheading": "Nvidia, AMD, 중국 칩 판매 매출의 15를 미국에 납부",
+    "text": "애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다.",
     "detected_vendors": [
       "AMD",
       "Nvidia"
@@ -4806,9 +4816,9 @@
       "Memory",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "DDR4 위기 심화, DDR5 배정도 긴축: DDR4 부족이 임계 수준에 도달했으며, 리드타임이 2026년까지 밀려나고 현물가는 급등하고 있습니다. 이로 인해 DDR5로의 전환이 가속화되고 있으나, 제조사들이 고마진 서버 및 AI 세그먼트를 우선시하면서 심각한 배정 제약과 월 4% 이상 가격 인상이 이어지고 있습니다.",
+    "section_raw": "DDR4 위기 심화, DDR5 배정도 긴축",
+    "subheading": "DDR4 위기 심화, DDR5 배정도 긴축",
+    "text": "DDR4 부족이 임계 수준에 도달했으며, 리드타임이 2026년까지 밀려나고 현물가는 급등하고 있습니다. 이로 인해 DDR5로의 전환이 가속화되고 있으나, 제조사들이 고마진 서버 및 AI 세그먼트를 우선시하면서 심각한 배정 제약과 월 4% 이상 가격 인상이 이어지고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -4821,14 +4831,13 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "HDD 시장 혼란: AI 및 클라우드용 대용량 드라이브 수요가 공급을 압도하면서 Seagate와 WD 같은 제조사들은 2년 단위의 수요 예측을 요구하고 있습니다. 동시에 저용량 드라이브는 단종(EOL) 통보와 함께 리드타임이 20주를 초과하여 전체 용량 스펙트럼에 걸쳐 공급 압박이 발생하고 있습니다.",
+    "section_raw": "HDD 시장 혼란",
+    "subheading": "HDD 시장 혼란",
+    "text": "AI 및 클라우드용 대용량 드라이브 수요가 공급을 압도하면서 Seagate와 WD 같은 제조사들은 2년 단위의 수요 예측을 요구하고 있습니다. 동시에 저용량 드라이브는 단종(EOL) 통보와 함께 리드타임이 20주를 초과하여 전체 용량 스펙트럼에 걸쳐 공급 압박이 발생하고 있습니다.",
     "detected_vendors": [
       "Seagate",
       "Western Digital"
@@ -4844,12 +4853,11 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
+    "section_raw": "아날로그 & 전력 IC 압박",
+    "subheading": "아날로그 & 전력 IC 압박",
+    "text": "텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Texas Instruments"
@@ -4867,12 +4875,11 @@
     "detected_categories": [
       "CPU",
       "GPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
+    "section_raw": "GPU & NIC 배정은 전략적 유지",
+    "subheading": "GPU & NIC 배정은 전략적 유지",
+    "text": "Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
     "detected_vendors": [
       "AMD",
       "Nvidia"
@@ -5420,13 +5427,13 @@
   {
     "year": 2025,
     "month": 9,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "AI 원자재 압박: AI 붐은 칩만 소비하는 것이 아니라 갈륨, 게르마늄, 저유전율 유리섬유, HVLP 동박 등 주요 원자재 공급에도 부담을 주어 전자 산업 전반에 새로운 병목 현상을 만들고 있습니다.",
+    "section_raw": "AI 원자재 압박",
+    "subheading": "AI 원자재 압박",
+    "text": "AI 붐은 칩만 소비하는 것이 아니라 갈륨, 게르마늄, 저유전율 유리섬유, HVLP 동박 등 주요 원자재 공급에도 부담을 주어 전자 산업 전반에 새로운 병목 현상을 만들고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -5436,11 +5443,12 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "중국 반덤핑 조사 착수: 중국 상무부는 자국 반도체 부문을 겨냥한 미국의 관련 조치에 대해 반덤핑 조사를 시작한다고 발표했습니다.",
+    "section_raw": "중국 반덤핑 조사 착수",
+    "subheading": "중국 반덤핑 조사 착수",
+    "text": "중국 상무부는 자국 반도체 부문을 겨냥한 미국의 관련 조치에 대해 반덤핑 조사를 시작한다고 발표했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -5485,9 +5493,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 압수로 자동차용 칩 위기 촉발: 네덜란드 정부가 중국 소유의 Nexperia에 대한 통제권을 압수했다. 차량 전자에 필수적인 다이오드, 트랜지스터, 전력 관리 칩의 핵심 공급업체인 만큼, 이번 혼란은 유럽 전역과 그 밖의 지역의 자동차 부문에 급격한 품귀를 초래할 위험이 있으며, 주요 제조사들은 대체 공급원을 확보하기 위해 서두르는 반면 유통업체들은 브로커를 통한 거래가 차단되며 어려움에 직면하고 있다.",
+    "section_raw": "넥스페리아 압수로 자동차용 칩 위기 촉발",
+    "subheading": "넥스페리아 압수로 자동차용 칩 위기 촉발",
+    "text": "네덜란드 정부가 중국 소유의 Nexperia에 대한 통제권을 압수했다. 차량 전자에 필수적인 다이오드, 트랜지스터, 전력 관리 칩의 핵심 공급업체인 만큼, 이번 혼란은 유럽 전역과 그 밖의 지역의 자동차 부문에 급격한 품귀를 초래할 위험이 있으며, 주요 제조사들은 대체 공급원을 확보하기 위해 서두르는 반면 유통업체들은 브로커를 통한 거래가 차단되며 어려움에 직면하고 있다.",
     "detected_vendors": [
       "Nexperia"
     ],
@@ -5504,9 +5512,9 @@
       "CPU",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "인텔의 10nm 위기가 전면적인 부족 사태로 심화: 인텔의 장기적인 10nm 생산 문제는 제약 수준을 넘어 전면적인 공급 위기로 확대되었다. 한때 관리 가능했던 병목이 이제는 12세대부터 14세대 CPU 제품군뿐 아니라 4세대 사파이어 래피즈와 5세대 에메랄드 래피즈 같은 주요 서버 라인에서도 치명적인 실패 지점이 되었다. 다수 SKU의 ETA가 2026년 1분기로 연기되었으며, N97, N305, N355 같은 소형 코어 CPU는 ‘슈퍼 쇼트’ 수준의 공급 부족 상태다. 근본 원인으로는 인력 감축과 차세대 AI PC 프로세서로의 제조 역량 재배치가 지목되며, 해당 제품군의 수요는 예상보다 약했다. 인텔은 현재 핵심 고객들에게 전례 없는 6개월 수요 예측을 요구하고 있다.",
+    "section_raw": "인텔의 10nm 위기가 전면적인 부족 사태로 심화",
+    "subheading": "인텔의 10nm 위기가 전면적인 부족 사태로 심화",
+    "text": "인텔의 장기적인 10nm 생산 문제는 제약 수준을 넘어 전면적인 공급 위기로 확대되었다. 한때 관리 가능했던 병목이 이제는 12세대부터 14세대 CPU 제품군뿐 아니라 4세대 사파이어 래피즈와 5세대 에메랄드 래피즈 같은 주요 서버 라인에서도 치명적인 실패 지점이 되었다. 다수 SKU의 ETA가 2026년 1분기로 연기되었으며, N97, N305, N355 같은 소형 코어 CPU는 ‘슈퍼 쇼트’ 수준의 공급 부족 상태다. 근본 원인으로는 인력 감축과 차세대 AI PC 프로세서로의 제조 역량 재배치가 지목되며, 해당 제품군의 수요는 예상보다 약했다. 인텔은 현재 핵심 고객들에게 전례 없는 6개월 수요 예측을 요구하고 있다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -6010,11 +6018,12 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "중국의 희토류 수출 규제로 공급망 비상: 전 세계 반도체 공급망에 있는 기업들은 무역 전쟁 격화로 인한 혼란에 대비하고 있다. 중국이 희토류 광물 수출을 제한하면서, 세계에서 가장 첨단 반도체를 만드는 장비를 유일하게 생산하는 ASML 홀딩 NV의 출하도 수주일 지연될 수 있다.",
+    "section_raw": "중국의 희토류 수출 규제로 공급망 비상",
+    "subheading": "중국의 희토류 수출 규제로 공급망 비상",
+    "text": "전 세계 반도체 공급망에 있는 기업들은 무역 전쟁 격화로 인한 혼란에 대비하고 있다. 중국이 희토류 광물 수출을 제한하면서, 세계에서 가장 첨단 반도체를 만드는 장비를 유일하게 생산하는 ASML 홀딩 NV의 출하도 수주일 지연될 수 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -6026,11 +6035,12 @@
     "month": 10,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "지정학적 리쇼어링 가속화: 관세와 공급망 취약성의 결합으로 지역 제조에 대한 투자가 가속화되고 있다. 기업들은 2029년까지 ‘중국/대만 제로’ 반도체 공급망을 목표로 계획을 적극 추진하면서 리쇼어링 이니셔티브를 주도하고 있다.",
+    "section_raw": "지정학적 리쇼어링 가속화",
+    "subheading": "지정학적 리쇼어링 가속화",
+    "text": "관세와 공급망 취약성의 결합으로 지역 제조에 대한 투자가 가속화되고 있다. 기업들은 2029년까지 ‘중국/대만 제로’ 반도체 공급망을 목표로 계획을 적극 추진하면서 리쇼어링 이니셔티브를 주도하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Tariff"
@@ -6040,13 +6050,13 @@
   {
     "year": 2025,
     "month": 10,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "ACEA, Nexperia 사태 해결 촉구: 유럽자동차제조협회(ACEA)는 자동차 공급업체들이 완성차 업체에 공급할 부품과 컴포넌트를 생산할 수 없어 유럽 자동차 생산에 중대한 혼란이 발생할 가능성에 대해 깊은 우려를 표했다.",
+    "section_raw": "ACEA, Nexperia 사태 해결 촉구",
+    "subheading": "ACEA, Nexperia 사태 해결 촉구",
+    "text": "유럽자동차제조협회(ACEA)는 자동차 공급업체들이 완성차 업체에 공급할 부품과 컴포넌트를 생산할 수 없어 유럽 자동차 생산에 중대한 혼란이 발생할 가능성에 대해 깊은 우려를 표했다.",
     "detected_vendors": [
       "Nexperia"
     ],
@@ -6058,11 +6068,12 @@
     "month": 10,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "삼성: 삼성전자는 2022년 이후 가장 높은 분기 실적을 예상하며, 2025년 7~9월 영업이익을 12.1조 원(85억 달러)으로 전망한다. 이번 급증은 데이터센터 서버에 대한 강한 수요에 힘입어 범용 메모리(DRAM과 NAND)의 타이트한 공급과 가격 상승이 견인했다. [Source: Reuters]",
+    "section_raw": "삼성",
+    "subheading": "삼성",
+    "text": "삼성전자는 2022년 이후 가장 높은 분기 실적을 예상하며, 2025년 7~9월 영업이익을 12.1조 원(85억 달러)으로 전망한다. 이번 급증은 데이터센터 서버에 대한 강한 수요에 힘입어 범용 메모리(DRAM과 NAND)의 타이트한 공급과 가격 상승이 견인했다. [Source: Reuters]",
     "detected_vendors": [
       "삼성"
     ],
@@ -6076,11 +6087,12 @@
     "month": 10,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "삼성과 SK하이닉스: 양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
+    "section_raw": "삼성과 SK하이닉스",
+    "subheading": "삼성과 SK하이닉스",
+    "text": "양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
     "detected_vendors": [
       "SK하이닉스",
       "삼성"
@@ -6094,11 +6106,12 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "인텔: 인텔은 10월 9일 발표를 통해 최첨단 애리조나 Fab 52에서 공식적으로 생산을 시작했다고 밝혔다. 이번 이정표에는 인텔의 최첨단 18A 공정을 처음 적용한 오랜 기대작 팬서 레이크 프로세서의 출시가 포함된다. 이 칩은 2026년 CES에서 데뷔할 것으로 예상되는 차세대 AI PC를 구동하며, 미국 반도체 대기업의 잠재적 전환점으로 평가된다. [Source: Intel Press Release]",
+    "section_raw": "인텔",
+    "subheading": "인텔",
+    "text": "인텔은 10월 9일 발표를 통해 최첨단 애리조나 Fab 52에서 공식적으로 생산을 시작했다고 밝혔다. 이번 이정표에는 인텔의 최첨단 18A 공정을 처음 적용한 오랜 기대작 팬서 레이크 프로세서의 출시가 포함된다. 이 칩은 2026년 CES에서 데뷔할 것으로 예상되는 차세대 AI PC를 구동하며, 미국 반도체 대기업의 잠재적 전환점으로 평가된다. [Source: Intel Press Release]",
     "detected_vendors": [
       "Intel"
     ],
@@ -6112,9 +6125,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Nexperia 위기가 새로운 국면에 접어들며 산업 전반에 대체 수요가 촉발됨: 위안화 기반 거래를 통한 Nexperia 중국발 제한적 선적이 재개되었으나, OEMs들은 진위성 우려로 인해 10월 13일 이후 생산된 부품을 더 이상 수용하지 않고 있다. 이로 인해 대체품을 찾기 위한 전 세계적 긴급 수요가 발생했으며 일부 유통사는 브로커 거래 지원이 금지되는 상황에 이르렀다.",
+    "section_raw": "Nexperia 위기가 새로운 국면에 접어들며 산업 전반에 대체 수요가 촉발됨",
+    "subheading": "Nexperia 위기가 새로운 국면에 접어들며 산업 전반에 대체 수요가 촉발됨",
+    "text": "위안화 기반 거래를 통한 Nexperia 중국발 제한적 선적이 재개되었으나, OEMs들은 진위성 우려로 인해 10월 13일 이후 생산된 부품을 더 이상 수용하지 않고 있다. 이로 인해 대체품을 찾기 위한 전 세계적 긴급 수요가 발생했으며 일부 유통사는 브로커 거래 지원이 금지되는 상황에 이르렀다.",
     "detected_vendors": [
       "Nexperia"
     ],
@@ -6126,12 +6139,11 @@
     "month": 11,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "2025~26년 대규모 메모리 부족 심화: 삼성은 DDR5 모듈의 계약 가격을 최대 60%까지 인상한 것으로 전해지며, 32GB 가격이 급등했다. 고객들은 최소한의 공급을 확보하기 위해 주간 단위의 비협상 가격과 NCNR 조건을 강제로 받아들이고 있다.",
+    "section_raw": "202526년 대규모 메모리 부족 심화",
+    "subheading": "202526년 대규모 메모리 부족 심화",
+    "text": "삼성은 DDR5 모듈의 계약 가격을 최대 60%까지 인상한 것으로 전해지며, 32GB 가격이 급등했다. 고객들은 최소한의 공급을 확보하기 위해 주간 단위의 비협상 가격과 NCNR 조건을 강제로 받아들이고 있다.",
     "detected_vendors": [
       "삼성"
     ],
@@ -6148,9 +6160,9 @@
       "CPU",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Intel의 10nm 위기가 구조적 문제로 전환: Intel은 지속 불가능한 생산 비용을 이유로 10nm 포트폴리오(12~14세대 데스크톱, 모바일, 서버 CPUs) 전체에 대해 두 자릿수 가격 인상을 공식적으로 고객사에 제안하고 있다. 이는 해당 부족이 일시적 병목이 아니라, Intel이 차세대 AI PC를 위한 18A 노드에 우선순위를 두면서 전략적 축소 단계에 들어섰음을 의미한다. 소형 코어 CPUs(N 시리즈)와 Raptor Lake Refresh는 여전히 “초 공급 부족” 상태다.",
+    "section_raw": "Intel의 10nm 위기가 구조적 문제로 전환",
+    "subheading": "Intel의 10nm 위기가 구조적 문제로 전환",
+    "text": "Intel은 지속 불가능한 생산 비용을 이유로 10nm 포트폴리오(12~14세대 데스크톱, 모바일, 서버 CPUs) 전체에 대해 두 자릿수 가격 인상을 공식적으로 고객사에 제안하고 있다. 이는 해당 부족이 일시적 병목이 아니라, Intel이 차세대 AI PC를 위한 18A 노드에 우선순위를 두면서 전략적 축소 단계에 들어섰음을 의미한다. 소형 코어 CPUs(N 시리즈)와 Raptor Lake Refresh는 여전히 “초 공급 부족” 상태다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -6167,12 +6179,11 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
+    "section_raw": "SSD 시장이 이중 수요 충격으로 압박 심화",
+    "subheading": "SSD 시장이 이중 수요 충격으로 압박 심화",
+    "text": "Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
       "삼성"
@@ -6351,36 +6362,36 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "네트워킹 카드",
-    "subheading": "지속적인 부족 현상",
-    "text": "Broadcom은 핵심 RAID 컨트롤러(예: 9560~8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다.",
+    "section_raw": "Broadcom은 핵심 RAID 컨트롤러(예",
+    "subheading": "Broadcom은 핵심 RAID 컨트롤러(예",
+    "text": "9560~8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다.",
     "detected_vendors": [
       "Broadcom"
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
     "month": 11,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "네트워킹 카드",
+    "section_raw": "Broadcom은 핵심 RAID 컨트롤러(예",
     "subheading": "생산 재개 및 용량 문제",
     "text": "삼성은 DDR5 모듈 가격을 인상했다. 16GB, 32GB 및 128GB 모듈 가격은 약 50% 상승했다.",
     "detected_vendors": [
+      "Broadcom",
       "삼성"
     ],
     "detected_keywords": [],
@@ -6389,15 +6400,16 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "네트워킹 카드",
+    "section_raw": "Broadcom은 핵심 RAID 컨트롤러(예",
     "subheading": "생산 재개 및 용량 문제",
     "text": "주요 메모리 모듈 제조사와 주요 삼성 유통사는 Big 3(삼성, SK하이닉스, 마이크론)로부터 배정 자체를 받지 못해 4분기 가격을 제공하거나 신규 스팟 주문을 수락할 수 없는 상황이다.",
     "detected_vendors": [
+      "Broadcom",
       "Micron",
       "SK하이닉스",
       "삼성"
@@ -6410,15 +6422,16 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "네트워킹 카드",
+    "section_raw": "Broadcom은 핵심 RAID 컨트롤러(예",
     "subheading": "생산 재개 및 용량 문제",
     "text": "하이닉스 유통사들은MFR 공급 부족으로 인해 재고가 있음에도 LPDDR4X/LPDDR5X 제품을 견적하거나 판매할 수 없다고 밝히고 있다. MFR는 오래 지연된 주문에 대해서도 납기를 확약할 수 없는 상태다.",
     "detected_vendors": [
+      "Broadcom",
       "SK하이닉스"
     ],
     "detected_keywords": [
@@ -6430,15 +6443,17 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "IC",
+    "category": "Memory",
     "detected_categories": [
-      "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "네트워킹 카드",
+    "section_raw": "Broadcom은 핵심 RAID 컨트롤러(예",
     "subheading": "생산 재개 및 용량 문제",
     "text": "eMMC 공급이 심각하게 제한되었다는 보고가 있으며, 현재 배정은 전체 주문량의 15%만 충족하고 있다. 가격은 분기마다 급등하고 있다. 3분기에는 4GB 제품 30%, 8GB 제품 20% 가격 인상이 있었다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Broadcom"
+    ],
     "detected_keywords": [
       "Allocation",
       "Price Increase"
@@ -6581,13 +6596,14 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "Memory",
+    "category": "CPU",
     "detected_categories": [
+      "CPU",
       "Memory"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "전 세계적 부족 사태에 대응하기 위해 유통사들이 사상 최초로 RAM 및 마더보드 번들 의무화를 시행: 심각한 글로벌 DRAM 부족으로 인해 일부 유통사는 구매자에게 전례 없는 번들 요구를 적용하고 있는 것으로 전해진다. 특정 채널은 고객이 DRAM 모듈과 마더보드를 1:1 비율로 구매해야 하며, 그렇지 않을 경우 메모리 재고 접근 자체가 거부될 수 있다.",
+    "section_raw": "전 세계적 부족 사태에 대응하기 위해 유통사들이 사상 최초로 RAM 및 마더보드 번들 의무화를 시행",
+    "subheading": "전 세계적 부족 사태에 대응하기 위해 유통사들이 사상 최초로 RAM 및 마더보드 번들 의무화를 시행",
+    "text": "심각한 글로벌 DRAM 부족으로 인해 일부 유통사는 구매자에게 전례 없는 번들 요구를 적용하고 있는 것으로 전해진다. 특정 채널은 고객이 DRAM 모듈과 마더보드를 1:1 비율로 구매해야 하며, 그렇지 않을 경우 메모리 재고 접근 자체가 거부될 수 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
@@ -6597,13 +6613,13 @@
   {
     "year": 2025,
     "month": 11,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "자동차 산업의 ‘탈-중국’ 가속화: Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다. 보고서에 따르면 Tesla와 그 공급업체들은 이미 일부 중국산 부품을 대체했으며, 나머지 부품도 향후 1~2년 내 비중국 생산품으로 교체하는 것을 목표로 하고 있다.",
+    "section_raw": "자동차 산업의 탈-중국 가속화",
+    "subheading": "자동차 산업의 탈-중국 가속화",
+    "text": "Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다. 보고서에 따르면 Tesla와 그 공급업체들은 이미 일부 중국산 부품을 대체했으며, 나머지 부품도 향후 1~2년 내 비중국 생산품으로 교체하는 것을 목표로 하고 있다.",
     "detected_vendors": [
       "Nexperia"
     ],
@@ -6615,11 +6631,12 @@
     "month": 11,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Skyworks, Qorvo 합병 추진: 주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
+    "section_raw": "Skyworks, Qorvo 합병 추진",
+    "subheading": "Skyworks, Qorvo 합병 추진",
+    "text": "주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
     "detected_vendors": [
       "Qorvo"
     ],
@@ -6635,9 +6652,9 @@
     "detected_categories": [
       "Memory"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증: 삼성, 메모리 부족으로 사상 최대 수준의 실적 전망: 삼성전자는 “전통적 메모리 칩의 공급 타이트 및 가격 상승”을 이유로 2025년 3분기 2022년 이후 최고 분기 실적을 기록할 것으로 예상했다. 이는 진행 중인 시장 공급난의 직접적 결과다. [Source: Reuters]",
+    "section_raw": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",
+    "subheading": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",
+    "text": "삼성, 메모리 부족으로 사상 최대 수준의 실적 전망: 삼성전자는 “전통적 메모리 칩의 공급 타이트 및 가격 상승”을 이유로 2025년 3분기 2022년 이후 최고 분기 실적을 기록할 것으로 예상했다. 이는 진행 중인 시장 공급난의 직접적 결과다. [Source: Reuters]",
     "detected_vendors": [
       "삼성"
     ],
@@ -6655,11 +6672,12 @@
       "CPU",
       "Memory"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
+    "section_raw": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",
+    "subheading": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",
     "text": "Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]",
     "detected_vendors": [
-      "Intel"
+      "Intel",
+      "삼성"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -6669,12 +6687,11 @@
     "month": 12,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 공급난 전망, 2027년까지 장기화: 주요 OEM 및 엔터프라이즈 고객들은 이제 DRAM/NAND 공급난이 기존 예상, 2026년이 아니라 2028년까지 장기화될 것으로 전망하고 있습니다. 삼성, SK하이닉스, 키옥시아는 이미 2026년 NAND 생산능력이 전량 판매 완료된 것으로 전해지며, 하이퍼스케일러들과 2027년 물량 배정을 협의 중입니다.",
+    "section_raw": "메모리 공급난 전망, 2027년까지 장기화",
+    "subheading": "메모리 공급난 전망, 2027년까지 장기화",
+    "text": "주요 OEM 및 엔터프라이즈 고객들은 이제 DRAM/NAND 공급난이 기존 예상, 2026년이 아니라 2028년까지 장기화될 것으로 전망하고 있습니다. 삼성, SK하이닉스, 키옥시아는 이미 2026년 NAND 생산능력이 전량 판매 완료된 것으로 전해지며, 하이퍼스케일러들과 2027년 물량 배정을 협의 중입니다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -6692,9 +6709,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음: 샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
+    "section_raw": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음",
+    "subheading": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음",
+    "text": "샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -6713,9 +6730,9 @@
       "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
+    "section_raw": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박",
+    "subheading": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박",
+    "text": "TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
       "TSMC"
@@ -7083,11 +7100,12 @@
     "month": 12,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "TSMC, 엔비디아와 CoWoS 생산능력 확대: 반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
+    "section_raw": "TSMC, 엔비디아와 CoWoS 생산능력 확대",
+    "subheading": "TSMC, 엔비디아와 CoWoS 생산능력 확대",
+    "text": "반도체 장비 공급업체들은 TSMC와 ASE, Amkor, UMC 등 비TSMC 업체들이 첨단 패키징인 웨이퍼-기판 적층(CoWoS) 생산능력 확장을 가속화하고 있다고 밝혔습니다.",
     "detected_vendors": [
       "Nvidia",
       "TSMC"
@@ -7103,11 +7121,12 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "엔비디아 H200 칩, 중국 반입 전 우회 경로 필요: 트럼프 행정부는 엔비디아의 H200 인공지능 프로세서의 중국 수출을 승인했습니다.",
+    "section_raw": "엔비디아 H200 칩, 중국 반입 전 우회 경로 필요",
+    "subheading": "엔비디아 H200 칩, 중국 반입 전 우회 경로 필요",
+    "text": "트럼프 행정부는 엔비디아의 H200 인공지능 프로세서의 중국 수출을 승인했습니다.",
     "detected_vendors": [
       "Nvidia"
     ],

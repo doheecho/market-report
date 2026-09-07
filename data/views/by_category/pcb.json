@@ -65,10 +65,12 @@
       "Other",
       "PCB"
     ],
-    "section_raw": "계속되는 중국의 강제 봉쇄 조치",
-    "subheading": "계속되는 중국의 강제 봉쇄 조치",
+    "section_raw": "Infineon Technologies",
+    "subheading": "Infineon Technologies",
     "text": "Apple Inc.: Apple 공급업체의 절반이 상하이 및 그 인근에 공장을 두고 있는 만큼 강제 코로나19 봉쇄 조치로 인해 직격탄을 맞았습니다. Apple 아이폰 제조사인 Pegatron Corp.을 비롯해 디스플레이, 인쇄회로기판, 열 부품, 배터리, 음향 부품 등을 담당하는 제조업체가 그 영향을 받고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Infineon"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -142,9 +144,9 @@
       "PCB",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "section_raw": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+    "subheading": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+    "text": "중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Intel",
@@ -178,13 +180,14 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "PCB",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "PCB"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래: 중동 지역 분쟁으로 핵심 원자재 공급이 차질을 빚고 있으며, 스마트폰과 컴퓨터부터 AI 서버에 이르기까지 거의 모든 전자기기에 사용되는 인쇄회로기판(PCB) 가격이 상승했다.",
+    "section_raw": "이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래",
+    "subheading": "이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래",
+    "text": "중동 지역 분쟁으로 핵심 원자재 공급이 차질을 빚고 있으며, 스마트폰과 컴퓨터부터 AI 서버에 이르기까지 거의 모든 전자기기에 사용되는 인쇄회로기판(PCB) 가격이 상승했다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -209,15 +212,14 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Other",
+    "category": "PCB",
     "detected_categories": [
-      "Other",
       "PCB",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "\"대규모 수동소자 공급 부족\" 공식화: AI 서버용 고용량 MLCC 수요와 자동차용 수요의 영향으로 MLCC 및 탄탈 커패시터 시장이 심각한 공급 부족 국면에 진입했습니다. 주요 제조업체들은 가격을 15~30% 인상하고 브로커 대상 판매를 제한하는 한편, 리드타임을 20주에서 50주 이상으로 연장하고 있습니다. PCB용 수지 공급 차질과 희토류 수출 금지 등 원자재 제약까지 겹치면서 위기가 더욱 심화하고 있습니다.",
+    "section_raw": "대규모 수동소자 공급 부족 공식화",
+    "subheading": "대규모 수동소자 공급 부족 공식화",
+    "text": "AI 서버용 고용량 MLCC 수요와 자동차용 수요의 영향으로 MLCC 및 탄탈 커패시터 시장이 심각한 공급 부족 국면에 진입했습니다. 주요 제조업체들은 가격을 15~30% 인상하고 브로커 대상 판매를 제한하는 한편, 리드타임을 20주에서 50주 이상으로 연장하고 있습니다. PCB용 수지 공급 차질과 희토류 수출 금지 등 원자재 제약까지 겹치면서 위기가 더욱 심화하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -234,9 +236,9 @@
       "Other",
       "PCB"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
+    "section_raw": "지정학적환경적 차질로 지역 공급망 분절",
+    "subheading": "지정학적환경적 차질로 지역 공급망 분절",
+    "text": "구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",
       "Sony"

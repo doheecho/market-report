@@ -99,11 +99,12 @@
     "month": 7,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
+    "section_raw": "DDR3DDR4 가격은 지속적으로 급등하고 있으며(예",
+    "subheading": "DDR3DDR4 가격은 지속적으로 급등하고 있으며(예",
+    "text": "DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
     "detected_vendors": [
       "Nanya",
       "Winbond"

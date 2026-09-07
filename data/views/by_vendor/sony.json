@@ -237,9 +237,9 @@
       "IC",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
+    "section_raw": "반도체를 넘어선 원자재 위기 심화",
+    "subheading": "반도체를 넘어선 원자재 위기 심화",
+    "text": "중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
     "detected_vendors": [
       "Analog Devices",
       "Intel",
@@ -260,17 +260,18 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas 전력 제품(예",
+    "subheading": "Renesas 전력 제품(예",
     "text": "Sony는 2026년 4월부터 CMOS 센서 IMX 시리즈 부족을 예상하며, 일부 유통사에는 10%만 할당된다. Nittobo 유리 기판 부족으로 2027년까지 생산은 수요의 70% 수준에 제한된다.",
     "detected_vendors": [
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -309,9 +310,9 @@
       "PCB",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "section_raw": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+    "subheading": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+    "text": "중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Intel",
@@ -353,19 +354,103 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "text": "Sony CMOS 센서: IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
+    "text": "IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
     "detected_vendors": [
       "Nvidia",
       "Sony"
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
       "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
+    "text": "Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족에 직면해 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다.",
+    "detected_vendors": [
+      "Qorvo",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
+    "text": "STMicroelectronics 전력 스위치 드라이버는 특히 VN9D30Q100FTR을 중심으로 자동차 시장의 대규모 수요에 힘입어 수요가 급증하고 있다. 제조사의 생산 능력은 자동차용 IC 수요를 충족하기에 부족한 상황이며, 이에 따라 리드타임 연장과 할당 제약이 발생하고 있다.",
+    "detected_vendors": [
+      "STMicroelectronics",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
+    "text": "Texas Instruments는 2026년 7월 1일부터 적용되는 전사적 가격 인상 통보를 발행했다. 이번 조정은 모든 미결 주문 및 선적 물량에 적용되며, 인상률은 제품군 및 MPN에 따라 달라진다. 대부분의 포트폴리오는 10~35%, 일부 레거시/전력 관리 제품군은 최대 85%까지 인상된다.",
+    "detected_vendors": [
+      "Sony",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
+    "text": "Lattice는 리드타임이 매우 제한적인 상황이며, 44주 미만 납기를 요청하는 주문에는 급행 수수료가 부과됩니다. XC7A50T-2CSG324C 및 MachXO 시리즈에 대한 디커밋 보고서.",
+    "detected_vendors": [
+      "Lattice",
+      "Sony"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -376,16 +461,16 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "Sony CMOS 센서 IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
     "detected_vendors": [
       "Nvidia",
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -423,9 +508,9 @@
       "Other",
       "PCB"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
+    "section_raw": "지정학적환경적 차질로 지역 공급망 분절",
+    "subheading": "지정학적환경적 차질로 지역 공급망 분절",
+    "text": "구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",
       "Sony"

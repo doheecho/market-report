@@ -4,12 +4,11 @@
     "month": 1,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 위기가 초인플레이션 단계로 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
+    "section_raw": "메모리 위기가 초인플레이션 단계로 진입",
+    "subheading": "메모리 위기가 초인플레이션 단계로 진입",
+    "text": "DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
@@ -25,12 +24,11 @@
     "month": 1,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 부족이 자동차 산업으로 확산: 마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
+    "section_raw": "메모리 부족이 자동차 산업으로 확산",
+    "subheading": "메모리 부족이 자동차 산업으로 확산",
+    "text": "마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
@@ -48,9 +46,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 분절화 심화: 넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
+    "section_raw": "넥스페리아 분절화 심화",
+    "subheading": "넥스페리아 분절화 심화",
+    "text": "넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -70,9 +68,9 @@
       "CPU",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Intel의 10nm 포트폴리오, 생존 가능성 약화: Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다.",
+    "section_raw": "Intel의 10nm 포트폴리오, 생존 가능성 약화",
+    "subheading": "Intel의 10nm 포트폴리오, 생존 가능성 약화",
+    "text": "Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -86,14 +84,13 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
+    "section_raw": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
+    "subheading": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
+    "text": "솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -424,58 +421,56 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
-      "Storage"
+      "Other"
     ],
-    "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
-    "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
-    "text": "도시바는 20TB+ 모델(예: MG10ACA20TE)을 지원하지 못하고 있으며, 10~24TB 드라이브 리드타임은 2026년 2분기까지 늘어나고 있습니다. 백오더 가격은 더 이상 유지되지 않습니다.",
+    "section_raw": "도시바는 20TB 모델(예",
+    "subheading": "도시바는 20TB 모델(예",
+    "text": "MG10ACA20TE)을 지원하지 못하고 있으며, 10~24TB 드라이브 리드타임은 2026년 2분기까지 늘어나고 있습니다. 백오더 가격은 더 이상 유지되지 않습니다.",
     "detected_vendors": [
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
     "month": 1,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
-      "Storage"
+      "Other"
     ],
-    "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
-    "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "section_raw": "도시바는 20TB 모델(예",
+    "subheading": "도시바는 20TB 모델(예",
     "text": "씨게이트는 저용량 SKU에 대해 “거의 매일” 가격을 올리고 있으며, 배정 물량을 점점 더 작은 단위로 풀고 있습니다. 1TB 드라이브는 사실상 EOL입니다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Toshiba"
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL",
-      "Lead Time",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
   {
     "year": 2026,
     "month": 1,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
-    "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "section_raw": "도시바는 20TB 모델(예",
+    "subheading": "도시바는 20TB 모델(예",
     "text": "주요 CSP조차 16~24TB 용량에서 HDD 부족을 보고하고 있으며, 도시바는 대부분의 승인 벤더 리스트에서 제외되어 있습니다.",
     "detected_vendors": [
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -525,14 +520,14 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Passive",
+    "category": "Other",
     "detected_categories": [
-      "Passive",
+      "Other",
       "Storage"
     ],
-    "section_raw": "수동 부품 리드 타임 연장 및 할당",
-    "subheading": "수동 부품 리드 타임 연장 및 할당",
-    "text": "비쉐이(Vishay) MOSFET(예: SQ2389CES)은 25주 리드타임을 보이며, 유통사는 저항/캐패시터/디스크리트 전반에서 배정 축소가 발생하고 있다고 보고합니다.",
+    "section_raw": "비쉐이(Vishay) MOSFET(예",
+    "subheading": "비쉐이(Vishay) MOSFET(예",
+    "text": "SQ2389CES)은 25주 리드타임을 보이며, 유통사는 저항/캐패시터/디스크리트 전반에서 배정 축소가 발생하고 있다고 보고합니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -545,11 +540,12 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
+    "section_raw": "트럼프, 232조 발동",
+    "subheading": "트럼프, 232조 발동",
+    "text": "Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
     "detected_vendors": [
       "AMD",
       "Nvidia"
@@ -564,11 +560,12 @@
     "month": 1,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "중국, 미국 H200 칩 수출에 대해 신중한 입장: 중국은 미국의 승인 이후 Nvidia의 H200 인공지능(AI) 칩을 수용할 가능성이 높으며, 이는 중국의 방대한 기술 부문에서의 즉각적인 수요에 의해 촉진됩니다.",
+    "section_raw": "중국, 미국 H200 칩 수출에 대해 신중한 입장",
+    "subheading": "중국, 미국 H200 칩 수출에 대해 신중한 입장",
+    "text": "중국은 미국의 승인 이후 Nvidia의 H200 인공지능(AI) 칩을 수용할 가능성이 높으며, 이는 중국의 방대한 기술 부문에서의 즉각적인 수요에 의해 촉진됩니다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -578,13 +575,13 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "SK 하이닉스, 소비자 사업 철수 루머에 대응: SK 하이닉스는 OEM 채널을 통해 소비자 수요를 계속 충족하겠지만, 이를 AI 공급과 균형 있게 맞추는 것이 점점 어려워지고 있습니다.",
+    "section_raw": "SK 하이닉스, 소비자 사업 철수 루머에 대응",
+    "subheading": "SK 하이닉스, 소비자 사업 철수 루머에 대응",
+    "text": "SK 하이닉스는 OEM 채널을 통해 소비자 수요를 계속 충족하겠지만, 이를 AI 공급과 균형 있게 맞추는 것이 점점 어려워지고 있습니다.",
     "detected_vendors": [
       "SK하이닉스"
     ],
@@ -596,11 +593,12 @@
     "month": 1,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "삼성, 4분기 사상 최대 이익 전망: 메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",
+    "section_raw": "삼성, 4분기 사상 최대 이익 전망",
+    "subheading": "삼성, 4분기 사상 최대 이익 전망",
+    "text": "메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",
     "detected_vendors": [
       "삼성"
     ],
@@ -610,13 +608,13 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "TSMC, 매출 약 30% 성장 전망: TSMC는 2026년 1월 15일 실적 콘퍼런스 콜을 개최하고 1분기 가이던스를 제시했습니다. 회사는 매출이 미화 346억~358억 달러 범위가 될 것으로 예상합니다. 매출총이익률은 63~65%로 전망되며, 영업이익률은 54~56%로 크게 상승할 것으로 예상됩니다. [소스: 시킹알파]",
+    "section_raw": "TSMC, 매출 약 30 성장 전망",
+    "subheading": "TSMC, 매출 약 30 성장 전망",
+    "text": "TSMC는 2026년 1월 15일 실적 콘퍼런스 콜을 개최하고 1분기 가이던스를 제시했습니다. 회사는 매출이 미화 346억~358억 달러 범위가 될 것으로 예상합니다. 매출총이익률은 63~65%로 전망되며, 영업이익률은 54~56%로 크게 상승할 것으로 예상됩니다. [소스: 시킹알파]",
     "detected_vendors": [
       "TSMC"
     ],
@@ -628,12 +626,11 @@
     "month": 2,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 위기, \"사후 정산(Post-Settlement)\" 체제로 전환: DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기- 및 NCNR 계약에 사후 정산- 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격- 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
+    "section_raw": "메모리 위기, 사후 정산(Post-Settlement) 체제로 전환",
+    "subheading": "메모리 위기, 사후 정산(Post-Settlement) 체제로 전환",
+    "text": "DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기- 및 NCNR 계약에 사후 정산- 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격- 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
@@ -651,12 +648,11 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면: 도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
+    "section_raw": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
+    "subheading": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
+    "text": "도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
     "detected_vendors": [
       "Nexperia",
       "Onsemi"
@@ -670,14 +666,13 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "스토리지 공급망 붕괴 및 전략적 단종: 2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
+    "section_raw": "스토리지 공급망 붕괴 및 전략적 단종",
+    "subheading": "스토리지 공급망 붕괴 및 전략적 단종",
+    "text": "2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
     "detected_vendors": [
       "Western Digital"
     ],
@@ -693,12 +688,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
+    "section_raw": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이",
+    "subheading": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이",
+    "text": "Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다.",
     "detected_vendors": [
       "Coherent",
       "Mellanox"
@@ -717,9 +711,9 @@
       "IC",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "T-글래스 기판 부족, 전방위적 공급 차질 확대: T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의- T-글래스 기판- 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
+    "section_raw": "T-글래스 기판 부족, 전방위적 공급 차질 확대",
+    "subheading": "T-글래스 기판 부족, 전방위적 공급 차질 확대",
+    "text": "T-글래스 기판 및 유리 섬유 원단의 심각한 부족으로 아날로그, FPGA, CPU 전반에서 공급 차질이 발생하고 있습니다. Analog Devices(ADI)는 LT8 시리즈 주문을 디커밋했으며, 인텔은 이를 사유로 CPU 가격을 10~20% 인상한다고 밝혔습니다. Lattice Semiconductor는 리드타임이 44주를 초과하면서 NPI 수요를 지원하지 못하고 있습니다. 병목의 근본 원인은 AI 수요로, NVIDIA 주도의- T-글래스 기판- 소비가 공급을 잠식하면서 여러 반도체 카테고리에서 웨이퍼 생산 능력보다 더 큰 제약 요인으로 작용하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Intel",
@@ -1295,9 +1289,9 @@
       "CPU",
       "GPU"
     ],
-    "section_raw": "공급망 뉴스",
-    "subheading": "공급망 뉴스",
-    "text": "메타, 장기 AI 인프라 계약으로 수백만 개의 Nvidia GPU·CPU 확보: Nvidia와 메타는 확대된 다년간 계약을 체결했습니다. 메타는 전 세계 데이터센터에 수백만 개의 Nvidia AI 칩을 배치하며, 대규모 인공지능 인프라 구축을 위한 장기적인 GPU, CPU 및 네트워킹 공급을 확보했습니다. 계약에는 Nvidia Blackwell GPU, 차세대 Rubin GPU, 독립형 Grace CPU, 향후 출시될 Vera CPU, 네트워킹 시스템 및 보안 기술이 포함됩니다.",
+    "section_raw": "메타, 장기 AI 인프라 계약으로 수백만 개의 Nvidia GPUCPU 확보",
+    "subheading": "메타, 장기 AI 인프라 계약으로 수백만 개의 Nvidia GPUCPU 확보",
+    "text": "Nvidia와 메타는 확대된 다년간 계약을 체결했습니다. 메타는 전 세계 데이터센터에 수백만 개의 Nvidia AI 칩을 배치하며, 대규모 인공지능 인프라 구축을 위한 장기적인 GPU, CPU 및 네트워킹 공급을 확보했습니다. 계약에는 Nvidia Blackwell GPU, 차세대 Rubin GPU, 독립형 Grace CPU, 향후 출시될 Vera CPU, 네트워킹 시스템 및 보안 기술이 포함됩니다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -1309,11 +1303,12 @@
     "month": 2,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "공급망 뉴스",
-    "subheading": "공급망 뉴스",
-    "text": "미국 안보 검토로 Nvidia의 중국 AI 칩 판매 지연: 도널드 트럼프의 수출 승인 이후 약 두 달이 경과했으나, Nvidia의 중국 대상 H200 AI 칩 판매는 여전히 워싱턴의 최종 승인을 기다리고 있습니다. 미국 정부는 중국 고객에 대한 라이선스 발급에 앞서 국가 안보 검토를 진행 중입니다.",
+    "section_raw": "미국 안보 검토로 Nvidia의 중국 AI 칩 판매 지연",
+    "subheading": "미국 안보 검토로 Nvidia의 중국 AI 칩 판매 지연",
+    "text": "도널드 트럼프의 수출 승인 이후 약 두 달이 경과했으나, Nvidia의 중국 대상 H200 AI 칩 판매는 여전히 워싱턴의 최종 승인을 기다리고 있습니다. 미국 정부는 중국 고객에 대한 라이선스 발급에 앞서 국가 안보 검토를 진행 중입니다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -1327,9 +1322,9 @@
     "detected_categories": [
       "Storage"
     ],
-    "section_raw": "공급망 뉴스",
-    "subheading": "공급망 뉴스",
-    "text": "웨스턴 디지털, 2026년 HDD 전량 매진: 웨스턴 디지털의 어빙 탄 CEO는 2026년 생산 물량이 사실상 모두 매진되었다고 밝혔습니다. 회사는 확정 구매 주문을 통해 연간 대부분의 공급을 이미 확보했으며, 특정 고객과는 2028년까지 계약을 체결한 상태입니다.",
+    "section_raw": "웨스턴 디지털, 2026년 HDD 전량 매진",
+    "subheading": "웨스턴 디지털, 2026년 HDD 전량 매진",
+    "text": "웨스턴 디지털의 어빙 탄 CEO는 2026년 생산 물량이 사실상 모두 매진되었다고 밝혔습니다. 회사는 확정 구매 주문을 통해 연간 대부분의 공급을 이미 확보했으며, 특정 고객과는 2028년까지 계약을 체결한 상태입니다.",
     "detected_vendors": [
       "Western Digital"
     ],
@@ -1396,9 +1391,9 @@
       "CPU",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Intel 10nm 포트폴리오의 경쟁력 약화: Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다.",
+    "section_raw": "Intel 10nm 포트폴리오의 경쟁력 약화",
+    "subheading": "Intel 10nm 포트폴리오의 경쟁력 약화",
+    "text": "Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -1412,14 +1407,13 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
+    "section_raw": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
+    "subheading": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
+    "text": "Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -1441,9 +1435,9 @@
       "IC",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
+    "section_raw": "반도체를 넘어선 원자재 위기 심화",
+    "subheading": "반도체를 넘어선 원자재 위기 심화",
+    "text": "중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
     "detected_vendors": [
       "Analog Devices",
       "Intel",
@@ -1469,9 +1463,9 @@
       "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "중국 시장 분절화와 국산 대체 가속: H200 수출 승인 지연과 중국 하이퍼스케일러에 대한 RDIMM 공급이 약 30%로 제한됨에 따라, 주요 중국 OEM들은 국산 메모리 및 SSD 공급업체 인증을 가속화하고 있다. 엔터프라이즈급 성능 격차는 여전히 존재하지만, 수입 제품 대비 60~75%의 가격 경쟁력이 비용 민감형 시장에서 빠른 채택을 이끌고 있다. 이로 인해 가격 구조, 할당 우선순위, 공급망 가시성이 상이한 이중 구조의 글로벌 메모리 시장이 형성되고 있다.",
+    "section_raw": "중국 시장 분절화와 국산 대체 가속",
+    "subheading": "중국 시장 분절화와 국산 대체 가속",
+    "text": "H200 수출 승인 지연과 중국 하이퍼스케일러에 대한 RDIMM 공급이 약 30%로 제한됨에 따라, 주요 중국 OEM들은 국산 메모리 및 SSD 공급업체 인증을 가속화하고 있다. 엔터프라이즈급 성능 격차는 여전히 존재하지만, 수입 제품 대비 60~75%의 가격 경쟁력이 비용 민감형 시장에서 빠른 채택을 이끌고 있다. 이로 인해 가격 구조, 할당 우선순위, 공급망 가시성이 상이한 이중 구조의 글로벌 메모리 시장이 형성되고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
@@ -1488,9 +1482,9 @@
       "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
+    "section_raw": "유통 채널 재편으로 기존 파트너 배제",
+    "subheading": "유통 채널 재편으로 기존 파트너 배제",
+    "text": "Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
     "detected_vendors": [
       "Arrow",
       "Macnica",
@@ -1606,13 +1600,13 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "text": "Renesas 전력 제품(예: ISL99360FRZ-T)의 리드타임은 Nvidia 보드 수요 증가로 1년까지 늘어났다. 2026년 7월 1일부터 5~50% 가격 인상이 예상된다.",
+    "section_raw": "Renesas 전력 제품(예",
+    "subheading": "Renesas 전력 제품(예",
+    "text": "ISL99360FRZ-T)의 리드타임은 Nvidia 보드 수요 증가로 1년까지 늘어났다. 2026년 7월 1일부터 5~50% 가격 인상이 예상된다.",
     "detected_vendors": [
       "Nvidia",
       "Renesas"
@@ -1628,17 +1622,18 @@
     "month": 3,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas 전력 제품(예",
+    "subheading": "Renesas 전력 제품(예",
     "text": "Sony는 2026년 4월부터 CMOS 센서 IMX 시리즈 부족을 예상하며, 일부 유통사에는 10%만 할당된다. Nittobo 유리 기판 부족으로 2027년까지 생산은 수요의 70% 수준에 제한된다.",
     "detected_vendors": [
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1671,9 +1666,9 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "Intel 소형 코어 CPU(Alder Lake-N: N97, N305, J6412/SRKUA)는 여전히 심각한 공급 부족 상태이며, 2026년 3월 물량도 이미 취소되었다. Intel은 저마진 SKU를 축소하고 Panther Lake/18A AI PC 생산에 집중하고 있다.",
+    "section_raw": "Intel 소형 코어 CPU(Alder Lake-N",
+    "subheading": "Intel 소형 코어 CPU(Alder Lake-N",
+    "text": "N97, N305, J6412/SRKUA)는 여전히 심각한 공급 부족 상태이며, 2026년 3월 물량도 이미 취소되었다. Intel은 저마진 SKU를 축소하고 Panther Lake/18A AI PC 생산에 집중하고 있다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -1689,18 +1684,18 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "Intel 소형 코어 CPU(Alder Lake-N",
+    "subheading": "Intel 소형 코어 CPU(Alder Lake-N",
     "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년까지 전량 매진 상태이다. 예약 리드타임은 불확실하며, 고코어 SKU(9555P, 9654P, 9454P)는 하이퍼스케일러 AI 프로젝트 우선 배정으로 8개월 이상 지연되고 있다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Intel"
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -1709,16 +1704,14 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "Intel 소형 코어 CPU(Alder Lake-N",
+    "subheading": "Intel 소형 코어 CPU(Alder Lake-N",
     "text": "Intel 데스크톱 엔트리 CPU(Alder Lake, Twin Lake)는 25% 인상, 프리미엄 모바일(Panther Lake)은 15%, 일반 데스크톱/노트북/엔터프라이즈는 5~10%, 레거시/임베디드는 10% 인상된다.",
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2026,
@@ -2149,14 +2142,15 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "Passive",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Passive",
       "Storage"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "수동부품 및 원자재 T-글래스 병목",
-    "text": "Vishay MOSFET(예: SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다.",
+    "section_raw": "Vishay MOSFET(예",
+    "subheading": "Vishay MOSFET(예",
+    "text": "SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -2170,10 +2164,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "section_raw": "Vishay MOSFET(예",
+    "subheading": "Vishay MOSFET(예",
     "text": "Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다.",
     "detected_vendors": [
       "Panasonic"
@@ -2186,13 +2181,13 @@
   {
     "year": 2026,
     "month": 3,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향 및 업데이트",
-    "subheading": "공급망 동향 및 업데이트",
-    "text": "알루미늄 및 헬륨 공급 부족이 한국 전자 산업에 부담: 해당 공급 부족은 미국-이스라엘 공습 이후 이란이 호르무즈 해협 봉쇄를 반복적으로 위협하면서 공급 차질 우려가 확대된 가운데 발생했다. 해당 해협은 원유뿐만 아니라 알루미늄과 헬륨을 포함한 주요 원자재의 핵심 운송 경로이다.",
+    "section_raw": "알루미늄 및 헬륨 공급 부족이 한국 전자 산업에 부담",
+    "subheading": "알루미늄 및 헬륨 공급 부족이 한국 전자 산업에 부담",
+    "text": "해당 공급 부족은 미국-이스라엘 공습 이후 이란이 호르무즈 해협 봉쇄를 반복적으로 위협하면서 공급 차질 우려가 확대된 가운데 발생했다. 해당 해협은 원유뿐만 아니라 알루미늄과 헬륨을 포함한 주요 원자재의 핵심 운송 경로이다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
@@ -2238,12 +2233,11 @@
     "month": 4,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 시장, 가격 변동성 속 조정 국면 진입: 1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
+    "section_raw": "메모리 시장, 가격 변동성 속 조정 국면 진입",
+    "subheading": "메모리 시장, 가격 변동성 속 조정 국면 진입",
+    "text": "1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Micron",
       "삼성"
@@ -2261,9 +2255,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "르네사스 공급 불안정, 시장 전반의 설계 변경 촉발: 르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
+    "section_raw": "르네사스 공급 불안정, 시장 전반의 설계 변경 촉발",
+    "subheading": "르네사스 공급 불안정, 시장 전반의 설계 변경 촉발",
+    "text": "르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
     "detected_vendors": [
       "Renesas"
     ],
@@ -2283,9 +2277,9 @@
       "PCB",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "원자재 병목 현상, 반도체를 넘어 연쇄 확산: 중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
+    "section_raw": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+    "subheading": "원자재 병목 현상, 반도체를 넘어 연쇄 확산",
+    "text": "중동 긴장과 연계된 헬륨 공급 차질이 일본, 한국, 동남아시아 전역의 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 동시에 T-글래스 기판 및 고순도 유리 섬유 원단 부족으로 인해 아날로그 IC(ADI), FPGA(Lattice, Intel/Altera), CMOS 센서(Sony) 전반에서 납품 취소(디커밋)가 발생하고 있습니다. 해당 부품의 리드타임은 현재 40~52주를 초과하며, 44주 미만 납기를 요청하는 주문에는 긴급 수수료가 부과되고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Intel",
@@ -2306,9 +2300,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "넥스페리아 공급망 분절화로 영구적 대체 인증 전환 가속: 넥스페리아 차이나가 위안화 기반 거래를 통해 중국 내 출하를 제한적으로 재개했음에도 불구하고, 글로벌 OEM, 특히 자동차 Tier 1 업체들은 드롭인 대체품 인증을 가속화하고 있습니다. 말레이시아 생산은 계속해서 신뢰성 문제에 직면해 있으며, 리드타임은 30~44주까지 늘어나고 있습니다. 정품 인증 절차로 인해 기존 넥스페리아 기반 설계의 조달 주기에는 2~4주가 추가로 소요되고 있습니다.",
+    "section_raw": "넥스페리아 공급망 분절화로 영구적 대체 인증 전환 가속",
+    "subheading": "넥스페리아 공급망 분절화로 영구적 대체 인증 전환 가속",
+    "text": "넥스페리아 차이나가 위안화 기반 거래를 통해 중국 내 출하를 제한적으로 재개했음에도 불구하고, 글로벌 OEM, 특히 자동차 Tier 1 업체들은 드롭인 대체품 인증을 가속화하고 있습니다. 말레이시아 생산은 계속해서 신뢰성 문제에 직면해 있으며, 리드타임은 30~44주까지 늘어나고 있습니다. 정품 인증 절차로 인해 기존 넥스페리아 기반 설계의 조달 주기에는 2~4주가 추가로 소요되고 있습니다.",
     "detected_vendors": [
       "Nexperia"
     ],
@@ -2322,12 +2316,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화: 2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
+    "section_raw": "패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화",
+    "subheading": "패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화",
+    "text": "2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
     "detected_vendors": [
       "Analog Devices"
     ],
@@ -2860,11 +2853,12 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "키옥시아 NAND 플래시 EOL 공지: 키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
+    "section_raw": "키옥시아 NAND 플래시 EOL 공지",
+    "subheading": "키옥시아 NAND 플래시 EOL 공지",
+    "text": "키옥시아는 플로팅 게이트 및 BiCS FLASH™ 3세대 제품의 단종을 공식 발표했습니다. 이에 따라 eMMC, UFS, BGA 폼팩터를 포함한 32nm, 24nm, 15nm 노드 전반의 SLC, MLC, TLC 메모리가 영향을 받습니다. 최종 구매 예측 제출 마감일은 2026년 9월 30일이며, 최종 출하는 2028년 12월 31일까지 진행될 예정입니다.",
     "detected_vendors": [
       "Kioxia"
     ],
@@ -2880,9 +2874,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "STMicroelectronics, 4월 26일부터 가격 인상: STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.",
+    "section_raw": "STMicroelectronics, 4월 26일부터 가격 인상",
+    "subheading": "STMicroelectronics, 4월 26일부터 가격 인상",
+    "text": "STMicroelectronics는 2026년 4월 26일부로 모든 제품 시리즈의 가격을 인상한다는 공식 통지를 발표했습니다. MCU 시리즈는 5% 인상되며, 센서 시리즈는 MPN에 따라 15~70% 인상됩니다. 리드타임 예약이 적용된 모든 미출하 주문에는 수정된 가격이 적용됩니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
@@ -2897,12 +2891,11 @@
     "month": 5,
     "category": "Memory",
     "detected_categories": [
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 시장 변동성 지속, DDR4 가격 급등: 5월 DDR5 RDIMM 현물 가격의 변동성이 확대되었으며, 64GB 모듈 거래는 2,200~2,400달러 구간에 집중되었다. 초기 지표에 따르면 2분기 물량 배정이 타이트해지고 하이퍼스케일러 장기 공급 계약(LTA) 물량이 잔여 공급분을 흡수하면서, 이러한 가격 상승 흐름은 5월과 6월에도 지속될 가능성이 있다. 동시에 DDR4에서는 예상 밖의 수요 반등이 나타나고 있으며, 8Gb/16Gb 가격은 전주 대비 40~50% 급등했다.",
+    "section_raw": "메모리 시장 변동성 지속, DDR4 가격 급등",
+    "subheading": "메모리 시장 변동성 지속, DDR4 가격 급등",
+    "text": "5월 DDR5 RDIMM 현물 가격의 변동성이 확대되었으며, 64GB 모듈 거래는 2,200~2,400달러 구간에 집중되었다. 초기 지표에 따르면 2분기 물량 배정이 타이트해지고 하이퍼스케일러 장기 공급 계약(LTA) 물량이 잔여 공급분을 흡수하면서, 이러한 가격 상승 흐름은 5월과 6월에도 지속될 가능성이 있다. 동시에 DDR4에서는 예상 밖의 수요 반등이 나타나고 있으며, 8Gb/16Gb 가격은 전주 대비 40~50% 급등했다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -2917,9 +2910,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Texas Instruments, 7월 1일 가격 인상 통보로 가격 압박 심화: TI는 2026년 7월 1일부터 전사적 가격 인상을 시행한다고 공식 통보했으며, 인상 폭은 포트폴리오 전반에 걸쳐 10~85%에 달한다. 주문 리드타임은 180일까지 연장되었고, 한층 엄격해진 견적 프로토콜에 따라 가격 공개 전 상세한 최종 고객 정보와 프로젝트 계획 제출이 요구되고 있다. TPS, TLV, LMR 시리즈가 가장 큰 영향을 받고 있으며, 자동차 및 산업용 고객들은 공급 확약 철회와 긴급 납기 수수료 요청 사례를 보고하고 있다.",
+    "section_raw": "Texas Instruments, 7월 1일 가격 인상 통보로 가격 압박 심화",
+    "subheading": "Texas Instruments, 7월 1일 가격 인상 통보로 가격 압박 심화",
+    "text": "TI는 2026년 7월 1일부터 전사적 가격 인상을 시행한다고 공식 통보했으며, 인상 폭은 포트폴리오 전반에 걸쳐 10~85%에 달한다. 주문 리드타임은 180일까지 연장되었고, 한층 엄격해진 견적 프로토콜에 따라 가격 공개 전 상세한 최종 고객 정보와 프로젝트 계획 제출이 요구되고 있다. TPS, TLV, LMR 시리즈가 가장 큰 영향을 받고 있으며, 자동차 및 산업용 고객들은 공급 확약 철회와 긴급 납기 수수료 요청 사례를 보고하고 있다.",
     "detected_vendors": [
       "Texas Instruments"
     ],
@@ -2938,9 +2931,9 @@
       "IC",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
+    "section_raw": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
+    "subheading": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
+    "text": "Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
       "Infineon",
       "Nexperia",
@@ -2959,12 +2952,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
+    "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
+    "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
+    "text": "Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
@@ -2981,13 +2973,13 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "IC",
+    "category": "Other",
     "detected_categories": [
-      "IC"
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "text": "Renesas는 심각한 공급 불안정에 직면해 있으며, 전력 관련 품목(예: ISL99390FRZ)의 리드타임은 52주 이상으로 늘어나고 있다. 2026년 7월 1일부터 5~50%의 가격 인상이 예상된다. 타이밍 사업부 매각이 불확실성을 가중시키면서 OEM 전반에서 광범위한 설계 제외 움직임이 나타나고 있다.",
+    "section_raw": "Renesas는 심각한 공급 불안정에 직면해 있으며, 전력 관련 품목(예",
+    "subheading": "Renesas는 심각한 공급 불안정에 직면해 있으며, 전력 관련 품목(예",
+    "text": "ISL99390FRZ)의 리드타임은 52주 이상으로 늘어나고 있다. 2026년 7월 1일부터 5~50%의 가격 인상이 예상된다. 타이밍 사업부 매각이 불확실성을 가중시키면서 OEM 전반에서 광범위한 설계 제외 움직임이 나타나고 있다.",
     "detected_vendors": [
       "Renesas"
     ],
@@ -3002,18 +2994,18 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "text": "Sony CMOS 센서: IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
+    "text": "IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
     "detected_vendors": [
       "Nvidia",
       "Sony"
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3023,17 +3015,18 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
     "text": "Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족에 직면해 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다.",
     "detected_vendors": [
-      "Qorvo"
+      "Qorvo",
+      "Sony"
     ],
     "detected_keywords": [
       "Discommit",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3043,18 +3036,19 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
     "text": "STMicroelectronics 전력 스위치 드라이버는 특히 VN9D30Q100FTR을 중심으로 자동차 시장의 대규모 수요에 힘입어 수요가 급증하고 있다. 제조사의 생산 능력은 자동차용 IC 수요를 충족하기에 부족한 상황이며, 이에 따라 리드타임 연장과 할당 제약이 발생하고 있다.",
     "detected_vendors": [
-      "STMicroelectronics"
+      "STMicroelectronics",
+      "Sony"
     ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3064,12 +3058,14 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
     "text": "Texas Instruments는 2026년 7월 1일부터 적용되는 전사적 가격 인상 통보를 발행했다. 이번 조정은 모든 미결 주문 및 선적 물량에 적용되며, 인상률은 제품군 및 MPN에 따라 달라진다. 대부분의 포트폴리오는 10~35%, 일부 레거시/전력 관리 제품군은 최대 85%까지 인상된다.",
     "detected_vendors": [
+      "Sony",
       "Texas Instruments"
     ],
     "detected_keywords": [
@@ -3082,18 +3078,19 @@
     "month": 5,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Sony CMOS 센서",
+    "subheading": "Sony CMOS 센서",
     "text": "Lattice는 리드타임이 매우 제한적인 상황이며, 44주 미만 납기를 요청하는 주문에는 급행 수수료가 부과됩니다. XC7A50T-2CSG324C 및 MachXO 시리즈에 대한 디커밋 보고서.",
     "detected_vendors": [
-      "Lattice"
+      "Lattice",
+      "Sony"
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Price Increase"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -3102,11 +3099,12 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예: 6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다.",
+    "section_raw": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
+    "subheading": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
+    "text": "6507P, 6515P)를 중심으로 지속되고 있으며, 리드타임은 4개월 이상으로 늘어났다. Granite Rapids 시리즈(6767P, 6776P)는 극심한 공급 부족 상태가 이어지고 있어, 일부 OEM은 보다 안정적인 공급과 가격 확보를 위해 AMD로 전환하고 있다.",
     "detected_vendors": [
       "AMD",
       "Intel"
@@ -3122,10 +3120,11 @@
     "month": 5,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
+    "subheading": "Intel 서버(Xeon) 공급 부족은 특히 65xxx 시리즈 프로세서(예",
     "text": "Intel의 현재 주요 병목은 컴퓨트 칩렛에 대한 TSMC의 생산 능력이다. 구체적으로 Intel Lunar Lake(CU7/32) 구성은 “할당” 상태로 전환되었으며, 7월까지 재고가 소진될 것으로 예상된다.",
     "detected_vendors": [
       "Intel",
@@ -3144,17 +3143,16 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "Intel 임베디드 CPU 리드타임은 시리즈별로 큰 차이를 보인다: x7 시리즈의 공식 리드타임은 26주인 반면, x6 시리즈는 2028년까지 주문이 찬 상태이다.",
+    "section_raw": "Intel 임베디드 CPU 리드타임은 시리즈별로 큰 차이를 보인다",
+    "subheading": "Intel 임베디드 CPU 리드타임은 시리즈별로 큰 차이를 보인다",
+    "text": "x7 시리즈의 공식 리드타임은 26주인 반면, x6 시리즈는 2028년까지 주문이 찬 상태이다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3164,17 +3162,16 @@
       "CPU",
       "GPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "Intel 데스크톱 및 모바일 CPU: Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
+    "section_raw": "Intel 데스크톱 및 모바일 CPU",
+    "subheading": "Intel 데스크톱 및 모바일 CPU",
+    "text": "Alder Lake(12세대)는 단종(EOL)되었으며 제조사 공급이 제한되어 오픈마켓 가격 상승을 초래하고 있다. Raptor Lake Refresh(14세대)와 Arrow Lake(Ultra Series 2)는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다.",
     "detected_vendors": [
       "Arrow",
       "Intel"
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -3185,14 +3182,12 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "스몰 코어 CPU: 모든 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약이 지속된다.",
+    "section_raw": "스몰 코어 CPU",
+    "subheading": "스몰 코어 CPU",
+    "text": "모든 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약이 지속된다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2026,
@@ -3201,9 +3196,9 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "text": "서버 CPU(DCAI): 10nm 공정 공급 부족이 2026년 3분기까지 지속되어 4세대/5세대 Xeon 공급에 영향을 미치고 있다. Granite Rapids(Xeon 6) 할당은 미국 지역에 우선 배정되고 있으며, 기타 모든 고객은 공급 확보를 위해 명확한 프로젝트 타당성을 제시해야 한다. 공급 제약은 연말까지 지속될 것으로 예상된다.",
+    "section_raw": "서버 CPU(DCAI)",
+    "subheading": "서버 CPU(DCAI)",
+    "text": "10nm 공정 공급 부족이 2026년 3분기까지 지속되어 4세대/5세대 Xeon 공급에 영향을 미치고 있다. Granite Rapids(Xeon 6) 할당은 미국 지역에 우선 배정되고 있으며, 기타 모든 고객은 공급 확보를 위해 명확한 프로젝트 타당성을 제시해야 한다. 공급 제약은 연말까지 지속될 것으로 예상된다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -3218,18 +3213,17 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "서버 CPU(DCAI)",
+    "subheading": "서버 CPU(DCAI)",
     "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 엄격한 할당 상태가 지속되고 있으며, 하이퍼스케일러 및 AI 관련 수요가 계속해서 공급의 대부분을 흡수하고 있다. 고코어 수 SKU(-F 시리즈 주파수 최적화 모델 포함)는 리드타임이 장기화되고 있으며, 일부 고객은 공식 리드타임 12~16주 이상과 오픈마켓에서 개당 약 1,000달러의 프리미엄이 발생하고 있다고 보고하고 있다. 공급 상황의 실질적인 완화 조짐은 관측되지 않는다.",
     "detected_vendors": [
       "AMD"
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3238,17 +3232,16 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "서버 CPU(DCAI)",
+    "subheading": "서버 CPU(DCAI)",
     "text": "2026년 2분기부터 적용되는 Intel 전 포트폴리오 가격 인상 폭은 세그먼트에 따라 5~25% 수준이다. 데스크톱 엔트리 프로세서(Alder Lake, Twin Lake)와 레거시/임베디드 SKU의 조정 폭이 가장 크며(약 15~25%), 메인스트림 데스크톱·노트북·엔터프라이즈 세그먼트는 비교적 완만한 인상(약 5~10%)에 직면해 있다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3257,15 +3250,14 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "서버 CPU(DCAI)",
+    "subheading": "서버 CPU(DCAI)",
     "text": "Intel Atom A39xx 시리즈는 단종(EOL) 통보가 이루어졌으며, 최종 주문일은 2026년 10월 15일, 최종 출하일은 2028년 6월 9일이다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -3276,17 +3268,16 @@
     "detected_categories": [
       "CPU"
     ],
-    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "서버 CPU(DCAI)",
+    "subheading": "서버 CPU(DCAI)",
     "text": "Intel Elkhart Lake 스몰 코어 프로세서(J/N/X 시리즈)는 심각한 할당 제약에 직면해 있으며, 일부 구성은 공식적으로 2028년까지 예약이 완료된 상태이다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3405,17 +3396,17 @@
     "detected_categories": [
       "GPU",
       "IC",
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리 가격 변동 및 할당 붕괴",
-    "subheading": "메모리 가격 변동 및 할당 붕괴",
-    "text": "LPDDR4/5 및 자동차용 eMMC: 8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
+    "section_raw": "LPDDR45 및 자동차용 eMMC",
+    "subheading": "LPDDR45 및 자동차용 eMMC",
+    "text": "8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
     "detected_vendors": [
       "Micron",
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -3426,16 +3417,15 @@
     "month": 5,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리 가격 변동 및 할당 붕괴",
-    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "section_raw": "LPDDR45 및 자동차용 eMMC",
+    "subheading": "LPDDR45 및 자동차용 eMMC",
     "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. SanDisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Allocation"
-    ],
-    "risk_level": "Medium"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2026,
@@ -3656,9 +3646,9 @@
       "Memory",
       "Storage"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "CXMT DDR5 서버 메모리, 양산 및 납품 개시: CXMT는 최근 DDR5 메모리 분야에서 진전을 이루며 양산 및 납품을 시작했고, 중국 내 공급망에 진입하기 시작했다. 이를 통해 중국 모듈 제조사들은 자국산 DRAM 칩 기반의 엔터프라이즈 및 소비자용 스토리지 제품을 출시할 수 있게 되었다.",
+    "section_raw": "CXMT DDR5 서버 메모리, 양산 및 납품 개시",
+    "subheading": "CXMT DDR5 서버 메모리, 양산 및 납품 개시",
+    "text": "CXMT는 최근 DDR5 메모리 분야에서 진전을 이루며 양산 및 납품을 시작했고, 중국 내 공급망에 진입하기 시작했다. 이를 통해 중국 모듈 제조사들은 자국산 DRAM 칩 기반의 엔터프라이즈 및 소비자용 스토리지 제품을 출시할 수 있게 되었다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3666,13 +3656,13 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "삼성전자 노조, 예정된 파업 강행 방침 유지: 삼성전자 노조는 보상 요구가 충족되지 않을 경우 5월 21일부터 18일간 파업에 돌입하겠다고 경고했다. 노조는 5만 명 이상의 조합원이 참여할 것으로 추산하며, 잠재적 일일 손실 비용은 약 6억7,600만 달러에 달할 것으로 보고 있다.",
+    "section_raw": "삼성전자 노조, 예정된 파업 강행 방침 유지",
+    "subheading": "삼성전자 노조, 예정된 파업 강행 방침 유지",
+    "text": "삼성전자 노조는 보상 요구가 충족되지 않을 경우 5월 21일부터 18일간 파업에 돌입하겠다고 경고했다. 노조는 5만 명 이상의 조합원이 참여할 것으로 추산하며, 잠재적 일일 손실 비용은 약 6억7,600만 달러에 달할 것으로 보고 있다.",
     "detected_vendors": [
       "삼성"
     ],
@@ -3682,13 +3672,14 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "PCB",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "PCB"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래: 중동 지역 분쟁으로 핵심 원자재 공급이 차질을 빚고 있으며, 스마트폰과 컴퓨터부터 AI 서버에 이르기까지 거의 모든 전자기기에 사용되는 인쇄회로기판(PCB) 가격이 상승했다.",
+    "section_raw": "이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래",
+    "subheading": "이란 전쟁, 회로기판 공급망 차질 및 기술 기업 비용 상승 초래",
+    "text": "중동 지역 분쟁으로 핵심 원자재 공급이 차질을 빚고 있으며, 스마트폰과 컴퓨터부터 AI 서버에 이르기까지 거의 모든 전자기기에 사용되는 인쇄회로기판(PCB) 가격이 상승했다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3701,9 +3692,9 @@
       "IC",
       "Memory"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "SMIC, 공정 유연성을 활용해 수주 확보: SMIC는 높은 수준의 공정 호환성을 바탕으로 이러한 공급 공백에 대응할 수 있는 독보적인 위치에 있다. 회사는 생산 라인을 특수 메모리용으로 전환하는 데 “약 10% 수준의 추가 전용 장비”만 필요하다고 밝혔으며, 이는 상당한 운영 유연성을 제공한다. [출처: Digitimes]",
+    "section_raw": "SMIC, 공정 유연성을 활용해 수주 확보",
+    "subheading": "SMIC, 공정 유연성을 활용해 수주 확보",
+    "text": "SMIC는 높은 수준의 공정 호환성을 바탕으로 이러한 공급 공백에 대응할 수 있는 독보적인 위치에 있다. 회사는 생산 라인을 특수 메모리용으로 전환하는 데 “약 10% 수준의 추가 전용 장비”만 필요하다고 밝혔으며, 이는 상당한 운영 유연성을 제공한다. [출처: Digitimes]",
     "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
@@ -3713,13 +3704,13 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Advantech, 5개년 엣지 AI 로드맵 수립: Advantech Co.는 엣지 AI 구축 분야의 선도 브랜드로 도약하기 위한 새로운 5개년 계획을 발표했다. 해당 계획은 소프트웨어와 하드웨어 플랫폼 통합, 공급망 디지털화, 글로벌 영업 구조 개편이라는 세 가지 우선순위를 중심으로 한다. [출처: Taipei News]",
+    "section_raw": "Advantech, 5개년 엣지 AI 로드맵 수립",
+    "subheading": "Advantech, 5개년 엣지 AI 로드맵 수립",
+    "text": "Advantech Co.는 엣지 AI 구축 분야의 선도 브랜드로 도약하기 위한 새로운 5개년 계획을 발표했다. 해당 계획은 소프트웨어와 하드웨어 플랫폼 통합, 공급망 디지털화, 글로벌 영업 구조 개편이라는 세 가지 우선순위를 중심으로 한다. [출처: Taipei News]",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3727,13 +3718,13 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진: 계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
+    "section_raw": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진",
+    "subheading": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진",
+    "text": "계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
     "detected_vendors": [],
     "detected_keywords": [
       "M&A"
@@ -3746,12 +3737,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 시장의 초인플레이션 및 구조적 할당 전환: DDR5 RDIMM 가격은 5월 전망치를 뛰어넘는 속도로 상승하고 있으며, 현재 64GB 제품의 현물 거래는 2,800~3,100달러 이상 구간에 집중되고 있다. 하이퍼스케일러들은 장기 공급 계약을 통해 2027~2030년 생산 능력을 지속적으로 선점하고 있으며, 이에 따라 기존 OEM 및 자동차 산업은 사실상 주요 할당 채널에서 배제되고 있다. 동시에 산업용 고객들이 DDR5 CPU 플랫폼 전환을 피하기 위해 프리미엄 가격을 수용하기 시작하면서 DDR4 수요도 견조해지고 있다.",
+    "section_raw": "메모리 시장의 초인플레이션 및 구조적 할당 전환",
+    "subheading": "메모리 시장의 초인플레이션 및 구조적 할당 전환",
+    "text": "DDR5 RDIMM 가격은 5월 전망치를 뛰어넘는 속도로 상승하고 있으며, 현재 64GB 제품의 현물 거래는 2,800~3,100달러 이상 구간에 집중되고 있다. 하이퍼스케일러들은 장기 공급 계약을 통해 2027~2030년 생산 능력을 지속적으로 선점하고 있으며, 이에 따라 기존 OEM 및 자동차 산업은 사실상 주요 할당 채널에서 배제되고 있다. 동시에 산업용 고객들이 DDR5 CPU 플랫폼 전환을 피하기 위해 프리미엄 가격을 수용하기 시작하면서 DDR4 수요도 견조해지고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
@@ -3761,14 +3751,13 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "Passive",
     "detected_categories": [
-      "Other",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "MLCC 및 수동소자 위기, 심각 단계로 격화: Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
+    "section_raw": "MLCC 및 수동소자 위기, 심각 단계로 격화",
+    "subheading": "MLCC 및 수동소자 위기, 심각 단계로 격화",
+    "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
     "detected_vendors": [
       "Murata",
       "Taiyo Yuden",
@@ -3788,9 +3777,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Texas Instruments 공급망 혼란 심화: 7월 1일부 가격 인상(전 제품 포트폴리오 기준 10~85%)이 발효되었으며, 리드타임이 52주 이상 또는 1년까지 연장되면서 공급 부담이 가중되고 있다. 더욱 엄격해진 견적 프로토콜, SN74 시리즈의 공급 확약 철회 및 급행 수수료 부과는 자동차 및 산업용 Tier 1 업체들이 공개 시장 조달과 버퍼 재고 확보 전략을 앞당기도록 만들고 있다.",
+    "section_raw": "Texas Instruments 공급망 혼란 심화",
+    "subheading": "Texas Instruments 공급망 혼란 심화",
+    "text": "7월 1일부 가격 인상(전 제품 포트폴리오 기준 10~85%)이 발효되었으며, 리드타임이 52주 이상 또는 1년까지 연장되면서 공급 부담이 가중되고 있다. 더욱 엄격해진 견적 프로토콜, SN74 시리즈의 공급 확약 철회 및 급행 수수료 부과는 자동차 및 산업용 Tier 1 업체들이 공개 시장 조달과 버퍼 재고 확보 전략을 앞당기도록 만들고 있다.",
     "detected_vendors": [
       "Texas Instruments"
     ],
@@ -3808,9 +3797,9 @@
     "detected_categories": [
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화: EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
+    "section_raw": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화",
+    "subheading": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화",
+    "text": "EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
     "detected_vendors": [
       "Nexperia",
       "Onsemi"
@@ -3824,14 +3813,13 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴: 엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
+    "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
+    "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
+    "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
@@ -3886,9 +3874,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "text": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예: ISL99390FRZ)의 리드타임은 52주 이상이다. 7월 1일부터 5~50%의 가격 인상이 적용되었다. 타이밍 사업 매각과 최근 시스템 업그레이드 차질은 신규 제품 도입(NPI) 프로그램 전반에서 설계 제외 활동을 계속 촉진하고 있다.",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "text": "ISL99390FRZ)의 리드타임은 52주 이상이다. 7월 1일부터 5~50%의 가격 인상이 적용되었다. 타이밍 사업 매각과 최근 시스템 업그레이드 차질은 신규 제품 도입(NPI) 프로그램 전반에서 설계 제외 활동을 계속 촉진하고 있다.",
     "detected_vendors": [
       "Renesas"
     ],
@@ -3905,12 +3893,13 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "On Semi와 Diodes Incorporated는 Nexperia 및 MCC의 인증 전환에 따른 초과 수요를 흡수하고 있다. 리드타임은 40~52주 이상으로 확대되었으며, On Semi는 7월 가격 조정(약 15% 이상)을 발표했고 Diodes는 상업용 등급 주문에 대해 백로그 압축 정책을 시행하고 있다.",
     "detected_vendors": [
       "Nexperia",
-      "Onsemi"
+      "Onsemi",
+      "Renesas"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -3925,10 +3914,11 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "STMicroelectronics는 6월 말 일반 제품군 약 15%, 자동차 등급 제품군 15~30%의 가격 인상을 시행했다. MCU 리드타임은 여전히 20주 이상이며, 센서 제품군은 납기가 2027년 2분기로 연기되고 있다. Mouser를 비롯한 유통업체들은 PMIC 및 전력 스위치 제품의 할당 제한을 시작했다.",
     "detected_vendors": [
+      "Renesas",
       "STMicroelectronics"
     ],
     "detected_keywords": [
@@ -3945,18 +3935,18 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "Lattice 및 Altera/Xilinx의 리드타임은 42~56주로 확대되었다. 44주 미만 납기를 요청하는 주문에는 급행 수수료가 의무적으로 부과된다. XC7A50T 및 MachXO 제품군에서는 공급 확약 철회가 보고되고 있으며, 하이퍼스케일러의 AI 보드 수요가 첨단 패키징 생산 능력을 소진하고 있다.",
     "detected_vendors": [
       "AMD",
       "Intel",
-      "Lattice"
+      "Lattice",
+      "Renesas"
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Price Increase"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -3967,15 +3957,15 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "Qorvo는 산업용 및 자동차 PMIC 포트폴리오 전반에서 심각한 공급 부족이 계속되고 있으며, 제조사들은 대규모 공급 확약 철회를 보고하고 있고 공인 유통망도 수요를 충족하지 못하고 있다. 제한된 가용 재고를 두고 복수의 브로커가 경쟁하면서 현물 시장 가격이 빠르게 상승하고 있다.",
     "detected_vendors": [
-      "Qorvo"
+      "Qorvo",
+      "Renesas"
     ],
     "detected_keywords": [
       "Discommit",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3987,16 +3977,16 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
+    "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "Sony CMOS 센서 IMX 시리즈 공급 부족이 산업용 및 자동차 부문에 영향을 미치고 있으며, 공급 위험이 있는 특정 MPN에는 IMX250LLR-C, IMX178LQJ-C, IMX264LLR-C, IMX253LLR-C, IMX546-AAQJ-C가 포함된다. 글로벌 유리 기판(Nittobo) 부족으로 인해 생산량은 2027년까지 수요의 약 70% 수준으로 제한되고 있으며, 유리 섬유 원단 생산 능력은 Nvidia AI 서버 프로그램에 대거 우선 배정되고 있다.",
     "detected_vendors": [
       "Nvidia",
+      "Renesas",
       "Sony"
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4645,12 +4635,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Memory",
-      "Other"
+      "Memory"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
+    "section_raw": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입",
+    "subheading": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입",
+    "text": "DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
@@ -4664,14 +4653,13 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Other",
+    "category": "Storage",
     "detected_categories": [
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
+    "section_raw": "스토리지 공급망, 한계 상황 도달",
+    "subheading": "스토리지 공급망, 한계 상황 도달",
+    "text": "Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
@@ -4690,12 +4678,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
+    "section_raw": "IC 및 수동부품 리드타임 급증",
+    "subheading": "IC 및 수동부품 리드타임 급증",
+    "text": "Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
     "detected_vendors": [
       "Murata",
       "STMicroelectronics",
@@ -4716,12 +4703,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
+    "section_raw": "GPU 및 네트워킹 병목 심화",
+    "subheading": "GPU 및 네트워킹 병목 심화",
+    "text": "NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
     "detected_vendors": [
       "Broadcom",
       "Mellanox",
@@ -4741,9 +4727,9 @@
       "Memory",
       "Other"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "자동차 및 산업 분야, 존립을 위협하는 수준의 리스크 직면: 자동차 Tier 1 공급업체들은 eMMC, LPDDR 및 개별 부품에서 심각한 공급 공백을 보고하고 있다. 제조업체들이 자동차 등급의 신뢰성보다 AI 서버 부문의 높은 수익성을 우선시하면서, OEM들은 막대한 프리미엄 가격을 감수하며 현물 시장에서 조달해야 하는 상황에 내몰리고 있다.",
+    "section_raw": "자동차 및 산업 분야, 존립을 위협하는 수준의 리스크 직면",
+    "subheading": "자동차 및 산업 분야, 존립을 위협하는 수준의 리스크 직면",
+    "text": "자동차 Tier 1 공급업체들은 eMMC, LPDDR 및 개별 부품에서 심각한 공급 공백을 보고하고 있다. 제조업체들이 자동차 등급의 신뢰성보다 AI 서버 부문의 높은 수익성을 우선시하면서, OEM들은 막대한 프리미엄 가격을 감수하며 현물 시장에서 조달해야 하는 상황에 내몰리고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
@@ -4872,60 +4858,58 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "text": "AMD 고코어 수 SKU(예: 9575F)는 AI 프로젝트 우선 배정으로 인해 최대 40주(10개월)의 리드타임에 직면하고 있으며, OEM에는 어떠한 물량 할당 보장도 제공되지 않고 있다.",
+    "section_raw": "AMD 고코어 수 SKU(예",
+    "subheading": "AMD 고코어 수 SKU(예",
+    "text": "9575F)는 AI 프로젝트 우선 배정으로 인해 최대 40주(10개월)의 리드타임에 직면하고 있으며, OEM에는 어떠한 물량 할당 보장도 제공되지 않고 있다.",
     "detected_vendors": [
       "AMD"
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
     "month": 7,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
+    "section_raw": "AMD 고코어 수 SKU(예",
+    "subheading": "AMD 고코어 수 SKU(예",
     "text": "AMD Turin “-F” 주파수 최적화 SKU(9275F, 9375F, 9475F)는 AI 프로젝트에 우선 할당이 이루어지면서 현재 최대 40주의 리드타임에 직면하고 있다. Tier 1 파트너도 예외가 아니며, 일반 Turin MPN 제품의 리드타임은 6~9개월에 달하고 있다.",
     "detected_vendors": [
       "AMD"
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
     "month": 7,
-    "category": "CPU",
+    "category": "Other",
     "detected_categories": [
-      "CPU"
+      "Other"
     ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "text": "Intel 10nm 임베디드 부품(예: J6412, Elkhart Lake, Raptor Lake-E)은 여전히 심각한 공급 제약 상태에 있으며, 2027~2028년까지 할당 물량에 대한 공급 확약 철회 상태가 지속되고 있다.",
+    "section_raw": "Intel 10nm 임베디드 부품(예",
+    "subheading": "Intel 10nm 임베디드 부품(예",
+    "text": "J6412, Elkhart Lake, Raptor Lake-E)은 여전히 심각한 공급 제약 상태에 있으며, 2027~2028년까지 할당 물량에 대한 공급 확약 철회 상태가 지속되고 있다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "Allocation",
-      "Discommit",
-      "Shortage"
+      "Discommit"
     ],
     "risk_level": "High"
   },
@@ -4952,11 +4936,12 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "subheading": "GPU (데이터센터, 컨슈머, 워크스테이션) 물량 축소 및 채널 혼란",
-    "text": "NVIDIA Jetson 모듈은 대규모 가격 인상(30~50%)과 레거시 모듈(예: Nano, TX2 NX)에 대한 갑작스러운 단종(EOL) 통보에 직면하고 있으며, 최종 주문 기한은 2026년 7월 말로 다가오고 있다. NVIDIA는 또한 공개 시장 구매를 차단하고, 판매 대상을 메인보드 제조업체로만 제한하고 있다.",
+    "section_raw": "NVIDIA Jetson 모듈은 대규모 가격 인상(3050)과 레거시 모듈(예",
+    "subheading": "NVIDIA Jetson 모듈은 대규모 가격 인상(3050)과 레거시 모듈(예",
+    "text": "Nano, TX2 NX)에 대한 갑작스러운 단종(EOL) 통보에 직면하고 있으며, 최종 주문 기한은 2026년 7월 말로 다가오고 있다. NVIDIA는 또한 공개 시장 구매를 차단하고, 판매 대상을 메인보드 제조업체로만 제한하고 있다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -5026,11 +5011,12 @@
     "month": 7,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
+    "section_raw": "DDR3DDR4 가격은 지속적으로 급등하고 있으며(예",
+    "subheading": "DDR3DDR4 가격은 지속적으로 급등하고 있으며(예",
+    "text": "DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다.",
     "detected_vendors": [
       "Nanya",
       "Winbond"
@@ -5285,13 +5271,13 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "SK하이닉스, 미국 역사상 최대 규모 외국 기업 IPO 기록: SK하이닉스는 7월 9일 미국 공모 가격을 ADR당 149달러로 책정했으며, 약 265억 달러를 조달했다. 이는 비미국 기업으로서는 미국 증시 사상 최대 규모의 데뷔 기록이다. 해당 주식은 나스닥에서 SKHY라는 종목 코드로 거래를 시작했으며, 상장 첫날 약 13% 상승한 가격에 마감했다. 이번 공모는 청약 경쟁률이 약 7배에 달한 것으로 알려졌다.",
+    "section_raw": "SK하이닉스, 미국 역사상 최대 규모 외국 기업 IPO 기록",
+    "subheading": "SK하이닉스, 미국 역사상 최대 규모 외국 기업 IPO 기록",
+    "text": "SK하이닉스는 7월 9일 미국 공모 가격을 ADR당 149달러로 책정했으며, 약 265억 달러를 조달했다. 이는 비미국 기업으로서는 미국 증시 사상 최대 규모의 데뷔 기록이다. 해당 주식은 나스닥에서 SKHY라는 종목 코드로 거래를 시작했으며, 상장 첫날 약 13% 상승한 가격에 마감했다. 이번 공모는 청약 경쟁률이 약 7배에 달한 것으로 알려졌다.",
     "detected_vendors": [
       "SK하이닉스"
     ],
@@ -5301,13 +5287,13 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발: 삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
+    "section_raw": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발",
+    "subheading": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발",
+    "text": "삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
     "detected_vendors": [
       "TSMC",
       "삼성"
@@ -5320,15 +5306,14 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "Other",
+    "category": "PCB",
     "detected_categories": [
-      "Other",
       "PCB",
       "Passive"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "\"대규모 수동소자 공급 부족\" 공식화: AI 서버용 고용량 MLCC 수요와 자동차용 수요의 영향으로 MLCC 및 탄탈 커패시터 시장이 심각한 공급 부족 국면에 진입했습니다. 주요 제조업체들은 가격을 15~30% 인상하고 브로커 대상 판매를 제한하는 한편, 리드타임을 20주에서 50주 이상으로 연장하고 있습니다. PCB용 수지 공급 차질과 희토류 수출 금지 등 원자재 제약까지 겹치면서 위기가 더욱 심화하고 있습니다.",
+    "section_raw": "대규모 수동소자 공급 부족 공식화",
+    "subheading": "대규모 수동소자 공급 부족 공식화",
+    "text": "AI 서버용 고용량 MLCC 수요와 자동차용 수요의 영향으로 MLCC 및 탄탈 커패시터 시장이 심각한 공급 부족 국면에 진입했습니다. 주요 제조업체들은 가격을 15~30% 인상하고 브로커 대상 판매를 제한하는 한편, 리드타임을 20주에서 50주 이상으로 연장하고 있습니다. PCB용 수지 공급 차질과 희토류 수출 금지 등 원자재 제약까지 겹치면서 위기가 더욱 심화하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -5343,12 +5328,11 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other",
       "Storage"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "비하이퍼스케일러 대상 메모리·스토리지 물량 할당 붕괴: DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
+    "section_raw": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
+    "subheading": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
+    "text": "DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
       "Micron"
@@ -5364,12 +5348,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC",
-      "Other"
+      "IC"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",
+    "section_raw": "Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발",
+    "subheading": "Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발",
+    "text": "TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
       "Texas Instruments"
@@ -5386,12 +5369,11 @@
     "month": 8,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격: NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다.",
+    "section_raw": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격",
+    "subheading": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격",
+    "text": "NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -5410,9 +5392,9 @@
       "Other",
       "PCB"
     ],
-    "section_raw": "주요 주제",
-    "subheading": "주요 주제",
-    "text": "지정학적·환경적 차질로 지역 공급망 분절: 구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
+    "section_raw": "지정학적환경적 차질로 지역 공급망 분절",
+    "subheading": "지정학적환경적 차질로 지역 공급망 분절",
+    "text": "구마모토 지진의 여파로 Renesas의 포토커플러·자동차용 MCU와 Sony의 CMOS 센서 생산이 계속 차질을 빚고 있습니다. 이와 동시에 중동의 긴장으로 전 세계 PCB용 수지 공급에 차질이 발생했으며, 중국의 희토류 수출 제한으로 특정 광전자 부품 및 자기 부품의 생산이 중단되고 있습니다.",
     "detected_vendors": [
       "Renesas",
       "Sony"
@@ -5488,17 +5470,17 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "text": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다. 자동차용 전력 소자와 MCU(예: SAK-TC277TP)의 리드타임은 52주 이상이며, 유통업체들은 가격과 납기 확정 내용을 신뢰하기 어렵다고 보고하고 있습니다.",
+    "section_raw": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
+    "subheading": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
+    "text": "SAK-TC277TP)의 리드타임은 52주 이상이며, 유통업체들은 가격과 납기 확정 내용을 신뢰하기 어렵다고 보고하고 있습니다.",
     "detected_vendors": [
       "Infineon"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -5507,17 +5489,18 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
+    "subheading": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
     "text": "Renesas는 구마모토 지진의 여파를 계속 겪고 있습니다. 포토커플러 생산은 여전히 중단된 상태이거나 서서히 회복되고 있으며, 자동차용 MCU(RL78·RH850)의 백로그도 크게 늘어나고 있습니다.",
     "detected_vendors": [
+      "Infineon",
       "Renesas"
     ],
     "detected_keywords": [
-      "Natural Disaster / Incident",
-      "Price Increase"
+      "Natural Disaster / Incident"
     ],
     "risk_level": "High"
   },
@@ -5526,17 +5509,18 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
+    "subheading": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
     "text": "Microchip은 8월 중순부터 전 시리즈의 가격을 15~20% 인상했으며, PIC 및 MCP 시리즈의 리드타임은 20~30주로 늘어났습니다.",
     "detected_vendors": [
+      "Infineon",
       "Microchip"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -5545,18 +5529,19 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "section_raw": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
+    "subheading": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다 자동차용 전력 소자와 MCU(예",
     "text": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다.",
     "detected_vendors": [
       "AMD",
+      "Infineon",
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -5923,11 +5908,12 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고: Samsung Electronics는 7월 30일 열린 2026년 2분기 실적 발표 콘퍼런스콜에서 세계 반도체 공급난에 관해 지금까지 나온 것 중 가장 강력한 수준의 경고를 내놓았습니다.",
+    "section_raw": "Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고",
+    "subheading": "Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고",
+    "text": "Samsung Electronics는 7월 30일 열린 2026년 2분기 실적 발표 콘퍼런스콜에서 세계 반도체 공급난에 관해 지금까지 나온 것 중 가장 강력한 수준의 경고를 내놓았습니다.",
     "detected_vendors": [
       "삼성"
     ],
@@ -5943,9 +5929,9 @@
     "detected_categories": [
       "Memory"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "2027년 메모리 생산 능력이 전량 소진된 것으로 알려져: 주요 3대 메모리 공급업체의 DRAM 및 고대역폭 메모리(HBM) 생산 능력은 예정보다 앞서 사실상 전량 할당됐습니다.",
+    "section_raw": "2027년 메모리 생산 능력이 전량 소진된 것으로 알려져",
+    "subheading": "2027년 메모리 생산 능력이 전량 소진된 것으로 알려져",
+    "text": "주요 3대 메모리 공급업체의 DRAM 및 고대역폭 메모리(HBM) 생산 능력은 예정보다 앞서 사실상 전량 할당됐습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation"
@@ -5959,9 +5945,9 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "Micron, 유통망 효율화: Micron은 물량 할당을 엄격히 통제하고 하이퍼스케일러 및 Tier 1 OEM과의 직접 거래 관계를 우선하기 위해 글로벌 유통업체망을 적극적으로 통합하는 한편, 아시아와 미주 지역의 공인 파트너 수를 줄이고 있습니다.",
+    "section_raw": "Micron, 유통망 효율화",
+    "subheading": "Micron, 유통망 효율화",
+    "text": "Micron은 물량 할당을 엄격히 통제하고 하이퍼스케일러 및 Tier 1 OEM과의 직접 거래 관계를 우선하기 위해 글로벌 유통업체망을 적극적으로 통합하는 한편, 아시아와 미주 지역의 공인 파트너 수를 줄이고 있습니다.",
     "detected_vendors": [
       "Micron"
     ],
@@ -5973,13 +5959,13 @@
   {
     "year": 2026,
     "month": 8,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "지정학적 병목 부상: 중동의 수지 공급 부족에서 중국의 희토류 수출 금지와 미국의 AI 칩 수출 통제에 이르기까지, 중국이 수출 통제를 재개할 수 있다는 우려로 특정 희토류 가격이 급등하고 있습니다.",
+    "section_raw": "지정학적 병목 부상",
+    "subheading": "지정학적 병목 부상",
+    "text": "중동의 수지 공급 부족에서 중국의 희토류 수출 금지와 미국의 AI 칩 수출 통제에 이르기까지, 중국이 수출 통제를 재개할 수 있다는 우려로 특정 희토류 가격이 급등하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Shortage"
@@ -5991,11 +5977,12 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "Renesas 구마모토 지진 복구: Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
+    "section_raw": "Renesas 구마모토 지진 복구",
+    "subheading": "Renesas 구마모토 지진 복구",
+    "text": "Renesas는 7월 말 발생한 지진 이후 가와시리 공장과 니시키 공장의 생산을 점진적으로 재개했습니다. 그러나 전체 웨이퍼 투입 능력과 포토커플러 생산량은 3분기 말까지 정상화되지 않을 것으로 예상돼 시장 전반의 공황성 구매가 계속되고 있습니다.[출처: Renesas]",
     "detected_vendors": [
       "Renesas"
     ],
@@ -6009,11 +5996,12 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "TSMC, 2027년 가격 인상 경고: TSMC는 주요 클라우드 및 네트워킹 고객에게 2027년 웨이퍼 가격을 전 품목에 걸쳐 10% 인상할 예정이라고 통보한 것으로 알려졌습니다. 이는 기반 IC 및 패키징 비용의 상승세가 당분간 지속될 것임을 시사합니다. [출처: CNA]",
+    "section_raw": "TSMC, 2027년 가격 인상 경고",
+    "subheading": "TSMC, 2027년 가격 인상 경고",
+    "text": "TSMC는 주요 클라우드 및 네트워킹 고객에게 2027년 웨이퍼 가격을 전 품목에 걸쳐 10% 인상할 예정이라고 통보한 것으로 알려졌습니다. 이는 기반 IC 및 패키징 비용의 상승세가 당분간 지속될 것임을 시사합니다. [출처: CNA]",
     "detected_vendors": [
       "TSMC"
     ],
@@ -6029,9 +6017,9 @@
     "detected_categories": [
       "Memory"
     ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",
+    "section_raw": "메모리 공급난으로 장기 공급 계약 범위 확대",
+    "subheading": "메모리 공급난으로 장기 공급 계약 범위 확대",
+    "text": "공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",
     "detected_vendors": [
       "Nanya"
     ],
