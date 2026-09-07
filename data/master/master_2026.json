@@ -286,8 +286,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -352,6 +354,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -368,6 +371,7 @@
     "text": "DDR5 이행률이 급락하고 있으며, 1분기 가격은 50~70% 상승할 것으로 예상됩니다. 신규 주문의 리드타임은 평균 54주 이상입니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -388,9 +392,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -426,9 +431,10 @@
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -445,7 +451,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL"
+      "EOL",
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -463,6 +471,7 @@
       "Toshiba"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -481,6 +490,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Price Increase"
     ],
@@ -503,6 +513,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -783,7 +794,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -823,7 +835,8 @@
       "Lattice"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -842,6 +855,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -882,9 +896,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -901,7 +916,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -955,8 +971,10 @@
     "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "최종 가격을 납품 이후 시장 가격에 연동하여 조정하는 새로운 \"사후 정산\" 모델이 확산되고 있으며, 이에 따라 가격 변동 위험이 전적으로 구매자에게 전가되고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -971,8 +989,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -1008,6 +1028,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -1025,6 +1046,7 @@
     "text": "SanDisk 저용량 eMMC, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1에 대한 수요가 급증하고 있으며, 리드타임은 26주로 확대되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1032,8 +1054,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -1049,8 +1072,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -1063,8 +1087,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -1079,8 +1104,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -1118,8 +1144,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -1145,9 +1172,10 @@
       "Mellanox"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1163,6 +1191,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -1182,9 +1211,10 @@
       "Coherent"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1491,6 +1521,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1549,7 +1580,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -1568,6 +1600,7 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1607,6 +1640,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1665,9 +1699,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1682,8 +1717,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1719,6 +1756,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1751,8 +1789,10 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "DDR5 RDIMM 64GB 계약 가격은 전분기 대비 75~125% 상승했다. 현물 가격은 $2,300~$3,000 이상이며, 하이퍼스케일러는 2030년까지 장기 계약을 체결하여 기존 OEM 및 자동차 시장은 최소 2027년까지 배제되고 있다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -1767,8 +1807,10 @@
     "detected_vendors": [
       "Winbond"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -1787,6 +1829,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1802,8 +1845,10 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. Sandisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -1840,6 +1885,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1856,6 +1902,7 @@
     "text": "DDR5 공급 충족률이 급락했으며 1분기 가격은 50~70% 상승이 예상된다. 신규 주문 리드타임은 평균 54주 이상이다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1875,6 +1922,7 @@
       "Micron"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1893,8 +1941,11 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1909,8 +1960,11 @@
     "detected_vendors": [
       "Seagate"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1926,7 +1980,9 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1945,9 +2001,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1966,6 +2024,7 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1982,6 +2041,7 @@
     "text": "제조사들은 수익성 개선을 위해 QLC에서 TLC로 생산 전환 중이며, 하이퍼스케일 스토리지용 고밀도 QLC 드라이브 부족이 발생하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2002,9 +2062,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2020,6 +2081,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -2039,9 +2101,10 @@
       "Coherent"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2309,7 +2372,8 @@
       "Renesas"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2325,7 +2389,8 @@
     "text": "Monolithic Power Systems(MPS)는 산업용 및 자동차용 애플리케이션의 강한 수요로 인해 리드타임이 26~30주 이상으로 연장되었으며, 가용 물량도 더욱 제한되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2364,7 +2429,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2404,7 +2470,8 @@
       "Renesas"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2444,9 +2511,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2464,7 +2532,8 @@
     "detected_keywords": [
       "Capacity Expansion",
       "Discommit",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2483,6 +2552,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase",
       "Shortage"
     ],
@@ -2500,6 +2570,7 @@
     "text": "RTX PRO 6000 Blackwell 서버 에디션은 전 세계 고객 수요가 급증하고 있으며, 평균 리드타임은 12주 이상으로 확대되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -2537,6 +2608,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -2552,8 +2624,10 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "최종 가격을 납품 이후 시장 가격에 연동하여 조정하는 새로운 \"사후 정산\" 모델이 확산되고 있으며, 이에 따라 가격 변동 위험이 전적으로 구매자에게 전가되고 있습니다. 고객들은 주간 가격 재설정과 NCNR 조건이 표준 관행이 되고 있다고 보고합니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -2568,8 +2642,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -2592,8 +2668,9 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -2625,9 +2702,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2643,6 +2721,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -2930,6 +3009,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2949,6 +3029,7 @@
     ],
     "detected_keywords": [
       "Discommit",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2969,6 +3050,7 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3006,7 +3088,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -3045,9 +3128,10 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3063,9 +3147,10 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3084,7 +3169,8 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -3099,8 +3185,10 @@
     "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
     "text": "스몰 코어 CPU: 모든 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약이 지속된다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3134,9 +3222,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3152,9 +3241,10 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3170,7 +3260,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -3188,9 +3279,10 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3263,6 +3355,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -3280,8 +3373,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3294,8 +3389,10 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "DDR4 8Gb/16Gb 가격은 전주 대비 40~50% 급등했다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3314,6 +3411,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -3330,8 +3428,10 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. SanDisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3440,9 +3540,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3458,6 +3559,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -3477,9 +3579,10 @@
       "Coherent"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3493,8 +3596,10 @@
     "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "H200의 중국 수출 통제가 지속되면서 MCX75310AAS-NEAT와 같은 규제 준수 인터커넥트의 현물 시장 변동성이 이어지고 있다. 중국 유통사들은 규제 명확성이 확보될 때까지 해당 모델의 재고 확보를 보류하고 있다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3843,7 +3948,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -3862,6 +3968,7 @@
     ],
     "detected_keywords": [
       "Discommit",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3882,6 +3989,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3901,9 +4009,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3920,9 +4029,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3940,7 +4050,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -3959,9 +4070,10 @@
     ],
     "detected_keywords": [
       "Capacity Expansion",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3995,7 +4107,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -4071,6 +4184,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Price Increase"
     ],
@@ -4124,6 +4238,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -4140,8 +4255,10 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "SanDisk 저용량 eMMC 제품인 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1에 대한 수요가 지속되고 있으며, 제조사들은 수요가 공급의 4~5배에 달한다고 보고하고 있다. 생산 우선순위가 HBM3E/HBM4 생산 극대화에 맞춰지면서 공개 시장 가격은 세 배 이상 급등했다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -4295,7 +4412,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -4340,7 +4458,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -4356,8 +4475,10 @@
     "subheading": "수동소자 및 원자재 가격 인상 및 병목",
     "text": "중동 긴장이 계속해서 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 일본과 한국 제조업체들은 비상 조달 절차를 가동하고 있으며, 2027년 말까지는 의미 있는 생산 능력 회복이 어려울 것으로 예상하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -4375,7 +4496,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -4650,7 +4772,8 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -4669,7 +4792,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -4691,6 +4815,7 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4727,8 +4852,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4745,9 +4872,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4764,9 +4892,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4783,7 +4912,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Discommit"
+      "Discommit",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -4835,8 +4965,10 @@
     "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "DDR5 RDIMM 64GB 모듈은 3,000~3,700달러에 거래되고 있으며, 128GB 모듈은 5,000달러를 초과하고 있다. 3분기 계약 가격은 추가로 20% 상승할 것으로 예상된다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 공급 물량을 선점하고 있다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -4852,6 +4984,7 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -4871,8 +5004,10 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -4897,8 +5032,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -4919,8 +5055,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -4938,8 +5075,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -4957,6 +5095,7 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -4987,9 +5126,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5005,6 +5145,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Price Increase",
       "Shortage"
@@ -5320,7 +5461,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -5338,7 +5480,8 @@
       "Infineon"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -5356,7 +5499,8 @@
       "Renesas"
     ],
     "detected_keywords": [
-      "Natural Disaster / Incident"
+      "Natural Disaster / Incident",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -5374,7 +5518,8 @@
       "Microchip"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -5393,7 +5538,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -5432,7 +5578,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -5452,9 +5599,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5470,6 +5618,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Price Increase"
     ],
@@ -5489,6 +5638,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Lead Time"
     ],
@@ -5507,8 +5657,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -5542,8 +5694,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5602,9 +5756,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "EOL"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5620,9 +5775,11 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5641,7 +5798,9 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -5656,8 +5815,11 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "하이퍼스케일러는 QLC의 프리미엄 가격을 수용하지 않고 TLC 또는 대용량 HDD를 선택하고 있습니다. 이로 인해 공급망 불균형이 발생하고 제조업체들은 생산 전략을 조정해야 하는 상황입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5674,9 +5836,10 @@
       "TSMC"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5693,9 +5856,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,

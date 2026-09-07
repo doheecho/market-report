@@ -1,6 +1,6 @@
 {
   "vendor": "Sony",
-  "total_milestones": 20,
+  "total_milestones": 21,
   "history": [
     {
       "date": "2021.01",
@@ -21,14 +21,15 @@
         "CPU",
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
       "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다."
     },
     {
       "date": "2021.05",
-      "category": "Other",
+      "category": "IC",
       "detected_categories": [
+        "IC",
         "Other"
       ],
       "risk_level": "High",
@@ -53,6 +54,16 @@
       ],
       "risk_level": "Low",
       "summary": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
+      "text": "제조업체에서 재고 물량이 많아짐에 따라 Color Square Pixel CMOS 시장에서 한 숨 돌리는 모습을 볼 수 있습니다. 고객들은 흑백 CMOS 프로젝트를 Color Pixel로 바꿀 방안을 모색 중인 것으로 알려졌습니다."
+    },
+    {
+      "date": "2021.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
       "text": "전반적으로, On Semi는 최종 고객을 위한 충분한 CMOS 센서를 생산할 수 없어, 그 대신 Sony의 CMOS 센서로 전환하는 고객이 급증하고 있습니다."
     },
     {
@@ -61,7 +72,7 @@
       "detected_categories": [
         "기타"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "재고 부족에서 원활로, 안정되기 시작한 Raspberry Pi의 적체",
       "text": "Raspberry Pi의 생산량이 계속 증가함에 따라 반등할 가능성이 보입니다. Raspberry Pi는 7월에 제한적인 회복을 예상했지만 주문 적체를 처리한 방식으로 미루어 보아 이러한 긍정적인 추세가 지속될 가능성이 있습니다. 원자재가 보다 양호하게 공급되고 있으며 추가 안전 재고가 확보되면서 수요를 꾸준히 따라잡는 안정적인 제조 주기가 형성되었습니다. 장기적 파트너인 Sony의 추가 지원 덕분에 더 많은 고객에게 주문이 전달되기 시작했습니다."
     },

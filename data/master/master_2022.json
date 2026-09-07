@@ -28,8 +28,10 @@
     "subheading": "전체 제품 리드 타임 사상 최고치 도달",
     "text": "그와 동시에, 물류 비용이 평균적인 공급업체의 기준보다 4~5배나 급등해 다양한 상품 가격의 급등을 불러왔습니다. 전통적인 저비용 제조 지역에서의 조업 활동이 신뢰할 수 없게 되어 고객이 별수 없이 비용이 많이 드는 지역에서 제조해야 하는 상황이라, 전체 생산 비용이 상승했습니다. 제조업체는 2022년에 고객의 수요를 충족하기 위해 계속해서 추격을 할 가능성이 높습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -55,7 +57,8 @@
     "detected_categories": [
       "CPU",
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -73,7 +76,8 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -110,7 +114,8 @@
     "month": 1,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -124,7 +129,8 @@
     "month": 1,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -138,7 +144,8 @@
     "month": 1,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -153,7 +160,8 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -342,7 +350,9 @@
     "section_raw": "Intel의 서버 CPU 시장 가격에 영향을 미치는 IC 공급 부족",
     "subheading": "Intel의 서버 CPU 시장 가격에 영향을 미치는 IC 공급 부족",
     "text": "게이팅 문제와 IC 구성부품 공급 부족으로 인해 고객이 서버 제품 사용을 늘리고 있으며, 그에 따라 고객들은 Cascade Lake 및 Cascade Lake Refresh 시리즈 CPU를 확보하려고 오픈 마켓으로 눈길을 돌리고 있습니다. 고객들은 주로 42xx, 42xxR, 52xx, 52xxR, 62xx 및 62xxR 시리즈 CPU를 찾고 있습니다.이러한 수요 급증은 Cascade Lake 및 Cascade Lake Refresh 시리즈의 공급 제약으로 이어졌고, 이는 다시 오픈 마켓 가격 인상으로 이어졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "Price Increase",
       "Shortage"
@@ -440,7 +450,8 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -458,9 +469,10 @@
       "Nexperia"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -477,9 +489,11 @@
       "Nexperia"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -494,9 +508,10 @@
     "text": "Bosch 센서에 대한 리드 타임이 늘어났으며 특히 스마트폰과 웨어러블에 최적화된 저전력 애플리케이션 센서에 영향을 미치고 있습니다. 현재 진행 중인 주문은 Bosch의 지원을 기대하지 못하고 있습니다. 영향을 받은 시리즈는 BMA253, BMA400, BMA456, BMA422 등입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -512,7 +527,8 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "M&A"
     ],
     "risk_level": "Medium"
   },
@@ -530,7 +546,8 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "M&A"
     ],
     "risk_level": "Medium"
   },
@@ -544,9 +561,14 @@
     "section_raw": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
     "subheading": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
     "text": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다. 이러한 예상 지연 및 일부 부품 제조를 지원하는 웨이퍼의 제한된 생산량은 공급 제약을 가중할 것입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "M&A"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -947,7 +969,9 @@
     "section_raw": "STMicroelectronics, 또다시 리드 타임 연장",
     "subheading": "STMicroelectronics, 또다시 리드 타임 연장",
     "text": "STMicro는 지속적인 원자재 공급 부족으로 계속 영향을 받고 있는데, STM32F103xx 및 STM32F4xxx 시리즈에 그 파급 효과가 미치고 있습니다. 생산에 필요한 일부 원자재는 리드 타임이 50주로 늘었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -1070,7 +1094,9 @@
     "section_raw": "Intel SSD의 사정이 즉시 좋아질 조짐은 없어",
     "subheading": "Intel SSD의 사정이 즉시 좋아질 조짐은 없어",
     "text": "하지만 원자재 공급 부족으로 공급 제약이 불가피했습니다. 이러한 공급 부족으로 인해 두 회사는 물류 비용과 부품 판매 사이의 차이를 좁히려고 자재를 할당해 배분했으며, 그 결과 종종 대용량 SSD에 생산 능력이 할당되곤 했습니다. 결국, 소용량 SSD(240GB, 480GB, 960GB)가 부족해졌으며 상황이 즉시 개선될 것으로 보이진 않습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -1105,7 +1131,9 @@
     "section_raw": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "subheading": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "text": "WD의 3D NAND 제품을 사용하는 대만 회사 Innodisk와 Transcend 같은 SSD 제조업체가 그 영향을 받을 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1115,12 +1143,15 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Memory",
       "Storage"
     ],
     "section_raw": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "subheading": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "text": "그와 동시에, 전력 관리 IC와 컨트롤러 칩의 공급 부족으로 SSD 전체 공급에 압박이 계속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -1156,6 +1187,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1191,6 +1223,7 @@
     "subheading": "공급망 문제의 영향을 받는 AMD의 내장형 CPU 세그먼트",
     "text": "Intel은 이더넷 컨트롤러 칩셋 수급 문제를 자체적으로 처리합니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -1210,6 +1243,7 @@
     "subheading": "공급망 문제의 영향을 받는 AMD의 내장형 CPU 세그먼트",
     "text": "Intel 이더넷 컨트롤러 칩셋의 공급은 2월에 짧게나마 완화되었지만, 그 이후로 다시 한번 심각하게 제약받고 있습니다. 일반적으로 예약 리드 타임은 여전히 최소 1년은 걸리므로, Intel은 현재 공급 및 지원에 대해 지정 최종 고객과 직접 협력하고 있습니다. 결과적으로, 수요가 계속되더라도 오픈 마켓 가용성이 부족하게 되어 가격에 궁극적으로 영향을 줄 것으로 보입니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -1372,7 +1406,9 @@
     "section_raw": "STMicroelectronics 배송, 2022년 4분기 이후로 연장",
     "subheading": "STMicroelectronics 배송, 2022년 4분기 이후로 연장",
     "text": "2분기에 STMicro는 4월 이후 전 제품 라인이 15% 가격 인상 될 것이라고 발표했습니다. 이는 원자재, 에너지, 물류비에 더해져 기존 적체에 어려움이 발생할 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -1388,7 +1424,9 @@
     "section_raw": "STMicroelectronics 배송, 2022년 4분기 이후로 연장",
     "subheading": "STMicroelectronics 배송, 2022년 4분기 이후로 연장",
     "text": "5월에 25~30%의 추가 가격 인상이 단종된 STM8(8비트) MCU 시리즈에 적용될 예정입니다. 이 시리즈는 3분기까지 단종될 것이며 고객이 대체 STM32(32비트) 시리즈를 사용하도록 유도할 것입니다. 단, STM32는 배송 지연의 영향을 받았으며 고객은 부품에 대응하기 위해 각 보드를 재설계해야 할 것입니다. 모든 시리즈의 경우, 배송은 2022년 4분기 또는 2023년 1분기로 연기됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "EOL",
       "Lead Time",
@@ -1428,8 +1466,10 @@
     "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "text": "상하이 Vishay 공장 2개의 가동과 관련하여, 중국은 코로나19로 인한 봉쇄 조치와 인력 제한의 영향을 받았습니다. 공장 1개는 MOSFET를 생산하고, 다른 공장은 소형 다이오드를 생산합니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1442,8 +1482,10 @@
     "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "text": "Vishay 유통 및 분류 공장에서 격리 제한은 MOSFET과 다이오드 생산 양쪽에 모두 영향을 미치며, 이로 인해 고객의 주문 수령이 가로막히고 있습니다. 이에 따라 생긴 공급 격차가 4월 내내 지속될 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1490,9 +1532,13 @@
     "section_raw": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
     "subheading": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
     "text": "이후 모든 공장이 조업을 재개했지만 그에 따른 부작용을 피할 수는 없었습니다. 나카 공장에서 생산 중인 반제품의 일부가 훼손되었습니다. 약 2주치의 200mm(8인치) 웨이퍼 팹 라인 생산 및 약 3주치의 300mm(12인치) 라인에 대해 미완성 제품이 파손되고 생산 계정이 감소한 데 따른 손실이 발생했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Renesas"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1504,9 +1550,13 @@
     "section_raw": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
     "subheading": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
     "text": "손실 측면에서, 타카사키 공장은 약 10일 간 생산이 중단되었고, 요네자와 공장에서는 이틀치에 해당하는 생산량이 손실되었습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Renesas"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1629,7 +1679,8 @@
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "Intel 240GB와 480GB 소용량 SSD 또한 심각한 공급 부족을 겪고 있습니다.",
     "detected_vendors": [
-      "Intel"
+      "Intel",
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Shortage"
@@ -1646,9 +1697,14 @@
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "생산 자원이 NVMe에 중점을 두고 있지만, 제조업체가 계층 1 OEM 대상 배송에 주력하고 있기 때문에 SSD 고객은 여전히 시장의 물량이 빠듯하고 가격이 인상되었다고 여길 것입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Intel",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1665,7 +1721,8 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1679,9 +1736,14 @@
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Intel",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1717,7 +1779,8 @@
     "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Geopolitics / Sanctions"
     ],
     "risk_level": "High"
   },
@@ -1767,7 +1830,9 @@
     "section_raw": "국제적 사건의 영향을 받은 Intel 서버 CPU 가격 및 공급",
     "subheading": "국제적 사건의 영향을 받은 Intel 서버 CPU 가격 및 공급",
     "text": "2개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다. 미국과 다른 국가들은 러시아에 상업용 전자 기기, 항공기 부품, 반도체 등의 수출을 봉쇄하는 제재를 가하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "Geopolitics / Sanctions"
     ],
@@ -1794,14 +1859,17 @@
   {
     "year": 2022,
     "month": 4,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
     "subheading": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
     "text": "기존 시리즈 생산이 최소화되어 고객들은 적극적으로 최신 이더넷 컨트롤러인 I225 시리즈로 전환하고 있습니다. 그러나 최신 이더넷 컨트롤러 I225 시리즈가 고객 마더보드의 재설계가 필요한 이전 제품과 핀 대 핀이 아니기 때문에 전환에는 시간이 걸립니다. 고객이 이전 시리즈에서 전환하는 데까지 예상되는 기간은 6개월로 추정됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1827,8 +1895,9 @@
   {
     "year": 2022,
     "month": 4,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
@@ -1843,14 +1912,17 @@
   {
     "year": 2022,
     "month": 4,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
     "subheading": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
     "text": "곧 단종될 시리즈가 오픈 마켓에서 활발히 거래되고 있고 이용 가능한 모든 제품에서 가격이 지속적으로 상승하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -2174,6 +2246,7 @@
       "Allocation",
       "Lead Time",
       "Price Decrease",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2196,6 +2269,7 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2226,7 +2300,9 @@
     "section_raw": "제품과 출하 방식을 바꾸는 STMicroelectronics",
     "subheading": "제품과 출하 방식을 바꾸는 STMicroelectronics",
     "text": "STM8 시리즈는 현재 철저한 할당에 따르고 있으며 가격은 25% 인상될 것으로 예상됩니다. STM32H 역시 STMicro의 공급망 변화에 타격을 받아 고객은 해당 물량을 거의 구할 수가 없는데 이는 STMicro이 생산 주력 상품에서 STM32F 1XX 시리즈를 빼고 있기 때문입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Allocation"
     ],
@@ -2244,8 +2320,10 @@
     "subheading": "지정학적 갈등이 세라믹 콘덴서와 MLCC 리드 타임에 영향을 미치다",
     "text": "동유럽의 긴장 고조로 인해 원자재와 불활성 가스 가격 및 가용성이 타격을 입어 2분기 내내 MLCC 공급 경색이 문제가 되고 있습니다. 칩 제조의 필수 원료 중 그 영향을 받고 있는 것은 지금까지는 니켈, 구리, 팔라듐, 네온입니다. 모든 핵심 MLCC 원료는 가격이 인상될 가능성이 있으며 MLCC의 생산 비용 및 시장 물량에 직접적인 영향을 끼칩니다. MLCC의 약 85%가 니켈이고 15%가 팔라듐입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2282,6 +2360,7 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2299,6 +2378,7 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2314,7 +2394,9 @@
     "subheading": "공급업체의 재고 축소로 DIMM 가격 인하가 예상되다",
     "text": "PC DIMM의 공식가격이 계속해서 4~7% 하락하고 서버 DIMM는 약 2~3% 가량 떨어지고 있습니다. 공급업체가 손실을 보더라도 팔아 재고를 줄이려는 시도를 하는 가운데 전반적으로 수요는 향후 몇 달 간 약화될 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -2333,7 +2415,9 @@
       "AMD",
       "Intel"
     ],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -2408,22 +2492,27 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
   {
     "year": 2022,
     "month": 6,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "할당 제약과 가격 상승이 예상되는 Intel 이더넷 컨트롤러와 칩셋",
     "subheading": "이 인상이 적용되는 시리즈는 다음과 같습니다. WGI210IT, WGI210AT, WGI210IS, NHI350AM2, NHI350AM4, FTXL710-BM1",
     "text": "높아진 물류 및 자재 비용과 더불어 글로벌 공급망 전반의 심각한 부족 현상 때문에 지난 1년간 제조업체의 점진적 가격 인상은 보다 일반적인 관행으로 자리잡았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase",
       "Shortage"
     ],
@@ -2435,16 +2524,21 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC",
       "Other"
     ],
     "section_raw": "할당 제약과 가격 상승이 예상되는 Intel 이더넷 컨트롤러와 칩셋",
     "subheading": "이 인상이 적용되는 시리즈는 다음과 같습니다. WGI210IT, WGI210AT, WGI210IS, NHI350AM2, NHI350AM4, FTXL710-BM1",
     "text": "GPU 시장은 작년 이맘때보다 최종 사용자에게 훨씬 더 친화적입니다. 상하이 봉쇄로 인해 GPU 제조업체의 중국 출하가 타격을 입고 있음에도 GPU 가격은 계속해서 떨어지고 있습니다. 가격 하락이 지속되는 가운데 가상화폐 공간의 GPU 소비는 급격히 줄었습니다. 현지 PC DIY 소매업체의 수요는 늘었습니다. 전반적으로 Tier 1 GPU 제조업체는 가격을 약 5% 인하했습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Price Decrease"
+    "detected_vendors": [
+      "Intel"
     ],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Price Decrease",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2671,8 +2765,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2760,7 +2856,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2895,7 +2992,9 @@
     "section_raw": "3분기로 접어들면서 완화된 Infineon의 MOSFET 상황",
     "subheading": "3분기로 접어들면서 완화된 Infineon의 MOSFET 상황",
     "text": "산업용 부품의 경우 여전히 수요가 높으며, 특히 IRFxxx와 IPDxxx는 여전히 부족합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Infineon"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -2933,7 +3032,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2949,9 +3049,10 @@
     "text": "마더보드 레이아웃은 KTI225LM 또는 KTI226LM을 사용하도록 수정되어야 합니다. 공급이 여전히 제한되어 있고 추가 수요로 인해 리드 타임이 길어지고 가격이 상승할 수도 있으므로 WGI211AT와 WGI210AT를 사용하려는 사람들은 가능한 한 빨리 구매해야 합니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3009,6 +3110,7 @@
     "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
     "text": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
     "detected_vendors": [
+      "Intel",
       "Mellanox"
     ],
     "detected_keywords": [
@@ -3030,7 +3132,8 @@
     "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
     "text": "Intel의 경우 네트워크 어댑터 카드용 칩셋의 가용성이 향상되었습니다. 그러나 특히 I350T2V2 모델의 경우, 전반적으로 보드용 부품을 구하는 것은 여전히 어렵습니다. 공급 부족은 3분기까지 지속되고 4분기에는 완화될 것으로 예상됩니다. 그 사이에 가격은 제조 비용과 함께 상승할 것으로 예상됩니다.",
     "detected_vendors": [
-      "Intel"
+      "Intel",
+      "Mellanox"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3102,8 +3205,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3117,12 +3222,14 @@
     "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
+      "Intel",
       "Micron",
       "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
       "Allocation",
+      "EOL",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3170,7 +3277,9 @@
     "section_raw": "삼성, 최신 나노시트 제조 경쟁 강화",
     "subheading": "삼성, 최신 나노시트 제조 경쟁 강화",
     "text": "3nm 칩에서의 발전이 상당하긴 하지만 현재 5nm 칩을 대체할 수는 없습니다. 현재 3nm 시장은 아직 시장이 새로운 공정을 인정하는 방향으로 움직이고 있기 때문에 규모가 작습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "삼성"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -3246,7 +3355,8 @@
     "subheading": "2년 이상 연장된 Toshiba 부품 리드 타임",
     "text": "그 대신 공식 유통업체가 할당량을 풀면서 Analog Devices ADUM 시리즈에 대한 시장 공급 압박이 완화되고 있습니다. 또한 STMicro는 약 6개월~1년 사이의 MOSFET 및 다이오드 리드 타임으로 안정적이며, 유통업체들은 주요 공급 중단이 일어날 것이라고는 예측하지 않습니다.",
     "detected_vendors": [
-      "Analog Devices"
+      "Analog Devices",
+      "Toshiba"
     ],
     "detected_keywords": [
       "Allocation",
@@ -3285,9 +3395,11 @@
     "text": "이러한 요소는 특히 STMicro MOSFET와 다이오드의 생산 비용에 영향을 미쳐 가격이 더 상승할 수 있습니다. Vishay의 고전압 전력 MOSFET(IRF-xxx 시리즈) 및 자동차 등급 품목(SQ-xxx 시리즈)의 경우 제조업체 재고 할당에 여유가 없으며 내년에는 다소 완화될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3305,8 +3417,11 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3322,6 +3437,7 @@
       "Intel"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3349,8 +3465,9 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "이더넷 컨트롤러 칩셋 시장 내 불확실성 증가",
@@ -3382,8 +3499,9 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "이더넷 컨트롤러 칩셋 시장 내 불확실성 증가",
@@ -3437,7 +3555,9 @@
     "subheading": "최대 30에 달하는 가격 하락이 일시적인 시장 변화 암시",
     "text": "RTX 30 시리즈의 현 재고량을 정리하기 위해 유통업체는 RTX 3090의 가격을 25~30%까지 대폭 낮췄습니다. 이는 소비자 시장의 수요 하락뿐 아니라, 암호화폐 채굴 산업의 도산으로 인한 다량의 중고 카드 사용 가능성에 따른 것으로 보입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -3455,7 +3575,8 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Decrease"
     ],
     "risk_level": "High"
   },
@@ -3611,8 +3732,10 @@
     "subheading": "연산 증폭기의 공급과 수요 사이의 차이는 30% 이상 벌어졌으며 결과적으로 자동차 제품 내 리드 타임을 더욱 증가시켰습니다. 수요 촉진 요인:",
     "text": "센서 및 변환기에 대한 세계적 수요",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -3625,8 +3748,10 @@
     "subheading": "연산 증폭기의 공급과 수요 사이의 차이는 30% 이상 벌어졌으며 결과적으로 자동차 제품 내 리드 타임을 더욱 증가시켰습니다. 수요 촉진 요인:",
     "text": "자동차 부문 내 생산 확대",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -3639,8 +3764,10 @@
     "subheading": "연산 증폭기의 공급과 수요 사이의 차이는 30% 이상 벌어졌으며 결과적으로 자동차 제품 내 리드 타임을 더욱 증가시켰습니다. 수요 촉진 요인:",
     "text": "배터리 구동 제품에 대한 수요 증가",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -3732,8 +3859,10 @@
     "subheading": "원자재 공급 부족(Shortage)으로 인한 STMicro 생산 차질",
     "text": "STMicro는 지속적인 원자재 공급 문제로 인해 가전 및 모바일 사업부에 대한 예측을 하향 조정하고 있습니다. 다른 기여 요인으로는 소비자 행동에 영향을 미치는 인플레이션과 글로벌 경기 침체가 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3763,9 +3892,10 @@
     "text": "또한 약 6개월에서 1년에 걸친 리드 타임과 함께 MOSFET 및 다이오드 공급이 정상화되었습니다. 현재 유통업체는 리드 타임 납품에 대해 어떠한 주요 중단도 예측하지 못하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3799,9 +3929,10 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3813,11 +3944,14 @@
     "section_raw": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
     "subheading": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
     "text": "Linear Technologies는 제조업자의 제한된 지원으로 여전히 자체 제품군에 있어 어려움에 처해 있습니다. 이는 리드 타임 납품을 불안정하게 만들었으며 시장 가격은 계속 오를 가능성이 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
+    "detected_vendors": [
+      "Analog Devices"
     ],
-    "risk_level": "Medium"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3833,9 +3967,10 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3965,6 +4100,8 @@
     "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다.",
     "detected_vendors": [
+      "Infineon",
+      "Microchip",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -3982,7 +4119,11 @@
     "section_raw": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "마찬가지로 차량 실내 분위기 조명에 주로 사용되는 Melexis의 MLX811은 자동차 고객의 계속적인 수요 증가에 따라 가용성이 제한되고 있습니다. 현재로서는 납기 일정이나 정확한 리드 타임을 확인하기 어렵고 주문을 지원하는 재고 물량도 없는 상태입니다. 이 시리즈들에 대한 리드 타임은 현재 52주로 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Infineon",
+      "Microchip",
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3999,9 +4140,12 @@
     "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Microchip",
+      "Nexperia"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4016,9 +4160,15 @@
     "section_raw": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Infineon",
+      "Microchip",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -4031,7 +4181,9 @@
     "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "대조적으로 Microchip MCP 시리즈는 생산으로 재고 수준이 보충됨에 따라 리드 타임이 단축되었습니다. PIC12와 16 시리즈의 리드 타임은 8~12 주로 개선된 반면, PIC24와 25 시리즈는 20주를 상회하여 시장에서 여전히 공급이 부족한 상태입니다.",
     "detected_vendors": [
-      "Microchip"
+      "Infineon",
+      "Microchip",
+      "Nexperia"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4049,9 +4201,15 @@
     "section_raw": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "subheading": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
     "text": "공급이 지연될 확률은 여전히 높으며 고객은 적체되는 주문을 취소할 수 있다는 통지를 받고 있지만 생산 일정의 지연에 대한 영향을 피할 수는 없어 보입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Infineon",
+      "Microchip",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -4101,7 +4259,9 @@
     "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
     "subheading": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
     "text": "그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Toshiba"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -4121,8 +4281,10 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -4361,6 +4523,7 @@
     "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
     "detected_vendors": [
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -4377,7 +4540,9 @@
     "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "중국 시장의 수요와 관련하여 구매력은 대부분 유명한 기술 회사로부터 발생합니다. Huawei, ZTE, BAT 등의 회사들이 산업 수요를 선도하지만 현재 거시경제 상황은 우호적이지 않습니다. 프로젝트 취소 및 삭감의 전망에 따라 고객들은 보수적으로 지출하고 임박한 수요에만 근거하여 주문하고 있습니다.",
     "detected_vendors": [
-      "Huawei"
+      "AMD",
+      "Huawei",
+      "Nvidia"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4393,7 +4558,10 @@
     "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "행정 명령 발표 이전에 A100 80GB 모델은 과공급 상태였지만 현재 벤더들은 수요의 폭증을 예상하여 재고를 묶어두고 새로운 선적이나 견적을 중단하고 있습니다. 최종 고객 및 중개인 양측 모두로부터 문의가 쇄도함에 따라 결과적으로 시장 활동이 증가했으며 대부분의 오픈 마켓 물량은 신속히 판매되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD",
+      "Nvidia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4408,15 +4576,19 @@
     "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "금지된 모델뿐만 아니라 특히 데이터 센터 및 AI 컴퓨팅용 Tesla 시리즈를 포함한 기타 GPU에 대한 시장 가격이 지속적으로 상승할 것이라는 추측이 지배적입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD",
+      "Nvidia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
   {
     "year": 2022,
     "month": 10,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
@@ -4427,6 +4599,7 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4454,16 +4627,21 @@
   {
     "year": 2022,
     "month": 10,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
     "subheading": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
     "text": "추가적으로 중국은 10월 1일부터 10월 7일까지 황금연휴를 갖습니다. 연휴로 인해 주문 적체와 공급 제한이 발생할 수 있기 때문에 고객들은 이러한 가능성을 염두에 두고 필수 구성품의 재고를 늘려야 할 필요가 있습니다. 비용 절감 기회를 모색하는 업체들은 일찍 발주하여 향후 가격 폭등을 피할 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -4580,8 +4758,9 @@
   {
     "year": 2022,
     "month": 11,
-    "category": "Other",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "Other"
     ],
     "section_raw": "벤더들, 과잉 재고를 해소하려 애쓰고 있지만 RTX 4000 시리즈가 시장에 새로운 활력을 불어넣기를 기대",
@@ -4607,7 +4786,8 @@
     "subheading": "Infineon 및 NXP에 대한 공급 여전히 부족",
     "text": "자동차 부문 및 산업용 로봇 공학 제조에 많이 활용되는 Infineon SAK/TC27 시리즈에 필요한 생산 자재의 가용성은 계속 부족한 상태입니다. 이러한 상황은 2023년 2분기까지 계속될 것으로 예상되며, 가격은 높은 수준을 유지할 가능성이 큽니다. 현재 이들 제품의 표준 리드 타임은 40~50주로 일정하게 유지되고 있습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Nexperia"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -4627,13 +4807,15 @@
     "subheading": "Infineon 및 NXP에 대한 공급 여전히 부족",
     "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다.",
     "detected_vendors": [
+      "Infineon",
       "Nexperia",
       "TSMC"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -4662,7 +4844,9 @@
     "section_raw": "Micron, 잉여 재고 및 주문 취소로 어려움 겪고 있어",
     "subheading": "Micron, 잉여 재고 및 주문 취소로 어려움 겪고 있어",
     "text": "DRAM/NAND 가격은 근래 최저치로 떨어졌으며, NOR 플래시 가격은 하락하고 있지만 시장의 수요는 여전히 매우 높습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Micron"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4681,8 +4865,10 @@
       "TSMC",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -4696,10 +4882,14 @@
     "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
     "text": "많은 언론 매체들은 또한 삼성이 가격 책정 방식을 변경하고 많은 마이크로프로세서와 주변 장치 칩 제품의 가격을 인상할 계획이라고 밝혔습니다.",
     "detected_vendors": [
+      "Intel",
+      "TSMC",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -4711,7 +4901,11 @@
     "section_raw": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
     "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
     "text": "통신 산업 내 전자 제품의 발전으로 계속해서 더욱 복잡한 생산이 필요해지면서 제조 비용이 증가하고 있습니다. 이러한 대폭적인 가격 인상설은 고품질 규격을 유지하면서 추가 생산 비용을 고객에게 전가하려는 의도에서 나온 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel",
+      "TSMC",
+      "삼성"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -4728,10 +4922,14 @@
     "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
     "text": "최대 규모의 모바일 통신 고객 중 하나는 이러한 움직임에 대해 이미 TSMC에 불만을 표명하고 추가 비용 지불을 거부하고 있습니다.",
     "detected_vendors": [
-      "TSMC"
+      "Intel",
+      "TSMC",
+      "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -4793,7 +4991,9 @@
     "section_raw": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "subheading": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "text": "시장에서 자동차 부품은 여전히 수요가 높은 상태입니다. 폐업 직전에 있는 많은 소규모 OEM 및 ODM 업체들이 처분해야 할 과잉 재고를 보유하고 있어 가용 공급량은 서서히 증가하고 있습니다. 그러나 이러한 주문은 모두 NCNR이므로 고객이 총가격의 30%을 몰수 수수료로 지불하지 않는 한 취소가 불가합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Microchip"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4807,7 +5007,9 @@
     "section_raw": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "subheading": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
     "text": "주로 심각한 웨이퍼 공급 부족(Shortage)으로 인해 MCU 16/31 시리즈에 대한 철회도 증가하고 있습니다. 이러한 소문에 근거해 또 다른 가격 인상 파동이 있을 수 있지만 그 인상이 얼마나 될지 또는 잠재적인 일정이 어떠할지에 대해서는 알려진 바가 없습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Microchip"
+    ],
     "detected_keywords": [
       "Price Increase",
       "Shortage"
@@ -4840,7 +5042,9 @@
     "section_raw": "수요 감소에도 불구하고 Intel의 서버 CPU 가격은 계속 상승",
     "subheading": "수요 감소에도 불구하고 Intel의 서버 CPU 가격은 계속 상승",
     "text": "즉, 오픈 마켓에서 Cascade Lake SRF8Z Gold 6244 및 SRF91 Gold 6252 모두에 대한 가용성이 제한적인 상태입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4925,7 +5129,9 @@
     "section_raw": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
     "subheading": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
     "text": "유통업체들은 최근 출시된 Ryzen 7000 시리즈(코드명 Raphael) 데스크톱 CPU에 대해 제한적인 공급 및 지원을 받았는데, 부분적으로는 새로운 AM5 마더보드의 공급 부족(Shortage)으로 인한 것입니다. 현재 4종의 매니아 컴퓨팅 CPU에 대해 2종의 마더보드(X670E 및 X670)만 선택할 수 있습니다. 이러한 공급 부족(Shortage)에 영향을 받은 제품은 다음과 같습니다. Ryzen 9 7950X, Ryzen 9 7900X, Ryzen 7 7700X, Ryzen 5 7600X",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -4944,8 +5150,10 @@
     "detected_vendors": [
       "AMD"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -4967,7 +5175,8 @@
     "month": 12,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Storage"
     ],
     "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
@@ -5016,7 +5225,8 @@
     "month": 12,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Storage"
     ],
     "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
@@ -5194,8 +5404,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "자동차 센서 규제로 제조업체의 변동성 조성",
@@ -5210,8 +5421,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "자동차 센서 규제로 제조업체의 변동성 조성",
@@ -5231,7 +5443,9 @@
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
     "subheading": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
     "text": "MEMs 기술의 선두 업체 Bosch는 믿을 수 있고 경제적인 소형 부품의 대명사로 성장했습니다. Bosch의 이런 부품은 전 세계 주요 자동차 관련 기업들에게는 없어서는 안될 부품입니다. 하지만 수요가 늘자 리드 타임 역시 연장되어 현재는 26주나 걸립니다. Bosch는 고객의 확장된 니즈를 충족하고자 다음과 같은 애플리케이션에 집중하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Murata"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -5240,8 +5454,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
@@ -5256,8 +5471,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
@@ -5272,8 +5488,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",

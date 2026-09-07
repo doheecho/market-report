@@ -11,10 +11,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia GeForce RTX 2080 Ti 단종?",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -30,10 +32,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
       "EOL",
+      "Lead Time",
       "Production Cut"
     ],
     "risk_level": "High"
@@ -53,8 +57,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -151,6 +157,40 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
+    "text": "그 밖에도, RTX 2080Ti에 대한 시장 수요가 여전히 높습니다. 새로운 RTX 3080 모델이 거의 절반의 가격에 향상된 성능을 자랑하지만, 초기 리뷰에서는 높은 방열 요구 사항을 충족하기 위해 추가된 새로운 삼중 팬 설계가 서버 GPU 슬롯에 적합하지 않을 수 있다는 점을 보여주었습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
+    "subheading": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
+    "text": "특정 지역에서 RTX 2080Ti 수요가 아직 있는 것으로 보이므로, 앞으로 몇 주간은 시장 가격이 떨어질 것으로는 예상하지 않습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -658,6 +698,27 @@
   },
   {
     "year": 2021,
+    "month": 6,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "PC와 워크스테이션 제작업체를 우선시하는 Nvidia",
+    "subheading": "PC와 워크스테이션 제작업체를 우선시하는 Nvidia",
+    "text": "공인 유통업체들은 GPU에 필수적인 메모리 가격 상승으로 인해 5월에 전반적인 가격이 다시 한 번 올랐다는 데 의견을 같이했습니다. 새로운 가격은 5월 이후의 신규 할당과 출하 물량에 적용됩니다. 고객은 인상된 가격을 받아들이거나 주문을 취소해야 합니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
     "month": 7,
     "category": "GPU",
     "detected_categories": [
@@ -887,6 +948,23 @@
     "month": 11,
     "category": "GPU",
     "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
+    "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
+    "text": "AMD의 Radeon 시리즈 GPU는 시장에서 재고를 찾기가 어려워 MSRP(권장소비자가격)보다 83% 높은 것으로 알려졌습니다. 보도에 따르면, RX 6800 시리즈가 가장 찾기 힘든 카드로 손꼽혔고 가격 급등에 기여했다고 합니다.",
+    "detected_vendors": [
+      "AMD",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "GPU",
+    "detected_categories": [
       "GPU",
       "Memory"
     ],
@@ -894,6 +972,7 @@
     "subheading": "AMD 및 Nvidia GPU, 6개월 만에 최고 기록",
     "text": "Nvidia의 GeForce 시리즈 GPU도 9월과 10월 사이에 72% 상승해 가격이 더 높아진 서버 카드로 손꼽혔습니다. RTX 3090 시리즈는 심각한 공급 부족으로 인해 RTX 20 시리즈 및 GTX16xx GPU와 같은 레거시 모델에 영향을 미쳤습니다. GDDR5 시리즈의 부족은 시장을 괴롭히는 공급 문제의 표시이기도 합니다.",
     "detected_vendors": [
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -914,8 +993,28 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
+    "subheading": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
+    "text": "한편, Quadro RTX A4000의 전문가용 카드 리드 타임은 최대 32주까지 연장되었습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -930,8 +1029,28 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
+    "subheading": "긴 리드 타임으로 인해 제약받고 있는 Nvidia의 RTX 시리즈 GPU",
+    "text": "새 시리즈의 향상된 리드 타임과 임박한 출하는 RTX A2000 시리즈 GPU를 기대하는 워크스테이션 제작업체라면 일찌감치 주문해야 한다는 것을 의미합니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -1166,7 +1285,8 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Decrease"
     ],
     "risk_level": "High"
   },
@@ -1234,6 +1354,61 @@
     "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
     "text": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
     "detected_vendors": [
+      "AMD",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "text": "중국 시장의 수요와 관련하여 구매력은 대부분 유명한 기술 회사로부터 발생합니다. Huawei, ZTE, BAT 등의 회사들이 산업 수요를 선도하지만 현재 거시경제 상황은 우호적이지 않습니다. 프로젝트 취소 및 삭감의 전망에 따라 고객들은 보수적으로 지출하고 임박한 수요에만 근거하여 주문하고 있습니다.",
+    "detected_vendors": [
+      "AMD",
+      "Huawei",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "text": "행정 명령 발표 이전에 A100 80GB 모델은 과공급 상태였지만 현재 벤더들은 수요의 폭증을 예상하여 재고를 묶어두고 새로운 선적이나 견적을 중단하고 있습니다. 최종 고객 및 중개인 양측 모두로부터 문의가 쇄도함에 따라 결과적으로 시장 활동이 증가했으며 대부분의 오픈 마켓 물량은 신속히 판매되고 있습니다.",
+    "detected_vendors": [
+      "AMD",
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "text": "금지된 모델뿐만 아니라 특히 데이터 센터 및 AI 컴퓨팅용 Tesla 시리즈를 포함한 기타 GPU에 대한 시장 가격이 지속적으로 상승할 것이라는 추측이 지배적입니다.",
+    "detected_vendors": [
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -1301,14 +1476,93 @@
     ],
     "section_raw": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
     "subheading": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
+    "text": "RTX 4090 시리즈 GPU는 아직도 어느 정도는 생산 부족 상태이며 납품 일정이 명확하지 않기 때문에 대안으로 RTX 4070과 4080 모델에 대한 공급 압박이 늘어나고 있습니다. RTX 40 시리즈의 가격은 전작인 RTX 30 시리즈보다 더 높습니다. 결과적으로, RTX 30 시리즈에 대한 요청은 줄어든 가용성에도 불구하고 더 높아졌습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
+    "subheading": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
+    "text": "곧 출시되는 새로운 전문 카드 모델 RTX 6000 ADA는 이전 세대 모델인 RTX A6000의 공급 부족을 초래했습니다. RTX A6000에 대한 수요는 여전히 상승세이며 이 모델의 공급 백로그는 적어도 2월 초까지 계속 불안정할 것입니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
+    "subheading": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
     "text": "공급과 수요의 변동에도 불구하고 Nvidia의 2023년 1분기 GPU 전 세계 수익은 전년의 같은 분기와 비교했을 때 46% 증가했습니다. 게이밍 GPU에 대한 수요는 감소해 왔으며 이는 가격 하락이 Nvidia의 수익에 영향을 미칠 것이라는 추측으로 이어졌습니다. 하지만 사업은 계속 성장하여 기록적인 결과를 달성했습니다.",
     "detected_vendors": [
       "Nvidia"
     ],
     "detected_keywords": [
-      "Price Decrease"
+      "Price Decrease",
+      "Shortage"
     ],
-    "risk_level": "Low"
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
+    "subheading": "제조업체들이 수요를 늘리기 위한 선택지를 모색하고 있으므로 네트워크 어댑터 카드 공급은 계속해서 양호한 상태를 유지함",
+    "text": "Mellanox의 경우 최고 인기 모델은 MCX-5 및 MCX-6 시리즈였습니다. MCX-4 시리즈는 단종 부품 상태로 가고 있으므로 현재는 수요가 적습니다. 그 결과 공급이 감소되었습니다. 이전에 누적된 예약 초과와 수요 둔화로 인해 모든 시리즈에 대한 전반적인 공급은 양호하며 공급 부족의 징후는 없습니다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "공급 및 생산 부족에도 불구하고 Nvidia는 기록적인 GPU 수익 결과를 달성함",
+    "subheading": "제조업체들이 수요를 늘리기 위한 선택지를 모색하고 있으므로 네트워크 어댑터 카드 공급은 계속해서 양호한 상태를 유지함",
+    "text": "예약 리드 타임은 Intel의 네트워크 어댑터 카드의 경우에는 개선되었으며 가격은 낮아졌습니다. 추가적인 가격 하락 상황에서 수요를 늘리기 위한 노력의 일환으로 Intel은 2023년 1분기에 유통업체를 위해 특별한 가격 지원을 고려하고 있습니다.",
+    "detected_vendors": [
+      "Intel",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Decrease",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -1332,6 +1586,7 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC",
       "Other"
     ],
     "section_raw": "하드웨어",
@@ -1349,6 +1604,7 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC",
       "Other"
     ],
     "section_raw": "하드웨어",
@@ -1378,7 +1634,8 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -1400,6 +1657,40 @@
   },
   {
     "year": 2023,
+    "month": 7,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "NVIDIA 주가, 칩 산업 투자 이후 신고가 경신",
+    "text": "해당 시리즈 문의 증가에 따라 가용성이 제한되었습니다. 공급은 엄격하게 할당 대상이며, 주문의 대부분은 슈퍼컴퓨터 시스템 프로젝트에 지정됩니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "NVIDIA 주가, 칩 산업 투자 이후 신고가 경신",
+    "text": "또한 하이엔드 시리즈 중 가장 큰 변동이 있는 Quadro 시리즈의 공급 상황이 일부 개선되기 시작했습니다. 이에 수요는 일정하지만, 가격은 하락 추세에 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
     "month": 8,
     "category": "GPU",
     "detected_categories": [
@@ -1411,8 +1702,11 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Decrease",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -1428,8 +1722,11 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Decrease",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -1445,9 +1742,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Price Decrease"
+      "Price Decrease",
+      "Shortage"
     ],
-    "risk_level": "Low"
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -1542,6 +1840,23 @@
   },
   {
     "year": 2023,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "NVIDIA, 신제품 발표에 따른 GPU 수요 증가로 분투",
+    "text": "테슬라 시리즈 GPU에 대한 수요 역시 미국이 중동 국가들을 금지 명단에 포함했다는 소식에 따라 증가했습니다. 제한을 확대하면 공급에 영향을 미쳐 오픈 마켓 가격은 더욱 상승할 수 있습니다. 가격은 매주 3~5%의 상승 추세를 보이고 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
     "month": 11,
     "category": "GPU",
     "detected_categories": [
@@ -1565,6 +1880,27 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "공급 제약과 함께 계속 연장되는 NVIDIA 리드 타임",
+    "text": "또한 GPU 칩셋 할당량 감소로 인해 RTX 4090 공급량이 대폭 감소했습니다. 이러한 개발로 인해 전체 GPU 할당이 영향을 받아 리드 타임이 연장되었습니다. RTX 4090 싱글 블로어 에디션 시리즈의 공급은 변동성이 있으며, 모든 GPU 소싱 파트너의 배송 기간은 추후 공지가 있을 때까지 변경될 수 있습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
       "Other"
     ],
     "section_raw": "하드웨어",
@@ -1574,9 +1910,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Price Decrease"
     ],
-    "risk_level": "Low"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -1594,8 +1931,10 @@
       "Intel",
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -1613,8 +1952,32 @@
       "Intel",
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
+    "text": "제한 확대 및 A100 및 A800 80GB PCIe GPU 단종(EOL) 발표로 Tesla GPU 시리즈의 수요가 증가했습니다. 단종(EOL) 제품의 마지막 배송은 2024년 말이 될 것으로 보이므로 새해에는 대체 상품에 대한 수요가 밀려오는 추세를 보일지도 모릅니다. GPU 중 영향을 받은 시리즈의 시장 가격은 상승할 것으로 기대됩니다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -1751,6 +2114,24 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "GPU 혁신의 주도를 이어나가는 Nvidia",
+    "text": "회사의 다음번 대규모 출시인 H200 GPU는 2분기 말로 예정되었습니다. 해당 GPU에서는 대규모 언어 모델(LLM)을 위한 향상된 효율성, 컴퓨팅, 메모리를 제공할 것으로 보입니다. 보도에 따르면 현재 H100 GPU보다 두 배 높은 성능을 제공합니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
       "Other"
     ],
     "section_raw": "하드웨어",
@@ -1820,7 +2201,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Tariff"
     ],
     "risk_level": "Medium"
   },
@@ -1839,8 +2221,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Tariff"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -1898,8 +2282,29 @@
       "AMD",
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "GPU: NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
+    "text": "Quadro 시리즈의 가격은 하락세를 보이며 지난 몇 달간 약 3~5% 떨어졌습니다. 추가적인 활동에 박차를 가하기 위해 제조사들은 시장 가격을 낮게 유지할 계획입니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2393,6 +2798,25 @@
     "detected_categories": [
       "GPU"
     ],
+    "section_raw": "GPU 공급 문제 속 Nvidia의 강세",
+    "subheading": "GPU 공급 문제 속 Nvidia의 강세",
+    "text": "Jetson GPU Orin 모델(8GB, 16GB, 64GB)은 여전히 부족 상태이며, 리드 타임은 최소 10~20주입니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "제조업체 및 기업 업데이트",
     "text": "NVIDIA의 GeForce RTX 5000 시리즈GPUs는 하드웨어 및 소프트웨어 결함 문제가 발생하면서 소비자들의 불만이 커지고 있습니다.",
@@ -2666,6 +3090,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -2813,9 +3238,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -2831,9 +3257,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -2868,8 +3295,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3036,8 +3465,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3224,6 +3655,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -3244,9 +3676,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3263,6 +3696,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase",
       "Shortage"
     ],
@@ -3301,6 +3735,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -3321,9 +3756,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3357,6 +3793,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3415,6 +3852,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -3434,9 +3872,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3454,6 +3893,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3512,6 +3952,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Price Increase"
     ],
@@ -3686,9 +4127,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3740,6 +4182,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Price Increase"
     ],
@@ -3759,6 +4202,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Lead Time"
     ],
@@ -3777,8 +4221,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3814,8 +4260,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   }
 ]

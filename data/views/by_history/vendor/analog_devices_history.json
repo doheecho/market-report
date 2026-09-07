@@ -1,6 +1,6 @@
 {
   "vendor": "Analog Devices",
-  "total_milestones": 46,
+  "total_milestones": 53,
   "history": [
     {
       "date": "2021.11",
@@ -8,7 +8,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
       "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다."
     },
@@ -41,6 +41,16 @@
       "risk_level": "Medium",
       "summary": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
       "text": "일부 Maxim 부품에 대한 리드 타임이 최대 90주까지 증가한 것으로 알려졌습니다. Maxim의 DS 시리즈 리드 타임은 70주까지 늘어났습니다."
+    },
+    {
+      "date": "2022.02",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+      "text": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다. 이러한 예상 지연 및 일부 부품 제조를 지원하는 웨이퍼의 제한된 생산량은 공급 제약을 가중할 것입니다."
     },
     {
       "date": "2022.08",
@@ -91,7 +101,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
       "text": "상용 등급 제품에 대한 수요는 약간 감소한 반면, 산업 성과는 일관되게 유지되고 있습니다. Analog Devices가 Linear Tech 및 Maxim과 함께 가격을 인상할 것이라는 소문이 있지만, 어떤 공식 발표도 없기에, 몇 퍼센트의 가격 인상이 있을 것인지는 아무도 모릅니다."
     },
@@ -101,7 +111,17 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
+      "summary": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
+      "text": "Linear Technologies는 제조업자의 제한된 지원으로 여전히 자체 제품군에 있어 어려움에 처해 있습니다. 이는 리드 타임 납품을 불안정하게 만들었으며 시장 가격은 계속 오를 가능성이 있습니다."
+    },
+    {
+      "date": "2022.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
       "summary": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
       "text": "긍정적인 소식은 Analog Devices의 ADUM 시리즈의 안정적인 시장 공급이 이루어지고 있다는 것인데, 이는 특히 공인 유통업체가 시장에 더 많은 재고를 안겨주고, 할당을 완화한 노력 덕분입니다."
     },
@@ -167,6 +187,16 @@
       "text": "이렇게 되면 공급은 늘어나지만, LTC4XXX 및 LTC6XXX 시리즈는 여전히 공급 부족(Shortage)의 영향을 받습니다. 두 시리즈 모두 배터리 충전 및 모니터링에 사용되며, 이는 전기 차량에 대한 수요가 공급 문제를 촉발하는 역할을 했을 가능성이 있음을 의미합니다. Analog Devices는 지난 분기 매출의 대부분이 현재의 전기화 추세 덕분이라고 봤습니다."
     },
     {
+      "date": "2023.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices, 공급 강화를 위한 장기전 돌입",
+      "text": "하지만, 이러한 제약에도 불구하고 일반적인 공급 예측은 올해는 AD의 재고가 개선될 것으로 전망합니다. 전해진 바에 따르면, 제품의 95%는 10월까지 시간이 소요될 가능성이 높겠지만, 이 포트폴리오의 절반은 리드 타임이 13주 미만으로 단축될 것으로 봅니다. 그에 반해 ADUXXX 시리즈의 공급 및 리드 타임은 이미 안정화되고 있습니다."
+    },
+    {
       "date": "2024.01",
       "category": "IC",
       "detected_categories": [
@@ -177,13 +207,53 @@
       "text": "Analog Devices는 20년 이상 지난 구형 시리즈에 속하는 MPN 가격 인상을 시행할 계획이라고 발표했습니다. 가격은 20% 인상될 것이며, 일부 제품은 그 이상 변동할 가능성도 있지만, 자세한 사항은 아직 최종적으로 결정된 것은 아닙니다."
     },
     {
+      "date": "2024.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+      "text": "그러나 주로 대부분의 응용 분야에서 증폭기를 사용하는 공통 부품을 대상으로 가격 조정을 시행할 가능성이 높습니다. 이러한 제품의 경우 특정 사용 사례로 인해 대안이 제한적이며, 적용할 다른 부품을 찾지 못한 고객들은 더 높은 가격을 지불할 수밖에 없을 것으로 보입니다."
+    },
+    {
+      "date": "2024.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+      "text": "Lattice 역시 2024년에 시행할 예정인 시장 장수 제품의 7.5% 가격 인상에 관해 최종 고객을 대상으로 천천히 안내하고 있습니다. 이러한 발표에는 최소 10년 이상 출하된 모든 제품이 해당됩니다. Silicon Image 라인의 일부인 SIxxx 시리즈 및 Lattice 4000 시리즈이 여기에 포함됩니다."
+    },
+    {
+      "date": "2024.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+      "text": "해당 가격 변동은 1월 29일부터 적용되며 해당일 또는 그 이후에 고객에게 배송되는 모든 상품이 영향을 받을 것으로 보음니다."
+    },
+    {
+      "date": "2024.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "연장된 리드 타임으로 웨이퍼에 대한 독점 파트너십을 체결한 Analog Devices",
+      "text": "전자 부품 생산에 필수적인 웨이퍼 공급의 제한 속에서 제조사들이 고군분투하고 있습니다. HMCxxx의 리드 타임은 20주에 달하지만 공급은 비교적 안정적입니다. 한편 Linear Tech 부품은 20주~30주의 리드 타임을 보이며 공급 확보에 보다 어려움을 겪고 있습니다."
+    },
+    {
       "date": "2024.03",
       "category": "CPU",
       "detected_categories": [
         "CPU",
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "연장된 리드 타임으로 웨이퍼에 대한 독점 파트너십을 체결한 Analog Devices",
       "text": "Analog Devices에서는 장기적인 웨이퍼 생산 능력을 제공하기 위해 TSMC에서 대다수의 지분을 소유한 제조 자회사인 일본의 JASM(Japan Advanced Semiconductor Manufacturing)과 특별 협약을 체결하여 이러한 상황에 대응하고 있습니다. 협약은 40nm 및 미세 공정 기술 노드에 초점을 맞추며, 이는 무선 BMS(wBMS) 및 GMSL™(Gigabit Multimedia Serial Link) 애플리케이션을 비롯한 중요한 플랫폼 역할을 수행합니다."
     },

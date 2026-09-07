@@ -1,6 +1,6 @@
 {
   "vendor": "Onsemi",
-  "total_milestones": 43,
+  "total_milestones": 45,
   "history": [
     {
       "date": "2020.11",
@@ -8,7 +8,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "MOSFET 제조업체들, 생산 전환으로 공급 부족 상쇄",
       "text": "따라서 많은 고객이 지금은 다이오드는 NXP, MOSFET 생산은 OnSemi 에 의지하고 있습니다."
     },
@@ -24,8 +24,9 @@
     },
     {
       "date": "2021.05",
-      "category": "Other",
+      "category": "IC",
       "detected_categories": [
+        "IC",
         "Other"
       ],
       "risk_level": "High",
@@ -41,6 +42,16 @@
       "risk_level": "Low",
       "summary": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
       "text": "현재 Sony와 On Semi의 흑백 CMOS는 시장에서 공급이 극히 빠듯해, 제조업체나 유통업체에서 재고 물량을 찾아내는 것 자체가 거의 불가능한 실정입니다. 파트 넘버 IMX287LLR-C 및 IMX273LLR-C가 가장 수요가 많아 가장 구하기 어려운 제품입니다."
+    },
+    {
+      "date": "2021.06",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
+      "text": "제조업체에서 재고 물량이 많아짐에 따라 Color Square Pixel CMOS 시장에서 한 숨 돌리는 모습을 볼 수 있습니다. 고객들은 흑백 CMOS 프로젝트를 Color Pixel로 바꿀 방안을 모색 중인 것으로 알려졌습니다."
     },
     {
       "date": "2021.06",
@@ -80,7 +91,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "OnSemiconductor MOSFET 가격 인상",
       "text": "7월에 ONSemiconductor의 MOSFET 가격이 10~20% 높아졌고 일부 배송은 2022년으로 연기되었습니다."
     },
@@ -90,7 +101,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "OnSemiconductor MOSFET 가격 인상",
       "text": "ONSemiconductor는 현재 코로나19 확진자 급증으로 베트남과 태국에 있는 공장이 영향을 받고 있음을 알리는 공지 서한을 고객에게 보내기도 했습니다."
     },
@@ -100,7 +111,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "OnSemiconductor MOSFET 가격 인상",
       "text": "영향을 받는 제품으로는 OnSemiconductor의 STK6XXX 시리즈인 유니폴라 2상 스테퍼 모터 드라이버(산업용 컴퓨팅 및 주변기기 애플리케이션), NCVXXX, NCxxxx LDO 레귤레이터, NTDXXX 전력 MOSFET이 포함됩니다."
     },
@@ -170,7 +181,8 @@
       "date": "2023.09",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Storage"
       ],
       "risk_level": "Medium",
       "summary": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
@@ -180,9 +192,10 @@
       "date": "2023.09",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
       "text": "이러한 수요로 인해 onsemi는 특히 신에너지, 자동차 및 에너지 저장 응용 분야에 사용되는 부품을 중심으로 고전압 및 저전압 MOSFET 생산에 초점을 두고 있습니다."
     },
@@ -222,7 +235,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "일본 지진으로 경쟁사 수요 발생",
       "text": "여전히 피해를 산정 중인 Toshiba의 고객은 Toshiba TC7 제품의 대체재로 onsemi의 NL17 시리즈를 이용하고 있습니다."
     },
@@ -235,6 +248,16 @@
       "risk_level": "Medium",
       "summary": "주 이상으로 연장된 Onsemi의 리드 타임",
       "text": "Onsemi의 리드 타임은 안정적이지 못하며 대부분의 부문에서 50주 이상으로 늘어났습니다. 이미지 센서, MOSFET, 트랜지스터의 경우 공급이 최대로 제한되면서 가장 긴 리드 타임을 보이고 있습니다. 자동차 전장 부품의 경우 가장 높은 수요를 보이며 계속해서 증가하고 있습니다."
+    },
+    {
+      "date": "2024.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "주 이상으로 연장된 Onsemi의 리드 타임",
+      "text": "이러한 문제를 해결하기 위해 제조사에서는 해당 제조 시설 전략을 변경하여 소비재나 마진이 적은 제품에 대한 생산을 줄이고 있습니다. 증가하는 수요를 충족하기 위해 추가 지원이 자동차 및 산업 개발 쪽으로 이동하고 있습니다."
     },
     {
       "date": "2024.07",

@@ -14,8 +14,10 @@
       "Seagate",
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2020,
@@ -83,10 +85,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia GeForce RTX 2080 Ti 단종?",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -102,10 +106,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
       "EOL",
+      "Lead Time",
       "Production Cut"
     ],
     "risk_level": "High"
@@ -217,7 +223,9 @@
     "subheading": "SSD 가격 하락으로 득을 보는 고객",
     "text": "현재, SSD 수요는 비교적 약세입니다. 일부 공급업체와 OEM이 현금 흐름 창출을 위해 더 낮은 가격으로 오픈 마켓에서 과다하게 공급하고 있습니다. SSD의 공식 가격이 3~5% 떨어졌으므로, SSD가 필요한 고객은 이 오픈 마켓 기회를 이용해 비용 절감 효과를 누리고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -249,8 +257,10 @@
     "detected_vendors": [
       "AMD"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -263,7 +273,9 @@
     "subheading": "SSD 가격 하락으로 인한 고객들의 기회 활용",
     "text": "현재 SSD 수요는 상대적으로 적으며, 일부 공급업체와 OEM은 현금 흐름을 창출하기 위해 과잉 공급량을 낮은 가격에 제공하고 있습니다. 공시가격이 3~5% 하락하였기 때문에 SSD가 필요한 고객은 이러한 공개시장 기회를 이용하여 비용을 절감하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -689,6 +701,7 @@
     "text": "고객이 당분간 충분한 버퍼 재고를 보유하고 있기 때문에 메모리에 대한 수요는 안정상태를 유지합니다 하지만 고객은 다른 파트들 (예: HDD, SSD)의 공급 부족이 계속되고 있어, 완충 재고가 도움이 될 지에 대한 의문을 갖고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -741,8 +754,10 @@
     "subheading": "여전히 부족한 소용량 SSD",
     "text": "SSD의 공급이 계속 제한적이며, 주로 최대 1.92TB의 적은 용량에 대해 수요가 계속 강세를 띠고 있습니다. 또한, IC 컨트롤러 공급 제약으로 SSD 생산에 계속 어려움이 있고, 벤더들은 이 문제가 한 분기 이상 계속될 것이라는 의견을 공유했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -755,8 +770,10 @@
     "subheading": "여전히 부족한 소용량 SSD",
     "text": "중국 시장에서의 수요는 암호화폐 채굴 활동의 증가로 여전히 강세입니다. 특히, 많은 벤더가 높은 읽기 및 쓰기 속도 때문에 암호화폐 채굴에 사용 시 스토리지 드라이브의 내구성에 대한 우려의 목소리를 내고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -1007,6 +1024,7 @@
     "subheading": "계속 상승세에 있는 Intel SSD 가격",
     "text": "마찬가지로, Micron 벤더들은 3분기 SSD 할당량이 계속 제한적이고 가격이 5~10% 뛸 것으로 예상하는 것으로 의견이 모였습니다.",
     "detected_vendors": [
+      "Intel",
       "Micron"
     ],
     "detected_keywords": [
@@ -1024,7 +1042,9 @@
     "section_raw": "계속 상승세에 있는 Intel SSD 가격",
     "subheading": "계속 상승세에 있는 Intel SSD 가격",
     "text": "일반적으로, 일부 고객은 여전히 3분기 SSD 계약 가격을 기다리고 있으며 더 유리한 가격대에 이르기를 바라며 구매를 미루고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1384,7 +1404,9 @@
     "section_raw": "가동 중단의 영향을 받는 Micron 납품",
     "subheading": "가동 중단의 영향을 받는 Micron 납품",
     "text": "EOL 통지는 다양한 e.MMC 저장 장치에 적용되며 2022년 4월 30일부터 발효될 예정입니다. 이 통지는 소비자 및 자동차 애플리케이션이 증가함에 따라 마련되었습니다. 4, 8, 16, 32, 64 및 128GB 부품이 포함될 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Micron"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -1548,7 +1570,9 @@
     "section_raw": "Intel SSD의 사정이 즉시 좋아질 조짐은 없어",
     "subheading": "Intel SSD의 사정이 즉시 좋아질 조짐은 없어",
     "text": "하지만 원자재 공급 부족으로 공급 제약이 불가피했습니다. 이러한 공급 부족으로 인해 두 회사는 물류 비용과 부품 판매 사이의 차이를 좁히려고 자재를 할당해 배분했으며, 그 결과 종종 대용량 SSD에 생산 능력이 할당되곤 했습니다. 결국, 소용량 SSD(240GB, 480GB, 960GB)가 부족해졌으며 상황이 즉시 개선될 것으로 보이진 않습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -1583,7 +1607,9 @@
     "section_raw": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "subheading": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "text": "WD의 3D NAND 제품을 사용하는 대만 회사 Innodisk와 Transcend 같은 SSD 제조업체가 그 영향을 받을 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1593,12 +1619,15 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Memory",
       "Storage"
     ],
     "section_raw": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "subheading": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
     "text": "그와 동시에, 전력 관리 IC와 컨트롤러 칩의 공급 부족으로 SSD 전체 공급에 압박이 계속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -1634,6 +1663,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1688,7 +1718,8 @@
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "Intel 240GB와 480GB 소용량 SSD 또한 심각한 공급 부족을 겪고 있습니다.",
     "detected_vendors": [
-      "Intel"
+      "Intel",
+      "SK하이닉스"
     ],
     "detected_keywords": [
       "Shortage"
@@ -1705,9 +1736,14 @@
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "생산 자원이 NVMe에 중점을 두고 있지만, 제조업체가 계층 1 OEM 대상 배송에 주력하고 있기 때문에 SSD 고객은 여전히 시장의 물량이 빠듯하고 가격이 인상되었다고 여길 것입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Intel",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1724,7 +1760,8 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1738,9 +1775,14 @@
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Intel",
+      "SK하이닉스"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1776,7 +1818,8 @@
     "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Geopolitics / Sanctions"
     ],
     "risk_level": "High"
   },
@@ -1852,7 +1895,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1887,8 +1931,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1902,12 +1948,14 @@
     "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
+      "Intel",
       "Micron",
       "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
       "Allocation",
+      "EOL",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2037,6 +2085,23 @@
     ],
     "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
+    "text": "많은 고객들이 배송을 취소하거나 지연시키고 있는 실정이지만 오픈 마켓의 공급은 여전히 안정되어 보입니다. 메모리 모듈의 공식 가격이 지난 3개월 간 8%~12% 지속적으로 하락하고 있는 반면 오픈 마켓의 가격은 변동이 심화되어 거의 매일 변하고 있습니다. 유통업체들은 제조업체로부터 대부분 연속 구매 형식으로 주문을 유지하여 가격 하락의 위험을 그나마 줄이고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
+    "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "text": "저장 장치 시장의 경우 고객의 저장 장치 수요는 서버 저장 장치 수요보다 한참 줄었고, 벤더들이 공개한 자료에 따르면 노트북 저장 장치 수요가 급감했습니다. 그 결과 벤더들은 초과 재고를 처리하고 결국 손해 보는 거래를 하고 있는 실정입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -2061,16 +2126,91 @@
     "risk_level": "Low"
   },
   {
+    "year": 2022,
+    "month": 12,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
+    "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
+    "text": "반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
     "year": 2023,
     "month": 1,
-    "category": "Other",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Other",
       "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
     "text": "3구역 전체 SSD 시장 매출은 전 분기 대비 28.7% 감소한 52억2000만 달러를 기록했습니다. 엔터프라이즈 SSD의 가격은 하락세가 지속되고 있는 가운데 고객사가 프로젝트를 취소하고 더 많은 과잉 재고를 만들지 않으려고 하면서 전망을 더욱 어둡게 만들고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
+    "text": "삼성 시리즈 S4510, 240GB, 480GB는 여전히 사람들이 가장 많이 찾는 모델이며 고객들은 비용 절감 기회를 적극적으로 찾고 있습니다. 하지만 수요가 점차 감소하고 있고, 벤더들은 현재 재고에서 손실을 보고 있기 때문에 재고를 덜 끌어들이고 있습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
+    "text": "메모리 모듈의 수요 부진이 지속되면서 제조사들의 전략이 바뀌고 있습니다. Micron과 Hynix는 가격 하락을 줄이기 위해 DRAM과 NAND 생산을 축소했습니다. 한편 삼성전자는 생산을 계속하고 있지만 매 분기 하락에도 불구하고 가격 하락에 제동을 걸었습니다. 이러한 조치는 수요가 증가하지 않았음에도 이루어진 것입니다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
+    "text": "유통업체들은 매일 달라지는 가격 변동에 대처하기 위해 백투백(back-to-back) 방식으로 주문을 받고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2104,7 +2244,9 @@
     "section_raw": "전반적인 SSD 시장 수요는 줄어드는 반면, Intel 고객은 새로운 시리즈로 넘어감",
     "subheading": "전반적인 SSD 시장 수요는 줄어드는 반면, Intel 고객은 새로운 시리즈로 넘어감",
     "text": "SSD 시장에서 전반적인 수요는 계속 감소하고 있습니다. 고객들이 프로젝트를 연기하거나 취소하고 있으므로 과잉 공급은 시장에서 이미 시작되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2207,8 +2349,10 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "Memory",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
+      "IC",
       "Memory",
       "Other",
       "Storage"
@@ -2233,6 +2377,26 @@
     "text": "저장 장치 시장 수요는 SSD와 HDD 모두에서 지속적으로 감소하고 있습니다. 특히 SSD 공급은 모든 브랜드에서 매우 안정적입니다. 현재 벤더들은 대량의 재고 보유를 주저하고 있으며, 대부분 제조업자에서 부품을 끌어와 고객의 수요를 지원하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
+    "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "Seagate"
+    ],
+    "detected_keywords": [
+      "Production Cut"
+    ],
     "risk_level": "Low"
   },
   {
@@ -2291,6 +2455,23 @@
     "detected_vendors": [
       "Seagate"
     ],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "낮은 수요와 공급 증가가 SSD 및 HDD의 감산으로 이어지다",
+    "text": "현재 오픈 마켓의 공급 상태는 양호한 편이며, 제조업체의 생산량 감소에도 불구하고 제조업체가 재고를 소진하기까지는 다소 시간이 걸릴 것으로 보입니다.",
+    "detected_vendors": [],
     "detected_keywords": [
       "Production Cut"
     ],
@@ -2368,9 +2549,10 @@
     "text": "지난 몇 달간 시장이 침체한 상황이어서 SSD 공급 상태는 아직 양호합니다. SSD 제조업체는 결과적으로 과잉되지 않고 안정적인 재고 수준을 보장할 수 있도록 감산 및 공급 조절을 실시하고 있습니다. 오픈 마켓 공급이 줄어들면 SSD 가격을 회복할 것으로 기대하지만, 이를 위해서는 상당한 수요 회복이 필요합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Production Cut"
     ],
-    "risk_level": "Low"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -2386,8 +2568,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -2430,6 +2614,22 @@
     ],
     "section_raw": "완제품",
     "subheading": "HDD 수요 증가에 따라 제약 조건이 가용성에 미치는 영향",
+    "text": "지금은 제약 조건이 특히 소비자들 사이에서 보다 지속적인 관심을 끌었던 고용량 시리즈의 가용성에 더욱 영향을 미치기 시작했습니다. 시세는 가격 및 리드 타임이 점차 확대됨에 따라 이러한 수요 증가를 반영하기 시작했습니다. 주문 적체를 막으려면 제조업체들이 생산을 늘려야 합니다. 그러나 제조에 필요한 원자재 및 기타 자원을 저장하려면 시간과 자본이 듭니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "완제품",
+    "subheading": "HDD 수요 증가에 따라 제약 조건이 가용성에 미치는 영향",
     "text": "수요가 공급을 앞지르면서 공급 및 수요 사이에 불균형이 존재하기 때문에 Seagate 고객의 주문 처리가 지연되었습니다. 수요 강세가 지속될 경우 특히 연초부터 HDD 가격이 꾸준히 하락한 이후 제조업체에서 가격을 인상할 가능성이 높습니다.",
     "detected_vendors": [
       "Seagate"
@@ -2462,6 +2662,20 @@
     ],
     "section_raw": "완제품",
     "subheading": "둔화된 시장 내 안정적인 공급 창출에 주력하는 SSD 유통업체",
+    "text": "공급이 초과 지역으로 너무 많이 이동하는 것을 방지할 목적으로 유통업체는 재고를 안정적으로 유지하기 위해 공급을 보다 엄격하게 통제하기 시작했습니다. 유통업체들도 안전 재고를 구축하려는 시도에서 벗어나기 시작했으며 제조업체에게 필요한 주문(back-to-back order)만 발주하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "완제품",
+    "subheading": "둔화된 시장 내 안정적인 공급 창출에 주력하는 SSD 유통업체",
     "text": "게다가 아직 단종 부품을 보유하고 있는 업체들은 손해를 보면서 판매하고 있습니다. 유통업체는 이런 구형 모델을 정리할 수 있을 때까지 최신 SSD 시리즈에 대한 예측을 하지 않고 있습니다. 이는 고객이 공급을 확보하기 위해 대안에 의존함에 따라 낙수 효과를 가져왔고 그에 따라 최신 시리즈의 가용성이 감소했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -2478,12 +2692,93 @@
       "Storage"
     ],
     "section_raw": "IC",
+    "subheading": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
+    "text": "전반적으로 MOSFET의 수요가 낮은 시리즈에 대한 공급은 점차 개선되었습니다. 그러나 여전히 공급이 수요를 따라가지 못하는 영역이 존재하며 Infineon, onsemi와 같은 제조업체의 리드 타임이 늘어나고 있습니다. SiC, IGBT, 고전압 MOSFET의 경우 리드 타임이 60주 이상입니다. 제한된 가용성으로 인해 모든 부품의 가격이 상승하고 있습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "IC",
+    "subheading": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
+    "text": "이러한 수요로 인해 onsemi는 특히 신에너지, 자동차 및 에너지 저장 응용 분야에 사용되는 부품을 중심으로 고전압 및 저전압 MOSFET 생산에 초점을 두고 있습니다.",
+    "detected_vendors": [
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "IC",
+    "subheading": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
+    "text": "제한된 제품에 대한 지원을 강화하고 있으나 제조업체 측이 전한 바에 따르면 고객들에게 한동안 할당이 어려울 것이라고 밝혔습니다. 가용성 제한으로 인해 생산 일정을 맞추고자 하는 일부 고객은 대체 제품 또는 대체 브랜드를 선택해야 했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "IC",
     "subheading": "공급 부족이 지속되는 가운데 2분기 실적 발표에 따른 STM 자동차 부품의 가격 변동성",
     "text": "STMicroelectronics 2분기 실적 보고서에 따르면 해당 기업의 자동차 및 전력 디스크리트 부문은 두 자릿수의 성장률 및 34.4%의 매출 증가를 기록했습니다. 자동차 시장의 강세로 인해 STM이 해당 산업에 대한 관심을 확대하면서 가격 변동성에 영향을 미쳤습니다.",
     "detected_vendors": [
       "STMicroelectronics"
     ],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "스토리지 가격 하락세 지속에 따른 감산",
+    "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Decrease",
+      "Production Cut"
+    ],
     "risk_level": "Low"
   },
   {
@@ -2498,7 +2793,10 @@
     "subheading": "스토리지 가격 하락세 지속에 따른 감산",
     "text": "또한 이러한 상황은 SSD에도 파급 효과를 가져왔습니다. 제조업체 및 공급업체의 재고 소진을 통한 손실 절감 과정에서 SSD 가격은 하락했습니다. 클라이언트 SSD의 주문 건수는 작년 성수기 물량보다 감소할 것으로 보이며, 생산 능력도 점차 정상 수준으로 회복됨에 따라 공급은 더욱 증가하고 있습니다. 최종 고객이 예상치를 하향 조정함에 따라 유통업체는 초과 재고 축적을 방지하기 위해 가격을 인하했으므로 3분기 내 클라이언트 SSD 가격이 3~8% 정도 하락할 수 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease",
+      "Production Cut"
+    ],
     "risk_level": "Low"
   },
   {
@@ -2513,8 +2811,49 @@
     "subheading": "스토리지 가격 하락세 지속에 따른 감산",
     "text": "한편, 엔터프라이즈 SSD 가격은 해당 시장의 강세로 인해 2분기에 비해 보합세를 유지할 것입니다. 엔터프라이즈 SSD의 글로벌 조달 능력은 수요가 안정적으로 유지될 경우 10% 정도 증가할 것으로 전망됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease",
+      "Production Cut"
+    ],
     "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "스토리지 시장의 회복세 지속에 따라 HDD 리드 타임 연장 및 SSD 가격 상승",
+    "text": "메모리 모듈 가격 인상이 예상됨에 따라 수요가 증가했습니다. 제조업체들은 추후 안내 시까지 견적 발행을 지연하고 배송을 보류하고 있는 것으로 알려졌으며, 이는 가격 조정 가능성을 뒷받침합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "스토리지 시장의 회복세 지속에 따라 HDD 리드 타임 연장 및 SSD 가격 상승",
+    "text": "제조업체에서는 특히 티어 1 고객을 중심으로 활동이 활발해지고 오픈 마켓 가격은 최소 2~3% 상승한 것으로 파악합니다. 공급업체에서는 오픈 마켓 가격이 상승함에 따라 메모리 모듈에 대한 문의가 전체적으로 증가했다고 밝혔습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -2595,6 +2934,7 @@
     "text": "이러한 상황에 따라 시장 비용이 매일 변동하면서 SSD 가격도 매우 불안정합니다. 공급 감소로 인해 리드 타임도 연장되어 현재 6~8주입니다. 가격은 배송일 기반으로 책정되므로 비용은 주문을 배송하는 날에 따라 달라집니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -2630,6 +2970,7 @@
     "text": "여전히 대용량 SSD의 수요가 가장 높지만, 수요 정체 및 감소 기간에 공급업체의 안전 재고가 낮아진 이후 가용성에 제한을 받고 있습니다. 불확실한 가용성, 가격 인상 가능성, 수요 증가로 인해 고객들은 한동안 시장으로 눈을 돌려 안전 재고를 구입할 수밖에 없었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -2646,8 +2987,45 @@
     "subheading": "HDD 시장 정체 지속에 따른 향후 감산",
     "text": "HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
     "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "HDD 시장 정체 지속에 따른 향후 감산",
+    "text": "그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "가격 인상에 따라 모든 제조업체의 1분기 SSD 할당 미지수",
+    "text": "제조업체에서는 매주 할당을 업데이트하고 있으며 이는 미래를 제한적으로만 예측할 수 있음을 의미합니다. 각 업체에서는 생산 능력으로 증가한 수요를 충족하기 위해 노력하고 있습니다. 현재 할당은 고객 예측의 10~20%만 충족합니다. 이러한 상황으로 인해 수급 불균형이 증가하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2662,7 +3040,28 @@
     "text": "NVMe 시리즈는 계속 가장 제한적입니다. SATA 시리즈도 제조업체의 NVMe 시리즈로의 생산 전환에서 직결되는 결과의 영향을 받고 있습니다. 모든 시리즈에 걸쳐 고용량 공급은 여전히 가장 부족합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
+      "Price Increase",
       "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "가격 인상에 따라 모든 제조업체의 1분기 SSD 할당 미지수",
+    "text": "이러한 추세는 결과적으로 지난 분기 이후 비용이 15~20% 상승하며 전체 제조업체 가격에 영향을 미쳤습니다. 가격이 매주 계속 상승하면서, 고객들은 가능한 영역에서 비용을 절약하기 위해 적극적으로 비용 효율적 대안을 찾고 있습니다. 이에 따라 일반적으로 가격이 더 낮은 단종(EOL) 시리즈 및 구형 모델의 수요가 증가했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -2695,8 +3094,10 @@
     "subheading": "1분기 HDD 가격 인상 및 2분기 추가 조정",
     "text": "또한 공급업체는 고객 예측이 증가하기 시작했다는 내용을 공유했습니다. 그러나 제조업체에서는 HDD 시장 가격이 기대되는 수익성 수준에 도달하기 전까지 제조 부문 원자재 공급업체에 대한 주문량을 늘릴 계획이 없습니다. 전개되는 상황에 따라 제조 역량이 수요를 따라잡지 못하면 결국 공급은 상당한 대가를 치를 수 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2715,6 +3116,42 @@
       "Price Increase"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "메모리",
+    "subheading": "SSD 제조사, 1분기 가격 공식 발표",
+    "text": "가용성은 지난 분기 대비 다소 상승하였으나, 보고에 따르면 현재 할당량은 여전히 주문량 전체를 감당하기에는 역부족입니다. 고객이 공급 및 가격을 모니터링하여 주문 시기를 결정함에 따라 수요는 변동해 왔습니다. 또한 2월 10일 및 2월 24일 사이에 설날이 다가옴에 따라 최종 고객 프로젝트는 연기 혹은 지연될 것으로 예상됩니다. 하지만 이러한 상황에도 제조사들은 1분기 말 추가 가격 조정을 계획하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "메모리",
+    "subheading": "스토리지 수요 증가로 NAND 플래시 시장 반등",
+    "text": "2023년의 낮은 수요로 NAND 시장은 상당히 위축됐습니다. 가격이 지속적으로 하락하여 해당 연도 대부분의 기간 NAND 플래시는 원가 수준에서 판매되었습니다. 이에 삼성 및 기타 플래시 메모리 제조사들은 생산량을 50%까지 줄였습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -2766,9 +3203,27 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "제조사의 HDD 가격 인상",
+    "text": "공급사들은 1분기 내에 최소 5%~10%의 추가 가격 인상이 있을 것으로 전망합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2817,7 +3272,8 @@
     "text": "제조업체들이 하드웨어 부품 가격을 인상하면서 음력 설 이후 수요가 완만하게 유지되고 있습니다. 최종 고객들은 수요가 낮은 부품의 공급이 안정적이라고 보고하고 있습니다. 그러나 7.6T 이상의 고용량 SSD 할당은 제한적입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2834,7 +3290,8 @@
     "text": "HDD 제조업체들도 추가 비용 조정을 준비하고 있지만 이번의 경우 5%~7% 범위 내 조정일 것으로 보입니다. 고용량 SAS 드라이브의 가격은 약 2% 상승했습니다. 현재 생산량이 수요를 충족할 수 없기에 예약 리드 타임이 길어지고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2850,10 +3307,33 @@
     "section_raw": "하드웨어",
     "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident",
       "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+    "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
     ],
     "risk_level": "High"
   },
@@ -2890,8 +3370,11 @@
       "Seagate",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2940,9 +3423,11 @@
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Production Cut"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Low"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2956,9 +3441,11 @@
     "text": "가장 큰 영향을 받은 제품은 16TB의 고용량 HDD로, 공급업체들이 할당량이 제한되고 납품일이 뒤로 미뤄지고 있다고 보고하고 있습니다. 수요가 증가하면서 가격이 8~10% 상승했으며 수요가 계속 제한될 경우 비용이 더 상승할 수 있습니다. 반면 저용량 HDD 공급은 매우 양호한 상태를 유지하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2972,9 +3459,11 @@
     "text": "SSD의 경우 할당량이 정상화되면서 시장 수요가 안정된 상태를 유지하고 있습니다. 일부 고용량 SSD 공급 제약에 대한 보고가 여전히 존재하지만 대부분의 공급업체에서 일정한 할당량을 보고하고 있습니다. 안정세에도 불구하고 가격은 계속해서 상승하고 있으며 3분기 비용은 이미 5~10% 인상되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2989,9 +3478,13 @@
     "text": "AI GPU는 RTX 40 시리즈, A100 및 H100의 가격이 여전히 높은 반면 공급은 계속 제한되는 등 수요 추세를 주도하고 있습니다.반면, 워크스테이션 GPU 수요는 안정된 상태를 유지하고 있습니다. 제조사들은 곧 있을 가격 조정으로 인해 필요한 수요가 증가할 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Increase"
+      "Allocation",
+      "Price Increase",
+      "Production Cut",
+      "Shortage",
+      "Tariff"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3006,9 +3499,12 @@
     "text": "또한 중국에서 미국으로 제품을 수입하는 기업에 대한 GPU 관세 면제는 5월 31일부로 종료되었습니다. 2025년에 발효될 새로운 관세는 비용 증가로 인해 수요에 영향을 미칠 것으로 예상됩니다. 이러한 변화에 따라 벌써부터 RTX 40 시리즈에 대한 문의가 증가할 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage",
       "Tariff"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3025,7 +3521,9 @@
       "Mellanox"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
+      "Production Cut",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3044,9 +3542,11 @@
       "Mellanox"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3061,6 +3561,7 @@
     "text": "AI 서버 수요 증가로 HBM, DDR5, 데이터 센터 SSD가 급성장하면서 DRAM 및 NAND의 공급이 부족해지고 있습니다. 결과적으로 모든 메모리 및 스토리지 최종 시장에서 가격이 상승할 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3108,6 +3609,21 @@
     "section_raw": "하드웨어",
     "subheading": "SSD: 비용 절감으로 오픈 마켓에 몰린 고객",
     "text": "메인스트림 시리즈의 공급 안정화로 지난달 SSD 시장이 둔화되었습니다. 하지만 15TB 이상의 대용량 드라이버와 M.2 및 E1.s 시리즈와 같은 특수 폼팩터를 확보하는 데는 여전히 어려움이 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "SSD: 비용 절감으로 오픈 마켓에 몰린 고객",
+    "text": "고객은 가격에 매우 민감하며 메인스트림 시리즈에서 가장 경쟁력 있는 가격을 꾸준히 찾고 있습니다. 이러한 상황에서도 제조업체들은 다음 분기에 가격을 10~15% 인상할 것으로 예상되어 수요 상황이 더욱 복잡해질 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3185,8 +3701,27 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "SSD: 용량 전반에 걸친 10~25%의 가격 상승",
+    "text": "고객이 새로운 가격에 적응하고 있어 시장 활동에는 큰 변화가 없습니다. 오픈 마켓에서는 이러한 가격 추세가 반영되어 전반적인 가격이 상승하였으며, 비용 효율적인 대안을 확보하기는 더욱 어려워졌습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -3411,7 +3946,9 @@
     "subheading": "SSD 시장 디플레이션 압력 직면",
     "text": "주요 제조업체들이 생산 능력을 축소함에 따라 SSD 가격이 추가 하락할 가능성이 있으며, 2025년 1분기 동안 약 5% 하락할 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -3667,8 +4204,10 @@
     "subheading": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
     "text": "SSD 시장은 AI 데이터 센터 및 엔터프라이즈 고객을 위한 고용량 모델을 우선시하면서 생산 전환이 급격히 이루어지고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3685,8 +4224,10 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3701,9 +4242,10 @@
     "text": "NAND 비용 및 생산 문제로 인해 Sandisk는 가격을 10% 이상 인상했으며, 소비자 및 프로슈머 SSD 부문도 유사한 가격 조정이 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3763,8 +4305,10 @@
     "subheading": "SSD 공급 제약 및 가격 상승",
     "text": "저용량 엔터프라이즈 SSDs 공급은 여전히 제약을 받고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3777,8 +4321,10 @@
     "subheading": "SSD 공급 제약 및 가격 상승",
     "text": "SSD 제조업체는 다양한 용량에 대해 분기별 가격을5~8% 인상했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3792,6 +4338,7 @@
     "text": "AI 및 클라우 사용을 위한18TB+ HDDs 전환으로 인해 16TB 이하 용량 부족 현상이 발생하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3825,8 +4372,10 @@
     "detected_vendors": [
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3857,9 +4406,10 @@
     "text": "저용량 SSD는 제한된 NAND 할당, 제조업체의 엄격한 생산량 통제, 오픈마켓 가용성을 줄이는 엔터프라이즈 및 OEM 프로그램으로의 수요 이동으로 인해 가격이 상승하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3875,9 +4425,10 @@
       "Kioxia"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3890,8 +4441,10 @@
     "subheading": "SSD 용량 부족 및 제조사 가격 변동",
     "text": "SSD제조업체는다양한용량에대해분기별가격을5~10%인상했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3907,6 +4460,7 @@
       "Seagate"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3926,8 +4480,11 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3943,9 +4500,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4076,9 +4634,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4092,9 +4651,10 @@
     "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4112,7 +4672,8 @@
     "detected_keywords": [
       "Allocation",
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -4130,9 +4691,11 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4190,9 +4753,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4209,9 +4773,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4227,9 +4792,10 @@
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4245,9 +4811,11 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4422,9 +4990,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4460,9 +5029,10 @@
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4479,7 +5049,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL"
+      "EOL",
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -4497,6 +5069,7 @@
       "Toshiba"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4563,8 +5136,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -4580,8 +5154,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -4594,8 +5169,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -4610,8 +5186,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -4649,8 +5226,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -4757,8 +5335,11 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4773,8 +5354,11 @@
     "detected_vendors": [
       "Seagate"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4790,7 +5374,9 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -4809,9 +5395,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -4830,6 +5418,7 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4846,6 +5435,7 @@
     "text": "제조사들은 수익성 개선을 위해 QLC에서 TLC로 생산 전환 중이며, 하이퍼스케일 스토리지용 고밀도 QLC 드라이브 부족이 발생하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4871,8 +5461,9 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -5136,8 +5727,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -5158,8 +5750,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -5177,8 +5770,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -5196,6 +5790,7 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -5264,9 +5859,11 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -5285,7 +5882,9 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -5300,7 +5899,10 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "하이퍼스케일러는 QLC의 프리미엄 가격을 수용하지 않고 TLC 또는 대용량 HDD를 선택하고 있습니다. 이로 인해 공급망 불균형이 발생하고 제조업체들은 생산 전략을 조정해야 하는 상황입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

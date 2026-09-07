@@ -77,7 +77,8 @@
     "text": "이는 다른 브랜드의 가격에도 영향을 미칠 것으로 예상됩니다. Intel과 Micron 제품 가격도 올랐고 4월에는 또 다른 가격 상승이 있을 것으로 예상됩니다. 또한, Intel 유통업체는 자재 공급 부족 때문에 작은 용량에서 큰 용량으로 초점을 바꿀 것이라고 보고하고 있습니다.",
     "detected_vendors": [
       "Intel",
-      "Micron"
+      "Micron",
+      "삼성"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -117,6 +118,7 @@
     "subheading": "계속 상승세에 있는 Intel SSD 가격",
     "text": "마찬가지로, Micron 벤더들은 3분기 SSD 할당량이 계속 제한적이고 가격이 5~10% 뛸 것으로 예상하는 것으로 의견이 모였습니다.",
     "detected_vendors": [
+      "Intel",
       "Micron"
     ],
     "detected_keywords": [
@@ -141,6 +143,25 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "가동 중단의 영향을 받는 Micron 납품",
+    "subheading": "가동 중단의 영향을 받는 Micron 납품",
+    "text": "EOL 통지는 다양한 e.MMC 저장 장치에 적용되며 2022년 4월 30일부터 발효될 예정입니다. 이 통지는 소비자 및 자동차 애플리케이션이 증가함에 따라 마련되었습니다. 4, 8, 16, 32, 64 및 128GB 부품이 포함될 것으로 보입니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -279,6 +300,7 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -317,12 +339,14 @@
     "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
+      "Intel",
       "Micron",
       "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
       "Allocation",
+      "EOL",
       "Shortage"
     ],
     "risk_level": "High"
@@ -364,8 +388,11 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -394,6 +421,23 @@
     "section_raw": "Micron, 잉여 재고 및 주문 취소로 어려움 겪고 있어",
     "subheading": "Micron, 잉여 재고 및 주문 취소로 어려움 겪고 있어",
     "text": "소비자 제품 예측치와 수요는 급격히 감소했지만 Micron은 향후 3개월간의 취소 및 일정 변경을 거부했습니다. 고객들은 2024년 발주 잔량 취소를 추진하고 있으며, 보도에 따르면 Micron은 이러한 취소를 사례별로 수용하는 것으로 알려졌습니다. 유통업체들은 재고 수준이 급격히 증가하여 잉여 재고 문제가 발생하고 있다고 밝혔습니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "Micron, 잉여 재고 및 주문 취소로 어려움 겪고 있어",
+    "subheading": "Micron, 잉여 재고 및 주문 취소로 어려움 겪고 있어",
+    "text": "DRAM/NAND 가격은 근래 최저치로 떨어졌으며, NOR 플래시 가격은 하락하고 있지만 시장의 수요는 여전히 매우 높습니다.",
     "detected_vendors": [
       "Micron"
     ],
@@ -447,7 +491,8 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -512,6 +557,7 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Memory",
       "Other"
     ],
     "section_raw": "하드웨어",
@@ -520,8 +566,10 @@
     "detected_vendors": [
       "Micron"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -536,8 +584,48 @@
     "detected_vendors": [
       "Micron"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "IC",
+    "subheading": "웨이퍼 투입량 감소에 따른 Micron 가격 상승 전망",
+    "text": "운영 손실에 웨이퍼 투입량 감소가 더해지면서 공급 수준이 더 빠듯해졌으며 이는 보통 가격 상승으로 이어집니다. 이러한 추세를 바탕으로 8월부터 2024년 초까지 DRAM 비용이 상승할 것으로 전망됩니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "IC",
+    "subheading": "웨이퍼 투입량 감소에 따른 Micron 가격 상승 전망",
+    "text": "기타 요인이 DRAM 가격에 영향을 미칠 수 있으며 시장 상황은 항상 변동될 수 있습니다. 조달 팀은 가격이 상승하기 전에 비용 절감 기회를 파악하기 위해 사전에 시장을 모니터링하여 변동성을 측정합니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -640,6 +728,26 @@
   },
   {
     "year": 2024,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "메모리",
+    "subheading": "대만 지진 이후 큰 변동을 보이는 Micron 가격",
+    "text": "지진으로 인해 생산에 차질이 생기기 전에는 메모리 부품에 대한 수요가 안정적이었기 때문에 고객들은 비용이 증가할 것으로 예상했습니다. 리드 타임에는 큰 변동이 없었으며 수요가 일정한 품목의 경우 여전히 6~8주에 머물고 있습니다. 리드 타임은 긍정적인 측면에서 증가하고 있으며, 이러한 경우 리드 타임이 12주(약 3개월) 이상 길어지고 있다는 보고가 있습니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
     "month": 6,
     "category": "IC",
     "detected_categories": [
@@ -692,6 +800,23 @@
       "Allocation"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "메모리",
+    "subheading": "2024년 HBM 공급이 완판되자 생산량을 늘리는 Micron",
+    "text": "최신 버전 HBM인 HBM3E의 경우 동일한 비트 수를 생산하는 데 DDR5에 비해 약 3배의 웨이퍼 공급을 소모합니다. 업계가 HBM3E에서 HBM4로 전환하면서 HBM4의 향상된 성능으로 인해 수요도 증가할 것으로 보입니다. 한층 더 복잡한 HBM4 패키징의 경우 더 많은 지원이 필요하기 때문에 시장 혼란이 가중될 가능성이 있습니다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -1131,8 +1256,10 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -1166,6 +1293,7 @@
       "Micron"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -1238,9 +1366,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -1318,9 +1447,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -1374,6 +1504,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -1441,6 +1572,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1481,6 +1613,7 @@
       "Micron"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1502,6 +1635,7 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1585,6 +1719,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -1627,6 +1762,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -1691,14 +1827,17 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -1722,6 +1861,7 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",

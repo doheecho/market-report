@@ -1,6 +1,6 @@
 {
   "vendor": "Murata",
-  "total_milestones": 31,
+  "total_milestones": 33,
   "history": [
     {
       "date": "2020.05",
@@ -16,11 +16,23 @@
       "date": "2020.11",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "High",
       "summary": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
       "text": "반면에 Murata 는 수익성이 더 좋은 작은 케이스 크기인 0201, 1005 에 초점을 맞춥니다. 현재는 유통업체들이 적은 물량만 배정받는 106 및 107 과 같은 고정전용량 제품을 제외하면 리드 타임이 안정적입니다."
+    },
+    {
+      "date": "2021.02",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "불안정한 시장 상황으로 Murata의 리드 타임 연장",
+      "text": "6~8주 정도이던 MLCC의 리드 타임이 수요 증폭과 원자재 부족으로 인해 최대 16~20주로 늘었습니다. 그에 따라, 자동차용 MLCC의 리드 타임은 30주 이상으로 대폭 늘었으며, 일부 자동차용 MLCC는 리드 타임이 아예 표시되지 않을 정도로 공급이 제한된 상황입니다."
     },
     {
       "date": "2021.02",
@@ -40,7 +52,7 @@
         "Other",
         "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "불안정한 시장 상황으로 Murata의 리드 타임 연장",
       "text": "게다가, Murata는 유럽 유통업체들에게 아시아의 막대한 5G 수요 때문에 EMEA 시장에는 대량의 MLCC가 공급되지 못할 것이라고 알려주었습니다. 유통업체들은 현재의 시장 상황이 개선될 때까지는 주문받은 물량 중 일부만 공급 될 것이라는 정보를 공유했습니다."
     },
@@ -69,7 +81,8 @@
       "date": "2021.05",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "Medium",
       "summary": "커패시터 공급제한",
@@ -93,7 +106,7 @@
         "Other",
         "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "NXP, 리드 타임을 2022년까지 연장",
       "text": "Murata와 삼성전자가 필리핀에 MLCC 제조 시설을 보유하고 있으므로, 두 회사 모두 정부의 제한 조치로 인해 제한된 생산능력으로 가동되고 있습니다. 한편 일본 MLCC 공급업체들은 3분기와 4분기의 제품 출시로 촉발된 주문량 유입에 대응해 생산량을 늘리고 있습니다."
     },
@@ -135,14 +148,26 @@
       "detected_categories": [
         "Other"
       ],
+      "risk_level": "Medium",
+      "summary": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
+      "text": "MEMs 기술의 선두 업체 Bosch는 믿을 수 있고 경제적인 소형 부품의 대명사로 성장했습니다. Bosch의 이런 부품은 전 세계 주요 자동차 관련 기업들에게는 없어서는 안될 부품입니다. 하지만 수요가 늘자 리드 타임 역시 연장되어 현재는 26주나 걸립니다. Bosch는 고객의 확장된 니즈를 충족하고자 다음과 같은 애플리케이션에 집중하고 있습니다."
+    },
+    {
+      "date": "2022.12",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
       "risk_level": "Low",
       "summary": "차량 컴포트 시스템(가속 센서 SMA13x 및 각속도 센서 SMG13x 및 통합 관성 센서 SMI23x 포함)",
       "text": "Murata 역시 현재 수급 상황에 더 탄력적으로 대응하고자 생산과 공급망에 변화를 주고 있습니다. 미국과 중국이 발빠르게 분리되는 상황에 대처하고자 Murata는 두 시장에 나란히 제품을 공급하고자 공급망을 복제하고 있습니다. 현재 Murata는 중국과 일본에 주요 생산 시설을 보유하고 있지만 새롭게 태국과 베트남에 신규 생산 시설의 구축을 모색하고 있습니다. 뿐만 아니라 인도의 생산 시설도 늘리고 있습니다."
     },
     {
       "date": "2022.12",
-      "category": "Other",
+      "category": "IC",
       "detected_categories": [
+        "IC",
         "Other"
       ],
       "risk_level": "Low",
@@ -151,8 +176,9 @@
     },
     {
       "date": "2022.12",
-      "category": "Other",
+      "category": "IC",
       "detected_categories": [
+        "IC",
         "Other"
       ],
       "risk_level": "Medium",
@@ -215,7 +241,7 @@
       "detected_categories": [
         "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "수동 부품 리드 타임 연장 및 할당",
       "text": "Samsung, Murata, Taiyo Yuden MLCC는 3분기에 공급 문제에 직면할 수 있습니다."
     },

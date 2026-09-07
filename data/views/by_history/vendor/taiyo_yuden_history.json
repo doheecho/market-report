@@ -16,9 +16,10 @@
       "date": "2020.11",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
       "text": "Taiyo Yuden 역시 모바일 운영의 증가로 인해 작은 케이스 크기의 수요가 급증세에 있고, 유통업체들은 빠른 재고 회전율 있다는 정보를 공유해주었습니다."
     },
@@ -38,7 +39,8 @@
       "category": "IC",
       "detected_categories": [
         "IC",
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "Medium",
       "summary": "타격을 입는 MLCC 생산",
@@ -71,7 +73,7 @@
       "detected_categories": [
         "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "수동 부품 리드 타임 연장 및 할당",
       "text": "Samsung, Murata, Taiyo Yuden MLCC는 3분기에 공급 문제에 직면할 수 있습니다."
     },

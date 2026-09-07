@@ -6,7 +6,8 @@
       "date": "2021.08",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "Low",
       "summary": "타격을 입는 MLCC 생산",

@@ -13,8 +13,10 @@
       "Nexperia",
       "Onsemi"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -38,8 +40,9 @@
   {
     "year": 2021,
     "month": 5,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "이미지 센서 수요 급증 지속",
@@ -64,6 +67,23 @@
     "section_raw": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
     "subheading": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
     "text": "현재 Sony와 On Semi의 흑백 CMOS는 시장에서 공급이 극히 빠듯해, 제조업체나 유통업체에서 재고 물량을 찾아내는 것 자체가 거의 불가능한 실정입니다. 파트 넘버 IMX287LLR-C 및 IMX273LLR-C가 가장 수요가 많아 가장 구하기 어려운 제품입니다.",
+    "detected_vendors": [
+      "Onsemi",
+      "Sony"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
+    "subheading": "CMOS 센서 공급 상황이 극히 빠듯한 Sony와 ON Semiconductor",
+    "text": "제조업체에서 재고 물량이 많아짐에 따라 Color Square Pixel CMOS 시장에서 한 숨 돌리는 모습을 볼 수 있습니다. 고객들은 흑백 CMOS 프로젝트를 Color Pixel로 바꿀 방안을 모색 중인 것으로 알려졌습니다.",
     "detected_vendors": [
       "Onsemi",
       "Sony"
@@ -139,8 +159,10 @@
     "detected_vendors": [
       "Onsemi"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -155,8 +177,10 @@
     "detected_vendors": [
       "Onsemi"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -171,8 +195,10 @@
     "detected_vendors": [
       "Onsemi"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -297,7 +323,8 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Storage"
     ],
     "section_raw": "IC",
     "subheading": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
@@ -316,7 +343,8 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Storage"
     ],
     "section_raw": "IC",
     "subheading": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
@@ -324,8 +352,10 @@
     "detected_vendors": [
       "Onsemi"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -391,8 +421,10 @@
       "Onsemi",
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -404,6 +436,24 @@
     "section_raw": "IC",
     "subheading": "50주 이상으로 연장된 Onsemi의 리드 타임",
     "text": "Onsemi의 리드 타임은 안정적이지 못하며 대부분의 부문에서 50주 이상으로 늘어났습니다. 이미지 센서, MOSFET, 트랜지스터의 경우 공급이 최대로 제한되면서 가장 긴 리드 타임을 보이고 있습니다. 자동차 전장 부품의 경우 가장 높은 수요를 보이며 계속해서 증가하고 있습니다.",
+    "detected_vendors": [
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "50주 이상으로 연장된 Onsemi의 리드 타임",
+    "text": "이러한 문제를 해결하기 위해 제조사에서는 해당 제조 시설 전략을 변경하여 소비재나 마진이 적은 제품에 대한 생산을 줄이고 있습니다. 증가하는 수요를 충족하기 위해 추가 지원이 자동차 및 산업 개발 쪽으로 이동하고 있습니다.",
     "detected_vendors": [
       "Onsemi"
     ],
@@ -684,7 +734,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -790,6 +841,7 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"

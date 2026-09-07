@@ -4,7 +4,8 @@
     "month": 8,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "타격을 입는 MLCC 생산",
     "subheading": "타격을 입는 MLCC 생산",
@@ -144,6 +145,7 @@
       "Kemet"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"

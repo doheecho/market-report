@@ -161,7 +161,9 @@
     "section_raw": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "text": "센서, 마이크로컨트롤러, 전력 관리 시스템, MOSFET, 다이오드 및 무선 주파수 장치와 같은 제품이 영향을 받게 됩니다. 커패시터 및 인덕터와 같은 수동 소자 는 인수 대상이 아닙니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Panasonic"
+    ],
     "detected_keywords": [
       "M&A"
     ],
@@ -182,6 +184,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "M&A",
       "Shortage"
     ],
     "risk_level": "High"
@@ -205,6 +208,103 @@
     "risk_level": "High"
   },
   {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "text": "Yageo의 0402 케이스 크기 104 - 105 정전용량 규격에 대한 수요가 증가하고 있습니다. 이와 유사하게, 삼성의 0402 및 0603 케이스 크기에 대한 수요가 급증하고 있습니다. 대부분의 크기와 커패시턴스 규격 제품의 리드 타임은 안정적이지만, 커패시턴스 값 105, 106, 226 규격 제품의 리드 타임은 늘고 있습니다.",
+    "detected_vendors": [
+      "Yageo",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Natural Disaster / Incident",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "text": "반면에 Murata 는 수익성이 더 좋은 작은 케이스 크기인 0201, 1005 에 초점을 맞춥니다. 현재는 유통업체들이 적은 물량만 배정받는 106 및 107 과 같은 고정전용량 제품을 제외하면 리드 타임이 안정적입니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Natural Disaster / Incident",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "text": "Taiyo Yuden 역시 모바일 운영의 증가로 인해 작은 케이스 크기의 수요가 급증세에 있고, 유통업체들은 빠른 재고 회전율 있다는 정보를 공유해주었습니다.",
+    "detected_vendors": [
+      "Taiyo Yuden"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "text": "반대로, 우리는 자동차 고객들이 현재 수요가 급증 중인 1206 및 1210과 같이 더 큰 케이스 크기에 초점을 맞추고 있음을 알아차렸습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "text": "마지막으로, 5G 기지국, 게임 애플리케이션, 서버 및 컴퓨터/노트북과 같은 부문에 대한 수요가 강합니다. 결과적으로, 유통업체들은 1kV 이상의 전압으로 105, 106, 225, 226 의 커패시턴스 값을 가진 부품의 공급이 부족하다고 언급했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
     "year": 2021,
     "month": 2,
     "category": "Other",
@@ -215,7 +315,9 @@
     "section_raw": "불안정한 시장 상황으로 Murata의 리드 타임 연장",
     "subheading": "불안정한 시장 상황으로 Murata의 리드 타임 연장",
     "text": "6~8주 정도이던 MLCC의 리드 타임이 수요 증폭과 원자재 부족으로 인해 최대 16~20주로 늘었습니다. 그에 따라, 자동차용 MLCC의 리드 타임은 30주 이상으로 대폭 늘었으며, 일부 자동차용 MLCC는 리드 타임이 아예 표시되지 않을 정도로 공급이 제한된 상황입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Murata"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -256,8 +358,10 @@
     "detected_vendors": [
       "Murata"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -407,10 +511,47 @@
     ],
     "section_raw": "커패시터 공급제한",
     "subheading": "커패시터 공급제한",
+    "text": "Murata는 케이스 크기 0402, 0603, 0806에 대해 현재 리드 타임이 14~18주 늘었다고 보고하고 있습니다. Murata BLM 시리즈의 20% 가격 인상과 같은 가격 상승도 보고되고 있습니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "커패시터 공급제한",
+    "subheading": "커패시터 공급제한",
     "text": "마찬가지로, AVX의 탄탈 커패시터는 코로나19 팬데믹의 영향을 크게 받았습니다. 엘살바도르 공장이 현재 폐쇄된 상황이 수요 증가와 맞물려 공급이 제한되는 상황에 기여하고 있습니다 리드 타임은 여전히 길지만, AVX는 견적에 따른 납품 요건을 충족하고 있으며 생산이 서서히 회복되기 시작하고 있습니다.",
     "detected_vendors": [
       "AVX"
     ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "커패시터 공급제한",
+    "subheading": "커패시터 공급제한",
+    "text": "일부 리드 타임은 40~42주이지만, 대부분의 리드 타임은 현재 28~32주를 유지하고 있습니다. 가장 영향을 많이 받는 시리즈로는 TPME와 TAJ가 있습니다.",
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -474,6 +615,26 @@
   },
   {
     "year": 2021,
+    "month": 7,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "수요 증가로 MLCC 공급에 부담 가중",
+    "subheading": "수요 증가로 MLCC 공급에 부담 가중",
+    "text": "다른 뉴스에서는 말레이시아의 봉쇄 조치로 원자재 공급 부족이 악화해 삼성전자의 생산 공장을 60%만 가동할 수밖에 없다는 소식도 있습니다. 삼성전자의 생산량 회복은 거의 기대난망인 상황입니다. 이러한 지속적인 공급 부족은 가격 상승도 초래하고 있습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
     "month": 8,
     "category": "Other",
     "detected_categories": [
@@ -488,6 +649,45 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "타격을 입는 MLCC 생산",
+    "subheading": "타격을 입는 MLCC 생산",
+    "text": "Taiyo Yuden, 크리스털 공급업체인 NDK와 Epson, Panasonic, Walsin Technology를 비롯해, 말레이시아 생산 공장을 운영 중인 제조업체들이 정상 조업에 타격을 받으면서 리드 타임이 길어졌습니다.",
+    "detected_vendors": [
+      "Panasonic",
+      "Taiyo Yuden"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "타격을 입는 MLCC 생산",
+    "subheading": "타격을 입는 MLCC 생산",
+    "text": "삼성전자의 말레이시아 생산 공장도 생산능력의 최대 60%까지만 운영할 수 있고, Kemet의 생산 공장도 생산능력을 축소 운영하고 있습니다. 이런 상황이 얼마나 계속될지, 결과적으로 어떤 장기적 효과가 나타날 수 있을지는 알 수 없습니다.",
+    "detected_vendors": [
+      "Kemet",
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -518,7 +718,9 @@
     "section_raw": "NXP, 리드 타임을 2022년까지 연장",
     "subheading": "NXP, 리드 타임을 2022년까지 연장",
     "text": "가격과 리드 타임 증가로 인해 수동 소자 공급이 계속 타격을 받고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -535,9 +737,13 @@
     "section_raw": "NXP, 리드 타임을 2022년까지 연장",
     "subheading": "NXP, 리드 타임을 2022년까지 연장",
     "text": "MLCC에 대한 수요가 계속 증가함에 따라 최근 말레이시아와 필리핀의 봉쇄 조치가 주요 생산 공장에 계속 영향을 미치고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -552,10 +758,13 @@
     "text": "Murata와 삼성전자가 필리핀에 MLCC 제조 시설을 보유하고 있으므로, 두 회사 모두 정부의 제한 조치로 인해 제한된 생산능력으로 가동되고 있습니다. 한편 일본 MLCC 공급업체들은 3분기와 4분기의 제품 출시로 촉발된 주문량 유입에 대응해 생산량을 늘리고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Nexperia",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -629,6 +838,44 @@
   {
     "year": 2022,
     "month": 1,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "2020년 미국의 블랙리스트에 오른 SMIC(Semiconductor Manufacturing International Corp.)는 미국의 추가 제재에 직면한 상황입니다. 이러한 추가 제재로 관세로 인한 운송 및 생산 비용 증가로 이어진 현재의 무역 전쟁에서 미중 관계가 더욱 악화할 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Geopolitics / Sanctions",
+      "Tariff"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "추가 제재의 영향을 받는 전자 제품에 모바일 기기, 비디오 게임 콘솔, 자동차 부품이 포함될 예정입니다. 반도체 제조에 필요한 부품을 SMIC에 공급하는 Applied Materials Inc., KLA Corp., Lam Research가 제재의 영향권에 들게 됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 1,
     "category": "IC",
     "detected_categories": [
       "IC",
@@ -646,6 +893,69 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "TDK: 최대 52주",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "Vishay: 최대 50주",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "WIMA: 최대 30주",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "Panasonic: 최대 26주",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -678,8 +988,10 @@
     "subheading": "지정학적 갈등이 세라믹 콘덴서와 MLCC 리드 타임에 영향을 미치다",
     "text": "동유럽의 긴장 고조로 인해 원자재와 불활성 가스 가격 및 가용성이 타격을 입어 2분기 내내 MLCC 공급 경색이 문제가 되고 있습니다. 칩 제조의 필수 원료 중 그 영향을 받고 있는 것은 지금까지는 니켈, 구리, 팔라듐, 네온입니다. 모든 핵심 MLCC 원료는 가격이 인상될 가능성이 있으며 MLCC의 생산 비용 및 시장 물량에 직접적인 영향을 끼칩니다. MLCC의 약 85%가 니켈이고 15%가 팔라듐입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1313,6 +1625,7 @@
       "Yageo"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1331,6 +1644,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -1351,8 +1665,11 @@
       "Taiyo Yuden",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -1366,6 +1683,7 @@
     "text": "탄탈륨 커패시터는 리드타임이 24~28주로 늘어나고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1385,6 +1703,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1404,6 +1723,7 @@
       "Kemet"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1422,6 +1742,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1441,6 +1762,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1459,6 +1781,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -1477,6 +1800,7 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1496,6 +1820,8 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
+      "Lead Time",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -1549,6 +1875,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Price Increase"
     ],
@@ -1571,6 +1898,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1951,7 +2279,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -1996,7 +2325,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -2012,8 +2342,10 @@
     "subheading": "수동소자 및 원자재 가격 인상 및 병목",
     "text": "중동 긴장이 계속해서 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 일본과 한국 제조업체들은 비상 조달 절차를 가동하고 있으며, 2027년 말까지는 의미 있는 생산 능력 회복이 어려울 것으로 예상하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -2031,7 +2363,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },

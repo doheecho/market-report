@@ -122,104 +122,6 @@
   },
   {
     "year": 2023,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
-    "text": "Mellanox는 리드 타임이 전반적으로 상당히 회복되었습니다. 중국의 새로운 프로젝트와 관련된 네트워킹 제품에 대한 수요가 약간 급증하여 유통업체들이 재고를 어느 정도 소화한 것일 수도 있습니다. 많은 벤더들이 낙관적이고 ChatGPT와 같은 서비스가 부상하는 것을 확신하고 있으므로 최근 AI 기술과 개발이 증가한 것이 원인일 수도 있습니다.",
-    "detected_vendors": [
-      "Mellanox"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
-    "text": "알려진 바에 의하면 Intel은 수요 감소를 예상한 후 이더넷 품목에 대한 공식 가격을 검토하고 있습니다. 재고를 비축하는 고객은 점점 더 적어지고 있으며, 그 대신 시장을 선택하고 있습니다. 현재 오픈 마켓은 더 쉽게 접근하여 이용할 수 있으며 I350T2V2 및 I350T4V2와 같은 단종 부품(EOL) 모델의 경우는 특히 그렇습니다. 유통업체는 초기 단종 부품(EOL) 및 마지막 구매 발표에도 불구하고 Intel에서 출하물을 계속 받습니다.",
-    "detected_vendors": [
-      "Intel"
-    ],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2023,
-    "month": 4,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
-    "text": "게다가, 미국 정부 블랙리스트에 더 많은 기업과 제품이 포함될 수도 있다는 소문이 있습니다. 이는 사재기와 고객들이 재고를 쌓아 두는 결과를 낳았으며, 바로 이것이 Broadcom 및 LSI에서 좋은 성과를 내는 부품들이 공급 제한을 겪는 이유입니다.",
-    "detected_vendors": [
-      "Broadcom"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "HDD 수요 증가에 따라 제약 조건이 가용성에 미치는 영향",
-    "text": "지금은 제약 조건이 특히 소비자들 사이에서 보다 지속적인 관심을 끌었던 고용량 시리즈의 가용성에 더욱 영향을 미치기 시작했습니다. 시세는 가격 및 리드 타임이 점차 확대됨에 따라 이러한 수요 증가를 반영하기 시작했습니다. 주문 적체를 막으려면 제조업체들이 생산을 늘려야 합니다. 그러나 제조에 필요한 원자재 및 기타 자원을 저장하려면 시간과 자본이 듭니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "둔화된 시장 내 안정적인 공급 창출에 주력하는 SSD 유통업체",
-    "text": "공급이 초과 지역으로 너무 많이 이동하는 것을 방지할 목적으로 유통업체는 재고를 안정적으로 유지하기 위해 공급을 보다 엄격하게 통제하기 시작했습니다. 유통업체들도 안전 재고를 구축하려는 시도에서 벗어나기 시작했으며 제조업체에게 필요한 주문(back-to-back order)만 발주하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
-    "month": 8,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "완제품",
-    "subheading": "DDR4 및 DDR5 가격 경쟁 심화",
-    "text": "오픈 마켓의 재고 수준은 일반적으로 여전히 높으며, 비용이 공식 제조업체의 가격보다 낮습니다. 다만 상황이 바뀔 가능성은 있습니다. 공급 및 수요 주기에 대한 이해를 바탕으로 볼 때 1분기부터 2분기까지 채택된 생산량 감소 전략이 시장에 영향을 미치는 데는 약 6개월이 걸릴 것으로 예상됩니다. AI 산업으로 인해 수요가 회복되면서 이러한 감산 효과가 나타나기 시작할 수 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Production Cut"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2023,
     "month": 8,
     "category": "기타",
     "detected_categories": [
@@ -264,8 +166,10 @@
     "detected_vendors": [
       "Sony"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -278,8 +182,10 @@
     "subheading": "재고 부족에서 원활로, 안정되기 시작한 Raspberry Pi의 적체",
     "text": "Pi4 생산은 여전히 Raspberry Pi의 주력이며 최근 발표에 따르면 3분기 초까지 총 출하량이 100만 대에 이를 것으로 보입니다. 또한 생산 속도를 높이면 회사의 적체가 소진될 때까지 납품 수준을 유지하는 데 도움이 될 것입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,

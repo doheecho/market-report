@@ -16,9 +16,10 @@
       "Nexperia"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -54,7 +55,8 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "M&A"
     ],
     "risk_level": "Medium"
   },
@@ -72,7 +74,27 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "M&A"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "subheading": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "text": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다. 이러한 예상 지연 및 일부 부품 제조를 지원하는 웨이퍼의 제한된 생산량은 공급 제약을 가중할 것입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "M&A"
     ],
     "risk_level": "Medium"
   },
@@ -88,7 +110,8 @@
     "subheading": "2년 이상 연장된 Toshiba 부품 리드 타임",
     "text": "그 대신 공식 유통업체가 할당량을 풀면서 Analog Devices ADUM 시리즈에 대한 시장 공급 압박이 완화되고 있습니다. 또한 STMicro는 약 6개월~1년 사이의 MOSFET 및 다이오드 리드 타임으로 안정적이며, 유통업체들은 주요 공급 중단이 일어날 것이라고는 예측하지 않습니다.",
     "detected_vendors": [
-      "Analog Devices"
+      "Analog Devices",
+      "Toshiba"
     ],
     "detected_keywords": [
       "Allocation",
@@ -169,9 +192,29 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
+    "subheading": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
+    "text": "Linear Technologies는 제조업자의 제한된 지원으로 여전히 자체 제품군에 있어 어려움에 처해 있습니다. 이는 리드 타임 납품을 불안정하게 만들었으며 시장 가격은 계속 오를 가능성이 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -187,9 +230,10 @@
       "Analog Devices"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -301,6 +345,24 @@
     "risk_level": "High"
   },
   {
+    "year": 2023,
+    "month": 4,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "Analog Devices, 공급 강화를 위한 장기전 돌입",
+    "text": "하지만, 이러한 제약에도 불구하고 일반적인 공급 예측은 올해는 AD의 재고가 개선될 것으로 전망합니다. 전해진 바에 따르면, 제품의 95%는 10월까지 시간이 소요될 가능성이 높겠지만, 이 포트폴리오의 절반은 리드 타임이 13주 미만으로 단축될 것으로 봅니다. 그에 반해 ADUXXX 시리즈의 공급 및 리드 타임은 이미 안정화되고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
     "year": 2024,
     "month": 1,
     "category": "IC",
@@ -311,10 +373,86 @@
     "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
     "text": "Analog Devices는 20년 이상 지난 구형 시리즈에 속하는 MPN 가격 인상을 시행할 계획이라고 발표했습니다. 가격은 20% 인상될 것이며, 일부 제품은 그 이상 변동할 가능성도 있지만, 자세한 사항은 아직 최종적으로 결정된 것은 아닙니다.",
     "detected_vendors": [
-      "Analog Devices"
+      "Analog Devices",
+      "Lattice"
     ],
     "detected_keywords": [
       "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+    "text": "그러나 주로 대부분의 응용 분야에서 증폭기를 사용하는 공통 부품을 대상으로 가격 조정을 시행할 가능성이 높습니다. 이러한 제품의 경우 특정 사용 사례로 인해 대안이 제한적이며, 적용할 다른 부품을 찾지 못한 고객들은 더 높은 가격을 지불할 수밖에 없을 것으로 보입니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+    "text": "Lattice 역시 2024년에 시행할 예정인 시장 장수 제품의 7.5% 가격 인상에 관해 최종 고객을 대상으로 천천히 안내하고 있습니다. 이러한 발표에는 최소 10년 이상 출하된 모든 제품이 해당됩니다. Silicon Image 라인의 일부인 SIxxx 시리즈 및 Lattice 4000 시리즈이 여기에 포함됩니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+    "text": "해당 가격 변동은 1월 29일부터 적용되며 해당일 또는 그 이후에 고객에게 배송되는 모든 상품이 영향을 받을 것으로 보음니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "연장된 리드 타임으로 웨이퍼에 대한 독점 파트너십을 체결한 Analog Devices",
+    "text": "전자 부품 생산에 필수적인 웨이퍼 공급의 제한 속에서 제조사들이 고군분투하고 있습니다. HMCxxx의 리드 타임은 20주에 달하지만 공급은 비교적 안정적입니다. 한편 Linear Tech 부품은 20주~30주의 리드 타임을 보이며 공급 확보에 보다 어려움을 겪고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -333,8 +471,10 @@
       "Analog Devices",
       "TSMC"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -665,6 +805,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -822,7 +963,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -841,7 +983,8 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },

@@ -14,8 +14,10 @@
       "Seagate",
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -72,6 +74,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -102,7 +105,8 @@
     "month": 5,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
@@ -205,6 +209,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -224,8 +229,11 @@
       "Seagate",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -403,6 +411,7 @@
       "Seagate"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -422,8 +431,11 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -460,10 +472,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -500,9 +513,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -520,7 +534,8 @@
     "detected_keywords": [
       "Allocation",
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -538,9 +553,11 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -556,9 +573,11 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -618,7 +637,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL"
+      "EOL",
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -658,8 +679,11 @@
     "detected_vendors": [
       "Seagate"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -675,7 +699,9 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -747,8 +773,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -766,8 +793,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -796,7 +824,9 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   }

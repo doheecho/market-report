@@ -266,7 +266,9 @@
     "section_raw": "GPU 공급 문제 속 Nvidia의 강세",
     "subheading": "GPU 공급 문제 속 Nvidia의 강세",
     "text": "Jetson GPU Orin 모델(8GB, 16GB, 64GB)은 여전히 부족 상태이며, 리드 타임은 최소 10~20주입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nvidia"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -321,7 +323,8 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Decrease"
     ],
     "risk_level": "High"
   },
@@ -336,7 +339,9 @@
     "subheading": "RDIMM 가격 하락과 변화하는 수요",
     "text": "AI 서버에 대한 투자 증가로 인해 64GB DDR5~5600 모듈의 수요가 증가하고 있으며, 이는 Deepseek의 영향으로 분석됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -350,7 +355,9 @@
     "subheading": "SSD 시장 디플레이션 압력 직면",
     "text": "주요 제조업체들이 생산 능력을 축소함에 따라 SSD 가격이 추가 하락할 가능성이 있으며, 2025년 1분기 동안 약 5% 하락할 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -3007,9 +3014,10 @@
       "Infineon"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3025,9 +3033,10 @@
       "Infineon"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3042,8 +3051,10 @@
     "detected_vendors": [
       "Nexperia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3176,8 +3187,10 @@
     "subheading": "GPU AI 추론의 공급 부족 및 대체 제품 부상",
     "text": "A6000에 대한 현재 수요는 높지만, RTX 5880 Ada가 우선순위로 지정되면서 전체적인 전망은 불확실합니다. 기존에 A6000 기반으로 설계된 프로젝트를 가진 고객들은 전환 가능성이 낮습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3246,8 +3259,11 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3261,9 +3277,10 @@
     "text": "제조사들은 매달 가격 인상을 진행하고 있으며, 1차 OEM들은128GB DDR5 RDIMMs에 대해 분기별로 두 자릿수 비율의 가격 상승을 보고하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "EOL",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3276,8 +3293,11 @@
     "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
     "text": "DDR4의 최종 구매 가능 기간은 6월 말로 종료될 예정이며, 조달팀은 재고 확보에 속도를 내고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3291,9 +3311,11 @@
     "text": "DDR4 모듈의 리드 타임은 10~14주로 줄었지만, 마감일이 다가오면서 공급은 더 악화될 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "EOL",
+      "Lead Time",
+      "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3307,7 +3329,8 @@
     "text": "DDR4는 시장에서 생산 종료(EOL)로 인해 가격이 크게 상승할 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -3322,8 +3345,10 @@
     "subheading": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
     "text": "SSD 시장은 AI 데이터 센터 및 엔터프라이즈 고객을 위한 고용량 모델을 우선시하면서 생산 전환이 급격히 이루어지고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3340,8 +3365,10 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3356,9 +3383,10 @@
     "text": "NAND 비용 및 생산 문제로 인해 Sandisk는 가격을 10% 이상 인상했으며, 소비자 및 프로슈머 SSD 부문도 유사한 가격 조정이 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -3371,8 +3399,10 @@
     "subheading": "DRAM DDR5 라인 전반의 가격 상승 및 공급 압박",
     "text": "LPDDR4의 가격은 약 20%-30% 상승할 것으로 예상되며, LPDDR5는 약 15%-20% 상승할 것으로 보입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3776,6 +3806,7 @@
       "Mellanox"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -3794,8 +3825,10 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3810,8 +3843,10 @@
     "detected_vendors": [
       "AMD"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3827,6 +3862,7 @@
       "Intel"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -3845,6 +3881,7 @@
       "Intel"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3861,6 +3898,7 @@
     "text": "13세대 랩터 레이크 H 및 HX 게이밍 모바일 CPUs도 공급이 부족한 상태입니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -3876,8 +3914,10 @@
     "subheading": "CPU 가격 변동 및 할당 문제",
     "text": "4세대 사파이어 래피즈 CPUs에 대한 수요가 증가하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3922,8 +3962,10 @@
     "subheading": "GPU 전략적 할당 및 시장 변동성",
     "text": "고급 데이터 센터 GPU에 대한 수요가 급증하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3936,8 +3978,10 @@
     "subheading": "GPU 전략적 할당 및 시장 변동성",
     "text": "A100 80GB의 공급이 소진되었습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3951,6 +3995,7 @@
     "text": "H100 80GB 및 94GB 모델은 EOL(생산 종료)에 접어들었으며, 가용성은 제한적입니다. H100 94GB는 리드 타임이 4~6주입니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Lead Time"
     ],
@@ -3968,6 +4013,7 @@
     "text": "EOL A100 80GB를 둘러싼 품질 우려와 거래 활동 증가가 지속되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Quality / Defect"
     ],
@@ -3987,6 +4033,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -4131,8 +4178,10 @@
     "subheading": "SSD 공급 제약 및 가격 상승",
     "text": "저용량 엔터프라이즈 SSDs 공급은 여전히 제약을 받고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4145,8 +4194,10 @@
     "subheading": "SSD 공급 제약 및 가격 상승",
     "text": "SSD 제조업체는 다양한 용량에 대해 분기별 가격을5~8% 인상했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4160,6 +4211,7 @@
     "text": "AI 및 클라우 사용을 위한18TB+ HDDs 전환으로 인해 16TB 이하 용량 부족 현상이 발생하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4193,8 +4245,10 @@
     "detected_vendors": [
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4211,6 +4265,7 @@
       "Yageo"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -4229,6 +4284,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -4630,8 +4686,10 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "DDR5 128 & 256 GB 모듈은 2025년 말까지 공급이 타이트할 것으로 보입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4647,6 +4705,7 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -4680,9 +4739,10 @@
     "text": "저용량 SSD는 제한된 NAND 할당, 제조업체의 엄격한 생산량 통제, 오픈마켓 가용성을 줄이는 엔터프라이즈 및 OEM 프로그램으로의 수요 이동으로 인해 가격이 상승하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4698,9 +4758,10 @@
       "Kioxia"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4713,8 +4774,10 @@
     "subheading": "SSD 용량 부족 및 제조사 가격 변동",
     "text": "SSD제조업체는다양한용량에대해분기별가격을5~10%인상했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4730,6 +4793,7 @@
       "Seagate"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -4749,8 +4813,11 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4766,9 +4833,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -4785,8 +4853,11 @@
       "Taiyo Yuden",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4800,6 +4871,7 @@
     "text": "탄탈륨 커패시터는 리드타임이 24~28주로 늘어나고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -4819,6 +4891,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -5097,10 +5170,11 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "EOL",
       "Lead Time",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5117,6 +5191,8 @@
       "Intel"
     ],
     "detected_keywords": [
+      "EOL",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -5135,7 +5211,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -5171,6 +5248,7 @@
     "text": "공식적인 EOL 통보 없지만, 유통업체와 사용자들은 널리 RTX PRO 6000을 후속 제품으로 인식하고 있어 L40S 시리즈가 단종에 가까워지고 있음을 시사합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -5207,9 +5285,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5225,9 +5304,10 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5317,8 +5397,11 @@
     "subheading": "타이트한 배정 및 가격 인상 전망",
     "text": "AI 서버용 96GB 및 128GB 고밀도 DDR5 모듈이 가장 제약이 심각합니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -5335,6 +5418,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -5353,6 +5437,7 @@
       "Micron"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -5427,10 +5512,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5467,6 +5553,7 @@
       "Kemet"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -5485,6 +5572,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -5793,8 +5881,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5873,8 +5963,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -5951,9 +6043,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5967,9 +6060,10 @@
     "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -5987,7 +6081,8 @@
     "detected_keywords": [
       "Allocation",
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -6005,9 +6100,11 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -6024,6 +6121,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -6042,6 +6140,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -6060,6 +6159,7 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -6420,9 +6520,10 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -6548,9 +6649,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -6567,9 +6669,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -6585,9 +6688,10 @@
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -6603,9 +6707,11 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -6622,6 +6728,8 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
+      "Lead Time",
       "Price Increase"
     ],
     "risk_level": "Medium"

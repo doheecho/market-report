@@ -16,7 +16,8 @@
       "date": "2020.11",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "High",
       "summary": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
@@ -39,7 +40,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "NXP, 리드 타임을 2022년까지 연장",
       "text": "또한, 봉쇄 조치로 타격을 받은 Yageo는 생산 능력을 높인 것으로 알려졌지만, 여전히 모든 주문을 이행할 수는 없는 상태입니다."
     },

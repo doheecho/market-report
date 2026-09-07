@@ -1,6 +1,6 @@
 {
   "category": "CPU",
-  "total_milestones": 456,
+  "total_milestones": 457,
   "history": [
     {
       "date": "2020.04",
@@ -37,7 +37,7 @@
     {
       "date": "2020.05",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "공급이 극히 부족한 Denverton Atom CPU",
       "text": "저가형 시스템 온 칩(SoC) 서버 등급 Atom CPU(구 Denverton)는 최근 몇 주간 공급에 제약이 있었으며 3분기 내내 그런 상황이 계속될 것입니다. 전하는 바에 의하면, 이러한 저가형 프로세서의 생산은 다른 공급 제약 조건이 엄존하는 상황에서 그 우선순위가 낮게 설정되었다고 합니다. Denverton 시리즈 프로세서는 일반적으로 엔터프라이즈 네트워킹 장치에 사용됩니다."
     },
@@ -124,7 +124,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Cascade Lake와 Cascade Lake Refresh가 곧 단종됩니다",
       "text": "Intel은 차세대 서버 CPU인 Cooper Lake 및 Ice Lake 시리즈를 발표했습니다. Cooper Lake는 Intel 웹사이트의 목록에 이미 표시되어 있지만, Intel의 Ice Lake 출시 시점은 아직 분명하지 않습니다. Cascade Lake와 Cascade Lake Refresh를 Cooper Lake와 Ice Lake로 전환하려면 새로운 서버 마더보드 필요합니다. 전통적으로, 고객이 제때 전환하지 않고 이전 모델을 계속 사용하는 경향이 있으므로 전환은 즉각적으로 이루어지지 않습니다. 따라서 Cascade Lake와 Cascade Lake Refresh에 대한 수요는 최소한 올해 말까지 강세를 유지할 것이며, 그 추세가 2021년 초까지 이어질 가능성도 있습니다."
     },
@@ -150,14 +150,14 @@
     {
       "date": "2020.08",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Whisky Lake, Comet Lake, Ice Lake 모바일 CPU의 공급 부족",
       "text": "3분기 수요가 급격히 증가될 것으로 예측되는 가운데, 소식통에 의하면 7, 8월에 Ice Lake 모바일 CPU의 공급 격차가 발생할 수도 있다고 합니다. 가장 가능성이 높은 제품들은 i3~1005G1, i5~1035G1, i7~1065G7로 보입니다."
     },
     {
       "date": "2020.08",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Whisky Lake, Comet Lake, Ice Lake 모바일 CPU의 공급 부족",
       "text": "Whiskey Lake와 Comet Lake의 전망은 전혀 나아질 기미가 보이지 않습니다. 유통사에 따르면 공급상황이 개선된 바가 없으며 3분기 말까지 두 제품에 대한 우려가 계속될 것이라고 합니다."
     },
@@ -175,7 +175,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "Filecoin 거래로 인해 AMD EPYC 서버 CPU의 공급이 부족",
       "text": "IPFS 블록체인(파일코인)을 둘러싼 과도한 열풍으로 인해 AMD의 EPYC 서버 CPU 공개시장 공급은 제한되고 리드 타임은 4주 이상으로 늘어났습니다. 가장 수요가 많은 SKU는 AMD EPYC 서버 CPU(7742, 7542, 7402, 7302P, 7302 & 7282), AMD EPYC 7302, 그리고 AMD EPYC 7282입니다."
     },
@@ -184,7 +184,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Filecoin 거래로 인해 AMD EPYC 서버 CPU의 공급이 부족",
       "text": "또한 AMD EPYC 서버 CPU의 공개 시장 가격이 전반적으로 상승하였고 특히 중국에서 3%까지 상승하였습니다. 이 때문에 대용량 HDD와 서버 RDIMM에 대한 수요도 증가했습니다."
     },
@@ -233,14 +233,18 @@
     },
     {
       "date": "2020.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "인텔 11세대 모바일 CPU Tiger Lake에 모두 주목 중",
       "text": "시장에서는 9월에 출시될 10NM 모바일 CPU와 Ice Lake(10NM), Tiger Lake의 후속작을 기대하고 있습니다. Tiger Lake는 Tiger Lake-Y(엔트리 레벨), Tiger Lake-U(미드티어 레벨), Tiger Lake-H(탑티어 레벨)로 나뉘어 출시될 예정입니다."
     },
     {
       "date": "2020.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "인텔 11세대 모바일 CPU Tiger Lake에 모두 주목 중",
       "text": "일반적으로 과도기에 후속작의 수요가 압도적으로 높으면 공급 격차가 발생하면서 Ice Lake, Comet Lake, Whisky Lake와 같은 기존 모델을 다시 찾는 경향이 있기 때문에 고객들은 이런 경우에 발생하는 공급 문제의 영향을 최대한 덜 받기 위해 미리 계획을 세울 필요가 있습니다."
@@ -287,14 +291,18 @@
     },
     {
       "date": "2020.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "인텔 11세대 모바일 CPU Tiger Lake에 모두 주목 중",
       "text": "시장에서는 9월에 출시될 10NM 모바일 CPU와 Ice Lake(10NM), Tiger Lake의 후속작을 기대하고 있습니다. Tiger Lake는 Tiger Lake-Y(엔트리 레벨), Tiger Lake-U(미드티어 레벨), Tiger Lake-H(탑티어 레벨)로 나뉘어 출시될 예정입니다."
     },
     {
       "date": "2020.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "인텔 11세대 모바일 CPU Tiger Lake에 모두 주목 중",
       "text": "일반적으로 과도기에 후속작의 수요가 압도적으로 높으면 공급 격차가 발생하면서 Ice Lake, Comet Lake, Whisky Lake와 같은 기존 모델을 다시 찾는 경향이 있기 때문에 고객들은 이런 경우에 발생하는 공급 문제의 영향을 최대한 덜 받기 위해 미리 계획을 세울 필요가 있습니다."
@@ -471,8 +479,10 @@
     },
     {
       "date": "2020.12",
-      "detected_vendors": [],
-      "risk_level": "Medium",
+      "detected_vendors": [
+        "AMD"
+      ],
+      "risk_level": "High",
       "summary": "AMD 공급에 영향을 미치는 기판 공급 부족",
       "text": "하이엔드 IC 및 프로세서 제조 시 사용하는 기판의 공급은 용량 확장을 능가하는 수요 증가로 인해 제한되었습니다. DigiTimes 에 따르면 특히 ABF 기판의 리드 타임은 4~5개월까지 늘어났으며 가격은 40%만큼 상승했습니다."
     },
@@ -490,9 +500,10 @@
     {
       "date": "2020.12",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "AMD 공급에 영향을 미치는 기판 공급 부족",
       "text": "교육 분야 수요 급증과 관련된 소형 코어 카운트 프로세서 수주량을 감안하면 이미 어려운 공급 상황을 더욱 악화시킬 수 있어 PC 제조업체로서는 좋은 소식이 아닙니다. 결과적으로 Intel로 전환하면 Gemini Lake 시리즈 프로세서에서 나타나는 공급 격차가 더욱 악화될 것입니다."
     },
@@ -525,7 +536,7 @@
     {
       "date": "2021.01",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Tiger Lake 모바일 CPU 공급부족 임박",
       "text": "상황이 전개됨에 따라, 고객으로서는 오픈 마켓에서 비 IPU의 공급이 완전히 고갈되기 전에 재고를 확보해 둘 것을 촉구합니다."
     },
@@ -540,7 +551,9 @@
     },
     {
       "date": "2021.01",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "Intel, 데스크톱 CPU의 전환 추진",
       "text": "또한, 현재 계속되는 제한과 기업 직원들의 계속되는 재택근무로 인해, 10세대 Comet Lake 데스크톱 CPU를 사용하는 고객이 사용 시간을 늘려 11세대 Rocket Lake를 그냥 건너뛰고 Alder Lake가 출시되면 이 버전으로 바로 넘어갈 수도 있습니다. 이 때문에 11세대 Rocket Lake 데스크톱 CPU와 500시리즈 데스크톱 칩셋이 결국 수명이 짧아 질 가능성이 높습니다. 물론, 이는 새로운 데스크톱 마더보드 요구 사항으로 이어질 것이며, 역시 소개될 것입니다."
@@ -565,7 +578,9 @@
     },
     {
       "date": "2021.01",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "Intel의 400 시리즈 데스크톱 칩셋 공급 제한",
       "text": "공급업체들은 또한 400 시리즈 Comet Lake 데스크톱 칩셋의 공급도 빠듯할 것으로 보고 있습니다. 고객이 10세대 Comet Lake 데스크톱 CPU를 계속 사용하고자 한다면, 지금 바로 이 400 시리즈 칩셋을 최대한 빨리 구매하는 것이 좋을 것입니다."
@@ -655,7 +670,9 @@
     },
     {
       "date": "2021.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD"
+      ],
       "risk_level": "Medium",
       "summary": "AMD에서 곧 출시할 EPYC Milan CPU를 위한 길 닦기",
       "text": "우리는 고객에게 이 제품의 필요량을 재고 할 때 Rome 시리즈 서버 CPU 사용량과 수요를 평가할 것을 제안합니다 예약 리드 타임 연장과 가격 인상을 피하려면 지금 바로 구매하고 가능한 한 빨리 리드 타임 예약 제안을 받으십시오."
@@ -667,14 +684,15 @@
         "Sony",
         "TSMC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
       "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다."
     },
     {
       "date": "2021.02",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "TSMC"
       ],
       "risk_level": "High",
       "summary": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
@@ -684,9 +702,10 @@
       "date": "2021.02",
       "detected_vendors": [
         "AMD",
-        "Intel"
+        "Intel",
+        "TSMC"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
       "text": "한편, AMD가 계속 고객에게 제품 공급을 제때 하지 못하고 약속을 이행하지 않으면 Intel에게는 이익이 됩니다."
     },
@@ -805,14 +824,16 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "Intel의 데스크톱 CPU 가격 상승",
       "text": "공급이 제한된 10세대 Comet Lake 데스크톱 CPU의 오픈 마켓 가격이 30%까지 급등했는데, 이는 4월에 예측한 바와 같습니다. Intel의 11세대 Rocket Lake 출시는 제한된 오픈 마켓 공급 때문에 수요를 충족시키지 못해 프리미엄 오퍼로 이어졌습니다."
     },
     {
       "date": "2021.05",
-      "detected_vendors": [],
-      "risk_level": "Low",
+      "detected_vendors": [
+        "Intel"
+      ],
+      "risk_level": "Medium",
       "summary": "Intel의 데스크톱 CPU 가격 상승",
       "text": "고객은 10세대 Comet Lake나 11세대 Rocket Lake가 둘 다 가격이 더욱 가파르게 오를 것으로 예상하므로 제품의 구매 여부를 결정해야 합니다."
     },
@@ -871,7 +892,8 @@
     {
       "date": "2021.06",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Low",
       "summary": "Intel의 Cascade Lake 제품으로 되돌아가는 고객들",
@@ -890,6 +912,7 @@
     {
       "date": "2021.06",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -907,7 +930,9 @@
     },
     {
       "date": "2021.07",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "Intel의 9세대 Coffee Lake 데스크톱 CPU에 대한 제품 변경 알림",
       "text": "따라서 9세대 Coffee Lake 데스크톱 CPU를 계속 사용할 고객은 더 높은 가격을 부담하게 될 것입니다."
@@ -942,6 +967,7 @@
     {
       "date": "2021.07",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -988,6 +1014,15 @@
       "text": "Intel의 차세대 Xeon Sapphire Rapids 출시를 기다리는 동안, 이전 모델인 Xeon Ice Lake와 Cascade Lake에 대한 수요가 계속될 것으로 예상합니다. 더욱이, Cascade Lake에서 Ice Lake로, Ice Lake에서 Sapphire Rapids로 전환하려면 새로운 마더보드가 필요하므로, 고객이 추가 비용 부담을 피하려고 Sapphire Rapids로 직접 전환할 수 있을 때까지 기다릴 수도 있습니다."
     },
     {
+      "date": "2021.08",
+      "detected_vendors": [
+        "Intel"
+      ],
+      "risk_level": "Low",
+      "summary": "Intel의 Xeon Sapphire Rapids는 아직 출시되지 않은 상태",
+      "text": "그럼에도, 우리는 오픈 마켓에서 Cascade Lake의 공급, 특히 중간 시리즈 제품(32xx, 32xxR, 52xx, 52xxR)의 진입에 제약이 따르는 문제를 지켜봤습니다. 이 때문에, Cascade Lake 시리즈를 계속 사용할 계획인 고객이라면 공급 여건이 심히 빠듯해지고 오픈 마켓 가격이 지나치게 오르기 전에 완충 재고를 확보하실 것을 촉구합니다."
+    },
+    {
       "date": "2021.09",
       "detected_vendors": [
         "Nvidia"
@@ -999,7 +1034,7 @@
     {
       "date": "2021.09",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "개학 시즌을 맞아 Chromebook CPU 공급 부족 발생 가능",
       "text": "코로나19 팬데믹이 확산되는 상황에서, 올해의 대면 수업 계획에 따라 Chromebook 수요가 결정될 것입니다. 초등학교에서 온라인 학습을 계속 채택할 경우 Chromebook 수요의 다시 한 번 급증할 수 있습니다. 제조업체가 수요 급증을 충족시키기에 충분한 재고를 보유하고 있다고 들었지만, 아직 확인된 건 아닙니다."
     },
@@ -1096,7 +1131,8 @@
     {
       "date": "2021.11",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Low",
       "summary": "AMD와 Intel 모두 최신 서버 CPU 생산 증대",
@@ -1105,6 +1141,7 @@
     {
       "date": "2021.11",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Medium",
@@ -1163,7 +1200,9 @@
     },
     {
       "date": "2022.01",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "High",
       "summary": "Intel의 서버 CPU 시장 가격에 영향을 미치는 IC 공급 부족",
       "text": "게이팅 문제와 IC 구성부품 공급 부족으로 인해 고객이 서버 제품 사용을 늘리고 있으며, 그에 따라 고객들은 Cascade Lake 및 Cascade Lake Refresh 시리즈 CPU를 확보하려고 오픈 마켓으로 눈길을 돌리고 있습니다. 고객들은 주로 42xx, 42xxR, 52xx, 52xxR, 62xx 및 62xxR 시리즈 CPU를 찾고 있습니다.이러한 수요 급증은 Cascade Lake 및 Cascade Lake Refresh 시리즈의 공급 제약으로 이어졌고, 이는 다시 오픈 마켓 가격 인상으로 이어졌습니다."
@@ -1201,6 +1240,7 @@
     {
       "date": "2022.03",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "High",
@@ -1210,6 +1250,7 @@
     {
       "date": "2022.03",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "High",
@@ -1227,7 +1268,9 @@
     },
     {
       "date": "2022.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Medium",
       "summary": "국제적 사건의 영향을 받은 Intel 서버 CPU 가격 및 공급",
       "text": "2개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다. 미국과 다른 국가들은 러시아에 상업용 전자 기기, 항공기 부품, 반도체 등의 수출을 봉쇄하는 제재를 가하고 있습니다."
@@ -1355,9 +1398,11 @@
     {
       "date": "2022.11",
       "detected_vendors": [
+        "Intel",
+        "TSMC",
         "삼성"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
       "text": "많은 언론 매체들은 또한 삼성이 가격 책정 방식을 변경하고 많은 마이크로프로세서와 주변 장치 칩 제품의 가격을 인상할 계획이라고 밝혔습니다."
     },
@@ -1372,7 +1417,9 @@
     },
     {
       "date": "2022.11",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "수요 감소에도 불구하고 Intel의 서버 CPU 가격은 계속 상승",
       "text": "즉, 오픈 마켓에서 Cascade Lake SRF8Z Gold 6244 및 SRF91 Gold 6252 모두에 대한 가용성이 제한적인 상태입니다."
@@ -1408,7 +1455,9 @@
     },
     {
       "date": "2022.11",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD"
+      ],
       "risk_level": "High",
       "summary": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
       "text": "유통업체들은 최근 출시된 Ryzen 7000 시리즈(코드명 Raphael) 데스크톱 CPU에 대해 제한적인 공급 및 지원을 받았는데, 부분적으로는 새로운 AM5 마더보드의 공급 부족(Shortage)으로 인한 것입니다. 현재 4종의 매니아 컴퓨팅 CPU에 대해 2종의 마더보드(X670E 및 X670)만 선택할 수 있습니다. 이러한 공급 부족(Shortage)에 영향을 받은 제품은 다음과 같습니다. Ryzen 9 7950X, Ryzen 9 7900X, Ryzen 7 7700X, Ryzen 5 7600X"
@@ -1418,7 +1467,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
       "text": "AMD가 10월 말까지 B650E 및 B650이라는 2종의 마더보드를 추가로 출시할 것이라는 소문이 있습니다. 또한 더 많은 메인스트림 Ryzen 7000 시리즈 CPU가 출시될 것으로 예상됩니다."
     },
@@ -1526,6 +1575,7 @@
     {
       "date": "2023.02",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -1570,14 +1620,18 @@
     },
     {
       "date": "2023.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "High",
       "summary": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
       "text": "시리즈 칩셋에 대한 EOL 공지는 여전히 이전 세대 제품을 사용하는 고객에게 최신 제품으로 전환하도록 간접적으로 강요합니다. 또한 10세대 Comet Lake 데스크톱 CPU를 사용하는 사람들도 최신 기술로 전환하고 있습니다. 이는 10세대에 대한 EOL 공지가 아직 보류 중일 것으로 예상하기 때문입니다."
     },
     {
       "date": "2023.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "High",
       "summary": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
       "text": "EOL 공지에 따라 영향을 받는 칩셋, 특히 H510 칩셋과 같은 500 시리즈 칩셋에 대한 수요가 증가했습니다. 결과적으로 EOL 공지로 인해 이러한 부품이 부족해졌고 12세대 Alder Lake 및 노트북 CPU에 대한 오픈 마켓 활동이 증가했습니다."
@@ -1718,6 +1772,7 @@
     {
       "date": "2023.05",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "High",
@@ -1886,7 +1941,9 @@
     },
     {
       "date": "2023.07",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "High",
       "summary": "Intel의 EOL 발표, 오픈 마켓 활동에 박차",
       "text": "단, EOL 발표로 대부분의 고객이 해당 CPU를 급히 사들이며, 오픈 마켓 활동이 활발해졌습니다. 주로 IPU 및 NON-IPU 버전의 i3, i5, i7 시리즈 문의가 많습니다. 가격은 상승세에 있으며, 재고는 바닥나고 있습니다."
@@ -2028,13 +2085,14 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "모바일 시장을 강타한 주요 가격 인상 및 제품 업그레이드",
       "text": "이러한 추측에 따라 Raptor Lake Refresh가 Meteor Lake보다 저렴할 것으로 예측됩니다. 그러나 수요는 소비자별 요구와 예산에 따라 달라지며 Intel에서 새로운 두 가지 시리즈의 판매를 늘리기 위해 이전 세대 모델의 가격을 조정할 수 있습니다. 또한 두 제품군에 대한 Intel의 새로운 명명 체계에서 세대를 식별하고 차별화하는 데 시간이 걸릴 수 있습니다."
     },
     {
       "date": "2023.09",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -2043,7 +2101,10 @@
     },
     {
       "date": "2023.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD",
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "AMD를 넘어선 Intel의 데스크톱 CPU 수요",
       "text": "고객들은 주로 제조업체보다 낮은 가격을 찾고 있지만, 이러한 가격은 점점 더 찾기 어려워지고 있습니다. 이러한 비용 절감에는 OEM에서 제공할 수 있는 가격 인하 및 할인으로 인해 한계가 있어, 보통 OEM에서 가장 비용 효율적인 제품을 제공할 수 있습니다. 수요가 갑자기 급증하지 않는 한 가격은 이미 최저 수준이며 공급은 안정적입니다."
@@ -2069,8 +2130,10 @@
     },
     {
       "date": "2023.09",
-      "detected_vendors": [],
-      "risk_level": "Low",
+      "detected_vendors": [
+        "Intel"
+      ],
+      "risk_level": "Medium",
       "summary": "Intel 모바일 CPU 가격 상승 추세",
       "text": "반면 12세대 Alder Lake 및 13세대 Raptor Lake 모바일 CPU에 대한 관심은 높아지고 있습니다. 공급을 확보하려는 고객들은 여전히 비용 절감의 측면에서만 주문하고 있지만, 전반적으로 공급 상태는 양호한 것으로 보입니다. 3분기 말 4분기 초에 Raptor Lake Refresh 및 Meteor Lake가 출시되면 수요 변화는 더욱 분명해질 것입니다."
     },
@@ -2078,6 +2141,7 @@
       "date": "2023.09",
       "detected_vendors": [
         "AMD",
+        "Intel",
         "TSMC"
       ],
       "risk_level": "Low",
@@ -2086,21 +2150,30 @@
     },
     {
       "date": "2023.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD",
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
       "text": "Genoa 제품군: EPYC 9334, EPYC 9554, EPYC 9654"
     },
     {
       "date": "2023.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD",
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
       "text": "Milan 제품군: EPYC 7713, EPYC 7763"
     },
     {
       "date": "2023.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD",
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
       "text": "Genoa 시리즈의 채택률이 증가했으며, 이는 Genoa 시리즈가 이전 모델에 비해 성능이 상당히 향상되었기 때문일 수 있습니다."
@@ -2108,6 +2181,7 @@
     {
       "date": "2023.09",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -2170,7 +2244,9 @@
     },
     {
       "date": "2023.10",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "High",
       "summary": "Intel, 수요 변동 속 공인 유통업체에 묶음 상품 제공",
       "text": "11세대 Tiger Lake 모바일 CPU의 오픈 마켓 가격은 하락하고 있습니다. 해당 CPU는 6월에 단종되었지만, 수요 및 거래는 최근에 와서야 줄었습니다. 분기 말이 다가옴에 따라 몇몇 분야에 대한 공급 집중은 완화되었지만 현물 수요는 최소 수준에 불과했습니다."
@@ -2234,7 +2310,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "EOL 공지로 인해 CPU 시장의 가격 및 가용성에 변동 발생",
       "text": "AMD 측의 경우, Ryzen Threadripper Pro 7000 시리즈는 여전히 제한된 수량만 판매되고 있습니다. 연말과 2024년에 대한 예측이 구체화되면서 향후 몇 달 내에 가격 및 공급이 더욱 명확해져 가시성이 높아질 것입니다."
     },
@@ -2267,7 +2343,8 @@
     {
       "date": "2023.12",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Medium",
       "summary": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
@@ -2276,7 +2353,8 @@
     {
       "date": "2023.12",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Medium",
       "summary": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
@@ -2285,6 +2363,7 @@
     {
       "date": "2023.12",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "High",
@@ -2506,7 +2585,8 @@
     {
       "date": "2024.03",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Medium",
       "summary": "게이밍 산업에서 성장하는 Intel PC 시장",
@@ -2534,6 +2614,7 @@
     {
       "date": "2024.03",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -2543,7 +2624,8 @@
     {
       "date": "2024.03",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Low",
       "summary": "안정적인 수요 속에서 변함없이 지속되는 Intel과 AMD의 서버 CPU 경쟁",
@@ -2555,7 +2637,7 @@
         "Analog Devices",
         "TSMC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "연장된 리드 타임으로 웨이퍼에 대한 독점 파트너십을 체결한 Analog Devices",
       "text": "Analog Devices에서는 장기적인 웨이퍼 생산 능력을 제공하기 위해 TSMC에서 대다수의 지분을 소유한 제조 자회사인 일본의 JASM(Japan Advanced Semiconductor Manufacturing)과 특별 협약을 체결하여 이러한 상황에 대응하고 있습니다. 협약은 40nm 및 미세 공정 기술 노드에 초점을 맞추며, 이는 무선 BMS(wBMS) 및 GMSL™(Gigabit Multimedia Serial Link) 애플리케이션을 비롯한 중요한 플랫폼 역할을 수행합니다."
     },
@@ -2570,7 +2652,9 @@
     },
     {
       "date": "2024.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "비용 절감에 영향받는 Intel PC 시장과 각광받는 수리 주문 및 게이밍 CPU",
       "text": "일시적인 수요는 주로 고객 수리 주문에서 발생합니다. 이러한 추세로 인해 11세대 Tiger Lake 모바일 CPU와 같은 구형 시리즈에 대한 수요가 증가했습니다. 결과적으로 최신 시리즈에 비하면 공급이 제한적입니다. 코어 i3, i5, i7 시리즈의 IPU가 아닌 시리즈에 대한 거래가 가장 일반적입니다."
@@ -2586,7 +2670,9 @@
     },
     {
       "date": "2024.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "비용 절감에 영향받는 Intel PC 시장과 각광받는 수리 주문 및 게이밍 CPU",
       "text": "12세대 및 13세대 모바일 데스크톱 CPU 거래량은 미미하지만 꾸준히 유지되고 있습니다. 고객들은 계속해서 옵션을 저울질하고 있습니다. 14세대 Meteor Lake 시리즈에 대한 수요는 여전히 미미합니다."
@@ -2602,7 +2688,9 @@
     },
     {
       "date": "2024.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "분기 말로 갈수록 개선되는 Intel 서버 시장 공급 상태",
       "text": "그러나 꾸준한 공급에도 불구하고 5세대 Emerald Rapids의 시장 채택률은 여전히 저조한 편입니다. 공급업체의 전망은 여전히 보수적이지만 하반기에는 수요가 증가할 것으로 예상하고 있습니다."
@@ -2618,7 +2706,9 @@
     },
     {
       "date": "2024.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD"
+      ],
       "risk_level": "Low",
       "summary": "가상화폐 채굴자 사이에서 AMD 제품 수요 증가",
       "text": "한편, Milan 시리즈의 수요는 미미합니다. 일시적인 수요가 발생한 일부 모델은 EPYC 7713, EPYC 7643, EPYC 7513, EPYC 7543입니다."
@@ -2635,9 +2725,10 @@
     {
       "date": "2024.05",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "예상치 못한 수요 및 원자재 부족으로 인한 Intel PC 시리즈 공급 제약",
       "text": "2분기 첫 달은 AMD PC CPU 시장 활동이 하이엔드급 Ryzen 9 7950X, Ryzen Threadripper PRO 5995WX, Ryzen 9 5950x로 제한되면서 PC 시장이 상대적으로 저조했습니다."
     },
@@ -2655,7 +2746,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "예상치 못한 수요 및 원자재 부족으로 인한 Intel PC 시리즈 공급 제약",
       "text": "이러한 예상치 못한 추세와 더불어 Intel Meteor Lake 시리즈에 사용되는 원자재 확보가 어려워지면서 가용성과 시장 수요 간의 불균형이 발생했습니다. 특정 티어 1 OEM은 최대 8주의 할당 리드 타임을 겪고 있습니다. 앞으로 몇 주 안에 더 많은 고객이 동일한 문제를 겪을 것으로 예상됩니다."
     },
@@ -2716,7 +2807,9 @@
     },
     {
       "date": "2024.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Intel"
+      ],
       "risk_level": "Low",
       "summary": "공급 제약이 지속되는 Intel Meteor Lake H 시리즈",
       "text": "이달 말에는 즉각적인 공급이 개선되겠지만 3분기까지 제약이 지속될 수 있습니다. 해당 시리즈가 티어 1 이외 고객들 사이에서 채택률이 높아질 경우 공급이 더욱 제한될 수 있습니다."
@@ -2739,7 +2832,9 @@
     },
     {
       "date": "2024.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "AMD"
+      ],
       "risk_level": "High",
       "summary": "AMD Milan의 리드 타임 확대",
       "text": "시장 소식에 따르면 Milan 시리즈의 EPYC 7763, 7713, 7713P 공급이 부족한 상황입니다. 리드 타임은 최대 24주이며 공급이 줄어들면서 6월 내내 가격 상승세를 보일 것으로 예상됩니다."
@@ -2758,7 +2853,7 @@
       "detected_vendors": [
         "Nvidia"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "GPU: 신제품과 관세 발표에도 불구하고 변동성을 보이는 GPU 시장",
       "text": "다른 GPU 소식으로는 NVIDIA에서 차세대 AI 칩 플랫폼인 Rubin을 2026년에 출시한다고 밝혔습니다. Rubin은 GPU, CPU, 네트워킹 칩을 통합할 예정이지만 현재는 신제품에 대한 세부 정보가 제한적입니다. NVIDIA의 CEO인 Jensen Huang은 COMPUTEX 무역 박람회에서 이러한 개발 사항을 소개하며 매년 AI에 초점을 맞춘 새로운 칩 제품군을 발표하겠다는 회사 의사를 밝혔습니다."
     },
@@ -2807,14 +2902,17 @@
         "AMD",
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
       "text": "고객이 비용 효율적인 계획 수립을 우선하면서 기존 PC에 대한 수요는 부진합니다. 이러한 추세로 인해 노트북 제조사의 주문이 감소하여 2차 및 3차 공급업체에 영향을 미치고 있습니다. AMD의 경우 노트북 고객 주문이 10~15% 감소하였으며, Intel의 경우 공급이 양호하기 때문에 전반적인 수요가 안정적인 것으로 알려졌습니다."
     },
     {
       "date": "2024.08",
-      "detected_vendors": [],
-      "risk_level": "Low",
+      "detected_vendors": [
+        "AMD",
+        "Intel"
+      ],
+      "risk_level": "High",
       "summary": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
       "text": "이전에는 출하량이 7분기 연속 감소하였으나, 최근 조사에 따르면 시장 추세가 반전될 준비가 되었습니다. IDC의 조사에 따르면 증가하는 AI PC 수요 및 기업의 교체 주기에 따른 순풍 덕분에 지난 분기 전 세계 PC 출하량이 마침내 확대되었습니다. 중국에서의 판매 약세는 수요를 저지하는 역풍 중 하나입니다."
     },
@@ -2824,7 +2922,7 @@
         "AMD",
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
       "text": "공급 측면에서는 2024년 3분기 말까지 Intel의 노트북용 Meteor Lake H 시리즈 CPU와 Chromebook용 12세대 Alder Lake N 시리즈 ATOM CPU(N200, N300, N305)에서 약간의 공급 제약이 있을 것으로 예상됩니다. 또한 AMD는 데스크톱 CPU의 수주 리드 타임을 2~3주 연장했으며, 수익성이 높은 AI 관련 제품에 생산력을 재할당하기 위한 것일 수 있습니다."
     },
@@ -2834,13 +2932,14 @@
         "AMD",
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
       "text": "Intel은 2024년 3분기에 Lunar Lake CPU를 출시할 계획이며, AMD는 최근 Ryzen AI 9 365 및 Ryzen AI 9 HX 370에 LPDDR5X 버전을 제공하는 등 AI 300 시리즈에 집중하고 있습니다. 두 기업 모두 AI 가속화와 같은 발전하는 시장 수요를 충족하기 위해 서비스를 강화하고 있습니다."
     },
     {
       "date": "2024.08",
       "detected_vendors": [
+        "AMD",
         "Intel"
       ],
       "risk_level": "Medium",
@@ -2850,7 +2949,8 @@
     {
       "date": "2024.08",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Intel"
       ],
       "risk_level": "Low",
       "summary": "서버 CPU: 공급 제약을 마주한 Intel, 성과를 얻는 AMD의 Genoa 시리즈",
@@ -3342,7 +3442,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "CPU 가격 변동 및 할당 문제",
       "text": "인텔 아이스 레이크 시리즈의 공급은 약간 개선되고 있으며, 7월 말부터 8월까지 점진적으로 배송이 재개되고 있습니다."
     },
@@ -3351,7 +3451,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "CPU 가격 변동 및 할당 문제",
       "text": "AMD 투린 시리즈의 수요는 고코어 수 프로세서를 요구하는 EU/미국의 강력한 수요로 증가하고 있습니다."
     },
@@ -3383,7 +3483,7 @@
     {
       "date": "2025.07",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "CPU 가격 변동 및 할당 문제",
       "text": "4세대 사파이어 래피즈 CPUs에 대한 수요가 증가하고 있습니다."
     },
@@ -3447,7 +3547,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "리드타임 증가 및 EOL 통보",
       "text": "AMD의 Genoa 및 Turin 리드타임은 전반적으로 8주에서 20주 이상으로 전망됩니다. 9554와 같은 고코어 SKUs의 배정은 극도로 타이트하며 가격 인상도 확인되었습니다."
     },
@@ -3676,7 +3776,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년 물량이 완전히 매진되었습니다. 주문 리드타임은 불확실한 상태이며, 고코어 SKU(9555P, 9654P)는 AMD가 하이퍼스케일러 AI 프로젝트를 우선 배정함에 따라 8개월 이상의 지연이 발생하고 있습니다."
     },
@@ -3730,7 +3830,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 2026년까지 전량 매진 상태이다. 예약 리드타임은 불확실하며, 고코어 SKU(9555P, 9654P, 9454P)는 하이퍼스케일러 AI 프로젝트 우선 배정으로 8개월 이상 지연되고 있다."
     },
@@ -3739,7 +3839,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel 데스크톱 엔트리 CPU(Alder Lake, Twin Lake)는 25% 인상, 프리미엄 모바일(Panther Lake)은 15%, 일반 데스크톱/노트북/엔터프라이즈는 5~10%, 레거시/임베디드는 10% 인상된다."
     },
@@ -3757,7 +3857,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 서버(EPYC)는 여전히 할당이 매우 제한적이며, 하이퍼스케일러 및 AI 관련 수요가 공급의 대부분을 계속 흡수하고 있습니다. 신규 주문에 대한 가시성은 제한적이며, 고코어 수 SKU의 리드타임도 연장되고 있습니다. 공급 상황에서 의미 있는 완화 조짐은 관측되지 않았습니다."
     },
@@ -3786,7 +3886,7 @@
         "Intel",
         "TSMC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel의 현재 주요 병목은 컴퓨트 칩렛에 대한 TSMC의 생산 능력이다. 구체적으로 Intel Lunar Lake(CU7/32) 구성은 “할당” 상태로 전환되었으며, 7월까지 재고가 소진될 것으로 예상된다."
     },
@@ -3795,7 +3895,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel 임베디드 CPU 리드타임은 시리즈별로 큰 차이를 보인다: x7 시리즈의 공식 리드타임은 26주인 반면, x6 시리즈는 2028년까지 주문이 찬 상태이다."
     },
@@ -3812,7 +3912,7 @@
     {
       "date": "2026.05",
       "detected_vendors": [],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "스몰 코어 CPU: 모든 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약이 지속된다."
     },
@@ -3828,7 +3928,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 서버(EPYC) Genoa 및 Turin 시리즈는 엄격한 할당 상태가 지속되고 있으며, 하이퍼스케일러 및 AI 관련 수요가 계속해서 공급의 대부분을 흡수하고 있다. 고코어 수 SKU(-F 시리즈 주파수 최적화 모델 포함)는 리드타임이 장기화되고 있으며, 일부 고객은 공식 리드타임 12~16주 이상과 오픈마켓에서 개당 약 1,000달러의 프리미엄이 발생하고 있다고 보고하고 있다. 공급 상황의 실질적인 완화 조짐은 관측되지 않는다."
     },
@@ -3837,7 +3937,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "2026년 2분기부터 적용되는 Intel 전 포트폴리오 가격 인상 폭은 세그먼트에 따라 5~25% 수준이다. 데스크톱 엔트리 프로세서(Alder Lake, Twin Lake)와 레거시/임베디드 SKU의 조정 폭이 가장 크며(약 15~25%), 메인스트림 데스크톱·노트북·엔터프라이즈 세그먼트는 비교적 완만한 인상(약 5~10%)에 직면해 있다."
     },
@@ -3855,7 +3955,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel Elkhart Lake 스몰 코어 프로세서(J/N/X 시리즈)는 심각한 할당 제약에 직면해 있으며, 일부 구성은 공식적으로 2028년까지 예약이 완료된 상태이다."
     },
@@ -3871,7 +3971,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel 서버용 Granite Rapids 및 Sierra Forest(600/6 시리즈)는 여전히 엄격한 할당 상태에 있으며, 리드타임은 6개월을 초과하고 있다. 하이퍼스케일러와 클라우드 서비스 제공업체가 가용 생산 능력의 70% 이상을 흡수하고 있다. 미국 및 아시아·태평양 지역의 기업 고객들은 부분적인 할당조차 확보하기 위해서는 명확한 프로젝트 타당성을 입증해야 한다고 보고하고 있다."
     },
@@ -3880,7 +3980,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 서버용 EPYC Genoa 및 Turin 시리즈는 2026년까지 전량 매진된 상태다. 고주파 '-F' 모델의 공식 리드타임은 12~16주 이상이며, 공개 시장 프리미엄은 대당 약 1,000달러 수준을 유지하고 있다. AI 및 하이퍼스케일러 우선 배정이 완화되는 조짐은 아직 나타나지 않고 있다."
     },
@@ -3899,7 +3999,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "스몰 코어 CPU인 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약 상태가 지속되고 있다. Intel은 Panther Lake 및 18A AI PC 증산에 집중하기 위해 저마진 SKU의 우선순위를 낮추고 있으며, 2026년 2분기부터 전 포트폴리오에 걸쳐 5~25%의 가격 인상을 시행하고 있다."
     },
@@ -3944,7 +4044,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel은 3분기부터 서버 CPU에 적용하던 ‘경쟁 대응 가격 정책’을 폐지했으며, 이에 따라 전체 가격이 약 30% 상승했다. 데스크톱 Ultra 시리즈의 특별 가격 정책도 종료되면서 공식 가격은 제품당 30~50달러 인상되는 효과가 발생했다."
     },
@@ -3953,7 +4053,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 고코어 수 SKU(예: 9575F)는 AI 프로젝트 우선 배정으로 인해 최대 40주(10개월)의 리드타임에 직면하고 있으며, OEM에는 어떠한 물량 할당 보장도 제공되지 않고 있다."
     },
@@ -3962,7 +4062,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD Turin “-F” 주파수 최적화 SKU(9275F, 9375F, 9475F)는 AI 프로젝트에 우선 할당이 이루어지면서 현재 최대 40주의 리드타임에 직면하고 있다. Tier 1 파트너도 예외가 아니며, 일반 Turin MPN 제품의 리드타임은 6~9개월에 달하고 있다."
     },
@@ -3998,7 +4098,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "AMD 서버용 EPYC Genoa 및 Turin 시리즈는 여전히 엄격한 할당 상태이며, 클라우드 서비스 제공업체가 생산 물량을 흡수하면서 리드타임이 늘어나고 있습니다. 최대 256개 코어를 지원하는 6세대 EPYC ‘Venice’의 Tier 1 고객 대상 샘플 공급도 시작됐습니다."
     }

@@ -11,10 +11,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia GeForce RTX 2080 Ti 단종?",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -30,10 +32,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
       "EOL",
+      "Lead Time",
       "Production Cut"
     ],
     "risk_level": "High"
@@ -49,6 +53,26 @@
     "subheading": "재택근무의 증가로 늘어난 DRAM 및 NAND 수요",
     "text": "코로나19의 확산으로 재택근무 사례가 증가하면서 서버 및 개인용 컴퓨터 기기에 탑재되는 DRAM과 NAND의 수요가 늘고 있습니다. 더 많은 사람과 기업이 온라인으로 이동함에 따라, 데이터 트래픽이 급증하고 있습니다. 최신 기술을 기반으로, 컴퓨터 벤더들은 자사의 서비스 능력과 메모리 시장, 특히 DDR4, GDDR6, LPDDR에 대한 긍정적인 영향의 확장을 모색하고 있습니다. 품목별 생산 조정으로 인해 DDR2 및 GDDR5와 같은 부품은 단종될 예정입니다.",
     "detected_vendors": [],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Nvidia, RTX20xx 시리즈 단계적 단종",
+    "subheading": "Nvidia, RTX20xx 시리즈 단계적 단종",
+    "text": "RTX20xx의 OEM 생산이 둔화되어 Nvidia의 새로운 RTX30xx 시리즈 GPU 칩셋 출시가 임박한 것이 아니냐는 추측으로 이어졌습니다. 3분기 말 또는 4분기 초 무렵에 출시될 것이라는 추측이 가장 유력합니다. 마지막 구매 일정이 발표되지 않았으며 가격은 안정적으로 유지되고 있습니다. 코로나19로 인해 RTX20xx 시리즈의 수요가 하락세에 있지만, 공급업체들은 RTX30xx 출시를 내다보고 있습니다. 하지만 대부분의 공급 물량은 9월까지는 시장에 풀리지 않을 것입니다. 공급업체들은 3분기가 되기까지 3~4개월 정도는 현재 재고분으로 대부분의 수요에 대응해야 합니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -97,6 +121,26 @@
   },
   {
     "year": 2020,
+    "month": 7,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Cascade Lake와 Cascade Lake Refresh가 곧 단종됩니다",
+    "subheading": "Cascade Lake와 Cascade Lake Refresh가 곧 단종됩니다",
+    "text": "Intel은 차세대 서버 CPU인 Cooper Lake 및 Ice Lake 시리즈를 발표했습니다. Cooper Lake는 Intel 웹사이트의 목록에 이미 표시되어 있지만, Intel의 Ice Lake 출시 시점은 아직 분명하지 않습니다. Cascade Lake와 Cascade Lake Refresh를 Cooper Lake와 Ice Lake로 전환하려면 새로운 서버 마더보드 필요합니다. 전통적으로, 고객이 제때 전환하지 않고 이전 모델을 계속 사용하는 경향이 있으므로 전환은 즉각적으로 이루어지지 않습니다. 따라서 Cascade Lake와 Cascade Lake Refresh에 대한 수요는 최소한 올해 말까지 강세를 유지할 것이며, 그 추세가 2021년 초까지 이어질 가능성도 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
     "month": 8,
     "category": "CPU",
     "detected_categories": [
@@ -110,7 +154,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -208,6 +253,25 @@
   },
   {
     "year": 2021,
+    "month": 1,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "AMD, RX5000 시리즈의 수명 종료 발표",
+    "subheading": "AMD, RX5000 시리즈의 수명 종료 발표",
+    "text": "GPU 시장의 상층부에서는 기업 사용자들이 Tesla의 이전 세대 V100에서 새로운 A100 카드로 전환하기 시작했습니다. 이는 2020년 12월부로 수명이 종료된 16GB V100으로 상쇄되었습니다. 32GB 버전은 1분기 말이면 그 뒤를 이어 출시될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
     "month": 2,
     "category": "Other",
     "detected_categories": [
@@ -274,6 +338,7 @@
     "subheading": "AMD, 자체 Wi-Fi 모듈 출시",
     "text": "특히, Intel의 AX200 시리즈의 경우 Wi-Fi 모듈은 여전히 공급이 많이 부족합니다. 한 가지 가능한 이유는 Intel의 생산 능력이 AX201 및 AX210 시리즈로 전환되었기 때문일 수 있습니다. AX200 모델에 대한 공식적인 EOL 발표는 없지만, 거의 생산되지 않고 있고 Intel은 이 모델에 거의 관심을 두고 있지 있습니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -332,15 +397,17 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
   {
     "year": 2021,
     "month": 9,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
@@ -351,6 +418,84 @@
     ],
     "detected_keywords": [
       "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "subheading": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "text": "또한, Intel은 임베디드 고객을 계속 지원하고자 FH82H410 SRH1D를 임베디드 아키텍처로 이전했습니다. 그럼에도, 공급은 여전히 제한적일 것으로 예상합니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "subheading": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "text": "Intel의 이더넷 칩셋 지원은 단기적일 수 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "subheading": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "text": "Intel이 압도적인 수요를 억제하려고 대량의 이더넷 칩셋을 선적 및 납품했다고 들었습니다. 현재는 2021년 7월에 비해 Intel의 WGI210AT, WGI210IT, WGI210IS, WGI211AT 공급 여력이 개선되고 오픈 마켓에서 제시되는 프리미엄 가격 옵션이 더 적습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "subheading": "Intel, 데스크톱 칩셋용 최종 제품 단종 발표",
+    "text": "그렇긴 해도, 유통업체들은 낮은 투자 수익 때문에 공급 수준이 2021년 9월부터 감소함에 따라 이를 단기적인 개선으로 예상합니다. 4분기에 대한 할당 지원은 여전히 불확실하며 적어도 2022년 1분기까지는 공급 부족이 장기화될 것으로 예상합니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -376,6 +521,25 @@
   },
   {
     "year": 2021,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Intel, 30개 종의 이더넷 컨트롤러 제품에 대한 단종 공지 발표",
+    "subheading": "Intel, 30개 종의 이더넷 컨트롤러 제품에 대한 단종 공지 발표",
+    "text": "이러한 500 및 700 시리즈 컨트롤러는 2015년으로 거슬러 올라갈 정도로 오래된 제품이며 생산 및 공급 라인이 갑작스러운 수요 증가에 맞춰 준비되어 있지 않아, 최근의 주요 공급 제약과 극심한 리드 타임(2023/2024년까지 인도되지 않을 것으로 예상)이 발생했습니다. 이로 인해 가격이 원래 단가의 5~10%까지 인상되었습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
     "month": 12,
     "category": "IC",
     "detected_categories": [
@@ -385,7 +549,9 @@
     "section_raw": "가동 중단의 영향을 받는 Micron 납품",
     "subheading": "가동 중단의 영향을 받는 Micron 납품",
     "text": "EOL 통지는 다양한 e.MMC 저장 장치에 적용되며 2022년 4월 30일부터 발효될 예정입니다. 이 통지는 소비자 및 자동차 애플리케이션이 증가함에 따라 마련되었습니다. 4, 8, 16, 32, 64 및 128GB 부품이 포함될 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Micron"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -424,7 +590,8 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -476,7 +643,9 @@
     "section_raw": "STMicroelectronics 배송, 2022년 4분기 이후로 연장",
     "subheading": "STMicroelectronics 배송, 2022년 4분기 이후로 연장",
     "text": "5월에 25~30%의 추가 가격 인상이 단종된 STM8(8비트) MCU 시리즈에 적용될 예정입니다. 이 시리즈는 3분기까지 단종될 것이며 고객이 대체 STM32(32비트) 시리즈를 사용하도록 유도할 것입니다. 단, STM32는 배송 지연의 영향을 받았으며 고객은 부품에 대응하기 위해 각 보드를 재설계해야 할 것입니다. 모든 시리즈의 경우, 배송은 2022년 4분기 또는 2023년 1분기로 연기됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "EOL",
       "Lead Time",
@@ -499,7 +668,8 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -516,7 +686,8 @@
     "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Geopolitics / Sanctions"
     ],
     "risk_level": "High"
   },
@@ -542,14 +713,17 @@
   {
     "year": 2022,
     "month": 4,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
     "subheading": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
     "text": "곧 단종될 시리즈가 오픈 마켓에서 활발히 거래되고 있고 이용 가능한 모든 제품에서 가격이 지속적으로 상승하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -588,7 +762,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -625,7 +800,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -640,6 +816,7 @@
     "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
     "text": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
     "detected_vendors": [
+      "Intel",
       "Mellanox"
     ],
     "detected_keywords": [
@@ -688,6 +865,48 @@
   },
   {
     "year": 2022,
+    "month": 8,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "text": "Intel은 3분기 동안 NVMe 모델 비용을 3~5% 인하할 예정입니다. 이로 인해 특히 1.92TB 이상의 대용량에 대한 수요가 개선되었습니다. SATA SSD의 경우 가격 변동이 없습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
+    "detected_vendors": [
+      "Intel",
+      "Micron",
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
     "month": 9,
     "category": "GPU",
     "detected_categories": [
@@ -701,7 +920,8 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Decrease"
     ],
     "risk_level": "High"
   },
@@ -735,6 +955,7 @@
     "subheading": "업황 부진과 둔화된 연말 수요에 타격 받은 AMD와 Intel",
     "text": "반대로 오픈 마켓 재고, 특히 Desktop Chipset H510 및 Intel 이더넷 칩셋 i211AT의 재고는 고갈되고 있습니다. 칩셋의 단종 부품(EOL)은 이미 발표되었으며 마지막 제품 단종 날짜는 2022년 4월이었습니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -793,7 +1014,8 @@
     "subheading": "제조업체들이 수요를 늘리기 위한 선택지를 모색하고 있으므로 네트워크 어댑터 카드 공급은 계속해서 양호한 상태를 유지함",
     "text": "Mellanox의 경우 최고 인기 모델은 MCX-5 및 MCX-6 시리즈였습니다. MCX-4 시리즈는 단종 부품 상태로 가고 있으므로 현재는 수요가 적습니다. 그 결과 공급이 감소되었습니다. 이전에 누적된 예약 초과와 수요 둔화로 인해 모든 시리즈에 대한 전반적인 공급은 양호하며 공급 부족의 징후는 없습니다.",
     "detected_vendors": [
-      "Mellanox"
+      "Mellanox",
+      "Nvidia"
     ],
     "detected_keywords": [
       "EOL",
@@ -833,7 +1055,9 @@
     "section_raw": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
     "subheading": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
     "text": "시리즈 칩셋에 대한 EOL 공지는 여전히 이전 세대 제품을 사용하는 고객에게 최신 제품으로 전환하도록 간접적으로 강요합니다. 또한 10세대 Comet Lake 데스크톱 CPU를 사용하는 사람들도 최신 기술로 전환하고 있습니다. 이는 10세대에 대한 EOL 공지가 아직 보류 중일 것으로 예상하기 때문입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -851,10 +1075,30 @@
     "section_raw": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
     "subheading": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
     "text": "EOL 공지에 따라 영향을 받는 칩셋, 특히 H510 칩셋과 같은 500 시리즈 칩셋에 대한 수요가 증가했습니다. 결과적으로 EOL 공지로 인해 이러한 부품이 부족해졌고 12세대 Alder Lake 및 노트북 CPU에 대한 오픈 마켓 활동이 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "EOL",
       "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
+    "subheading": "Intel, EOL 발표를 활용하여 고객에게 최신 기술 제공",
+    "text": "또한 Intel은 PC 고객을 대상으로 10세대 Comet Lake에 적용되는 특가를 없애고 12세대 Alder Lake의 비용을 20% 인하하여 가격을 조정하고 있습니다. 이러한 가격 책정 변경은 고객이 최신 제품으로 전환하도록 장려하는 전략의 일부입니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -882,9 +1126,9 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
@@ -967,7 +1211,9 @@
     "section_raw": "CPU",
     "subheading": "Intel의 EOL 발표, 오픈 마켓 활동에 박차",
     "text": "단, EOL 발표로 대부분의 고객이 해당 CPU를 급히 사들이며, 오픈 마켓 활동이 활발해졌습니다. 주로 IPU 및 NON-IPU 버전의 i3, i5, i7 시리즈 문의가 많습니다. 가격은 상승세에 있으며, 재고는 바닥나고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -987,7 +1233,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -1005,7 +1252,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -1090,7 +1338,9 @@
     "section_raw": "CPU",
     "subheading": "Intel, 수요 변동 속 공인 유통업체에 묶음 상품 제공",
     "text": "11세대 Tiger Lake 모바일 CPU의 오픈 마켓 가격은 하락하고 있습니다. 해당 CPU는 6월에 단종되었지만, 수요 및 거래는 최근에 와서야 줄었습니다. 분기 말이 다가옴에 따라 몇몇 분야에 대한 공급 집중은 완화되었지만 현물 수요는 최소 수준에 불과했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -1155,6 +1405,24 @@
   },
   {
     "year": 2023,
+    "month": 11,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU",
+    "subheading": "EOL 공지로 인해 CPU 시장의 가격 및 가용성에 변동 발생",
+    "text": "AMD 측의 경우, Ryzen Threadripper Pro 7000 시리즈는 여전히 제한된 수량만 판매되고 있습니다. 연말과 2024년에 대한 예측이 구체화되면서 향후 몇 달 내에 가격 및 공급이 더욱 명확해져 가시성이 높아질 것입니다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
     "month": 12,
     "category": "IC",
     "detected_categories": [
@@ -1182,6 +1450,7 @@
     "subheading": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
     "text": "Intel 노트북 CPU에 대한 관심은 11세대 Tiger Lake CPU 현물 수요에 집중되어 있으며 대부분은 수리업체 고객입니다. 최근 제조업체에서 인기 i5~1135G7(SRK05)에 대한 할당을 일부 풀었으나 수요는 예상보다 낮았습니다. 해당 단종(EOL) 시리즈의 마지막 단종 배송은 12월 말이며, 유통업체의 판매 촉진 노력에 따라 가격은 하락 추세에 있습니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -1235,9 +1504,14 @@
     "section_raw": "하드웨어",
     "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "제한 확대 및 A100 및 A800 80GB PCIe GPU 단종(EOL) 발표로 Tesla GPU 시리즈의 수요가 증가했습니다. 단종(EOL) 제품의 마지막 배송은 2024년 말이 될 것으로 보이므로 새해에는 대체 상품에 대한 수요가 밀려오는 추세를 보일지도 모릅니다. GPU 중 영향을 받은 시리즈의 시장 가격은 상승할 것으로 기대됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Nvidia"
+    ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Geopolitics / Sanctions"
     ],
     "risk_level": "High"
   },
@@ -1263,14 +1537,17 @@
     "month": 1,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "가격 인상에 따라 모든 제조업체의 1분기 SSD 할당 미지수",
     "text": "이러한 추세는 결과적으로 지난 분기 이후 비용이 15~20% 상승하며 전체 제조업체 가격에 영향을 미쳤습니다. 가격이 매주 계속 상승하면서, 고객들은 가능한 영역에서 비용을 절약하기 위해 적극적으로 비용 효율적 대안을 찾고 있습니다. 이에 따라 일반적으로 가격이 더 낮은 단종(EOL) 시리즈 및 구형 모델의 수요가 증가했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "Allocation",
+      "EOL",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -1477,7 +1754,8 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Decrease"
     ],
     "risk_level": "High"
   },
@@ -1597,10 +1875,103 @@
     ],
     "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
     "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "text": "제조사들은 매달 가격 인상을 진행하고 있으며, 1차 OEM들은128GB DDR5 RDIMMs에 대해 분기별로 두 자릿수 비율의 가격 상승을 보고하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "text": "DDR4의 최종 구매 가능 기간은 6월 말로 종료될 예정이며, 조달팀은 재고 확보에 속도를 내고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "text": "DDR4 모듈의 리드 타임은 10~14주로 줄었지만, 마감일이 다가오면서 공급은 더 악화될 것으로 보입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
+    "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
     "text": "DDR4는 시장에서 생산 종료(EOL)로 인해 가격이 크게 상승할 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 카드 지속적인 부족 및 EOL 공지",
+    "subheading": "네트워킹 카드 지속적인 부족 및 EOL 공지",
+    "text": "멜라녹스 CX7 시리즈 NIC 카드는 이란-이스라엘 분쟁으로 인한 원자재 부족으로 인해 배송 지연이 발생하고 있습니다. 리드 타임은 현재 2025년 9월에서 11월로 변경되었습니다.",
+    "detected_vendors": [
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1618,6 +1989,7 @@
       "Intel"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -1634,6 +2006,7 @@
     "text": "H100 80GB 및 94GB 모델은 EOL(생산 종료)에 접어들었으며, 가용성은 제한적입니다. H100 94GB는 리드 타임이 4~6주입니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Lead Time"
     ],
@@ -1651,6 +2024,7 @@
     "text": "EOL A100 80GB를 둘러싼 품질 우려와 거래 활동 증가가 지속되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Quality / Defect"
     ],
@@ -1715,6 +2089,49 @@
   {
     "year": 2025,
     "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "Other"
+    ],
+    "section_raw": "리드타임 증가 및 EOL 통보",
+    "subheading": "리드타임 증가 및 EOL 통보",
+    "text": "AMD의 Genoa 및 Turin 리드타임은 전반적으로 8주에서 20주 이상으로 전망됩니다. 9554와 같은 고코어 SKUs의 배정은 극도로 타이트하며 가격 인상도 확인되었습니다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "Other"
+    ],
+    "section_raw": "리드타임 증가 및 EOL 통보",
+    "subheading": "리드타임 증가 및 EOL 통보",
+    "text": "인텔의 10nm 생산(12~14세대 데스크톱 및 일부 서버 CPU에 영향)은 여전히 제약 상태이며 ETA는 4분기로 미뤄졌습니다. 소형 코어 CPU(N 시리즈)는 심각한 부족 상태로 현물가가 급등하고 있습니다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 9,
     "category": "Other",
     "detected_categories": [
       "Other"
@@ -1726,7 +2143,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -1743,7 +2161,29 @@
     "text": "공식적인 EOL 통보 없지만, 유통업체와 사용자들은 널리 RTX PRO 6000을 후속 제품으로 인식하고 있어 L40S 시리즈가 단종에 가까워지고 있음을 시사합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
       "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "EOL 통보 및 리드타임 연장",
+    "subheading": "EOL 통보 및 리드타임 연장",
+    "text": "Seagate와 WD 모두 10% 가격 인상이 진행되고 있으며, 20TB 이상 드라이브의 리드타임은 이제 2026년까지 이어지고 있습니다.",
+    "detected_vendors": [
+      "Seagate",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -1801,7 +2241,8 @@
     "detected_keywords": [
       "Allocation",
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1920,7 +2361,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL"
+      "EOL",
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -1946,8 +2389,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -1956,6 +2400,64 @@
     "detected_vendors": [],
     "detected_keywords": [
       "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다.",
+    "detected_vendors": [
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Broadcom은 현재의 52주 리드타임이 시작에 불과하며, 3/5/7nm 생산 능력 부족으로 2027년에는 공급 제약이 더욱 심화될 것이라고 경고했습니다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Coherent(Finisar)는 400G/800G 트랜시버의 리드타임을 6개월 연장했으며, 일부 자재는 2028년까지의 공급 일정으로만 확보된 상태입니다. 말레이시아 및 중국 생산 시설은 신규 주문을 적극적으로 제한하고 있습니다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -2014,7 +2516,69 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox ConnectX-7 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사하다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능하다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Broadcom은 현재 52주 리드타임이 시작에 불과하며, 3/5/7nm 생산 부족으로 2027년에는 더 악화될 것이라고 경고했다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Coherent(Finisar)는 400G/800G 트랜시버 리드타임을 6개월 연장했으며 일부 소재는 2028년까지 지연되고 있다. 말레이시아 및 중국 생산은 신규 주문을 제한하고 있다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -2050,6 +2614,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -2057,8 +2622,9 @@
   {
     "year": 2026,
     "month": 4,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -2071,6 +2637,47 @@
       "Allocation",
       "EOL",
       "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Broadcom 카드의 리드타임은 현재 최대 52주까지 늘어났으며, 3/5/7nm 생산 능력 부족으로 2027년에는 제약이 더욱 심화될 전망입니다. SS24/SS26 시리즈 스위치는 AI 인프라 수요가 생산 능력을 소진하면서 공급 부족이 임박한 상황입니다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2151,7 +2758,8 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2169,7 +2777,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2187,6 +2796,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -2220,6 +2830,82 @@
     "section_raw": "스토리지 2028년까지 완판",
     "subheading": "스토리지 2028년까지 완판",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "NVIDIA/Mellanox ConnectX-6 100G NIC 리드타임은 약 30주로 연장되었으며, NVIDIA가 ConnectX-8 생산을 우선시하고 하이퍼스케일러 고객을 차세대 플랫폼으로 전환함에 따라 납품 약속 철회 위험이 증가하고 있다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Broadcom은 현재의 52주 리드타임이 \"시작에 불과하다\"고 경고하며, 3/5/7nm 생산 능력 부족으로 2027년에는 공급 제약이 더욱 심화될 것이라고 밝혔습니다. SS24/SS26 시리즈 스위치는 AI 인프라 수요가 생산 능력을 소진하면서 공급 부족이 임박한 상황입니다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Coherent(Finisar)는 400G/800G 트랜시버 리드타임을 6개월 연장했으며 일부 소재는 2028년까지 지연되고 있다. 말레이시아 및 중국 생산은 신규 주문을 제한하고 있다.",
+    "detected_vendors": [
+      "Coherent"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "H200의 중국 수출 통제가 지속되면서 MCX75310AAS-NEAT와 같은 규제 준수 인터커넥트의 현물 시장 변동성이 이어지고 있다. 중국 유통사들은 규제 명확성이 확보될 때까지 해당 모델의 재고 확보를 보류하고 있다.",
     "detected_vendors": [],
     "detected_keywords": [
       "EOL"
@@ -2282,7 +2968,8 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2301,7 +2988,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2319,6 +3007,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Price Increase"
     ],
@@ -2420,6 +3109,7 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL"
     ],
     "risk_level": "High"
@@ -2427,8 +3117,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -2449,8 +3140,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -2462,6 +3154,48 @@
     "detected_keywords": [
       "EOL",
       "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox ConnectX-7/8의 리드타임은 여전히 20~24주 이상을 유지하고 있다. NVIDIA는 CX8 NIC를 GB 시리즈 GPU와 독점 번들 형태로 공급하고 있어, 단독 구매는 사실상 불가능한 상황이다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Broadcom은 2026년 7월 1일부터 HBA 및 RAID 컨트롤러에 대해 5~20% 가격 인상을 시행했다. 리드타임은 52주까지 확대되고 있으며, Dell은 Broadcom 칩 공급 제약으로 인해 400G/800G 트랜시버에서 심각한 공급 부족이 발생하고 있다고 보고했다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -2540,6 +3274,7 @@
       "Nvidia"
     ],
     "detected_keywords": [
+      "Allocation",
       "EOL",
       "Lead Time"
     ],
@@ -2560,6 +3295,24 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 유동적 가격 책정 및 단종 확산",
+    "subheading": "메모리 유동적 가격 책정 및 단종 확산",
+    "text": "DDR5 RDIMM의 비하이퍼스케일러 대상 공급 충족률은 여전히 30% 미만입니다. 64GB 모듈의 현물 가격은 통상 3,100달러를 넘고 있으며, 계약 가격은 전월 대비 8~10%씩 계속 상승하고 있습니다. Samsung은 2026년 하반기에 5600MHz 제품보다 6400MHz 제품의 생산 비중을 전략적으로 확대하고 있습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
       "EOL"
     ],
     "risk_level": "High"
@@ -2609,6 +3362,26 @@
   {
     "year": 2026,
     "month": 8,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 유동적 가격 책정 및 단종 확산",
+    "subheading": "메모리 유동적 가격 책정 및 단종 확산",
+    "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
     "category": "Storage",
     "detected_categories": [
       "Storage"
@@ -2620,6 +3393,48 @@
       "Seagate",
       "Toshiba",
       "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다.",
+    "detected_vendors": [
+      "Broadcom",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다. AI 인프라 수요가 가용 생산 능력의 상당 부분을 흡수하고 있습니다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
     ],
     "detected_keywords": [
       "EOL",

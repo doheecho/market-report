@@ -34,6 +34,24 @@
     "risk_level": "Medium"
   },
   {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Renesas, 계속 리드 타임 연장 문제 계속 직면",
+    "subheading": "Renesas, 계속 리드 타임 연장 문제 계속 직면",
+    "text": "자동차 부품의 경우 리드 타임이 12~16 주에서 최대 20주로 늘었습니다.",
+    "detected_vendors": [
+      "Renesas"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
     "year": 2021,
     "month": 1,
     "category": "IC",
@@ -49,14 +67,17 @@
       "Renesas",
       "STMicroelectronics"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
     "month": 1,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "MCU, 자동차 수요로 인해 비용 및 리드 타임 상승에 직면",
@@ -138,8 +159,10 @@
     "detected_vendors": [
       "Renesas"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -154,8 +177,10 @@
     "detected_vendors": [
       "Renesas"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -191,6 +216,7 @@
       "Renesas"
     ],
     "detected_keywords": [
+      "Natural Disaster / Incident",
       "Shortage"
     ],
     "risk_level": "High"
@@ -225,6 +251,42 @@
     "section_raw": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
     "subheading": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
     "text": "일본에 있는 Renesas 공장 두 곳이 1분기에 두 차례 지진의 영향을 받았습니다. 피해 평가를 위한 작업 중단으로 인한 생산 지연으로 생산량이 감소했습니다. 3월 16일 발생한 지진의 진원지 근처에 위치한 공장 세 곳은 나카 공장, 타카사키 공장, 요네자와 공장입니다.",
+    "detected_vendors": [
+      "Renesas"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
+    "subheading": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
+    "text": "이후 모든 공장이 조업을 재개했지만 그에 따른 부작용을 피할 수는 없었습니다. 나카 공장에서 생산 중인 반제품의 일부가 훼손되었습니다. 약 2주치의 200mm(8인치) 웨이퍼 팹 라인 생산 및 약 3주치의 300mm(12인치) 라인에 대해 미완성 제품이 파손되고 생산 계정이 감소한 데 따른 손실이 발생했습니다.",
+    "detected_vendors": [
+      "Renesas"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
+    "subheading": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
+    "text": "손실 측면에서, 타카사키 공장은 약 10일 간 생산이 중단되었고, 요네자와 공장에서는 이틀치에 해당하는 생산량이 손실되었습니다.",
     "detected_vendors": [
       "Renesas"
     ],
@@ -454,7 +516,8 @@
       "Renesas"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -472,7 +535,8 @@
       "Renesas"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -549,7 +613,8 @@
       "Renesas"
     ],
     "detected_keywords": [
-      "Natural Disaster / Incident"
+      "Natural Disaster / Incident",
+      "Price Increase"
     ],
     "risk_level": "High"
   },

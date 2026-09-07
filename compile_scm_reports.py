@@ -217,10 +217,13 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
         if "The Greensheet" in body_text or "제공된 정보는" in body_text:
             continue
 
-        vendors, keywords = analyze_paragraph(body_text)
+        # Data Inheritance: Combine section and subheading context into a unified search string
+        combined_context = f"{current_section} | {current_subheading} | {body_text}"
+        
+        vendors, keywords = analyze_paragraph(combined_context)
         category_raw = map_category_user(current_section, user_cat_map)
 
-        detected_categories = analyze_categories_for_paragraph(body_text, category_raw)
+        detected_categories = analyze_categories_for_paragraph(combined_context, category_raw)
         category = detected_categories[0] if detected_categories else "기타"
 
         risk_level = calculate_risk_level(keywords)

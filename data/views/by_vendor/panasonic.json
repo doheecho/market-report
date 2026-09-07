@@ -48,11 +48,31 @@
     ],
     "section_raw": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
+    "text": "센서, 마이크로컨트롤러, 전력 관리 시스템, MOSFET, 다이오드 및 무선 주파수 장치와 같은 제품이 영향을 받게 됩니다. 커패시터 및 인덕터와 같은 수동 소자 는 인수 대상이 아닙니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
+    "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "text": "이와는 별개로, 현재 전반적으로 대량의 Panasonic 알루미늄 커패시터 공급 부족 사태가 빚어지고 있는데, 다음 분기까지도 이 문제가 지속할 것으로 예상합니다.",
     "detected_vendors": [
       "Panasonic"
     ],
     "detected_keywords": [
+      "M&A",
       "Shortage"
     ],
     "risk_level": "High"
@@ -63,7 +83,8 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "타격을 입는 MLCC 생산",
     "subheading": "타격을 입는 MLCC 생산",
@@ -126,7 +147,8 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -260,6 +282,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -278,6 +301,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -296,6 +320,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -315,6 +340,8 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
+      "Lead Time",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -350,6 +377,7 @@
       "Panasonic"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Price Increase"
     ],

@@ -1,5 +1,42 @@
 [
   {
+    "year": 2021,
+    "month": 8,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "Kioxia 메모리 생산량 감소",
+    "subheading": "Kioxia 메모리 생산량 감소",
+    "text": "계속되는 공급 부족과 원자재 생산 가격 상승 때문에, 유통업체들은 다음 분기의 메모리 가격이 10% 상승할 것이라는 소식을 들었습니다. 생산 라인에서 향후 버전의 생산을 준비함에 따라 현재 메모리 제품의 생산 물량 감소도 예상됩니다.",
+    "detected_vendors": [
+      "Kioxia"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "Kioxia 메모리 생산량 감소",
+    "subheading": "Kioxia 메모리 생산량 감소",
+    "text": "메모리의 리드 타임이 38~40주로 늘었고 3분기에 발주되는 주문에 따른 압박이 이미 가중되고 있습니다. 따라서 수요와 공급의 변동을 세심히 모니터링해야 할 것입니다.",
+    "detected_vendors": [
+      "Kioxia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
     "year": 2022,
     "month": 3,
     "category": "Memory",
@@ -111,9 +148,10 @@
       "Kioxia"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -282,8 +320,9 @@
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",

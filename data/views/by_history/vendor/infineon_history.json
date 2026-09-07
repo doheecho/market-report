@@ -1,6 +1,6 @@
 {
   "vendor": "Infineon",
-  "total_milestones": 41,
+  "total_milestones": 51,
   "history": [
     {
       "date": "2020.04",
@@ -45,6 +45,16 @@
       "risk_level": "Low",
       "summary": "아직 작업을 재개하지 못한 Infineon",
       "text": "Infineon Technologies도 텍사스 폭풍의 영향을 받았으며 아직도 작업 재개하지 못하고 있습니다. 이로 인해 Cypress NOR 플래시 메모리 칩과 MCU의 공급에 훨씬 더 많은 부담이 가중되었습니다."
+    },
+    {
+      "date": "2021.04",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "아직 작업을 재개하지 못한 Infineon",
+      "text": "많은 주요 제조업체가 개선책을 찾지 못하고 있어 시장에 혼란이 빚어지고 있습니다. 이는 고객이 충분한 물량을 공급받도록 하기 위해 할당량 확보에 나서고 부품을 이중으로 예약하는 행태로 나타났습니다."
     },
     {
       "date": "2021.06",
@@ -119,6 +129,36 @@
       "text": "MOSFET에 대한 수요 감소와 더불어 Infineon의 생산 증가는 지금까지 높은 수요와 최소 공급의 불균형으로 힘들어 했던 고객들에게 좋은 소식입니다. 하지만 모든 시리즈가 그렇지는 않습니다."
     },
     {
+      "date": "2022.07",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "분기로 접어들면서 완화된 Infineon의 MOSFET 상황",
+      "text": "산업용 부품의 경우 여전히 수요가 높으며, 특히 IRFxxx와 IPDxxx는 여전히 부족합니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "마찬가지로 차량 실내 분위기 조명에 주로 사용되는 Melexis의 MLX811은 자동차 고객의 계속적인 수요 증가에 따라 가용성이 제한되고 있습니다. 현재로서는 납기 일정이나 정확한 리드 타임을 확인하기 어렵고 주문을 지원하는 재고 물량도 없는 상태입니다. 이 시리즈들에 대한 리드 타임은 현재 52주로 연장되었습니다."
+    },
+    {
       "date": "2022.10",
       "category": "IC",
       "detected_categories": [
@@ -129,6 +169,36 @@
       "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU"
     },
     {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "대조적으로 Microchip MCP 시리즈는 생산으로 재고 수준이 보충됨에 따라 리드 타임이 단축되었습니다. PIC12와 16 시리즈의 리드 타임은 8~12 주로 개선된 반면, PIC24와 25 시리즈는 20주를 상회하여 시장에서 여전히 공급이 부족한 상태입니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "공급이 지연될 확률은 여전히 높으며 고객은 적체되는 주문을 취소할 수 있다는 통지를 받고 있지만 생산 일정의 지연에 대한 영향을 피할 수는 없어 보입니다."
+    },
+    {
       "date": "2022.11",
       "category": "Other",
       "detected_categories": [
@@ -137,6 +207,17 @@
       "risk_level": "High",
       "summary": "Infineon 및 NXP에 대한 공급 여전히 부족",
       "text": "자동차 부문 및 산업용 로봇 공학 제조에 많이 활용되는 Infineon SAK/TC27 시리즈에 필요한 생산 자재의 가용성은 계속 부족한 상태입니다. 이러한 상황은 2023년 2분기까지 계속될 것으로 예상되며, 가격은 높은 수준을 유지할 가능성이 큽니다. 현재 이들 제품의 표준 리드 타임은 40~50주로 일정하게 유지되고 있습니다."
+    },
+    {
+      "date": "2022.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "Infineon 및 NXP에 대한 공급 여전히 부족",
+      "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다."
     },
     {
       "date": "2023.02",
@@ -169,12 +250,32 @@
       "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다."
     },
     {
+      "date": "2023.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "우시 화재로 Infineon과 Vishay에 영향",
+      "text": "Vishay의 SQ 생산은 약간의 영향을 받았지만 시장에 미치는 영향은 그다지 크지 않을 것입니다. Vishay의 MOSFET, 특히 SIxxx 및 SUxxx 시리즈가 가장 큰 영향을 받았습니다. 시장은 4월까지 생산 차질의 여파를 체감하겠지만, 제조업체의 수주 잔량이 이미 제약을 받고 있어 향후 인도 여부를 판단할 수 없습니다."
+    },
+    {
+      "date": "2023.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "우시 화재로 Infineon과 Vishay에 영향",
+      "text": "Vishay는 수요를 충족하기 위해 새로운 도금 공장을 재지정할 계획입니다. 4월까지 전환이 완료되겠지만 생산을 시작하려면 추가로 5개월이 더 소요될 것으로 예상됩니다."
+    },
+    {
       "date": "2023.07",
       "category": "IC",
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "Cypress의 생산 능력 문제 및 리드 타임 장기화 지속",
       "text": "2021년 Infineon이 Cypress 인수를 완료했을 때, 팬데믹에 따른 어려움이 계속되어 제조가 정상 수준에 미치지 못하고 있었습니다. 해당 인수의 초기 의도는 Infineon을 자동차 산업을 위한 최대 칩 생산업체로 만들고, 증가하는 사물인터넷(IoT) 시장의 필요성을 지원하는 것이었습니다."
     },
@@ -233,7 +334,8 @@
       "date": "2023.09",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Storage"
       ],
       "risk_level": "Medium",
       "summary": "MOSFET 리드 타임 지연이 자동차, 신에너지 및 스토리지 산업에 미치는 영향",
@@ -245,7 +347,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "초과 공급이 IC 시장에 영향을 미치는 반면 IGBT 공급 부족은 지속",
       "text": "지난 한 달 동안 Infineon은 특정 고전압 MOSFET의 제약을 겪었고 이에 따라 배송 기간이 연장되었습니다. 대신 소비자 시장의 수요 감소에 따라 제조업체에서 초과 재고를 관리하면서 저전압 MOSFET의 공급은 꾸준히 개선되었습니다. 수요 변화로 인해 Infineon에서 생산 능력을 전환해 고전압 MOSFET 지원을 확대할 수 있었고 공급은 현재 안정화되었습니다."
     },
@@ -316,7 +418,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "집적 회로 지속되는 부족과 수요 변화",
       "text": "Infineon의 SiC MOSFETs와 고전압 IGBT는 EV 및 산업 수요가 강세이며, AI/자동차 성장으로 리드 타임 압박이 지속됩니다."
     },
@@ -326,7 +428,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "집적 회로 지속되는 부족과 수요 변화",
       "text": "Infineon의 BTT/BTS 전력 IC는 7월 중순까지 리드 타임이 안정될 것으로 보います."
     },

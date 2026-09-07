@@ -14,8 +14,10 @@
       "Seagate",
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2020,
@@ -126,6 +128,27 @@
   },
   {
     "year": 2022,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "2년 이상 연장된 Toshiba 부품 리드 타임",
+    "subheading": "2년 이상 연장된 Toshiba 부품 리드 타임",
+    "text": "그 대신 공식 유통업체가 할당량을 풀면서 Analog Devices ADUM 시리즈에 대한 시장 공급 압박이 완화되고 있습니다. 또한 STMicro는 약 6개월~1년 사이의 MOSFET 및 다이오드 리드 타임으로 안정적이며, 유통업체들은 주요 공급 중단이 일어날 것이라고는 예측하지 않습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Toshiba"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
     "month": 10,
     "category": "IC",
     "detected_categories": [
@@ -165,6 +188,24 @@
   {
     "year": 2022,
     "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
+    "subheading": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
+    "text": "그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Toshiba"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 10,
     "category": "IC",
     "detected_categories": [
       "IC",
@@ -176,8 +217,10 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -211,8 +254,10 @@
       "Onsemi",
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -268,8 +313,11 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -285,9 +333,10 @@
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -323,9 +372,10 @@
       "Toshiba"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -341,6 +391,7 @@
       "Toshiba"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -360,9 +411,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -400,7 +453,9 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   }

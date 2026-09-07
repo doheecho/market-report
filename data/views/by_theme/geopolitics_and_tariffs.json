@@ -29,9 +29,10 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
+      "Shortage",
       "Tariff"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -47,6 +48,7 @@
       "AMD"
     ],
     "detected_keywords": [
+      "Allocation",
       "Tariff"
     ],
     "risk_level": "Medium"
@@ -58,7 +60,8 @@
     "detected_categories": [
       "CPU",
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -76,7 +79,8 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -111,6 +115,24 @@
   {
     "year": 2022,
     "month": 4,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드 드라이브 제조업체, 더 높아진 물류비 및 제재 탐색",
+    "subheading": "하드 드라이브 제조업체, 더 높아진 물류비 및 제재 탐색",
+    "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 4,
     "category": "CPU",
     "detected_categories": [
       "CPU",
@@ -119,7 +141,9 @@
     "section_raw": "국제적 사건의 영향을 받은 Intel 서버 CPU 가격 및 공급",
     "subheading": "국제적 사건의 영향을 받은 Intel 서버 CPU 가격 및 공급",
     "text": "2개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다. 미국과 다른 국가들은 러시아에 상업용 전자 기기, 항공기 부품, 반도체 등의 수출을 봉쇄하는 제재를 가하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [
       "Geopolitics / Sanctions"
     ],
@@ -161,8 +185,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
@@ -199,6 +224,7 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC",
       "Other"
     ],
     "section_raw": "하드웨어",
@@ -242,6 +268,22 @@
     ],
     "section_raw": "IC",
     "subheading": "수출 제한 조치가 반도체 제조에 미칠 수 있는 영향",
+    "text": "갈륨과 게르마늄은 레이더 시스템 분야에서 이를 필요로 하는 방위 산업을 비롯해 여러 산업에 있어 필수적입니다. 또한 그린 에너지 산업에서도 태양광 패널과 절전형 LED 조명에 사용됩니다. 무엇보다도 갈륨과 게르마늄은 기판을 만드는 데 사용되므로 반도체 제조에 특히 필수입니다. 기판은 특정 반도체 칩을 제조하는 데 사용되는 중요한 재료로 트랜지스터, 태양 전지, 적외선 검출기 제조에 사용됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "수출 제한 조치가 반도체 제조에 미칠 수 있는 영향",
     "text": "수출 제한으로 인해 이러한 기판의 가용성 및 비용이 영향을 받으면 전 세계적으로 칩 제조업체 공급망에 차질이 생길 수 있습니다. 고객들은 이미 일부 제조업체가 특정 상황에서 리드 타임이 지연되는 원인에 대한 설명의 일부로 이러한 제한 조치를 들기 시작했다고 전했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -249,6 +291,91 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
+    "text": "최근 미국 정부는 중국으로의 GPU 수출 금지 대상을 변경했습니다. 11월 중순 해당 조치가 발효되며 이전까지는 해당하지 않았던 NVIDIA, AMD, Intel의 GPU가 영향을 받고 있습니다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
+    "text": "RTX 6000, RTX 4090, A30, A40, L4, RTX A6000 (Ampere), DGX, HGX 시스템 및 A100, A800, H100, H800, L40, L40S 등의 NVIDIA 제품이 최근 금지 대상에 올랐습니다. 또한 AMD의 MI250, MI300, Intel의 Gaudi 2 칩도 포함됐습니다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
+    "text": "제한 확대 및 A100 및 A800 80GB PCIe GPU 단종(EOL) 발표로 Tesla GPU 시리즈의 수요가 증가했습니다. 단종(EOL) 제품의 마지막 배송은 2024년 말이 될 것으로 보이므로 새해에는 대체 상품에 대한 수요가 밀려오는 추세를 보일지도 모릅니다. GPU 중 영향을 받은 시리즈의 시장 가격은 상승할 것으로 기대됩니다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Geopolitics / Sanctions"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "GPU: 수요에 영향을 미칠 것으로 예상되는 중국산 제품에 대한 미국 관세",
+    "text": "AI GPU는 RTX 40 시리즈, A100 및 H100의 가격이 여전히 높은 반면 공급은 계속 제한되는 등 수요 추세를 주도하고 있습니다.반면, 워크스테이션 GPU 수요는 안정된 상태를 유지하고 있습니다. 제조사들은 곧 있을 가격 조정으로 인해 필요한 수요가 증가할 것으로 기대하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Production Cut",
+      "Shortage",
+      "Tariff"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -262,6 +389,50 @@
     "subheading": "GPU: 수요에 영향을 미칠 것으로 예상되는 중국산 제품에 대한 미국 관세",
     "text": "또한 중국에서 미국으로 제품을 수입하는 기업에 대한 GPU 관세 면제는 5월 31일부로 종료되었습니다. 2025년에 발효될 새로운 관세는 비용 증가로 인해 수요에 영향을 미칠 것으로 예상됩니다. 이러한 변화에 따라 벌써부터 RTX 40 시리즈에 대한 문의가 증가할 것으로 예상됩니다.",
     "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage",
+      "Tariff"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "GPU: 신제품과 관세 발표에도 불구하고 변동성을 보이는 GPU 시장",
+    "text": "공급 및 예약 리드 타임이 개선되면서, 최근 GPU 시장은 주로 게이밍 및 워크스테이션 시리즈 수요에서 약간의 감소세를 보이고 있습니다. 하지만 NVIDIA의 A100 및 H100과 같은 AI GPU에 대한 수요는 여전히 견고하며 제한된 할당으로 인해 공급 출처를 확보하는 것이 어려운 상황입니다. 이러한 GPU의 높은 비용과 희소성으로 인해 제조업체는 독립형 GPU보다는 완전히 조립된 서버를 고객에게 제공하는 것을 선호합니다. 이 전략은 제조업체의 통제 아래 공급과 가격을 유지함으로써 오픈 마켓에서의 가용성을 제한합니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Tariff"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "GPU: 신제품과 관세 발표에도 불구하고 변동성을 보이는 GPU 시장",
+    "text": "다른 GPU 소식으로는 NVIDIA에서 차세대 AI 칩 플랫폼인 Rubin을 2026년에 출시한다고 밝혔습니다. Rubin은 GPU, CPU, 네트워킹 칩을 통합할 예정이지만 현재는 신제품에 대한 세부 정보가 제한적입니다. NVIDIA의 CEO인 Jensen Huang은 COMPUTEX 무역 박람회에서 이러한 개발 사항을 소개하며 매년 AI에 초점을 맞춘 새로운 칩 제품군을 발표하겠다는 회사 의사를 밝혔습니다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
     "detected_keywords": [
       "Tariff"
     ],

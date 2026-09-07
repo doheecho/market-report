@@ -13,9 +13,10 @@
       "Infineon"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -29,9 +30,10 @@
     "text": "전력 관리 집적 회로(PMIC)도 재고 조정이 예상보다 오래 지속되며 비슷한 추세를 보였으며 리드 타임은 단축되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -46,9 +48,10 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -61,7 +64,8 @@
     "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
     "text": "Analog Devices는 20년 이상 지난 구형 시리즈에 속하는 MPN 가격 인상을 시행할 계획이라고 발표했습니다. 가격은 20% 인상될 것이며, 일부 제품은 그 이상 변동할 가능성도 있지만, 자세한 사항은 아직 최종적으로 결정된 것은 아닙니다.",
     "detected_vendors": [
-      "Analog Devices"
+      "Analog Devices",
+      "Lattice"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -78,7 +82,10 @@
     "section_raw": "IC",
     "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
     "text": "그러나 주로 대부분의 응용 분야에서 증폭기를 사용하는 공통 부품을 대상으로 가격 조정을 시행할 가능성이 높습니다. 이러한 제품의 경우 특정 사용 사례로 인해 대안이 제한적이며, 적용할 다른 부품을 찾지 못한 고객들은 더 높은 가격을 지불할 수밖에 없을 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices",
+      "Lattice"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -95,6 +102,7 @@
     "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
     "text": "Lattice 역시 2024년에 시행할 예정인 시장 장수 제품의 7.5% 가격 인상에 관해 최종 고객을 대상으로 천천히 안내하고 있습니다. 이러한 발표에는 최소 10년 이상 출하된 모든 제품이 해당됩니다. Silicon Image 라인의 일부인 SIxxx 시리즈 및 Lattice 4000 시리즈이 여기에 포함됩니다.",
     "detected_vendors": [
+      "Analog Devices",
       "Lattice"
     ],
     "detected_keywords": [
@@ -112,9 +120,14 @@
     "section_raw": "IC",
     "subheading": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
     "text": "해당 가격 변동은 1월 29일부터 적용되며 해당일 또는 그 이후에 고객에게 배송되는 모든 상품이 영향을 받을 것으로 보음니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Analog Devices",
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -240,14 +253,16 @@
     "month": 1,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "가격 인상에 따라 모든 제조업체의 1분기 SSD 할당 미지수",
     "text": "제조업체에서는 매주 할당을 업데이트하고 있으며 이는 미래를 제한적으로만 예측할 수 있음을 의미합니다. 각 업체에서는 생산 능력으로 증가한 수요를 충족하기 위해 노력하고 있습니다. 현재 할당은 고객 예측의 10~20%만 충족합니다. 이러한 상황으로 인해 수급 불균형이 증가하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -264,6 +279,8 @@
     "text": "NVMe 시리즈는 계속 가장 제한적입니다. SATA 시리즈도 제조업체의 NVMe 시리즈로의 생산 전환에서 직결되는 결과의 영향을 받고 있습니다. 모든 시리즈에 걸쳐 고용량 공급은 여전히 가장 부족합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -273,14 +290,17 @@
     "month": 1,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "가격 인상에 따라 모든 제조업체의 1분기 SSD 할당 미지수",
     "text": "이러한 추세는 결과적으로 지난 분기 이후 비용이 15~20% 상승하며 전체 제조업체 가격에 영향을 미쳤습니다. 가격이 매주 계속 상승하면서, 고객들은 가능한 영역에서 비용을 절약하기 위해 적극적으로 비용 효율적 대안을 찾고 있습니다. 이에 따라 일반적으로 가격이 더 낮은 단종(EOL) 시리즈 및 구형 모델의 수요가 증가했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL"
+      "Allocation",
+      "EOL",
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -313,8 +333,10 @@
     "subheading": "1분기 HDD 가격 인상 및 2분기 추가 조정",
     "text": "또한 공급업체는 고객 예측이 증가하기 시작했다는 내용을 공유했습니다. 그러나 제조업체에서는 HDD 시장 가격이 기대되는 수익성 수준에 도달하기 전까지 제조 부문 원자재 공급업체에 대한 주문량을 늘릴 계획이 없습니다. 전개되는 상황에 따라 제조 역량이 수요를 따라잡지 못하면 결국 공급은 상당한 대가를 치를 수 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -438,7 +460,8 @@
     "month": 2,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Storage"
     ],
     "section_raw": "메모리",
     "subheading": "SSD 제조사, 1분기 가격 공식 발표",
@@ -456,7 +479,8 @@
     "month": 2,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Storage"
     ],
     "section_raw": "메모리",
     "subheading": "스토리지 수요 증가로 NAND 플래시 시장 반등",
@@ -551,6 +575,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -560,7 +585,8 @@
     "month": 2,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "제조사의 HDD 가격 인상",
@@ -791,8 +817,10 @@
       "Onsemi",
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -822,7 +850,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "NXP, 고객에게  신제품 전환 장려",
     "text": "따라서 빠르게 전환할 수 없는 고객은 대안을 찾아야 할 수 있습니다. 제품의 AC 버전 수요가 있는 많은 고객은 여전히 AD 버전에 대한 승인을 받아야 합니다. 이에 고객들은 즉시 전환 또는 추가 재고 확보 사이에서 어떤 조치를 취할지 확신하지 못하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -980,7 +1010,9 @@
     "section_raw": "하드웨어",
     "subheading": "GPU 혁신의 주도를 이어나가는 Nvidia",
     "text": "회사의 다음번 대규모 출시인 H200 GPU는 2분기 말로 예정되었습니다. 해당 GPU에서는 대규모 언어 모델(LLM)을 위한 향상된 효율성, 컴퓨팅, 메모리를 제공할 것으로 보입니다. 보도에 따르면 현재 H100 GPU보다 두 배 높은 성능을 제공합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nvidia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1048,7 +1080,8 @@
     "subheading": "게이밍 산업에서 성장하는 Intel PC 시장",
     "text": "AMD의 시장 수요는 Ryzen 9 7950X 데스크톱 CPU에 집중되어 있습니다. 예정된 리드 타임은 최소 8주입니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Intel"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -1104,6 +1137,7 @@
     "subheading": "안정적인 수요 속에서 변함없이 지속되는 Intel과 AMD의 서버 CPU 경쟁",
     "text": "이와 대조적으로 Intel의 5세대 Emerald Rapids에 대한 시장 활동은 감소했습니다. 그러나 이는 고객들이 Cascade Lake에서 벗어나 전환하는 경우 바뀔 수 있습니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -1120,7 +1154,8 @@
     "subheading": "안정적인 수요 속에서 변함없이 지속되는 Intel과 AMD의 서버 CPU 경쟁",
     "text": "AMD의 경우 가장 수요가 높은 시리즈는 여전히 Milan과 Genoa 시리즈이며, 주로 EPYC 9554, EPYC 9654, Bergamo 시리즈 EPYC 9754입니다. EPYC 7643 및 EPYC 7713에 대한 수요는 일정 수준을 유지하고 있습니다. AMD 서버 CPU에 대한 공급은 일반적으로 안정적이며, 가격은 절충 가능한 수준입니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Intel"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1135,7 +1170,9 @@
     "section_raw": "IC",
     "subheading": "연장된 리드 타임으로 웨이퍼에 대한 독점 파트너십을 체결한 Analog Devices",
     "text": "전자 부품 생산에 필수적인 웨이퍼 공급의 제한 속에서 제조사들이 고군분투하고 있습니다. HMCxxx의 리드 타임은 20주에 달하지만 공급은 비교적 안정적입니다. 한편 Linear Tech 부품은 20주~30주의 리드 타임을 보이며 공급 확보에 보다 어려움을 겪고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1156,8 +1193,10 @@
       "Analog Devices",
       "TSMC"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -1187,9 +1226,13 @@
     "section_raw": "IC",
     "subheading": "50주 이상으로 연장된 Onsemi의 리드 타임",
     "text": "이러한 문제를 해결하기 위해 제조사에서는 해당 제조 시설 전략을 변경하여 소비재나 마진이 적은 제품에 대한 생산을 줄이고 있습니다. 증가하는 수요를 충족하기 위해 추가 지원이 자동차 및 산업 개발 쪽으로 이동하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -1202,7 +1245,9 @@
     "subheading": "가용 물량 증가로 PC 메모리 모듈 가격 인하",
     "text": "3월 이후 시장 활동이 둔화되면서 공급업체들이 높은 재고 수준을 낮추기 위해 추가 공급을 시행했습니다. 가용성이 증가하면서 메모리 하드웨어 가격이 약 2%~3% 하락하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -1216,7 +1261,9 @@
     "subheading": "가용 물량 증가로 PC 메모리 모듈 가격 인하",
     "text": "공급 과잉은 시장에서 지속적으로 우려했던 부분으로 향후 몇 개월간 모듈 가격이 더 하락할 수 있습니다. 제품 수요 환경에 대한 전망이 안정적이어서 PC 모듈 가격은 약세를 유지할 것으로 예측됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -1301,6 +1348,7 @@
       "SK하이닉스"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -1318,7 +1366,8 @@
     "text": "제조업체들이 하드웨어 부품 가격을 인상하면서 음력 설 이후 수요가 완만하게 유지되고 있습니다. 최종 고객들은 수요가 낮은 부품의 공급이 안정적이라고 보고하고 있습니다. 그러나 7.6T 이상의 고용량 SSD 할당은 제한적입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -1351,7 +1400,8 @@
     "text": "HDD 제조업체들도 추가 비용 조정을 준비하고 있지만 이번의 경우 5%~7% 범위 내 조정일 것으로 보입니다. 고용량 SAS 드라이브의 가격은 약 2% 상승했습니다. 현재 생산량이 수요를 충족할 수 없기에 예약 리드 타임이 길어지고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -1435,7 +1485,9 @@
     "section_raw": "CPU",
     "subheading": "비용 절감에 영향받는 Intel PC 시장과 각광받는 수리 주문 및 게이밍 CPU",
     "text": "일시적인 수요는 주로 고객 수리 주문에서 발생합니다. 이러한 추세로 인해 11세대 Tiger Lake 모바일 CPU와 같은 구형 시리즈에 대한 수요가 증가했습니다. 결과적으로 최신 시리즈에 비하면 공급이 제한적입니다. 코어 i3, i5, i7 시리즈의 IPU가 아닌 시리즈에 대한 거래가 가장 일반적입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1465,7 +1517,9 @@
     "section_raw": "CPU",
     "subheading": "비용 절감에 영향받는 Intel PC 시장과 각광받는 수리 주문 및 게이밍 CPU",
     "text": "12세대 및 13세대 모바일 데스크톱 CPU 거래량은 미미하지만 꾸준히 유지되고 있습니다. 고객들은 계속해서 옵션을 저울질하고 있습니다. 14세대 Meteor Lake 시리즈에 대한 수요는 여전히 미미합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1498,7 +1552,9 @@
     "section_raw": "CPU",
     "subheading": "분기 말로 갈수록 개선되는 Intel 서버 시장 공급 상태",
     "text": "그러나 꾸준한 공급에도 불구하고 5세대 Emerald Rapids의 시장 채택률은 여전히 저조한 편입니다. 공급업체의 전망은 여전히 보수적이지만 하반기에는 수요가 증가할 것으로 예상하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1529,7 +1585,9 @@
     "section_raw": "CPU",
     "subheading": "가상화폐 채굴자 사이에서 AMD 제품 수요 증가",
     "text": "한편, Milan 시리즈의 수요는 미미합니다. 일시적인 수요가 발생한 일부 모델은 EPYC 7713, EPYC 7643, EPYC 7513, EPYC 7543입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1632,8 +1690,10 @@
     "detected_vendors": [
       "Nexperia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -1646,8 +1706,10 @@
     "subheading": "대만 지진으로 인한 메모리 시장 마비",
     "text": "2024년 4월 3일 규모 7.2의 강진으로 인해 대만에 본사를 둔 수많은 제조업체의 생산이 일시적으로 중단되었습니다. 유통업체들이 이미 대형 고객을 위해 재고를 보유하고 있었기 때문에 이러한 상황은 소규모 공급업체의 재고 누적 문제를 초래했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -1687,14 +1749,17 @@
   {
     "year": 2024,
     "month": 5,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory"
     ],
     "section_raw": "메모리",
     "subheading": "대만 지진 이후 큰 변동을 보이는 Micron 가격",
     "text": "지진으로 인해 생산에 차질이 생기기 전에는 메모리 부품에 대한 수요가 안정적이었기 때문에 고객들은 비용이 증가할 것으로 예상했습니다. 리드 타임에는 큰 변동이 없었으며 수요가 일정한 품목의 경우 여전히 6~8주에 머물고 있습니다. 리드 타임은 긍정적인 측면에서 증가하고 있으며, 이러한 경우 리드 타임이 12주(약 3개월) 이상 길어지고 있다는 보고가 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Micron"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Natural Disaster / Incident"
@@ -1713,7 +1778,10 @@
     "section_raw": "하드웨어",
     "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident",
       "Price Increase"
@@ -1725,12 +1793,16 @@
     "month": 5,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
     "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident"
     ],
@@ -1769,8 +1841,11 @@
       "Seagate",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -1827,8 +1902,10 @@
     "subheading": "데이터 센터 GPU 할당을 받기 위해 노력하는 유통업체들",
     "text": "또한 가상화폐 동향도 GPU 수요 급증에 기여하고 있습니다. RTX 30 시리즈 주문이 꾸준히 증가하고 있습니다. 2024년 하반기에 GeForce RTX 50 시리즈가 출시되면 RTX 30 및 RTX 40 시리즈의 공급이 더욱 늘어날 수 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -1841,10 +1918,13 @@
     "subheading": "예상치 못한 수요 및 원자재 부족으로 인한 Intel PC 시리즈 공급 제약",
     "text": "2분기 첫 달은 AMD PC CPU 시장 활동이 하이엔드급 Ryzen 9 7950X, Ryzen Threadripper PRO 5995WX, Ryzen 9 5950x로 제한되면서 PC 시장이 상대적으로 저조했습니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -1879,9 +1959,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2008,7 +2089,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "중국 시장에 특화된 신제품 포트폴리오를 선보인 NXP",
     "text": "초기 출시에는 KEA(S9KEA), MagniV(S12Z), S32K3(FS32) MCU 제품군이 포함됩니다. C9KEA는 2024년 3월에 출시되었으며, C912Z는 이번 분기에 출시될 예정입니다. FS32 제품군은 3분기에 처음 출시될 예정입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Nexperia"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2056,7 +2139,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
     "text": "최종 구매일(LTB): 최종 주문은 2024년 6월 29일까지 접수하며, 재고 상황에 따라 주문 가능 여부가 달라질 수 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2070,7 +2155,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
     "text": "취소 및 반품 불가(NCNR): 2024년 4월 30일 이후 모든 미결 주문에는 취소 및 반품 불가(NCNR) 약관이 적용됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2084,7 +2171,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
     "text": "최종 배송일(LTS): 최종 배송은 2024년 12월 28일 또는 그 이전에 이루어져야 합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2098,7 +2187,9 @@
     "section_raw": "집적 회로(IC)",
     "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
     "text": "반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [
       "Quality / Defect"
     ],
@@ -2181,9 +2272,11 @@
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Production Cut"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Low"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2197,9 +2290,11 @@
     "text": "가장 큰 영향을 받은 제품은 16TB의 고용량 HDD로, 공급업체들이 할당량이 제한되고 납품일이 뒤로 미뤄지고 있다고 보고하고 있습니다. 수요가 증가하면서 가격이 8~10% 상승했으며 수요가 계속 제한될 경우 비용이 더 상승할 수 있습니다. 반면 저용량 HDD 공급은 매우 양호한 상태를 유지하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2213,9 +2308,11 @@
     "text": "SSD의 경우 할당량이 정상화되면서 시장 수요가 안정된 상태를 유지하고 있습니다. 일부 고용량 SSD 공급 제약에 대한 보고가 여전히 존재하지만 대부분의 공급업체에서 일정한 할당량을 보고하고 있습니다. 안정세에도 불구하고 가격은 계속해서 상승하고 있으며 3분기 비용은 이미 5~10% 인상되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2230,9 +2327,13 @@
     "text": "AI GPU는 RTX 40 시리즈, A100 및 H100의 가격이 여전히 높은 반면 공급은 계속 제한되는 등 수요 추세를 주도하고 있습니다.반면, 워크스테이션 GPU 수요는 안정된 상태를 유지하고 있습니다. 제조사들은 곧 있을 가격 조정으로 인해 필요한 수요가 증가할 것으로 기대하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Increase"
+      "Allocation",
+      "Price Increase",
+      "Production Cut",
+      "Shortage",
+      "Tariff"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2247,9 +2348,12 @@
     "text": "또한 중국에서 미국으로 제품을 수입하는 기업에 대한 GPU 관세 면제는 5월 31일부로 종료되었습니다. 2025년에 발효될 새로운 관세는 비용 증가로 인해 수요에 영향을 미칠 것으로 예상됩니다. 이러한 변화에 따라 벌써부터 RTX 40 시리즈에 대한 문의가 증가할 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage",
       "Tariff"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2266,7 +2370,9 @@
       "Mellanox"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
+      "Production Cut",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2285,9 +2391,11 @@
       "Mellanox"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -2315,7 +2423,9 @@
     "section_raw": "CPU",
     "subheading": "공급 제약이 지속되는 Intel Meteor Lake H 시리즈",
     "text": "이달 말에는 즉각적인 공급이 개선되겠지만 3분기까지 제약이 지속될 수 있습니다. 해당 시리즈가 티어 1 이외 고객들 사이에서 채택률이 높아질 경우 공급이 더욱 제한될 수 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Intel"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2360,7 +2470,9 @@
     "section_raw": "CPU",
     "subheading": "AMD Milan의 리드 타임 확대",
     "text": "시장 소식에 따르면 Milan 시리즈의 EPYC 7763, 7713, 7713P 공급이 부족한 상황입니다. 리드 타임은 최대 24주이며 공급이 줄어들면서 6월 내내 가격 상승세를 보일 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AMD"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -2382,6 +2494,7 @@
       "AMD"
     ],
     "detected_keywords": [
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2399,6 +2512,7 @@
     "text": "AI 서버 수요 증가로 HBM, DDR5, 데이터 센터 SSD가 급성장하면서 DRAM 및 NAND의 공급이 부족해지고 있습니다. 결과적으로 모든 메모리 및 스토리지 최종 시장에서 가격이 상승할 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2414,8 +2528,10 @@
     "subheading": "가격 상승세가 연말에 이어 2025년까지 지속될 전망인 DRAM 및 NAND",
     "text": "공급과 수요의 불균형이 지속되면 올해 말까지 DRAM 및 NAND 가격이 큰 폭으로 상승해 공급이 제한될 가능성이 큽니다. 이러한 추세는 제조업체의 수익 전망을 강화하고 있습니다. 2025년 초기 예측에 따르면 수익성은 계속 개선될 것으로 보이며, 수요가 공급을 초과할 경우 기록적인 매출을 달성할 가능성도 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2439,14 +2555,17 @@
   {
     "year": 2024,
     "month": 7,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory"
     ],
     "section_raw": "메모리",
     "subheading": "2024년 HBM 공급이 완판되자 생산량을 늘리는 Micron",
     "text": "최신 버전 HBM인 HBM3E의 경우 동일한 비트 수를 생산하는 데 DDR5에 비해 약 3배의 웨이퍼 공급을 소모합니다. 업계가 HBM3E에서 HBM4로 전환하면서 HBM4의 향상된 성능으로 인해 수요도 증가할 것으로 보입니다. 한층 더 복잡한 HBM4 패키징의 경우 더 많은 지원이 필요하기 때문에 시장 혼란이 가중될 가능성이 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Micron"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2540,7 +2659,8 @@
     "month": 7,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "SSD: 비용 절감으로 오픈 마켓에 몰린 고객",
@@ -2565,7 +2685,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Tariff"
     ],
     "risk_level": "Medium"
   },
@@ -2584,8 +2705,10 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Tariff"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2741,8 +2864,10 @@
     "detected_vendors": [
       "Broadcom"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2953,22 +3078,27 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
     "month": 8,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "SSD: 용량 전반에 걸친 10~25%의 가격 상승",
     "text": "고객이 새로운 가격에 적응하고 있어 시장 활동에는 큰 변화가 없습니다. 오픈 마켓에서는 이러한 가격 추세가 반영되어 전반적인 가격이 상승하였으며, 비용 효율적인 대안을 확보하기는 더욱 어려워졌습니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -3006,22 +3136,29 @@
       "AMD",
       "Nvidia"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
     "month": 8,
-    "category": "Other",
+    "category": "GPU",
     "detected_categories": [
+      "GPU",
       "Other"
     ],
     "section_raw": "하드웨어",
     "subheading": "GPU: NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
     "text": "Quadro 시리즈의 가격은 하락세를 보이며 지난 몇 달간 약 3~5% 떨어졌습니다. 추가적인 활동에 박차를 가하기 위해 제조사들은 시장 가격을 낮게 유지할 계획입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3058,8 +3195,10 @@
       "AMD",
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3071,9 +3210,14 @@
     "section_raw": "CPU",
     "subheading": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
     "text": "이전에는 출하량이 7분기 연속 감소하였으나, 최근 조사에 따르면 시장 추세가 반전될 준비가 되었습니다. IDC의 조사에 따르면 증가하는 AI PC 수요 및 기업의 교체 주기에 따른 순풍 덕분에 지난 분기 전 세계 PC 출하량이 마침내 확대되었습니다. 중국에서의 판매 약세는 수요를 저지하는 역풍 중 하나입니다.",
-    "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_vendors": [
+      "AMD",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3091,9 +3235,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3110,8 +3255,10 @@
       "AMD",
       "Intel"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -3125,6 +3272,7 @@
     "subheading": "서버 CPU: 공급 제약을 마주한 Intel, 성과를 얻는 AMD의 Genoa 시리즈",
     "text": "Intel은 일부 3세대 Ice Lake SKU에 대한 일시적인 수요를 확인하고 있으며, 1차 OEM들이 할당을 요청하고 있습니다. 공급 제약으로 인해 3세대 Ice Lake 및 4세대 Sapphire Rapids CPU의 일반 수주 리드 타임이 1~2주 연장되었습니다. Intel은 5세대 Emerald Rapids로 초점을 돌리고 있으며, 이에 따라 가용성이 개선될 것입니다.",
     "detected_vendors": [
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -3144,7 +3292,8 @@
     "subheading": "서버 CPU: 공급 제약을 마주한 Intel, 성과를 얻는 AMD의 Genoa 시리즈",
     "text": "AMD의 4세대 Genoa 시리즈 서버 CPU는 특히 아시아 이외의 시장에서 꾸준한 시장 활동을 보이고 있으며, 이는 최근 전체 수요 중 약 70%를 차지합니다. 유통사들은 Genoa EPYC 프로세서(예: EPYC 9124, 9654, 9754, 9534, 9554)에 대한 높은 시장의 관심을 보고하고 있으며, 오픈 마켓 가격은 경쟁 압박으로 인해 협상 가능성이 높습니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Intel"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

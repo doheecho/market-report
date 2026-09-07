@@ -1,6 +1,6 @@
 {
   "vendor": "SK하이닉스",
-  "total_milestones": 90,
+  "total_milestones": 97,
   "history": [
     {
       "date": "2020.04",
@@ -127,7 +127,37 @@
       ],
       "risk_level": "High",
       "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
+      "text": "Intel 240GB와 480GB 소용량 SSD 또한 심각한 공급 부족을 겪고 있습니다."
+    },
+    {
+      "date": "2022.04",
+      "category": "Storage",
+      "detected_categories": [
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
+      "text": "생산 자원이 NVMe에 중점을 두고 있지만, 제조업체가 계층 1 OEM 대상 배송에 주력하고 있기 때문에 SSD 고객은 여전히 시장의 물량이 빠듯하고 가격이 인상되었다고 여길 것입니다."
+    },
+    {
+      "date": "2022.04",
+      "category": "Storage",
+      "detected_categories": [
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
       "text": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) - 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) - 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지"
+    },
+    {
+      "date": "2022.04",
+      "category": "Storage",
+      "detected_categories": [
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
+      "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다."
     },
     {
       "date": "2022.08",
@@ -179,7 +209,8 @@
       "detected_categories": [
         "IC",
         "Memory",
-        "Other"
+        "Other",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -199,7 +230,8 @@
       "date": "2023.04",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Memory"
       ],
       "risk_level": "Low",
       "summary": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
@@ -220,7 +252,8 @@
       "date": "2023.05",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
@@ -239,6 +272,28 @@
     },
     {
       "date": "2023.05",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
+      "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다."
+    },
+    {
+      "date": "2023.05",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
+      "text": "고객들이 DDR4에서 DDR5로 점차 전환하고 있는 것으로 보이기 때문에 이러한 제약은 2024년까지 계속될 수 있습니다. 이러한 전환은 DDR5의 향상된 성능, 고용량 지원 기능 및 향상된 전력 효율성 때문일 확률이 높습니다."
+    },
+    {
+      "date": "2023.05",
       "category": "IC",
       "detected_categories": [
         "IC",
@@ -254,7 +309,8 @@
       "category": "Memory",
       "detected_categories": [
         "Memory",
-        "Other"
+        "Other",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "스토리지 가격 하락세 지속에 따른 감산",
@@ -267,7 +323,7 @@
         "Memory",
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "분기 시작과 함께 DRAM 및 NAND 가격 상승 추세",
       "text": "업계 전문가들은 10월에 DRAM과 NAND 시장의 가격이 10~15% 상승할 것으로 예상했습니다. 동시에 Solidigm과 같은 제조업체는 NAND 제조를 계속 축소하고 있지만 DRAM에 대한 수요는 증가하고 있다고 언급했습니다."
     },
@@ -303,6 +359,29 @@
       "risk_level": "Medium",
       "summary": "할당에 난항을 겪는 상황에서 DRAM 및 NAND의 대안을 모색하는 고객들",
       "text": "DRAM의 경우 예약 비용은 높지만 가용성이 안정적이어서 시장 가격이 보다 안정적입니다. 그러나 이번 달에는 SK하이닉스와 같은 주요 메모리 제조업체가 가격 인상을 계획하고 있어 수요와 가용성이 변동될 것입니다."
+    },
+    {
+      "date": "2024.05",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+      "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다."
+    },
+    {
+      "date": "2024.05",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+      "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다."
     },
     {
       "date": "2024.05",
@@ -345,7 +424,7 @@
         "Other",
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "SSD: 용량 전반에 걸친 10~25%의 가격 상승",
       "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다."
     },
@@ -446,7 +525,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "RDIMM DDR5 가격 상승 및 DDR4 단종",
       "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다."
     },
@@ -624,7 +703,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "용량 부족 및 제조사 가격 변동",
       "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다."
     },
@@ -685,7 +764,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
       "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20~70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다."
     },
@@ -711,8 +790,9 @@
     },
     {
       "date": "2026.02",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "Low",
@@ -768,7 +848,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
       "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다."
     },
@@ -785,8 +865,9 @@
     },
     {
       "date": "2026.04",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "High",
@@ -881,14 +962,15 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
       "text": "SK하이닉스, 삼성전자, 마이크론은 시장에 2026년 3분기 DRAM 가격이 15~20% 상승하고, 4분기에 추가로 15% 상승할 것으로 전망한다고 밝혔다. NAND 플래시 가격은 3분기에 30~40% 상승한 뒤 4분기에 추가로 15% 오를 것으로 예상된다."
     },
     {
       "date": "2026.07",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "High",
@@ -932,7 +1014,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "메모리 유동적 가격 책정 및 단종 확산",
       "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다."
     },
@@ -942,7 +1024,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
       "text": "Solidigm 엔터프라이즈 SSD는 3·4분기에 가격이 20~30% 인상되고 있습니다. 대용량 드라이브(15TB·30TB·61TB·122TB)는 하이퍼스케일러가 전량 흡수해 유통 파트너에 할당되는 물량이 전혀 없습니다."
     }

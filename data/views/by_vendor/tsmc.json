@@ -110,9 +110,50 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
+    "subheading": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
+    "text": "기판 공급 부족 외에도 이러한 칩에 대한 경쟁 격화로 앞으로 AMD의 모든 CPU 시리즈에 걸쳐 심각한 공급 부족이 발생할 것으로 예상됩니다. 그 결과, 이러한 제품의 리드 타임은 계속 연장되기만 할 것입니다.",
+    "detected_vendors": [
+      "AMD",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
+    "subheading": "TSMC 부족이 AMD의 CPU에 끼치는 영향",
+    "text": "한편, AMD가 계속 고객에게 제품 공급을 제때 하지 못하고 약속을 이행하지 않으면 Intel에게는 이익이 됩니다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -166,6 +207,7 @@
       "TSMC"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -183,8 +225,10 @@
     "detected_vendors": [
       "TSMC"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -254,7 +298,8 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -374,6 +419,7 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -442,13 +488,15 @@
     "subheading": "Infineon 및 NXP에 대한 공급 여전히 부족",
     "text": "고객들이 S9xxxAxxx 모델을 사용하기 위해 현재 프로젝트를 변경하는 것을 꺼린 결과 NXP의 시장 가용성도 마찬가지로 제한되어 있습니다. 이는 NXP가 MCU 주문을 TSMC로 이전한 이후에 나타난 것으로, 이로 인해 S9xxxxF0xxx와는 달리 S9xxxAxxx의 가용성은 더 높아질 것입니다. F0 모델에 대한 할당은 앞으로 확보하기 어려울 가능성이 높습니다.",
     "detected_vendors": [
+      "Infineon",
       "Nexperia",
       "TSMC"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -465,8 +513,51 @@
       "TSMC",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "Other"
+    ],
+    "section_raw": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "text": "많은 언론 매체들은 또한 삼성이 가격 책정 방식을 변경하고 많은 마이크로프로세서와 주변 장치 칩 제품의 가격을 인상할 계획이라고 밝혔습니다.",
+    "detected_vendors": [
+      "Intel",
+      "TSMC",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "text": "통신 산업 내 전자 제품의 발전으로 계속해서 더욱 복잡한 생산이 필요해지면서 제조 비용이 증가하고 있습니다. 이러한 대폭적인 가격 인상설은 고품질 규격을 유지하면서 추가 생산 비용을 고객에게 전가하려는 의도에서 나온 것입니다.",
+    "detected_vendors": [
+      "Intel",
+      "TSMC",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -479,10 +570,14 @@
     "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
     "text": "최대 규모의 모바일 통신 고객 중 하나는 이러한 움직임에 대해 이미 TSMC에 불만을 표명하고 추가 비용 지불을 거부하고 있습니다.",
     "detected_vendors": [
-      "TSMC"
+      "Intel",
+      "TSMC",
+      "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -497,6 +592,7 @@
     "text": "AMD의 서버 시장 점유율은 계속해서 증가해 왔으며, 최근 CEO 발표에 따르면 이는 현재 25%를 돌파했습니다. 이는 TSMC가 4분기에 출시될 최신 Instinct MI300 시리즈 생성형 AI 가속기의 생산을 확정한 이후 나온 발표입니다. 오픈 마켓의 추세에 따르면 현재 AMD의 Milan 및 Genoa 시리즈 서버 CPU가 선호되고 있습니다. 수요가 주로 집중되는 시리즈는 다음과 같습니다.",
     "detected_vendors": [
       "AMD",
+      "Intel",
       "TSMC"
     ],
     "detected_keywords": [],
@@ -517,8 +613,10 @@
       "Analog Devices",
       "TSMC"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -770,9 +868,10 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -833,7 +932,8 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -871,9 +971,10 @@
       "TSMC"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,

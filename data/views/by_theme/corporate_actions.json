@@ -11,10 +11,12 @@
     "subheading": "삼성 SSD 리드 타임 연장",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "삼성"
     ],
     "detected_keywords": [
       "EOL",
+      "Lead Time",
       "Production Cut"
     ],
     "risk_level": "High"
@@ -166,11 +168,33 @@
     "section_raw": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
     "text": "센서, 마이크로컨트롤러, 전력 관리 시스템, MOSFET, 다이오드 및 무선 주파수 장치와 같은 제품이 영향을 받게 됩니다. 커패시터 및 인덕터와 같은 수동 소자 는 인수 대상이 아닙니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Panasonic"
+    ],
     "detected_keywords": [
       "M&A"
     ],
     "risk_level": "Low"
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
+    "subheading": "Nuvoton Technology, Panasonic Semiconductor Solutions 인수 마무리",
+    "text": "이와는 별개로, 현재 전반적으로 대량의 Panasonic 알루미늄 커패시터 공급 부족 사태가 빚어지고 있는데, 다음 분기까지도 이 문제가 지속할 것으로 예상합니다.",
+    "detected_vendors": [
+      "Panasonic"
+    ],
+    "detected_keywords": [
+      "M&A",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -229,6 +253,63 @@
       "Lead Time",
       "M&A",
       "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "subheading": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "text": "Analog Devices, Inc.(ADI) MEM 센서에 대한 리드 타임은 현재 60주이지만 가격은 안정적으로 유지되고 있습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "M&A"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "subheading": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "text": "일부 Maxim 부품에 대한 리드 타임이 최대 90주까지 증가한 것으로 알려졌습니다. Maxim의 DS 시리즈 리드 타임은 70주까지 늘어났습니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "M&A"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "subheading": "Analog Devices, Inc와 Maxim Integrated의 인수 지연, 리드 타임에 영향",
+    "text": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다. 이러한 예상 지연 및 일부 부품 제조를 지원하는 웨이퍼의 제한된 생산량은 공급 제약을 가중할 것입니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "M&A"
     ],
     "risk_level": "Medium"
   },
@@ -373,7 +454,8 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Memory"
     ],
     "section_raw": "IC",
     "subheading": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
@@ -407,7 +489,8 @@
     "month": 5,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
@@ -496,6 +579,23 @@
     ],
     "section_raw": "하드웨어",
     "subheading": "낮은 수요와 공급 증가가 SSD 및 HDD의 감산으로 이어지다",
+    "text": "현재 오픈 마켓의 공급 상태는 양호한 편이며, 제조업체의 생산량 감소에도 불구하고 제조업체가 재고를 소진하기까지는 다소 시간이 걸릴 것으로 보입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "낮은 수요와 공급 증가가 SSD 및 HDD의 감산으로 이어지다",
     "text": "공급업체들은 고용량 및 기업용 HDD가 문의와 주문에 있어 유일하게 각광받는 부분이라는 점을 인정합니다. 그러나 공급 상태는 양호한 편이며 감산이 이러한 제품에 미치는 영향은 거의 없을 것입니다. 또한 2021년 10월에 판매 종료(EOL) 통지를 한 Intel의 S4510 시리즈도 공급이 감소했습니다. 제조업체는 EOL 시리즈가 완전히 단종되기 전에 유통업체와 최종 고객에게 공급을 보장하기 위해 지금 S4520으로 전환할 것을 권장합니다.",
     "detected_vendors": [
       "Intel"
@@ -519,6 +619,7 @@
     "text": "제조업체들이 감산을 단행한 이후로 지난 한 달 동안 RDIMM 시장 내 활동이 증가했습니다. 이러한 전략으로 인해 특정 고가 제품에 대한 주문이 증가하여 일시적으로 가격이 상승했지만, 초기 급등 이후 현재는 가격이 안정화되고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Decrease",
       "Production Cut"
     ],
     "risk_level": "Low"
@@ -537,9 +638,10 @@
       "Infineon"
     ],
     "detected_keywords": [
+      "Lead Time",
       "M&A"
     ],
-    "risk_level": "Low"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -554,9 +656,10 @@
     "text": "지난 몇 달간 시장이 침체한 상황이어서 SSD 공급 상태는 아직 양호합니다. SSD 제조업체는 결과적으로 과잉되지 않고 안정적인 재고 수준을 보장할 수 있도록 감산 및 공급 조절을 실시하고 있습니다. 오픈 마켓 공급이 줄어들면 SSD 가격을 회복할 것으로 기대하지만, 이를 위해서는 상당한 수요 회복이 필요합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Price Increase",
       "Production Cut"
     ],
-    "risk_level": "Low"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -580,15 +683,73 @@
   {
     "year": 2023,
     "month": 8,
-    "category": "기타",
+    "category": "Memory",
     "detected_categories": [
-      "기타"
+      "Memory"
     ],
     "section_raw": "완제품",
     "subheading": "DDR4 및 DDR5 가격 경쟁 심화",
     "text": "오픈 마켓의 재고 수준은 일반적으로 여전히 높으며, 비용이 공식 제조업체의 가격보다 낮습니다. 다만 상황이 바뀔 가능성은 있습니다. 공급 및 수요 주기에 대한 이해를 바탕으로 볼 때 1분기부터 2분기까지 채택된 생산량 감소 전략이 시장에 영향을 미치는 데는 약 6개월이 걸릴 것으로 예상됩니다. AI 산업으로 인해 수요가 회복되면서 이러한 감산 효과가 나타나기 시작할 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "스토리지 가격 하락세 지속에 따른 감산",
+    "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Decrease",
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "스토리지 가격 하락세 지속에 따른 감산",
+    "text": "또한 이러한 상황은 SSD에도 파급 효과를 가져왔습니다. 제조업체 및 공급업체의 재고 소진을 통한 손실 절감 과정에서 SSD 가격은 하락했습니다. 클라이언트 SSD의 주문 건수는 작년 성수기 물량보다 감소할 것으로 보이며, 생산 능력도 점차 정상 수준으로 회복됨에 따라 공급은 더욱 증가하고 있습니다. 최종 고객이 예상치를 하향 조정함에 따라 유통업체는 초과 재고 축적을 방지하기 위해 가격을 인하했으므로 3분기 내 클라이언트 SSD 가격이 3~8% 정도 하락할 수 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Decrease",
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "스토리지 가격 하락세 지속에 따른 감산",
+    "text": "한편, 엔터프라이즈 SSD 가격은 해당 시장의 강세로 인해 2분기에 비해 보합세를 유지할 것입니다. 엔터프라이즈 SSD의 글로벌 조달 능력은 수요가 안정적으로 유지될 경우 10% 정도 증가할 것으로 전망됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Decrease",
       "Production Cut"
     ],
     "risk_level": "Low"
@@ -627,6 +788,40 @@
       "Production Cut"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "HDD 시장 정체 지속에 따른 향후 감산",
+    "text": "HDD 시장 수요는 11월부터 정체되었고, 대부분의 수요는 대용량 16TB 이상의 제품에 집중됐습니다. 주요 HDD 제조업체는 다음 분기까지 가격을 10~15% 인상할 예정이며 계속 생산을 줄이고 있습니다. 이는 전반적 시장 가격 수준을 안정화하고 수익성을 높이기 위한 조치입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "HDD 시장 정체 지속에 따른 향후 감산",
+    "text": "그러나 고객들은 현물 수요를 맞출 저비용 주문을 찾고 있으므로 비용 절감 기회에 따른 판매가 대부분입니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -676,9 +871,130 @@
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Production Cut"
+      "Allocation",
+      "Production Cut",
+      "Shortage"
     ],
-    "risk_level": "Low"
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "text": "가장 큰 영향을 받은 제품은 16TB의 고용량 HDD로, 공급업체들이 할당량이 제한되고 납품일이 뒤로 미뤄지고 있다고 보고하고 있습니다. 수요가 증가하면서 가격이 8~10% 상승했으며 수요가 계속 제한될 경우 비용이 더 상승할 수 있습니다. 반면 저용량 HDD 공급은 매우 양호한 상태를 유지하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "text": "SSD의 경우 할당량이 정상화되면서 시장 수요가 안정된 상태를 유지하고 있습니다. 일부 고용량 SSD 공급 제약에 대한 보고가 여전히 존재하지만 대부분의 공급업체에서 일정한 할당량을 보고하고 있습니다. 안정세에도 불구하고 가격은 계속해서 상승하고 있으며 3분기 비용은 이미 5~10% 인상되었습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "GPU: 수요에 영향을 미칠 것으로 예상되는 중국산 제품에 대한 미국 관세",
+    "text": "AI GPU는 RTX 40 시리즈, A100 및 H100의 가격이 여전히 높은 반면 공급은 계속 제한되는 등 수요 추세를 주도하고 있습니다.반면, 워크스테이션 GPU 수요는 안정된 상태를 유지하고 있습니다. 제조사들은 곧 있을 가격 조정으로 인해 필요한 수요가 증가할 것으로 기대하고 있습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Production Cut",
+      "Shortage",
+      "Tariff"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "GPU: 수요에 영향을 미칠 것으로 예상되는 중국산 제품에 대한 미국 관세",
+    "text": "또한 중국에서 미국으로 제품을 수입하는 기업에 대한 GPU 관세 면제는 5월 31일부로 종료되었습니다. 2025년에 발효될 새로운 관세는 비용 증가로 인해 수요에 영향을 미칠 것으로 예상됩니다. 이러한 변화에 따라 벌써부터 RTX 40 시리즈에 대한 문의가 증가할 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage",
+      "Tariff"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "네트워킹: 안정적으로 유지되는 네트워킹 제품 수요",
+    "text": "네트워킹 제품 수요는 여전히 높으며, 특히 하이엔드 NIC, 광트랜시버, 케이블, 스위치에 대한 수요가 높습니다. Mellanox는 특정 시리즈의 고성능 네트워크 어댑터 및 NIC에 대한 공급 부족을 겪고 있는 제조사 중 하나입니다. 수요 증가와 함께 MXC7 시리즈 가격이 인상되었으며, 리드 타임은 약 8주 정도 소요됩니다.",
+    "detected_vendors": [
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Production Cut",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "HDD 감산으로 부족한 할당, 안정적으로 유지되는 SSD 공급",
+    "subheading": "네트워킹: 안정적으로 유지되는 네트워킹 제품 수요",
+    "text": "Mellanox는 수요가 많은 MCX7 시리즈 생산량을 우선적으로 확보하기 위해 하반기의 MCX6 시리즈 생산량을 서서히 줄이고 있습니다. 이러한 변화로 인해 MCX6 시리즈에 대한 할당량이 거의 없거나 전혀 없는 상황입니다.",
+    "detected_vendors": [
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Production Cut",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -929,7 +1245,8 @@
     "detected_keywords": [
       "Capacity Expansion",
       "Discommit",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -964,9 +1281,10 @@
     ],
     "detected_keywords": [
       "Capacity Expansion",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,

@@ -1,6 +1,6 @@
 {
   "vendor": "Lattice",
-  "total_milestones": 20,
+  "total_milestones": 23,
   "history": [
     {
       "date": "2023.01",
@@ -32,7 +32,37 @@
       ],
       "risk_level": "Medium",
       "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+      "text": "Analog Devices는 20년 이상 지난 구형 시리즈에 속하는 MPN 가격 인상을 시행할 계획이라고 발표했습니다. 가격은 20% 인상될 것이며, 일부 제품은 그 이상 변동할 가능성도 있지만, 자세한 사항은 아직 최종적으로 결정된 것은 아닙니다."
+    },
+    {
+      "date": "2024.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+      "text": "그러나 주로 대부분의 응용 분야에서 증폭기를 사용하는 공통 부품을 대상으로 가격 조정을 시행할 가능성이 높습니다. 이러한 제품의 경우 특정 사용 사례로 인해 대안이 제한적이며, 적용할 다른 부품을 찾지 못한 고객들은 더 높은 가격을 지불할 수밖에 없을 것으로 보입니다."
+    },
+    {
+      "date": "2024.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
       "text": "Lattice 역시 2024년에 시행할 예정인 시장 장수 제품의 7.5% 가격 인상에 관해 최종 고객을 대상으로 천천히 안내하고 있습니다. 이러한 발표에는 최소 10년 이상 출하된 모든 제품이 해당됩니다. Silicon Image 라인의 일부인 SIxxx 시리즈 및 Lattice 4000 시리즈이 여기에 포함됩니다."
+    },
+    {
+      "date": "2024.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Analog Devices 및 Lattice의 2024년 가격 조정 발표",
+      "text": "해당 가격 변동은 1월 29일부터 적용되며 해당일 또는 그 이후에 고객에게 배송되는 모든 상품이 영향을 받을 것으로 보음니다."
     },
     {
       "date": "2025.02",

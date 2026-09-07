@@ -114,6 +114,43 @@
   {
     "year": 2022,
     "month": 3,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
+    "subheading": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
+    "text": "WD의 3D NAND 제품을 사용하는 대만 회사 Innodisk와 Transcend 같은 SSD 제조업체가 그 영향을 받을 것으로 보입니다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
+    "subheading": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
+    "text": "그와 동시에, 전력 관리 IC와 컨트롤러 칩의 공급 부족으로 SSD 전체 공급에 압박이 계속되고 있습니다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 3,
     "category": "Storage",
     "detected_categories": [
       "Storage"
@@ -126,6 +163,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -205,6 +243,7 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "Price Increase",
       "Shortage"
     ],
     "risk_level": "High"
@@ -224,8 +263,11 @@
       "Seagate",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2024,
@@ -332,8 +374,10 @@
     "detected_vendors": [
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -350,8 +394,11 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -367,9 +414,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -406,10 +454,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -426,9 +475,10 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -472,8 +522,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -518,9 +569,11 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -558,7 +611,9 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
     ],
     "risk_level": "High"
   }

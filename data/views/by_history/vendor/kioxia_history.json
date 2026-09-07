@@ -1,7 +1,27 @@
 {
   "vendor": "Kioxia",
-  "total_milestones": 17,
+  "total_milestones": 19,
   "history": [
+    {
+      "date": "2021.08",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory"
+      ],
+      "risk_level": "High",
+      "summary": "Kioxia 메모리 생산량 감소",
+      "text": "계속되는 공급 부족과 원자재 생산 가격 상승 때문에, 유통업체들은 다음 분기의 메모리 가격이 10% 상승할 것이라는 소식을 들었습니다. 생산 라인에서 향후 버전의 생산을 준비함에 따라 현재 메모리 제품의 생산 물량 감소도 예상됩니다."
+    },
+    {
+      "date": "2021.08",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "Kioxia 메모리 생산량 감소",
+      "text": "메모리의 리드 타임이 38~40주로 늘었고 3분기에 발주되는 주문에 따른 압박이 이미 가중되고 있습니다. 따라서 수요와 공급의 변동을 세심히 모니터링해야 할 것입니다."
+    },
     {
       "date": "2022.03",
       "category": "Memory",
@@ -64,7 +84,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
       "text": "Kioxia SSD는 4분기에 10~12%의 가격 인상이 예상됩니다."
     },
@@ -154,8 +174,9 @@
     },
     {
       "date": "2026.07",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "High",

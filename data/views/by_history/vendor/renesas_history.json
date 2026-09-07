@@ -1,6 +1,6 @@
 {
   "vendor": "Renesas",
-  "total_milestones": 31,
+  "total_milestones": 34,
   "history": [
     {
       "date": "2020.06",
@@ -23,20 +23,31 @@
       "text": "Renesas 의 리드 타임이 계속 연장되고 있습니다. Renesas 측에서 공식적인 성명 발표는 없지만, 코로나19 팬데믹이 시작된 후로 공급 압박을 받아왔습니다."
     },
     {
+      "date": "2020.11",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "Renesas, 계속 리드 타임 연장 문제 계속 직면",
+      "text": "자동차 부품의 경우 리드 타임이 12~16 주에서 최대 20주로 늘었습니다."
+    },
+    {
       "date": "2021.01",
       "category": "IC",
       "detected_categories": [
         "IC",
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "MCU, 자동차 수요로 인해 비용 및 리드 타임 상승에 직면",
       "text": "대다수의 마이크로 컨트롤러 제조업체는 1 월 1 일부터 12 월에 업데이트 된 가격 계획을 발표했습니다. STMicroelectronics, NXP, Renesas의 세 주요 회사는 제품 라인업 전반에 걸쳐 가격을 최소 10% 이상 인상했습니다."
     },
     {
       "date": "2021.01",
-      "category": "Other",
+      "category": "IC",
       "detected_categories": [
+        "IC",
         "Other"
       ],
       "risk_level": "Medium",
@@ -81,7 +92,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "공장 화재의 영향을 받는 Renesas 웨이퍼 생산",
       "text": "이 곳에서 생산되는 웨이퍼의 약 2/3는 자동차 생산에 사용됩니다. 이러한 제품 중에는 자동차 및 비자동차 용도의 Renesas MCU R5F, DS7, R5S, R7S7은 물론이고, 전력 관리 및 MOSFET 제품도 있습니다."
     },
@@ -91,7 +102,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "공장 화재의 영향을 받는 Renesas 웨이퍼 생산",
       "text": "이 문제를 극복하려고 Renesas는 손실된 생산 중 일부를 다른 공장으로 이전할 방안을 모색 중입니다. 그 실현 여부는 미지수입니다."
     },
@@ -137,6 +148,26 @@
       "risk_level": "High",
       "summary": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
       "text": "일본에 있는 Renesas 공장 두 곳이 1분기에 두 차례 지진의 영향을 받았습니다. 피해 평가를 위한 작업 중단으로 인한 생산 지연으로 생산량이 감소했습니다. 3월 16일 발생한 지진의 진원지 근처에 위치한 공장 세 곳은 나카 공장, 타카사키 공장, 요네자와 공장입니다."
+    },
+    {
+      "date": "2022.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
+      "text": "이후 모든 공장이 조업을 재개했지만 그에 따른 부작용을 피할 수는 없었습니다. 나카 공장에서 생산 중인 반제품의 일부가 훼손되었습니다. 약 2주치의 200mm(8인치) 웨이퍼 팹 라인 생산 및 약 3주치의 300mm(12인치) 라인에 대해 미완성 제품이 파손되고 생산 계정이 감소한 데 따른 손실이 발생했습니다."
+    },
+    {
+      "date": "2022.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "Renesas Electronics Corp의 일본 공장, 지진의 장기적 영향 예상",
+      "text": "손실 측면에서, 타카사키 공장은 약 10일 간 생산이 중단되었고, 요네자와 공장에서는 이틀치에 해당하는 생산량이 손실되었습니다."
     },
     {
       "date": "2022.06",

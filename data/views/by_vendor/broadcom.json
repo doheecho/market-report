@@ -13,7 +13,8 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -31,7 +32,8 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -49,9 +51,10 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -88,9 +91,10 @@
       "Nexperia"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -126,7 +130,8 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -202,7 +207,8 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -357,9 +363,9 @@
   {
     "year": 2023,
     "month": 4,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
     "section_raw": "완제품",
     "subheading": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
@@ -402,10 +408,13 @@
     "subheading": "초과 공급을 관리하는 Broadcom, 할당 제한과 분투 중인 STM",
     "text": "Broadcom은 8월, 초과 재고는 중요한 고려 사항이 아니며 이미 실제 최종 수요에 맞게 제품을 배송하고 있다고 밝혔습니다. 하지만 산업계, 전기차, 태양광 패널 산업 고객의 시장 수요가 낮아 공급 수준은 높아지고 있습니다.",
     "detected_vendors": [
-      "Broadcom"
+      "Broadcom",
+      "STMicroelectronics"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -418,10 +427,32 @@
     "subheading": "초과 공급을 관리하는 Broadcom, 할당 제한과 분투 중인 STM",
     "text": "AI 산업은 여전히 가장 유망하고, 이에 따라 특정 Broadcom 시리즈의 가격 인상이 발생하고 있습니다. 다양한 응용 분야에 맞춰 구성 가능한 다목적 스위치는 AI 고객이 주로 집중하는 포인트이며, PEX89104와 PEX89144에 대한 수요도 증가하고 있습니다.",
     "detected_vendors": [
-      "Broadcom"
+      "Broadcom",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "초과 공급을 관리하는 Broadcom, 할당 제한과 분투 중인 STM",
+    "text": "대안으로 STMicroelectronics 수요 역시 꾸준히 견고한 증가세를 유지하고 있습니다. 자동차 MPN의 VN 시리즈 주문량은 둔화할 기미를 보이지 않으며, 수요가 지속적으로 증가하는 추세입니다. 공급은 아직 해당 업계 고객의 수요를 맞추지 못하고 있으며, E-Lxxxx 및 Lxxxx 시리즈 모터 드라이버의 할당 제한으로 이어지고 있습니다. 리드 타임은 34주까지 연장되었고 해당 부품에 대한 시장 내 재고 가격 역시 크게 상승하고 있습니다.",
+    "detected_vendors": [
+      "Broadcom",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
     ],
     "risk_level": "Medium"
   },
@@ -456,8 +487,10 @@
     "detected_vendors": [
       "Broadcom"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -638,9 +671,10 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -699,6 +733,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -718,6 +753,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -737,6 +773,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -756,6 +793,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Shortage"
     ],
@@ -815,6 +853,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time",
       "Price Increase",
       "Shortage"
@@ -836,8 +875,9 @@
       "TSMC"
     ],
     "detected_keywords": [
+      "EOL",
       "Lead Time"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   }
 ]

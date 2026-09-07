@@ -1,6 +1,6 @@
 {
   "vendor": "Microchip",
-  "total_milestones": 18,
+  "total_milestones": 28,
   "history": [
     {
       "date": "2020.06",
@@ -72,9 +72,59 @@
       "detected_categories": [
         "IC"
       ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "NXP의 MCU 및 MPU 시리즈에 대한 리드 타임이 연장되고 있습니다. 표준 리드 타임이 현재 40~50 주에 머물고 있으며, MC 시리즈는 약 52주 정도이며, 일부 시리즈에서 60주를 상회하고 있습니다. 제조업자에 가장 제한된 시리즈는 MCIMX6G로서 99주가 소요됩니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "마찬가지로 차량 실내 분위기 조명에 주로 사용되는 Melexis의 MLX811은 자동차 고객의 계속적인 수요 증가에 따라 가용성이 제한되고 있습니다. 현재로서는 납기 일정이나 정확한 리드 타임을 확인하기 어렵고 주문을 지원하는 재고 물량도 없는 상태입니다. 이 시리즈들에 대한 리드 타임은 현재 52주로 연장되었습니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU"
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
       "risk_level": "High",
       "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
       "text": "대조적으로 Microchip MCP 시리즈는 생산으로 재고 수준이 보충됨에 따라 리드 타임이 단축되었습니다. PIC12와 16 시리즈의 리드 타임은 8~12 주로 개선된 반면, PIC24와 25 시리즈는 20주를 상회하여 시장에서 여전히 공급이 부족한 상태입니다."
+    },
+    {
+      "date": "2022.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "text": "공급이 지연될 확률은 여전히 높으며 고객은 적체되는 주문을 취소할 수 있다는 통지를 받고 있지만 생산 일정의 지연에 대한 영향을 피할 수는 없어 보입니다."
     },
     {
       "date": "2022.11",
@@ -107,6 +157,26 @@
       "text": "공급의 예측 불가능성으로 인해 고객들은 다른 제조업자들로 발길을 돌리고 있으며 이로 인해 Microchip은 과잉 재고를 떠안고 있습니다. 이것이 유리해 보일 수 있지만 표준 리드 타임은 평균 45~48주 사이에 머물러 있습니다."
     },
     {
+      "date": "2022.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
+      "text": "시장에서 자동차 부품은 여전히 수요가 높은 상태입니다. 폐업 직전에 있는 많은 소규모 OEM 및 ODM 업체들이 처분해야 할 과잉 재고를 보유하고 있어 가용 공급량은 서서히 증가하고 있습니다. 그러나 이러한 주문은 모두 NCNR이므로 고객이 총가격의 30%을 몰수 수수료로 지불하지 않는 한 취소가 불가합니다."
+    },
+    {
+      "date": "2022.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "Microchip의 예측 불가능한 공급 및 철회 기간 문제",
+      "text": "주로 심각한 웨이퍼 공급 부족(Shortage)으로 인해 MCU 16/31 시리즈에 대한 철회도 증가하고 있습니다. 이러한 소문에 근거해 또 다른 가격 인상 파동이 있을 수 있지만 그 인상이 얼마나 될지 또는 잠재적인 일정이 어떠할지에 대해서는 알려진 바가 없습니다."
+    },
+    {
       "date": "2023.03",
       "category": "IC",
       "detected_categories": [
@@ -127,6 +197,26 @@
       "text": "그러나 고객이 공통 부품의 납기를 늦추면서 Microchip은 여전히 수요가 적은 곳에서 어려움을 겪었습니다. 이러한 지연으로 인한 수익 손실과 원자재 비용 상승으로 인해 Microchip의 제품 가격이 약 5% 인상되는 결과를 초래했습니다."
     },
     {
+      "date": "2023.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Microchip, 5 가격 인상",
+      "text": "공식 통지가 아직 보류 중이므로 높은 수요로 인해 리드 타임이 길어진 제품 라인에만 가격 인상이 적용될지 또는 회사의 전체 포트폴리오에 적용될지는 불확실합니다."
+    },
+    {
+      "date": "2023.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Microchip, 5 가격 인상",
+      "text": "제조업체가 가격을 인상하는 것은 종종 전략적인 측면이 있지만 이러한 전략이 성공할지 여부는 두고 봐야 합니다. 고객이 비용 절감 기회를 제공하는 대안을 모색함에 따라 수요가 감소할 수 있습니다."
+    },
+    {
       "date": "2023.04",
       "category": "IC",
       "detected_categories": [
@@ -135,6 +225,16 @@
       "risk_level": "Medium",
       "summary": "Microchip, MCU 수요는 둔화됐지만 IC 리드 타임 연장 확인",
       "text": "Microchip의 기존 8비트 및 16비트 MCU에 대한 수요가 둔화하였으며 오픈 마켓에서의 공급이 개선되고 있습니다. 게다가 블루투스 모듈 공급도 더 양호해져 현재는 리드 타임이 24~26주입니다."
+    },
+    {
+      "date": "2023.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "Microchip, MCU 수요는 둔화됐지만 IC 리드 타임 연장 확인",
+      "text": "ATMEL SAM 시리즈의 경우 생산에 필요한 원자재 공급 문제로 인해 올해는 리드 타임이 꾸준히 늘어나고 있습니다. 1월에는 리드 타임이 50주 이상이었지만, 현재 ATSAMA5D 시리즈는 리드 타임이 최대 100주까지 늘어난 것이 확인되고 있습니다. 이 같은 부품은 일반적으로 산업 응용 분야 또는 높은 연결성을 필요로 하는 기술에 사용됩니다. 수요가 계속 증가하고 있으므로 리드 타임도 증가할 것입니다. EEPROM도 수요가 증가하고 있는 상황입니다. 리드 타임이 낮아졌음에도 불구하고 여전히 52주 이상 연장되고 있습니다."
     },
     {
       "date": "2023.04",

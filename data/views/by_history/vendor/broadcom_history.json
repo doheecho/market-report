@@ -1,6 +1,6 @@
 {
   "vendor": "Broadcom",
-  "total_milestones": 45,
+  "total_milestones": 46,
   "history": [
     {
       "date": "2020.05",
@@ -28,7 +28,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "LAN 칩 부족으로 네트워크 카드 생산 제한",
       "text": "Broadcom의 RAID 카드 93xx 및 94xx 시리즈는 여전히 매우 인기가 높아, 원래 제조업체 가격이 30% 이상 급등했습니다. 제한된 재고 물량이 무척 빠르게 소진되고 있으며 예약 리드 타임은 42주 이상으로 유지되고 있습니다."
     },
@@ -48,7 +48,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
       "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다."
     },
@@ -195,9 +195,9 @@
     },
     {
       "date": "2023.04",
-      "category": "기타",
+      "category": "IC",
       "detected_categories": [
-        "기타"
+        "IC"
       ],
       "risk_level": "Low",
       "summary": "NIC, Raid, 이더넷 카드 시장이 과잉 공급을 흡수하기 시작하여 수요 증가 확인",
@@ -219,7 +219,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "초과 공급을 관리하는 Broadcom, 할당 제한과 분투 중인 STM",
       "text": "Broadcom은 8월, 초과 재고는 중요한 고려 사항이 아니며 이미 실제 최종 수요에 맞게 제품을 배송하고 있다고 밝혔습니다. 하지만 산업계, 전기차, 태양광 패널 산업 고객의 시장 수요가 낮아 공급 수준은 높아지고 있습니다."
     },
@@ -232,6 +232,16 @@
       "risk_level": "Medium",
       "summary": "초과 공급을 관리하는 Broadcom, 할당 제한과 분투 중인 STM",
       "text": "AI 산업은 여전히 가장 유망하고, 이에 따라 특정 Broadcom 시리즈의 가격 인상이 발생하고 있습니다. 다양한 응용 분야에 맞춰 구성 가능한 다목적 스위치는 AI 고객이 주로 집중하는 포인트이며, PEX89104와 PEX89144에 대한 수요도 증가하고 있습니다."
+    },
+    {
+      "date": "2023.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "초과 공급을 관리하는 Broadcom, 할당 제한과 분투 중인 STM",
+      "text": "대안으로 STMicroelectronics 수요 역시 꾸준히 견고한 증가세를 유지하고 있습니다. 자동차 MPN의 VN 시리즈 주문량은 둔화할 기미를 보이지 않으며, 수요가 지속적으로 증가하는 추세입니다. 공급은 아직 해당 업계 고객의 수요를 맞추지 못하고 있으며, E-Lxxxx 및 Lxxxx 시리즈 모터 드라이버의 할당 제한으로 이어지고 있습니다. 리드 타임은 34주까지 연장되었고 해당 부품에 대한 시장 내 재고 가격 역시 크게 상승하고 있습니다."
     },
     {
       "date": "2024.07",
@@ -249,7 +259,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "Broadcom이 주문을 신속하게 처리하기 위해 수수료를 부과함에 따라 연장된 리드 타임",
       "text": "이러한 추세의 부분적 원인은 자재 문제이며, 이로 인해 부품 비용이 증가할 수 있습니다. Broadcom은 적시 배송을 원하는 고객들을 위해 이미 신속 처리 수수료를 도입했습니다."
     },
@@ -350,7 +360,7 @@
         "IC",
         "Memory"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "지속적인 부족 현상",
       "text": "Broadcom은 핵심 RAID 컨트롤러(예: 9560~8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다."
     },
@@ -452,7 +462,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
       "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다."
     }

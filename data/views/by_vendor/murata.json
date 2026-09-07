@@ -28,7 +28,8 @@
     "month": 11,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
     "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
@@ -39,7 +40,28 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
-      "Natural Disaster / Incident"
+      "Natural Disaster / Incident",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "불안정한 시장 상황으로 Murata의 리드 타임 연장",
+    "subheading": "불안정한 시장 상황으로 Murata의 리드 타임 연장",
+    "text": "6~8주 정도이던 MLCC의 리드 타임이 수요 증폭과 원자재 부족으로 인해 최대 16~20주로 늘었습니다. 그에 따라, 자동차용 MLCC의 리드 타임은 30주 이상으로 대폭 늘었으며, 일부 자동차용 MLCC는 리드 타임이 아예 표시되지 않을 정도로 공급이 제한된 상황입니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -77,8 +99,10 @@
     "detected_vendors": [
       "Murata"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -124,7 +148,8 @@
     "month": 5,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "커패시터 공급제한",
     "subheading": "커패시터 공급제한",
@@ -169,10 +194,13 @@
     "text": "Murata와 삼성전자가 필리핀에 MLCC 제조 시설을 보유하고 있으므로, 두 회사 모두 정부의 제한 조치로 인해 제한된 생산능력으로 가동되고 있습니다. 한편 일본 MLCC 공급업체들은 3분기와 4분기의 제품 출시로 촉발된 주문량 유입에 대응해 생산량을 늘리고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Nexperia",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -241,6 +269,25 @@
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
+    "subheading": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
+    "text": "MEMs 기술의 선두 업체 Bosch는 믿을 수 있고 경제적인 소형 부품의 대명사로 성장했습니다. Bosch의 이런 부품은 전 세계 주요 자동차 관련 기업들에게는 없어서는 안될 부품입니다. 하지만 수요가 늘자 리드 타임 역시 연장되어 현재는 26주나 걸립니다. Bosch는 고객의 확장된 니즈를 충족하고자 다음과 같은 애플리케이션에 집중하고 있습니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
     "subheading": "차량 컴포트 시스템(가속 센서 SMA13x 및 각속도 센서 SMG13x 및 통합 관성 센서 SMI23x 포함)",
     "text": "Murata 역시 현재 수급 상황에 더 탄력적으로 대응하고자 생산과 공급망에 변화를 주고 있습니다. 미국과 중국이 발빠르게 분리되는 상황에 대처하고자 Murata는 두 시장에 나란히 제품을 공급하고자 공급망을 복제하고 있습니다. 현재 Murata는 중국과 일본에 주요 생산 시설을 보유하고 있지만 새롭게 태국과 베트남에 신규 생산 시설의 구축을 모색하고 있습니다. 뿐만 아니라 인도의 생산 시설도 늘리고 있습니다.",
     "detected_vendors": [
@@ -252,8 +299,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
@@ -268,8 +316,9 @@
   {
     "year": 2022,
     "month": 12,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Bosch와 Murata, 시장 대응력 개선을 위해 사업모델 전환 계획 추진",
@@ -375,6 +424,7 @@
       "Yageo"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -394,8 +444,11 @@
       "Taiyo Yuden",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -412,6 +465,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -433,6 +487,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -533,7 +588,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },

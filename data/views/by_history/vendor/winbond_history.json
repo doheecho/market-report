@@ -39,7 +39,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "메모리 가격 변동 및 할당 붕괴",
       "text": "Winbond DDR3/DDR4 가격은 2분기 상승이 예상된다. DDR4 16Gb 가격은 2025년 상반기 약 $2.3에서 현재 $15 이상으로 급등했다."
     },

@@ -1,6 +1,6 @@
 {
   "vendor": "Western Digital",
-  "total_milestones": 30,
+  "total_milestones": 32,
   "history": [
     {
       "date": "2020.05",
@@ -67,6 +67,29 @@
     },
     {
       "date": "2022.03",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
+      "text": "WD의 3D NAND 제품을 사용하는 대만 회사 Innodisk와 Transcend 같은 SSD 제조업체가 그 영향을 받을 것으로 보입니다."
+    },
+    {
+      "date": "2022.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "Western Digital 3D NAND 오염 사고가 SSD 시장에 일으킨 파급 효과",
+      "text": "그와 동시에, 전력 관리 IC와 컨트롤러 칩의 공급 부족으로 SSD 전체 공급에 압박이 계속되고 있습니다."
+    },
+    {
+      "date": "2022.03",
       "category": "Storage",
       "detected_categories": [
         "Storage"
@@ -125,7 +148,7 @@
         "Other",
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "공급 부족 및 리드 타임 증가로 어려움을 겪는 HDD 시장",
       "text": "4월에는 공급업체들이 10TB 이상의 대용량 드라이브에 대한 주문을 늘리고, 증가분이 중국 시장에 집중되면서 HDD 수요가 늘어났습니다. 이러한 추세로 인해 고객들은 보다 유리한 비용으로 HDD 공급을 확보하기 위해 시장으로 내몰렸습니다. 지금은 이러한 시장 공급 과잉이 해소되면서 고객들은 유통 채널로 돌아와 향후 수요에 맞춰 재고를 조정하고 있습니다. 그 결과 Seagate와 Western Digital은 HDD 가격을 5~10% 인상했습니다."
     },
@@ -186,7 +209,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "HDDs 용량 전환 및 리드 타임 증가",
       "text": "웨스턴 디지털은 모든 고용량 HDD(20~26TB)가 심각한 공급 제약을 받고 있으며, 지난 한 달 동안 가격이 10% 상승했다고 확인했습니다."
     },
@@ -196,7 +219,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "SEAGATE, WD, Toshiba의 1TB 및 8TB HDD도 제약을 받고 있습니다."
     },
@@ -206,7 +229,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "WD 1TB 및 2TB HDD는 현재 리드타임이 22주로 연장되었습니다. 전반적으로 HDD 공급 문제는 대부분의 제조업체와 용량 구간에서 지속되고 있습니다."
     },
@@ -226,7 +249,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "EOL 통보 및 리드타임 연장",
       "text": "Seagate와 WD 모두 10% 가격 인상이 진행되고 있으며, 20TB 이상 드라이브의 리드타임은 이제 2026년까지 이어지고 있습니다."
     },
@@ -236,7 +259,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "Seagate와 Western Digital은 2년 수요 예측을 요구하고 있다. 2020년 이상 드라이브의 리드타임은 현재 2026년까지 이어지고 있다."
     },
@@ -262,8 +285,9 @@
     },
     {
       "date": "2026.02",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "Medium",
@@ -286,7 +310,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
       "text": "WD 고용량 HDD(18TB~24TB) 리드타임은 3개월~54주이며, Toshiba는 20TB 이상 지원이 불가하다. 10~24TB 제품 리드타임은 2026년 2분기까지 연장된다."
     },

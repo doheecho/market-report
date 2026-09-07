@@ -22,6 +22,49 @@
   },
   {
     "year": 2020,
+    "month": 4,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
+    "section_raw": "삼성 SSD 리드 타임 연장",
+    "subheading": "삼성 SSD 리드 타임 연장",
+    "text": "Nvidia GeForce RTX 2080 Ti 단종?",
+    "detected_vendors": [
+      "Nvidia",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Storage"
+    ],
+    "section_raw": "삼성 SSD 리드 타임 연장",
+    "subheading": "삼성 SSD 리드 타임 연장",
+    "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
+    "detected_vendors": [
+      "Nvidia",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Production Cut"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
     "month": 5,
     "category": "Passive",
     "detected_categories": [
@@ -177,7 +220,8 @@
     "month": 11,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
     "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
@@ -188,7 +232,8 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Natural Disaster / Incident"
+      "Natural Disaster / Incident",
+      "Shortage"
     ],
     "risk_level": "High"
   },
@@ -495,6 +540,46 @@
   },
   {
     "year": 2021,
+    "month": 4,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "삼성, 생산 감소키로",
+    "subheading": "삼성, 생산 감소키로",
+    "text": "앞으로 이런 공급 부족을 예상한 많은 고객이 오픈 마켓에서 완충 재고를 찾고 있습니다. 수요 급증으로 인해 모든 용량의 제품에서 가격이 이미 10% 이상 상승했고, 앞으로도 계속 상승할 것입니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "삼성, 생산 감소키로",
+    "subheading": "삼성, 생산 감소키로",
+    "text": "이는 다른 브랜드의 가격에도 영향을 미칠 것으로 예상됩니다. Intel과 Micron 제품 가격도 올랐고 4월에는 또 다른 가격 상승이 있을 것으로 예상됩니다. 또한, Intel 유통업체는 자재 공급 부족 때문에 작은 용량에서 큰 용량으로 초점을 바꿀 것이라고 보고하고 있습니다.",
+    "detected_vendors": [
+      "Intel",
+      "Micron",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
     "month": 6,
     "category": "Memory",
     "detected_categories": [
@@ -519,7 +604,8 @@
     "month": 7,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "수요 증가로 MLCC 공급에 부담 가중",
     "subheading": "수요 증가로 MLCC 공급에 부담 가중",
@@ -556,7 +642,8 @@
     "month": 8,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "타격을 입는 MLCC 생산",
     "subheading": "타격을 입는 MLCC 생산",
@@ -654,10 +741,13 @@
     "text": "Murata와 삼성전자가 필리핀에 MLCC 제조 시설을 보유하고 있으므로, 두 회사 모두 정부의 제한 조치로 인해 제한된 생산능력으로 가동되고 있습니다. 한편 일본 MLCC 공급업체들은 3분기와 4분기의 제품 출시로 촉발된 주문량 유입에 대응해 생산량을 늘리고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Nexperia",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -726,8 +816,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -882,12 +974,14 @@
     "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
+      "Intel",
       "Micron",
       "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
       "Allocation",
+      "EOL",
       "Shortage"
     ],
     "risk_level": "High"
@@ -934,6 +1028,22 @@
     ],
     "section_raw": "삼성, 최신 나노시트 제조 경쟁 강화",
     "subheading": "삼성, 최신 나노시트 제조 경쟁 강화",
+    "text": "3nm 칩에서의 발전이 상당하긴 하지만 현재 5nm 칩을 대체할 수는 없습니다. 현재 3nm 시장은 아직 시장이 새로운 공정을 인정하는 방향으로 움직이고 있기 때문에 규모가 작습니다.",
+    "detected_vendors": [
+      "삼성"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "삼성, 최신 나노시트 제조 경쟁 강화",
+    "subheading": "삼성, 최신 나노시트 제조 경쟁 강화",
     "text": "하이엔드 스마트 전자 기기와 같은 제품에 대한 수요 감소를 피하기 위해 삼성은 파운드리 제조의 경영을 대체함으로써 미래를 내다보고 있습니다. 이러한 기술 개혁을 통해 삼성은 더 높은 수준에서 TSMC와 Intel과 경쟁하는 것을 목표로 하고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -959,8 +1069,11 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -1068,8 +1181,10 @@
       "TSMC",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1083,17 +1198,62 @@
     "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
     "text": "많은 언론 매체들은 또한 삼성이 가격 책정 방식을 변경하고 많은 마이크로프로세서와 주변 장치 칩 제품의 가격을 인상할 계획이라고 밝혔습니다.",
     "detected_vendors": [
+      "Intel",
+      "TSMC",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "text": "통신 산업 내 전자 제품의 발전으로 계속해서 더욱 복잡한 생산이 필요해지면서 제조 비용이 증가하고 있습니다. 이러한 대폭적인 가격 인상설은 고품질 규격을 유지하면서 추가 생산 비용을 고객에게 전가하려는 의도에서 나온 것입니다.",
+    "detected_vendors": [
+      "Intel",
+      "TSMC",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "subheading": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+    "text": "최대 규모의 모바일 통신 고객 중 하나는 이러한 움직임에 대해 이미 TSMC에 불만을 표명하고 추가 비용 지불을 거부하고 있습니다.",
+    "detected_vendors": [
+      "Intel",
+      "TSMC",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
     "month": 12,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Storage"
     ],
     "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
@@ -1107,9 +1267,11 @@
   {
     "year": 2023,
     "month": 1,
-    "category": "Other",
+    "category": "Memory",
     "detected_categories": [
-      "Other"
+      "Memory",
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -1127,7 +1289,8 @@
     "detected_categories": [
       "IC",
       "Memory",
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -1147,7 +1310,8 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Memory"
     ],
     "section_raw": "IC",
     "subheading": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
@@ -1157,6 +1321,47 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
+    "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
+    "text": "고객들이 DDR4에서 DDR5로 점차 전환하고 있는 것으로 보이기 때문에 이러한 제약은 2024년까지 계속될 수 있습니다. 이러한 전환은 DDR5의 향상된 성능, 고용량 지원 기능 및 향상된 전력 효율성 때문일 확률이 높습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2023,
@@ -1197,7 +1402,9 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "Price Decrease"
+    ],
     "risk_level": "Low"
   },
   {
@@ -1225,7 +1432,8 @@
     "category": "Memory",
     "detected_categories": [
       "Memory",
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "하드웨어",
     "subheading": "스토리지 가격 하락세 지속에 따른 감산",
@@ -1235,7 +1443,8 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Price Decrease"
+      "Price Decrease",
+      "Production Cut"
     ],
     "risk_level": "Low"
   },
@@ -1264,7 +1473,8 @@
     "month": 2,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Storage"
     ],
     "section_raw": "메모리",
     "subheading": "스토리지 수요 증가로 NAND 플래시 시장 반등",
@@ -1333,6 +1543,48 @@
     ],
     "detected_keywords": [
       "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+    "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+    "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
+    "detected_vendors": [
+      "SK하이닉스",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
     ],
     "risk_level": "High"
   },
@@ -1409,8 +1661,10 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -1719,7 +1973,8 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL"
+      "EOL",
+      "Price Decrease"
     ],
     "risk_level": "High"
   },
@@ -1807,8 +2062,11 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -1825,8 +2083,10 @@
       "Micron",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -1894,6 +2154,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -1914,8 +2175,11 @@
       "Taiyo Yuden",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -1971,6 +2235,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"
@@ -2004,8 +2269,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -2063,6 +2330,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time"
     ],
     "risk_level": "Medium"
@@ -2195,9 +2463,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -2214,9 +2483,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Price Increase"
+      "Price Increase",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2025,
@@ -2387,6 +2657,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2407,9 +2678,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "Shortage"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2448,6 +2720,7 @@
     ],
     "detected_keywords": [
       "Allocation",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2501,8 +2774,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -2520,6 +2795,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -2528,8 +2804,9 @@
   {
     "year": 2026,
     "month": 2,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -2631,6 +2908,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2670,6 +2948,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Shortage"
     ],
     "risk_level": "High"
@@ -2688,8 +2967,11 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -2740,8 +3022,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -2780,8 +3064,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -2800,6 +3086,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -2876,6 +3163,7 @@
       "삼성"
     ],
     "detected_keywords": [
+      "Allocation",
       "Lead Time",
       "Shortage"
     ],
@@ -2915,7 +3203,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
@@ -2977,14 +3266,17 @@
       "SK하이닉스",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
     "month": 7,
-    "category": "Storage",
+    "category": "Memory",
     "detected_categories": [
+      "Memory",
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -3054,8 +3346,10 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,
@@ -3072,9 +3366,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Allocation"
+      "Allocation",
+      "EOL"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2026,

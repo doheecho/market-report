@@ -1,6 +1,6 @@
 {
   "vendor": "삼성",
-  "total_milestones": 165,
+  "total_milestones": 176,
   "history": [
     {
       "date": "2020.04",
@@ -12,6 +12,28 @@
       "risk_level": "Medium",
       "summary": "삼성 SSD 리드 타임 연장",
       "text": "삼성은 정상적인 생산에 제약을 받고 있어, 2분기에는 가격이 최대 15~20% 인상될 것으로 예상됩니다. 현재 모든 라인에 대해 최소 12주 이상의 리드 타임이 걸리며, 이런 상황에서 삼성은 OEM 글로벌 티어 1 에 집중하여 공급 하려고 합니다. 제품 가용성의 제한으로 Micron 및 하이닉스 모델에도 영향을 미칠 것으로 예상됩니다."
+    },
+    {
+      "date": "2020.04",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "삼성 SSD 리드 타임 연장",
+      "text": "Nvidia GeForce RTX 2080 Ti 단종?"
+    },
+    {
+      "date": "2020.04",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "삼성 SSD 리드 타임 연장",
+      "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다."
     },
     {
       "date": "2020.05",
@@ -104,7 +126,8 @@
       "date": "2020.11",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "High",
       "summary": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
@@ -281,6 +304,27 @@
       "text": "삼성의 SSD 공급이 SSD 생산에 중요한 IC 컨트롤러 칩을 생산하는 텍사스 제조공장의 폐쇄로 인해 심각한 영향을 받았습니다. 그 점 때문에, 5월에는 일부 삼성 SSD의 생산량이 30% 감소할 수 있습니다."
     },
     {
+      "date": "2021.04",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "삼성, 생산 감소키로",
+      "text": "앞으로 이런 공급 부족을 예상한 많은 고객이 오픈 마켓에서 완충 재고를 찾고 있습니다. 수요 급증으로 인해 모든 용량의 제품에서 가격이 이미 10% 이상 상승했고, 앞으로도 계속 상승할 것입니다."
+    },
+    {
+      "date": "2021.04",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "삼성, 생산 감소키로",
+      "text": "이는 다른 브랜드의 가격에도 영향을 미칠 것으로 예상됩니다. Intel과 Micron 제품 가격도 올랐고 4월에는 또 다른 가격 상승이 있을 것으로 예상됩니다. 또한, Intel 유통업체는 자재 공급 부족 때문에 작은 용량에서 큰 용량으로 초점을 바꿀 것이라고 보고하고 있습니다."
+    },
+    {
       "date": "2021.06",
       "category": "Memory",
       "detected_categories": [
@@ -295,7 +339,8 @@
       "date": "2021.07",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "High",
       "summary": "수요 증가로 MLCC 공급에 부담 가중",
@@ -315,7 +360,8 @@
       "date": "2021.08",
       "category": "Other",
       "detected_categories": [
-        "Other"
+        "Other",
+        "Passive"
       ],
       "risk_level": "Low",
       "summary": "타격을 입는 MLCC 생산",
@@ -371,7 +417,7 @@
         "Other",
         "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "NXP, 리드 타임을 2022년까지 연장",
       "text": "Murata와 삼성전자가 필리핀에 MLCC 제조 시설을 보유하고 있으므로, 두 회사 모두 정부의 제한 조치로 인해 제한된 생산능력으로 가동되고 있습니다. 한편 일본 MLCC 공급업체들은 3분기와 4분기의 제품 출시로 촉발된 주문량 유입에 대응해 생산량을 늘리고 있습니다."
     },
@@ -412,7 +458,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "삼성전자, 이전 분기의 공급 부족으로 4분기에 난관에 직면",
       "text": "삼성전자는 코로나19로 인해 베트남 정부의 강제 폐쇄 조치로 타격을 받은 시설을 보유한 제조업체 중 하나였습니다. 공장 운영 능력이 몇 달간 제한되었지만, 11월에는 100%로 가동될 것으로 예상됩니다."
     },
@@ -531,6 +577,16 @@
       ],
       "risk_level": "Low",
       "summary": "삼성, 최신 나노시트 제조 경쟁 강화",
+      "text": "3nm 칩에서의 발전이 상당하긴 하지만 현재 5nm 칩을 대체할 수는 없습니다. 현재 3nm 시장은 아직 시장이 새로운 공정을 인정하는 방향으로 움직이고 있기 때문에 규모가 작습니다."
+    },
+    {
+      "date": "2022.08",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "삼성, 최신 나노시트 제조 경쟁 강화",
       "text": "하이엔드 스마트 전자 기기와 같은 제품에 대한 수요 감소를 피하기 위해 삼성은 파운드리 제조의 경영을 대체함으로써 미래를 내다보고 있습니다. 이러한 기술 개혁을 통해 삼성은 더 높은 수준에서 TSMC와 Intel과 경쟁하는 것을 목표로 하고 있습니다."
     },
     {
@@ -541,7 +597,7 @@
         "Memory",
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
       "text": "반대로 삼성, Micron 및 다른 프랜차이즈 유통업체는 이전 예약으로 인해 높은 수준의 재고와 생산량을 갖추고 있습니다. 개인용 컴퓨터 및 노트북을 포함한 컴퓨터 제품은 데이터 센터의 수요 감소와 충분한 공급을 받는 고객 덕분에 현재 하락하는 추세입니다. 이로 인해 DDR4, LPDDR 및 eMMC의 가격이 하락할 것으로 예상됩니다."
     },
@@ -603,7 +659,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
       "text": "TSMC, 삼성 및 Intel은 각자의 파운드리 사업을 위해 2023년 다시 한번 계약 가격을 인상할 예정입니다. TSMC는 또한 고객의 NCNR 주문을 더욱 엄격하게 적용하면서, 고객에게 수요 예측치보다 더 많은 양의 자재 주문을 압박하고 있습니다. 이 전략은 TSMC가 계약 칩 제조업체로부터 추가 지원을 받을 수 있는 제품 라인 공간을 확보하기 위해 구현될 확률이 높습니다. 또한 이를 통해 시장의 실제 요구사항을 더 잘 파악할 수 있습니다. 제조 공정의 복잡성에 따라 가격이 6~9% 인상될 수 있다는 소문이 있습니다."
     },
@@ -614,15 +670,36 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
       "text": "많은 언론 매체들은 또한 삼성이 가격 책정 방식을 변경하고 많은 마이크로프로세서와 주변 장치 칩 제품의 가격을 인상할 계획이라고 밝혔습니다."
+    },
+    {
+      "date": "2022.11",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+      "text": "통신 산업 내 전자 제품의 발전으로 계속해서 더욱 복잡한 생산이 필요해지면서 제조 비용이 증가하고 있습니다. 이러한 대폭적인 가격 인상설은 고품질 규격을 유지하면서 추가 생산 비용을 고객에게 전가하려는 의도에서 나온 것입니다."
+    },
+    {
+      "date": "2022.11",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
+      "text": "최대 규모의 모바일 통신 고객 중 하나는 이러한 움직임에 대해 이미 TSMC에 불만을 표명하고 추가 비용 지불을 거부하고 있습니다."
     },
     {
       "date": "2022.12",
       "category": "Memory",
       "detected_categories": [
-        "Memory"
+        "Memory",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
@@ -630,9 +707,11 @@
     },
     {
       "date": "2023.01",
-      "category": "Other",
+      "category": "Memory",
       "detected_categories": [
-        "Other"
+        "Memory",
+        "Other",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -644,7 +723,8 @@
       "detected_categories": [
         "IC",
         "Memory",
-        "Other"
+        "Other",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -654,11 +734,34 @@
       "date": "2023.04",
       "category": "IC",
       "detected_categories": [
-        "IC"
+        "IC",
+        "Memory"
       ],
       "risk_level": "Low",
       "summary": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
       "text": "이 때문에 삼성은 다음 분기에는 생산을 줄이겠다는 발표를 했습니다. 대신, 삼성은 제품 라인 효율성과 라인 설비 호환성을 증진하여 투자 효율성을 높이고 구조를 개선할 계획입니다."
+    },
+    {
+      "date": "2023.05",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
+      "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다."
+    },
+    {
+      "date": "2023.05",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
+      "text": "고객들이 DDR4에서 DDR5로 점차 전환하고 있는 것으로 보이기 때문에 이러한 제약은 2024년까지 계속될 수 있습니다. 이러한 전환은 DDR5의 향상된 성능, 고용량 지원 기능 및 향상된 전력 효율성 때문일 확률이 높습니다."
     },
     {
       "date": "2023.05",
@@ -699,7 +802,8 @@
       "category": "Memory",
       "detected_categories": [
         "Memory",
-        "Other"
+        "Other",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "스토리지 가격 하락세 지속에 따른 감산",
@@ -720,7 +824,8 @@
       "date": "2024.02",
       "category": "Memory",
       "detected_categories": [
-        "Memory"
+        "Memory",
+        "Storage"
       ],
       "risk_level": "Low",
       "summary": "스토리지 수요 증가로 NAND 플래시 시장 반등",
@@ -758,6 +863,29 @@
       "risk_level": "High",
       "summary": "수요 증가 및 공급 제약으로 인한 DDR 가격 급등",
       "text": "삼성에서도 재고를 상당량 보류하고 있는 것으로 알려져 공급 상황이 더욱 악화될 것입니다. DDR3 및 DDR4 수요가 계속 급증함에 따라 공급 부족으로 인해 향후 2분기 이내에 가격 급등이 추가로 발생할 가능성이 높습니다."
+    },
+    {
+      "date": "2024.05",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+      "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다."
+    },
+    {
+      "date": "2024.05",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
+      "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다."
     },
     {
       "date": "2024.05",
@@ -800,7 +928,7 @@
         "Other",
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "SSD: 용량 전반에 걸친 10~25%의 가격 상승",
       "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다."
     },
@@ -1024,7 +1152,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "RDIMM DDR5 가격 상승 및 DDR4 단종",
       "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다."
     },
@@ -1035,7 +1163,7 @@
         "IC",
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
       "text": "삼성와Micron은 공식적으로 저용량 SSD(240GB~1TB) 생산을 축소했으며, 이로 인해 일반 애플리케이션용 SSD 공급이 제한되고 있습니다."
     },
@@ -1085,7 +1213,7 @@
       "detected_categories": [
         "Passive"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "수동 부품 리드 타임 연장 및 할당",
       "text": "Samsung, Murata, Taiyo Yuden MLCC는 3분기에 공급 문제에 직면할 수 있습니다."
     },
@@ -1138,7 +1266,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "RDIMM 긴급한 할당 속 장기 지원",
       "text": "AI 서버(B200/B300)용 96GB 및 128GB 고용량 모듈이 가장 큰 제약을 받고 있다. 삼성의 96GB(Q-die)는 공급이 다소 나은 편이지만, 128GB는 다이 공유 생산으로 인해 여전히 매우 타이트하다."
     },
@@ -1243,7 +1371,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "용량 부족 및 제조사 가격 변동",
       "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다."
     },
@@ -1253,7 +1381,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "용량 부족 및 제조사 가격 변동",
       "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20~30% 가격 인상이 적용되고 있다."
     },
@@ -1353,7 +1481,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
       "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20~70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다."
     },
@@ -1405,7 +1533,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
       "text": "DDR5 RDIMM 64GB 계약 가격은 전 분기 대비 75~125% 급등했습니다. 현물 가격은 2,300~3,000달러 이상에서 형성되고 있습니다. 삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다."
     },
@@ -1422,8 +1550,9 @@
     },
     {
       "date": "2026.02",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "Low",
@@ -1501,7 +1630,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
       "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다."
     },
@@ -1531,7 +1660,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "메모리 가격 변동 및 할당 붕괴",
       "text": "삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다."
     },
@@ -1552,7 +1681,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "메모리 가격 변동 및 할당 붕괴",
       "text": "삼성 DDR5 RDIMM 64GB 계약 가격은 전분기 대비 75~125% 상승했다. 현물 가격은 2,300 ~ 3,000 이상이며, 하이퍼스케일러는 2030년까지 장기 계약을 체결하여 기존 OEM 및 자동차 시장은 최소 2027년까지 배제되고 있다."
     },
@@ -1656,14 +1785,15 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "Medium",
       "summary": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
       "text": "SK하이닉스, 삼성전자, 마이크론은 시장에 2026년 3분기 DRAM 가격이 15~20% 상승하고, 4분기에 추가로 15% 상승할 것으로 전망한다고 밝혔다. NAND 플래시 가격은 3분기에 30~40% 상승한 뒤 4분기에 추가로 15% 오를 것으로 예상된다."
     },
     {
       "date": "2026.07",
-      "category": "Storage",
+      "category": "Memory",
       "detected_categories": [
+        "Memory",
         "Storage"
       ],
       "risk_level": "High",
@@ -1697,7 +1827,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "메모리 유동적 가격 책정 및 단종 확산",
       "text": "DDR5 RDIMM의 비하이퍼스케일러 대상 공급 충족률은 여전히 30% 미만입니다. 64GB 모듈의 현물 가격은 통상 3,100달러를 넘고 있으며, 계약 가격은 전월 대비 8~10%씩 계속 상승하고 있습니다. Samsung은 2026년 하반기에 5600MHz 제품보다 6400MHz 제품의 생산 비중을 전략적으로 확대하고 있습니다."
     },
@@ -1707,7 +1837,7 @@
       "detected_categories": [
         "Memory"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "메모리 유동적 가격 책정 및 단종 확산",
       "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다."
     },

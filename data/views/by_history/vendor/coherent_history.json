@@ -50,7 +50,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
       "text": "Coherent(Finisar)는 400G/800G 트랜시버의 리드타임을 6개월 연장했으며, 일부 자재는 2028년까지의 공급 일정으로만 확보된 상태입니다. 말레이시아 및 중국 생산 시설은 신규 주문을 적극적으로 제한하고 있습니다."
     },
@@ -60,7 +60,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
       "text": "Coherent(Finisar)는 400G/800G 트랜시버 리드타임을 6개월 연장했으며 일부 소재는 2028년까지 지연되고 있다. 말레이시아 및 중국 생산은 신규 주문을 제한하고 있다."
     },
@@ -70,7 +70,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
       "text": "Coherent(Finisar)는 400G/800G 트랜시버 리드타임을 6개월 연장했으며 일부 소재는 2028년까지 지연되고 있다. 말레이시아 및 중국 생산은 신규 주문을 제한하고 있다."
     },

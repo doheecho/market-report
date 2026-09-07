@@ -28,7 +28,8 @@
     "month": 11,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
     "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
@@ -36,8 +37,10 @@
     "detected_vendors": [
       "Taiyo Yuden"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -65,7 +68,8 @@
     "category": "IC",
     "detected_categories": [
       "IC",
-      "Other"
+      "Other",
+      "Passive"
     ],
     "section_raw": "타격을 입는 MLCC 생산",
     "subheading": "타격을 입는 MLCC 생산",
@@ -131,8 +135,11 @@
       "Taiyo Yuden",
       "삼성"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -173,7 +180,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Price Increase"
     ],
     "risk_level": "Medium"
   },
