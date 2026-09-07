@@ -2,7 +2,7 @@
   "vendor_mappings": [
     {"pattern": "samsung|삼성|삼성전자", "representative": "삼성"},
     {"pattern": "micron|마이크론", "representative": "Micron"},
-    {"pattern": "hynix|하이닉스|sk hynix|sk_hynix|sk 하이닉스", "representative": "SK하이닉스"},
+    {"pattern": "hynix|하이닉스|sk hynix|sk_hynix|sk 하이닉스,solidigm|솔리다임", "representative": "SK하이닉스"},
     {"pattern": "intel|인텔|altera|알테라", "representative": "Intel"},
     {"pattern": "nvidia|엔비디아", "representative": "Nvidia"},
     {"pattern": "amd|advanced micro devices|xilinx|자일링스|xlinx", "representative": "AMD"},
@@ -12,7 +12,6 @@
     {"pattern": "lattice|래티스|lattice\\s*semiconductor", "representative": "Lattice"},
     {"pattern": "toshiba|도시바", "representative": "Toshiba"},
     {"pattern": "seagate|씨게이트", "representative": "Seagate"},
-    {"pattern": "solidigm|솔리다임", "representative": "Solidigm"},
     {"pattern": "kioxia|키옥시아", "representative": "Kioxia"},
     {"pattern": "murata|무라타", "representative": "Murata"},
     {"pattern": "taiyo yuden|taiyo|태양유전", "representative": "Taiyo Yuden"},
