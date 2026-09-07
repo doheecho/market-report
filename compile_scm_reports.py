@@ -160,7 +160,7 @@ def analyze_paragraph(text):
     return sorted(list(detected_vendors)), sorted(list(detected_keywords))
 
 def calculate_risk_level(keywords):
-    high_risk_indicators = {"Shortage", "EOL", "Discommit", "Natural Disaster / Incident", "Quality / Defect"}
+    high_risk_indicators = {"Shortage", "EOL", "Discommit", "Natural Disaster / Incident"}
     medium_risk_indicators = {"Price Increase", "Lead Time", "Allocation", "Tariff", "Geopolitics / Sanctions"}
     
     k_set = set(keywords)

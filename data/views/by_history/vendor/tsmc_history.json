@@ -357,7 +357,7 @@
         "GPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "제품 업데이트",
       "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다."
     },

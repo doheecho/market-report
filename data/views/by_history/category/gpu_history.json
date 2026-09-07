@@ -1574,7 +1574,7 @@
         "Nvidia",
         "TSMC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "제품 업데이트",
       "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다."
     },
@@ -1760,7 +1760,7 @@
       "detected_vendors": [
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "GPU 공급 문제 속 Nvidia의 강세",
       "text": "NVIDIA의 RTX 5090 GPUs는 결함 논란으로 인해 40xx 시리즈와 같은 이전 구형GPU에 대한 문의가 증가하고 있습니다."
     },
@@ -1796,7 +1796,7 @@
       "detected_vendors": [
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "제조업체 및 기업 업데이트",
       "text": "NVIDIA의 GeForce RTX 5000 시리즈GPUs는 하드웨어 및 소프트웨어 결함 문제가 발생하면서 소비자들의 불만이 커지고 있습니다."
     },
@@ -1839,7 +1839,7 @@
       "detected_vendors": [
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "GPU 가격 변동성과 시장 수요",
       "text": "NVIDIA의 최신 소비자용 Blackwell GPUs는 결함 관련 논란이 있으며, 이에 따라 기존 40xx 시리즈에 대한 문의가 증가하고 있습니다."
     },
@@ -1929,7 +1929,7 @@
       "detected_vendors": [
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "FGs 젯슨 시리즈 수요 증가",
       "text": "여러 고객이 NVIDIA 젯슨 오린 NX 8GB/16GB에 대해 전압 관련 문제로 품질 문제를 보고했습니다."
     },

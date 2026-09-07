@@ -60,7 +60,7 @@
       "Lead Time",
       "Quality / Defect"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -4637,7 +4637,7 @@
     "detected_keywords": [
       "Quality / Defect"
     ],
-    "risk_level": "High"
+    "risk_level": "Low"
   },
   {
     "year": 2026,

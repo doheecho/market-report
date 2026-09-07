@@ -3600,7 +3600,7 @@
       "detected_vendors": [
         "STMicroelectronics"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "긴 리드 타임이 STM 자동차 채널 드라이버 및 MCU에 미치는 영향",
       "text": "STM 모로코 공장의 리드 프레임 패키징 품질 문제로 인해 VN 시리즈의 채널 드라이버가 지연되었습니다. STM이 현 상황에서 주문 할당 방법을 평가하면서 리드 타임이 계속해서 늘어나고 있고 특정 MPN의 경우 리드 타임이 100주가 넘었습니다."
     },
@@ -4389,7 +4389,7 @@
       "detected_vendors": [
         "AMD"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "주요 제품 변경 알림을 발표한 Xilinx",
       "text": "반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다."
     },
@@ -4855,7 +4855,7 @@
         "Nvidia",
         "TSMC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "제품 업데이트",
       "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다."
     },

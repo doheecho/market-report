@@ -1991,7 +1991,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "주요 제품 변경 알림을 발표한 Xilinx",
       "text": "반송 승인(RMA): 품질 문제로 인한 기기 교체 요청을 할 수 있는 마지막 날짜는 2025년 6월 27일입니다."
     },

@@ -183,7 +183,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "긴 리드 타임이 STM 자동차 채널 드라이버 및 MCU에 미치는 영향",
       "text": "STM 모로코 공장의 리드 프레임 패키징 품질 문제로 인해 VN 시리즈의 채널 드라이버가 지연되었습니다. STM이 현 상황에서 주문 할당 방법을 평가하면서 리드 타임이 계속해서 늘어나고 있고 특정 MPN의 경우 리드 타임이 100주가 넘었습니다."
     },
