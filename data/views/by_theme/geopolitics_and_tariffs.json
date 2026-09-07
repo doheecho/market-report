@@ -866,57 +866,6 @@
   },
   {
     "year": 2025,
-    "month": 6,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU"
-    ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "Nvidia는 수출 규제를 준수하는 중국 전용 AI 칩을 개발 중인 것으로 알려짐: H20 칩의 중국 수출 금지 이후, Nvidia는 B30으로 불리는 Blackwell 기반 대체 제품을 설계 중이며, multi-GPU 확장 기능을 갖춤",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Geopolitics / Sanctions"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 6,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "IC"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "미국, 중국산 GPU 관세 면제 8월 31일까지 연장: 미국무역대표부(USTR)는 GPU, 메인보드, 태양광 패널 등 칩 및 반도체가 포함된 부품에 대한 25% 관세(섹션 301 조항) 부과를 향후 3개월간 유예한다고 발표함",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Tariff"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 6,
-    "category": "Other",
-    "detected_categories": [
-      "Other"
-    ],
-    "section_raw": "주요 동향",
-    "subheading": "주요 동향",
-    "text": "6월 9일 런던 회담에서 새로운 기본 협정이 체결되었습니다. 미국은 이제 중국산 수입품에 대해 총 55%의 관세를 부과할 예정이며, 이는 25%의 1차 관세, 20%의 ‘펜타닐’ 부과금, 10%의 상호주의 관세로 구성됨",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Tariff"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
     "month": 8,
     "category": "IC",
     "detected_categories": [

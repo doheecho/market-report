@@ -5,39 +5,16 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "삼성 SSD 리드 타임 연장",
-    "subheading": "삼성 SSD 리드 타임 연장",
-    "text": "Nvidia GeForce RTX 2080 Ti 단종?",
-    "detected_vendors": [
-      "Nvidia",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "EOL",
-      "Lead Time"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2020,
-    "month": 4,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "삼성 SSD 리드 타임 연장",
-    "subheading": "삼성 SSD 리드 타임 연장",
+    "section_raw": "Nvidia GeForce RTX 2080 Ti 단종",
+    "subheading": "Nvidia GeForce RTX 2080 Ti 단종",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia",
-      "삼성"
+      "Nvidia"
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
       "Production Cut"
     ],
     "risk_level": "High"
@@ -597,26 +574,6 @@
   },
   {
     "year": 2022,
-    "month": 1,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU",
-      "IC",
-      "Other"
-    ],
-    "section_raw": "Intel, Enpirion Power Solutions 시리즈 단종 발표",
-    "subheading": "Intel, Enpirion Power Solutions 시리즈 단종 발표",
-    "text": "Intel의 Enpirion Power Solution 시리즈 단종으로 시장에서는 전력 관리 장치의 수요가 증가했습니다. 이러한 장치는 FPGA, SoC, CPU, ASIC 등에 사용됩니다. 공지 사항에는 이러한 제품의 단종이 Enpirion의 전력 사업 철수에 따른 조치라고 되어 있습니다. 또한, 해당 부품이 Intel의 IC 제품 라인업에서 단계적으로 단종됨에 따라 고객에게도 주요 단종 일정을 공지하고 있습니다. 2022년 3월 18일에 마지막 주문 접수, 2023년 3월 31일에 마지막 선적",
-    "detected_vendors": [
-      "Intel"
-    ],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
     "month": 3,
     "category": "GPU",
     "detected_categories": [
@@ -661,15 +618,14 @@
       "Storage"
     ],
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
-    "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
-    "text": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) - 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) - 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지",
+    "subheading": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) - 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) - 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지",
+    "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다.",
     "detected_vendors": [
       "Intel",
       "SK하이닉스"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -700,8 +656,8 @@
       "Other"
     ],
     "section_raw": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
-    "subheading": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
-    "text": "Intel은 다음 이더넷 컨트롤러/칩셋 시리즈 전반에 대한 지원 종료를 발표합니다. I350-BT2, I210-AT, I210-IT, I211-AT, I210-AS, 82574L 기가비트 이더넷 컨트롤러, 82574IT 기가비트 이더넷 컨트롤러, 82583V 기가비트 이더넷 컨트롤러, 82579V 기가비트 이더넷 PHY, 82579LM 기가비트 이더넷 PHY",
+    "subheading": "Intel은 다음 이더넷 컨트롤러/칩셋 시리즈 전반에 대한 지원 종료를 발표합니다. I350-BT2, I210-AT, I210-IT, I211-AT, I210-AS, 82574L 기가비트 이더넷 컨트롤러, 82574IT 기가비트 이더넷 컨트롤러, 82583V 기가비트 이더넷 컨트롤러, 82579V 기가비트 이더넷 PHY, 82579LM 기가비트 이더넷 PHY",
+    "text": "또한, 여러 Intel 이더넷 컨트롤러에 걸쳐 다음 제품 변경에 대한 통지가 이루어졌습니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -719,7 +675,7 @@
       "Other"
     ],
     "section_raw": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
-    "subheading": "Intel의 이더넷 컨트롤러 및 칩셋에 주요 제품 변화 발생",
+    "subheading": "Intel은 다음 이더넷 컨트롤러/칩셋 시리즈 전반에 대한 지원 종료를 발표합니다. I350-BT2, I210-AT, I210-IT, I211-AT, I210-AS, 82574L 기가비트 이더넷 컨트롤러, 82574IT 기가비트 이더넷 컨트롤러, 82583V 기가비트 이더넷 컨트롤러, 82579V 기가비트 이더넷 PHY, 82579LM 기가비트 이더넷 PHY",
     "text": "곧 단종될 시리즈가 오픈 마켓에서 활발히 거래되고 있고 이용 가능한 모든 제품에서 가격이 지속적으로 상승하고 있습니다.",
     "detected_vendors": [
       "Intel"
@@ -794,13 +750,14 @@
       "Other"
     ],
     "section_raw": "이더넷 컨트롤러 공급 부족으로 인한 재설계 또는 대체품 필요",
-    "subheading": "이더넷 컨트롤러 공급 부족으로 인한 재설계 또는 대체품 필요",
-    "text": "WGI210IT 이더넷 컨트롤러 I210-IT 및 WGI210IS 이더넷 컨트롤러 I210-IS에 대한 오픈 마켓 수요는 하락했지만, 여전히 공급은 제한되어 있습니다. Intel이 고객의 요구를 충족하기 위해 백 만개의 WGI211AT 이더넷 컨트롤러 I211-AT를 출하한 것으로 알려졌지만, 이를 통해 현재 공급과 수요의 불균형을 완화할 수 있을지는 불분명합니다. 이는 최종 제품 단종 주문 날짜가 2022년 4월 22일, 최종 제품 단종 배송 날짜가 2022년 10월 22일로 등록된 WG1211AT의 단종 부품(EOL) PCN 보다 먼저 나타납니다. 권장 대체품은 다음과 같습니다. WGI210AT 이더넷 컨트롤러 I210-AT, KTI225LM 이더넷 컨트롤러 I225-LM, KTI226LM 이더넷 컨트롤러 I226-LM",
+    "subheading": "WGI210IT 이더넷 컨트롤러 I210-IT 및 WGI210IS 이더넷 컨트롤러 I210-IS에 대한 오픈 마켓 수요는 하락했지만, 여전히 공급은 제한되어 있습니다. Intel이 고객의 요구를 충족하기 위해 백 만개의 WGI211AT 이더넷 컨트롤러 I211-AT를 출하한 것으로 알려졌지만, 이를 통해 현재 공급과 수요의 불균형을 완화할 수 있을지는 불분명합니다. 이는 최종 제품 단종 주문 날짜가 2022년 4월 22일, 최종 제품 단종 배송 날짜가 2022년 10월 22일로 등록된 WG1211AT의 단종 부품(EOL) PCN 보다 먼저 나타납니다. 권장 대체품은 다음과 같습니다. WGI210AT 이더넷 컨트롤러 I210-AT, KTI225LM 이더넷 컨트롤러 I225-LM, KTI226LM 이더넷 컨트롤러 I226-LM",
+    "text": "마더보드 레이아웃은 KTI225LM 또는 KTI226LM을 사용하도록 수정되어야 합니다. 공급이 여전히 제한되어 있고 추가 수요로 인해 리드 타임이 길어지고 가격이 상승할 수도 있으므로 WGI211AT와 WGI210AT를 사용하려는 사람들은 가능한 한 빨리 구매해야 합니다.",
     "detected_vendors": [
       "Intel"
     ],
     "detected_keywords": [
       "EOL",
+      "Lead Time",
       "Shortage"
     ],
     "risk_level": "High"
@@ -808,13 +765,14 @@
   {
     "year": 2022,
     "month": 8,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "text": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
+    "subheading": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
+    "text": "Intel의 경우 네트워크 어댑터 카드용 칩셋의 가용성이 향상되었습니다. 그러나 특히 I350T2V2 모델의 경우, 전반적으로 보드용 부품을 구하는 것은 여전히 어렵습니다. 공급 부족은 3분기까지 지속되고 4분기에는 완화될 것으로 예상됩니다. 그 사이에 가격은 제조 비용과 함께 상승할 것으로 예상됩니다.",
     "detected_vendors": [
       "Intel",
       "Mellanox"
@@ -853,25 +811,7 @@
       "Storage"
     ],
     "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "text": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
-    "detected_vendors": [
-      "Intel"
-    ],
-    "detected_keywords": [
-      "EOL"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 8,
-    "category": "Storage",
-    "detected_categories": [
-      "Storage"
-    ],
-    "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "subheading": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
     "text": "Intel은 3분기 동안 NVMe 모델 비용을 3~5% 인하할 예정입니다. 이로 인해 특히 1.92TB 이상의 대용량에 대한 수요가 개선되었습니다. SATA SSD의 경우 가격 변동이 없습니다.",
     "detected_vendors": [
       "Intel"
@@ -890,7 +830,7 @@
       "Storage"
     ],
     "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "subheading": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
       "Intel",

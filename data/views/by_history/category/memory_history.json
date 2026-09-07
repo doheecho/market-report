@@ -1,6 +1,6 @@
 {
   "category": "Memory",
-  "total_milestones": 435,
+  "total_milestones": 432,
   "history": [
     {
       "date": "2020.04",
@@ -2328,15 +2328,6 @@
       "text": "삼성, HBM4 로드맵 공개: 삼성은 NVIDIA 및 Broadcom과 맞춤형 HBM4를 2026년 상반기(1H26)에 출하하기 위해 협의 중인 것으로 알려졌습니다."
     },
     {
-      "date": "2025.06",
-      "detected_vendors": [
-        "Kioxia"
-      ],
-      "risk_level": "Low",
-      "summary": "공급망 동향",
-      "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임"
-    },
-    {
       "date": "2025.07",
       "detected_vendors": [],
       "risk_level": "Medium",
@@ -2397,15 +2388,6 @@
       "risk_level": "Low",
       "summary": "RDIMM 수요 재정렬 및 가격 압박",
       "text": "UDIMMs에 대한 수요는 게임 부문에서 증가 중이며, 일반 데스크탑 수요는 안정적입니다."
-    },
-    {
-      "date": "2025.07",
-      "detected_vendors": [
-        "SK하이닉스"
-      ],
-      "risk_level": "Low",
-      "summary": "제조업체 뉴스 및 업데이트",
-      "text": "SK 하이닉스: 현재 Infinitesima의 AFM 계측 기술을 HBM4E 적층에 통합 중이며, 16레이어 하이브리드 본딩으로 높은 수율을 실현하고 있습니다. 하이닉스는 COMPUTEX Taipei 2025에서 12레이어 HBM4 및 HBM3E 솔루션을 선보였습니다.Bits & Chips 기사"
     },
     {
       "date": "2025.08",
@@ -2899,15 +2881,6 @@
       "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
       "text": "키옥시아 BG6 NVMe SSD는 거의 구할 수 없는 수준으로, NAND 플래시 부족이 본격화되는 조짐을 보입니다. 삼성은 1월에 SATA SSD의 유통사 판매를 전면 중단했습니다. 메모리 제조사들이 DRAM 및 HBM 생산 유지를 우선하면서 NAND 생산은 감소했습니다."
-    },
-    {
-      "date": "2026.01",
-      "detected_vendors": [
-        "Micron"
-      ],
-      "risk_level": "Low",
-      "summary": "공급망 동향",
-      "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다"
     },
     {
       "date": "2026.01",

@@ -336,7 +336,7 @@
       "Storage"
     ],
     "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "subheading": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
       "Intel",
@@ -1451,22 +1451,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 1,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다",
-    "detected_vendors": [
-      "Micron"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2026,

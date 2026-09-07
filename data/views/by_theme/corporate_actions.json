@@ -5,18 +5,16 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
-      "Storage"
+      "Other"
     ],
-    "section_raw": "삼성 SSD 리드 타임 연장",
-    "subheading": "삼성 SSD 리드 타임 연장",
+    "section_raw": "Nvidia GeForce RTX 2080 Ti 단종",
+    "subheading": "Nvidia GeForce RTX 2080 Ti 단종",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia",
-      "삼성"
+      "Nvidia"
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
       "Production Cut"
     ],
     "risk_level": "High"
@@ -1098,40 +1096,6 @@
     "text": "Onsemi, SiC 생산능력 확대: Onsemi는 전기차 수요 대응을 위해 20억 달러 규모의 SiC 칩 생산 투자 검토 중입니다.",
     "detected_vendors": [
       "Onsemi"
-    ],
-    "detected_keywords": [
-      "Capacity Expansion"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 6,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "제조업체 및 기업 업데이트",
-    "text": "GlobalFoundries, 미국 내 반도체 생산 확대를 위해 160억 달러 투자 계획 발표: 미국 최대 파운드리인 GlobalFoundries는 Apple 및 Qualcomm과 같은 현지 고객의 미충족 수요 대응을 위해 해당 결정을 발표",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Capacity Expansion"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 6,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
-    "detected_vendors": [
-      "Kioxia"
     ],
     "detected_keywords": [
       "Capacity Expansion"

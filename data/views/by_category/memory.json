@@ -4956,24 +4956,6 @@
   },
   {
     "year": 2025,
-    "month": 6,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
-    "detected_vendors": [
-      "Kioxia"
-    ],
-    "detected_keywords": [
-      "Capacity Expansion"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
     "month": 7,
     "category": "Memory",
     "detected_categories": [
@@ -5098,22 +5080,6 @@
     "subheading": "RDIMM 수요 재정렬 및 가격 압박",
     "text": "UDIMMs에 대한 수요는 게임 부문에서 증가 중이며, 일반 데스크탑 수요는 안정적입니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
-    "month": 7,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
-    "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "제조업체 뉴스 및 업데이트",
-    "text": "SK 하이닉스: 현재 Infinitesima의 AFM 계측 기술을 HBM4E 적층에 통합 중이며, 16레이어 하이브리드 본딩으로 높은 수율을 실현하고 있습니다. 하이닉스는 COMPUTEX Taipei 2025에서 12레이어 HBM4 및 HBM3E 솔루션을 선보였습니다.Bits & Chips 기사",
-    "detected_vendors": [
-      "SK하이닉스"
-    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -6158,22 +6124,6 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 1,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다",
-    "detected_vendors": [
-      "Micron"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
   },
   {
     "year": 2026,

@@ -594,22 +594,6 @@
     "detected_categories": [
       "Memory"
     ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "마이크론, 크루셜사업 철수 논란에 대해 입장 표명: 마이크론은 신규 메모리 팹 착공에도 불구하고, 고객들이 메모리 공급에 의미 있는 영향을 줄 수준의 산출물이 최소 2028년까지는 나오지 않을 것으로 예상해야 한다고 경고했습니다",
-    "detected_vendors": [
-      "Micron"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2026,
-    "month": 1,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "제조업체 뉴스 및 업데이트",
     "text": "삼성, 4분기 사상 최대 이익 전망: 메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",

@@ -1,6 +1,6 @@
 {
   "vendor": "Microchip",
-  "total_milestones": 28,
+  "total_milestones": 27,
   "history": [
     {
       "date": "2020.06",
@@ -93,17 +93,7 @@
         "IC"
       ],
       "risk_level": "High",
-      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
-      "text": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU"
-    },
-    {
-      "date": "2022.10",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "summary": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU",
       "text": "이러한 부품들은 2023년 2분기까지 공급 개선에 아무런 진전이 없을 것으로 전망됩니다. 유통업체들은 더이상 신규 주문을 받지 않고 있는데, 언제 수주를 재개할 것인지 확실하지 않습니다."
     },
     {
@@ -113,7 +103,7 @@
         "IC"
       ],
       "risk_level": "High",
-      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "summary": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU",
       "text": "대조적으로 Microchip MCP 시리즈는 생산으로 재고 수준이 보충됨에 따라 리드 타임이 단축되었습니다. PIC12와 16 시리즈의 리드 타임은 8~12 주로 개선된 반면, PIC24와 25 시리즈는 20주를 상회하여 시장에서 여전히 공급이 부족한 상태입니다."
     },
     {
@@ -122,8 +112,8 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "Medium",
-      "summary": "불안정한 공급이 광범위하게 NXP, Melexis 및 Infineon의 리드 타임에 영향을 주고 있지만 Microchip에서 일부 개선이 관찰됨",
+      "risk_level": "High",
+      "summary": "Infineon에서 IPD, MOS 및 BTS 스위치에 대한 공급 부족은 재고 수준이 증가하기 시작함에 따라 완화되고 있다는 소식이 들립니다. 그렇지만 다음과 같은 부품은 재고 부족이 악화되고 있음을 보여줍니다. BSC, IPP/IPD 고압 MOSFET, TEL 고압 드라이버, SAK MCU",
       "text": "공급이 지연될 확률은 여전히 높으며 고객은 적체되는 주문을 취소할 수 있다는 통지를 받고 있지만 생산 일정의 지연에 대한 영향을 피할 수는 없어 보입니다."
     },
     {

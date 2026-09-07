@@ -1822,24 +1822,7 @@
       "Other"
     ],
     "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
-    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
-    "text": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
-    "detected_vendors": [
-      "AMD",
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "Other",
-    "detected_categories": [
-      "Other"
-    ],
-    "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
-    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "subheading": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
     "text": "중국 시장의 수요와 관련하여 구매력은 대부분 유명한 기술 회사로부터 발생합니다. Huawei, ZTE, BAT 등의 회사들이 산업 수요를 선도하지만 현재 거시경제 상황은 우호적이지 않습니다. 프로젝트 취소 및 삭감의 전망에 따라 고객들은 보수적으로 지출하고 임박한 수요에만 근거하여 주문하고 있습니다.",
     "detected_vendors": [
       "AMD",
@@ -1858,7 +1841,7 @@
       "Other"
     ],
     "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
-    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "subheading": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
     "text": "행정 명령 발표 이전에 A100 80GB 모델은 과공급 상태였지만 현재 벤더들은 수요의 폭증을 예상하여 재고를 묶어두고 새로운 선적이나 견적을 중단하고 있습니다. 최종 고객 및 중개인 양측 모두로부터 문의가 쇄도함에 따라 결과적으로 시장 활동이 증가했으며 대부분의 오픈 마켓 물량은 신속히 판매되고 있습니다.",
     "detected_vendors": [
       "AMD",
@@ -1876,7 +1859,7 @@
       "Other"
     ],
     "section_raw": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
-    "subheading": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+    "subheading": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
     "text": "금지된 모델뿐만 아니라 특히 데이터 센터 및 AI 컴퓨팅용 Tesla 시리즈를 포함한 기타 GPU에 대한 시장 가격이 지속적으로 상승할 것이라는 추측이 지배적입니다.",
     "detected_vendors": [
       "AMD",
@@ -1931,25 +1914,7 @@
       "CPU"
     ],
     "section_raw": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
-    "subheading": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
-    "text": "유통업체들은 최근 출시된 Ryzen 7000 시리즈(코드명 Raphael) 데스크톱 CPU에 대해 제한적인 공급 및 지원을 받았는데, 부분적으로는 새로운 AM5 마더보드의 공급 부족(Shortage)으로 인한 것입니다. 현재 4종의 매니아 컴퓨팅 CPU에 대해 2종의 마더보드(X670E 및 X670)만 선택할 수 있습니다. 이러한 공급 부족(Shortage)에 영향을 받은 제품은 다음과 같습니다. Ryzen 9 7950X, Ryzen 9 7900X, Ryzen 7 7700X, Ryzen 5 7600X",
-    "detected_vendors": [
-      "AMD"
-    ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 11,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU"
-    ],
-    "section_raw": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
-    "subheading": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
+    "subheading": "유통업체들은 최근 출시된 Ryzen 7000 시리즈(코드명 Raphael) 데스크톱 CPU에 대해 제한적인 공급 및 지원을 받았는데, 부분적으로는 새로운 AM5 마더보드의 공급 부족(Shortage)으로 인한 것입니다. 현재 4종의 매니아 컴퓨팅 CPU에 대해 2종의 마더보드(X670E 및 X670)만 선택할 수 있습니다. 이러한 공급 부족(Shortage)에 영향을 받은 제품은 다음과 같습니다. Ryzen 9 7950X, Ryzen 9 7900X, Ryzen 7 7700X, Ryzen 5 7600X",
     "text": "AMD가 10월 말까지 B650E 및 B650이라는 2종의 마더보드를 추가로 출시할 것이라는 소문이 있습니다. 또한 더 많은 메인스트림 Ryzen 7000 시리즈 CPU가 출시될 것으로 예상됩니다.",
     "detected_vendors": [
       "AMD"

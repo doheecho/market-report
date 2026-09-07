@@ -1,27 +1,16 @@
 {
   "vendor": "Nvidia",
-  "total_milestones": 230,
+  "total_milestones": 226,
   "history": [
     {
       "date": "2020.04",
       "category": "GPU",
       "detected_categories": [
         "GPU",
-        "Storage"
+        "Other"
       ],
       "risk_level": "High",
-      "summary": "삼성 SSD 리드 타임 연장",
-      "text": "Nvidia GeForce RTX 2080 Ti 단종?"
-    },
-    {
-      "date": "2020.04",
-      "category": "GPU",
-      "detected_categories": [
-        "GPU",
-        "Storage"
-      ],
-      "risk_level": "High",
-      "summary": "삼성 SSD 리드 타임 연장",
+      "summary": "Nvidia GeForce RTX 2080 Ti 단종",
       "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다."
     },
     {
@@ -795,17 +784,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
-      "text": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템"
-    },
-    {
-      "date": "2022.10",
-      "category": "Other",
-      "detected_categories": [
-        "Other"
-      ],
-      "risk_level": "Low",
-      "summary": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+      "summary": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
       "text": "중국 시장의 수요와 관련하여 구매력은 대부분 유명한 기술 회사로부터 발생합니다. Huawei, ZTE, BAT 등의 회사들이 산업 수요를 선도하지만 현재 거시경제 상황은 우호적이지 않습니다. 프로젝트 취소 및 삭감의 전망에 따라 고객들은 보수적으로 지출하고 임박한 수요에만 근거하여 주문하고 있습니다."
     },
     {
@@ -816,7 +795,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+      "summary": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
       "text": "행정 명령 발표 이전에 A100 80GB 모델은 과공급 상태였지만 현재 벤더들은 수요의 폭증을 예상하여 재고를 묶어두고 새로운 선적이나 견적을 중단하고 있습니다. 최종 고객 및 중개인 양측 모두로부터 문의가 쇄도함에 따라 결과적으로 시장 활동이 증가했으며 대부분의 오픈 마켓 물량은 신속히 판매되고 있습니다."
     },
     {
@@ -827,7 +806,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "NVIDIA 및 AMD에 영향을 미치는 신규 미국 라이센스 요건",
+      "summary": "영향받는 Nvidia GPU 모델: A100 가속기 카드, H100 가속기 카드, A100X 컨버지드 가속기 카드, Nvidia DGX A100, Nvidia HGX A100, Nvidia EGX A100과 같은 A100 칩이 통합된 전체 시스템, Nvidia DGX H100, Nvidia HGX H100, Nvidia EGX H100과 같은 H100 칩이 통합된 전체 시스템",
       "text": "금지된 모델뿐만 아니라 특히 데이터 센터 및 AI 컴퓨팅용 Tesla 시리즈를 포함한 기타 GPU에 대한 시장 가격이 지속적으로 상승할 것이라는 추측이 지배적입니다."
     },
     {
@@ -1759,16 +1738,6 @@
       "text": "삼성, HBM4 로드맵 공개: 삼성은 NVIDIA 및 Broadcom과 맞춤형 HBM4를 2026년 상반기(1H26)에 출하하기 위해 협의 중인 것으로 알려졌습니다."
     },
     {
-      "date": "2025.06",
-      "category": "GPU",
-      "detected_categories": [
-        "GPU"
-      ],
-      "risk_level": "Medium",
-      "summary": "제조업체 및 기업 업데이트",
-      "text": "Nvidia는 수출 규제를 준수하는 중국 전용 AI 칩을 개발 중인 것으로 알려짐: H20 칩의 중국 수출 금지 이후, Nvidia는 B30으로 불리는 Blackwell 기반 대체 제품을 설계 중이며, multi-GPU 확장 기능을 갖춤"
-    },
-    {
       "date": "2025.07",
       "category": "GPU",
       "detected_categories": [
@@ -1787,16 +1756,6 @@
       "risk_level": "Medium",
       "summary": "GPU 전략적 할당 및 시장 변동성",
       "text": "Nvidia Blackwell 4000/5000 시리즈는 예상보다 긴 리드 타임을 보이고 있으며, 일반 가용성은 8월 이후로 예상됩니다."
-    },
-    {
-      "date": "2025.07",
-      "category": "GPU",
-      "detected_categories": [
-        "GPU"
-      ],
-      "risk_level": "Low",
-      "summary": "제조업체 뉴스 및 업데이트",
-      "text": "NVIDIA: 젠슨 황 CEO는 워싱턴 D.C.와 베이징에서 AI를 홍보하며, NVIDIA가 중국에서 H20 GPU 판매 재개를 위한 신청서를 제출하고 디지털 트윈 애플리케이션용 완전 준수 RTX PRO GPU를 출시한다고 확인했습니다. NVIDIA 블로그"
     },
     {
       "date": "2025.08",

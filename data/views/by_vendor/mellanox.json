@@ -378,13 +378,14 @@
   {
     "year": 2022,
     "month": 8,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "text": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
+    "subheading": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
+    "text": "Intel의 경우 네트워크 어댑터 카드용 칩셋의 가용성이 향상되었습니다. 그러나 특히 I350T2V2 모델의 경우, 전반적으로 보드용 부품을 구하는 것은 여전히 어렵습니다. 공급 부족은 3분기까지 지속되고 4분기에는 완화될 것으로 예상됩니다. 그 사이에 가격은 제조 비용과 함께 상승할 것으로 예상됩니다.",
     "detected_vendors": [
       "Intel",
       "Mellanox"
@@ -392,26 +393,6 @@
     "detected_keywords": [
       "EOL",
       "Price Decrease",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2022,
-    "month": 8,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Other"
-    ],
-    "section_raw": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "text": "Intel의 경우 네트워크 어댑터 카드용 칩셋의 가용성이 향상되었습니다. 그러나 특히 I350T2V2 모델의 경우, 전반적으로 보드용 부품을 구하는 것은 여전히 어렵습니다. 공급 부족은 3분기까지 지속되고 4분기에는 완화될 것으로 예상됩니다. 그 사이에 가격은 제조 비용과 함께 상승할 것으로 예상됩니다.",
-    "detected_vendors": [
-      "Intel",
-      "Mellanox"
-    ],
-    "detected_keywords": [
       "Shortage"
     ],
     "risk_level": "High"

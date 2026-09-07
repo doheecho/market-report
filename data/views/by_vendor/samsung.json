@@ -22,49 +22,6 @@
   },
   {
     "year": 2020,
-    "month": 4,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "삼성 SSD 리드 타임 연장",
-    "subheading": "삼성 SSD 리드 타임 연장",
-    "text": "Nvidia GeForce RTX 2080 Ti 단종?",
-    "detected_vendors": [
-      "Nvidia",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "EOL",
-      "Lead Time"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2020,
-    "month": 4,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "Storage"
-    ],
-    "section_raw": "삼성 SSD 리드 타임 연장",
-    "subheading": "삼성 SSD 리드 타임 연장",
-    "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
-    "detected_vendors": [
-      "Nvidia",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "EOL",
-      "Lead Time",
-      "Production Cut"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2020,
     "month": 5,
     "category": "Passive",
     "detected_categories": [
@@ -971,7 +928,7 @@
       "Storage"
     ],
     "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+    "subheading": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
       "Intel",
@@ -1080,12 +1037,14 @@
     "month": 9,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
-    "subheading": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
+    "subheading": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
     "text": "삼성의 경우, 가격 조정과 관련하여 논의가  진행 중이지만 수요 부진으로  유통업체는  10~20%까지 가격을 인하할 가능성이가 높습니다.",
     "detected_vendors": [
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [

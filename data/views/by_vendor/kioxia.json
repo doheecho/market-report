@@ -118,24 +118,6 @@
   },
   {
     "year": 2025,
-    "month": 6,
-    "category": "Memory",
-    "detected_categories": [
-      "Memory"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "공급망 동향",
-    "text": "Kioxia, 향후 5년 내 생산량 2배 확대 계획, AI 데이터 센터용 NAND 플래시 증산: 일본의 NAND 플래시 메모리 대기업 Kioxia는 6월 5일 중장기 사업 계획을 발표했으며, 생산 라인을 확장하여 2024 회계연도 대비 2029 회계연도까지 생산 능력을 2배로 늘릴 계획임",
-    "detected_vendors": [
-      "Kioxia"
-    ],
-    "detected_keywords": [
-      "Capacity Expansion"
-    ],
-    "risk_level": "Low"
-  },
-  {
-    "year": 2025,
     "month": 8,
     "category": "Storage",
     "detected_categories": [

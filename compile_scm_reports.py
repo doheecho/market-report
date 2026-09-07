@@ -193,7 +193,8 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
 
         if line.startswith("## "):
             cleaned = line.replace("## ", "").strip()
-            if len(cleaned) > 100 or cleaned.endswith(".") or cleaned.endswith("?") or cleaned.endswith("!"):
+            # In technical reporting, only body paragraphs end with '.' or bracket sources ']'
+            if cleaned.endswith(".") or cleaned.endswith("]"):
                 body_text = cleaned
             else:
                 current_section = cleaned
@@ -201,7 +202,7 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
                 continue
         elif line.startswith("### "):
             cleaned = line.replace("### ", "").strip()
-            if len(cleaned) > 100 or cleaned.endswith(".") or cleaned.endswith("?") or cleaned.endswith("!") or "출처" in cleaned:
+            if cleaned.endswith(".") or cleaned.endswith("]") or "출처" in cleaned:
                 body_text = cleaned
             else:
                 current_subheading = cleaned

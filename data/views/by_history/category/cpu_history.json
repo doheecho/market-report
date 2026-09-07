@@ -1,6 +1,6 @@
 {
   "category": "CPU",
-  "total_milestones": 457,
+  "total_milestones": 451,
   "history": [
     {
       "date": "2020.04",
@@ -341,18 +341,11 @@
     },
     {
       "date": "2020.10",
-      "detected_vendors": [],
-      "risk_level": "Low",
-      "summary": "자동차 수요 회복",
-      "text": "9세대 데스크톱 CPU에 대해 거의 막바지에 이른 수요 폭증?"
-    },
-    {
-      "date": "2020.10",
       "detected_vendors": [
         "Intel"
       ],
       "risk_level": "Low",
-      "summary": "자동차 수요 회복",
+      "summary": "세대 데스크톱 CPU에 대해 거의 막바지에 이른 수요 폭증",
       "text": "오픈 마켓에서 9세대 Coffee Lake의 수요가 지속되며 i3~9100, i5~9400, i5~9500, i7~9700 등의 일반 SKU 가격이 높아졌습니다. 오픈 마켓에서의 가격이 Intel 제품의 가격 수준까지 떨어지지 않는 한, 유통업체와 벤더가 Intel의 9세대 데스크톱 CPU를 더 많이 구매하는 것을 중단할 가능성이 매우 높습니다. 공급업체들은 이미 수중에 남은 재고 물량만 판매하고 있습니다."
     },
     {
@@ -361,7 +354,7 @@
         "Intel"
       ],
       "risk_level": "Low",
-      "summary": "자동차 수요 회복",
+      "summary": "세대 데스크톱 CPU에 대해 거의 막바지에 이른 수요 폭증",
       "text": "반면에, 수요가 계속 증가할 경우 오픈 마켓 가격은 계속 상승 추세를 유지할 것입니다. 9세대 데스크톱 및 10세대 데스크톱 CPU 사이의 가격 격차가 충분히 좁혀질 경우, 고객은 결국 최신 세대 데스크톱으로 전환할 것입니다. 이전 모델에서 후속 모델로의 변화는 불가피하므로, Intel의 10NM 데스크톱 CPU에 자리를 내줄 것입니다."
     },
     {
@@ -1186,15 +1179,6 @@
         "Intel"
       ],
       "risk_level": "High",
-      "summary": "Intel, Enpirion Power Solutions 시리즈 단종 발표",
-      "text": "Intel의 Enpirion Power Solution 시리즈 단종으로 시장에서는 전력 관리 장치의 수요가 증가했습니다. 이러한 장치는 FPGA, SoC, CPU, ASIC 등에 사용됩니다. 공지 사항에는 이러한 제품의 단종이 Enpirion의 전력 사업 철수에 따른 조치라고 되어 있습니다. 또한, 해당 부품이 Intel의 IC 제품 라인업에서 단계적으로 단종됨에 따라 고객에게도 주요 단종 일정을 공지하고 있습니다. 2022년 3월 18일에 마지막 주문 접수, 2023년 3월 31일에 마지막 선적"
-    },
-    {
-      "date": "2022.01",
-      "detected_vendors": [
-        "Intel"
-      ],
-      "risk_level": "High",
       "summary": "데스크탑 CPU 가격 변동을 유발하는 Intel의 최신 CPU 채택",
       "text": "Intel은 이전에 공급 부족 사태를 겪었던 10세대 Comet 데스크톱 CPU의 고객과 유통업체에 대한 공급을 늘린 것으로 알려졌습니다. Intel의 주요 목표가 12세대 Alder Lake 데스크톱의 시장 채택률을 가속화하는 것이므로 이는 일시적일 가능성이 큽니다. 6개 SKU(i9, i7, i5)로 구성되어 큰 기대를 받고 있는 12세대 Alder Lake 데스크톱 CPU는 이미 구하기 쉽지 않은 상황입니다."
     },
@@ -1349,15 +1333,6 @@
     {
       "date": "2022.09",
       "detected_vendors": [
-        "Intel"
-      ],
-      "risk_level": "Medium",
-      "summary": "인플레이션과 원자재 비용이 가격 상승",
-      "text": "제품 목록과 향후 가격 인상분은 다음과 같습니다. Xeon SP: Bronze & Silver - 5%, Platinum & Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (인상 없음), 기타 코어 프로세서 10%, Pentium, Celeron, Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%,"
-    },
-    {
-      "date": "2022.09",
-      "detected_vendors": [
         "Analog Devices",
         "Nexperia",
         "Onsemi",
@@ -1392,8 +1367,8 @@
         "Intel"
       ],
       "risk_level": "Medium",
-      "summary": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
-      "text": "Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver - 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%"
+      "summary": "Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver - 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%",
+      "text": "추가적으로 중국은 10월 1일부터 10월 7일까지 황금연휴를 갖습니다. 연휴로 인해 주문 적체와 공급 제한이 발생할 수 있기 때문에 고객들은 이러한 가능성을 염두에 두고 필수 구성품의 재고를 늘려야 할 필요가 있습니다. 비용 절감 기회를 모색하는 업체들은 일찍 발주하여 향후 가격 폭등을 피할 수 있습니다."
     },
     {
       "date": "2022.11",
@@ -1459,16 +1434,7 @@
         "AMD"
       ],
       "risk_level": "High",
-      "summary": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
-      "text": "유통업체들은 최근 출시된 Ryzen 7000 시리즈(코드명 Raphael) 데스크톱 CPU에 대해 제한적인 공급 및 지원을 받았는데, 부분적으로는 새로운 AM5 마더보드의 공급 부족(Shortage)으로 인한 것입니다. 현재 4종의 매니아 컴퓨팅 CPU에 대해 2종의 마더보드(X670E 및 X670)만 선택할 수 있습니다. 이러한 공급 부족(Shortage)에 영향을 받은 제품은 다음과 같습니다. Ryzen 9 7950X, Ryzen 9 7900X, Ryzen 7 7700X, Ryzen 5 7600X"
-    },
-    {
-      "date": "2022.11",
-      "detected_vendors": [
-        "AMD"
-      ],
-      "risk_level": "High",
-      "summary": "마더보드 공급 부족(Shortage), AMD가 새롭게 출시한 Ryzen 7000 시리즈에 영향",
+      "summary": "유통업체들은 최근 출시된 Ryzen 7000 시리즈(코드명 Raphael) 데스크톱 CPU에 대해 제한적인 공급 및 지원을 받았는데, 부분적으로는 새로운 AM5 마더보드의 공급 부족(Shortage)으로 인한 것입니다. 현재 4종의 매니아 컴퓨팅 CPU에 대해 2종의 마더보드(X670E 및 X670)만 선택할 수 있습니다. 이러한 공급 부족(Shortage)에 영향을 받은 제품은 다음과 같습니다. Ryzen 9 7950X, Ryzen 9 7900X, Ryzen 7 7700X, Ryzen 5 7600X",
       "text": "AMD가 10월 말까지 B650E 및 B650이라는 2종의 마더보드를 추가로 출시할 것이라는 소문이 있습니다. 또한 더 많은 메인스트림 Ryzen 7000 시리즈 CPU가 출시될 것으로 예상됩니다."
     },
     {
@@ -1878,32 +1844,25 @@
     },
     {
       "date": "2023.06",
-      "detected_vendors": [],
-      "risk_level": "Medium",
-      "summary": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
-      "text": "칩셋 가격 인상, 수요에 변화가 올 것인가?"
-    },
-    {
-      "date": "2023.06",
       "detected_vendors": [
         "Intel"
       ],
       "risk_level": "Medium",
-      "summary": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
+      "summary": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
       "text": "Intel의 서버 칩셋 가격 10% 인상은 최근 오픈 마켓의 수요 증가 추세를 고려할 때 놀라운 일이 아닙니다. 가격 인상 전에 공급을 확보하기 위해 5월 내내 거래 가격을 문의하는 고객이 점점 더 많아졌습니다. 그러나 제한된 가용 물량으로 인해 가격만 상승했을 뿐, 비용 절감 기회는 미미했습니다."
     },
     {
       "date": "2023.06",
       "detected_vendors": [],
-      "risk_level": "Low",
-      "summary": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
+      "risk_level": "Medium",
+      "summary": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
       "text": "특히 C621과 같은 칩셋은 인기 있는 캐스케이드 레이크 리프레시 및 캐스케이드 레이크 CPU와의 호환성 때문에 주문이 집중적으로 증가했습니다. C621A 부품은 3세대 아이스 레이크에 사용되기 때문에 문의가 비슷하게 증가했습니다."
     },
     {
       "date": "2023.06",
       "detected_vendors": [],
       "risk_level": "Medium",
-      "summary": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
+      "summary": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
       "text": "이번 가격 인상에는 최신 사파이어 래피즈와 호환되는 서버 칩셋인 C741이 포함되었습니다. 안타깝게도 이 CPU의 채택률은 저조한 편이며, 고객들이 이전 세대 아이스 레이크에서 전환을 미루면서 채택률이 더 떨어질 수 있습니다. 비용 효율성에 대한 갈망이 이러한 전환을 지연시키고 있습니다."
     },
     {
@@ -3427,15 +3386,6 @@
       "risk_level": "High",
       "summary": "CPU 공급업체 전반의 가용성 문제 및 비용 상승",
       "text": "Intel은 단종된12세대 제 생산 제품을 축소했으며, 최종 고객의14세대 제품 전환을 유도하기 위해 13세대 제품의 단종도 계획 중이라는 보고가 있습니다."
-    },
-    {
-      "date": "2025.06",
-      "detected_vendors": [
-        "Intel"
-      ],
-      "risk_level": "Low",
-      "summary": "제조업체 및 기업 업데이트",
-      "text": "Intel, 차세대 Xeon CPU를 2026년에 출시할 예정인 것으로 보도됨: Intel은 데이터 센터 포트폴리오 확장을 준비 중이며, Diamond Rapids 및 Clearwater Forest가 2026년 출시로 확정되었다고 제품 부문 CEO Michelle Johnston Holthaus가 발표"
     },
     {
       "date": "2025.07",

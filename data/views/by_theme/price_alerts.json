@@ -2358,13 +2358,14 @@
   {
     "year": 2022,
     "month": 8,
-    "category": "Other",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Other"
     ],
     "section_raw": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "subheading": "Intel 및 Mellanox 고객을 위한 공급 개선, 그러나 오래 지속되지는 않음",
-    "text": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
+    "subheading": "아시아 전역의 프로젝트 취소로 인해 Mellanox의 MCX4 및 MCX5의 가용성과 가격이 개선되었지만 여전히 MCX6 시리즈의 공급은 부족합니다. 글로벌 수요가 여전히 높기 때문에 잉여 재고 상황과 가격 하락은 지속되지 않을 것으로 예상됩니다. 또한, 2023년 상반기에 계획된 곧 다가오는 단종 부품(EOL) 고지에 따라 MCX5 시리즈의 생산량은 50% 감소합니다. 제조 능력은 MCX6 시리즈로 옮겨질 예정입니다",
+    "text": "Intel의 경우 네트워크 어댑터 카드용 칩셋의 가용성이 향상되었습니다. 그러나 특히 I350T2V2 모델의 경우, 전반적으로 보드용 부품을 구하는 것은 여전히 어렵습니다. 공급 부족은 3분기까지 지속되고 4분기에는 완화될 것으로 예상됩니다. 그 사이에 가격은 제조 비용과 함께 상승할 것으로 예상됩니다.",
     "detected_vendors": [
       "Intel",
       "Mellanox"
@@ -2457,26 +2458,6 @@
   {
     "year": 2022,
     "month": 9,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU",
-      "IC",
-      "Other"
-    ],
-    "section_raw": "인플레이션과 원자재 비용이 가격 상승",
-    "subheading": "인플레이션과 원자재 비용이 가격 상승",
-    "text": "제품 목록과 향후 가격 인상분은 다음과 같습니다. Xeon SP: Bronze & Silver - 5%, Platinum & Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (인상 없음), 기타 코어 프로세서 10%, Pentium, Celeron, Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%,",
-    "detected_vendors": [
-      "Intel"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 9,
     "category": "Memory",
     "detected_categories": [
       "Memory"
@@ -2532,12 +2513,14 @@
     "month": 9,
     "category": "Other",
     "detected_categories": [
-      "Other"
+      "Other",
+      "Storage"
     ],
     "section_raw": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
-    "subheading": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
+    "subheading": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
     "text": "삼성의 경우, 가격 조정과 관련하여 논의가  진행 중이지만 수요 부진으로  유통업체는  10~20%까지 가격을 인하할 가능성이가 높습니다.",
     "detected_vendors": [
+      "SK하이닉스",
       "삼성"
     ],
     "detected_keywords": [
@@ -2573,7 +2556,7 @@
       "IC"
     ],
     "section_raw": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
-    "subheading": "불안정한 세계 정치 및 경제 취약성이 Analog Devices의 공급 부족(Shortage) 심화",
+    "subheading": "미국과 중국 사이의 긴장이 계속되는 한, Analog Devices의 4분기 전망은 낙관적이지 않습니다. 글로벌 정치적 불안정 및 경제 취약성은 다음과 시리즈의  공급 부족(Shortage)을 야기했습니다. AD82#, ADM#, AD5#, ADJ7#, AD8#, AD9#",
     "text": "상용 등급 제품에 대한 수요는 약간 감소한 반면, 산업 성과는 일관되게 유지되고 있습니다. Analog Devices가 Linear Tech 및 Maxim과 함께 가격을 인상할 것이라는 소문이 있지만, 어떤 공식 발표도 없기에, 몇 퍼센트의 가격 인상이 있을 것인지는 아무도 모릅니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -2631,26 +2614,7 @@
       "Other"
     ],
     "section_raw": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
-    "subheading": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
-    "text": "Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver - 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%",
-    "detected_vendors": [
-      "Intel"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2022,
-    "month": 10,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Other"
-    ],
-    "section_raw": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
-    "subheading": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
+    "subheading": "Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver - 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%",
     "text": "추가적으로 중국은 10월 1일부터 10월 7일까지 황금연휴를 갖습니다. 연휴로 인해 주문 적체와 공급 제한이 발생할 수 있기 때문에 고객들은 이러한 가능성을 염두에 두고 필수 구성품의 재고를 늘려야 할 필요가 있습니다. 비용 절감 기회를 모색하는 업체들은 일찍 발주하여 향후 가격 폭등을 피할 수 있습니다.",
     "detected_vendors": [
       "Intel"
@@ -3529,24 +3493,7 @@
       "IC"
     ],
     "section_raw": "CPU",
-    "subheading": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
-    "text": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2023,
-    "month": 6,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU",
-      "IC"
-    ],
-    "section_raw": "CPU",
-    "subheading": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
+    "subheading": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
     "text": "Intel의 서버 칩셋 가격 10% 인상은 최근 오픈 마켓의 수요 증가 추세를 고려할 때 놀라운 일이 아닙니다. 가격 인상 전에 공급을 확보하기 위해 5월 내내 거래 가격을 문의하는 고객이 점점 더 많아졌습니다. 그러나 제한된 가용 물량으로 인해 가격만 상승했을 뿐, 비용 절감 기회는 미미했습니다.",
     "detected_vendors": [
       "Intel"
@@ -3565,7 +3512,24 @@
       "IC"
     ],
     "section_raw": "CPU",
-    "subheading": "재고과잉 문제로 인해 주춤한 서버 시장에서 유지 예측이 대두됨",
+    "subheading": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
+    "text": "특히 C621과 같은 칩셋은 인기 있는 캐스케이드 레이크 리프레시 및 캐스케이드 레이크 CPU와의 호환성 때문에 주문이 집중적으로 증가했습니다. C621A 부품은 3세대 아이스 레이크에 사용되기 때문에 문의가 비슷하게 증가했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU",
+      "IC"
+    ],
+    "section_raw": "CPU",
+    "subheading": "칩셋 가격 인상, 수요에 변화가 올 것인가?",
     "text": "이번 가격 인상에는 최신 사파이어 래피즈와 호환되는 서버 칩셋인 C741이 포함되었습니다. 안타깝게도 이 CPU의 채택률은 저조한 편이며, 고객들이 이전 세대 아이스 레이크에서 전환을 미루면서 채택률이 더 떨어질 수 있습니다. 비용 효율성에 대한 갈망이 이러한 전환을 지연시키고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [

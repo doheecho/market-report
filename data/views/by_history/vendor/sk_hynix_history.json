@@ -1,6 +1,6 @@
 {
   "vendor": "SK하이닉스",
-  "total_milestones": 97,
+  "total_milestones": 99,
   "history": [
     {
       "date": "2020.04",
@@ -146,17 +146,7 @@
         "Storage"
       ],
       "risk_level": "High",
-      "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
-      "text": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) - 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) - 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지"
-    },
-    {
-      "date": "2022.04",
-      "category": "Storage",
-      "detected_categories": [
-        "Storage"
-      ],
-      "risk_level": "High",
-      "summary": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
+      "summary": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) - 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) - 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지",
       "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다."
     },
     {
@@ -167,7 +157,7 @@
         "Storage"
       ],
       "risk_level": "High",
-      "summary": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
+      "summary": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
       "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다."
     },
     {
@@ -178,8 +168,52 @@
         "Storage"
       ],
       "risk_level": "Low",
-      "summary": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
-      "text": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:"
+      "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
+      "text": "S4510 시리즈 is 거의 전무합니다 이번 분기 저용량 (240GB 및 480GB) 공급이."
+    },
+    {
+      "date": "2022.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
+      "text": "S4510 및 960GB는 지난 분기에 남은 재고가 일부 있지만 3분기에 공급이 개선될지는 미지수입니다."
+    },
+    {
+      "date": "2022.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
+      "text": "S4610 480GB/960GB 공급은 지난 분기부터 매우 낮은 상태를 보이지만 제한된 물량이 시장에 풀리고 있습니다."
+    },
+    {
+      "date": "2022.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "Medium",
+      "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
+      "text": "삼성의 경우, 가격 조정과 관련하여 논의가  진행 중이지만 수요 부진으로  유통업체는  10~20%까지 가격을 인하할 가능성이가 높습니다."
+    },
+    {
+      "date": "2022.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
+      "text": "인기 있는 11.6인치 모델을 포함해, 소비자 제품에 대한 LCD 수요의 하락세는 거래 감소를 촉발하고 제조업자로부터 공급되는 물량의 증가를 불러오고 있습니다. 공급업체는 이러한 추세가 올해 말까지 계속될 것으로 예상합니다."
     },
     {
       "date": "2022.09",
@@ -548,16 +582,6 @@
       "risk_level": "Medium",
       "summary": "DRAM메모리 모듈 병목 현상 및 DDR5 전환",
       "text": "하이닉스는 7월 15~25일 사이에 가격 조정을 할 것으로 예상되며, 가용성은 여전히 제한적입니다."
-    },
-    {
-      "date": "2025.07",
-      "category": "Memory",
-      "detected_categories": [
-        "Memory"
-      ],
-      "risk_level": "Low",
-      "summary": "제조업체 뉴스 및 업데이트",
-      "text": "SK 하이닉스: 현재 Infinitesima의 AFM 계측 기술을 HBM4E 적층에 통합 중이며, 16레이어 하이브리드 본딩으로 높은 수율을 실현하고 있습니다. 하이닉스는 COMPUTEX Taipei 2025에서 12레이어 HBM4 및 HBM3E 솔루션을 선보였습니다.Bits & Chips 기사"
     },
     {
       "date": "2025.08",
