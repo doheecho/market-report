@@ -1,6 +1,6 @@
 {
   "vendor": "Micron",
-  "total_milestones": 96,
+  "total_milestones": 94,
   "history": [
     {
       "date": "2020.04",
@@ -728,27 +728,6 @@
       "risk_level": "High",
       "summary": "메모리",
       "text": "마이크론은 소비자용 크루셜 메모리 및 SSD 제품 라인을 단종하겠다고 공식 발표했습니다. 출하는 FY2026 2분기 말(2026년 2월)까지 중단되며, 이후 해당 사업 라인은 공식적으로 종료됩니다."
-    },
-    {
-      "date": "2025.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Memory"
-      ],
-      "risk_level": "Medium",
-      "summary": "생산 재개 및 용량 문제",
-      "text": "주요 메모리 모듈 제조사와 주요 삼성 유통사는 Big 3(삼성, SK하이닉스, 마이크론)로부터 배정 자체를 받지 못해 4분기 가격을 제공하거나 신규 스팟 주문을 수락할 수 없는 상황이다."
-    },
-    {
-      "date": "2025.26",
-      "category": "Storage",
-      "detected_categories": [
-        "Storage"
-      ],
-      "risk_level": "Medium",
-      "summary": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20–30% 가격 인상이 적용되고 있다.",
-      "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20–30% 가격 인상이 적용되고 있다."
     },
     {
       "date": "2026.01",

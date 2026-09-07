@@ -1,6 +1,6 @@
 {
   "vendor": "Panasonic",
-  "total_milestones": 25,
+  "total_milestones": 23,
   "history": [
     {
       "date": "2020.06",
@@ -203,17 +203,6 @@
       "text": "파나소닉와 케멧은 모두 가격을 인상했으며, 2026년에 추가 인상을 예상하고 있습니다."
     },
     {
-      "date": "2025.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Passive"
-      ],
-      "risk_level": "Medium",
-      "summary": "Panasonic은 2026년 1분기에 탄탈럼 커패시터 라인에 대한 대규모 가격 인상을 시행할 예정이며, 전체 생산 능력은 이미 해당 분기까지 완전 예약된 상태다.",
-      "text": "Panasonic은 2026년 1분기에 탄탈럼 커패시터 라인에 대한 대규모 가격 인상을 시행할 예정이며, 전체 생산 능력은 이미 해당 분기까지 완전 예약된 상태다."
-    },
-    {
       "date": "2026.01",
       "category": "Passive",
       "detected_categories": [
@@ -266,16 +255,6 @@
       "risk_level": "High",
       "summary": "Panasonic과 Kemet은 7월부터 30~40%의 가격 인상을 발표했다.",
       "text": "Panasonic과 Kemet은 7월부터 30~40%의 가격 인상을 발표했다. 리드타임은 40주를 초과하고 있다. 제조사들이 자동차 및 산업용 등급 제품을 우선시함에 따라 저마진 상업용 제품군은 단종 가능성에 직면해 있다."
-    },
-    {
-      "date": "2026.26",
-      "category": "Passive",
-      "detected_categories": [
-        "Passive"
-      ],
-      "risk_level": "Medium",
-      "summary": "무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다.",
-      "text": "무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다."
     }
   ]
 }

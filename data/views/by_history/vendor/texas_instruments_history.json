@@ -1,6 +1,6 @@
 {
   "vendor": "Texas Instruments",
-  "total_milestones": 38,
+  "total_milestones": 35,
   "history": [
     {
       "date": "2020.05",
@@ -231,17 +231,6 @@
       "text": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다."
     },
     {
-      "date": "2025.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Storage"
-      ],
-      "risk_level": "Low",
-      "summary": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다.",
-      "text": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다."
-    },
-    {
       "date": "2026.02",
       "category": "IC",
       "detected_categories": [
@@ -373,27 +362,6 @@
       "risk_level": "High",
       "summary": "Texas Instruments는 10월 1일부터 추가 가격 인상을 시행하며, AI 서버용 PMIC(TPS·UCC 시리즈)와 고속 신호 체인 제품의 가격은 15~85% 인상됩니다.",
       "text": "Texas Instruments는 10월 1일부터 추가 가격 인상을 시행하며, AI 서버용 PMIC(TPS·UCC 시리즈)와 고속 신호 체인 제품의 가격은 15~85% 인상됩니다. 리드타임은 여전히 매우 불안정해 20~48주 또는 그 이상으로 늘어나는 경우가 빈번하며, MicroSiP 전력 모듈(-SILR 접미사)은 할당 물량이 극도로 부족한 상황입니다."
-    },
-    {
-      "date": "2026.20",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Passive"
-      ],
-      "risk_level": "High",
-      "summary": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다.",
-      "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다."
-    },
-    {
-      "date": "2026.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "Texas Instruments(TI)는 가격 제시 전 상세한 최종 고객 정보와 프로젝트 계획 제출을 요구하는 등 견적 절차를 강화했습니다.",
-      "text": "Texas Instruments(TI)는 가격 제시 전 상세한 최종 고객 정보와 프로젝트 계획 제출을 요구하는 등 견적 절차를 강화했습니다. 주문 예약 리드타임은 180일로 연장되었으며, 레거시 제품 및 전력 IC 포트폴리오에는 10~30%의 가격 인상이 적용되고 있습니다."
     }
   ]
 }

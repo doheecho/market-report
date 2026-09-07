@@ -259,22 +259,5 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "PCB",
-    "detected_categories": [
-      "PCB",
-      "Passive"
-    ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
-    "text": "중동 긴장에서 비롯된 헬륨 부족이 PCB 테스트, 커패시터 생산 및 광학 부품 제조에 영향을 미치고 있습니다. 일본과 한국 제조업체들은 비상 조달 절차를 가동하고 있으며, 2027년 말까지는 의미 있는 생산 능력 회복이 어려울 것으로 예상하고 있습니다.",
-    "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
   }
 ]

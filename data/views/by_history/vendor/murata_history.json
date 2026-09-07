@@ -1,6 +1,6 @@
 {
   "vendor": "Murata",
-  "total_milestones": 34,
+  "total_milestones": 31,
   "history": [
     {
       "date": "2020.05",
@@ -326,37 +326,6 @@
       "risk_level": "High",
       "summary": "MLCC는 공식적으로 공급 부족 국면에 진입했습니다.",
       "text": "MLCC는 공식적으로 공급 부족 국면에 진입했습니다. Murata, Samsung Electro-Mechanics, Taiyo Yuden, Yageo는 가격을 15~30% 인상하고 있습니다. AI 서버용 고용량 MLCC(예: 100uF)와 자동차용 등급 제품의 리드타임은 20주에서 50주 이상이며, 유통업체들은 브로커 대상 판매를 제한하고 있습니다."
-    },
-    {
-      "date": "2026.20",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Passive"
-      ],
-      "risk_level": "High",
-      "summary": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다.",
-      "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다."
-    },
-    {
-      "date": "2026.26",
-      "category": "Passive",
-      "detected_categories": [
-        "Passive"
-      ],
-      "risk_level": "Medium",
-      "summary": "무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다.",
-      "text": "무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다."
-    },
-    {
-      "date": "2026.26",
-      "category": "Passive",
-      "detected_categories": [
-        "Passive"
-      ],
-      "risk_level": "High",
-      "summary": "무라타의 GRM185 시리즈는 서버, 전원 공급장치 및 웨어러블 기기 애플리케이션에 널리 사용됩니다.",
-      "text": "무라타의 GRM185 시리즈는 서버, 전원 공급장치 및 웨어러블 기기 애플리케이션에 널리 사용됩니다. 현재 해당 제품은 일본 생산 시설에서만 생산되고 있으며, 생산 능력이 글로벌 수요를 충족하기에 부족한 상황입니다. 올해 하반기에는 공급 부족이 예상됩니다."
     }
   ]
 }

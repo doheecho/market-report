@@ -3583,25 +3583,6 @@
     "risk_level": "Medium"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU"
-    ],
-    "section_raw": "가격 추세 및 공급 제약",
-    "subheading": "",
-    "text": "AMD의 Genoa 및 Turin 서버 CPU는 이제 24주 리드타임에 직면하고 있다. 고객들은 AMD가 수요 예측을 “참고용”으로만 수락하고 실제 할당을 보장하지 않아, 핵심 프로젝트를 위해 오픈마켓 지원을 찾을 수밖에 없다고 보고하고 있다.",
-    "detected_vendors": [
-      "AMD"
-    ],
-    "detected_keywords": [
-      "Allocation",
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "CPU",
@@ -3862,25 +3843,6 @@
     "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
     "subheading": "",
     "text": "AMD 서버용 EPYC Genoa 및 Turin 시리즈는 여전히 엄격한 할당 상태이며, 클라우드 서비스 제공업체가 생산 물량을 흡수하면서 리드타임이 늘어나고 있습니다. 최대 256개 코어를 지원하는 6세대 EPYC ‘Venice’의 Tier 1 고객 대상 샘플 공급도 시작됐습니다.",
-    "detected_vendors": [
-      "AMD"
-    ],
-    "detected_keywords": [
-      "Allocation",
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "CPU",
-    "detected_categories": [
-      "CPU"
-    ],
-    "section_raw": "CPU (서버, 데스크톱, 임베디드) 구조적 공급 부족 및 파운드리 전환",
-    "subheading": "",
-    "text": "AMD 서버(EPYC)는 여전히 할당이 매우 제한적이며, 하이퍼스케일러 및 AI 관련 수요가 공급의 대부분을 계속 흡수하고 있습니다. 신규 주문에 대한 가시성은 제한적이며, 고코어 수 SKU의 리드타임도 연장되고 있습니다. 공급 상황에서 의미 있는 완화 조짐은 관측되지 않았습니다.",
     "detected_vendors": [
       "AMD"
     ],

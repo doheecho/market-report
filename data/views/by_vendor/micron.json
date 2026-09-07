@@ -1278,46 +1278,6 @@
     "risk_level": "High"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Memory"
-    ],
-    "section_raw": "네트워킹 카드",
-    "subheading": "생산 재개 및 용량 문제",
-    "text": "주요 메모리 모듈 제조사와 주요 삼성 유통사는 Big 3(삼성, SK하이닉스, 마이크론)로부터 배정 자체를 받지 못해 4분기 가격을 제공하거나 신규 스팟 주문을 수락할 수 없는 상황이다.",
-    "detected_vendors": [
-      "Micron",
-      "SK하이닉스",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Allocation"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 26,
-    "category": "Storage",
-    "detected_categories": [
-      "Storage"
-    ],
-    "section_raw": "용량 부족 및 제조사 가격 변동",
-    "subheading": "",
-    "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20–30% 가격 인상이 적용되고 있다.",
-    "detected_vendors": [
-      "Micron",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "Memory",

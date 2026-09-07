@@ -1,6 +1,6 @@
 {
   "vendor": "Broadcom",
-  "total_milestones": 47,
+  "total_milestones": 45,
   "history": [
     {
       "date": "2020.05",
@@ -381,17 +381,6 @@
       "text": "TSMC의 브로드컴 웨이퍼 생산량 전략적 축소가 즉각적인 공급 불안을 야기하고 있습니다. 특히 AI 이더넷 및 RAID 컨트롤러에서 2026년 품귀와 두 자릿수 가격 인상이 예상됩니다."
     },
     {
-      "date": "2025.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Memory"
-      ],
-      "risk_level": "Medium",
-      "summary": "지속적인 부족 현상",
-      "text": "Broadcom은 핵심 RAID 컨트롤러(예: 9560-8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다."
-    },
-    {
       "date": "2026.02",
       "category": "IC",
       "detected_categories": [
@@ -471,16 +460,6 @@
       "risk_level": "Medium",
       "summary": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다.",
       "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다."
-    },
-    {
-      "date": "2026.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "High",
-      "summary": "Broadcom 카드의 리드타임은 현재 최대 52주까지 늘어났으며, 3/5/7nm 생산 능력 부족으로 2027년에는 제약이 더욱 심화될 전망입니다.",
-      "text": "Broadcom 카드의 리드타임은 현재 최대 52주까지 늘어났으며, 3/5/7nm 생산 능력 부족으로 2027년에는 제약이 더욱 심화될 전망입니다. SS24/SS26 시리즈 스위치는 AI 인프라 수요가 생산 능력을 소진하면서 공급 부족이 임박한 상황입니다."
     }
   ]
 }

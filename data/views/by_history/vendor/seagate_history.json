@@ -1,6 +1,6 @@
 {
   "vendor": "Seagate",
-  "total_milestones": 45,
+  "total_milestones": 42,
   "history": [
     {
       "date": "2020.04",
@@ -327,16 +327,6 @@
       "text": "씨게이트, WD, 도시바를 포함한 전 벤더에서 리드타임이 현재 52주를 초과하고 있으며, 특히 20TB 및 24TB 용량 모델의 수요가 가장 높습니다."
     },
     {
-      "date": "2025.26",
-      "category": "Storage",
-      "detected_categories": [
-        "Storage"
-      ],
-      "risk_level": "Medium",
-      "summary": "Seagate는 특히 저용량 SKUs들에서 “거의 매일” 가격을 인상하고 있으며, 배정은 점점 더 작은 규모로만 풀리고 있다.",
-      "text": "Seagate는 특히 저용량 SKUs들에서 “거의 매일” 가격을 인상하고 있으며, 배정은 점점 더 작은 규모로만 풀리고 있다."
-    },
-    {
       "date": "2026.01",
       "category": "Other",
       "detected_categories": [
@@ -450,26 +440,6 @@
       "risk_level": "High",
       "summary": "Seagate, WD, Toshiba HDD는 16TB~24TB CMR 드라이브에서 심각한 공급 제약을 겪고 있습니다.",
       "text": "Seagate, WD, Toshiba HDD는 16TB~24TB CMR 드라이브에서 심각한 공급 제약을 겪고 있습니다. 리드타임은 2027년 중반까지 늘어나고 있으며, 제조업체들은 가격을 10~20% 인상하는 동시에 저용량 모델(1TB~4TB)을 빠르게 단종하고 있습니다."
-    },
-    {
-      "date": "2026.10",
-      "category": "Storage",
-      "detected_categories": [
-        "Storage"
-      ],
-      "risk_level": "High",
-      "summary": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다.",
-      "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다."
-    },
-    {
-      "date": "2026.20",
-      "category": "Storage",
-      "detected_categories": [
-        "Storage"
-      ],
-      "risk_level": "High",
-      "summary": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다.",
-      "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다."
     }
   ]
 }

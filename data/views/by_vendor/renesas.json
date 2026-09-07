@@ -571,41 +571,5 @@
       "Natural Disaster / Incident"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
-    "text": "르네사스는 심각한 공급 불안정에 직면해 있으며, 고객들은 출하 중단과 불명확한 납품 일정을 보고하고 있습니다. 타이밍 사업부 매각은 불확실성을 더욱 가중시키며, OEM 전반에서 광범위한 설계 제외(design-out) 움직임을 촉발하고 있습니다.",
-    "detected_vendors": [
-      "Renesas"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
-    "text": "Diodes Incorporated의 리드타임은 크게 늘어나, 경우에 따라 48주에서 최대 1년까지 소요되고 있습니다. 동사는 르네사스 설계 제외 흐름의 수혜를 입고 있으며, 대체 프로그램 전반에서 수요가 증가하고 있습니다.",
-    "detected_vendors": [
-      "Renesas"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   }
 ]

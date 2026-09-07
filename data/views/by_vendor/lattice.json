@@ -409,53 +409,5 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 10,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
-    "detected_vendors": [
-      "Analog Devices",
-      "Intel",
-      "Lattice",
-      "SK하이닉스",
-      "Sony",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Discommit",
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Passive"
-    ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
-    "text": "T-글래스 기판 재료 제약은 현재 ADI, 인텔, Lattice, Sony의 주요 병목 요인으로 작용하고 있습니다. 유리 섬유 원단 리드타임은 4주에서 20주로 확대되었으며, 이에 따라 공급 확약 철회와 파운드리 전환이 발생하고 있습니다. 닛토보(Nittobo)는 고성능 CMOS 애플리케이션에 있어 유일한 적격 공급업체로 남아 있습니다.",
-    "detected_vendors": [
-      "Analog Devices",
-      "Intel",
-      "Lattice",
-      "Sony"
-    ],
-    "detected_keywords": [
-      "Discommit",
-      "Lead Time"
-    ],
-    "risk_level": "High"
   }
 ]

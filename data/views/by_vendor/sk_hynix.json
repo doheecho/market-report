@@ -839,47 +839,6 @@
     "risk_level": "Low"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Memory"
-    ],
-    "section_raw": "네트워킹 카드",
-    "subheading": "생산 재개 및 용량 문제",
-    "text": "주요 메모리 모듈 제조사와 주요 삼성 유통사는 Big 3(삼성, SK하이닉스, 마이크론)로부터 배정 자체를 받지 못해 4분기 가격을 제공하거나 신규 스팟 주문을 수락할 수 없는 상황이다.",
-    "detected_vendors": [
-      "Micron",
-      "SK하이닉스",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Allocation"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2025,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Memory"
-    ],
-    "section_raw": "네트워킹 카드",
-    "subheading": "생산 재개 및 용량 문제",
-    "text": "하이닉스 유통사들은MFR 공급 부족으로 인해 재고가 있음에도 LPDDR4X/LPDDR5X 제품을 견적하거나 판매할 수 없다고 밝히고 있다. MFR는 오래 지연된 주문에 대해서도 납기를 확약할 수 없는 상태다.",
-    "detected_vendors": [
-      "SK하이닉스"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "Memory",
@@ -1177,30 +1136,5 @@
       "Allocation"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 10,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
-    "detected_vendors": [
-      "Analog Devices",
-      "Intel",
-      "Lattice",
-      "SK하이닉스",
-      "Sony",
-      "삼성"
-    ],
-    "detected_keywords": [
-      "Discommit",
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
   }
 ]

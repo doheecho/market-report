@@ -1,6 +1,6 @@
 {
   "vendor": "Nexperia",
-  "total_milestones": 48,
+  "total_milestones": 43,
   "history": [
     {
       "date": "2020.10",
@@ -314,37 +314,6 @@
       "text": "네덜란드 소재 칩메이커 넥스페리아의 중국계 모회사인 윙텍은 네덜란드 회사의 법원 지정 관리인들에게 회사 지배권과 관련해 협의를 제안했다고 밝혔으며, 이는 관계 완화를 위한 가능한 첫 단계가 될 수 있습니다. [소스: CNA]"
     },
     {
-      "date": "2025.20",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다.",
-      "text": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다."
-    },
-    {
-      "date": "2025.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Storage"
-      ],
-      "risk_level": "Low",
-      "summary": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다.",
-      "text": "Nexperia 수출 위기는 자동차 티어 1 업체들이 TI 및 On Semi 디스크리트 제품을 빠르게 대체 검증하도록 만들며 막대한 대체 수요를 촉발했다."
-    },
-    {
-      "date": "2025.26",
-      "category": "기타",
-      "detected_categories": [
-        "기타"
-      ],
-      "risk_level": "Low",
-      "summary": "자동차 산업의 ‘탈-중국’ 가속화: Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다.",
-      "text": "자동차 산업의 ‘탈-중국’ 가속화: Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다. 보고서에 따르면 Tesla와 그 공급업체들은 이미 일부 중국산 부품을 대체했으며, 나머지 부품도 향후 1~2년 내 비중국 생산품으로 교체하는 것을 목표로 하고 있다."
-    },
-    {
       "date": "2026.01",
       "category": "Other",
       "detected_categories": [
@@ -477,26 +446,6 @@
       "risk_level": "High",
       "summary": "Infineon과 On Semi의 리드타임은 Nexperia의 초과 수요를 흡수하면서 두 배 증가해 30~52주까지 확대됐다.",
       "text": "Infineon과 On Semi의 리드타임은 Nexperia의 초과 수요를 흡수하면서 두 배 증가해 30~52주까지 확대됐다. Infineon MOSFET(특히 TOLL 패키지)은 2027년 3분기까지 지속될 것으로 예상되는 공급 부족에 직면해 있으며, 고객에 대한 할당 보장은 제공되지 않고 있다."
-    },
-    {
-      "date": "2026.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "넥스페리아의 공급 상황은 여전히 심각합니다.",
-      "text": "넥스페리아의 공급 상황은 여전히 심각합니다. 말레이시아 및 필리핀 생산의 리드타임은 30~44주까지 늘어났습니다. 자동차 고객들은 할당 확보가 어렵다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 지연되고 있습니다. 초과 수요를 흡수하고 수출 통제의 복잡성에 대응하는 과정에서 가격은 약 10~15% 인상될 것으로 예상됩니다."
-    },
-    {
-      "date": "2026.26",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다.",
-      "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다."
     }
   ]
 }

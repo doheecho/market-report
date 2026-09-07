@@ -561,22 +561,6 @@
     "risk_level": "Low"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
-    "text": "자동차 산업의 ‘탈-중국’ 가속화: Nexperia 위기는 자동차 공급망을 비중국권 대체품으로 전환하기 위한 빠르고 조직적인 산업적 대응의 촉매제가 되었다. 보고서에 따르면 Tesla와 그 공급업체들은 이미 일부 중국산 부품을 대체했으며, 나머지 부품도 향후 1~2년 내 비중국 생산품으로 교체하는 것을 목표로 하고 있다.",
-    "detected_vendors": [
-      "Nexperia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "기타",
@@ -812,21 +796,5 @@
       "Shortage"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "기타",
-    "detected_categories": [
-      "기타"
-    ],
-    "section_raw": "공급망 동향",
-    "subheading": "",
-    "text": "OpenAI는 칩 스타트업 Cerebras Systems와 AI 서버 생산 능력 확보를 위해 200억 달러 이상을 지급하는 다년 계약을 체결한 것으로 알려졌습니다. 이 계약은 ChatGPT 개발사가 하드웨어 공급망을 다변화하고 NVIDIA 의존도를 완화하기 위한 공격적인 행보를 나타냅니다. [출처: Digitimes]",
-    "detected_vendors": [
-      "Nvidia"
-    ],
-    "detected_keywords": [],
-    "risk_level": "Low"
   }
 ]

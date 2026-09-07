@@ -1,6 +1,6 @@
 {
   "vendor": "Toshiba",
-  "total_milestones": 23,
+  "total_milestones": 22,
   "history": [
     {
       "date": "2020.04",
@@ -177,16 +177,6 @@
       "risk_level": "Medium",
       "summary": "씨게이트, WD, 도시바를 포함한 전 벤더에서 리드타임이 현재 52주를 초과하고 있으며, 특히 20TB 및 24TB 용량 모델의 수요가 가장 높습니다.",
       "text": "씨게이트, WD, 도시바를 포함한 전 벤더에서 리드타임이 현재 52주를 초과하고 있으며, 특히 20TB 및 24TB 용량 모델의 수요가 가장 높습니다."
-    },
-    {
-      "date": "2025.26",
-      "category": "Storage",
-      "detected_categories": [
-        "Storage"
-      ],
-      "risk_level": "Medium",
-      "summary": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다.",
-      "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10–24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다."
     },
     {
       "date": "2026.01",

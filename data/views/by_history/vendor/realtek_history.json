@@ -1,6 +1,6 @@
 {
   "vendor": "Realtek",
-  "total_milestones": 11,
+  "total_milestones": 10,
   "history": [
     {
       "date": "2020.12",
@@ -84,16 +84,6 @@
     },
     {
       "date": "2025.11",
-      "category": "IC",
-      "detected_categories": [
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "Marvell(98DX, 88E6320 시리즈)과 Realtek 모두 리드타임이 32~52주에 이르고 있다.",
-      "text": "Marvell(98DX, 88E6320 시리즈)과 Realtek 모두 리드타임이 32~52주에 이르고 있다. 생산 능력은 고급 AI 관련 칩으로 우선 배정되고 있어 중·저가 제품군의 할당이 크게 축소되고 있다."
-    },
-    {
-      "date": "2025.26",
       "category": "IC",
       "detected_categories": [
         "IC"

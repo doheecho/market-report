@@ -341,25 +341,6 @@
     "risk_level": "Low"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Passive"
-    ],
-    "section_raw": "리드 타임 연장 및 할당",
-    "subheading": "",
-    "text": "Panasonic은 2026년 1분기에 탄탈럼 커패시터 라인에 대한 대규모 가격 인상을 시행할 예정이며, 전체 생산 능력은 이미 해당 분기까지 완전 예약된 상태다.",
-    "detected_vendors": [
-      "Panasonic"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "Passive",
@@ -460,24 +441,5 @@
       "Price Increase"
     ],
     "risk_level": "High"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "Passive",
-    "detected_categories": [
-      "Passive"
-    ],
-    "section_raw": "수동부품 및 원자재 T-글래스 병목",
-    "subheading": "",
-    "text": "무라타와 파나소닉은 2026년 5월부터 20~40%의 가격 인상을 발표했습니다.",
-    "detected_vendors": [
-      "Murata",
-      "Panasonic"
-    ],
-    "detected_keywords": [
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
   }
 ]

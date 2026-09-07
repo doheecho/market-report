@@ -1,6 +1,6 @@
 {
   "vendor": "Mellanox",
-  "total_milestones": 51,
+  "total_milestones": 50,
   "history": [
     {
       "date": "2021.07",
@@ -519,17 +519,6 @@
       "risk_level": "Medium",
       "summary": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다.",
       "text": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다. AI 인프라 수요가 가용 생산 능력의 상당 부분을 흡수하고 있습니다."
-    },
-    {
-      "date": "2026.26",
-      "category": "GPU",
-      "detected_categories": [
-        "GPU",
-        "IC"
-      ],
-      "risk_level": "Medium",
-      "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
-      "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     }
   ]
 }

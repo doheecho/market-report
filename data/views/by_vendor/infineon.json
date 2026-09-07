@@ -609,28 +609,6 @@
     "risk_level": "Low"
   },
   {
-    "year": 2025,
-    "month": 20,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "Intro",
-    "subheading": "",
-    "text": "Nexperia, EU 제재 영향으로 공급망 파편화 심화: Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
-    "detected_vendors": [
-      "Infineon",
-      "Nexperia",
-      "Onsemi"
-    ],
-    "detected_keywords": [
-      "Allocation",
-      "Geopolitics / Sanctions",
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "Other",
@@ -795,28 +773,6 @@
     ],
     "detected_keywords": [
       "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
-    "subheading": "",
-    "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다.",
-    "detected_vendors": [
-      "Infineon",
-      "Nexperia",
-      "Onsemi"
-    ],
-    "detected_keywords": [
-      "Allocation",
-      "Lead Time",
-      "Price Increase"
     ],
     "risk_level": "Medium"
   }

@@ -311,24 +311,6 @@
     "risk_level": "Medium"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "Storage",
-    "detected_categories": [
-      "Storage"
-    ],
-    "section_raw": "고용량 SKU 공급 부족 및 리드타임 연장",
-    "subheading": "",
-    "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10–24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다.",
-    "detected_vendors": [
-      "Toshiba"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2026,
     "month": 1,
     "category": "Storage",

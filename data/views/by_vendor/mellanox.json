@@ -945,25 +945,5 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "GPU",
-    "detected_categories": [
-      "GPU",
-      "IC"
-    ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
-    "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다.",
-    "detected_vendors": [
-      "Mellanox",
-      "Nvidia"
-    ],
-    "detected_keywords": [
-      "Lead Time"
-    ],
-    "risk_level": "Medium"
   }
 ]

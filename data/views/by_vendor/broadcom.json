@@ -690,26 +690,6 @@
     "risk_level": "High"
   },
   {
-    "year": 2025,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC",
-      "Memory"
-    ],
-    "section_raw": "네트워킹 카드",
-    "subheading": "지속적인 부족 현상",
-    "text": "Broadcom은 핵심 RAID 컨트롤러(예: 9560-8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다.",
-    "detected_vendors": [
-      "Broadcom"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Price Increase"
-    ],
-    "risk_level": "Medium"
-  },
-  {
     "year": 2026,
     "month": 2,
     "category": "IC",
@@ -864,24 +844,5 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
-  },
-  {
-    "year": 2026,
-    "month": 26,
-    "category": "IC",
-    "detected_categories": [
-      "IC"
-    ],
-    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
-    "text": "Broadcom 카드의 리드타임은 현재 최대 52주까지 늘어났으며, 3/5/7nm 생산 능력 부족으로 2027년에는 제약이 더욱 심화될 전망입니다. SS24/SS26 시리즈 스위치는 AI 인프라 수요가 생산 능력을 소진하면서 공급 부족이 임박한 상황입니다.",
-    "detected_vendors": [
-      "Broadcom"
-    ],
-    "detected_keywords": [
-      "Lead Time",
-      "Shortage"
-    ],
-    "risk_level": "High"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "vendor": "TSMC",
-  "total_milestones": 49,
+  "total_milestones": 48,
   "history": [
     {
       "date": "2020.10",
@@ -506,17 +506,6 @@
       "risk_level": "Medium",
       "summary": "TSMC, 2027년 가격 인상 경고: TSMC는 주요 클라우드 및 네트워킹 고객에게 2027년 웨이퍼 가격을 전 품목에 걸쳐 10% 인상할 예정이라고 통보한 것으로 알려졌습니다.",
       "text": "TSMC, 2027년 가격 인상 경고: TSMC는 주요 클라우드 및 네트워킹 고객에게 2027년 웨이퍼 가격을 전 품목에 걸쳐 10% 인상할 예정이라고 통보한 것으로 알려졌습니다. 이는 기반 IC 및 패키징 비용의 상승세가 당분간 지속될 것임을 시사합니다. [출처: CNA]"
-    },
-    {
-      "date": "2026.20",
-      "category": "IC",
-      "detected_categories": [
-        "IC",
-        "Passive"
-      ],
-      "risk_level": "High",
-      "summary": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다.",
-      "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다."
     }
   ]
 }
