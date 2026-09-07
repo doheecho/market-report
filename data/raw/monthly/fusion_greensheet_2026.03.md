@@ -56,7 +56,7 @@ The Greensheet 2026년 3월호
 
 ### Samsung 및 Micron의 8GB/16GB 자동차용 eMMC는 심각한 공급 부족 상태이다. 레거시 eMMC 가격은 3배 상승했으며, AI 가속기용 HBM3E/HBM4 생산 집중으로 공급이 축소되고 있다.
 
-### SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4-8G-ZA2 및 SDINBDA6-64G-ZA1이 주요 품목이다. Sandisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.
+### SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. Sandisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.
 
 ### Micron, Samsung, SK Hynix는 자동차 Tier 1에 30% 미만만 할당하고 있으며, 자동차용 LPDDR4 16Gb 가격은 200~300% 상승했다.
 

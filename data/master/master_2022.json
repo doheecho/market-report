@@ -1260,7 +1260,7 @@
     ],
     "section_raw": "Mellanox 네트워크 어댑터 카드의 빠듯한 공급으로 인해 고객은 대체 부품을 찾아 나서",
     "subheading": "",
-    "text": "Mellanox 공급 리드 타임은 대체로 26-32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다.",
+    "text": "Mellanox 공급 리드 타임은 대체로 26~32주이며 MCX-6 시리즈의 가격이 25% 인상되었습니다. MCX-6 및 MCX-5 시리즈의 공급이 모두 계속 빠듯한 상태로 유지될 것으로 예상됩니다.",
     "detected_vendors": [
       "Mellanox"
     ],
@@ -1658,7 +1658,7 @@
     ],
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
-    "text": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) – 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) – 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지",
+    "text": "또한, 단종 공지가 다음 Intel/Solidigm 시리즈에 영향을 미칠 것입니다. D3 시리즈(S4510, S4610) - 2분기까지, D5 및 D7 시리즈(S4510, S4610, P4510, P4610) - 2분기 후반까지, 클라이언트 SSD(660P) 시리즈 - 2022년 후반까지",
     "detected_vendors": [
       "Intel",
       "Solidigm"
@@ -2961,7 +2961,7 @@
     ],
     "section_raw": "Intel Gen Comet Lake 및 Gen Rocket Lake에 대한 수요 급증",
     "subheading": "",
-    "text": "중국 내 수요로 인해 11세대 Rocket Lake와 12세대 Alder Lake에 대한 관심이 높아졌으며 더 많은 고객이 소싱을 위해 공개 시장으로 가고 있습니다. 또한, Intel의 10세대 Comet Lake 데스크톱 CPU는 i5-10400, i5 –10500 및 i7-10700와 같은 상위 모델에 대해 더 많은 문의를 받고 거래를 하고 있습니다. 10세대 Comet Lake 데스크톱 CPU는 2020년에 출시되었으며 해당 제품의 수명 주기는 거의 끝나가고 있습니다. 이 부품에 대해 지속적인 수요가 있는 고객들은 공급이 중단되기 전에 재고를 구매해야 합니다. 11세대 Rocket Lake의 가격이 2% 이상 상승했음에도 불구하고 여전히 Intel 데스크톱 CPU 고객은 비용 절감 기회를 이용할 수 있습니다.",
+    "text": "중국 내 수요로 인해 11세대 Rocket Lake와 12세대 Alder Lake에 대한 관심이 높아졌으며 더 많은 고객이 소싱을 위해 공개 시장으로 가고 있습니다. 또한, Intel의 10세대 Comet Lake 데스크톱 CPU는 i5~10400, i5 -10500 및 i7~10700와 같은 상위 모델에 대해 더 많은 문의를 받고 거래를 하고 있습니다. 10세대 Comet Lake 데스크톱 CPU는 2020년에 출시되었으며 해당 제품의 수명 주기는 거의 끝나가고 있습니다. 이 부품에 대해 지속적인 수요가 있는 고객들은 공급이 중단되기 전에 재고를 구매해야 합니다. 11세대 Rocket Lake의 가격이 2% 이상 상승했음에도 불구하고 여전히 Intel 데스크톱 CPU 고객은 비용 절감 기회를 이용할 수 있습니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -3335,7 +3335,7 @@
     ],
     "section_raw": "인플레이션과 원자재 비용이 가격 상승",
     "subheading": "",
-    "text": "제품 목록과 향후 가격 인상분은 다음과 같습니다. Xeon SP: Bronze & Silver – 5%, Platinum & Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (인상 없음), 기타 코어 프로세서 10%, Pentium, Celeron, Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%,",
+    "text": "제품 목록과 향후 가격 인상분은 다음과 같습니다. Xeon SP: Bronze & Silver - 5%, Platinum & Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (인상 없음), 기타 코어 프로세서 10%, Pentium, Celeron, Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%,",
     "detected_vendors": [
       "Intel"
     ],
@@ -4112,7 +4112,7 @@
     ],
     "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
     "subheading": "",
-    "text": "영향을 받는 시리즈. Toshiba Arm Cortex-M4 코어 – 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX, Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX, Toshiba Power Management 및 MOSFET – SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호",
+    "text": "영향을 받는 시리즈. Toshiba Arm Cortex-M4 코어 - 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX, Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX, Toshiba Power Management 및 MOSFET - SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호",
     "detected_vendors": [
       "Toshiba"
     ],
@@ -4437,7 +4437,7 @@
     ],
     "section_raw": "이더넷 컨트롤러 칩셋 공급이 제한된 상태를 유지하는 한편 Intel에 대한 수요 예측에 의혹을 드리우는 가격 상승",
     "subheading": "",
-    "text": "Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver – 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%",
+    "text": "Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver - 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%",
     "detected_vendors": [
       "Intel"
     ],

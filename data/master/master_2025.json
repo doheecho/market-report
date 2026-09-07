@@ -127,7 +127,7 @@
     ],
     "section_raw": "CPU 공급 제약과 변화하는 수요",
     "subheading": "",
-    "text": "Intel의 Sapphire Rapids SKU는 단종(EOL) 통지를 받았으며, 마지막 구매(LTB)는 2025년 9월까지 가능합니다. 갑작스러운 수요 급증으로 인해 리드 타임이 2-3주에서 3-5주로 늘어났습니다.",
+    "text": "Intel의 Sapphire Rapids SKU는 단종(EOL) 통지를 받았으며, 마지막 구매(LTB)는 2025년 9월까지 가능합니다. 갑작스러운 수요 급증으로 인해 리드 타임이 2~3주에서 3~5주로 늘어났습니다.",
     "detected_vendors": [
       "Intel"
     ],
@@ -247,7 +247,7 @@
     ],
     "section_raw": "GPU 공급 문제 속 Nvidia의 강세",
     "subheading": "",
-    "text": "NVIDIA의 ARM 기반 GH200 Grasshopper 서버에 대한 수요는 계속 증가하고 있으며, 리드 타임은 약 4-5개월로 추산됩니다.",
+    "text": "NVIDIA의 ARM 기반 GH200 Grasshopper 서버에 대한 수요는 계속 증가하고 있으며, 리드 타임은 약 4~5개월로 추산됩니다.",
     "detected_vendors": [
       "Nvidia"
     ],
@@ -265,7 +265,7 @@
     ],
     "section_raw": "GPU 공급 문제 속 Nvidia의 강세",
     "subheading": "",
-    "text": "Jetson GPU Orin 모델(8GB, 16GB, 64GB)은 여전히 부족 상태이며, 리드 타임은 최소 10-20주입니다.",
+    "text": "Jetson GPU Orin 모델(8GB, 16GB, 64GB)은 여전히 부족 상태이며, 리드 타임은 최소 10~20주입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -334,7 +334,7 @@
     ],
     "section_raw": "RDIMM 가격 하락과 변화하는 수요",
     "subheading": "",
-    "text": "AI 서버에 대한 투자 증가로 인해 64GB DDR5-5600 모듈의 수요가 증가하고 있으며, 이는 Deepseek의 영향으로 분석됩니다.",
+    "text": "AI 서버에 대한 투자 증가로 인해 64GB DDR5~5600 모듈의 수요가 증가하고 있으며, 이는 Deepseek의 영향으로 분석됩니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -362,7 +362,7 @@
     ],
     "section_raw": "HDD AI 기반 수요 증가로 인한 용량 확장",
     "subheading": "",
-    "text": "하드 드라이브 제조업체들은 AI 기반 수요를 충족하기 위해 용량을 확대하고 있으며, 새로운 모델이 2025년에 출시될 예정입니다. 소형 용량 드라이브(2-8TB)의 리드 타임이 이미 크게 증가했습니다.",
+    "text": "하드 드라이브 제조업체들은 AI 기반 수요를 충족하기 위해 용량을 확대하고 있으며, 새로운 모델이 2025년에 출시될 예정입니다. 소형 용량 드라이브(2~8TB)의 리드 타임이 이미 크게 증가했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -1001,7 +1001,7 @@
     ],
     "section_raw": "RDIMM시장 동향과 수요 변화",
     "subheading": "",
-    "text": "AI 투자 확대에 따라 고속, 고용량RDIMM 모듈에 대한 수요가 증가하고 있으며, 특히64GB DDR5-5600 제품이 주목받고 있습니다.",
+    "text": "AI 투자 확대에 따라 고속, 고용량RDIMM 모듈에 대한 수요가 증가하고 있으며, 특히64GB DDR5~5600 제품이 주목받고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1110,7 +1110,7 @@
     ],
     "section_raw": "HDD AI 채택으로 인한 시장 변화",
     "subheading": "",
-    "text": "하드 드라이브 제조업체들은 AI 기반 수요를 충족하기 위해 용량을 확대하고 있으며, 새로운 모델이 2025년에 출시될 예정입니다. 소형 용량 드라이브(2-8TB)의 리드 타임이 이미 크게 증가했습니다.",
+    "text": "하드 드라이브 제조업체들은 AI 기반 수요를 충족하기 위해 용량을 확대하고 있으며, 새로운 모델이 2025년에 출시될 예정입니다. 소형 용량 드라이브(2~8TB)의 리드 타임이 이미 크게 증가했습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -2551,7 +2551,7 @@
     ],
     "section_raw": "RDIMM",
     "subheading": "",
-    "text": "AI 서버 채택이 증가함에 따라DDR5-500에 대한 수요가 증가하고 있습니다. 이 모듈의 가격은 안정되고 있으나 2분기에는 약간의 상승이 있을 수 있습니다.",
+    "text": "AI 서버 채택이 증가함에 따라DDR5~500에 대한 수요가 증가하고 있습니다. 이 모듈의 가격은 안정되고 있으나 2분기에는 약간의 상승이 있을 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2648,7 +2648,7 @@
     ],
     "section_raw": "스토리지",
     "subheading": "",
-    "text": "작은 용량의 드라이브(2TB–8TB)는 제조업체들이 고부가가치 모델에 집중함에 따라 리드 타임이 길어지고 있습니다.",
+    "text": "작은 용량의 드라이브(2TB-8TB)는 제조업체들이 고부가가치 모델에 집중함에 따라 리드 타임이 길어지고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -2712,7 +2712,7 @@
     ],
     "section_raw": "수동소자",
     "subheading": "",
-    "text": "Kemet Polymer Tantalums는 2.5V–10V B-케이스 커패시터(47μF–330μF)에 대해 6월 1일부터 가격 인상을 발표했습니다.",
+    "text": "Kemet Polymer Tantalums는 2.5V-10V B-케이스 커패시터(47μF-330μF)에 대해 6월 1일부터 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Kemet"
     ],
@@ -2746,7 +2746,7 @@
     ],
     "section_raw": "수동소자",
     "subheading": "",
-    "text": "Kemet는탄탈륨 커패시터에 대해 10–15%의 가격 인상을 시행했으며, 리드 타임을 추가로 2–4주 연장했습니다.",
+    "text": "Kemet는탄탈륨 커패시터에 대해 10~15%의 가격 인상을 시행했으며, 리드 타임을 추가로 2~4주 연장했습니다.",
     "detected_vendors": [
       "Kemet"
     ],
@@ -3132,7 +3132,7 @@
     ],
     "section_raw": "CPU 공급업체 전반의 가용성 문제 및 비용 상승",
     "subheading": "",
-    "text": "AMD 임베디드 CPU 가격이 15–20% 상승하며 공급 부족 심화 및 산업 고객의 수요 증가를 나타냅니다.",
+    "text": "AMD 임베디드 CPU 가격이 15~20% 상승하며 공급 부족 심화 및 산업 고객의 수요 증가를 나타냅니다.",
     "detected_vendors": [
       "AMD"
     ],
@@ -3235,7 +3235,7 @@
     ],
     "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
     "subheading": "",
-    "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5-5600, DDR5-6400 변종에 대한 수요가 큽니다.",
+    "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
       "삼성"
@@ -3282,7 +3282,7 @@
     ],
     "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
     "subheading": "",
-    "text": "DDR4 모듈의 리드 타임은 10-14주로 줄었지만, 마감일이 다가오면서 공급은 더 악화될 것으로 보입니다.",
+    "text": "DDR4 모듈의 리드 타임은 10~14주로 줄었지만, 마감일이 다가오면서 공급은 더 악화될 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -3409,7 +3409,7 @@
     ],
     "section_raw": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
     "subheading": "",
-    "text": "중급형 HDD (8TB–16TB): 제조업체들이 고용량 제품에 우선순위를 두면서 공급 부족이 확대되고 있습니다. (8TB/12TB) 제품의 리드 타임은 최대 10–12주이며, 2차 고객은 최대 6주 지연을 보고하고 있습니다.",
+    "text": "중급형 HDD (8TB-16TB): 제조업체들이 고용량 제품에 우선순위를 두면서 공급 부족이 확대되고 있습니다. (8TB/12TB) 제품의 리드 타임은 최대 10~12주이며, 2차 고객은 최대 6주 지연을 보고하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
@@ -3426,7 +3426,7 @@
     ],
     "section_raw": "HDD 고용량 수요가 중급형 드라이브 생산을 앞지름",
     "subheading": "",
-    "text": "엔트리급 HDD (2TB–6TB): 클라우드 최적화 모델에 대한 집중으로 납기가 느려지고 있으며, 특히 엔터프라이즈 SATA 및 일부 NAS 제품을 중심으로 전 용량대에서 채널 가격이 강세를 보이고 있습니다.",
+    "text": "엔트리급 HDD (2TB-6TB): 클라우드 최적화 모델에 대한 집중으로 납기가 느려지고 있으며, 특히 엔터프라이즈 SATA 및 일부 NAS 제품을 중심으로 전 용량대에서 채널 가격이 강세를 보이고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -3458,7 +3458,7 @@
     ],
     "section_raw": "수동 부품",
     "subheading": "",
-    "text": "Kemet은 B케이스 커패시터에 대해 10-15%의 두 번째 가격 인상을 발표했으며, 여러 전압 등급에서 3-5주의 추가 지연이 발생하고 있습니다.",
+    "text": "Kemet은 B케이스 커패시터에 대해 10~15%의 두 번째 가격 인상을 발표했으며, 여러 전압 등급에서 3~5주의 추가 지연이 발생하고 있습니다.",
     "detected_vendors": [
       "Kemet"
     ],
@@ -3942,7 +3942,7 @@
     ],
     "section_raw": "GPU 전략적 할당 및 시장 변동성",
     "subheading": "",
-    "text": "H100 80GB 및 94GB 모델은 EOL(생산 종료)에 접어들었으며, 가용성은 제한적입니다. H100 94GB는 리드 타임이 4-6주입니다.",
+    "text": "H100 80GB 및 94GB 모델은 EOL(생산 종료)에 접어들었으며, 가용성은 제한적입니다. H100 94GB는 리드 타임이 4~6주입니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "EOL",
@@ -4010,7 +4010,7 @@
     ],
     "section_raw": "DRAM메모리 모듈 병목 현상 및 DDR5 전환",
     "subheading": "",
-    "text": "DDR4 부족은 DDR5로의 전환을 가속화하고 있으며, DDR5는 밀도에 따라 1-7% 가격 상승으로 더 안정적인 상태를 유지하고 있습니다.",
+    "text": "DDR4 부족은 DDR5로의 전환을 가속화하고 있으며, DDR5는 밀도에 따라 1~7% 가격 상승으로 더 안정적인 상태를 유지하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Price Increase",
@@ -4045,7 +4045,7 @@
     ],
     "section_raw": "DRAM메모리 모듈 병목 현상 및 DDR5 전환",
     "subheading": "",
-    "text": "하이닉스는 7월 15–25일 사이에 가격 조정을 할 것으로 예상되며, 가용성은 여전히 제한적입니다.",
+    "text": "하이닉스는 7월 15~25일 사이에 가격 조정을 할 것으로 예상되며, 가용성은 여전히 제한적입니다.",
     "detected_vendors": [
       "SK하이닉스"
     ],
@@ -4063,7 +4063,7 @@
     ],
     "section_raw": "RDIMM 수요 재정렬 및 가격 압박",
     "subheading": "",
-    "text": "삼성 RDIMM의 직접 가격은 20–30% 상승할 것으로 보입니다.",
+    "text": "삼성 RDIMM의 직접 가격은 20~30% 상승할 것으로 보입니다.",
     "detected_vendors": [
       "삼성"
     ],
@@ -4137,7 +4137,7 @@
     ],
     "section_raw": "SSD 공급 제약 및 가격 상승",
     "subheading": "",
-    "text": "SSD 제조업체는 다양한 용량에 대해 분기별 가격을5–8% 인상했습니다.",
+    "text": "SSD 제조업체는 다양한 용량에 대해 분기별 가격을5~8% 인상했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4167,7 +4167,7 @@
     ],
     "section_raw": "HDDs 용량 전환 및 리드 타임 증가",
     "subheading": "",
-    "text": "2–8TB모델의 리드 타임은 현재 20주를 초과하고 있습니다.",
+    "text": "2~8TB모델의 리드 타임은 현재 20주를 초과하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -4183,7 +4183,7 @@
     ],
     "section_raw": "HDDs 용량 전환 및 리드 타임 증가",
     "subheading": "",
-    "text": "웨스턴 디지털은 모든 고용량 HDD(20-26TB)가 심각한 공급 제약을 받고 있으며, 지난 한 달 동안 가격이 10% 상승했다고 확인했습니다.",
+    "text": "웨스턴 디지털은 모든 고용량 HDD(20~26TB)가 심각한 공급 제약을 받고 있으며, 지난 한 달 동안 가격이 10% 상승했다고 확인했습니다.",
     "detected_vendors": [
       "Western Digital"
     ],
@@ -4218,7 +4218,7 @@
     ],
     "section_raw": "수동 부품 리드 타임 연장 및 할당",
     "subheading": "",
-    "text": "삼성 수동 부품의 리드 타임은 기존 8-12주에서 14-18주로 늘어났습니다. 공식적인 부족 선언은 없지만, 제약은 증가하고 있습니다.",
+    "text": "삼성 수동 부품의 리드 타임은 기존 8~12주에서 14~18주로 늘어났습니다. 공식적인 부족 선언은 없지만, 제약은 증가하고 있습니다.",
     "detected_vendors": [
       "삼성"
     ],
@@ -4280,7 +4280,7 @@
     ],
     "section_raw": "공급망 동향",
     "subheading": "",
-    "text": "무어의 법칙을 넘는 혁신: 현재 혁신은 재료 과학 및 이기종 통합—3D 패키징, 칩렛, SiC/GaN 채택, 그리고 양자 및 뉴로모픽 기술로 초점이 이동하고 있습니다.",
+    "text": "무어의 법칙을 넘는 혁신: 현재 혁신은 재료 과학 및 이기종 통합-3D 패키징, 칩렛, SiC/GaN 채택, 그리고 양자 및 뉴로모픽 기술로 초점이 이동하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4294,7 +4294,7 @@
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "",
-    "text": "인텔: 대규모 구조조정을 진행 중인 인텔은 성과 평가, 비용 절감, 전략 변경에 따라 인텔 파운드리 인력의 15-20%—최대 1만 명 이상—을 감원하고 있습니다. CEO 립-부 탄은 인텔이 더 이상 세계 10대 반도체 기업에 포함되지 않는다고 밝혔습니다. TOI 기사:",
+    "text": "인텔: 대규모 구조조정을 진행 중인 인텔은 성과 평가, 비용 절감, 전략 변경에 따라 인텔 파운드리 인력의 15~20%-최대 1만 명 이상-을 감원하고 있습니다. CEO 립-부 탄은 인텔이 더 이상 세계 10대 반도체 기업에 포함되지 않는다고 밝혔습니다. TOI 기사:",
     "detected_vendors": [
       "Intel"
     ],
@@ -4503,7 +4503,7 @@
     ],
     "section_raw": "GPU 가용성 변화 및 라이프사이클 전환",
     "subheading": "",
-    "text": "GDDR6 공급은 여전히 타이트하며, 리드타임은 현재 약 6-8주입니다. 이는 AI 인접 분야 및 고성능 그래픽 수요로 인해 발생하며, 특정 GDDR6 속도 등급 및 밀도에 의존하는 일부 GPU 및 가속기 보드의 리드타임을 연장시키고 있습니다.",
+    "text": "GDDR6 공급은 여전히 타이트하며, 리드타임은 현재 약 6~8주입니다. 이는 AI 인접 분야 및 고성능 그래픽 수요로 인해 발생하며, 특정 GDDR6 속도 등급 및 밀도에 의존하는 일부 GPU 및 가속기 보드의 리드타임을 연장시키고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -4636,7 +4636,7 @@
     ],
     "section_raw": "RDIMM 긴급한 할당 속 장기 지원",
     "subheading": "",
-    "text": "Hynix DDR5 96GB 6400 리드타임은 2-3개월입니다.",
+    "text": "Hynix DDR5 96GB 6400 리드타임은 2~3개월입니다.",
     "detected_vendors": [
       "SK하이닉스"
     ],
@@ -4687,7 +4687,7 @@
     ],
     "section_raw": "SSD 용량 부족 및 제조사 가격 변동",
     "subheading": "",
-    "text": "Kioxia SSD는 4분기에 10-12%의 가격 인상이 예상됩니다.",
+    "text": "Kioxia SSD는 4분기에 10~12%의 가격 인상이 예상됩니다.",
     "detected_vendors": [
       "Kioxia"
     ],
@@ -4705,7 +4705,7 @@
     ],
     "section_raw": "SSD 용량 부족 및 제조사 가격 변동",
     "subheading": "",
-    "text": "SSD제조업체는다양한용량에대해분기별가격을5–10%인상했습니다.",
+    "text": "SSD제조업체는다양한용량에대해분기별가격을5~10%인상했습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4791,7 +4791,7 @@
     ],
     "section_raw": "수동 부품 리드 타임 연장 및 할당",
     "subheading": "",
-    "text": "탄탈륨 커패시터는 리드타임이 24-28주로 늘어나고 있습니다.",
+    "text": "탄탈륨 커패시터는 리드타임이 24~28주로 늘어나고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
@@ -6187,7 +6187,7 @@
     ],
     "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
-    "text": "2025–26년 대규모 메모리 부족 심화: 삼성은 DDR5 모듈의 계약 가격을 최대 60%까지 인상한 것으로 전해지며, 32GB 가격이 급등했다. 고객들은 최소한의 공급을 확보하기 위해 주간 단위의 비협상 가격과 NCNR 조건을 강제로 받아들이고 있다.",
+    "text": "2025~26년 대규모 메모리 부족 심화: 삼성은 DDR5 모듈의 계약 가격을 최대 60%까지 인상한 것으로 전해지며, 32GB 가격이 급등했다. 고객들은 최소한의 공급을 확보하기 위해 주간 단위의 비협상 가격과 NCNR 조건을 강제로 받아들이고 있다.",
     "detected_vendors": [
       "삼성"
     ],
@@ -6228,7 +6228,7 @@
     ],
     "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "subheading": "",
-    "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20–30%의 4분기 가격 인상을 예고했다.",
+    "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "Solidigm",
       "삼성"
@@ -6414,7 +6414,7 @@
     ],
     "section_raw": "네트워킹 카드",
     "subheading": "지속적인 부족 현상",
-    "text": "Broadcom은 핵심 RAID 컨트롤러(예: 9560-8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다.",
+    "text": "Broadcom은 핵심 RAID 컨트롤러(예: 9560~8i)에 대해 2025년 11월 1일부터 18% 가격 인상을 발표했으며, 이는 상승하는 메모리 비용을 반영한 조치다. 이들 고수요 제품의 리드타임은 이제 6개월에 이르고 있다.",
     "detected_vendors": [
       "Broadcom"
     ],
@@ -6561,7 +6561,7 @@
     ],
     "section_raw": "용량 부족 및 제조사 가격 변동",
     "subheading": "",
-    "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20–30% 가격 인상이 적용되고 있다.",
+    "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20~30% 가격 인상이 적용되고 있다.",
     "detected_vendors": [
       "Micron",
       "삼성"
@@ -6580,7 +6580,7 @@
     ],
     "section_raw": "고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
-    "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10–24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다.",
+    "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10~24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다.",
     "detected_vendors": [
       "Toshiba"
     ],

@@ -6,7 +6,7 @@ The Greensheet 2022년 9월호
 
 ### Intel은 2022년 10월 2일부터 모든 제품 라인의 가격을 인상하기로 했습니다. 제조원가를 높이고 있는 인플레이션과 원자재 공급 부족(Shortage)에 대한 대응으로 이 같은 결정이 내려졌습니다. 가격 급등 전에 낮은 가격으로 이용하고자 하는 고객은 4분기 프로젝트를 검토하여 10월 2일 발효일 이전에 재고 수준을 확인해야 합니다.
 
-### 제품 목록과 향후 가격 인상분은 다음과 같습니다. Xeon SP: Bronze & Silver – 5%, Platinum & Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (인상 없음), 기타 코어 프로세서 10%, Pentium, Celeron, Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%, 
+### 제품 목록과 향후 가격 인상분은 다음과 같습니다. Xeon SP: Bronze & Silver - 5%, Platinum & Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (인상 없음), 기타 코어 프로세서 10%, Pentium, Celeron, Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%, 
 
 ## 이더넷 컨트롤러 칩셋 시장 내 불확실성 증가
 

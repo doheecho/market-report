@@ -24,7 +24,7 @@ The Greensheet 2022년 10월호
 
 ### 그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.
 
-### 영향을 받는 시리즈. Toshiba Arm Cortex-M4 코어 – 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX, Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX, Toshiba Power Management 및 MOSFET – SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호
+### 영향을 받는 시리즈. Toshiba Arm Cortex-M4 코어 - 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX, Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX, Toshiba Power Management 및 MOSFET - SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호
 
 # 💻 CPU
 
@@ -82,6 +82,6 @@ The Greensheet 2022년 10월호
 
 ### Intel의 이더넷 컨트롤러 I210 시리즈 및 이더넷I211 시리즈에 대한 전반적 공급 개선에도 불구하고, 이더넷 컨트롤러 I210-IT(WGI210IT) 공급 물량은 부족한 상태가 지속되고 있습니다. 이더넷 컨트롤러 E810에 대한 오픈 마켓 가용성도 또한 제한된 상태이며 전체 시리즈가 긴 리드 타임에 직면해 있습니다.
 
-### Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver – 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%
+### Intel의 가격 인상은 2022년 10월 2일에 발효될 예정이며 이로 인해 Intel의 공급 지원과 고객의 수요에 어떤 영향이 있을 것인지 불확실합니다. 가격 인상의 영향을 받는 제품에 대한 개요를 아래에서 살펴보십시오. Xeon SP: Bronze 및 Silver - 5%, Platinum 및 Gold 7%~10% Xeon D: 2~10%, Xeon E: 5%, 칩셋: 7%, Atom: 2.5%, 모바일 SIPP 프로세서 0% (증가 없음), 기타 코어 프로세서 10%, Pentium, Celeron 및 Atom 20%, 워크스테이션 Xeon W 10%, 클라이언트 및 워크스테이션 PCH 10%, Intel NUC(코어 기반) 3~9%, INTEL NUC(Celeron/Pentium 기반) 2~20%
 
 ### 추가적으로 중국은 10월 1일부터 10월 7일까지 황금연휴를 갖습니다. 연휴로 인해 주문 적체와 공급 제한이 발생할 수 있기 때문에 고객들은 이러한 가능성을 염두에 두고 필수 구성품의 재고를 늘려야 할 필요가 있습니다. 비용 절감 기회를 모색하는 업체들은 일찍 발주하여 향후 가격 폭등을 피할 수 있습니다.

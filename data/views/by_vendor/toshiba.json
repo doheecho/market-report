@@ -78,7 +78,7 @@
     ],
     "section_raw": "Toshiba 공장의 생산능력 제한으로 부품 출하 억제",
     "subheading": "",
-    "text": "또한 Toshiba의 중국 및 태국 공장은 제한된 생산능력으로 운영되고 있습니다. 중국에서는 전력 제한으로 인해 일부 공장이 주 3~4일만 가동되고 있습니다. 또한 태국의 MOSFET 공장은 단 50-60% 생산능력으로 가동되고 있어 출하가 불안정해지고 있으며 이는 다양한 부품의 가격 인상으로 이어질 수 있습니다.",
+    "text": "또한 Toshiba의 중국 및 태국 공장은 제한된 생산능력으로 운영되고 있습니다. 중국에서는 전력 제한으로 인해 일부 공장이 주 3~4일만 가동되고 있습니다. 또한 태국의 MOSFET 공장은 단 50~60% 생산능력으로 가동되고 있어 출하가 불안정해지고 있으며 이는 다양한 부품의 가격 인상으로 이어질 수 있습니다.",
     "detected_vendors": [
       "Toshiba"
     ],
@@ -172,7 +172,7 @@
     ],
     "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
     "subheading": "",
-    "text": "영향을 받는 시리즈. Toshiba Arm Cortex-M4 코어 – 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX, Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX, Toshiba Power Management 및 MOSFET – SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호",
+    "text": "영향을 받는 시리즈. Toshiba Arm Cortex-M4 코어 - 부품번호 TMPN4XXX, Arm Cortex-M3 코어 U- 부품번호 TMPN3XXX, Toshiba 자동차용 전력 증폭 IC - TB209, TCB70XXX, TCBXXX, TB900XXX, Toshiba Power Management 및 MOSFET - SSM3, TC75, TPC80XXX, TPH4RXXX, TK40SXXX로 시작하는 부품번호",
     "detected_vendors": [
       "Toshiba"
     ],
@@ -281,7 +281,7 @@
     ],
     "section_raw": "고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
-    "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10–24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다.",
+    "text": "보고에 따르면 Toshiba는 MG10ACA20TE(20TB)와 같은 고용량 모델 주문을 지원할 수 없는 상황이다. 10~24TB 드라이브의 리드타임은 이제 2026년 1~2분기까지 연장되었으며, 이러한 백오더에 대한 기존 가격은 유지되지 않는다.",
     "detected_vendors": [
       "Toshiba"
     ],
@@ -319,7 +319,7 @@
     ],
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
-    "text": "도시바는 20TB+ 모델(예: MG10ACA20TE)을 지원하지 못하고 있으며, 10-24TB 드라이브 리드타임은 2026년 2분기까지 늘어나고 있습니다. 백오더 가격은 더 이상 유지되지 않습니다.",
+    "text": "도시바는 20TB+ 모델(예: MG10ACA20TE)을 지원하지 못하고 있으며, 10~24TB 드라이브 리드타임은 2026년 2분기까지 늘어나고 있습니다. 백오더 가격은 더 이상 유지되지 않습니다.",
     "detected_vendors": [
       "Toshiba"
     ],
@@ -337,7 +337,7 @@
     ],
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "",
-    "text": "주요 CSP조차 16-24TB 용량에서 HDD 부족을 보고하고 있으며, 도시바는 대부분의 승인 벤더 리스트에서 제외되어 있습니다.",
+    "text": "주요 CSP조차 16~24TB 용량에서 HDD 부족을 보고하고 있으며, 도시바는 대부분의 승인 벤더 리스트에서 제외되어 있습니다.",
     "detected_vendors": [
       "Toshiba"
     ],
