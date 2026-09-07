@@ -1,6 +1,6 @@
 {
   "category": "GPU",
-  "total_milestones": 292,
+  "total_milestones": 293,
   "history": [
     {
       "date": "2020.04",
@@ -611,15 +611,24 @@
       "date": "2021.09",
       "detected_vendors": [],
       "risk_level": "Low",
-      "summary": "안정적인 HDD 시장",
+      "summary": "GPU",
       "text": "GPU 시장은 계속해서 수요와 가격이 높은 수준을 형성하고 있습니다."
     },
     {
       "date": "2021.09",
       "detected_vendors": [],
       "risk_level": "Low",
-      "summary": "안정적인 HDD 시장",
+      "summary": "GPU",
       "text": "일반적으로, GPU 수요와 가격은 그대로 높은 수준입니다."
+    },
+    {
+      "date": "2021.09",
+      "detected_vendors": [
+        "Nvidia"
+      ],
+      "risk_level": "Medium",
+      "summary": "GPU",
+      "text": "Nvidia LHR 카드의 낮은 가용성과 최근 암호화폐 가격 상승으로 인한 채굴 활동의 빠른 회복으로 인해, CMP(Crypto Mining Processor)에 대한 수요가 자극을 받았지만, 이런 프로세서는 여전히 채굴자와 대체 사용자에겐 고가로 생각됩니다."
     },
     {
       "date": "2021.09",
@@ -629,14 +638,14 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "안정적인 HDD 시장",
+      "summary": "GPU",
       "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다."
     },
     {
       "date": "2021.09",
       "detected_vendors": [],
       "risk_level": "Low",
-      "summary": "안정적인 HDD 시장",
+      "summary": "GPU",
       "text": "아직 알려지지 않은 사항이 많지만, 새로운 플레이어가 GPU 시장에 진입하는 것을 보게 되는 흥미로운 시기입니다."
     },
     {
@@ -812,11 +821,9 @@
     },
     {
       "date": "2022.06",
-      "detected_vendors": [
-        "Intel"
-      ],
-      "risk_level": "Medium",
-      "summary": "이 인상이 적용되는 시리즈는 다음과 같습니다. WGI210IT, WGI210AT, WGI210IS, NHI350AM2, NHI350AM4, FTXL710-BM1",
+      "detected_vendors": [],
+      "risk_level": "Low",
+      "summary": "GPU",
       "text": "GPU 시장은 작년 이맘때보다 최종 사용자에게 훨씬 더 친화적입니다. 상하이 봉쇄로 인해 GPU 제조업체의 중국 출하가 타격을 입고 있음에도 GPU 가격은 계속해서 떨어지고 있습니다. 가격 하락이 지속되는 가운데 가상화폐 공간의 GPU 소비는 급격히 줄었습니다. 현지 PC DIY 소매업체의 수요는 늘었습니다. 전반적으로 Tier 1 GPU 제조업체는 가격을 약 5% 인하했습니다."
     },
     {
@@ -1547,7 +1554,7 @@
         "Nvidia"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "🎮 GPU: 시장은 현재 전환기에 있으며, 공급망 지연과 제품 라인 차질로 인해 주요 부문이 어려움을 겪고 있습니다. 서버와 AI에 대한 전반적인 수요는 공급 부족과 Nvidia의 H100에서 H200으로의 전환으로 제약을 받고 있습니다. 그러나 수요는 여전히 강하며, 곧 증가할 것으로 예상됩니다. 이로 인해 단기적으로는 시장이 둔화된 것처럼 보이지만, 장기적으로는 긍정적인 추세가 예상됩니다. 이러한 차질은 장기적으로 수요와 가격 압박을 더욱 증가시킬 가능성이 큽니다."
     },
     {
@@ -1558,7 +1565,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요: Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다."
     },
     {
@@ -1568,7 +1575,7 @@
         "TSMC"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "포장 및 생산 문제: Nvidia의 차세대 Blackwell B200 GPU는 TSMC의 CoWoS 포장을 사용하지만, TSMC는 생산을 확대하고 있음에도 불구하고 과부하 상태에 있습니다. CoWoS의 설계 결함으로 품질 문제와 90일 이상의 지연이 발생하여 생산 일정이 복잡해졌습니다."
     },
     {
@@ -1577,14 +1584,14 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "지연으로 인한 수요 변화: B200 프로젝트를 준비 중인 고객들은 Nvidia가 지연을 90일로 제한할 수 있을지 의심하며, 일부는 120~150일의 더 긴 지연을 예상하고 있습니다. 이에 따라 많은 고객이 H200과 H100 GPU로 수요를 전환하고 있으며, 대규모 사용자는 후속 모델에 대한 예산을 확보하기 위해 H100 및 A100의 구매를 일시적으로 줄이고 있습니다."
     },
     {
       "date": "2024.10",
       "detected_vendors": [],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "예상된 지연과 예기치 못한 지연: 일부 고객은 B200 지연을 예상하고 대비했지만, 단기적으로 B200 프로젝트를 계획하지 않은 주요 GPU 사용자는 영향을 받지 않았습니다."
     },
     {
@@ -1594,7 +1601,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다."
     },
     {
@@ -1604,7 +1611,7 @@
         "Nvidia"
       ],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "미·중 기술 전쟁의 영향: 미국의 제재로 인해 중국에서 여러 Nvidia 모델의 판매가 금지되면서 가격 격차가 발생했습니다. 그러나 Nvidia의 H20 GPU는 중국에서 높은 수요를 기록하며 $12B 달러의 매출을 올렸고, 화웨이의 Ascend 910B 가속기 같은 현지 대안을 앞지르고 있습니다. H20는 100만 개 이상이 판매될 것으로 예상됩니다."
     },
     {
@@ -1615,7 +1622,7 @@
         "삼성"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "HBM 수요로 인한 DRAM 생산 조정: SK하이닉스는 DRAM 생산의 약 20%를 HBM 생산으로 전환했으며, 이로 인해 DDR5 가격이 상승했습니다. 삼성은 DRAM 생산의 30%를 HBM3E로 할당해 Nvidia의 Blackwell GPU 수요를 충족하고 있습니다. 이로 인해 DDR5 공급 부족이 발생할 가능성이 있으며, 이는 고수요 HBM 제품에 대한 웨이퍼 공급이 우선되기 때문입니다."
     },
     {
@@ -1626,7 +1633,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "AI 기반 데이터 센터와 엣지 컴퓨팅 수요: Intel, Broadcom, Nvidia의 최신 실적 보고서에 따르면 AI 기반 데이터 센터와 엣지 컴퓨팅, 하이퍼스케일 환경에서 네트워킹 제품에 대한 수요가 증가하고 있습니다. AI 네트워킹 솔루션 및 맞춤형 가속기에 대한 투자가 이러한 성장을 주도하고 있습니다."
     },
     {
@@ -1635,7 +1642,7 @@
         "Nvidia"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "소비자 GPU: AI 관련 시장 점유율 경쟁으로 치열해지고 있습니다. Nvidia의 가속화된 출시 일정과 주요 모델의 지속적인 부족으로 인해 역동적인 환경이 조성되고 있으며, 2024년 말까지 급격한 변화가 예상됩니다. 새로운 제품 출시와 공급 문제로 인한 변화 속에서 조기 계획과 전략적 구매가 중요해지고 있습니다."
     },
     {
@@ -1645,7 +1652,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다."
     },
     {
@@ -1654,7 +1661,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "성능 수요가 전력 효율성에 미치는 영향: Nvidia의 최신 GPU인 RTX 50 시리즈는 이전 세대에 비해 성능이 크게 향상될 것으로 예상되며, TGP(총 그래픽 전력)가 상당히 증가할 것입니다. RTX 40 시리즈보다 기능이 뛰어나지만, 이로 인해 전력 소비도 증가할 것으로 보입니다."
     },
     {
@@ -1664,7 +1671,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다."
     },
     {
@@ -1674,7 +1681,7 @@
         "Nvidia"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다."
     },
     {
@@ -1683,14 +1690,14 @@
         "Nvidia"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "RTX 4090 공급 문제: RTX 4090은 GDDR6X 메모리 부족과 Nvidia가 RTX 50 시리즈 출시를 준비하면서 GPU 칩 공급이 줄어들어 심각한 공급 제약을 겪고 있습니다. 이로 인해 고급 데스크탑 GPU 시장에서 가격 상승과 구매자 간의 경쟁이 심화될 수 있습니다."
     },
     {
       "date": "2024.10",
       "detected_vendors": [],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "가격 변동 가능성: 공급 부족과 높은 수요로 인해 RTX 4090과 같은 고급 소비자용 GPU의 가격이 변동될 수 있습니다. 구매자들은 앞으로 몇 달 동안 변화하는 가격 동향에 유연하게 대응할 필요가 있을 것입니다."
     },
     {
@@ -1699,7 +1706,7 @@
         "Nvidia"
       ],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "컴퓨트 모듈과 마더보드: 컴퓨트 모듈 시장은 Nvidia Jetson products과 관련 개발 키트에 부과된 관세의 영향을 받고 있습니다. 이러한 관세는 시장 변동을 야기하며, 공급 수준과 수요 역학에 큰 영향을 미치고 있습니다."
     },
     {
@@ -1708,7 +1715,7 @@
         "Nvidia"
       ],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "AI가 Jetson 제품 수요를 견인: Nvidia의 Jetson 카드 시리즈와 관련 개발 키트는 엣지 AI 컴퓨팅, 로보틱스, 사물인터넷(IoT) 애플리케이션에서의 활용도가 높아 강한 수요를 보이며, 이는 곧 가격 인상으로 이어질 가능성이 있습니다."
     },
     {
@@ -1717,7 +1724,7 @@
         "Nvidia"
       ],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10~15% 상승한 바 있습니다."
     },
     {
@@ -1726,7 +1733,7 @@
         "Panasonic"
       ],
       "risk_level": "Low",
-      "summary": "Intro",
+      "summary": "제품 업데이트",
       "text": "다양한 응용 분야에서의 수요 급증: 서버, 노트북, 디스플레이, 그래픽 카드, 데이터 센터, 산업 제어 보드 등 다양한 부문에서 Panasonic 커패시터에 대한 수요가 크게 증가했으며, 이에 따라 생산 라인이이 현재 풀 가동상태입니다."
     },
     {
@@ -2011,7 +2018,7 @@
         "Nvidia"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "주요 주제",
       "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다."
     },
     {
@@ -2185,7 +2192,7 @@
         "Mellanox"
       ],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "주요 주제",
       "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다."
     },
     {
@@ -2238,7 +2245,7 @@
       "date": "2026.03",
       "detected_vendors": [],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "주요 주제",
       "text": "중국 시장 분절화와 국산 대체 가속: H200 수출 승인 지연과 중국 하이퍼스케일러에 대한 RDIMM 공급이 약 30%로 제한됨에 따라, 주요 중국 OEM들은 국산 메모리 및 SSD 공급업체 인증을 가속화하고 있다. 엔터프라이즈급 성능 격차는 여전히 존재하지만, 수입 제품 대비 60~75%의 가격 경쟁력이 비용 민감형 시장에서 빠른 채택을 이끌고 있다. 이로 인해 가격 구조, 할당 우선순위, 공급망 가시성이 상이한 이중 구조의 글로벌 메모리 시장이 형성되고 있다."
     },
     {
@@ -2492,7 +2499,7 @@
         "Nvidia"
       ],
       "risk_level": "Medium",
-      "summary": "Intro",
+      "summary": "주요 주제",
       "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다."
     },
     {
@@ -2529,7 +2536,7 @@
         "Nvidia"
       ],
       "risk_level": "High",
-      "summary": "Intro",
+      "summary": "주요 주제",
       "text": "NVIDIA Blackwell 및 엔터프라이즈 GPU 가격, 시장에 충격: NVIDIA는 Blackwell 워크스테이션 및 서버 GPU 제품군(RTX PRO 6000·5000·4000 시리즈)의 가격을 20~66% 대폭 인상했습니다. 이와 동시에 H200 GPU는 단종을 앞두고 리드타임이 갑자기 40~48주로 늘어났으며, 전 세계적으로 수출 감시도 강화되고 있습니다."
     },
     {

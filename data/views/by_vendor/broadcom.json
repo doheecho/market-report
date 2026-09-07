@@ -497,10 +497,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "AI 기반 데이터 센터와 엣지 컴퓨팅 수요: Intel, Broadcom, Nvidia의 최신 실적 보고서에 따르면 AI 기반 데이터 센터와 엣지 컴퓨팅, 하이퍼스케일 환경에서 네트워킹 제품에 대한 수요가 증가하고 있습니다. AI 네트워킹 솔루션 및 맞춤형 가속기에 대한 투자가 이러한 성장을 주도하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -517,8 +518,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -537,8 +538,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "AI 애플리케이션이 스위치 시장 활성화: PCIe 스위치 인터페이스 IC(SS2X)는 고속 데이터 전송을 관리해야 하는 AI 애플리케이션에서 중요한 역할을 하고 있습니다. 이에 따라 Broadcom에 대한 수요가 증가하고 있습니다. 고객들은 Gen 6 스위치의 출시를 준비하고 있으며, 이는 B100/B200 모델과 함께 도입될 예정입니다. 이로 인해 Gen 5 스위치 수요는 급감할 것으로 예상되며, Gen 5 스위치의 재고 과잉 문제가 발생할 가능성도 있습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -683,10 +684,11 @@
     "detected_categories": [
       "IC",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -823,10 +825,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
     "detected_vendors": [
       "Broadcom",

@@ -23,10 +23,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "미·중 기술 전쟁의 영향: 미국의 제재로 인해 중국에서 여러 Nvidia 모델의 판매가 금지되면서 가격 격차가 발생했습니다. 그러나 Nvidia의 H20 GPU는 중국에서 높은 수요를 기록하며 $12B 달러의 매출을 올렸고, 화웨이의 Ascend 910B 가속기 같은 현지 대안을 앞지르고 있습니다. H20는 100만 개 이상이 판매될 것으로 예상됩니다.",
     "detected_vendors": [
       "Huawei",
@@ -44,8 +45,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "중국 기업과의 경쟁 심화: 화웨이와 Inspur 같은 중국 브랜드의 경쟁력 있는 가격대의 서버 마더보드가 등장하면서, Supermicro와 같은 기존 기업의 시장 점유율에 변화가 나타나고 있습니다.",
     "detected_vendors": [
       "Huawei",

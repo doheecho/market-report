@@ -94,12 +94,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Passive",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "가격 인상: AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
       "AVX",

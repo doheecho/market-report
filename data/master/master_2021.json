@@ -6085,11 +6085,10 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Storage"
+      "GPU"
     ],
-    "section_raw": "안정적인 HDD 시장",
-    "subheading": "안정적인 HDD 시장",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "GPU 시장은 계속해서 수요와 가격이 높은 수준을 형성하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -6100,11 +6099,10 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Storage"
+      "GPU"
     ],
-    "section_raw": "안정적인 HDD 시장",
-    "subheading": "안정적인 HDD 시장",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "일반적으로, GPU 수요와 가격은 그대로 높은 수준입니다.",
     "detected_vendors": [],
     "detected_keywords": [],
@@ -6116,10 +6114,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Storage"
+      "GPU"
     ],
-    "section_raw": "안정적인 HDD 시장",
-    "subheading": "안정적인 HDD 시장",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "Nvidia LHR 카드의 낮은 가용성과 최근 암호화폐 가격 상승으로 인한 채굴 활동의 빠른 회복으로 인해, CMP(Crypto Mining Processor)에 대한 수요가 자극을 받았지만, 이런 프로세서는 여전히 채굴자와 대체 사용자에겐 고가로 생각됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -6134,11 +6132,10 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Storage"
+      "GPU"
     ],
-    "section_raw": "안정적인 HDD 시장",
-    "subheading": "안정적인 HDD 시장",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다.",
     "detected_vendors": [
       "AMD",
@@ -6153,11 +6150,10 @@
     "month": 9,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "Storage"
+      "GPU"
     ],
-    "section_raw": "안정적인 HDD 시장",
-    "subheading": "안정적인 HDD 시장",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "아직 알려지지 않은 사항이 많지만, 새로운 플레이어가 GPU 시장에 진입하는 것을 보게 되는 흥미로운 시기입니다.",
     "detected_vendors": [],
     "detected_keywords": [],

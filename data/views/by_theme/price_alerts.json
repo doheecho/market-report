@@ -1407,10 +1407,10 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
-      "Storage"
+      "GPU"
     ],
-    "section_raw": "안정적인 HDD 시장",
-    "subheading": "안정적인 HDD 시장",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "Nvidia LHR 카드의 낮은 가용성과 최근 암호화폐 가격 상승으로 인한 채굴 활동의 빠른 회복으로 인해, CMP(Crypto Mining Processor)에 대한 수요가 자극을 받았지만, 이런 프로세서는 여전히 채굴자와 대체 사용자에겐 고가로 생각됩니다.",
     "detected_vendors": [
       "Nvidia"
@@ -2244,22 +2244,16 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "IC",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "할당 제약과 가격 상승이 예상되는 Intel 이더넷 컨트롤러와 칩셋",
-    "subheading": "이 인상이 적용되는 시리즈는 다음과 같습니다. WGI210IT, WGI210AT, WGI210IS, NHI350AM2, NHI350AM4, FTXL710-BM1",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "GPU 시장은 작년 이맘때보다 최종 사용자에게 훨씬 더 친화적입니다. 상하이 봉쇄로 인해 GPU 제조업체의 중국 출하가 타격을 입고 있음에도 GPU 가격은 계속해서 떨어지고 있습니다. 가격 하락이 지속되는 가운데 가상화폐 공간의 GPU 소비는 급격히 줄었습니다. 현지 PC DIY 소매업체의 수요는 늘었습니다. 전반적으로 Tier 1 GPU 제조업체는 가격을 약 5% 인하했습니다.",
-    "detected_vendors": [
-      "Intel"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
-      "Allocation",
-      "Price Decrease",
-      "Price Increase"
+      "Price Decrease"
     ],
-    "risk_level": "Medium"
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -5118,12 +5112,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "RDIMM: 거의 12개월 동안 공급 부족과 가격 상승이 지속된 RDIMM 시장이 전환점에 도달했습니다. 가격 상승 압력이 여전히 존재하지만, 2024년 4분기의 가격 인상은 비교적 완만할 것으로 예상되며 AI 이외의 수요는 여전히 혼재된 신호를 보이거나 미미한 상태입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5135,12 +5130,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "2024년 4분기 가격 인상: 삼성, 마이크론, SK하이닉스와 같은 공급업체들은 2024년 4분기에 최대 20%까지 가격 인상을 추진하고 있지만, 실제 인상폭은 더 낮아질 것으로 보입니다. 삼성은 약 12% 수준의 인상을 선도하고 있으며, 2025년 1분기에는 가격이 유지되거나 소폭 상승할 가능성이 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -5155,12 +5150,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "DDR4 고밀도 모듈 가격 상승: DDR4 고밀도 모듈은 2024년 6월과 7월 사이에 생산 감소와 수요 급증으로 인해 가격이 35% 상승했으며, 현재까지 높은 가격이 유지되고 있습니다. 생산일자 코드에 따른 가격 차별화가 나타나고 있으며, 최신 제품은 2~3%의 프리미엄을 지속적으로 요구하고 있어 이 패턴은 앞으로도 이어질 것으로 보입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5171,13 +5167,14 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "부품 부족이 SSD 생산에 미치는 영향: NAND 수요 예측이 2025년까지 예상치를 초과하며, 생산 능력과 가동률이 이를 따라가지 못할 조짐을 보이고 있습니다. 이로 인해 SSD 공급 부족이 발생하고, 공급 부족 상황이 지속되면서 가격 상승 압력이 가중될 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5189,12 +5186,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Storage",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -5208,13 +5206,14 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "2025년 가격 압박: 일부 기업은 연말까지 SSD 가격이 하락할 수 있다고 예측하지만, 이 추세는 제조 공급 제약에 따라 달라질 것입니다. NAND 공급 문제로 인해 2025년에도 가격 인상 가능성이 있으며, 시장은 지속적인 부족과 공급망 문제로 변동성이 클 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5230,8 +5229,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -5248,10 +5247,11 @@
     "month": 10,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "모바일 CPU: 모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다.",
     "detected_vendors": [
       "AMD",
@@ -5270,10 +5270,11 @@
     "category": "GPU",
     "detected_categories": [
       "GPU",
+      "IC",
       "Memory"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "RTX 4090 공급 문제: RTX 4090은 GDDR6X 메모리 부족과 Nvidia가 RTX 50 시리즈 출시를 준비하면서 GPU 칩 공급이 줄어들어 심각한 공급 제약을 겪고 있습니다. 이로 인해 고급 데스크탑 GPU 시장에서 가격 상승과 구매자 간의 경쟁이 심화될 수 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5287,12 +5288,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "DIMM 가격 인상: 전반적인 수요가 부진함에도 불구하고, PC DIMM 시장의 가격은 8%에서 10%까지 인상될 것으로 전망됩니다. 이는 공급 제한이나 필수적인 비용 조정의 필요성을 시사할 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5303,12 +5304,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "시장 역학 변화: DDR4 DIMM에 대한 수요 증가와 가격 상승은 시장 역학에 변화를 가져올 수 있으며, 이는 구매자들의 구매 행태와 조달 전략에도 영향을 미칠 가능성이 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5323,8 +5325,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "마더보드 시장은 현재 중국 브랜드의 경쟁 심화와 주요 기업들의 전략적 변화로 인한 가격 상승으로 특징지어집니다. 또한 Supermicro가 완전한 서버 조립 제품으로 전환하면서 최소 주문 수량(MOQ) 증가와 리드 타임 연장이 발생하여 가격 압박이 가중되고 있습니다.",
     "detected_vendors": [
       "Supermicro"
@@ -5340,10 +5342,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "AI가 Jetson 제품 수요를 견인: Nvidia의 Jetson 카드 시리즈와 관련 개발 키트는 엣지 AI 컴퓨팅, 로보틱스, 사물인터넷(IoT) 애플리케이션에서의 활용도가 높아 강한 수요를 보이며, 이는 곧 가격 인상으로 이어질 가능성이 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5358,10 +5361,11 @@
     "month": 10,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "관세 영향: Nvidia Jetson 카드는 관세 면제 대상이 아니므로, 수요가 급증하면 고객들이 가격 인상 전에 물량을 확보하려고 하면서 비용이 증가할 수 있습니다. 과거 사례에서는 관세로 인해 가격이 10~15% 상승한 바 있습니다.",
     "detected_vendors": [
       "Nvidia"
@@ -5379,8 +5383,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "가격 상승: Supermicro 마더보드를 포함한 마더보드 가격은 수요 증가와 판매 전략 변화로 인해 상승하고 있습니다.",
     "detected_vendors": [
       "Supermicro"
@@ -5397,8 +5401,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "판매 전략 변화: Supermicro가 완제품 서버 조립 제품 판매로 전환하면서 MOQ와 리드 타임이 증가해 가격 인상 압력이 커지고 있습니다.",
     "detected_vendors": [
       "Supermicro"
@@ -5412,12 +5416,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "DDR5 가격 인상: 고성능 컴퓨팅(HPC) 애플리케이션, 특히 PC와 데이터 센터에서 DDR5 수요가 증가하면서 DDR4에서 DDR5로 전환이 가속화되고 있습니다. 예약 가격이 상승하면서 삼성, 마이크론, SK하이닉스는 4분기에 추가 인상을 준비하고 있으며, 이로 인해 DRAM 부품 비용이 5~8% 증가할 가능성이 있습니다. DDR4 가격은 비교적 안정적인 상태를 유지하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -5435,10 +5440,11 @@
     "category": "CPU",
     "detected_categories": [
       "CPU",
+      "IC",
       "Memory"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "인텔의 LPDDR5X 통합과 가격 상승: 인텔의 Lunar Lake 모바일 CPU가 LPDDR5X를 통합할 예정이지만, 출시가 2024년 4분기로 지연될 가능성이 있습니다.",
     "detected_vendors": [
       "Intel"
@@ -5455,8 +5461,8 @@
     "detected_categories": [
       "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "MCU 가격 상승: STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
     "detected_vendors": [
       "Nexperia"
@@ -5469,12 +5475,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "원자재 영향: 구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -5487,12 +5493,12 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "기타",
+    "category": "IC",
     "detected_categories": [
-      "기타"
+      "IC"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "가격 압박: 현재 강세를 보이는 시장에서 수요 변화가 발생하면, 공급 과잉으로 인해 수동 부품 시장에서 가격 압박이 발생할 수 있습니다. 특히 Murata 인덕터는 이미 긴 리드 타임으로 인해 가격 상승의 초기 신호를 보일 가능성이 높습니다.",
     "detected_vendors": [
       "Murata"
@@ -5506,12 +5512,13 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Passive",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "가격 인상: AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
       "AVX",
@@ -5526,13 +5533,14 @@
   {
     "year": 2024,
     "month": 10,
-    "category": "Memory",
+    "category": "IC",
     "detected_categories": [
+      "IC",
       "Memory",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "제품 업데이트",
+    "subheading": "제품 업데이트",
     "text": "2025년 전망: MLCC 제조업체들은 2025년 초부터 중반까지 시장이 제약을 받을 것으로 예측하고 있으며, 이는 과거의 수요 증가 패턴과 일치합니다. 또한 메모리 가격 상승과 리드 타임 연장과 같은 초기 지표들도 이를 뒷받침하고 있습니다. 그러나 AI 관련 수요가 공급을 확장시키더라도 본격적인 가격 회복은 2025년 하반기까지 지연될 수 있어 시장 역학을 복잡하게 만들 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -6082,10 +6090,11 @@
     "month": 9,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "DDR4 위기 심화, DDR5 배정도 긴축: DDR4 부족이 임계 수준에 도달했으며, 리드타임이 2026년까지 밀려나고 현물가는 급등하고 있습니다. 이로 인해 DDR5로의 전환이 가속화되고 있으나, 제조사들이 고마진 서버 및 AI 세그먼트를 우선시하면서 심각한 배정 제약과 월 4% 이상 가격 인상이 이어지고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -6101,10 +6110,11 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "아날로그 & 전력 IC 압박: 텍사스 인스트루먼트(TI)와 애널로그 디바이스(ADI)는 폭넓은 대규모 가격 인상과 리드타임 연장을 시행하고 있으며(일부 ADI 제품은 최대 52주), TI는 또한 수익성 개선을 위해 고객이 유통업체를 거치지 않고 직접 구매하도록 적극 유도하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",
@@ -6471,10 +6481,11 @@
     "month": 11,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "Intel의 10nm 위기가 구조적 문제로 전환: Intel은 지속 불가능한 생산 비용을 이유로 10nm 포트폴리오(12~14세대 데스크톱, 모바일, 서버 CPUs) 전체에 대해 두 자릿수 가격 인상을 공식적으로 고객사에 제안하고 있다. 이는 해당 부족이 일시적 병목이 아니라, Intel이 차세대 AI PC를 위한 18A 노드에 우선순위를 두면서 전략적 축소 단계에 들어섰음을 의미한다. 소형 코어 CPUs(N 시리즈)와 Raptor Lake Refresh는 여전히 “초 공급 부족” 상태다.",
     "detected_vendors": [
       "Intel"
@@ -6492,10 +6503,11 @@
     "detected_categories": [
       "IC",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -6650,10 +6662,11 @@
     "detected_categories": [
       "IC",
       "Memory",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -6727,10 +6740,11 @@
     "month": 1,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "Intel의 10nm 포트폴리오, 생존 가능성 약화: Intel은 “지속 불가능한 경제성”을 이유로 2026년 2분기부터 10nm CPU 전 라인업(12~14세대 데스크톱, 모바일, 서버)에 대해 두 자릿수 가격 인상을 시행합니다. 소형 코어 CPU(N97, N305, N355)는 여전히 공급이 부족하며, 2026년 3월까지의 물량 배정이 취소되는 사례가 발생하고 있습니다. 고객들은 Intel이 최소 물량 확보를 위해서도 6개월치 수요 예측을 요구하기 시작했다고 보고합니다.",
     "detected_vendors": [
       "Intel"
@@ -6745,12 +6759,13 @@
   {
     "year": 2026,
     "month": 1,
-    "category": "Storage",
+    "category": "Other",
     "detected_categories": [
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
@@ -7080,10 +7095,11 @@
     "month": 3,
     "category": "CPU",
     "detected_categories": [
-      "CPU"
+      "CPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "Intel 10nm 포트폴리오의 경쟁력 약화: Intel은 지속 불가능한 경제성을 이유로 3월 29일부터 전체 10nm CPU 제품군(12~14세대 데스크톱, 모바일, 서버)에 걸쳐 두 자릿수 가격 인상을 시행하고 있다. 소형 코어 CPU(N97, N305, J6412)는 지속적으로 공급 부족 상태이며, 할당 물량은 2026년 3월까지 취소된 상태이다. 고객들은 최소 물량 확보를 위해서도 이제 Intel이 6개월 수요 예측을 요구하고 있다고 보고하고 있다.",
     "detected_vendors": [
       "Intel"
@@ -7380,10 +7396,11 @@
     "month": 4,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "메모리 시장, 가격 변동성 속 조정 국면 진입: 1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -7400,10 +7417,11 @@
     "month": 4,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "패키징 병목 및 수요 급증으로 Analog Devices 공급망 균열 심화: 2026년 ADI 부품에 대한 글로벌 수요가 제조 처리 능력을 크게 초과하면서 산업용, 자동차 및 엔터프라이즈 부문 전반에서 광범위한 할당 부족과 납품 불안정이 발생했습니다. 표준 리드타임은 26~40주 이상으로 늘어났으며, 2월 초에는 전 포트폴리오에 걸쳐 20~30%의 가격 인상이 시행되었습니다. 3월과 4월에 걸쳐 납품 취소(디커밋)가 급증했으며, 전력 관리 IC와 정밀 아날로그 IC의 부족이 가장 심각한 상황입니다.",
     "detected_vendors": [
       "Analog Devices"
@@ -7698,10 +7716,11 @@
     "month": 5,
     "category": "Memory",
     "detected_categories": [
-      "Memory"
+      "Memory",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "메모리 시장 변동성 지속, DDR4 가격 급등: 5월 DDR5 RDIMM 현물 가격의 변동성이 확대되었으며, 64GB 모듈 거래는 2,200~2,400달러 구간에 집중되었다. 초기 지표에 따르면 2분기 물량 배정이 타이트해지고 하이퍼스케일러 장기 공급 계약(LTA) 물량이 잔여 공급분을 흡수하면서, 이러한 가격 상승 흐름은 5월과 6월에도 지속될 가능성이 있다. 동시에 DDR4에서는 예상 밖의 수요 반등이 나타나고 있으며, 8Gb/16Gb 가격은 전주 대비 40~50% 급등했다.",
     "detected_vendors": [],
     "detected_keywords": [
@@ -7713,12 +7732,12 @@
   {
     "year": 2026,
     "month": 5,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "Texas Instruments, 7월 1일 가격 인상 통보로 가격 압박 심화: TI는 2026년 7월 1일부터 전사적 가격 인상을 시행한다고 공식 통보했으며, 인상 폭은 포트폴리오 전반에 걸쳐 10~85%에 달한다. 주문 리드타임은 180일까지 연장되었고, 한층 엄격해진 견적 프로토콜에 따라 가격 공개 전 상세한 최종 고객 정보와 프로젝트 계획 제출이 요구되고 있다. TPS, TLV, LMR 시리즈가 가장 큰 영향을 받고 있으며, 자동차 및 산업용 고객들은 공급 확약 철회와 긴급 납기 수수료 요청 사례를 보고하고 있다.",
     "detected_vendors": [
       "Texas Instruments"
@@ -7736,10 +7755,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Storage"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
@@ -7980,12 +8000,12 @@
   {
     "year": 2026,
     "month": 6,
-    "category": "기타",
+    "category": "Other",
     "detected_categories": [
-      "기타"
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "Texas Instruments 공급망 혼란 심화: 7월 1일부 가격 인상(전 제품 포트폴리오 기준 10~85%)이 발효되었으며, 리드타임이 52주 이상 또는 1년까지 연장되면서 공급 부담이 가중되고 있다. 더욱 엄격해진 견적 프로토콜, SN74 시리즈의 공급 확약 철회 및 급행 수수료 부과는 자동차 및 산업용 Tier 1 업체들이 공개 시장 조달과 버퍼 재고 확보 전략을 앞당기도록 만들고 있다.",
     "detected_vendors": [
       "Texas Instruments"
@@ -8348,10 +8368,11 @@
     "category": "IC",
     "detected_categories": [
       "IC",
+      "Other",
       "Passive"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "IC 및 수동부품 리드타임 급증: Texas Instruments(TI)는 엄격한 견적 프로토콜과 빈번한 공급 확약 철회를 시행하고 있으며, 일부 제품군은 올해 최대 5차례의 가격 인상을 단행했다. STMicroelectronics는 TSMC의 성숙 공정 생산 능력 중단에 대응해 생산을 자체 전환하면서 리드타임이 기존 대비 두 배 증가한 40~52주까지 확대됐다. Murata와 Taiyo Yuden의 MLCC 물량 할당은 엄격히 제한되고 있으며, 리드타임은 20~52주까지 늘어난 가운데 제조업체들은 모든 ‘지원 주문(help orders)’을 거부하고 있다.",
     "detected_vendors": [
       "Murata",
@@ -8373,10 +8394,11 @@
     "month": 7,
     "category": "GPU",
     "detected_categories": [
-      "GPU"
+      "GPU",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
     "detected_vendors": [
       "Broadcom",
@@ -8579,10 +8601,11 @@
     "month": 8,
     "category": "IC",
     "detected_categories": [
-      "IC"
+      "IC",
+      "Other"
     ],
-    "section_raw": "Intro",
-    "subheading": "Intro",
+    "section_raw": "주요 주제",
+    "subheading": "주요 주제",
     "text": "Texas Instruments와 Analog Devices, 연쇄적인 IC 가격 인상 촉발: TI와 ADI는 포트폴리오 전반에 걸쳐 대폭적인 가격 인상을 시행하고 있으며, 특정 AI·자동차용 PMIC 및 신호 체인 제품의 인상률은 15~85%에 달합니다. 리드타임도 40~50주 이상으로 늘어나고 있습니다. 공급 확약 철회가 일상화되면서 Tier 1 자동차·산업용 위탁생산업체(CM)는 생산라인 중단을 피하기 위해 자유 시장에서 적극적으로 물량을 조달하고 있습니다.",
     "detected_vendors": [
       "Analog Devices",

@@ -2466,22 +2466,16 @@
     "month": 6,
     "category": "GPU",
     "detected_categories": [
-      "GPU",
-      "IC",
-      "Other"
+      "GPU"
     ],
-    "section_raw": "할당 제약과 가격 상승이 예상되는 Intel 이더넷 컨트롤러와 칩셋",
-    "subheading": "이 인상이 적용되는 시리즈는 다음과 같습니다. WGI210IT, WGI210AT, WGI210IS, NHI350AM2, NHI350AM4, FTXL710-BM1",
+    "section_raw": "GPU",
+    "subheading": "GPU",
     "text": "GPU 시장은 작년 이맘때보다 최종 사용자에게 훨씬 더 친화적입니다. 상하이 봉쇄로 인해 GPU 제조업체의 중국 출하가 타격을 입고 있음에도 GPU 가격은 계속해서 떨어지고 있습니다. 가격 하락이 지속되는 가운데 가상화폐 공간의 GPU 소비는 급격히 줄었습니다. 현지 PC DIY 소매업체의 수요는 늘었습니다. 전반적으로 Tier 1 GPU 제조업체는 가격을 약 5% 인하했습니다.",
-    "detected_vendors": [
-      "Intel"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
-      "Allocation",
-      "Price Decrease",
-      "Price Increase"
+      "Price Decrease"
     ],
-    "risk_level": "Medium"
+    "risk_level": "Low"
   },
   {
     "year": 2022,
