@@ -219,43 +219,41 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
         if not line:
             continue
 
-        # 1. ## (H2) represents the main Section/Category (e.g. ## 3. Memory)
+        if line.startswith("# "):
+            continue
+
+        body_text = None
+
         if line.startswith("## "):
-            current_section = line.replace("## ", "").strip()
-            current_subheading = ""
-            continue
-        elif line.startswith("##") and not line.startswith("###"):
-            current_section = line.replace("##", "").strip()
-            current_subheading = ""
-            continue
-            
-        # 2. ### (H3) represents the Subheading (e.g. ### DRAM, ### NAND)
+            cleaned = line.replace("## ", "").strip()
+            if len(cleaned) > 100 or cleaned.endswith(".") or cleaned.endswith("?") or cleaned.endswith("!"):
+                body_text = cleaned
+            else:
+                current_section = cleaned
+                current_subheading = ""
+                continue
         elif line.startswith("### "):
-            current_subheading = line.replace("### ", "").strip()
-            continue
-        elif line.startswith("###") and not line.startswith("####"):
-            current_subheading = line.replace("###", "").strip()
-            continue
-            
-        # 3. #### (H4) can also represent the Subheading
+            cleaned = line.replace("### ", "").strip()
+            if len(cleaned) > 100 or cleaned.endswith(".") or cleaned.endswith("?") or cleaned.endswith("!") or "출처" in cleaned:
+                body_text = cleaned
+            else:
+                current_subheading = cleaned
+                continue
         elif line.startswith("#### "):
-            current_subheading = line.replace("#### ", "").strip()
-            continue
-        elif line.startswith("####"):
-            current_subheading = line.replace("####", "").strip()
-            continue
-            
+            body_text = line.replace("#### ", "").strip()
         elif line.startswith("---"):
             continue
+        else:
+            body_text = line
 
         # Filter out Greensheet header/footer lines
-        if "The Greensheet" in line or "제공된 정보는" in line:
+        if "The Greensheet" in body_text or "제공된 정보는" in body_text:
             continue
 
-        vendors, keywords = analyze_paragraph(line)
+        vendors, keywords = analyze_paragraph(body_text)
         category_raw = map_category_user(current_section, user_cat_map)
 
-        detected_categories = analyze_categories_for_paragraph(line, category_raw)
+        detected_categories = analyze_categories_for_paragraph(body_text, category_raw)
         category = detected_categories[0] if detected_categories else "기타"
 
         risk_level = calculate_risk_level(keywords)
@@ -267,7 +265,7 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
             "detected_categories": detected_categories,
             "section_raw": clean_section(current_section),
             "subheading": current_subheading,
-            "text": line,
+            "text": body_text,
             "detected_vendors": vendors,
             "detected_keywords": keywords,
             "risk_level": risk_level
@@ -308,7 +306,7 @@ def split_raw_full_archive():
     
     for line in lines:
         # Detect lines like "## 📦 2020년 4월..." or with Mojibake (##.*?(\d{4}).*?(\d{1,2}))
-        match = re.search(r"^##\s+.*?(\d{4}).*?(\d{1,2})", line)
+        match = re.search(r"^##\s+📅\s*(\d{4})년\s*(\d{1,2})월", line)
         if match:
             # Save the previous file before starting the new one
             if current_year and current_month and current_file_lines:
