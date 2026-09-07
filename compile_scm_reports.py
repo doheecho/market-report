@@ -231,7 +231,7 @@ def parse_monthly_file(filepath, year, month, user_cat_map):
             "category": category,
             "detected_categories": detected_categories,
             "section_raw": clean_section(current_section),
-            "subheading": current_subheading,
+            "subheading": current_subheading if current_subheading else clean_section(current_section),
             "text": body_text,
             "detected_vendors": vendors,
             "detected_keywords": keywords,

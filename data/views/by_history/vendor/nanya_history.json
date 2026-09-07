@@ -10,7 +10,7 @@
         "Other"
       ],
       "risk_level": "Low",
-      "summary": "대만의 Nanya의 경우 소비자 DRAM 출하가 감소했습니다.",
+      "summary": "새로운 시설이 가동되기를 기다리는 동안 어려움을 겪고 있는 생산 레벨",
       "text": "대만의 Nanya의 경우 소비자 DRAM 출하가 감소했습니다. 이는 다른 메모리 칩 제조업자와 비교하여 매출에 부정적인 영향을 미쳤습니다."
     },
     {
@@ -31,7 +31,7 @@
         "Memory"
       ],
       "risk_level": "Medium",
-      "summary": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다.",
+      "summary": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
       "text": "DDR3/DDR4 가격은 지속적으로 급등하고 있으며(예: DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다."
     },
     {
@@ -42,7 +42,7 @@
         "Memory"
       ],
       "risk_level": "High",
-      "summary": "레거시 DRAM(DDR3/DDR4)은 잇따른 단종 통보에 직면해 있습니다.",
+      "summary": "메모리 유동적 가격 책정 및 단종 확산",
       "text": "레거시 DRAM(DDR3/DDR4)은 잇따른 단종 통보에 직면해 있습니다. Micron은 여러 용량의 DDR3 제품에 대해 최종 구매 통보를 발행했으며, Nanya는 향후 생산 계획 없이 남아 있는 웨이퍼 재고를 조용히 소진하고 있습니다."
     },
     {
@@ -52,7 +52,7 @@
         "Memory"
       ],
       "risk_level": "High",
-      "summary": "메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다.",
+      "summary": "제조업체 뉴스 및 업데이트",
       "text": "메모리 공급난으로 장기 공급 계약 범위 확대: 공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]"
     }
   ]

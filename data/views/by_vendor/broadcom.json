@@ -7,7 +7,7 @@
       "Other"
     ],
     "section_raw": "Broadcom 가격 인상",
-    "subheading": "",
+    "subheading": "Broadcom 가격 인상",
     "text": "Broadcom은 제품 가격을 최대 15~20% 인상했습니다. 표준 리드 타임 역시 8~10주에서 26주 이상(특히 BCM 시리즈의 경우)으로 늘었습니다. 말레이시아, 태국, 싱가포르 및 필리핀의 물류 및 제조 문제는 이러한 변화의 주된 동력원으로 언급되었습니다. 일부 수요는 앞으로 또 조업 중단이 있을 것으로 예측해 중복 주문하는 고객으로 인해 증가했을 수 있는데, 이런 주문은 향후 취소될 위험이 있습니다. Broadcom에 대한 오픈 마켓 활동이 강세를 보여왔습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -25,7 +25,7 @@
       "Other"
     ],
     "section_raw": "계속 공급 부족에 시달리는 RAID 컨트롤러",
-    "subheading": "",
+    "subheading": "계속 공급 부족에 시달리는 RAID 컨트롤러",
     "text": "최근 중국과 홍콩 당국의 암호화폐 채굴 단속이 이루어지는 가운데, RAID 컨트롤러 공급에는 여전히 제약이 따르고 있습니다. 특히 Broadcom의 MegaRAID 93xx 및 94xx 시리즈가 영향을 받고 있고 2021년 10월에 단종 예정인데, 마지막 구매 시한은 2022년 10월, 마지막 판매 시한은 2023년 3월입니다.",
     "detected_vendors": [
       "Broadcom"
@@ -43,7 +43,7 @@
       "Other"
     ],
     "section_raw": "LAN 칩 부족으로 네트워크 카드 생산 제한",
-    "subheading": "",
+    "subheading": "LAN 칩 부족으로 네트워크 카드 생산 제한",
     "text": "Broadcom의 RAID 카드 93xx 및 94xx 시리즈는 여전히 매우 인기가 높아, 원래 제조업체 가격이 30% 이상 급등했습니다. 제한된 재고 물량이 무척 빠르게 소진되고 있으며 예약 리드 타임은 42주 이상으로 유지되고 있습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -61,7 +61,7 @@
       "Other"
     ],
     "section_raw": "RAID 컨트롤러 공급 제약",
-    "subheading": "",
+    "subheading": "RAID 컨트롤러 공급 제약",
     "text": "Broadcom의 93xx 및 94xx 시리즈 RAID 카드는 여전히 수요가 많은 반면, 오픈 마켓 가격은 40~50% 이상 급등하고 있습니다. 리드 타임 예약이 최대 42주 이상인 것으로 알려져 재고를 확보하기 힘듭니다.",
     "detected_vendors": [
       "Broadcom"
@@ -79,7 +79,7 @@
       "IC"
     ],
     "section_raw": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
-    "subheading": "",
+    "subheading": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
       "AMD",
@@ -100,7 +100,7 @@
       "IC"
     ],
     "section_raw": "Broadcom, 다양한 시리즈 IC의 가격 인상",
-    "subheading": "",
+    "subheading": "Broadcom, 다양한 시리즈 IC의 가격 인상",
     "text": "지속적인 웨이퍼 공급 부족과 TSMC의 대폭적인 가격 인상이 다양한 시리즈에 걸쳐 10월 초에 발효된 Broadcom의 가격 인상에 기여하는 요인이 되고 있습니다. 예를 들어, IC 간에 전기 신호를 전송하는 광커플러의 가격은 APDS-xxx, HFBR-xxx, AFBR-xxx, QFBR-xxx 시리즈 전반에 걸쳐 10%의 가격 인상을 보였습니다. 그와 함께, AEDB-xxx 및 AEDT-xxx 시리즈도 가격이 5% 올랐습니다. LED 및 스마트 디스플레이 제품은 6~15% 올랐습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -120,7 +120,7 @@
       "IC"
     ],
     "section_raw": "Broadcom, 다양한 시리즈 IC의 가격 인상",
-    "subheading": "",
+    "subheading": "Broadcom, 다양한 시리즈 IC의 가격 인상",
     "text": "Broadcom의 BCM 및 HCPL 시리즈는 2023년이나 되어야 납품받을 수 있을 것으로 예상되면서 리드 타임이 계속해서 늘고 있습니다. 일부 고객은 제품을 더 빨리 확보할 수 있기를 바라면서 급행료를 지급하고 있다고 합니다.",
     "detected_vendors": [
       "Broadcom"
@@ -138,7 +138,7 @@
       "Other"
     ],
     "section_raw": "인텔 이더넷 컨트롤러에 대한 수요 증가 지속",
-    "subheading": "",
+    "subheading": "인텔 이더넷 컨트롤러에 대한 수요 증가 지속",
     "text": "고객이 Realtek, Mellanox Technologies, Broadcom Inc. 같은 다른 제조업체로부터 전환하면서 Intel 이더넷 컨트롤러에 대한 수요가 계속 증가하고 있습니다. 그러나 Intel이 이러한 증가세를 충족하려고 함에 따라 수요가 공급을 앞지르고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -157,7 +157,7 @@
       "IC"
     ],
     "section_raw": "IC 공급 부족으로 네트워크 어댑터 카드 공급이 영향을 받음",
-    "subheading": "",
+    "subheading": "IC 공급 부족으로 네트워크 어댑터 카드 공급이 영향을 받음",
     "text": "네트워크 어댑터 카드 공급은 악화일로의 글로벌 IC 공급 부족에 의해 계속 영향을 받고 있습니다. Intel, Mellanox, Broadcom의 어댑터 카드 가격은 품귀 현상으로 급등하고 있습니다. 이런 추세는 또한 대체 카드와 다양한 제조업체 부품으로 확산되고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -177,7 +177,7 @@
       "Other"
     ],
     "section_raw": "Broadcom Inc, 점진적 가격 인상 지속",
-    "subheading": "",
+    "subheading": "Broadcom Inc, 점진적 가격 인상 지속",
     "text": "Broadcom Inc.는 작년에 두 차례 BCM 시리즈의 가격을 최대 20%까지 인상했습니다. 원인은 대부분 웨이퍼 문제와 공급 부족으로 인한 것입니다. 더욱 비용 효율적인 제조 계획을 시행하기 위해, Broadcom은 고객이 새로운 시리즈로 전환할 것을 독려하는 데 이러한 점진적인 가격 인상을 이용했습니다. 이 사업 관행은 생산 공장이 업데이트된 기술을 적용하도록 하여 생산 효율성을 증진할 것입니다.",
     "detected_vendors": [
       "Broadcom"
@@ -196,7 +196,7 @@
       "Other"
     ],
     "section_raw": "Broadcom Inc, 점진적 가격 인상 지속",
-    "subheading": "",
+    "subheading": "Broadcom Inc, 점진적 가격 인상 지속",
     "text": "이 가격 전략이 Broadcom의 제품 전반에 적용되면서, 공급망으로 확산되며 리드 타임에 영향을 미칠 것입니다. 현재 Broadcom BCM 시리즈의 리드 타임은 54주입니다.",
     "detected_vendors": [
       "Broadcom"
@@ -214,7 +214,7 @@
       "기타"
     ],
     "section_raw": "Mellanox 공급 제약, 여러 완제품 전반에서 지속",
-    "subheading": "",
+    "subheading": "Mellanox 공급 제약, 여러 완제품 전반에서 지속",
     "text": "그 결과, OEM 및 중국의 다른 제조업체가 Mellanox에 대한 대체재로 Intel 및 Broadcom 네트워크 카드로 옮겨가고 있다는 소식이 들리고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -232,7 +232,7 @@
       "Other"
     ],
     "section_raw": "Mellanox 네트워크 어댑터 카드의 빠듯한 공급으로 인해 고객은 대체 부품을 찾아 나서",
-    "subheading": "",
+    "subheading": "Mellanox 네트워크 어댑터 카드의 빠듯한 공급으로 인해 고객은 대체 부품을 찾아 나서",
     "text": "전반적으로 이처럼 제한적인 Mellanox 네트워크 어댑터 카드 공급으로 인해 고객은 공급 불확실성 위험의 최소화를 위해 Intel과 Broadcom에서 대체 부품을 찾아 나서게 되었습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -251,7 +251,7 @@
       "Other"
     ],
     "section_raw": "Raspberry Pi 수요 증가",
-    "subheading": "",
+    "subheading": "Raspberry Pi 수요 증가",
     "text": "Raspberry Pi 제품 RPI3B+, RPI3-MODBP 및 CM3+ 16GB/32GB는 교육 및 제조 부문에서 수요가 많았습니다. 이 시리즈에 대한 수요가 증가함에 따라 제작 완료에 어려움이 있습니다. 이 어려움은 Broadcom 칩 공급 부족으로 인한 Raspberry Pi 제품의 IC 게이팅 문제에서 비롯됩니다. Broadcom은 Raspberry Pi 제품을 위해 특수 제작된 부품을 설계했으며, 현재 리드 타임이 1년에서 2년으로 연장되었습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -270,7 +270,7 @@
       "Other"
     ],
     "section_raw": "어댑터 카드 제조업인 Mellanox, 공급망 압력을 느끼다",
-    "subheading": "",
+    "subheading": "어댑터 카드 제조업인 Mellanox, 공급망 압력을 느끼다",
     "text": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다. 하지만 다른 어댑터 카드 제조회사인 Intel과 Broadcom 역시 비슷하게 심각한 공급 문제를 겪고 있습니다. Mellanox는 생산 제약 때문에 자사 레거시 라인인 MCX-4와 MCX-5를 밀었으며, MCX-6는 평균 리드 타임이 32주가 넘는 관계로 만족스러운 옵션이 아닙니다.",
     "detected_vendors": [
       "Broadcom",
@@ -290,7 +290,7 @@
       "Other"
     ],
     "section_raw": "Broadcom 주문의 예상 배송 날짜가 대부분 2023년으로 연장",
-    "subheading": "",
+    "subheading": "Broadcom 주문의 예상 배송 날짜가 대부분 2023년으로 연장",
     "text": "Broadcom은 반복적인 코로나19 폐쇄와 지속적인 자재 부족으로 인한 공급 문제에 계속해서 대처하고 있습니다. 여전히 리드 타임은 불안정하지만 중국 본토의 해외 고객은 정시 배송을 받았다고 보고합니다. 그러나 다른 고객들은 배송이 2023년으로 연장될 것으로 예상합니다.",
     "detected_vendors": [
       "Broadcom"
@@ -309,7 +309,7 @@
       "Other"
     ],
     "section_raw": "Broadcom 주문의 예상 배송 날짜가 대부분 2023년으로 연장",
-    "subheading": "",
+    "subheading": "Broadcom 주문의 예상 배송 날짜가 대부분 2023년으로 연장",
     "text": "Broadcom의 자동차 및 산업용 애플리케이션 제품은 특히 제조업체의 차질에 영향을 받습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -468,7 +468,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "AI 기반 데이터 센터와 엣지 컴퓨팅 수요: Intel, Broadcom, Nvidia의 최신 실적 보고서에 따르면 AI 기반 데이터 센터와 엣지 컴퓨팅, 하이퍼스케일 환경에서 네트워킹 제품에 대한 수요가 증가하고 있습니다. AI 네트워킹 솔루션 및 맞춤형 가속기에 대한 투자가 이러한 성장을 주도하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -487,7 +487,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "NIC 가격 압박: Intel은 Mellanox와 경쟁하기 위해 100Gbps 듀얼 포트 NIC를 거의 절반 가격에 제공하고 있으며, 이를 통해 AI 수요를 적극적으로 확보하려 하고 있습니다. Broadcom 역시 AI 관련 제품에 우선순위를 두고 비-AI 부품 주문 확정에 어려움을 겪고 있으며, 기존 주문에 대해 지속적인 가격 인상을 발표했습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -508,7 +508,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "AI 애플리케이션이 스위치 시장 활성화: PCIe 스위치 인터페이스 IC(SS2X)는 고속 데이터 전송을 관리해야 하는 AI 애플리케이션에서 중요한 역할을 하고 있습니다. 이에 따라 Broadcom에 대한 수요가 증가하고 있습니다. 고객들은 Gen 6 스위치의 출시를 준비하고 있으며, 이는 B100/B200 모델과 함께 도입될 예정입니다. 이로 인해 Gen 5 스위치 수요는 급감할 것으로 예상되며, Gen 5 스위치의 재고 과잉 문제가 발생할 가능성도 있습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -524,7 +524,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 카드 높은 수요와 공급 제약",
-    "subheading": "",
+    "subheading": "네트워킹 카드 높은 수요와 공급 제약",
     "text": "Broadcom의 HBA 카드는 중국 인터넷 기업들의 수요 증가로 리드 타임이 최대 42주까지 늘어나고 있으며, 이에 따른 가격 상승이 있습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -543,7 +543,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 카드",
-    "subheading": "",
+    "subheading": "네트워킹 카드",
     "text": "Broadcom의 BCM56980 네트워킹 IC는 할인 재고가 소진됨에 따라 리드타임이 50주로 늘어났습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -561,7 +561,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 카드",
-    "subheading": "",
+    "subheading": "네트워킹 카드",
     "text": "Broadcom은 원자재 비용 상승과 관세 관련 압박을 이유로 네트워킹 부품 가격을 최대 8% 인상한다고 발표했습니다. 이 인상은 이더넷 컨트롤러 및 광 트랜시버와 같은 제품에 영향을 미칩니다.",
     "detected_vendors": [
       "Broadcom"
@@ -579,7 +579,7 @@
       "CPU"
     ],
     "section_raw": "제조사 뉴스 및 기업 업데이트",
-    "subheading": "",
+    "subheading": "제조사 뉴스 및 기업 업데이트",
     "text": "Broadcom은 클라우드 컴퓨팅 기업들이 Nvidia의 프로세서에 대한 비용 효율적인 대안을 찾는 가운데, 맞춤형 AI 칩에 대한 수요가 높아지고 있어 AI 인프라 시장의 핵심 기업으로 자리 잡고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -596,7 +596,7 @@
       "Memory"
     ],
     "section_raw": "제조업체 및 기업 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 및 기업 업데이트",
     "text": "삼성, HBM4 로드맵 공개: 삼성은 NVIDIA 및 Broadcom과 맞춤형 HBM4를 2026년 상반기(1H26)에 출하하기 위해 협의 중인 것으로 알려졌습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -614,7 +614,7 @@
       "IC"
     ],
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
-    "subheading": "",
+    "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "Broadcom AI / 서버 응용 제품은 불안정한 리드타임과 타이트한 할당을 겪고 있습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -656,7 +656,7 @@
       "Storage"
     ],
     "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "TSMC 우선순위 전환 여파로 브로드컴 공급 충격 임박: TSMC가 메모리 및 AI 칩으로 생산능력을 전환하기 위해 브로드컴의 웨이퍼 할당량을 50% 감축하고 있는 것으로 전해집니다. 브로드컴 유통사들은 2026년 1분기부터 네트워킹 및 스토리지 IC 전반에서 큰 폭의 가격 인상과 리드타임 장기화를 경고하고 있습니다.",
     "detected_vendors": [
       "Broadcom",
@@ -677,7 +677,7 @@
       "IC"
     ],
     "section_raw": "집적 회로",
-    "subheading": "",
+    "subheading": "집적 회로",
     "text": "TSMC의 브로드컴 웨이퍼 생산량 전략적 축소가 즉각적인 공급 불안을 야기하고 있습니다. 특히 AI 이더넷 및 RAID 컨트롤러에서 2026년 품귀와 두 자릿수 가격 인상이 예상됩니다.",
     "detected_vendors": [
       "Broadcom",
@@ -697,7 +697,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Broadcom은 현재의 52주 리드타임이 시작에 불과하며, 3/5/7nm 생산 능력 부족으로 2027년에는 공급 제약이 더욱 심화될 것이라고 경고했습니다.",
     "detected_vendors": [
       "Broadcom"
@@ -716,7 +716,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Broadcom은 현재 52주 리드타임이 시작에 불과하며, 3/5/7nm 생산 부족으로 2027년에는 더 악화될 것이라고 경고했다.",
     "detected_vendors": [
       "Broadcom"
@@ -735,7 +735,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Broadcom 카드의 리드타임은 현재 최대 52주까지 늘어났으며, 3/5/7nm 생산 능력 부족으로 2027년에는 제약이 더욱 심화될 전망입니다. SS24/SS26 시리즈 스위치는 AI 인프라 수요가 생산 능력을 소진하면서 공급 부족이 임박한 상황입니다.",
     "detected_vendors": [
       "Broadcom"
@@ -754,7 +754,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Broadcom은 현재의 52주 리드타임이 \"시작에 불과하다\"고 경고하며, 3/5/7nm 생산 능력 부족으로 2027년에는 공급 제약이 더욱 심화될 것이라고 밝혔습니다. SS24/SS26 시리즈 스위치는 AI 인프라 수요가 생산 능력을 소진하면서 공급 부족이 임박한 상황입니다.",
     "detected_vendors": [
       "Broadcom"
@@ -773,7 +773,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 공급 제약 및 스위치 납기 지연",
-    "subheading": "",
+    "subheading": "네트워킹 공급 제약 및 스위치 납기 지연",
     "text": "Broadcom의 5nm PCIe 스위치 칩(SS24/SS26)은 심각한 공급 제약을 겪고 있다. TSMC의 생산 능력 제한으로 예상 납기가 2027년 1월까지 밀렸으며, 급행 옵션은 제공되지 않는다. 기본 리드타임은 52주 이상이다.",
     "detected_vendors": [
       "Broadcom",
@@ -793,7 +793,7 @@
       "Other"
     ],
     "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "GPU 및 네트워킹 병목 심화: NVIDIA RTX 6000 Blackwell Server Edition의 리드타임은 기존 20~24주에서 갑작스럽게 48주로 연장됐으며, 반복적인 5~15% 가격 인상이 발생하고 있다. Mellanox ConnectX-7/8 및 Broadcom HBA/RAID 컨트롤러는 20~52주의 납기 지연에 직면하고 있으며, AI 인프라 수요가 가용한 3/5/7nm 생산 능력을 모두 차지하면서 상황이 더욱 악화되고 있다.",
     "detected_vendors": [
       "Broadcom",
@@ -814,7 +814,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Broadcom은 2026년 7월 1일부터 HBA 및 RAID 컨트롤러에 대해 5~20% 가격 인상을 시행했다. 리드타임은 52주까지 확대되고 있으며, Dell은 Broadcom 칩 공급 제약으로 인해 400G/800G 트랜시버에서 심각한 공급 부족이 발생하고 있다고 보고했다.",
     "detected_vendors": [
       "Broadcom"
@@ -834,7 +834,7 @@
       "IC"
     ],
     "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
-    "subheading": "",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다.",
     "detected_vendors": [
       "Broadcom",

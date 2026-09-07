@@ -8,7 +8,7 @@
       "Storage"
     ],
     "section_raw": "삼성 SSD 리드 타임 연장",
-    "subheading": "",
+    "subheading": "삼성 SSD 리드 타임 연장",
     "text": "삼성은 정상적인 생산에 제약을 받고 있어, 2분기에는 가격이 최대 15~20% 인상될 것으로 예상됩니다. 현재 모든 라인에 대해 최소 12주 이상의 리드 타임이 걸리며, 이런 상황에서 삼성은 OEM 글로벌 티어 1 에 집중하여 공급 하려고 합니다. 제품 가용성의 제한으로 Micron 및 하이닉스 모델에도 영향을 미칠 것으로 예상됩니다.",
     "detected_vendors": [
       "Micron",
@@ -30,7 +30,7 @@
       "Storage"
     ],
     "section_raw": "팹리스로 가는 Intel",
-    "subheading": "",
+    "subheading": "팹리스로 가는 Intel",
     "text": "Intel 과 같은 미국 칩 제조업체들은 제품 제조를 계약업체에 떠넘기는 팹리스 모델을 선택하고 있습니다. 팹리스 모델이 보다 수익성 있는 비즈니스 모델이기 때문에 Intel 은 NAND 스토리지 및 메모리 사업부를 SK Hynix 에 매각하고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -48,7 +48,7 @@
       "Memory"
     ],
     "section_raw": "DRAM 공급 부족이 2021년 내내 계속될 것으로 보여",
-    "subheading": "",
+    "subheading": "DRAM 공급 부족이 2021년 내내 계속될 것으로 보여",
     "text": "지난 Greensheet에서 Fusion Worldwide는 DDR3와 저전력 DDR4 DRAM 칩의 공급 부족과 같이, 메모리 시장의 수많은 공급 문제를 보도했습니다. 그 이후로 DRAM과 DIMM 시장은 크게 중요성을 부각시켰습니다 지금은 여러 제품 그룹에서 공급 부족과 가격 상승이 나타나고 있는데, 삼성전자, Micron, 하이닉스뿐 아니라 Winbond, Silicon Labs 등의 규모가 적은 제조업체에도 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -71,7 +71,7 @@
       "Storage"
     ],
     "section_raw": "기업용 스토리지 수요의 증가",
-    "subheading": "",
+    "subheading": "기업용 스토리지 수요의 증가",
     "text": "일부 소식통은 컨트롤러 IC에 대한 공급 문제가 있을 수 있으며, 이로 인해 SSD 생산이 영향을 받을 수 있다고 언급했습니다. 게다가, Intel이 하이닉스에 SSD 사업을 매각하고 이 부문에서 완전히 손을 떼면서, 삼성이 시장 점유율을 높일 의향이 있는 것으로 보입니다. 삼성의 SSD 채택률이 높아졌으므로 이 점은 이미 시장에 반영된 것으로 보고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -89,7 +89,7 @@
       "Memory"
     ],
     "section_raw": "메모리 DRAM 및 NOR 플래시 수요 충족 불가",
-    "subheading": "",
+    "subheading": "메모리 DRAM 및 NOR 플래시 수요 충족 불가",
     "text": "다른 뉴스에서는 하이닉스가 2GB DDR3의 단종 계획을 공식적으로 발표함에 따라, 고객이 삼성과 Winbond 같은 다른 제조업체로 눈을 돌리게 되었다는 소식이 있습니다. 하지만 이 두 회사 모두 엄청난 수요에 압도되어 당분간은 신규 주문을 받지 않기로 했습니다. 이 때문에 각각 3분기와 4분기쯤 되어야 기존 주문 물량을 인도할 수 있을 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -110,7 +110,7 @@
       "Other"
     ],
     "section_raw": "공급 부족 문제 해결을 위해 지출을 늘리는 Fabs",
-    "subheading": "",
+    "subheading": "공급 부족 문제 해결을 위해 지출을 늘리는 Fabs",
     "text": "전 세계적인 칩 공급 부족이 이어지는 가운데, 삼성과 하이닉스는 모바일와 PC 부문에서 모두 치솟고 있는 DRAM 수요가 심각한 문제를 일으키고 있다고 밝혔습니다. 하이닉스는 이를 해결하기 위해 새로운 웨이퍼 제조 장비를 구매하여 칩 생산에 대한 투자를 늘릴 예정입니다. 하이닉스는 늘어난 리드 타임과 장비 설치에 필요한 기간을 고려해, 당초 2022년으로 예정했던 지출 계획을 올해 말 실시할 계획입니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -131,7 +131,7 @@
       "Other"
     ],
     "section_raw": "빠듯해진 2D NAND 및 DDR4의 공급 상황",
-    "subheading": "",
+    "subheading": "빠듯해진 2D NAND 및 DDR4의 공급 상황",
     "text": "SK하이닉스가 4D NAND로 전환하면서 2D NAND 생산을 줄였습니다. 2D NAND에 대한 종속성 때문에 eMMC의 생산량도 줄었습니다. 이 추세가 유지될 것이며 2D NAND의 물량이 계속 감소할 것입니다. 앞으로 제조업체로부터의 eMMC 공급이 제한될 것입니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -147,7 +147,7 @@
       "Storage"
     ],
     "section_raw": "계속 상승세에 있는 Intel SSD 가격",
-    "subheading": "",
+    "subheading": "계속 상승세에 있는 Intel SSD 가격",
     "text": "가격 정보는 아직 나와 있지 않으며 물량도 아직 결정되지 않았지만, 당초 기대했던 수준보다 낮을 것으로 예상됩니다. 이것이 Intel이 SSD 라인업을 하이닉스로 이전하기 전에 SSD 라인업에 대한 최종 변경 사항이 될 것입니다.",
     "detected_vendors": [
       "Intel",
@@ -164,7 +164,7 @@
       "Storage"
     ],
     "section_raw": "Intel SSD의 사정이 즉시 좋아질 조짐은 없어",
-    "subheading": "",
+    "subheading": "Intel SSD의 사정이 즉시 좋아질 조짐은 없어",
     "text": "SK Hynix가 Intel SSD 사업을 인수하고 Solidigm으로 브랜드를 바꾸었습니다. SSD 시장에 미칠 파급 효과를 제한하고자, SK Hynix와 Intel이 2025년까지 공존하는 체제가 될 것입니다.",
     "detected_vendors": [
       "Intel",
@@ -183,7 +183,7 @@
       "Other"
     ],
     "section_raw": "1차 냉각수 공급업체, 생산 공장 폐쇄",
-    "subheading": "",
+    "subheading": "1차 냉각수 공급업체, 생산 공장 폐쇄",
     "text": "3M은 3월 8일 취해진 조치에 대해 3월 18일 삼성전자, SK 하이닉스, TSMC, Intel을 비롯한 고객들에게 공문을 발송하였습니다. 이것은 시장에 즉각적인 영향을 미치지는 않지만, 이제 제조업체들은 대체 공급원을 찾아야 하며 현재 냉각제 재고는 1~3 수명을 보유한 것으로 예측됩니다.",
     "detected_vendors": [
       "Intel",
@@ -202,7 +202,7 @@
       "Storage"
     ],
     "section_raw": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
-    "subheading": "",
+    "subheading": "Intel과 Intel의 SSD 사업부인 Solidigm은 상하이 봉쇄로 인한 생산 압박을 겪고 있습니다",
     "text": "Solidigm은 시장에 발생 가능한 파급 효과를 줄이기 위한 노력으로 2분기와 3분기에 걸쳐 Intel 유통 채널을 계속해서 이용하고 있지만, Intel와 Solidigm 시리즈 모두 생산에 제약을 받고 있습니다.",
     "detected_vendors": [
       "Intel",
@@ -239,7 +239,7 @@
       "Storage"
     ],
     "section_raw": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
-    "subheading": "",
+    "subheading": "Intel, 곧 인기 SSD 시리즈의 단종 부품 발표",
     "text": "다른 주요 SSD 제조업체도 엔터프라이즈 SSD의 가격을 인하할 계획입니다. 삼성과 Micron은 수요 하락을 겪고 있습니다. 삼성이 전체 8% 하락을 예상함에 따라 이는 가격에 영향을 미칠 것입니다. 또한, Solidigm SATA SSD의 경우 1TB 이하의 소용량에 대한 공급 부족이 지속되고 있으며, 3분기 할당은 계속 제한될 것입니다.",
     "detected_vendors": [
       "Micron",
@@ -261,7 +261,7 @@
       "Storage"
     ],
     "section_raw": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
-    "subheading": "",
+    "subheading": "저용량 공급은 빠듯하고 LCD 거래는 계속 감소",
     "text": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
     "detected_vendors": [
       "SK하이닉스"
@@ -278,7 +278,7 @@
       "Other"
     ],
     "section_raw": "새로운 시설이 가동되기를 기다리는 동안 어려움을 겪고 있는 생산 레벨",
-    "subheading": "",
+    "subheading": "새로운 시설이 가동되기를 기다리는 동안 어려움을 겪고 있는 생산 레벨",
     "text": "제조 역량과 관련하여, 삼성의 한국 내 시설은 올해  최대치를 생산했으며, 14NM 팹을 위해 2023년 1분기 DRAM 증산을 위한 새로운 공장을 오픈할 것이라고 발표했습니다. 경쟁사인 SK Hynix도 이를 따라 중국 우시 및 한국에 있는 공장에서 증산에 들어갔습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -298,7 +298,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
-    "subheading": "",
+    "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "text": "이외에도 Intel의 저용량 SSD 수요 역시 줄어들고 있으며, 대부분의 주문은 원가 절감 기회로 이루어지고 있습니다. 시장 가격은 15%~20%씩 점차 하락하고 있습니다. 내부 시스템이 Intel에서 Solidigm으로 옮겨가고 있기 때문에 시스템 자체의 구동이 중지되고 있어 앞으로 시장의 흐름이 잠정 지체될 전망입니다.",
     "detected_vendors": [
       "Intel",
@@ -337,7 +337,7 @@
       "Storage"
     ],
     "section_raw": "전반적인 SSD 시장 수요는 줄어드는 반면, Intel 고객은 새로운 시리즈로 넘어감",
-    "subheading": "",
+    "subheading": "전반적인 SSD 시장 수요는 줄어드는 반면, Intel 고객은 새로운 시리즈로 넘어감",
     "text": "Intel의 Solidigm S4510 SSD 시리즈는 다음 분기 내에 단종될 예정입니다. 이렇게 되면 고객들은 Solidigm S4520 시리즈로 넘어가게 될 것입니다. 기록상으로 S4510 240/480GB가 가장 인기 있는 용량이었으므로 수요가 증가하고 공급 계약이 이루어지면 시장에서 가격 변동을 볼 수도 있습니다. Intel은 S4520 시리즈가 차세대 대세 시리즈가 되는 것에 집중하고 있고, 고객들에게 이 부품으로의 변경을 권장하고 있으므로 공급이 증가하여 가격이 낮아질 것으로 예상됩니다.",
     "detected_vendors": [
       "Intel",
@@ -634,7 +634,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "2024년 4분기 가격 인상: 삼성, 마이크론, SK하이닉스와 같은 공급업체들은 2024년 4분기에 최대 20%까지 가격 인상을 추진하고 있지만, 실제 인상폭은 더 낮아질 것으로 보입니다. 삼성은 약 12% 수준의 인상을 선도하고 있으며, 2025년 1분기에는 가격이 유지되거나 소폭 상승할 가능성이 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -655,7 +655,7 @@
       "Storage"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "수요가 높은 SSD 브랜드: 삼성, 솔리다임(Solidigm), 마이크론과 같은 브랜드가 여전히 가장 많이 요청되고 있어 고성능 및 신뢰성 있는 스토리지 솔루션에 대한 수요가 꾸준히 유지되고 있음을 보여줍니다.",
     "detected_vendors": [
       "Micron",
@@ -674,7 +674,7 @@
       "Storage"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -694,7 +694,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "수요가 증가한 주요 제품: 마이크론의 12-High HBM 제품은 이전 8-High 모델보다 전력 소비가 20% 낮아 인기를 끌고 있으며, SK하이닉스는 HBM 신규 주문에 대해 1년 이상의 리드 타임을 제공하고 있습니다. 이 수요 증가는 고성능 컴퓨팅 및 AI 워크로드가 주도하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -714,7 +714,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "가격 압박과 안정성: AI와 데이터 센터의 강한 수요로 HBM 가격이 높은 수준을 유지하고 있습니다. 마이크론, SK하이닉스, 삼성과 같은 공급업체는 HBM3와 LPDDR5에 대한 장기 계약을 통해 가격 안정성을 확보하며, DDR4와 같은 저가 메모리와는 다른 안정성을 보장하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -734,7 +734,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "HBM 수요로 인한 DRAM 생산 조정: SK하이닉스는 DRAM 생산의 약 20%를 HBM 생산으로 전환했으며, 이로 인해 DDR5 가격이 상승했습니다. 삼성은 DRAM 생산의 30%를 HBM3E로 할당해 Nvidia의 Blackwell GPU 수요를 충족하고 있습니다. 이로 인해 DDR5 공급 부족이 발생할 가능성이 있으며, 이는 고수요 HBM 제품에 대한 웨이퍼 공급이 우선되기 때문입니다.",
     "detected_vendors": [
       "Nvidia",
@@ -756,7 +756,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "DDR3와 산업 부문 동향: DDR3에 대한 수요는 산업 부문에서 강세를 보이고 있으나 소비자 수요는 약세를 보이고 있습니다. 마이크론의 장기 공급 프로그램은 DDR3 공급을 지원하고 있지만, 삼성과 SK하이닉스는 DDR4와 DDR5 생산에 집중하면서 DDR3의 리드 타임이 증가하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -777,7 +777,7 @@
       "Other"
     ],
     "section_raw": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2024년 10월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "DDR5 가격 인상: 고성능 컴퓨팅(HPC) 애플리케이션, 특히 PC와 데이터 센터에서 DDR5 수요가 증가하면서 DDR4에서 DDR5로 전환이 가속화되고 있습니다. 예약 가격이 상승하면서 삼성, 마이크론, SK하이닉스는 4분기에 추가 인상을 준비하고 있으며, 이로 인해 DRAM 부품 비용이 5~8% 증가할 가능성이 있습니다. DDR4 가격은 비교적 안정적인 상태를 유지하고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -797,7 +797,7 @@
       "Memory"
     ],
     "section_raw": "RDIMM",
-    "subheading": "",
+    "subheading": "RDIMM",
     "text": "SK 하이닉스는 2025년 2분기부터 자사의 메모리 모듈에 대해 월별 가격 인상을 시행할 것이라고 확인했습니다. 이 결정은 원자재 비용 상승과 Tier 1 OEM의 강한 수요에 따른 것입니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -815,7 +815,7 @@
       "Memory"
     ],
     "section_raw": "RDIMM DDR5 가격 상승 및 DDR4 단종",
-    "subheading": "",
+    "subheading": "RDIMM DDR5 가격 상승 및 DDR4 단종",
     "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -832,7 +832,7 @@
       "Memory"
     ],
     "section_raw": "DRAM DDR5 라인 전반의 가격 상승 및 공급 압박",
-    "subheading": "",
+    "subheading": "DRAM DDR5 라인 전반의 가격 상승 및 공급 압박",
     "text": "SK Hynix는 매월 가격 인상을 시작했으며, OEM 및 EMS 고객들은 2분기 동안 8%-15%의 비용 상승을 보고하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -850,7 +850,7 @@
       "Memory"
     ],
     "section_raw": "DRAM메모리 모듈 병목 현상 및 DDR5 전환",
-    "subheading": "",
+    "subheading": "DRAM메모리 모듈 병목 현상 및 DDR5 전환",
     "text": "하이닉스는 7월 15~25일 사이에 가격 조정을 할 것으로 예상되며, 가용성은 여전히 제한적입니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -868,7 +868,7 @@
       "Memory"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 뉴스 및 업데이트",
     "text": "SK 하이닉스: 현재 Infinitesima의 AFM 계측 기술을 HBM4E 적층에 통합 중이며, 16레이어 하이브리드 본딩으로 높은 수율을 실현하고 있습니다. 하이닉스는 COMPUTEX Taipei 2025에서 12레이어 HBM4 및 HBM3E 솔루션을 선보였습니다.Bits & Chips 기사",
     "detected_vendors": [
       "SK하이닉스"
@@ -884,7 +884,7 @@
       "Memory"
     ],
     "section_raw": "RDIMM 긴급한 할당 속 장기 지원",
-    "subheading": "",
+    "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "Hynix DDR5 96GB 6400 리드타임은 2~3개월입니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -902,7 +902,7 @@
       "Memory"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 뉴스 및 업데이트",
     "text": "SK 하이닉스는 인공지능을 위해 설계된 맞춤형 HBM 메모리 칩 시장이 2030년까지 매년 30% 성장할 것으로 전망했습니다. [출처: Reuters]",
     "detected_vendors": [
       "SK하이닉스"
@@ -919,7 +919,7 @@
       "Other"
     ],
     "section_raw": "생산 우선순위 및 용량 전환",
-    "subheading": "",
+    "subheading": "생산 우선순위 및 용량 전환",
     "text": "삼성과 Hynix는 AI 서버용 96GB 및 128GB DDR5 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이 (~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -941,7 +941,7 @@
       "Other"
     ],
     "section_raw": "생산 우선순위 및 용량 전환",
-    "subheading": "",
+    "subheading": "생산 우선순위 및 용량 전환",
     "text": "Solidigm 및 SanDisk는 수요 증가로 NAND Flash 제품의 가격 인상을 발표할 예정입니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -960,7 +960,7 @@
       "Storage"
     ],
     "section_raw": "용량 수요로 인한 대안 모색",
-    "subheading": "",
+    "subheading": "용량 수요로 인한 대안 모색",
     "text": "고용량 엔터프라이즈 SSDs(15TB, 30TB)에 대한 수요가 증가하면서 고객들이 제약 상태의 대용량 HDD 대체재를 찾고 있습니다. Kioxia 및 Solidigm도 4분기 가격 인상을 예고하고 있습니다.",
     "detected_vendors": [
       "Kioxia",
@@ -979,7 +979,7 @@
       "Memory"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 뉴스 및 업데이트",
     "text": "SK하이닉스는 AI용 맞춤형 HBM 메모리 칩 시장이 2030년까지 연 30% 성장할 것으로 전망하고 있습니다. 이들은 이제 HBM4E 적층을 위해 Infinitesima의 원자힘 현미경(AFM) 계측을 통합하여 16레이어 하이브리드 본딩에서 높은 수율을 달성하려 하고 있습니다. [출처: 로이터]",
     "detected_vendors": [
       "SK하이닉스"
@@ -995,7 +995,7 @@
       "Memory"
     ],
     "section_raw": "RDIMM 긴급한 할당 속 장기 지원",
-    "subheading": "",
+    "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "DDR4보다 가용성은 높지만, DDR5 역시 현재 심각한 할당 압력에 놓여 있다.삼성과 Hynix는 AI 서버용 96GB 및 128GB 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이(~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1016,7 +1016,7 @@
       "Storage"
     ],
     "section_raw": "SSD 용량 부족 및 제조사 가격 변동",
-    "subheading": "",
+    "subheading": "SSD 용량 부족 및 제조사 가격 변동",
     "text": "Solidigm 엔터프라이즈 SSDs의 평균 리드타임은 6~8주이며, 미국 지역의 QLC 관련 요인과 보드 수준 자재 부족으로 수요가 높은 일부 SKUs는 10주를 넘어선다. Solidigm 공식 가격은 10~15% 인상될 예정이며, 전반적인 수요 증가로 공급은 이전보다 크게 감소할 전망이다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1036,7 +1036,7 @@
       "Storage"
     ],
     "section_raw": "SSD 용량 부족 및 제조사 가격 변동",
-    "subheading": "",
+    "subheading": "SSD 용량 부족 및 제조사 가격 변동",
     "text": "SK하이닉스는 2026년 하반기까지 DRAM 웨이퍼 생산능력을 월 60만 장으로 두 배 확대해 삼성의 규모에 맞출 계획인 반면, 수요 부진으로 NAND 투자는 축소할 것으로 전해진다. DRAM 가격은 이미 상승 중이며, 일부 보고에 따르면 이번 달에만 약 15% 인상되었다. 최근 몇 년간 NAND 설비투자가 DRAM에 비해 더디게 진행되어, 향후 NAND 부족 가능성에 대한 우려가 커지고 있다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1055,7 +1055,7 @@
       "Memory"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 뉴스 및 업데이트",
     "text": "삼성과 SK하이닉스: 양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
     "detected_vendors": [
       "SK하이닉스",
@@ -1075,7 +1075,7 @@
       "Storage"
     ],
     "section_raw": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2025년 11월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "SSD 시장이 이중 수요 충격으로 압박 심화: Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1136,7 +1136,7 @@
       "Storage"
     ],
     "section_raw": "용량 부족 및 제조사 가격 변동",
-    "subheading": "",
+    "subheading": "용량 부족 및 제조사 가격 변동",
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1156,7 +1156,7 @@
       "Other"
     ],
     "section_raw": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2025년 12월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "메모리 공급난 전망, 2027년까지 장기화: 주요 OEM 및 엔터프라이즈 고객들은 이제 DRAM/NAND 공급난이 기존 예상, 2026년이 아니라 2028년까지 장기화될 것으로 전망하고 있습니다. 삼성, SK하이닉스, 키옥시아는 이미 2026년 NAND 생산능력이 전량 판매 완료된 것으로 전해지며, 하이퍼스케일러들과 2027년 물량 배정을 협의 중입니다.",
     "detected_vendors": [
       "Kioxia",
@@ -1177,7 +1177,7 @@
       "Memory"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 뉴스 및 업데이트",
     "text": "SK하이닉스는 H200 수출 승인으로 가장 큰 수혜를 보고 있습니다. SK하이닉스가 H200에 사용되는 5세대 고대역폭 메모리(HBM3E)의 주요 공급사로 알려져 있어, 공급 물량이 불가피하게 증가하며 최대 수혜자가 될 것이라는 관측입니다. [소스: 트렌드포스]",
     "detected_vendors": [
       "SK하이닉스"
@@ -1194,7 +1194,7 @@
       "Other"
     ],
     "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "메모리 위기가 초인플레이션 단계로 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 급등했습니다. 64GB 모듈은 현재 1,500달러를 상회해 거래되고 있으며, 96GB 제품은 3,200달러를 초과합니다. 주간 단위 가격 재설정이 표준이 되었고, 삼성, SK하이닉스, 마이크론은 생산량의 75% 이상을 하이퍼스케일러에 직접 배정하고 있습니다. 그 결과 전통적인 OEM 및 유통사는 NCNR 조건과 함께 Q1 이후의 가시성 없이 매도자 우위 시장에서 물량 확보에 어려움을 겪고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -1215,7 +1215,7 @@
       "Other"
     ],
     "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "메모리 부족이 자동차 산업으로 확산: 마이크론, SK하이닉스, 삼성은 대부분의 자원을 AI 및 서버급 HBM과 DRAM 생산에 투입하고 있습니다. AI 수요 급증은 현재 생산 능력을 훨씬 초과합니다. 그 결과 자동차 제조에 필수적인 메모리를 포함해 다른 제품군이 2026년 내내 우선순위에서 밀리고 있습니다. 이미 주요 자동차 OEM들이 버퍼 물량 확보를 위해 전략적으로 시장에 진입하기 시작한 징후가 나타나고 있습니다.",
     "detected_vendors": [
       "Micron",
@@ -1236,7 +1236,7 @@
       "Storage"
     ],
     "section_raw": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 1월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "비하이퍼스케일러 SSD & HDD 배정 붕괴: 솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
     "detected_vendors": [
       "Kioxia",
@@ -1259,7 +1259,7 @@
       "Storage"
     ],
     "section_raw": "SSD 용량 부족 및 제조사 가격 변동",
-    "subheading": "",
+    "subheading": "SSD 용량 부족 및 제조사 가격 변동",
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20~70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
@@ -1279,7 +1279,7 @@
       "기타"
     ],
     "section_raw": "공급망 동향",
-    "subheading": "",
+    "subheading": "공급망 동향",
     "text": "SK 하이닉스, 소비자 사업 철수 루머에 대응: SK 하이닉스는 OEM 채널을 통해 소비자 수요를 계속 충족하겠지만, 이를 AI 공급과 균형 있게 맞추는 것이 점점 어려워지고 있습니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1296,7 +1296,7 @@
       "Other"
     ],
     "section_raw": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 2월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "메모리 위기, \"사후 정산(Post-Settlement)\" 체제로 전환: DRAM/NAND 위기는 단순한 물량 배분 부족을 넘어 상거래 조건의 구조적 재편 국면으로 진입했습니다. 삼성전자, SK하이닉스, 마이크론 등 주요 제조사들은 단기- 및 NCNR 계약에 사후 정산- 가격 조항을 적용하여, 납품 이후 발생하는 시장 가격- 차이를 구매자가 정산하도록 하고 있습니다. 이는 사실상 가격 확정성을 제거하는 조치로, 최종 가격은 향후 출하 시점에 확정됩니다.",
     "detected_vendors": [
       "Micron",
@@ -1316,7 +1316,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
-    "subheading": "",
+    "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "엔터프라이즈 SSD 가격은 전 분기 대비 50~90% 상승했습니다. Solidigm과 삼성은 주 단위로 가격을 재조정하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1334,7 +1334,7 @@
       "Storage"
     ],
     "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "스토리지 공급망 붕괴 및 전략적 EOL 가속: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
     "detected_vendors": [
       "Kioxia",
@@ -1358,7 +1358,7 @@
       "Other"
     ],
     "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "반도체를 넘어선 원자재 위기 심화: 중동 지역 긴장으로 인한 헬륨 공급 차질로 인해 Samsung과 SK Hynix는 긴급 조달 프로토콜을 가동하고 있으며, 한국 수입의 64%를 차지하는 카타르산 헬륨 공급이 중대한 위험에 처해 있다. 동시에 T-글래스 기판 및 유리 섬유 원단 부족은 아날로그 IC, FPGA, CMOS 센서 공급망 전반에 영향을 미치고 있으며, Analog Devices, Intel, Lattice, Sony 모두에서 디커밋 또는 40주 이상의 리드타임 증가가 보고되고 있다. 고성능 CMOS용 유리 기판은 현재 Nittobo가 유일한 인증 공급업체이며, 업계에서는 2027년 말까지 의미 있는 공급 완화가 없을 것으로 보고 있다.",
     "detected_vendors": [
       "Analog Devices",
@@ -1386,7 +1386,7 @@
       "Storage"
     ],
     "section_raw": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 3월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "유통 채널 재편으로 기존 파트너 배제: Micron, Samsung, SK Hynix는 유통사 인증을 체계적으로 축소하고 채널 재고를 하이퍼스케일러 및 전략적 OEM에 직접 재배분하고 있다. Macnica, TD Synnex, Ingram Micro, Arrow는 2026년 1분기 주요 지역에서 Micron 인증 축소 또는 종료 통보를 모두 받은 상태이다. 채널 파트너들은 현재 메모리 및 SSD 제품군에서 20% 미만의 할당 충족률을 보고하고 있으며, NCNR 조건과 주간 가격 재설정이 표준 관행으로 자리잡고 있다. 이러한 구조적 변화는 EMS 공급업체와 중견 OEM이 브로커 시장 의존도를 점점 높이도록 만들고 있으며, 하이퍼스케일 아닌 고객에 대해 가격 변동성을 확대시키고 전체 공급망 투명성을 저하시키고 있다.",
     "detected_vendors": [
       "Arrow",
@@ -1409,7 +1409,7 @@
       "Memory"
     ],
     "section_raw": "메모리 가격 변동 및 할당 붕괴",
-    "subheading": "",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "Micron, Samsung, SK Hynix는 자동차 Tier 1에 30% 미만만 할당하고 있으며, 자동차용 LPDDR4 16Gb 가격은 200~300% 상승했다.",
     "detected_vendors": [
       "Micron",
@@ -1429,7 +1429,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 용량 부족 및 가격 상승",
-    "subheading": "",
+    "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1447,7 +1447,7 @@
       "Memory"
     ],
     "section_raw": "제조사 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조사 뉴스 및 업데이트",
     "text": "Applied Materials는 인공지능 및 고성능 컴퓨팅에 핵심적인 차세대 반도체 개발을 위해 메모리 칩 기업 Micron Technology 및 SK Hynix와 협력하고 있다. Micron과 SK Hynix는 Applied Materials의 연구 센터인 Equipment and Process Innovation and Commercialization(장비 및 공정 혁신 및 상용화), 즉 EPIC Center에서 해당 반도체 개발을 위한 창립 파트너로 참여하게 된다. [출처:ChannelNewsAsia]",
     "detected_vendors": [
       "Micron",
@@ -1464,7 +1464,7 @@
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
-    "subheading": "",
+    "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
     "text": "엔터프라이즈 SSD 공급은 더욱 제한되고 있으며, 할당 물량의 대부분이 중국으로 배정되고 있습니다. 고객들은 오픈마켓에서 가용 재고를 확보하려는 움직임이 나타나고 있으며, 이는 가격 상승세를 견인하고 있습니다. SATA SSD(Solidigm D3-S4520/S4620)는 단종(EOL) 공지가 발표되었으며, 최종 주문일은 2026년 9월 30일입니다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1486,7 +1486,7 @@
       "Storage"
     ],
     "section_raw": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 5월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴: Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
     "detected_vendors": [
       "Micron",
@@ -1509,7 +1509,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 2028년까지 완판",
-    "subheading": "",
+    "subheading": "스토리지 2028년까지 완판",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1526,7 +1526,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 2028년까지 완판",
-    "subheading": "",
+    "subheading": "스토리지 2028년까지 완판",
     "text": "Solidigm D3-S4520/S4620 SATA SSD는 2026년 9월 30일을 최종 주문일로 하는 단종(EOL) 통보를 받은 상태이다. 고객들은 오픈마켓 재고 확보에 나서고 있으며, 이는 가격 상승세로 이어지고 있다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1545,7 +1545,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 가격 재설정 및 급등",
-    "subheading": "",
+    "subheading": "스토리지 가격 재설정 및 급등",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. 저가 SATA 모델은 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다. Gen5 엔터프라이즈 SSD는 3분기에 추가로 20~30% 급등할 것으로 전망된다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1562,7 +1562,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 가격 재설정 및 급등",
-    "subheading": "",
+    "subheading": "스토리지 가격 재설정 및 급등",
     "text": "Solidigm SATA D3-S4520/S4620 시리즈는 2026년 9월 30일 최종 주문(LTB)을 앞두고 있으며, 이에 따라 2차 시장의 변동성과 공개 시장 프리미엄 견적이 확대되고 있다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1580,7 +1580,7 @@
       "Other"
     ],
     "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입: DDR5 RDIMM 가격이 전례 없는 수준까지 상승했으며, 64GB 모듈은 3,000~3,700달러에 거래되고 있고 128GB 모듈은 5,000달러를 초과하고 있다. 주요 제조업체(Samsung, SK Hynix, Micron)는 3분기 가격이 15~20% 추가 상승할 것으로 전망하고 있다. 하이퍼스케일러들은 2030년까지 장기 공급 계약(LTA)을 통해 물량을 선점하고 있으며, 이로 인해 기존 OEM, 유통업체 및 자동차 업계는 공급 충족률이 30%에도 미치지 못하는 상황에 놓였고, 매주 NCNR 가격 재조정을 겪고 있다.",
     "detected_vendors": [
       "Micron",
@@ -1601,7 +1601,7 @@
       "Storage"
     ],
     "section_raw": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
-    "subheading": "",
+    "subheading": "2026년 7월 Fusion Worldwide Greensheet 마켓 리포트 전문",
     "text": "스토리지 공급망, 한계 상황 도달: Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
     "detected_vendors": [
       "Kioxia",
@@ -1623,7 +1623,7 @@
       "Memory"
     ],
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "subheading": "",
+    "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "SK하이닉스는 eMMC 5.1 제품군(8GB~64GB)의 단종(EOL)을 공식 발표했으며, 최종 구매(LTB) 기한은 2027년 12월 31일로 설정됐다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1641,7 +1641,7 @@
       "Memory"
     ],
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
-    "subheading": "",
+    "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "SK하이닉스, 삼성전자, 마이크론은 시장에 2026년 3분기 DRAM 가격이 15~20% 상승하고, 4분기에 추가로 15% 상승할 것으로 전망한다고 밝혔다. NAND 플래시 가격은 3분기에 30~40% 상승한 뒤 4분기에 추가로 15% 오를 것으로 예상된다.",
     "detected_vendors": [
       "Micron",
@@ -1659,7 +1659,7 @@
       "Storage"
     ],
     "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
-    "subheading": "",
+    "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
     "text": "Solidigm, Samsung, Kioxia는 3분기 20~50% 가격 인상을 시행하고 있다. Solidigm D3/S4520 SATA 시리즈는 단종(EOL) 통보에 직면했으며, 마이크론은 올해 남은 기간 동안 모든 산업용 SSD 출하를 중단했다.",
     "detected_vendors": [
       "Kioxia",
@@ -1681,7 +1681,7 @@
       "Memory"
     ],
     "section_raw": "공급망 동향",
-    "subheading": "",
+    "subheading": "공급망 동향",
     "text": "NVIDIA의 Vera Rubin 플랫폼은 열 커버(thermal-lid) 제조 문제로 인해 대량 출하가 수 주 지연됐다. 여기에 Rubin의 288GB HBM4 구성에 대한 SK하이닉스 HBM4 인증이 예상보다 늦어지면서 지연 요인이 추가됐다. 한편 NVIDIA는 Rubin Ultra용 Kyber 랙이 2028년까지 지연된다는 별도 보도에 대해 사실이 아니라고 반박하며, 자사의 로드맵은 “변함없이 유지되고 있다”고 밝혔다. [출처: Memeburn]",
     "detected_vendors": [
       "Nvidia",
@@ -1699,7 +1699,7 @@
       "Memory"
     ],
     "section_raw": "공급망 동향",
-    "subheading": "",
+    "subheading": "공급망 동향",
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
     "detected_vendors": [
       "SK하이닉스",
@@ -1718,7 +1718,7 @@
       "기타"
     ],
     "section_raw": "제조업체 뉴스 및 업데이트",
-    "subheading": "",
+    "subheading": "제조업체 뉴스 및 업데이트",
     "text": "SK하이닉스, 미국 역사상 최대 규모 외국 기업 IPO 기록: SK하이닉스는 7월 9일 미국 공모 가격을 ADR당 149달러로 책정했으며, 약 265억 달러를 조달했다. 이는 비미국 기업으로서는 미국 증시 사상 최대 규모의 데뷔 기록이다. 해당 주식은 나스닥에서 SKHY라는 종목 코드로 거래를 시작했으며, 상장 첫날 약 13% 상승한 가격에 마감했다. 이번 공모는 청약 경쟁률이 약 7배에 달한 것으로 알려졌다.",
     "detected_vendors": [
       "SK하이닉스"
@@ -1734,7 +1734,7 @@
       "Memory"
     ],
     "section_raw": "메모리 유동적 가격 책정 및 단종 확산",
-    "subheading": "",
+    "subheading": "메모리 유동적 가격 책정 및 단종 확산",
     "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
@@ -1753,7 +1753,7 @@
       "Storage"
     ],
     "section_raw": "스토리지 용량 부족 및 가격 상승",
-    "subheading": "",
+    "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Solidigm 엔터프라이즈 SSD는 3·4분기에 가격이 20~30% 인상되고 있습니다. 대용량 드라이브(15TB·30TB·61TB·122TB)는 하이퍼스케일러가 전량 흡수해 유통 파트너에 할당되는 물량이 전혀 없습니다.",
     "detected_vendors": [
       "SK하이닉스"
