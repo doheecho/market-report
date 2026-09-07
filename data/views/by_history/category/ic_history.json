@@ -9,7 +9,7 @@
         "SK하이닉스",
         "삼성"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "삼성은 정상적인 생산에 제약을 받고 있어, 2분기에는 가격이 최대 15~20% 인상될 것으로 예상됩니다.",
       "text": "삼성은 정상적인 생산에 제약을 받고 있어, 2분기에는 가격이 최대 15~20% 인상될 것으로 예상됩니다. 현재 모든 라인에 대해 최소 12주 이상의 리드 타임이 걸리며, 이런 상황에서 삼성은 OEM 글로벌 티어 1 에 집중하여 공급 하려고 합니다. 제품 가용성의 제한으로 Micron 및 하이닉스 모델에도 영향을 미칠 것으로 예상됩니다."
     },
@@ -152,7 +152,7 @@
     {
       "date": "2020.07",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Supermicro"
       ],
       "risk_level": "High",
@@ -236,7 +236,7 @@
     {
       "date": "2020.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Supermicro"
       ],
       "risk_level": "Medium",
@@ -311,7 +311,7 @@
     {
       "date": "2020.10",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -321,7 +321,7 @@
     {
       "date": "2020.10",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "High",
       "summary": "그럼에도 불구하고, AMD의 4000 Renoir 모바일 시리즈가 소비자 시장에서 압도적으로 뜨거운 호응을 얻고 있어 수요가 두 배로 늘었다는 소식을 듣고 있습니다.",
@@ -447,14 +447,14 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "오래 기다려온 Intel의 10NM Fab 42가 출시 준비를 완벽히 마쳤습니다.",
       "text": "오래 기다려온 Intel의 10NM Fab 42가 출시 준비를 완벽히 마쳤습니다. 이것은 현재의 모바일 Ice Lake와 Tiger Lake의 공급 제약을 완화되거나 Gemini Lake, Gemini Lake Refresh, Kaby Lake R, Whiskey Lake, Comet Lake를 생산하는 14NM Fab가 거의 끝나감을 알려 주는 징조이기도 합니다."
     },
     {
       "date": "2020.11",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Microchip"
       ],
       "risk_level": "Low",
@@ -464,7 +464,7 @@
     {
       "date": "2020.11",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Medium",
       "summary": "Xilinx 는 또한 모든 Spartan 6 (XC6SLX), Virtex 6 및 7, Kintex 7 (XC7K) FPGA 패밀리 제품에 대해 25% 의 가격 인상이 있을 것이라고 발표했습니다.",
@@ -473,7 +473,7 @@
     {
       "date": "2020.12",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Low",
       "summary": "AMD의 Ryzen 4000 시리즈, ‘Renoir’ 모바일 프로세서에 대한 수요가 계속해서 공급을 초과함에 따라 고객들은 이전 모델인 AMD의 Ryzen 3000 시리즈, ‘Picasso’ 로 점점 다시 전환하고 있습니다.",
@@ -482,7 +482,7 @@
     {
       "date": "2020.12",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "High",
       "summary": "요약하자면 시장이 최신 기술, 즉 AMD의 Ryzen 4000 시리즈, ‘Picasso’, 7nm 모바일 프로세서를 채택하고 사용하도록 하기 위해 AMD의 Ryzen 3000 시리즈, ‘Renoir’, 12nm 모바일 프로세서의 생산량을 축소했습니다.",
@@ -679,14 +679,14 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "예상대로, B460 및 H410 칩셋의 생산은 Intel의 우선순위 목록에서 뒤로 밀릴 가능성이 높습니다.",
       "text": "예상대로, B460 및 H410 칩셋의 생산은 Intel의 우선순위 목록에서 뒤로 밀릴 가능성이 높습니다. 따라서 우리는 고객이 이처럼 제약된 칩셋에 대한 오픈 마켓 리드 타임 가용성 오퍼를 살펴보기 시작해 가능한 한 빨리 예약할 것을 권장 합니다."
     },
     {
       "date": "2021.02",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Sony",
         "TSMC"
       ],
@@ -865,14 +865,14 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel은 공식 발표를 통해 최신 제품인 3세대 Ice Lake Xeon을 선보였습니다.",
       "text": "Intel은 공식 발표를 통해 최신 제품인 3세대 Ice Lake Xeon을 선보였습니다. 그래서 이전 모델인 Cascade Lake와 Cascade Lake Refresh는 앞으로 몇 달 정도 지나면 공급 제약에 직면할 것으로 예상합니다. 전환에는 일반적으로 전임자와 후임자 모두에 대한 공급 제약이있는 새로운 마더 보드가 포함됩니다."
     },
     {
       "date": "2021.05",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -1010,7 +1010,7 @@
     {
       "date": "2021.06",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "SSD의 공급이 계속 제한적이며, 주로 최대 1.",
       "text": "SSD의 공급이 계속 제한적이며, 주로 최대 1.92TB의 적은 용량에 대해 수요가 계속 강세를 띠고 있습니다. 또한, IC 컨트롤러 공급 제약으로 SSD 생산에 계속 어려움이 있고, 벤더들은 이 문제가 한 분기 이상 계속될 것이라는 의견을 공유했습니다."
     },
@@ -1019,7 +1019,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel이 Ice Lake로 전환함에 따라, 곧 Cascade Lake와 Cascade Lake Refresh의 공급에 제약이 따를 것으로 예상합니다.",
       "text": "Intel이 Ice Lake로 전환함에 따라, 곧 Cascade Lake와 Cascade Lake Refresh의 공급에 제약이 따를 것으로 예상합니다. 또한, 최근에 서버 CPU에 대한 수요가 약간 증가하고 있고 오픈 마켓에 오퍼를 요청하는 고객이 점점 더 많아지는 추세를 파악했습니다."
     },
@@ -1153,7 +1153,7 @@
     {
       "date": "2021.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -1163,7 +1163,7 @@
     {
       "date": "2021.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -1263,7 +1263,7 @@
     {
       "date": "2021.09",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Low",
       "summary": "그래픽 카드 가격은 여전히 높고 공급은 계속해서 제한적이므로, Zen 3 Cezanne G-Series 데스크톱 프로세서가 계속 인기를 끌고 있고 내장형 Radeon Graphics 덕분에 소비자들이 많이 찾습니다.",
@@ -1332,7 +1332,7 @@
     {
       "date": "2021.11",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Analog Devices",
         "Broadcom",
         "Nexperia"
@@ -1344,9 +1344,9 @@
     {
       "date": "2021.11",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다.",
       "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다."
     },
@@ -1391,7 +1391,7 @@
     {
       "date": "2021.11",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Nvidia"
       ],
       "risk_level": "High",
@@ -1410,9 +1410,9 @@
     {
       "date": "2021.12",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다.",
       "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다."
     },
@@ -1563,7 +1563,7 @@
     {
       "date": "2022.02",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "현재 업계 전반의 공급 제약으로 인해, 집적회로(IC)의 리드 타임이 전반적으로 급격하게 늘었습니다.",
       "text": "현재 업계 전반의 공급 제약으로 인해, 집적회로(IC)의 리드 타임이 전반적으로 급격하게 늘었습니다. 특히, 여러 자동차 등급 및 산업용 등급 IC의 경우 리드 타임이 최대 70주로 늘었습니다. 일부의 경우 유통업체는 계약된 할당량을 확인할 수 없고, 일부는 2023년까지 일부 부품 배송을 수령하지 않을 것이라고 보고하고 있습니다."
     },
@@ -1579,7 +1579,7 @@
     {
       "date": "2022.02",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel",
         "Nvidia",
         "TSMC"
@@ -1625,7 +1625,7 @@
     {
       "date": "2022.02",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다.",
       "text": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다. 이러한 예상 지연 및 일부 부품 제조를 지원하는 웨이퍼의 제한된 생산량은 공급 제약을 가중할 것입니다."
     },
@@ -1784,7 +1784,7 @@
     {
       "date": "2022.04",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다.",
       "text": "2개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다. 미국과 다른 국가들은 러시아에 상업용 전자 기기, 항공기 부품, 반도체 등의 수출을 봉쇄하는 제재를 가하고 있습니다."
     },
@@ -1893,10 +1893,10 @@
     {
       "date": "2022.06",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다.",
       "text": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다. Intel의 Sapphire Rapid와 AMD의 Genoa 지연은 공급 병목현상을 일으키고 고객 가용성을 제약할 수 있습니다. 그 결과, 주로 서버 빌더인 고객들은 그 대안으로 기존의 Intel의 Ice Lake 또는 Cascade Lake 시리즈나 AMD의 Rome 또는 Milan 시리즈를 구입해야 하는 상황입니다."
     },
@@ -1905,7 +1905,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Intel 이더넷 콘트롤러와 칩셋에 대한 높은 수요는 6월까지 계속되고 있지만 할당량이 한정적입니다.",
       "text": "Intel 이더넷 콘트롤러와 칩셋에 대한 높은 수요는 6월까지 계속되고 있지만 할당량이 한정적입니다. 2분기 내내 Intel의 할당 역량은 은 큰 타격을 입어 1분기부터 누적된 수요 중 고작 20%만을 지원 할 수 있었습니다. 공급 경색 및 할당 제약에 더해 Intel 이더넷 콘트롤러 가격 역시 10~20% 인상될 예정입니다."
     },
@@ -1921,7 +1921,6 @@
     {
       "date": "2022.07",
       "detected_vendors": [
-        "Arrow",
         "Intel"
       ],
       "risk_level": "Low",
@@ -1967,7 +1966,7 @@
     {
       "date": "2022.07",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel",
         "Nvidia"
       ],
@@ -2028,7 +2027,7 @@
         "Micron",
         "Renesas"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Micron의 히로시마 DRAM 공장에서 정전으로 인해 생산이 일시적으로 중단되었습니다.",
       "text": "Micron의 히로시마 DRAM 공장에서 정전으로 인해 생산이 일시적으로 중단되었습니다. 이곳에서는 주로 DDR4 관련 1베타 DRAM 칩을 생산하고, 하이엔드 스마트폰과 기타 고성능 휴대용 장치와 같은 최종 제품의 공급품을 생산합니다. 이와 유사하게 Renesas 또한 벼락으로 인해 구마모토시 공장 가동이 잠시 중단되었습니다. Renesas MCU의 대부분을 책임지고 있는 이 공장은 7월 11일 전체 생산 능력을 회복했고, 일주일에 해당하는 작업만 손실된 것으로 알려졌습니다."
     },
@@ -2226,7 +2225,7 @@
       "detected_vendors": [
         "Toshiba"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "Toshiba Electronic Devices & Storage Corporation의 발표에 따르면, 일본에 있는 Toshiba 시설에서 9월 11일에 정전이 발생하였습니다.",
       "text": "Toshiba Electronic Devices & Storage Corporation의 발표에 따르면, 일본에 있는 Toshiba 시설에서 9월 11일에 정전이 발생하였습니다. 전력 시설을 검사하는 동안 정전으로 인해 생산 중단이 발생하였습니다."
     },
@@ -2235,7 +2234,7 @@
       "detected_vendors": [
         "Toshiba"
       ],
-      "risk_level": "Low",
+      "risk_level": "High",
       "summary": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다.",
       "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다."
     },
@@ -2260,7 +2259,7 @@
     {
       "date": "2022.10",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Nvidia"
       ],
       "risk_level": "Low",
@@ -2345,7 +2344,7 @@
     {
       "date": "2022.11",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -2407,7 +2406,7 @@
     {
       "date": "2022.12",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -2417,7 +2416,7 @@
     {
       "date": "2022.12",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Medium",
@@ -2443,7 +2442,7 @@
     {
       "date": "2023.01",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Medium",
       "summary": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다.",
@@ -2466,7 +2465,7 @@
     {
       "date": "2023.01",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Medium",
       "summary": "잔여 Xilinx 머추어 노드: 2023년 1분기까지 표준 리드 타임 예상.",
@@ -2659,7 +2658,7 @@
     {
       "date": "2023.02",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -2790,7 +2789,7 @@
     {
       "date": "2023.04",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Analog Devices, 공급 강화를 위한 장기전 돌입",
       "text": "하지만, 이러한 제약에도 불구하고 일반적인 공급 예측은 올해는 AD의 재고가 개선될 것으로 전망합니다. 전해진 바에 따르면, 제품의 95%는 10월까지 시간이 소요될 가능성이 높겠지만, 이 포트폴리오의 절반은 리드 타임이 13주 미만으로 단축될 것으로 봅니다. 그에 반해 ADUXXX 시리즈의 공급 및 리드 타임은 이미 안정화되고 있습니다."
     },
@@ -2799,7 +2798,7 @@
       "detected_vendors": [
         "Nexperia"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "NXP에 대한 MCU 제약이 계속되는 동안 안정화된 센서 가용성",
       "text": "MCU에 대한 제약이 계속되고 있지만, NXP 센서 공급은 안정화되고 있습니다. 보고서에 따르면 2월 말에는 MCU 리드 타임이 불안정했고, 납품 기간이 2024년으로 연장되었습니다. 그 이후 특정 부품의 리드 타임은 단축되었지만, 납품 일정이 여전히 일정하지 않아 리드 타임 주문을 생산에 반영하기가 어렵습니다."
     },
@@ -2870,7 +2869,7 @@
     {
       "date": "2023.04",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "게이밍 GPU 공급은 안정되고 있지만, 칩셋 공급 문제로 인해 RTX 시리즈에 제약 발생",
       "text": "게이밍 GPU 공급은 계속 양호하고 일정한 상태를 유지하고 있습니다. 하지만, RTX 4090는 고객에게 제한적으로 할당되고 있기 때문에 예외입니다. 이 제약은 주로 GPU 칩셋의 공급 문제로 인한 것입니다. 또한, RTX 4070의 경쟁력 있는 가격과 가용성은 RTX 4080에 주력하기 어렵게 만들고 있습니다."
     },
@@ -2976,7 +2975,7 @@
     {
       "date": "2023.05",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -3061,7 +3060,7 @@
     {
       "date": "2023.06",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "자동차 집적 회로에 대한 수요 및 리드 타임 증가",
       "text": "범용 증폭기 2회로 9-PDIP 시리즈의 경우 말레이시아의 제한된 제조 할당량이 제약 요인으로 작용하고 있습니다. 이는 전기적 오작동이나 고장을 일으킬 수 있는 표면 전기 도금 상호 연결 패턴(SEIP) 문제 때문입니다. 다행히도 이 회사는 수요를 충족하기 위해 상당한 생산 능력을 할당했기 때문에 공급 불균형은 단기간에 그칠 것입니다. 그러나 이는 모든 신규 주문에 영향을 미쳤으며 고객은 리드 타임과 배송 기간이 연장될 수 있습니다."
     },
@@ -3128,7 +3127,7 @@
       "detected_vendors": [
         "삼성"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "메모리 제조업체, 시장 회복에 따른 가격 하락 방지에 집중",
       "text": "또한 전력 관리 집적 회로(PMIC)의 문제가 DDR5 메모리 모듈 공급에 영향을 미쳐 가격이 상승하는 추세에 있습니다. 제조업체들은 이 문제를 신속하게 해결하려고 노력했지만, 삼성 RDIMM의 공급 차질은 쉬 사그러들지 않고 있습니다. 삼성은 64GB 5600 DDR5의 PMIC 문제를 해결하는 데 성공했습니다. 남아있는 재고 제약이 대부분 256GB에 국한되어 있긴 하지만, 전체 공급량은 아직 정상 수준으로 회복되지 않았습니다. 회복에는 2~3개월이 더 걸릴 것으로 보입니다."
     },
@@ -3196,7 +3195,7 @@
     {
       "date": "2023.07",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "FM 시리즈의 리드 타임 단축 및 비용 절감 시작",
       "text": "STM32H는 공급 제약 기간 및 리드 타임 연장으로 인한 가격 상승에 따라 3분기에서 4분기 사이에 회복할 것으로 예측됩니다. 그러나 전반적인 수요가 여전히 높기 때문에 회복은 특정 MPN의 영향을 받습니다. 가장 큰 영향을 받은 MCU로 STM32F4XXX, STM32F7XXX, STM32H7XX 등이 있지만, 리드 타임은 점차 단축되고 있습니다."
     },
@@ -3307,7 +3306,7 @@
     {
       "date": "2023.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -3410,7 +3409,7 @@
     {
       "date": "2023.09",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "NXP의 생산 전환에 따라 MCU 공급 부족 지속 전망",
       "text": "또한, S912ZVL 시리즈와 같은 차량용 MCU의 경우 EV 수요 증가로 인해 공급 제약이 지속되고 있습니다. MC9S, MCF, MK 시리즈와 같은 제품은 제한된 제조 역량 및 할당으로 공급 제약이 발생하고 있습니다. NXP는 S912ZVL, MC9S, MCIMX6과 구형 모델의 경우 웨이퍼에 적합한 칩의 수가 한정되어 있어 활용률에 영향을 주므로 생산량을 늘릴 계획은 없습니다."
     },
@@ -3492,7 +3491,7 @@
       "detected_vendors": [
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "NVIDIA, 신제품 발표에 따른 GPU 수요 증가로 분투",
       "text": "전반적으로 소비자용 그래픽 카드의 수요는 저조했으며, 특히 중저가 시리즈의 경우 이러한 경향이 두드러졌습니다. RTX4090과 같은 하이엔드 시리즈에 대한 공급은 여전히 제한적이며, 이는 주로 GPU 칩셋의 부적절한 할당과 RTX4090 블로어 및 터보 시리즈에 대한 수요 증가 때문입니다. NVIDIA는 AI 및 기업 고객이 대체품으로 전환하지 않도록 적극적으로 노력하고 있습니다. 그러나 충성도를 유지하라는 NVIDIA의 권고에도 불구하고 공급 제약이 지속될 경우 고객의 유일한 선택지는 대체품이 될 수도 있습니다."
     },
@@ -3547,7 +3546,7 @@
     {
       "date": "2023.11",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "ARM MCU 시리즈에 대해 최대 170주까지 연장된 NXP 리드 타임",
       "text": "리드 타임이 길면 NXP의 S32K1 시리즈 ARM MCU의 특정 MPN에 영향을 미칩니다. 가장 짧은 리드 타임은 52주이며, 제약이 많은 시리즈는 170주까지 늘어납니다. 이는 배송이 지연되고 제조업체의 할당량이 제한적이었던 FS32K144 및 FS32K146의 시장 가격이 눈에 띄게 상승한 데 따른 것입니다."
     },
@@ -3628,7 +3627,7 @@
       "detected_vendors": [
         "Infineon"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "초과 공급이 IC 시장에 영향을 미치는 반면 IGBT 공급 부족은 지속",
       "text": "지난 한 달 동안 Infineon은 특정 고전압 MOSFET의 제약을 겪었고 이에 따라 배송 기간이 연장되었습니다. 대신 소비자 시장의 수요 감소에 따라 제조업체에서 초과 재고를 관리하면서 저전압 MOSFET의 공급은 꾸준히 개선되었습니다. 수요 변화로 인해 Infineon에서 생산 능력을 전환해 고전압 MOSFET 지원을 확대할 수 있었고 공급은 현재 안정화되었습니다."
     },
@@ -3704,7 +3703,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "서버 CPU 수요 증가세 계속",
       "text": "수요 추세 증가에 따라 Intel 서버 CPU 고객의 주요 관심사는 여전히 공급 제약입니다. Silver 4210, 4210R, Gold 6226R, 6248R, 6336Y 등 특정 SKU의 잠재적 문제를 보고하는 티어 1 고객이 증가하면서 Cascade Lake 및 Ice Lake의 공급은 제한적입니다."
     },
@@ -3833,7 +3832,7 @@
     {
       "date": "2024.04",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Low",
       "summary": "가상화폐 채굴자 사이에서 AMD 제품 수요 증가",
@@ -3899,7 +3898,7 @@
     {
       "date": "2024.05",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
       "risk_level": "Low",
@@ -3948,7 +3947,7 @@
     {
       "date": "2024.05",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "High",
       "summary": "주요 제품 변경 알림을 발표한 Xilinx",
@@ -4014,7 +4013,7 @@
     {
       "date": "2024.06",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "CPU 시장 활동을 주도하는 Chromebook과 노트북 수요",
       "text": "3세대 Ice Lake 및 4세대 Sapphire Lake에 크게 집중된 시장 수요가 지속되고 있습니다. 2세대 Cascade Lake에 대한 관심에는 변동이 있는 한편 Gold 5220R, Gold 6238R, Gold 6248R과 같은 품목에 대한 잠재적인 공급 제약이 곧 발생할 것으로 예상됩니다. 그러나 이는 예측과 실제 수요의 일치 정도에 따라 달라지므로 변동이 있을 수 있습니다."
     },
@@ -4071,7 +4070,7 @@
       "detected_vendors": [
         "Broadcom"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Broadcom이 주문을 신속하게 처리하기 위해 수수료를 부과함에 따라 연장된 리드 타임",
       "text": "Broadcom의 리드 타임이 연장되고 있으며, 일부 고객은 최대 52주의 배송 리드 타임을 보고하고 있습니다. 공급 제약이 BCM5 또는 BCM8 시리즈에 영향을 미치고 있으며, 제조업체는 주문을 점점 더 미뤄 왔습니다."
     },
@@ -4138,7 +4137,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Micron"
       ],
       "risk_level": "Medium",
@@ -4170,7 +4169,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "서버 CPU: 공급 제약을 마주한 Intel, 성과를 얻는 AMD의 Genoa 시리즈",
       "text": "Intel은 일부 3세대 Ice Lake SKU에 대한 일시적인 수요를 확인하고 있으며, 1차 OEM들이 할당을 요청하고 있습니다. 공급 제약으로 인해 3세대 Ice Lake 및 4세대 Sapphire Rapids CPU의 일반 수주 리드 타임이 1~2주 연장되었습니다. Intel은 5세대 Emerald Rapids로 초점을 돌리고 있으며, 이에 따라 가용성이 개선될 것입니다."
     },
@@ -4277,7 +4276,9 @@
     },
     {
       "date": "2024.10",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Mediatek"
+      ],
       "risk_level": "Low",
       "summary": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다.",
       "text": "자동차, IoT, 스마트폰 부문 수요: 퀄컴과 미디어텍의 최근 실적 발표에 따르면, 자동차, IoT 및 스마트폰 부문에서 모바일 CPU 수요가 강세를 보이고 있습니다. 퀄컴은 AI를 통합한 갤럭시 Z 폴드6과 같은 기기 덕분에 81억 달러의 칩셋 매출을 기록했습니다. 미디어텍은 신흥 시장에서의 4G SoC 수요와 5G AI 스마트폰 발전 덕분에 휴대전화 매출이 전년 대비 52% 증가했습니다."
@@ -4530,7 +4531,7 @@
     {
       "date": "2025.03",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다.",
       "text": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다. 4월 1일부터 최소 10% 가격 인상이 예정되어 있으며, 분기별로 추가 조정이 있을 수 있습니다."
     },
@@ -4603,7 +4604,7 @@
       "detected_vendors": [
         "Texas Instruments"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Texas Instruments(TI)는 TCAN 시리즈의 생산을 확대 중이지만, 생산 지연으로 인해 공급 제약과 리드 타임 증가가 발생하고 있습니다.",
       "text": "Texas Instruments(TI)는 TCAN 시리즈의 생산을 확대 중이지만, 생산 지연으로 인해 공급 제약과 리드 타임 증가가 발생하고 있습니다."
     },
@@ -5085,7 +5086,7 @@
     {
       "date": "2025.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Nvidia"
       ],
       "risk_level": "Low",
@@ -5114,7 +5115,7 @@
     {
       "date": "2025.09",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Nvidia"
       ],
       "risk_level": "High",
@@ -5144,7 +5145,7 @@
       "detected_vendors": [
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다.",
       "text": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다. 주문 시스템 업데이트는 2025년 8월 15일에 시행되었으며, 1~2분기 내 해결이 예상됩니다."
     },
@@ -5414,7 +5415,7 @@
     {
       "date": "2025.12",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Medium",
       "summary": "자일링스XC7 시리즈는 원자재 공급 및 비용 영향으로 최근 리드타임이 14~23주로 연장되었습니다.",
@@ -5601,7 +5602,7 @@
         "Coherent",
         "Mellanox"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다.",
       "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다."
     },
@@ -5651,14 +5652,14 @@
         "Nexperia",
         "Onsemi"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다.",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면해 있습니다."
     },
     {
       "date": "2026.02",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Lattice"
       ],
       "risk_level": "Medium",
@@ -5688,7 +5689,7 @@
       "detected_vendors": [
         "Mellanox"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다."
     },
@@ -5800,7 +5801,7 @@
         "Infineon",
         "Nexperia"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon은 2026년 4월 1일부터 전력 IC 제품군 가격 인상을 발표했다.",
       "text": "Infineon은 2026년 4월 1일부터 전력 IC 제품군 가격 인상을 발표했다. 리드타임은 30~52주로 두 배 증가했으며, 이는 Nexperia 수요 유입 영향이다. 중국 러산 공장의 웨이퍼 생산 제약이 지연을 악화시키고 있다."
     },
@@ -6010,7 +6011,7 @@
         "Nexperia",
         "Onsemi"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다.",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다."
     },
@@ -6029,7 +6030,7 @@
         "Mellanox",
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     },
@@ -6270,7 +6271,7 @@
     {
       "date": "2026.06",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel",
         "Lattice"
       ],
@@ -6332,7 +6333,7 @@
         "Broadcom",
         "TSMC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Broadcom의 5nm PCIe 스위치 칩(SS24/SS26)은 심각한 공급 제약을 겪고 있다.",
       "text": "Broadcom의 5nm PCIe 스위치 칩(SS24/SS26)은 심각한 공급 제약을 겪고 있다. TSMC의 생산 능력 제한으로 예상 납기가 2027년 1월까지 밀렸으며, 급행 옵션은 제공되지 않는다. 기본 리드타임은 52주 이상이다."
     },
@@ -6434,7 +6435,7 @@
       "detected_vendors": [
         "TSMC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "ST마이크로일렉트로닉스의 90nm 성숙 공정 제품군(STM32G0/G4/F4/L4) 리드타임은 기존 30주에서 40~52주까지 급증했다.",
       "text": "ST마이크로일렉트로닉스의 90nm 성숙 공정 제품군(STM32G0/G4/F4/L4) 리드타임은 기존 30주에서 40~52주까지 급증했다. ST는 TSMC가 성숙 공정 생산 능력을 축소·중단함에 따라 생산을 자체 내재화하고 있으며, 이는 2026년 하반기 공급 제약 상황을 더욱 악화실 전망이다."
     },
@@ -6587,7 +6588,7 @@
       "detected_vendors": [
         "STMicroelectronics"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "STMicroelectronics의 리드타임은 40~50주로 늘어났으며, 특히 STM32 MCU 시리즈와 센서의 공급 지연이 두드러집니다.",
       "text": "STMicroelectronics의 리드타임은 40~50주로 늘어났으며, 특히 STM32 MCU 시리즈와 센서의 공급 지연이 두드러집니다. ST가 고수익 AI 및 자동차용 제품을 우선시하면서 산업용·소비자용 제품의 물량 할당은 심각한 제약을 받고 있습니다."
     },
@@ -6596,7 +6597,7 @@
       "detected_vendors": [
         "Infineon"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다.",
       "text": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다. 자동차용 전력 소자와 MCU(예: SAK-TC277TP)의 리드타임은 52주 이상이며, 유통업체들은 가격과 납기 확정 내용을 신뢰하기 어렵다고 보고하고 있습니다."
     },
@@ -6621,17 +6622,17 @@
     {
       "date": "2026.08",
       "detected_vendors": [
-        "Amd",
+        "AMD",
         "Intel"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다.",
       "text": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다."
     },
     {
       "date": "2026.08",
       "detected_vendors": [
-        "Amd"
+        "AMD"
       ],
       "risk_level": "Medium",
       "summary": "AMD 서버용 EPYC Genoa 및 Turin 시리즈는 여전히 엄격한 할당 상태이며, 클라우드 서비스 제공업체가 생산 물량을 흡수하면서 리드타임이 늘어나고 있습니다.",
@@ -6663,7 +6664,7 @@
         "Broadcom",
         "TSMC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다.",
       "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다."
     },
@@ -6673,7 +6674,7 @@
         "Mellanox",
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다.",
       "text": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다. AI 인프라 수요가 가용 생산 능력의 상당 부분을 흡수하고 있습니다."
     },
@@ -6811,7 +6812,7 @@
         "Nexperia",
         "Onsemi"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다.",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다."
     },
@@ -6830,7 +6831,7 @@
         "Mellanox",
         "Nvidia"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     },

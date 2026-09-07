@@ -16,10 +16,9 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2020,
@@ -344,8 +343,10 @@
       "Micron",
       "Renesas"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -594,8 +595,7 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -743,7 +743,7 @@
     "subheading": "DDR 제조사들의 메모리 가격 증가세 지속",
     "text": "Micron은 3분기를 시작하면서 LPDDR5 메모리의 가격을 15% 인상한다고 발표했습니다. 이번 가격 인상은 AI 애플리케이션에 대한 높은 수요 및 구성 요소가 가진 AMD 기반 PC와의 독점적인 호환성에서 비롯되었습니다. LPDDR5 공급은 아직도 늘어나는 수요를 따라가지 못하고 있으며, 예측에 따르면 이러한 추세는 Chromebook, 휴대용 장치, 모빌리티 제품의 추가 출하량 덕분에 하반기까지 이어질 것으로 보입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Micron"
     ],
     "detected_keywords": [
@@ -803,7 +803,7 @@
     "subheading": "",
     "text": "6400 속도 DRAM 수요 증가: 6400 메모리 속도는 인텔 Granite 및 AMD Turin 플랫폼을 지원하며, 2025년 1분기에 수요가 증가할 것으로 예상됩니다. 현재 6400 속도 메모리는 4800/5600 속도 대비 5%에서 20%까지 높은 프리미엄이 있으며, 마이크론이 가장 높은 프리미엄을 유지하고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Micron"
     ],
@@ -955,7 +955,7 @@
     "subheading": "",
     "text": "모바일 CPU: 모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Micron"
     ],
@@ -979,10 +979,8 @@
     "detected_vendors": [
       "Micron"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -1373,6 +1371,7 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20-70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [

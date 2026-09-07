@@ -50,7 +50,7 @@
     "subheading": "",
     "text": "Nvidia와 직접적인 경쟁 관계에 있는 AMD 는 역시 이번 달 말에 출시 예정인 새로운 ‘Big Navi’ GPU 인 Radeon 의 RX 6000 시리즈 출시를 통해 Nvidia의 RTX 30 시리즈에 정면으로 맞서게 됩니다. AMD 의 ‘Big Navi’ 는 TSMC 7nm 다이를 통합한 제품으로, (Nvidia 의 RTX 30 시리즈에 사용되는) 삼성의 8nm 보다 수율이 높다고 합니다. 따라서 AMD 는 공급에 있어 Nvidia 보다 유리할 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC",
       "삼성"
@@ -69,7 +69,7 @@
     "subheading": "",
     "text": "더군다나 AMD 는 새로운 워크스테이션/가속기 GPU 를 공개할 예정인 데, 11월 중순에 출시될 것으로 예상됩니다. 이 제품은 최근 출시된 Nvidia 의 A100 40GB 와 같은 Ampere 시리즈 워크스테이션 GPU와 대항할 것입니다. Nvidia 가 더 나은 수율을 위해 2021년 1분기까지 소비자 등급 GPU 생산을 TSMC 7nm 로 전환하여 공급을 늘리고 시장 점유율을 확보할 것이라는 시장 예측이 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC"
     ],
@@ -105,7 +105,7 @@
     "subheading": "",
     "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Sony",
       "TSMC"
     ],
@@ -162,7 +162,7 @@
     "subheading": "",
     "text": "결과적으로, 고객은 AMD와의 거래가 끊기거나 AMD의 인도 리드 타임이 늘어나는 문제에 직면할 수 있습니다. 제한적인 기판 공급 외에도, 이처럼 제한적인 TSMC 생산 능력과 AMD EPYC Milan 시리즈의 출시로 인해 Rome 서버 CPU 공급이 회복되기는 쉽지 않을 것 입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "TSMC"
     ],
     "detected_keywords": [
@@ -309,7 +309,7 @@
     "subheading": "",
     "text": "TSMC는 이미 고급의 처리 노드를 위해 가격을 10~20% 인상했습니다. 파운드리 가격 인상은 CPU, GPU 및 ASICS 가격에 영향을 줄 것으로 예상됩니다. Tech Wire Asia에 따르면 AMD, Intel, Nvidia는 TSMC의 첨단 노드 기술에 의존하는 제조업체들입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia",
       "TSMC"
@@ -424,7 +424,7 @@
     "subheading": "",
     "text": "AMD는 9월 27일부터 Ryzen 7000 시리즈(Raphael, Zen 4, LGA AM5 소켓, TSMC의 N5 5nm 노드)를 이용할 수 있을 것이라고 발표했습니다. 현재는 4종의 고급 모델(Ryzen 9 7950X, Ryzen 9 7900X, Ryzen™ 7 7700X, Ryzen™ 5 7600X)이 소개되었지만, 향후 중간급 내지 엔트리급 모델의 발표 및 출시 가능성이 높다고 예상됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "TSMC"
     ],
     "detected_keywords": [],
@@ -495,7 +495,7 @@
     "subheading": "AMD와 Intel의 지속되는 서버 시장 점유율 경쟁",
     "text": "AMD의 서버 시장 점유율은 계속해서 증가해 왔으며, 최근 CEO 발표에 따르면 이는 현재 25%를 돌파했습니다. 이는 TSMC가 4분기에 출시될 최신 Instinct MI300 시리즈 생성형 AI 가속기의 생산을 확정한 이후 나온 발표입니다. 오픈 마켓의 추세에 따르면 현재 AMD의 Milan 및 Genoa 시리즈 서버 CPU가 선호되고 있습니다. 수요가 주로 집중되는 시리즈는 다음과 같습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "TSMC"
     ],
     "detected_keywords": [],
@@ -531,7 +531,7 @@
     "subheading": "",
     "text": "AMD Genoa 서버 CPU 지연: AMD의 4세대 Genoa 9004X 시리즈는 낮은 수율과 대만 TSMC의 칩-온-웨이퍼-온-서브스트레이트(CoWoS) 패키징 병목 현상으로 인해 두세 달의 지연이 발생하고 있습니다. TSMC의 고급 패키징 용량이 5월부터 전부 예약된 상태라 AMD의 차세대 Nvidia 제품 지원 능력도 제한되고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC"
     ],
@@ -791,10 +791,9 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -837,10 +836,9 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -876,10 +874,9 @@
       "TSMC"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,

@@ -53,7 +53,6 @@
       "date": "2026.01",
       "detected_vendors": [
         "Murata",
-        "Taiyo Yuden",
         "삼성"
       ],
       "risk_level": "High",
@@ -113,7 +112,7 @@
     {
       "date": "2026.08",
       "detected_vendors": [],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "PCB 원자재 시장이 큰 충격을 받고 있습니다.",
       "text": "PCB 원자재 시장이 큰 충격을 받고 있습니다. 중동의 지정학적 차질로 전 세계 고순도 PPE 수지 공급이 심각한 제약을 받으면서 PCB 리드타임은 20~30주로 늘어났고 비용은 40% 상승했습니다."
     },

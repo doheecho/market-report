@@ -108,9 +108,8 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   }
 ]

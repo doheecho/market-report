@@ -301,10 +301,9 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -336,10 +335,8 @@
     "detected_vendors": [
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -356,10 +353,8 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -568,8 +563,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   }

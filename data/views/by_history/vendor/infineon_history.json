@@ -245,7 +245,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "초과 공급이 IC 시장에 영향을 미치는 반면 IGBT 공급 부족은 지속",
       "text": "지난 한 달 동안 Infineon은 특정 고전압 MOSFET의 제약을 겪었고 이에 따라 배송 기간이 연장되었습니다. 대신 소비자 시장의 수요 감소에 따라 제조업체에서 초과 재고를 관리하면서 저전압 MOSFET의 공급은 꾸준히 개선되었습니다. 수요 변화로 인해 Infineon에서 생산 능력을 전환해 고전압 MOSFET 지원을 확대할 수 있었고 공급은 현재 안정화되었습니다."
     },
@@ -366,7 +366,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다.",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 두 배 수준인 30~52주로 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면해 있습니다."
     },
@@ -376,7 +376,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon은 2026년 4월 1일부터 전력 IC 제품군 가격 인상을 발표했다.",
       "text": "Infineon은 2026년 4월 1일부터 전력 IC 제품군 가격 인상을 발표했다. 리드타임은 30~52주로 두 배 증가했으며, 이는 Nexperia 수요 유입 영향이다. 중국 러산 공장의 웨이퍼 생산 제약이 지연을 악화시키고 있다."
     },
@@ -386,7 +386,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다.",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다."
     },
@@ -427,7 +427,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다.",
       "text": "Infineon의 공급 제약은 2027년까지 지속될 것으로 예상됩니다. 자동차용 전력 소자와 MCU(예: SAK-TC277TP)의 리드타임은 52주 이상이며, 유통업체들은 가격과 납기 확정 내용을 신뢰하기 어렵다고 보고하고 있습니다."
     },
@@ -437,7 +437,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다.",
       "text": "Infineon 및 Onsemi는 Nexperia의 초과 수요를 흡수하면서 리드타임이 30~52주로 두 배 확대되었습니다. Infineon은 4월 1일부 가격 인상을 발표했으며, Onsemi는 중국 러산(Le Shan) 공장의 웨이퍼 생산 능력 제약에 직면하고 있습니다. 자동차 Tier 1 업체들은 MOSFET 및 전력 관리 IC 할당을 확보하는 데 어려움을 겪고 있다고 보고합니다."
     }

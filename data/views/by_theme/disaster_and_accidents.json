@@ -34,6 +34,46 @@
   },
   {
     "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "",
+    "text": "Yageo의 0402 케이스 크기 104 – 105 정전용량 규격에 대한 수요가 증가하고 있습니다. 이와 유사하게, 삼성의 0402 및 0603 케이스 크기에 대한 수요가 급증하고 있습니다. 대부분의 크기와 커패시턴스 규격 제품의 리드 타임은 안정적이지만, 커패시턴스 값 105, 106, 226 규격 제품의 리드 타임은 늘고 있습니다.",
+    "detected_vendors": [
+      "Yageo",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
+    "subheading": "",
+    "text": "반면에 Murata 는 수익성이 더 좋은 작은 케이스 크기인 0201, 1005 에 초점을 맞춥니다. 현재는 유통업체들이 적은 물량만 배정받는 106 및 107 과 같은 고정전용량 제품을 제외하면 리드 타임이 안정적입니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2020,
     "month": 12,
     "category": "IC",
     "detected_categories": [
@@ -69,6 +109,24 @@
   },
   {
     "year": 2021,
+    "month": 2,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "케이스 크기가 작은 MLCC에 초점을 맞추는 제조업체들",
+    "subheading": "",
+    "text": "코로나19 팬데믹이 뉴 노멀이 되고 재택근무가 계속됨에 따라, 모바일 기기나 게임 콘솔과 같은 제품의 수요가 여전히 높습니다. 따라서 시장에서 소형 MLCC 케이스 크기(0402, 0603, 0805)와 정전용량 1uF 이상의 MLCC에 대한 공급이 부족합니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Natural Disaster / Incident",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
     "month": 4,
     "category": "Other",
     "detected_categories": [
@@ -87,6 +145,27 @@
   },
   {
     "year": 2021,
+    "month": 4,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "Murata, 고객 평가 후에 신규 주문 받기로",
+    "subheading": "",
+    "text": "Murata의 MLCC, 인덕터, SAW 필터의 리드 타임이 늘었습니다. 특히, MLCC의 리드 타임이 16주 이상으로 늘었습니다. 자동차 수요가 급증함에 따라 시장에서 GCM 및 GJM 시리즈 MLCC를 구매하기 점점 어려워지고 있습니다. 특정 고정전용량 제품의 경우 10~30%의 가격 상승도 있습니다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Natural Disaster / Incident",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
     "month": 5,
     "category": "IC",
     "detected_categories": [
@@ -100,6 +179,43 @@
       "Renesas"
     ],
     "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "NXP 자동차 부품, 2021년에 회복되지 않을 수도",
+    "subheading": "",
+    "text": "NXP는 다시 온라인으로 돌아와서 올해 초 정전 이후 생산 손실을 따라잡고 있습니다. 보고서에 따르면, 자동차 제품에 더 많은 생산 능력을 할당하고 있다고 합니다. NXP가 주안점을 바꾸었기 때문에 다른 비자동차 시리즈의 리드 타임이 증가했습니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "수요 증가로 MLCC 공급에 부담 가중",
+    "subheading": "",
+    "text": "네트워크 서버 수요 급증뿐 아니라 끊임없이 변화하는 비트코인 채굴 장비 수요로 인해 고정전용량 MLCC가 가장 큰 타격을 입어 생산량 할당이 이루어지고 있습니다. 리드 타임이 3개월마다 연장되고 있으며, 모든 자동차 부품에 대한 전면적인 할당이 이루어집니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
       "Natural Disaster / Incident"
     ],
     "risk_level": "High"
@@ -156,6 +272,81 @@
       "Lead Time",
       "Natural Disaster / Incident",
       "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "정전으로 인한 일시적 생산 중단",
+    "subheading": "",
+    "text": "Micron의 히로시마 DRAM 공장에서 정전으로 인해 생산이 일시적으로 중단되었습니다. 이곳에서는 주로 DDR4 관련 1베타 DRAM 칩을 생산하고, 하이엔드 스마트폰과 기타 고성능 휴대용 장치와 같은 최종 제품의 공급품을 생산합니다. 이와 유사하게 Renesas 또한 벼락으로 인해 구마모토시 공장 가동이 잠시 중단되었습니다. Renesas MCU의 대부분을 책임지고 있는 이 공장은 7월 11일 전체 생산 능력을 회복했고, 일주일에 해당하는 작업만 손실된 것으로 알려졌습니다.",
+    "detected_vendors": [
+      "Micron",
+      "Renesas"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
+    "subheading": "",
+    "text": "Toshiba Electronic Devices & Storage Corporation의 발표에 따르면, 일본에 있는 Toshiba 시설에서 9월 11일에 정전이 발생하였습니다. 전력 시설을 검사하는 동안 정전으로 인해 생산 중단이 발생하였습니다.",
+    "detected_vendors": [
+      "Toshiba"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
+    "subheading": "",
+    "text": "해당 시설은 가전 제품 및 자동차 장비에 사용되는 범용 MCU를 주로 제조하고 있습니다. 정전은 제조 기계에 아무런 손상을 입히지 않았고 Toshiba는 안정적으로 전체 생산라인의 가종을 재개하였다는 보도가 있었습니다.",
+    "detected_vendors": [
+      "Toshiba"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "일본에서 정전으로 인해 생산에 차질을 초래한 Toshiba",
+    "subheading": "",
+    "text": "그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
     ],
     "risk_level": "High"
   },

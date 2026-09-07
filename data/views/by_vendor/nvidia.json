@@ -164,7 +164,7 @@
     "subheading": "",
     "text": "한편, AMD는 10월 28일에 차세대 GPU를 발표할 예정입니다. 일부 업계 전문가는 차세대 모델의 사양의 NVIDIA의 RTX 3000 시리즈의 사양에 필적하거나 더 나을 것으로 예측합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -253,7 +253,7 @@
     "subheading": "",
     "text": "Nvidia와 직접적인 경쟁 관계에 있는 AMD 는 역시 이번 달 말에 출시 예정인 새로운 ‘Big Navi’ GPU 인 Radeon 의 RX 6000 시리즈 출시를 통해 Nvidia의 RTX 30 시리즈에 정면으로 맞서게 됩니다. AMD 의 ‘Big Navi’ 는 TSMC 7nm 다이를 통합한 제품으로, (Nvidia 의 RTX 30 시리즈에 사용되는) 삼성의 8nm 보다 수율이 높다고 합니다. 따라서 AMD 는 공급에 있어 Nvidia 보다 유리할 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC",
       "삼성"
@@ -272,7 +272,7 @@
     "subheading": "",
     "text": "역사적으로, AMD 는 Nvidia 보다 낮은 가격 벤치마크를 설정했습니다. Nvidia 의 RTX 30 시리즈와 AMD의 ‘Big Navi’ 시리즈가 모두 성능면에서 비슷하다면 가격이 그래픽 부문에서 누가 승자로 떠오를지 결정하는 요인이 될 것 입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -290,7 +290,7 @@
     "subheading": "",
     "text": "Fusion Worldwide 의 고객과 공급업체들은 이러한 공급 부족 현상이 AMD CPU 공급에 영향을 미칠 것이라는 사실을 확인했습니다. 소식통에 따르면 기판 제조업체들은 AMD 보다 Intel 과 Nvidia 를 우선시해 왔고, 더 많은 공급 물량을 확보하려는 이 회사의 노력은 상당히 역부족이었습니다. AMD 는 수익성이 더 높은 고급 CPU 를 위해 최소 1월 말까지 소형 코어 카운트 프로세서에 대한 지원을 축소할 것으로 보입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -327,7 +327,7 @@
     "subheading": "",
     "text": "마지막으로, AMD 가 Nvidia 의 RTX 3000 시리즈에 대한 경쟁 제품으로 새로운 Radeon RX 6000 시리즈 GPU 를 공식 발표한 후 차세대 GPU 에 대한 싸움이 여전히 진행되고 있습니다. AMD 는 또한 Radeon RX 5700 과 같은 구세대 GPU의 생산을 중단하여 차세대를 위한 길을 닦고 생산 용량을 확보했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -344,7 +344,7 @@
     "subheading": "",
     "text": "Nvidia 는 주로 AMD RX 6000 시리즈에 비해 가격과 기능적 성능 면에서 전혀 경쟁력이 없는 이유 때문에 RTX 3080 20GB, 3070Ti 및 3070 16GB 등 3가지 모델 출시 계획을 취소했다는 소문이 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -361,7 +361,7 @@
     "subheading": "",
     "text": "더군다나 AMD 는 새로운 워크스테이션/가속기 GPU 를 공개할 예정인 데, 11월 중순에 출시될 것으로 예상됩니다. 이 제품은 최근 출시된 Nvidia 의 A100 40GB 와 같은 Ampere 시리즈 워크스테이션 GPU와 대항할 것입니다. Nvidia 가 더 나은 수율을 위해 2021년 1분기까지 소비자 등급 GPU 생산을 TSMC 7nm 로 전환하여 공급을 늘리고 시장 점유율을 확보할 것이라는 시장 예측이 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC"
     ],
@@ -441,7 +441,7 @@
     "subheading": "",
     "text": "업계 소식통에 따르면, 최근에 암호화폐 채굴자의 수요 증가세가 워낙 강해 채굴자들이 Nvidia와 AMD로부터 GPU 대량 구매를 위한 직접 지원까지 받았다고 합니다. 최종 고객과의 직접 협력은 주요 제조 파트너와 긴밀히 협력하는 전통적인 유통 전략에서 벗어난 이례적인 일입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -559,7 +559,7 @@
     "subheading": "",
     "text": "AMD의 최신 GPU 시리즈인 Radeon RX6000과 Nvidia의 RTX 3000 시리즈의 공급은 여전히 빠듯합니다. Nvidia는 여러 메이커가 출시한 새 노트북을 비롯해, 다양한 사업분야 시장의 수요에 부응하느라 계속 애를 먹고 있습니다. CMP GPU를 통해 암호화폐 시장을 더욱 세분화하려고 계속 노력 해 왔습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -686,10 +686,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -720,10 +719,8 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -858,7 +855,7 @@
     "subheading": "",
     "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -877,7 +874,7 @@
     "subheading": "",
     "text": "AMD와 Nvidia의 그래픽 카드 가격은 암호화폐 활동의 급증과 세계적인 반도체 공급 부족이 계속되는 가운데 4분기에 들어서면서 6개월 만에 최고치를 기록했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -917,10 +914,8 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -987,7 +982,7 @@
     "subheading": "",
     "text": "TSMC는 이미 고급의 처리 노드를 위해 가격을 10~20% 인상했습니다. 파운드리 가격 인상은 CPU, GPU 및 ASICS 가격에 영향을 줄 것으로 예상됩니다. Tech Wire Asia에 따르면 AMD, Intel, Nvidia는 TSMC의 첨단 노드 기술에 의존하는 제조업체들입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia",
       "TSMC"
@@ -1130,7 +1125,7 @@
     "subheading": "",
     "text": "이제 중국에서 Intel의 첫 번째 개별 Arc GPU를 만나볼 수 있습니다. 수년간 Intel은 칩셋에 2D 및 3D 가속 기능을 포함시켰지만, AMD and Nvidia는 더 강력한 개별 GPU 카드로 시장을 지배했습니다. 2018년에 Intel은 자체적으로 개별 GPU를 제공할 것이며, 2020년에 출하가 시작될 것이라고 말했습니다. 그러나 Intel은 2021년까지 GPU 활동에 대한 Arc 브랜드를 공개하지 않았으며, 2022년 1분기에 데스크톱 및 랩톱용 개별 그래픽 칩 출시를 약속했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -1221,7 +1216,7 @@
     "subheading": "",
     "text": "미국 정부는 중국 및 러시아에 고급 GPU 수출을 금지하는 새로운 라이센스 요건을 NVIDIA와 AMD에 부과했습니다. 홍콩을 포함한 중국에 대해 향후 모든 선적을 금지하는 이러한 행정 명령은 즉시 효력을 발휘하며 출시 예정인 H100 집적 회로에 영향을 주게 됩니다. A100 또는 H100 칩을 사용하는 DGX/EGX/HGX 시스템뿐만 아니라 A100X도 또한 신규 라이센스 요건의 대상입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -1541,10 +1536,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -1561,10 +1555,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -1597,7 +1590,7 @@
     "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "최근 미국 정부는 중국으로의 GPU 수출 금지 대상을 변경했습니다. 11월 중순 해당 조치가 발효되며 이전까지는 해당하지 않았던 NVIDIA, AMD, Intel의 GPU가 영향을 받고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -1616,7 +1609,7 @@
     "subheading": "수출 제한 변경, NVIDIA, AMD, Intel에 영향",
     "text": "RTX 6000, RTX 4090, A30, A40, L4, RTX A6000 (Ampere), DGX, HGX 시스템 및 A100, A800, H100, H800, L40, L40S 등의 NVIDIA 제품이 최근 금지 대상에 올랐습니다. 또한 AMD의 MI250, MI300, Intel의 Gaudi 2 칩도 포함됐습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -1729,8 +1722,7 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1903,13 +1895,11 @@
     "subheading": "GPU: NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
     "text": "이러한 제약에도 수요 적체는 양호한 편이며 곧 회복될 것으로 예상됩니다. 한편, AMD의 MI300X 가속기는 초기에 경쟁 제품인 NVIDIA H100 GPU를 찾던 고객에게서 넘어온 수요로 혜택을 보고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -1922,7 +1912,7 @@
     "subheading": "",
     "text": "AI PC, 데이터 센터 및 엔터프라이즈 부문 수요: 인텔, AMD, 엔비디아의 최신 실적 보고서에 따르면, AI PC 시장이 급격히 성장하며 2026년까지 점유율이 10% 미만에서 50% 이상으로 확대될 것으로 예상됩니다. 또한, 데이터 센터 및 엔터프라이즈 부문에서도 AI 기술의 발전에 힘입어 강한 수요가 나타나고 있습니다. 금융, 의료, 소매, 자동차 등 주요 산업이 성능 개선 및 AI 기반 애플리케이션 도입을 위해 시스템을 업그레이드하고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -1941,7 +1931,7 @@
     "subheading": "",
     "text": "AMD Genoa 서버 CPU 지연: AMD의 4세대 Genoa 9004X 시리즈는 낮은 수율과 대만 TSMC의 칩-온-웨이퍼-온-서브스트레이트(CoWoS) 패키징 병목 현상으로 인해 두세 달의 지연이 발생하고 있습니다. TSMC의 고급 패키징 용량이 5월부터 전부 예약된 상태라 AMD의 차세대 Nvidia 제품 지원 능력도 제한되고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC"
     ],
@@ -1979,7 +1969,7 @@
     "subheading": "",
     "text": "AI, 데이터 센터 및 엔터프라이즈 GPU 수요: Intel, AMD, Nvidia의 최신 실적 보고서에 따르면 AI와 데이터 센터 부문에서 고성능 GPU에 대한 수요가 가속화되고 있습니다. 금융 서비스, 의료, 제조업 등 다양한 산업에서 AI 솔루션을 채채택하면서 GPU 수요가 증가하고 있으며, 생성형 AI 워크로드, 대규모 언어 모델, 클라우드 서비스 도입이 GPU 시장의 성장을 주도하고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -2035,7 +2025,7 @@
     "subheading": "",
     "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -2078,10 +2068,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -2156,7 +2145,7 @@
     "subheading": "",
     "text": "제조업체의 산업 수요 동향에 대한 인사이트: Nvidia와 AMD의 최근 실적 발표에 따르면 소비자 GPU에 대한 수요가 증가하고 있으며, 이는 주로 AI와 게임 산업이 주도하고 있습니다. 엔비디아의 RTX GPU는 AI 기능을 통해 게임 경험을 향상시키고 있으며, 다양한 애플리케이션 및 클라우드 게임 서비스 생태계로 뒷받침되고 있습니다. AMD 또한Radeon 6000 및 7000 시리즈 GPU의 강력한 판매로 게임 그래픽 부문에서 매출 증가를 보고했습니다. 중국을 포함한 소비자 지출의 어려움에도 불구하고, 전통적인 업그레이드 주기가 지속되면서 소비자들이 성능 향상을 위해 GPU를 교체할 것으로 기대됨에 따라 회복이 예상되고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2191,7 +2180,7 @@
     "subheading": "",
     "text": "NVIDIA Blackwell GPU 출시: Nvidia는 Blackwell 소비자용 GPU의 출시 일정을 2025년 초에서 2024년 말로 앞당겼습니다. 이는 AMD의 차세대 RDNA4 시리즈와의 경쟁을 겨냥한 것으로 보입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2209,7 +2198,7 @@
     "subheading": "",
     "text": "AMD와의 경쟁 심화: Nvidia와 AMD가 차세대 제품 출시를 준비하면서 양사의 경쟁이 더 치열해질 것으로 예상됩니다. 특히 연말 휴가 시즌의 수요에 맞춘 제품 출시 시점이 판매 전략과 소비자 GPU 시장 점유율에 큰 영향을 미칠 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2343,7 +2332,7 @@
     "subheading": "",
     "text": "AMD 7900XTX(24GB)는 Deepseek R1 Distill AI 모델에서 NVIDIA 4080보다 20~30%, 4090보다 10% 더 높은 성능을 보이며, 더 낮은 가격과 전력 소비를 제공합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2486,10 +2475,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -2552,7 +2540,7 @@
     "subheading": "",
     "text": "AMD의 7900XTX는 AI 워크로드에서 NVIDIA의 4080보다 우수한 성능을 제공하며, 효율적이고 강력한 솔루션을 원하는 비용 민감형 데이터 센터에서 점점 더 인기를 얻고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2586,7 +2574,7 @@
     "subheading": "",
     "text": "미국은 중국을 대상으로 한 Nvidia H20 및 AMD MI308 등 AI 프로세서 수출을 제한했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2765,7 +2753,7 @@
     "subheading": "",
     "text": "Nvidia, AMD, 중국 칩 판매 매출의 15%를 미국에 납부: 애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2802,7 +2790,7 @@
     "subheading": "",
     "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -2883,10 +2871,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3121,7 +3108,7 @@
     "subheading": "",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -3393,10 +3380,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3889,10 +3875,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -3967,10 +3952,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,

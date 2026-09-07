@@ -145,7 +145,7 @@
     "subheading": "",
     "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Supermicro"
     ],
     "detected_keywords": [
@@ -216,7 +216,7 @@
     "subheading": "",
     "text": "Xilinx 는 또한 모든 Spartan 6 (XC6SLX), Virtex 6 및 7, Kintex 7 (XC7K) FPGA 패밀리 제품에 대해 25% 의 가격 인상이 있을 것이라고 발표했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -331,7 +331,7 @@
     "subheading": "",
     "text": "유통업체와 벤더가 AMD의 EPYC Rome 시리즈 서버 CPU의 재고를 줄여 그 후속 모델인 EPYC Milan 서버 CPU를 위한 공간을 확보하고 있다는 소식을 듣고 있습니다. 이는 오픈 마켓에서 Rome 시리즈의 재고가 즉시 줄어드는 결과로 이어질 수 있고, 가격 상승도 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -423,9 +423,10 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Natural Disaster / Incident",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -958,7 +959,7 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Analog Devices",
       "Broadcom",
       "Nexperia"
@@ -980,14 +981,13 @@
     "subheading": "",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -1111,13 +1111,12 @@
     "subheading": "",
     "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -1206,10 +1205,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1243,7 +1241,7 @@
     "subheading": "",
     "text": "TSMC는 이미 고급의 처리 노드를 위해 가격을 10~20% 인상했습니다. 파운드리 가격 인상은 CPU, GPU 및 ASICS 가격에 영향을 줄 것으로 예상됩니다. Tech Wire Asia에 따르면 AMD, Intel, Nvidia는 TSMC의 첨단 노드 기술에 의존하는 제조업체들입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia",
       "TSMC"
@@ -1300,7 +1298,7 @@
     "subheading": "",
     "text": "AMD은 EPYC 데이터 센터 프로세서 제품 라 전반에서 10~30% 가격을 인상할 것으로 알려졌습니다. 가격은 고객에 따라 다를 것으로 예상됩니다. 제조업체가 운영 차질을 직면하면서 AMD의 CPU 제품 전반에서 가격 인상과 불확실한 배송일이 발생하고 있습니다. 이러한 장애는 제조업체가 웨이퍼와 포장 용량을 제공하기 위해 외부 기업에 의존한 것에 따른 것입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -1435,10 +1433,9 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1861,7 +1858,7 @@
     "subheading": "",
     "text": "모든 시선이 AMD가 EPYC 서버 CPU의 가격을 인상할지 여부에 향해 있습니다. Intel의 최근 가격 인상에 따라 Intel과 AMD 모두 오픈 마켓 가격이 상승세를 탈 것이라고 보는 것이 일반적입니다. 따라서 고객들은 비용 절감 기회가 유지되는 동안 이를 활용할 수 있도록 지금 부품을 구매하는 것이 좋습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -1914,7 +1911,7 @@
     "subheading": "",
     "text": "더블 11 행사로도 알려진 11월 11일 중국의 “광군절”을 맞아 AMD는 Ryzen 7000 시리즈에 대해 새롭고 개선된 가격을 책정했습니다. Intel의 Gen Raptor Lake 할인과 직접 경쟁하기 위해 가격 인하는 23%~27%대에서 이루어졌습니다. 12세대 Alder Lake와 13세대 Raptor Lake의 판매량은 10세대 Comet Lake와 같은 이전 세대에 한참 못미치고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -1935,7 +1932,7 @@
     "subheading": "",
     "text": "AMD 역시 곧 Milan 시리즈의 가격을 올릴 계획입니다. 정확한 가격 상승치는 미정이지만, 고객들은 AMD EPYC Milan CPU와 Intel Cascade Lake, Ice Lake 시리즈를 지금 구매하도록 권장 받고 있으며,  원가 절감의 기회는 여전히 남아 있는 상태입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -1970,7 +1967,7 @@
     "subheading": "",
     "text": "새해부터 Xilinx 전 제품에 걸쳐 가격 인상이 예정된 것으로 알려졌습니다. AMD는 2023년에 Xilinx 재고를 모두 소진하고 생산 리드 타임 주기를 단축하고자 합니다. 현재 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -2268,10 +2265,9 @@
     "text": "32GB와 64GB는 가격 하락과 공급 과잉의 영향을 받아 왔지만, 128GB는 그 반대 상황을 겪고 있습니다. 수요는 계속해서 증가하고 있으며, 공급 제약으로 인해 오픈 마켓 가격은 공식 시장 가격보다 최소 5~10% 더 높습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Decrease",
-      "Shortage"
+      "Price Decrease"
     ],
-    "risk_level": "High"
+    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -2284,7 +2280,7 @@
     "subheading": "PC 시장의 하락세에 비용 절감으로 인한 수요 증가",
     "text": "비용 절감 기회는 특정한 핫 스폿을 창출하려는 수요를 발생시켰지만, PC 시장은 몇 가지 이유로 하락세에 있었습니다. Intel과 AMD는 공식 유통업체 공장의 부품 소비량을 면밀히 모니터링해 왔으며 여기에는 이들이 쏟아내거나 취소하고 있는 주문이 포함되어 있었습니다. 결과적으로 유통업체들은 제시간에 부품을 가져오도록 고객들을 압박하고 있습니다. 이러한 요인 중 일부는 제조업자의 또 다른 가격 조정에 대한 원인이 될 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -2476,10 +2472,9 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -2600,8 +2595,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -2821,13 +2815,12 @@
     "subheading": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
     "text": "이러한 제약은 더 최근 모델인 고성능 7035 시리즈로 생산이 집중되었기 때문으로 보입니다. 시황에 따르면 이달 중 AMD 노트북 CPU의 가격 조정 가능성이 예측됩니다. 이러한 가격 조정에 대한 대비로 티어 1 고객은 11월 말 낮은 가격에 부품을 확보하기 시작했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -3268,7 +3261,7 @@
     "subheading": "DDR 제조사들의 메모리 가격 증가세 지속",
     "text": "Micron은 3분기를 시작하면서 LPDDR5 메모리의 가격을 15% 인상한다고 발표했습니다. 이번 가격 인상은 AI 애플리케이션에 대한 높은 수요 및 구성 요소가 가진 AMD 기반 PC와의 독점적인 호환성에서 비롯되었습니다. LPDDR5 공급은 아직도 늘어나는 수요를 따라가지 못하고 있으며, 예측에 따르면 이러한 추세는 Chromebook, 휴대용 장치, 모빌리티 제품의 추가 출하량 덕분에 하반기까지 이어질 것으로 보입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Micron"
     ],
     "detected_keywords": [
@@ -3380,6 +3373,7 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -3439,7 +3433,7 @@
     "subheading": "",
     "text": "모바일 CPU: 모바일 CPU 시장은 안정화되고 있지만, 일부 품목의 부족과 예상되는 가격 인상으로 선제적 계획과 전략적 구매가 필요합니다. 스마트폰 OEM의 재고 문제는 여전히 수요에 부담을 주고 있으며, 이는 모바일 CPU 시장 전반에 영향을 미치고 있습니다. 마이크론은 최근 실적 발표에서 스마트폰 OEM들이 2025년 봄까지 재고 문제를 해결할 것으로 전망했습니다. 시장 수요는 증가하고 있지만, 일부 Intel과 AMD 프로세서의 공급 부족으로 구매 여건은 혼재된 상황입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Micron"
     ],
@@ -3732,10 +3726,9 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3750,10 +3743,9 @@
     "text": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다. 4월 1일부터 최소 10% 가격 인상이 예정되어 있으며, 분기별로 추가 조정이 있을 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4190,7 +4182,7 @@
     "subheading": "",
     "text": "AMD의 Genoa 및 Turin 리드타임은 전반적으로 8주에서 20주 이상으로 전망됩니다. 9554와 같은 고코어 SKUs의 배정은 극도로 타이트하며 가격 인상도 확인되었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation",
@@ -4328,10 +4320,9 @@
       "Solidigm"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4931,6 +4922,7 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -5087,10 +5079,9 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -5245,10 +5236,9 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -5370,8 +5360,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -5393,10 +5382,9 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -5435,8 +5423,7 @@
     "detected_keywords": [
       "Capacity Expansion",
       "Discommit",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -5653,8 +5640,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -5795,8 +5781,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -5874,10 +5859,9 @@
     ],
     "detected_keywords": [
       "Capacity Expansion",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -6307,8 +6291,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -6330,10 +6313,9 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,
@@ -6372,8 +6354,7 @@
     "detected_keywords": [
       "Capacity Expansion",
       "Discommit",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },

@@ -10,7 +10,7 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Analog Devices",
       "Broadcom",
       "Nexperia"
@@ -642,8 +642,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -782,8 +781,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -806,8 +804,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -827,8 +824,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -870,8 +866,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -1000,8 +995,7 @@
     "detected_keywords": [
       "Discommit",
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -1024,8 +1018,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   }

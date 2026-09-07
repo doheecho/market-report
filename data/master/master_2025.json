@@ -93,7 +93,7 @@
     "subheading": "",
     "text": "AMD의 EPYC Turin 서버 CPUs에 대한 수요가 급증했지만, 특히 고성능 모델의 경우 공급이 여전히 제한적이어서 할당이 어려운 상황입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation"
@@ -111,7 +111,7 @@
     "subheading": "",
     "text": "AMD 7713 단축 할당 문제는 3월 말 생산 계획 변경으로 해결될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation"
@@ -166,7 +166,7 @@
     "subheading": "",
     "text": "AMD의 3세대 Milan 및 4세대 Genoa CPUs는 현재 워크로드 요구를 충족하며 경쟁력을 유지하고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -182,7 +182,7 @@
     "subheading": "",
     "text": "AMD 7900XTX(24GB)는 Deepseek R1 Distill AI 모델에서 NVIDIA 4080보다 20~30%, 4090보다 10% 더 높은 성능을 보이며, 더 낮은 가격과 전력 소비를 제공합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -677,10 +677,9 @@
     "text": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다. 4월 1일부터 최소 10% 가격 인상이 예정되어 있으며, 분기별로 추가 조정이 있을 수 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -787,7 +786,7 @@
     "subheading": "",
     "text": "AMD의 EPYC Turin 서버 CPU에 대한 수요는 계속 증가 중이며, 프로젝트 확대가 늘고 있지만 공급은 여전히 타이트하고 배정 확보가 어렵습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation"
@@ -805,7 +804,7 @@
     "subheading": "",
     "text": "AMD의 3세대 Milan과 4세대 Genoa 서버 CPU는 기업용 컴퓨팅 및 AI 워크로드에서 꾸준한 수요를 보이고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -823,10 +822,8 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -855,7 +852,7 @@
     "subheading": "",
     "text": "Intel과 AMD는 데스크탑 CPU의 신규 리프레시 주기를 준비 중이며, AI 가속 기능이 수요를 견인할 것으로 예상됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -922,7 +919,7 @@
     "subheading": "",
     "text": "AMD의 7900XTX는 AI 모델 처리 성능이 우수하여, 비용 효율적인 대안으로 데이터센터 채택이 늘고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -956,10 +953,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -1084,7 +1080,9 @@
     "subheading": "",
     "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "M&A"
+    ],
     "risk_level": "Low"
   },
   {
@@ -1185,10 +1183,9 @@
       "Texas Instruments"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -1629,7 +1626,7 @@
     "subheading": "",
     "text": "AMD는 데이터센터, AI, 클라이언트 컴퓨팅의 성장에 힘입어 2025년 두 자릿수 매출 성장을 예상하고 있습니다. 특히 AI GPU와 기업 AI 도입에서 강세를 유지할 것으로 보고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2329,7 +2326,7 @@
     "subheading": "",
     "text": "AMD의 EPYC Genoa와 Turin CPU에 대한 수요는 여전히 강세를 보이고 있으며, 특히 엔터프라이즈 AI 워크로드에서 두드러집니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2453,7 +2450,7 @@
     "subheading": "",
     "text": "AMD의 7900XTX는 AI 워크로드에서 NVIDIA의 4080보다 우수한 성능을 제공하며, 효율적이고 강력한 솔루션을 원하는 비용 민감형 데이터 센터에서 점점 더 인기를 얻고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2487,7 +2484,7 @@
     "subheading": "",
     "text": "슈퍼마이크로의 AMD 프로세서를 사용하는 메인보드에 대한 새로운 부족 현상이 발생했으며, 확정된 ETA는 제공되지 않았습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Supermicro"
     ],
     "detected_keywords": [
@@ -2542,10 +2539,8 @@
     "subheading": "",
     "text": "DDR4 32GB/64GB 가격은 공급 제약으로 인해 상승하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -2688,10 +2683,9 @@
     "text": "최신 공급업체 업데이트에 따르면 MFG는 Chitose 공장에서 일부 제품에 한해 운영을 재개했습니다. 고객 우선순위와 사용량에 따라 할당이 결정되며, 공급 제약은 8월까지 지속될 것으로 예상됩니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -2840,7 +2834,7 @@
     "subheading": "",
     "text": "미국은 중국을 대상으로 한 Nvidia H20 및 AMD MI308 등 AI 프로세서 수출을 제한했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -3077,10 +3071,9 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -3093,7 +3086,7 @@
     "subheading": "",
     "text": "AMD’s EPYC Turin 및Genoa CPUs는 AI 및 데이터 센터 분야에서 강한 성장세를 유지하고 있습니다. 그러나 수요가 예상을 초과하면서 공급은 여전히 부족한 상태입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3111,7 +3104,7 @@
     "subheading": "",
     "text": "AMD Milan CPUs는 공급 긴축 및 가격 불안정이 나타나고 있으며, OEM은 2분기(Q2) 말까지 계약 단가 상승을 예측합니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3141,7 +3134,7 @@
     "subheading": "",
     "text": "AMD 임베디드 CPU 가격이 15–20% 상승하며 공급 부족 심화 및 산업 고객의 수요 증가를 나타냅니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3809,7 +3802,7 @@
     "subheading": "",
     "text": "AMD 투린 시리즈의 수요는 고코어 수 프로세서를 요구하는 EU/미국의 강력한 수요로 증가하고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4132,10 +4125,8 @@
     "subheading": "",
     "text": "저용량 엔터프라이즈 SSDs 공급은 여전히 제약을 받고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -4196,10 +4187,8 @@
     "detected_vendors": [
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -4466,10 +4455,9 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4482,7 +4470,7 @@
     "subheading": "",
     "text": "AMD Ryzen 8000 시리즈는 극도로 제한된 가용성 문제에 직면해 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4498,7 +4486,7 @@
     "subheading": "",
     "text": "AMD Turin 및 Genoa 서버 CPU 수요는 EU/미국의 고코어 프로세서 수요 증가에 힘입어 늘어나고 있으며, 더 긴 리드타임이 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -4755,10 +4743,8 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -4858,7 +4844,7 @@
     "subheading": "",
     "text": "Nvidia, AMD, 중국 칩 판매 매출의 15%를 미국에 납부: 애널리스트들은 이 부담금이 칩 제조업체들의 이익률에 타격을 줄 수 있으며, 핵심 미국 수출품에 대한 과세 선례를 만들어 반도체를 넘어 확장될 수 있다고 말했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -4973,7 +4959,7 @@
     "subheading": "",
     "text": "GPU & NIC 배정은 전략적 유지: Nvidia의 Blackwell 시리즈는 (일부 모델 리드타임이 2026년 1분기까지 이어지고 있습니다). ConnectX-7 NIC 카드는 원자재 부족으로 제약이 지속되고 있으나 개선 조짐이 나타나고 있습니다. AMD의 Turin 및 Genoa 서버 CPU는 이제 20주 이상의 리드타임을 보이고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -5033,10 +5019,9 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -5106,7 +5091,7 @@
     "subheading": "",
     "text": "AMD의 Genoa 및 Turin 리드타임은 전반적으로 8주에서 20주 이상으로 전망됩니다. 9554와 같은 고코어 SKUs의 배정은 극도로 타이트하며 가격 인상도 확인되었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation",
@@ -5330,10 +5315,8 @@
     "subheading": "",
     "text": "AI 서버용 96GB 및 128GB 고밀도 DDR5 모듈이 가장 제약이 심각합니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -5405,10 +5388,9 @@
       "Solidigm"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -5736,7 +5718,7 @@
     "subheading": "",
     "text": "AMD 제노아 CPU 가격은 희소성을 반영해 상승세를 이어가고 있다. 구체적인 4분기 가격은 명시되지 않았지만, 서버 CPU에 대한 전반적인 시장 압박으로 인해 상승 압력이 지속될 것으로 보인다. 부족 현상은 고코어 수 처리기를 향한 EU/ US의 강한 수요 배경 속에서 발생하고 있다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -5790,10 +5772,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -5889,10 +5870,8 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -5985,10 +5964,9 @@
     "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -6347,7 +6325,7 @@
     "subheading": "",
     "text": "AMD의 Genoa 및 Turin 서버 CPU는 이제 24주 리드타임에 직면하고 있다. 고객들은 AMD가 수요 예측을 “참고용”으로만 수락하고 실제 할당을 보장하지 않아, 핵심 프로젝트를 위해 오픈마켓 지원을 찾을 수밖에 없다고 보고하고 있다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation",
@@ -6866,7 +6844,7 @@
     "subheading": "",
     "text": "자일링스XC7 시리즈는 원자재 공급 및 비용 영향으로 최근 리드타임이 14~23주로 연장되었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -6922,7 +6900,7 @@
     "subheading": "",
     "text": "AMD 서버 CPU는제노아 및 투린 시리즈에서 지속적으로 공급 이슈를 겪고 있습니다. 특히 9554, 9654, 9334의 공급이 제한적이며, 예약 리드타임은 약 8~12주 수준입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -6940,7 +6918,7 @@
     "subheading": "",
     "text": "서버 외 세그먼트에서는 AMD 데스크톱 CPU 리드타임이 3~4주로 안정화되어, 전반적으로 타이트한 시장에서 드문 긍정 요인으로 평가됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -7384,7 +7362,7 @@
     "subheading": "",
     "text": "AMD의 Genoa 및 Turin 서버 CPU는 이제 24주 리드타임에 직면하고 있다. 고객들은 AMD가 수요 예측을 “참고용”으로만 수락하고 실제 할당을 보장하지 않아, 핵심 프로젝트를 위해 오픈마켓 지원을 찾을 수밖에 없다고 보고하고 있다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation",

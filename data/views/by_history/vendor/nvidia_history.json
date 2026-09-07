@@ -405,7 +405,7 @@
       "detected_categories": [
         "GPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "이런 소식에도 불구하고, Nvidia는 소화해야 할 막대한 수주 잔고를 안고 있어 당분간은 공급 제약에 시달릴 것으로 예상합니다.",
       "text": "이런 소식에도 불구하고, Nvidia는 소화해야 할 막대한 수주 잔고를 안고 있어 당분간은 공급 제약에 시달릴 것으로 예상합니다. Nvidia는 가장 인기 있는 제품군인 3080, A6000 등에 생산 능력을 할당하고 있어 수주 잔고를 해소하기까지 다소 시간이 걸릴 것입니다. 그렇지만, 미국의 카드 공급업체들은 3분기 중반이면 공급에 숨통이 트일 것으로 안내하고 있습니다. 그렇게 된다면 미국 시장에서 더 낫고 안정적인 가격 책정으로 이어질 것입니다."
     },
@@ -425,7 +425,7 @@
       "detected_categories": [
         "GPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "중고 GPU가 시장에 넘쳐났고 많은 중국 채굴업자가 Nvidia에 주문했던 물량을 취소하고 있습니다.",
       "text": "중고 GPU가 시장에 넘쳐났고 많은 중국 채굴업자가 Nvidia에 주문했던 물량을 취소하고 있습니다. 그래서 고객 입장에서는 공급량이 약간 증가하는 것으로 보이지만, 유통업체와 소매업체는 여전히 제약을 받고 있습니다."
     },
@@ -539,7 +539,7 @@
       "detected_categories": [
         "GPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "RTX 3070에 대한 수요 증가로 Nvidia RTX 3090 GPU가 지속적으로 더욱 제약받고 있습니다.",
       "text": "RTX 3070에 대한 수요 증가로 Nvidia RTX 3090 GPU가 지속적으로 더욱 제약받고 있습니다."
     },
@@ -914,7 +914,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "NVIDIA, 신제품 발표에 따른 GPU 수요 증가로 분투",
       "text": "전반적으로 소비자용 그래픽 카드의 수요는 저조했으며, 특히 중저가 시리즈의 경우 이러한 경향이 두드러졌습니다. RTX4090과 같은 하이엔드 시리즈에 대한 공급은 여전히 제한적이며, 이는 주로 GPU 칩셋의 부적절한 할당과 RTX4090 블로어 및 터보 시리즈에 대한 수요 증가 때문입니다. NVIDIA는 AI 및 기업 고객이 대체품으로 전환하지 않도록 적극적으로 노력하고 있습니다. 그러나 충성도를 유지하라는 NVIDIA의 권고에도 불구하고 공급 제약이 지속될 경우 고객의 유일한 선택지는 대체품이 될 수도 있습니다."
     },
@@ -925,7 +925,7 @@
         "GPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "공급 제약과 함께 계속 연장되는 NVIDIA 리드 타임",
       "text": "NVIDIA의 Tesla 시리즈는 여전히 공급이 제한되어 있습니다. 이러한 제약으로 인해 AI 및 딥 러닝 고객들은 대체 GPU를 찾게 되었고, 그 결과 A10, A30, A40에 대한 수요가 급증했습니다. 수요 증가에 힘입어 아시아 시장에 집중적으로 상승하면서 예상치 못한 상승 추세로 인해 가격도 뒤따랐습니다. 여러 산업 분야에서 수요가 급증함에 따라 메인스트림 워크스테이션 시리즈의 리드 타임도 연장되었습니다."
     },
@@ -1127,7 +1127,7 @@
         "GPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "GPU: NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
       "text": "이러한 제약에도 수요 적체는 양호한 편이며 곧 회복될 것으로 예상됩니다. 한편, AMD의 MI300X 가속기는 초기에 경쟁 제품인 NVIDIA H100 GPU를 찾던 고객에게서 넘어온 수요로 혜택을 보고 있습니다."
     },
@@ -1225,7 +1225,7 @@
         "Memory",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "고대역 메모리 (HBM): 시장은 급증하는 수요와 생산 능력 조정으로 인해 심각한 제약을 받고 있습니다.",
       "text": "고대역 메모리 (HBM): 시장은 급증하는 수요와 생산 능력 조정으로 인해 심각한 제약을 받고 있습니다. AI 애플리케이션의 급속한 성장과 Nvidia의 시장 지배력이 수요 환경을 악화시키고 있으며, 이로 인해 리드 타임과 가격 압박이 가중되고 있습니다."
     },
@@ -1459,7 +1459,7 @@
       "detected_categories": [
         "GPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "NVIDIA는 Blackwell GPU 공급을 핵심 고객에게 우선 배정하고 있어, 일반 시장에 대한 공급은 제약되고 있습니다.",
       "text": "NVIDIA는 Blackwell GPU 공급을 핵심 고객에게 우선 배정하고 있어, 일반 시장에 대한 공급은 제약되고 있습니다. 신규 주문의 리드 타임은 4~5개월로 예상됩니다."
     },
@@ -1685,7 +1685,7 @@
         "GPU",
         "Memory"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "엔비디아 GeForce RTX 5090 공급이 GDDR7 메모리 제약으로 계속 타이트해지고 있다.",
       "text": "엔비디아 GeForce RTX 5090 공급이 GDDR7 메모리 제약으로 계속 타이트해지고 있다. 이에 따라 가격은 최소 9% 상승할 것으로 예상되며, 리드타임은 2026년 1월로 밀려 고수요 소비자 GPU에 대한 지속적인 수급 불균형을 시사한다."
     },
@@ -1971,7 +1971,7 @@
         "GPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     },
@@ -2241,7 +2241,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다.",
       "text": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다. AI 인프라 수요가 가용 생산 능력의 상당 부분을 흡수하고 있습니다."
     },
@@ -2283,7 +2283,7 @@
         "GPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     },

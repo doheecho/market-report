@@ -28,7 +28,7 @@
     "subheading": "",
     "text": "신임 CEO가 Intel을 다시 옛 영광의 시대로 되돌리고 AMD가 장악한 CPU 시장 점유율을 빼앗아 올지에 모든 이목이 쏠릴 것입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -183,7 +183,7 @@
     "subheading": "",
     "text": "AMD는 CES 2021에서 Ryzen 5000, Zen 3 Cezanne 및 Zen 2 Lucienne 모바일 CPU 출시를 공식 발표했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -199,7 +199,7 @@
     "subheading": "",
     "text": "또한, 이르면 3월 말에 출시될 것으로 예상되는 3세대 EPYC 서버 CPU Milan도 발표했습니다. 데스크톱 및 모바일 환경에서 시장 점유율을 확보하면서 AMD의 목표는 EPYC 서버 CPU 출시를 통해 서버 공간에서 인텔의 거점에 도전하는 것이 었습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -216,12 +216,10 @@
     "subheading": "",
     "text": "AMD가 힘차게 끌었음에도, 생산능력의 제약으로 이런 출시 계획이 어려울 수도 있습니다. AMD가 제한된 용량와 ABF 기판 문제로 인해 엄청난 수요를 따라잡을 수 있을지 확실치 않습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -235,7 +233,7 @@
     "subheading": "",
     "text": "그 밖에도, AMD는 Radeon RX 6000 RDNA 2 GPU의 노트북 버전을 2021년 상반기에 공개할 계획입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -537,13 +535,11 @@
     "subheading": "",
     "text": "연휴 이후 DIMM 수요가 30% 증가해 기업 고객이 가장 많이 찾는 32GB RDIMM의 오픈 마켓 가격이 5~10% 상승했습니다. AMD가 서버 부문에서 Intel을 극복하기 위한 전략으로 4월에 3세대 EPYC Milan CPU 출시를 준비함에 따라 제약이 심한 서버 DIMM 공급에 추가적인 압박이 가해지고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -572,10 +568,8 @@
     "subheading": "",
     "text": "즉, 시장 제약 조건은 단기적으로 해결되지 않을 것이며 앞으로 몇 달 동안 물가가 계속 오를 것이 거의 확실합니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -680,10 +674,8 @@
     "subheading": "",
     "text": "유통업체들은 계속 높은 가격을 유지할 가능성이 있고 다른 구성부품에 대한 공급이 계속 제약될 경우 가격이 더욱 상승할 수 있어 고객들이 Wi-Fi 모듈을 위한 오픈 마켓으로 눈을 돌리게 될 것이라고 경고하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -782,7 +774,7 @@
     "subheading": "",
     "text": "채굴 활동 증가에 대응해, AMD는 전통적인 제조 및 유통 파트너를 통하는 방식 대신 다른 전략을 택해 암호화폐 채굴기를 직접 공급하고 있습니다. 이로 인해 많은 AMD 유통 파트너가 RX570, RX580, RX5700, RX5800을 포함한 모델에서 공급 부족에 시달리고 있습니다. 이는 지난해 PS5 도입으로 인한 공급 부족에 가중된 어려움입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -801,7 +793,7 @@
     "subheading": "",
     "text": "AMD는 신규 모델의 제한적 공급에도 불구하고 새로 출시된 RX6000 시리즈에 대한 수요를 촉진하기 위해 RX5000 시리즈의 수명 종료를 발표할 것으로 예상됩니다. RX5000 시리즈의 재고 수준과 가격이 회복될 것으로 예상할 수는 없습니다. AMD는 매출과 이익을 극대화하기 위해 독립 실행형 GPU가 아닌 더 큰 규모의 제품 패키지(예: 마더보드 포함)의 일부로 나머지 재고를 제공할 수 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "EOL"
@@ -872,10 +864,9 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -888,7 +879,7 @@
     "subheading": "",
     "text": "유통업체와 벤더가 AMD의 EPYC Rome 시리즈 서버 CPU의 재고를 줄여 그 후속 모델인 EPYC Milan 서버 CPU를 위한 공간을 확보하고 있다는 소식을 듣고 있습니다. 이는 오픈 마켓에서 Rome 시리즈의 재고가 즉시 줄어드는 결과로 이어질 수 있고, 가격 상승도 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -924,7 +915,7 @@
     "subheading": "",
     "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Sony",
       "TSMC"
     ],
@@ -944,7 +935,7 @@
     "subheading": "",
     "text": "기판 공급 부족 외에도 이러한 칩에 대한 경쟁 격화로 앞으로 AMD의 모든 CPU 시리즈에 걸쳐 심각한 공급 부족이 발생할 것으로 예상됩니다. 그 결과, 이러한 제품의 리드 타임은 계속 연장되기만 할 것입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -963,7 +954,7 @@
     "subheading": "",
     "text": "한편, AMD가 계속 고객에게 제품 공급을 제때 하지 못하고 약속을 이행하지 않으면 Intel에게는 이익이 됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -981,7 +972,7 @@
     "subheading": "",
     "text": "2021년 1월에서 2월 사이에 비트코인의 가격이 30,000달러 이상에서 50,000달러 이상으로 상승했습니다. AMD의 서버 CPU가 비트코인 채굴자에게 인기를 끌면서, 제조업체들이 생산 할당을 받으려 치열하게 경쟁하고 있습니다. AMD 서버 CPU의 지속적인 공급 부족 때문에, 현재 공급량이 엄청난 수요에 부응하기에는 너무 제한적입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Allocation",
@@ -1246,6 +1237,7 @@
     "text": "코로나19 팬데믹이 뉴 노멀이 되고 재택근무가 계속됨에 따라, 모바일 기기나 게임 콘솔과 같은 제품의 수요가 여전히 높습니다. 따라서 시장에서 소형 MLCC 케이스 크기(0402, 0603, 0805)와 정전용량 1uF 이상의 MLCC에 대한 공급이 부족합니다.",
     "detected_vendors": [],
     "detected_keywords": [
+      "Natural Disaster / Incident",
       "Shortage"
     ],
     "risk_level": "High"
@@ -1523,7 +1515,7 @@
     "subheading": "",
     "text": "업계 소식통에 따르면, 최근에 암호화폐 채굴자의 수요 증가세가 워낙 강해 채굴자들이 Nvidia와 AMD로부터 GPU 대량 구매를 위한 직접 지원까지 받았다고 합니다. 최종 고객과의 직접 협력은 주요 제조 파트너와 긴밀히 협력하는 전통적인 유통 전략에서 벗어난 이례적인 일입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -1652,10 +1644,8 @@
       "Intel",
       "Realtek"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -1682,7 +1672,7 @@
     "subheading": "",
     "text": "이전에는 AMD의 EPYC Rome 서버 CPU에 대한 수요가 미국에 비해 아시아에서 상대적으로 더 높았지만, AMD의 CPU가 시장 점유율을 더 높임에 따라 그 수요가 달라졌습니다. 이는 미국에서 진행 중인 관세 부과로 인한 것으로, AMD로서는 어쩔 수 없이 중국 이외 지역의 COO 부품을 아시아에서 미국으로 빼내야 했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Tariff"
@@ -1700,7 +1690,7 @@
     "subheading": "",
     "text": "결과적으로, 고객은 AMD와의 거래가 끊기거나 AMD의 인도 리드 타임이 늘어나는 문제에 직면할 수 있습니다. 제한적인 기판 공급 외에도, 이처럼 제한적인 TSMC 생산 능력과 AMD EPYC Milan 시리즈의 출시로 인해 Rome 서버 CPU 공급이 회복되기는 쉽지 않을 것 입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "TSMC"
     ],
     "detected_keywords": [
@@ -2100,9 +2090,10 @@
     ],
     "detected_keywords": [
       "Lead Time",
+      "Natural Disaster / Incident",
       "Price Increase"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -2412,7 +2403,7 @@
     "subheading": "",
     "text": "4월에 예측한 바와 같이, 기판 공급 부족으로 인해 AMD의 EPYC Rome 서버 CPU의 오픈 마켓 리드 타임이 연장되는 문제가 나타나고 있습니다. 후속 모델 EPYC Milan이 출시되었지만, 오픈 마켓 공급은 제한적이었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -2435,10 +2426,8 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -2453,7 +2442,7 @@
     "subheading": "",
     "text": "다른 소식으로는, Intel이 2021년에 Ice Lake Xeon의 후속 모델인 Sapphire Rapids도 출시할 것이라는 소문도 있습니다. 만약 이게 사실이라면 시장에서는 Ice Lake와 Sapphire Rapids에 대한 수요를 모두 소화해야 할 것이고, 이로 인해 역시 올해 말 출시될 것이라는 소문이 도는 AMD의 4세대 EPYC 서버인 Genoa와 정면 충돌할 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -2623,9 +2612,10 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Natural Disaster / Incident"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -2961,7 +2951,7 @@
     "subheading": "",
     "text": "AMD의 최신 GPU 시리즈인 Radeon RX6000과 Nvidia의 RTX 3000 시리즈의 공급은 여전히 빠듯합니다. Nvidia는 여러 메이커가 출시한 새 노트북을 비롯해, 다양한 사업분야 시장의 수요에 부응하느라 계속 애를 먹고 있습니다. CMP GPU를 통해 암호화폐 시장을 더욱 세분화하려고 계속 노력 해 왔습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -3257,10 +3247,8 @@
     "subheading": "",
     "text": "메모리 제조업체는 3분기에 예상되는 공급 제약으로 인해 공식 가격을 계속 더 올릴 수 있습니다. 전반적으로, 5월 공식 가격은 서버 DIMM의 모든 용량에서 3~5% 상승했습니다. 사람들이 계속 재택근무를 하면서 흔들리는 코로나19 관련 조치의 효과가 메모리 공급망에 계속 영향을 미치고 있어, 데이터 센터 관련 산업을 위한 수요가 증가하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -3310,10 +3298,8 @@
     "subheading": "",
     "text": "SSD의 공급이 계속 제한적이며, 주로 최대 1.92TB의 적은 용량에 대해 수요가 계속 강세를 띠고 있습니다. 또한, IC 컨트롤러 공급 제약으로 SSD 생산에 계속 어려움이 있고, 벤더들은 이 문제가 한 분기 이상 계속될 것이라는 의견을 공유했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -3344,10 +3330,8 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -3424,12 +3408,10 @@
     "subheading": "",
     "text": "AMD의 EPYC Rome 공급은 여전히 오픈 마켓에서 심하게 제약받고 있습니다. 그 결과, 가격은 지난 몇 개월에 비해 거의 두 배로 뛰었습니다. 더욱이, 공급 제한과 프리미엄 가격이라는 상황이 한 동안 계속될 것으로 예상합니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -3460,7 +3442,7 @@
     "subheading": "",
     "text": "오픈 마켓에서 AMD의 Ryzen 5000 시리즈에 대한 공급량이 적습니다. 더욱이, 이 CPU에 필요한 그래픽 카드가 극히 부족해 오픈 마켓 가격이 매우 높게 형성되어 있습니다. 이로 인해 고객은 11 세대 Tiger Lake 데스크탑 CPU와 같은 Intel의 다른 데스크탑 제품으로 전환하게되었습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -3571,7 +3553,7 @@
     "subheading": "",
     "text": "AMD의 GPU 공급이 여전히 부족한 상황입니다. AIB(Add-In-Board) 파트너는 수중에 GPU 재고가 남아 있지 않고 AMD의 공급을 기다리는 동안 5월 말부터 생산이 중단되었다는 소식을 공유했습니다. 3분기 GPU 공급이 2021년 상반기보다 훨씬 더 안 좋아 질 것을으로 예상됩니다. 공급 부족 상황이 2022년까지 계속될 것 같습니다. 특히 AMD의 RX5700과 RX6800에 제한적 입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3659,7 +3641,7 @@
     "subheading": "",
     "text": "AX200 공급 부족 상황도 악화할 것으로 예상됩니다. AMD는 AYANEO - AMD RZ608(Mediatek MT7921K의 리브랜딩 버전)과 제휴하여 자체 Wi-Fi 모듈을 출시함으로써 Wi-Fi 모듈 공급 부족에 대한 해결책을 찾은 것으로 보입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Mediatek"
     ],
     "detected_keywords": [
@@ -3710,7 +3692,7 @@
     "subheading": "",
     "text": "데스크톱 수요가 증가했음에도, 다른 필수 재료의 부족으로 인해 지속적인 게이팅 문제가 발생하고 계속해서 데스크톱 컴퓨터 생산이 중단되고 있습니다. Intel이 AMD와 경쟁하기 위해 새로운 데스크톱 시리즈의 출시를 서두르면서, 고객이 제품 전환에 따른 혼란에 휩싸였습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -3763,7 +3745,7 @@
     "subheading": "",
     "text": "AMD의 2세대 Rome 및 3세대 Milan EPYC 서버 CPU는 시장에서 여전히 원하는 사람이 많습니다. 2세대 Rome에 대한 공급 부족이 계속됨에 따라 제조업체가 소량의 공급을 받고는 있지만, 생산 수요에는 턱없이 부족한 실정입니다. 특히 AMD가 POS(Point of Sale) 및 재고를 면밀히 모니터링하고 있기 때문에 공개 시장에서 거래하여 제한된 공급을 위험에 빠뜨리지 않을 것입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3781,7 +3763,7 @@
     "subheading": "",
     "text": "공급업체에 따르면 3분기 말 이후로는 AMD의 3세대 Milan에 대한 공급이 소량에 그칠 것이라고 합니다. 공급업체들은 제한적 공급뿐 아니라 AMD의 모니터링으로 인해 많은 재판매 기회를 기대하고 있지 않습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3798,7 +3780,7 @@
     "subheading": "",
     "text": "게다가, AMD는 1세대 Naples EPYC 서버 CPU의 미판매 재고를 반송하라고 유통업체를 압박하고 있습니다. AMD는 그 제품을 사용하는 다른 시스템 통합업체가 2세대 Rome 및/또는 3세대 Milan을 기다리게 하는 대신, 이러한 CPU를 이들 통합업체에 판매하려고 할 가능성이 높습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4026,9 +4008,10 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Natural Disaster / Incident"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,
@@ -4284,10 +4267,9 @@
       "Nvidia"
     ],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -4350,8 +4332,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -4435,7 +4416,7 @@
     "subheading": "",
     "text": "더욱이, Intel은 현재 모바일 CPU 부문에서 AMD를 상대로 경쟁하면서 고객의 눈길을 받고자, 기판 공급에 할당하던 자원을 모바일 CPU 생산으로 더 많이 돌리고 있습니다. 결과적으로, Intel은 네트워크 카드에서 점점 다른 곳으로 주력 종목을 옮기고 있어, 이더넷 카드 공급이 빠듯해지고 리드 타임이 길어지고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -4993,10 +4974,8 @@
     "subheading": "",
     "text": "특히 1TB와 2TB의 소용량 드라이브는 최악의 제약 조건에 직면해 있습니다. 공장에서는 부품을 출하하고 있지만, 수량이 적고 기존 수요를 감당하지 못합니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -5058,10 +5037,8 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -5190,10 +5167,8 @@
     "subheading": "",
     "text": "이더리움 채굴은 한 해 더 연장될 수 있으며 이에 따라 수요 유지가 보장되겠지만, 이더리움 가격에 따라 달라질 것입니다. 현재 가격 이상으로 유지되면 수요가 지속되고 GPU 가격이 가능한 최고 수준으로 책정될 것입니다. 결론적으로, 공급 제약은 계속 있을 것이라는 뜻입니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -5207,7 +5182,7 @@
     "subheading": "",
     "text": "Windows 10이 출시된 지 6년이 흐른 현재, Microsoft는 올해 말에 OS Windows 11을 출시할 예정이라고 발표했습니다. 소문에 따르면, 현재 윈도우 10을 사용하는 제조업체는 윈도우 11으로 무료 업그레이드를 받게 될 것이라고 하지만, CPU와의 시스템 호환성을 기준으로 결정할 것입니다. 참고로, Windows 11의 최소 요구 사항은 Intel의 8세대 Coffee Lake 또는 AMD의 Zen+ Pinnacle Ridge입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -5225,7 +5200,7 @@
     "subheading": "",
     "text": "올해 Windows 11이 언제 출시되느냐에 따라 다르겠지만, Intel의 10세대 Comet Lake/Ice Lake 또는 AMD의 Zen 3 Vermeer/Zen 3 Cezanne이 탑재된 향후 데스크톱 및 노트북에 있을 것으로 예상합니다. Intel과 AMD의 공급 지원에 따라, 새로 조립하는 제품에 Windows 11에서 작동하는 CPU를 통합하거나 통합하지 않을 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -5260,10 +5235,8 @@
     "subheading": "",
     "text": "그럼에도, 우리는 오픈 마켓에서 Cascade Lake의 공급, 특히 중간 시리즈 제품(32xx, 32xxR, 52xx, 52xxR)의 진입에 제약이 따르는 문제를 지켜봤습니다. 이 때문에, Cascade Lake 시리즈를 계속 사용할 계획인 고객이라면 공급 여건이 심히 빠듯해지고 오픈 마켓 가격이 지나치게 오르기 전에 완충 재고를 확보하실 것을 촉구합니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -6007,7 +5980,7 @@
     "subheading": "",
     "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -6073,7 +6046,7 @@
     "subheading": "",
     "text": "그래픽 카드 가격은 여전히 높고 공급은 계속해서 제한적이므로, Zen 3 Cezanne G-Series 데스크톱 프로세서가 계속 인기를 끌고 있고 내장형 Radeon Graphics 덕분에 소비자들이 많이 찾습니다. 아쉽게도, AMD는 소량의 공급 물량만 풀고 있어 압도적인 수요를 감당하기에는 확실히 충분치 않습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -6156,7 +6129,7 @@
     "subheading": "",
     "text": "결과적으로, Intel의 11세대 Rocket Lake 데스크톱 CPU와 10세대 Comet Lake 데스크톱 공급은 Intel이 AMD에 잃은 이전의 시장 점유율을 되찾겠다는 목표로 12세대 Alder Lake CPU를 우선시함에 따라 축소될 것 같습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -6466,7 +6439,7 @@
     "subheading": "",
     "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Analog Devices",
       "Broadcom",
       "Nexperia"
@@ -6488,14 +6461,13 @@
     "subheading": "",
     "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -6719,7 +6691,7 @@
     "subheading": "",
     "text": "AMD와 Nvidia의 그래픽 카드 가격은 암호화폐 활동의 급증과 세계적인 반도체 공급 부족이 계속되는 가운데 4분기에 들어서면서 6개월 만에 최고치를 기록했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -6738,7 +6710,7 @@
     "subheading": "",
     "text": "AMD의 Radeon 시리즈 GPU는 시장에서 재고를 찾기가 어려워 MSRP(권장소비자가격)보다 83% 높은 것으로 알려졌습니다. 보도에 따르면, RX 6800 시리즈가 가장 찾기 힘든 카드로 손꼽혔고 가격 급등에 기여했다고 합니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -6793,10 +6765,8 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -6846,7 +6816,7 @@
     "subheading": "",
     "text": "12세대 Alder Lake 데스크톱 CPU는 Intel의 첫 번째 10NM 노드로, AMD 7NM 노드 Zen 3 CPU와 긴밀히 연결되도록 합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -6863,7 +6833,7 @@
     "subheading": "",
     "text": "AMD는 Milan CPU보다 Rome CPU를 우선시하여 그 생산 비율을 30%에서 70%로 전환하여 생산에 다시 초점을 맞출 것이라고 합니다. 이는 시장 점유율을 높이기 위해 고마진 및 프리미엄 모델 부품 생산을 추진하겠다는 AMD의 의도를 강조해 줍니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -6898,10 +6868,9 @@
     "text": "서버 제작 전반에 널리 사용되는 네트워크 어댑터 카드가 서버에 대한 게이팅 문제로 이어져 상당한 공급 제약과 배송 지연을 일으켰습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -6990,10 +6959,9 @@
     "text": "이러한 500 및 700 시리즈 컨트롤러는 2015년으로 거슬러 올라갈 정도로 오래된 제품이며 생산 및 공급 라인이 갑작스러운 수요 증가에 맞춰 준비되어 있지 않아, 최근의 주요 공급 제약과 극심한 리드 타임(2023/2024년까지 인도되지 않을 것으로 예상)이 발생했습니다. 이로 인해 가격이 원래 단가의 5~10%까지 인상되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -7103,10 +7071,8 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -7120,13 +7086,12 @@
     "subheading": "",
     "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2021,
@@ -7258,10 +7223,8 @@
     "detected_vendors": [
       "Nvidia"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -7375,7 +7338,7 @@
     "subheading": "",
     "text": "AMD의 CPU는 채굴용으로 만들어지지 않았지만 AMD EPYC 및 Ryzen 9 프로세서를 포함하고 있는 최대 크기의 L3 캐시를 가진 프로세서, 스레드리퍼 서버 및 워크스테이션 CPU와 함께 사용할 수 있습니다. 수요가 계속 증가하면 이러한 칩의 가격도 상승할 것입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

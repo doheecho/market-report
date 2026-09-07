@@ -91,8 +91,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -200,7 +199,7 @@
     "subheading": "",
     "text": "AMD는 신규 모델의 제한적 공급에도 불구하고 새로 출시된 RX6000 시리즈에 대한 수요를 촉진하기 위해 RX5000 시리즈의 수명 종료를 발표할 것으로 예상됩니다. RX5000 시리즈의 재고 수준과 가격이 회복될 것으로 예상할 수는 없습니다. AMD는 매출과 이익을 극대화하기 위해 독립 실행형 GPU가 아닌 더 큰 규모의 제품 패키지(예: 마더보드 포함)의 일부로 나머지 재고를 제공할 수 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "EOL"
@@ -333,8 +332,7 @@
       "Broadcom"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -518,8 +516,7 @@
     "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1059,8 +1056,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -1258,8 +1254,7 @@
     "text": "현재 공급 제약을 겪고 있는 Cascade Lake와 Cascade Lake Refresh 시리즈 등 수요가 가장 많은 제품의 일부는 단종(EOL)되었습니다. 가장 영향을 받은 품목은 Silver 및 Gold 시리즈입니다. 대신 3세대 Ice Lake 시리즈 수요도 증가하고 있으나, 이는 특별 가격을 이용할 수 없는 문제로 인한 것입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1314,8 +1309,7 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1330,7 +1324,7 @@
     "subheading": "주요 제품 변경 알림을 발표한 Xilinx",
     "text": "Xilinx는 XC9500XL, CoolRunner XPLA 3, CoolRunner II, Spartan II, 및 Spartan 3, 3A, 3AN, 3E, 3ADSP 상업용/산업용 ‘XC’, 차량용 ‘XA’ 제품군을 단종한다고 발표했습니다. 이번 결정은 가동률 감소와 공급업체의 지속 가능성 우려에 따른 것입니다. 관련 품목에는 직접적인 대체 옵션이 없습니다. 주요 일정 및 주문 정보는 다음과 같습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "EOL"
@@ -1442,7 +1436,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "EOL",
@@ -1884,6 +1878,7 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -2162,8 +2157,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   },
@@ -2295,8 +2289,7 @@
       "Intel"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -2315,8 +2308,7 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -2641,8 +2633,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },

@@ -38,9 +38,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Natural Disaster / Incident"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2021,

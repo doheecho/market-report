@@ -1,5 +1,5 @@
 {
-  "vendor": "Amd",
+  "vendor": "AMD",
   "total_milestones": 215,
   "history": [
     {
@@ -8,7 +8,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "AMD는 부분적으로는 Intel Gemini Lake 및 Gemini Lake Refresh 제품에 대한 공급 제약 조건과 프리미엄 가격 정책으로 인해 CPU 분야에서 시장 점유율을 계속 확대하고 있습니다.",
       "text": "AMD는 부분적으로는 Intel Gemini Lake 및 Gemini Lake Refresh 제품에 대한 공급 제약 조건과 프리미엄 가격 정책으로 인해 CPU 분야에서 시장 점유율을 계속 확대하고 있습니다. AMD Ryzen 4000 시리즈인 Renoir에 대해서는 어떤 오픈 마켓 오퍼도 보이지 않으며, 따라서 많은 제조업체가 7세대 AMD A-Series APU인 Stoney Ridge를 선택하고 있습니다. 현재 Intel이 혼란에 빠진 상황에서, AMD Renoir 및 Stoney Ridge 시리즈에 대한 수요가 상당히 증가할 것으로 예상합니다. 그러나 AMD 생산 공장에서 이처럼 빠른 속도의 수요를 따라잡을 수 있을지 여부는 불분명합니다."
     },
@@ -117,7 +117,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다.",
       "text": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다. 그러나 많은 수요로 인해 공급 제약은 불가피해 보입니다."
     },
@@ -148,7 +148,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다.",
       "text": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다. 그러나 많은 수요로 인해 공급 제약은 불가피해 보입니다."
     },
@@ -385,7 +385,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "AMD가 힘차게 끌었음에도, 생산능력의 제약으로 이런 출시 계획이 어려울 수도 있습니다.",
       "text": "AMD가 힘차게 끌었음에도, 생산능력의 제약으로 이런 출시 계획이 어려울 수도 있습니다. AMD가 제한된 용량와 ABF 기판 문제로 인해 엄청난 수요를 따라잡을 수 있을지 확실치 않습니다."
     },
@@ -408,7 +408,7 @@
         "Memory",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "연휴 이후 DIMM 수요가 30% 증가해 기업 고객이 가장 많이 찾는 32GB RDIMM의 오픈 마켓 가격이 5~10% 상승했습니다.",
       "text": "연휴 이후 DIMM 수요가 30% 증가해 기업 고객이 가장 많이 찾는 32GB RDIMM의 오픈 마켓 가격이 5~10% 상승했습니다. AMD가 서버 부문에서 Intel을 극복하기 위한 전략으로 4월에 3세대 EPYC Milan CPU 출시를 준비함에 따라 제약이 심한 서버 DIMM 공급에 추가적인 압박이 가해지고 있습니다."
     },
@@ -556,7 +556,7 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "AMD의 EPYC Rome 공급은 여전히 오픈 마켓에서 심하게 제약받고 있습니다.",
       "text": "AMD의 EPYC Rome 공급은 여전히 오픈 마켓에서 심하게 제약받고 있습니다. 그 결과, 가격은 지난 몇 개월에 비해 거의 두 배로 뛰었습니다. 더욱이, 공급 제한과 프리미엄 가격이라는 상황이 한 동안 계속될 것으로 예상합니다."
     },
@@ -720,7 +720,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다.",
       "text": "Xilinx는 반도체 공급망에 충격을 주고 있는 전례 없는 장애 요인으로 인해 고객 수요에 부응할 추가 생산능력을 확보하지 못했다는 공식 서한을 고객에게 보냈습니다. 이로 인해 최대 72주의 리드 타임과 11월에 20%의 가격 인상이 예상되는 Spartan 6 제품군 전반에 걸쳐 공급 제약 조치로 이어졌습니다."
     },
@@ -773,7 +773,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다.",
       "text": "Xilinx는 두 건의 공식 통지를 고객에게 보냈으며, 이는 부품 확보가 더 어려워지고 가격이 급격히 변동함에 따라 시장 전체에 파급 효과를 일으켰습니다. 10월 초에 보낸 첫 번째 서신에서는 10~20%의 가격 인상을 명시했으며, 이는 2021년 11월 1일부터 시행되었습니다. 10월 말에 전송된 두 번째 통지에서, Xilinx는 특히 FPGA Spartan-6 제품군에 대한 공급 제약을 명시했습니다."
     },
@@ -850,7 +850,7 @@
         "CPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다.",
       "text": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다. Intel의 Sapphire Rapid와 AMD의 Genoa 지연은 공급 병목현상을 일으키고 고객 가용성을 제약할 수 있습니다. 그 결과, 주로 서버 빌더인 고객들은 그 대안으로 기존의 Intel의 Ice Lake 또는 Cascade Lake 시리즈나 AMD의 Rome 또는 Milan 시리즈를 구입해야 하는 상황입니다."
     },
@@ -1280,7 +1280,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "현물 수요 외 서버 시장 활동, 4분기 내내 낮은 수요 유지",
       "text": "AMD의 밀라노 및 제노아 시리즈의 인기는 꾸준히 지속되고 있습니다. 한편, Intel은 일부 중형 코어 MPN 및 엔트리급 서버와 워크스테이션 CPU에 대한 수요 공급의 불균형을 겪고 있다고 알려졌습니다. 이러한 제약은 Saphire Rapids 64XX 및 E-2378G, E-2388G에 주로 영향을 주고 있습니다. 대부분의 주문에 대한 배송 리드 타임은 계속 불명확한 상태입니다."
     },
@@ -1330,7 +1330,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "AMD 노트북 수요 증가, 수리업체 중심 Intel 판매",
       "text": "이러한 제약은 더 최근 모델인 고성능 7035 시리즈로 생산이 집중되었기 때문으로 보입니다. 시황에 따르면 이달 중 AMD 노트북 CPU의 가격 조정 가능성이 예측됩니다. 이러한 가격 조정에 대한 대비로 티어 1 고객은 11월 말 낮은 가격에 부품을 확보하기 시작했습니다."
     },
@@ -1586,7 +1586,7 @@
         "GPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "GPU: NVIDIA AI GPU 수요 급증으로 인한 H100 공급 부족",
       "text": "이러한 제약에도 수요 적체는 양호한 편이며 곧 회복될 것으로 예상됩니다. 한편, AMD의 MI300X 가속기는 초기에 경쟁 제품인 NVIDIA H100 GPU를 찾던 고객에게서 넘어온 수요로 혜택을 보고 있습니다."
     },
@@ -1606,7 +1606,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
       "text": "공급 측면에서는 2024년 3분기 말까지 Intel의 노트북용 Meteor Lake H 시리즈 CPU와 Chromebook용 12세대 Alder Lake N 시리즈 ATOM CPU(N200, N300, N305)에서 약간의 공급 제약이 있을 것으로 예상됩니다. 또한 AMD는 데스크톱 CPU의 수주 리드 타임을 2~3주 연장했으며, 수익성이 높은 AI 관련 제품에 생산력을 재할당하기 위한 것일 수 있습니다."
     },
@@ -1759,7 +1759,7 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "데스크탑 PC: 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다.",
       "text": "데스크탑 PC: 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다."
     },
@@ -2239,7 +2239,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다.",
       "text": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다."
     },

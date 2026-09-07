@@ -44,7 +44,7 @@
     "subheading": "",
     "text": "이전에는 AMD의 EPYC Rome 서버 CPU에 대한 수요가 미국에 비해 아시아에서 상대적으로 더 높았지만, AMD의 CPU가 시장 점유율을 더 높임에 따라 그 수요가 달라졌습니다. 이는 미국에서 진행 중인 관세 부과로 인한 것으로, AMD로서는 어쩔 수 없이 중국 이외 지역의 COO 부품을 아시아에서 미국으로 빼내야 했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Tariff"
@@ -121,10 +121,9 @@
     "text": "2개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다. 미국과 다른 국가들은 러시아에 상업용 전자 기기, 항공기 부품, 반도체 등의 수출을 봉쇄하는 제재를 가하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Geopolitics / Sanctions",
-      "Shortage"
+      "Geopolitics / Sanctions"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -851,7 +850,7 @@
     "subheading": "",
     "text": "트럼프, 232조 발동: Nvidia의 H200 칩과 AMD의 MI325X를 포함한 특정 첨단 컴퓨팅 칩에 대해 새로운 25% 관세가 부과됩니다. 다만 미국 기술 공급망 구축을 지원하기 위해 수입되는 칩은 면제됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [

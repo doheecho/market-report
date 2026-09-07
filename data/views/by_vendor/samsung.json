@@ -16,10 +16,9 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2020,
@@ -188,9 +187,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Natural Disaster / Incident"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -238,7 +238,7 @@
     "subheading": "",
     "text": "Nvidia와 직접적인 경쟁 관계에 있는 AMD 는 역시 이번 달 말에 출시 예정인 새로운 ‘Big Navi’ GPU 인 Radeon 의 RX 6000 시리즈 출시를 통해 Nvidia의 RTX 30 시리즈에 정면으로 맞서게 됩니다. AMD 의 ‘Big Navi’ 는 TSMC 7nm 다이를 통합한 제품으로, (Nvidia 의 RTX 30 시리즈에 사용되는) 삼성의 8nm 보다 수율이 높다고 합니다. 따라서 AMD 는 공급에 있어 Nvidia 보다 유리할 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC",
       "삼성"
@@ -1197,10 +1197,8 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2023,
@@ -1296,8 +1294,7 @@
       "삼성"
     ],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1520,6 +1517,7 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -2019,10 +2017,8 @@
     "detected_vendors": [
       "삼성"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -2505,6 +2501,7 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -2560,6 +2557,7 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20-70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -2600,7 +2598,6 @@
     "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24-28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
     "detected_vendors": [
       "Murata",
-      "Taiyo Yuden",
       "삼성"
     ],
     "detected_keywords": [
@@ -3079,10 +3076,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2026,

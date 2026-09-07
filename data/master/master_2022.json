@@ -236,10 +236,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -363,10 +362,9 @@
     "detected_vendors": [],
     "detected_keywords": [
       "Allocation",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -399,7 +397,7 @@
     "subheading": "",
     "text": "TSMC는 이미 고급의 처리 노드를 위해 가격을 10~20% 인상했습니다. 파운드리 가격 인상은 CPU, GPU 및 ASICS 가격에 영향을 줄 것으로 예상됩니다. Tech Wire Asia에 따르면 AMD, Intel, Nvidia는 TSMC의 첨단 노드 기술에 의존하는 제조업체들입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia",
       "TSMC"
@@ -545,10 +543,8 @@
     "subheading": "",
     "text": "음력 설(2월 1일~10일) 중 아시아에서의 제한된 공장 운영에 따라 지연이 지속될 것으로 예상됩니다. 이러한 예상 지연 및 일부 부품 제조를 지원하는 웨이퍼의 제한된 생산량은 공급 제약을 가중할 것입니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -561,7 +557,7 @@
     "subheading": "",
     "text": "Xilinx의 생산 능력은 개선의 조짐 없이 위험한 상태를 유지하고 있습니다. 이에 따라 제조업체는 글로벌 계층 1 고객으로 지원 우선순위를 변경했습니다. 지원을 보장받은 부문에는 항공우주, 군사 및 미국 정부가 포함됩니다. 또한, 현재 신규 주문을 받고 있지 않으며, 이로 인해 2022년 이미 불안한 시장에서 주문 적체는 불안정한 상태를 유지하게 되었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -707,7 +703,7 @@
     "subheading": "",
     "text": "AMD은 EPYC 데이터 센터 프로세서 제품 라 전반에서 10~30% 가격을 인상할 것으로 알려졌습니다. 가격은 고객에 따라 다를 것으로 예상됩니다. 제조업체가 운영 차질을 직면하면서 AMD의 CPU 제품 전반에서 가격 인상과 불확실한 배송일이 발생하고 있습니다. 이러한 장애는 제조업체가 웨이퍼와 포장 용량을 제공하기 위해 외부 기업에 의존한 것에 따른 것입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -781,10 +777,9 @@
       "Mellanox"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1175,7 +1170,7 @@
     "subheading": "",
     "text": "원자재 공급 부족이 주로 산업용 주변 장치 및 군수품 고객으로 구성된 AMD의 내장형 부품 세그먼트에 영향을 미치고 있습니다. 이로 인해 내장형 CPU 가격이 15% 상승하고 리드 타임이 최소 30주로 늘었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -1619,10 +1614,8 @@
       "Intel",
       "Solidigm"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -1686,10 +1679,8 @@
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -1725,8 +1716,7 @@
     "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1745,10 +1735,9 @@
     ],
     "detected_keywords": [
       "Lead Time",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1779,10 +1768,9 @@
     "text": "2개의 서버 CPU 시리즈에 심각한 제약이 가해지고 있으며, 이는 러시아-우크라이나 전쟁 중 추가 제재가 가해지면서 2분기 내내 계속될 것으로 예상됩니다. 미국과 다른 국가들은 러시아에 상업용 전자 기기, 항공기 부품, 반도체 등의 수출을 봉쇄하는 제재를 가하고 있습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Geopolitics / Sanctions",
-      "Shortage"
+      "Geopolitics / Sanctions"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2340,7 +2328,7 @@
     "subheading": "",
     "text": "최신 Intel과 AMD의 CPU 시리즈(Sapphire Rapids & Genoa) 출시가 4분기로 연기된 상황에서 해당 CPU에 호환되는 핵심 부품이 서서히 시장에 출시되고 있습니다. 공급업체는 많은 고객이 여전히 NPI 테스트 단계에 있으며 이 단계에서 시간이 꽤 걸릴 것이라고 말했습니다. 마지막으로, 최신 DDD5 모듈의 가격은 DDR4 모듈보다 최소 20~30% 높게 책정되고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -2380,13 +2368,11 @@
     "subheading": "",
     "text": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다. Intel의 Sapphire Rapid와 AMD의 Genoa 지연은 공급 병목현상을 일으키고 고객 가용성을 제약할 수 있습니다. 그 결과, 주로 서버 빌더인 고객들은 그 대안으로 기존의 Intel의 Ice Lake 또는 Cascade Lake 시리즈나 AMD의 Rome 또는 Milan 시리즈를 구입해야 하는 상황입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -2399,7 +2385,7 @@
     "subheading": "",
     "text": "Intel and AMD는 중국의 선전 지역과 상하이의 강제 봉쇄에 타격을 입은 다수 제조업체의 일부에 불과합니다. 불안정한 공급 가용성은 한동안 고객에게 좋은 소식을 가져다주지 못할 것으로 예상됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -2420,10 +2406,9 @@
       "Intel"
     ],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2495,10 +2480,9 @@
       "Mellanox"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2512,10 +2496,9 @@
     "text": "지속되는 공급망 대란으로 인해 Raspberry Pi 생산은 현재 모든 제품에 있어서 심각한 병목현상을 겪고 있습니다. 때문에 제조업체가 고객 부품이 아닌 상업 및 산업 부품 쪽으로 우선순위를 옮기고 있는 상황임에도 공급 할당에 타격이 있습니다. 생산 제약뿐 아니라 Raspberry Pi 고객은 재고를 매수해 더 높은 가격에 되파는 봇과도 경쟁하고 있으며, 이에 따라 해당 행위를 방지하기 위한 공급 및 판매 관리에 대한 재평가가 실시될 예정입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -2545,7 +2528,6 @@
     "subheading": "",
     "text": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다. 이전 보고서에 따르면 Sapphire Rapid CPU 출시는 2022년 후반으로 미뤄졌지만 계속되는 공급망 장애로 인해 출시는 다시 한번 미뤄졌습니다. 보고서가 정확하다면 Sapphire Rapid 및 Emerald Rapid 시리즈 CPU는 모두 2023년에 출시될 예정입니다. Intel이 최신 시리즈 쪽으로 생산 지원을 전환한다는 사실은 고객이 Cascade Lake 및 Cascade Lake (R)를 더 이상 이용할 수 없기 전 향후 2~3년 내에 전환해야 한다는 것을 의미합니다. 이미 Sapphire Rapid로 전환할 의도를 가지고 Ice Lake로 전환한 고객은 Sapphire Rapid가 출시될 때까지 예상했던 것보다 더 오래 현재 CPU 시리즈를 사용해야 합니다.",
     "detected_vendors": [
-      "Arrow",
       "Intel"
     ],
     "detected_keywords": [],
@@ -2736,7 +2718,7 @@
     "subheading": "",
     "text": "이제 중국에서 Intel의 첫 번째 개별 Arc GPU를 만나볼 수 있습니다. 수년간 Intel은 칩셋에 2D 및 3D 가속 기능을 포함시켰지만, AMD and Nvidia는 더 강력한 개별 GPU 카드로 시장을 지배했습니다. 2018년에 Intel은 자체적으로 개별 GPU를 제공할 것이며, 2020년에 출하가 시작될 것이라고 말했습니다. 그러나 Intel은 2021년까지 GPU 활동에 대한 Arc 브랜드를 공개하지 않았으며, 2022년 1분기에 데스크톱 및 랩톱용 개별 그래픽 칩 출시를 약속했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -3224,8 +3206,10 @@
       "Micron",
       "Renesas"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -3536,10 +3520,8 @@
     "detected_vendors": [
       "Solidigm"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -4080,8 +4062,10 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -4097,8 +4081,10 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -4111,8 +4097,10 @@
     "subheading": "",
     "text": "그렇지만 현지 언론에 따르면 정전으로 인해 생산 라인의 일시적 중단이 있었으며 일부 반-가공 제품이 폐기되었을 수 있다고 합니다. 생산 라인 재가동에 다소 시간이 걸리기 때문에 고객에 대한 선적에 영향이 있을 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -4142,7 +4130,7 @@
     "subheading": "",
     "text": "AMD는 9월 27일부터 Ryzen 7000 시리즈(Raphael, Zen 4, LGA AM5 소켓, TSMC의 N5 5nm 노드)를 이용할 수 있을 것이라고 발표했습니다. 현재는 4종의 고급 모델(Ryzen 9 7950X, Ryzen 9 7900X, Ryzen™ 7 7700X, Ryzen™ 5 7600X)이 소개되었지만, 향후 중간급 내지 엔트리급 모델의 발표 및 출시 가능성이 높다고 예상됩니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "TSMC"
     ],
     "detected_keywords": [],
@@ -4160,7 +4148,7 @@
     "subheading": "",
     "text": "해당 제품들은 DDR4와의 하위 호환성이 없기 때문에 이러한 구성품으로 전환하려는 고객은 새로운 마더보드와 DDR5 메모리 세트가 필요하게 됩니다. AMD가 새로운 세대의 CPU를 소개한 이후 여러 해가 되었지만, 과거 경험으로 볼 때 새로운 마더보드가 필요하게 되면 프로세서 및 차세대 CPU에 대한 수요가 증가합니다. 새로운 CPU가 필요한 고객은 수요가 공급에 어떻게 영향을 줄 것인지에 주의를 기울여야 합니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -4350,7 +4338,7 @@
     "subheading": "",
     "text": "미국 정부는 중국 및 러시아에 고급 GPU 수출을 금지하는 새로운 라이센스 요건을 NVIDIA와 AMD에 부과했습니다. 홍콩을 포함한 중국에 대해 향후 모든 선적을 금지하는 이러한 행정 명령은 즉시 효력을 발휘하며 출시 예정인 H100 집적 회로에 영향을 주게 됩니다. A100 또는 H100 칩을 사용하는 DGX/EGX/HGX 시스템뿐만 아니라 A100X도 또한 신규 라이센스 요건의 대상입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -4861,7 +4849,7 @@
     "subheading": "",
     "text": "모든 시선이 AMD가 EPYC 서버 CPU의 가격을 인상할지 여부에 향해 있습니다. Intel의 최근 가격 인상에 따라 Intel과 AMD 모두 오픈 마켓 가격이 상승세를 탈 것이라고 보는 것이 일반적입니다. 따라서 고객들은 비용 절감 기회가 유지되는 동안 이를 활용할 수 있도록 지금 부품을 구매하는 것이 좋습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -4915,7 +4903,7 @@
     "subheading": "",
     "text": "온라인 뉴스에 따르면 Intel 13세대 데스크톱 CPU Raptor Lake 시리즈는 10월 20일부터 구할 수 있습니다. 현재 초기 출시 제품에는 하이엔드 데스크톱 CPU 및 Z790 마더보드가 포함되어 있습니다. Ryzen 7000 시리즈와 비교한 핵심 판매 포인트는 Raptor Lake CPU에 LGA1700 소켓이 있으므로 이전 Intel 600 시리즈 데스크톱 칩셋 마더보드와 호환된다는 점입니다. Ryzen 7000 시리즈 CPU에는 최신 AMD 마더보드인 AM5가 필요합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -4948,7 +4936,7 @@
     "subheading": "",
     "text": "AMD가 10월 말까지 B650E 및 B650이라는 2종의 마더보드를 추가로 출시할 것이라는 소문이 있습니다. 또한 더 많은 메인스트림 Ryzen 7000 시리즈 CPU가 출시될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -5304,7 +5292,7 @@
     "subheading": "",
     "text": "더블 11 행사로도 알려진 11월 11일 중국의 “광군절”을 맞아 AMD는 Ryzen 7000 시리즈에 대해 새롭고 개선된 가격을 책정했습니다. Intel의 Gen Raptor Lake 할인과 직접 경쟁하기 위해 가격 인하는 23%~27%대에서 이루어졌습니다. 12세대 Alder Lake와 13세대 Raptor Lake의 판매량은 10세대 Comet Lake와 같은 이전 세대에 한참 못미치고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [
@@ -5371,7 +5359,7 @@
     "subheading": "",
     "text": "경쟁업체의 생산량이 낮다는 소문에 따라 Intel의 Sapphire Rapid Xeon CPU 출시가 현재 2023년 1분기로 연기되었다고 알려졌으며, AMD는 4세대 EPYC Genoa를 이미 출시했습니다. Sapphire Lake가 출시되고 나면 이전 세대의 모든 특가제가 끝날 것이라는 업계 소문이 돌고 있는데, 이는 Intel이 신규 디자인으로 재빠르게 이전할 때마다 취하는 조치이기 때문입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -5390,7 +5378,7 @@
     "subheading": "",
     "text": "AMD Zen 3 EPYC Milan에서 AMD Zen 4 EPYC Genoa로 전환할 때는 마더보드도 교체해야 하는데, 이는 하휘 호환이 아니기 때문입니다. Intel Sapphire Rapid에도 같은 원리가 적용됩니다. 현재 Ice Lake 63XX와 83XX 시리즈와 같은 Intel Ice Lake CPU의 도입율은 몇달 전에 비해 상승하고 있습니다. Intel에서 가격을 이미 조정했음에도 수요가 낮아 주문가는 대부분 협상이 가능합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -5409,7 +5397,7 @@
     "subheading": "",
     "text": "AMD 역시 곧 Milan 시리즈의 가격을 올릴 계획입니다. 정확한 가격 상승치는 미정이지만, 고객들은 AMD EPYC Milan CPU와 Intel Cascade Lake, Ice Lake 시리즈를 지금 구매하도록 권장 받고 있으며,  원가 절감의 기회는 여전히 남아 있는 상태입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [

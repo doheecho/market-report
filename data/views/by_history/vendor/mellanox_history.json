@@ -129,7 +129,7 @@
       "detected_categories": [
         "기타"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다.",
       "text": "Mellanox 제조 라인의 제약이 지속됨에 따라 2023년까지 리드 타임이 늘어망 예정입니다. 특히, Mellanox 네트워크 카드 전반의 공급 문제 역시 계속될 가능성이 큽니다."
     },
@@ -169,7 +169,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox 제품의 평균 리드 타임은 수요가 공급을 초과하면서 36주까지 치솟은 상태가 지속되고 있습니다.",
       "text": "Mellanox 제품의 평균 리드 타임은 수요가 공급을 초과하면서 36주까지 치솟은 상태가 지속되고 있습니다. 계속해서 높은 수요가 유지되면서 가장 심각한 공급 격차가 MCX-6, MCX-5, MCX-4 시리즈에 영향을 미치고 있으며, 이에 따라 고객은 제한적인 옵션과 더 높아진 제품 가격을 떠앉게 되었습니다. Mellanox의 25% 가격 인상은 4월 이후 효력을 발생하며 생산 제약은 1년 이상 리드 타임을 연장하고 있습니다."
     },
@@ -190,7 +190,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다.",
       "text": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다. 하지만 다른 어댑터 카드 제조회사인 Intel과 Broadcom 역시 비슷하게 심각한 공급 문제를 겪고 있습니다. Mellanox는 생산 제약 때문에 자사 레거시 라인인 MCX-4와 MCX-5를 밀었으며, MCX-6는 평균 리드 타임이 32주가 넘는 관계로 만족스러운 옵션이 아닙니다."
     },
@@ -431,7 +431,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다.",
       "text": "GPU 및 네트워킹 병목, 인터커넥트 및 레거시 노드로 전이: Blackwell GPU에 대한 수요는 여전히 높은 가운데, 병목은 Mellanox 네트워킹 카드(ConnectX-7/8) 및 NIC로 이동했으며 리드타임은 50주 이상으로 확대되었습니다. Finisar 광 트랜시버 역시 핵심 제약 요인으로 부상했습니다. 중국향 H200 수출 통제는 MCX75310AAS-NEAT 등 규격 준수 인터커넥트 제품의 현물 시장 변동성을 지속적으로 확대하고 있습니다."
     },
@@ -441,7 +441,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7의 리드타임은 기존 2~4주에서 20~50주로 확대되었으며, ConnectX-8 역시 유사한 제약에 직면해 있습니다."
     },
@@ -463,7 +463,7 @@
         "GPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     },
@@ -516,7 +516,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다.",
       "text": "Mellanox/NVIDIA ConnectX-6/7/8 NIC와 400G/800G 트랜시버는 여전히 공급 제약 상태이며, 리드타임은 20~30주 이상입니다. AI 인프라 수요가 가용 생산 능력의 상당 부분을 흡수하고 있습니다."
     },
@@ -527,7 +527,7 @@
         "GPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다.",
       "text": "Mellanox ConnectX-7/8 리드타임은 2~4주에서 20~24주로 증가했으며 ConnectX-8도 유사한 제약에 직면해 있습니다. NVIDIA는 CX8 NIC을 GB 시리즈 GPU와 번들로만 제공하여 단독 구매가 거의 불가능합니다. H200 관련 수요로 인해 CX7 400G 단일 포트 카드의 수요가 급증하고 있습니다."
     }

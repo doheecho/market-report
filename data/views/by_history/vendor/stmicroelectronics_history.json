@@ -237,7 +237,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "STMicroelectronics의 리드타임은 40~50주로 늘어났으며, 특히 STM32 MCU 시리즈와 센서의 공급 지연이 두드러집니다.",
       "text": "STMicroelectronics의 리드타임은 40~50주로 늘어났으며, 특히 STM32 MCU 시리즈와 센서의 공급 지연이 두드러집니다. ST가 고수익 AI 및 자동차용 제품을 우선시하면서 산업용·소비자용 제품의 물량 할당은 심각한 제약을 받고 있습니다."
     },

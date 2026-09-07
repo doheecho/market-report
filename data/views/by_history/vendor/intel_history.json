@@ -73,7 +73,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "AMD는 부분적으로는 Intel Gemini Lake 및 Gemini Lake Refresh 제품에 대한 공급 제약 조건과 프리미엄 가격 정책으로 인해 CPU 분야에서 시장 점유율을 계속 확대하고 있습니다.",
       "text": "AMD는 부분적으로는 Intel Gemini Lake 및 Gemini Lake Refresh 제품에 대한 공급 제약 조건과 프리미엄 가격 정책으로 인해 CPU 분야에서 시장 점유율을 계속 확대하고 있습니다. AMD Ryzen 4000 시리즈인 Renoir에 대해서는 어떤 오픈 마켓 오퍼도 보이지 않으며, 따라서 많은 제조업체가 7세대 AMD A-Series APU인 Stoney Ridge를 선택하고 있습니다. 현재 Intel이 혼란에 빠진 상황에서, AMD Renoir 및 Stoney Ridge 시리즈에 대한 수요가 상당히 증가할 것으로 예상합니다. 그러나 AMD 생산 공장에서 이처럼 빠른 속도의 수요를 따라잡을 수 있을지 여부는 불분명합니다."
     },
@@ -94,7 +94,7 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Denverton 시리즈(Atom Server 워크스테이션 CPU 및 Xeon D Processor)에 대한 문의와 수요가 급증하고 있습니다.",
       "text": "Denverton 시리즈(Atom Server 워크스테이션 CPU 및 Xeon D Processor)에 대한 문의와 수요가 급증하고 있습니다. Intel은 이들 CPU의 고장률을 개선해 특히 네트워킹, 통신, CCTV/감시 보안 및 데이터 센터에 더욱 폭넓게 사용되도록 하는 성과를 올릴 수 있었다고 합니다. 이런 저가형 CPU에 대한 공급은 여전히 제한적이며, 3분기에도 공급이 계속 제약될 것으로 생각합니다."
     },
@@ -278,7 +278,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "오래 기다려온 Intel의 10NM Fab 42가 출시 준비를 완벽히 마쳤습니다.",
       "text": "오래 기다려온 Intel의 10NM Fab 42가 출시 준비를 완벽히 마쳤습니다. 이것은 현재의 모바일 Ice Lake와 Tiger Lake의 공급 제약을 완화되거나 Gemini Lake, Gemini Lake Refresh, Kaby Lake R, Whiskey Lake, Comet Lake를 생산하는 14NM Fab가 거의 끝나감을 알려 주는 징조이기도 합니다."
     },
@@ -486,7 +486,7 @@
         "Memory",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "연휴 이후 DIMM 수요가 30% 증가해 기업 고객이 가장 많이 찾는 32GB RDIMM의 오픈 마켓 가격이 5~10% 상승했습니다.",
       "text": "연휴 이후 DIMM 수요가 30% 증가해 기업 고객이 가장 많이 찾는 32GB RDIMM의 오픈 마켓 가격이 5~10% 상승했습니다. AMD가 서버 부문에서 Intel을 극복하기 위한 전략으로 4월에 3세대 EPYC Milan CPU 출시를 준비함에 따라 제약이 심한 서버 DIMM 공급에 추가적인 압박이 가해지고 있습니다."
     },
@@ -530,7 +530,7 @@
         "CPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "예상대로, B460 및 H410 칩셋의 생산은 Intel의 우선순위 목록에서 뒤로 밀릴 가능성이 높습니다.",
       "text": "예상대로, B460 및 H410 칩셋의 생산은 Intel의 우선순위 목록에서 뒤로 밀릴 가능성이 높습니다. 따라서 우리는 고객이 이처럼 제약된 칩셋에 대한 오픈 마켓 리드 타임 가용성 오퍼를 살펴보기 시작해 가능한 한 빨리 예약할 것을 권장 합니다."
     },
@@ -591,7 +591,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Realtek의 고객은 다양한 원자재 제약으로 인해 칩 및 이더넷 컨트롤러를 위해 인텔을 선택하고 있습니다.",
       "text": "Realtek의 고객은 다양한 원자재 제약으로 인해 칩 및 이더넷 컨트롤러를 위해 인텔을 선택하고 있습니다. 그러나 이는 인텔이 현재 직면하고있는 공급 제약으로 인해 빠른 수정일뿐입니다. 이런 공급 문제는 2021년 2분기까지 계속될 것으로 예상됩니다."
     },
@@ -665,7 +665,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel은 공식 발표를 통해 최신 제품인 3세대 Ice Lake Xeon을 선보였습니다.",
       "text": "Intel은 공식 발표를 통해 최신 제품인 3세대 Ice Lake Xeon을 선보였습니다. 그래서 이전 모델인 Cascade Lake와 Cascade Lake Refresh는 앞으로 몇 달 정도 지나면 공급 제약에 직면할 것으로 예상합니다. 전환에는 일반적으로 전임자와 후임자 모두에 대한 공급 제약이있는 새로운 마더 보드가 포함됩니다."
     },
@@ -730,7 +730,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel이 Ice Lake로 전환함에 따라, 곧 Cascade Lake와 Cascade Lake Refresh의 공급에 제약이 따를 것으로 예상합니다.",
       "text": "Intel이 Ice Lake로 전환함에 따라, 곧 Cascade Lake와 Cascade Lake Refresh의 공급에 제약이 따를 것으로 예상합니다. 또한, 최근에 서버 CPU에 대한 수요가 약간 증가하고 있고 오픈 마켓에 오퍼를 요청하는 고객이 점점 더 많아지는 추세를 파악했습니다."
     },
@@ -1221,7 +1221,7 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "i5-10500 및 i7-10700 시리즈 Comet Lake Desktop의 공급은 Intel이 최신 세대 제품의 생산을 늘리면서 4분기에 제약이 있을 것으로 예상됩니다.",
       "text": "i5-10500 및 i7-10700 시리즈 Comet Lake Desktop의 공급은 Intel이 최신 세대 제품의 생산을 늘리면서 4분기에 제약이 있을 것으로 예상됩니다. 12세대 Alder Lake CPU에 대한 기대로, Intel은 이전 세대(9세대 및 10세대)에서 12세대로 생산 능력을 전환할 예정입니다."
     },
@@ -1388,7 +1388,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "또한, Intel은 모든 소용량 드라이브에 대해 15~20%의 가격 인상을 발표했습니다.",
       "text": "또한, Intel은 모든 소용량 드라이브에 대해 15~20%의 가격 인상을 발표했습니다. 더 높은 사양의 드라이브(모델 P4510, P5510, P4610) 역시 공급 제약이 있지만, S4510 로우 캡 드라이브보다는 제약이 덜한 편입니다. 아시아에서는 공급 물량이 대부분 Tier 1 고객에게 넘어가고 있어, 유통업체들이 예상 할당량을 확보하지 못하고 있습니다."
     },
@@ -1536,7 +1536,7 @@
       "detected_categories": [
         "Storage"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Solidigm은 시장에 발생 가능한 파급 효과를 줄이기 위한 노력으로 2분기와 3분기에 걸쳐 Intel 유통 채널을 계속해서 이용하고 있지만, Intel와 Solidigm 시리즈 모두 생산에 제약을 받고 있습니다.",
       "text": "Solidigm은 시장에 발생 가능한 파급 효과를 줄이기 위한 노력으로 2분기와 3분기에 걸쳐 Intel 유통 채널을 계속해서 이용하고 있지만, Intel와 Solidigm 시리즈 모두 생산에 제약을 받고 있습니다."
     },
@@ -1653,7 +1653,7 @@
         "CPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다.",
       "text": "Intel과 AMD 모두 새 서버 CPU의 출시가 예정되어 있으나 공급망 대란으로 인해 3분기 또는 4분기로 연기되고 있습니다. Intel의 Sapphire Rapid와 AMD의 Genoa 지연은 공급 병목현상을 일으키고 고객 가용성을 제약할 수 있습니다. 그 결과, 주로 서버 빌더인 고객들은 그 대안으로 기존의 Intel의 Ice Lake 또는 Cascade Lake 시리즈나 AMD의 Rome 또는 Milan 시리즈를 구입해야 하는 상황입니다."
     },
@@ -1674,7 +1674,7 @@
         "IC",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Intel 이더넷 콘트롤러와 칩셋에 대한 높은 수요는 6월까지 계속되고 있지만 할당량이 한정적입니다.",
       "text": "Intel 이더넷 콘트롤러와 칩셋에 대한 높은 수요는 6월까지 계속되고 있지만 할당량이 한정적입니다. 2분기 내내 Intel의 할당 역량은 은 큰 타격을 입어 1분기부터 누적된 수요 중 고작 20%만을 지원 할 수 있었습니다. 공급 경색 및 할당 제약에 더해 Intel 이더넷 콘트롤러 가격 역시 10~20% 인상될 예정입니다."
     },
@@ -1684,7 +1684,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다.",
       "text": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다. 하지만 다른 어댑터 카드 제조회사인 Intel과 Broadcom 역시 비슷하게 심각한 공급 문제를 겪고 있습니다. Mellanox는 생산 제약 때문에 자사 레거시 라인인 MCX-4와 MCX-5를 밀었으며, MCX-6는 평균 리드 타임이 32주가 넘는 관계로 만족스러운 옵션이 아닙니다."
     },
@@ -2732,7 +2732,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "현물 수요 외 서버 시장 활동, 4분기 내내 낮은 수요 유지",
       "text": "AMD의 밀라노 및 제노아 시리즈의 인기는 꾸준히 지속되고 있습니다. 한편, Intel은 일부 중형 코어 MPN 및 엔트리급 서버와 워크스테이션 CPU에 대한 수요 공급의 불균형을 겪고 있다고 알려졌습니다. 이러한 제약은 Saphire Rapids 64XX 및 E-2378G, E-2388G에 주로 영향을 주고 있습니다. 대부분의 주문에 대한 배송 리드 타임은 계속 불명확한 상태입니다."
     },
@@ -2822,7 +2822,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "서버 CPU 둔화 추세 마침내 역전 돌입",
       "text": "지난달부터 Gold 6330H, Platinum 8360H, Platinum 8380H 중심으로 시작된 Intel Cooper Lake의 공급 문제도 골칫거리입니다. 이러한 제약의 원인은 12월 중순으로 예정된 5세대 Emerald Rapid 출시에 따른 생산 능력 조정일 가능성이 큽니다. 따라서 Cooper Lake 가용성도 2024년 1분기까지 제약될 수 있습니다."
     },
@@ -2905,7 +2905,7 @@
         "CPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "서버 CPU 수요 증가세 계속",
       "text": "수요 추세 증가에 따라 Intel 서버 CPU 고객의 주요 관심사는 여전히 공급 제약입니다. Silver 4210, 4210R, Gold 6226R, 6248R, 6336Y 등 특정 SKU의 잠재적 문제를 보고하는 티어 1 고객이 증가하면서 Cascade Lake 및 Ice Lake의 공급은 제한적입니다."
     },
@@ -3058,7 +3058,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "공급 제약이 지속되는 Intel Meteor Lake H 시리즈",
       "text": "이번 달에도 Intel의 Meteor Lake H 시리즈에 대한 공급 제약이 지속됐으며, 여전히 티어 1 고객들에게 가장 큰 영향을 주고 있습니다. Core Ultra 7 프로세서 165H 및 Core Ultra 9 프로세서 185H는 다른 H 시리즈 중에서도 가장 심각한 제약을 겪고 있습니다."
     },
@@ -3109,7 +3109,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "모바일 CPU: PC 수요 약세, Intel 공급 부족, AMD AI 칩에 대한 관심 증가",
       "text": "공급 측면에서는 2024년 3분기 말까지 Intel의 노트북용 Meteor Lake H 시리즈 CPU와 Chromebook용 12세대 Alder Lake N 시리즈 ATOM CPU(N200, N300, N305)에서 약간의 공급 제약이 있을 것으로 예상됩니다. 또한 AMD는 데스크톱 CPU의 수주 리드 타임을 2~3주 연장했으며, 수익성이 높은 AI 관련 제품에 생산력을 재할당하기 위한 것일 수 있습니다."
     },
@@ -3131,7 +3131,7 @@
         "CPU",
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "서버 CPU: 공급 제약을 마주한 Intel, 성과를 얻는 AMD의 Genoa 시리즈",
       "text": "Intel은 일부 3세대 Ice Lake SKU에 대한 일시적인 수요를 확인하고 있으며, 1차 OEM들이 할당을 요청하고 있습니다. 공급 제약으로 인해 3세대 Ice Lake 및 4세대 Sapphire Rapids CPU의 일반 수주 리드 타임이 1~2주 연장되었습니다. Intel은 5세대 Emerald Rapids로 초점을 돌리고 있으며, 이에 따라 가용성이 개선될 것입니다."
     },
@@ -3325,7 +3325,7 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "데스크탑 PC: 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다.",
       "text": "데스크탑 PC: 고성능 CPU에 대한 강한 수요가 있지만, 공급 제약과 보증 문제로 인해 고객들이 전략적이고 민첩하게 구매 결정을 내려야 합니다. Intel의 공급이 타이트하고 보증 문제가 있는 반면, AMD Ryzen CPU는 이러한 변화로 기회를 얻고 있어 구매자들에게 여러가지 기회와 도전을 제공합니다."
     },
@@ -3442,7 +3442,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "Intel의 13세대 Raptor Lake 모바일 CPU는 공급 제약 상태이며, 고객들은 물량 확보에 어려움을 겪고 있습니다.",
       "text": "Intel의 13세대 Raptor Lake 모바일 CPU는 공급 제약 상태이며, 고객들은 물량 확보에 어려움을 겪고 있습니다. Intel은 6월쯤 회복될 것으로 보고 있습니다."
     },
@@ -3533,7 +3533,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Intel 소형 코어 ATOM CPU의 수요 증가와 용량 제약으로 리드 타임이 불안정합니다.",
       "text": "Intel 소형 코어 ATOM CPU의 수요 증가와 용량 제약으로 리드 타임이 불안정합니다."
     },
@@ -3644,7 +3644,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Intel I5 데스크톱 CPU는 여전히 제약을 받고 있으며, 제한된 할당이 8월 말까지 지속될 것으로 예상됩니다.",
       "text": "Intel I5 데스크톱 CPU는 여전히 제약을 받고 있으며, 제한된 할당이 8월 말까지 지속될 것으로 예상됩니다."
     },
@@ -3654,7 +3654,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다.",
       "text": "알테라의 리드타임은 대만 OSAT 시설의 용량 제약으로 24주까지 늘어났습니다. 주문 시스템 업데이트는 2025년 8월 15일에 시행되었으며, 1~2분기 내 해결이 예상됩니다."
     },
@@ -3881,7 +3881,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Intel Alder Lake-N 시리즈(N97, N305 등)는 여전히 임계 수준의 공급 제약이 지속되며, 2026년 3월 배정 물량이 이미 취소되었습니다.",
       "text": "Intel Alder Lake-N 시리즈(N97, N305 등)는 여전히 임계 수준의 공급 제약이 지속되며, 2026년 3월 배정 물량이 이미 취소되었습니다. Intel은 팬서 레이크/18A AI PC 램프업에 집중하기 위해 저마진 SKU의 우선순위를 낮추고 있습니다."
     },
@@ -4102,7 +4102,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Intel Elkhart Lake 스몰 코어 프로세서(J/N/X 시리즈)는 심각한 할당 제약에 직면해 있으며, 일부 구성은 공식적으로 2028년까지 예약이 완료된 상태이다.",
       "text": "Intel Elkhart Lake 스몰 코어 프로세서(J/N/X 시리즈)는 심각한 할당 제약에 직면해 있으며, 일부 구성은 공식적으로 2028년까지 예약이 완료된 상태이다."
     },
@@ -4143,7 +4143,7 @@
       "detected_categories": [
         "CPU"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "스몰 코어 CPU인 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약 상태가 지속되고 있다.",
       "text": "스몰 코어 CPU인 N 시리즈(N97/N100/N150/N305) 및 J 시리즈(J6412)는 3분기까지 심각한 공급 제약 상태가 지속되고 있다. Intel은 Panther Lake 및 18A AI PC 증산에 집중하기 위해 저마진 SKU의 우선순위를 낮추고 있으며, 2026년 2분기부터 전 포트폴리오에 걸쳐 5~25%의 가격 인상을 시행하고 있다."
     },
@@ -4227,7 +4227,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다.",
       "text": "Xilinx/Altera FPGA(XC7 시리즈 및 Max 10)는 네트워킹 및 산업 고객용 부품 가운데 공급 제약이 가장 심각하며, 리드타임은 52주 이상으로 늘어났습니다. 또한 기판 제약으로 인해 납기가 4개월 연기되고 있습니다."
     },

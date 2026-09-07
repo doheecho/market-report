@@ -30,7 +30,7 @@
     "subheading": "",
     "text": "TSMC는 많은 산업의 수요를 충족시켜야 한다는 압력을 받고 있습니다. 게임 산업이 그 한 예입니다. Sony와 Microsoft의 판매는 PS5 및 Xbox Series X의 생산에 사용되는 AMD의 맞춤형 칩의 제한된 공급으로 인해 영향을 받고 있습니다AMD의 생산은 TSMC의 생산 할당 우선순위에 따라 결정되므로, 이들 세 회사는 결국 TSMC의 결정에 희비가 엇갈립니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Sony",
       "TSMC"
     ],
@@ -203,8 +203,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -322,8 +321,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -456,8 +454,7 @@
     ],
     "detected_keywords": [
       "Discommit",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   }

@@ -149,7 +149,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다.",
       "text": "병목현상으로 인해 최종 사용자는 다른 어댑터 카드를 찾고 있습니다. 하지만 다른 어댑터 카드 제조회사인 Intel과 Broadcom 역시 비슷하게 심각한 공급 문제를 겪고 있습니다. Mellanox는 생산 제약 때문에 자사 레거시 라인인 MCX-4와 MCX-5를 밀었으며, MCX-6는 평균 리드 타임이 32주가 넘는 관계로 만족스러운 옵션이 아닙니다."
     },
@@ -239,7 +239,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Broadcom이 주문을 신속하게 처리하기 위해 수수료를 부과함에 따라 연장된 리드 타임",
       "text": "Broadcom의 리드 타임이 연장되고 있으며, 일부 고객은 최대 52주의 배송 리드 타임을 보고하고 있습니다. 공급 제약이 BCM5 또는 BCM8 시리즈에 영향을 미치고 있으며, 제조업체는 주문을 점점 더 미뤄 왔습니다."
     },
@@ -437,7 +437,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Broadcom의 5nm PCIe 스위치 칩(SS24/SS26)은 심각한 공급 제약을 겪고 있다.",
       "text": "Broadcom의 5nm PCIe 스위치 칩(SS24/SS26)은 심각한 공급 제약을 겪고 있다. TSMC의 생산 능력 제한으로 예상 납기가 2027년 1월까지 밀렸으며, 급행 옵션은 제공되지 않는다. 기본 리드타임은 52주 이상이다."
     },
@@ -468,7 +468,7 @@
       "detected_categories": [
         "IC"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다.",
       "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다."
     },

@@ -18,7 +18,7 @@
       "detected_categories": [
         "Other"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "반면에 Murata 는 수익성이 더 좋은 작은 케이스 크기인 0201, 1005 에 초점을 맞춥니다.",
       "text": "반면에 Murata 는 수익성이 더 좋은 작은 케이스 크기인 0201, 1005 에 초점을 맞춥니다. 현재는 유통업체들이 적은 물량만 배정받는 106 및 107 과 같은 고정전용량 제품을 제외하면 리드 타임이 안정적입니다."
     },
@@ -61,7 +61,7 @@
         "Other",
         "Passive"
       ],
-      "risk_level": "Medium",
+      "risk_level": "High",
       "summary": "Murata의 MLCC, 인덕터, SAW 필터의 리드 타임이 늘었습니다.",
       "text": "Murata의 MLCC, 인덕터, SAW 필터의 리드 타임이 늘었습니다. 특히, MLCC의 리드 타임이 16주 이상으로 늘었습니다. 자동차 수요가 급증함에 따라 시장에서 GCM 및 GJM 시리즈 MLCC를 구매하기 점점 어려워지고 있습니다. 특정 고정전용량 제품의 경우 10~30%의 가격 상승도 있습니다."
     },
@@ -290,7 +290,7 @@
       "detected_categories": [
         "Passive"
       ],
-      "risk_level": "High",
+      "risk_level": "Medium",
       "summary": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약 상태에서 운영되고 있다.",
       "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약 상태에서 운영되고 있다. 고용량·고온 제품군(일본 전용 생산 라인)의 리드타임은 36~60주에 달한다. AI 서버 및 자동차 수요가 특수 생산 능력의 80% 이상을 소진하고 있다. 유통업체들은 브로커 거래 제한 및 단계별 가격 정책을 시행하고 있다."
     },

@@ -67,10 +67,9 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2020,
@@ -200,7 +199,7 @@
     "subheading": "",
     "text": "IPFS 블록체인(Filecoin)과 관련된 대대적인 광고로 인해, AMD의 EPYC 서버 CPU 공급이 오픈 마켓에서 제한되고 리드 타임이 4주 이상으로 늘었습니다. 가장 많이 찾는 SKU는 AMD EPYC 서버 CPU(7742, 7542, 7402, 7302P, 7302, 7282), AMD EPYC 7302 및 AMD EPYC 7282입니다. 오픈 마켓에서 이런 AMD EPYC 서버 CPU의 가격이 전체적으로 3% 높아졌다는 점도 확인했는데, 특히 중국에서 많이 상승했습니다. 이로 인해 대용량 HDD와 서버 RDIMM의 수요가 늘었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -248,7 +247,7 @@
     "subheading": "",
     "text": "또한 AMD EPYC 서버 CPU의 공개 시장 가격이 전반적으로 상승하였고 특히 중국에서 3%까지 상승하였습니다. 이 때문에 대용량 HDD와 서버 RDIMM에 대한 수요도 증가했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -742,10 +741,8 @@
     "subheading": "",
     "text": "SSD의 공급이 계속 제한적이며, 주로 최대 1.92TB의 적은 용량에 대해 수요가 계속 강세를 띠고 있습니다. 또한, IC 컨트롤러 공급 제약으로 SSD 생산에 계속 어려움이 있고, 벤더들은 이 문제가 한 분기 이상 계속될 것이라는 의견을 공유했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -1056,10 +1053,8 @@
     "subheading": "",
     "text": "특히 1TB와 2TB의 소용량 드라이브는 최악의 제약 조건에 직면해 있습니다. 공장에서는 부품을 출하하고 있지만, 수량이 적고 기존 수요를 감당하지 못합니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2021,
@@ -1281,7 +1276,7 @@
     "subheading": "",
     "text": "8월에는 Intel에서 곧 출시할 ARC라는 GPU의 공식 발표도 지켜보았습니다. 2022년 초에 출시할 예정이라고 하며, Nvidia의 3000, AMD의 Radeon 시리즈 등과 경쟁해야 합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -1428,10 +1423,9 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -1681,10 +1675,8 @@
       "Intel",
       "Solidigm"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -1748,10 +1740,8 @@
     "subheading": "다음 Intel SSD 라인은 계속 부족할 것입니다. S4510, S4610, S4520, S4620",
     "text": "일부 부품에 대한 제약은 상당히 심각하여 상하이의 노동절인 5월 1일 이후까지 풀리지 않을 예정입니다. 소용량 및 대용량 SSD 모두 영향을 받게 됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -1787,8 +1777,7 @@
     "text": "1TB의 경우 단종 공지로 인해, 2TB HDD의 경우 공급 제약으로 인해 저용량 HDD의 공급이 제한되었습니다. 하지만, 16TB, 18TB와 같은 고용량 HDD의 공급은 최근 몇 달간 개선되었으며 고객은 더 많은 가용성을 확보할 수 있게 되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "EOL",
-      "Shortage"
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -1938,10 +1927,8 @@
     "detected_vendors": [
       "Solidigm"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -2954,10 +2941,9 @@
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Production Cut",
-      "Shortage"
+      "Production Cut"
     ],
-    "risk_level": "High"
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -2987,10 +2973,9 @@
     "text": "SSD의 경우 할당량이 정상화되면서 시장 수요가 안정된 상태를 유지하고 있습니다. 일부 고용량 SSD 공급 제약에 대한 보고가 여전히 존재하지만 대부분의 공급업체에서 일정한 할당량을 보고하고 있습니다. 안정세에도 불구하고 가격은 계속해서 상승하고 있으며 3분기 비용은 이미 5~10% 인상되었습니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Allocation",
-      "Shortage"
+      "Allocation"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -3217,10 +3202,8 @@
     "subheading": "",
     "text": "SSD: SSD 시장은 데이터 센터 및 클라우드 부문에서 강한 수요를 보이고 있지만, 전반적인 시장 상황으로 인해 판매가 둔화되고 있습니다. NAND와 같은 주요 부품의 공급 제약이 SSD 생산에 영향을 미치면서, 가격 변동이 시장의 향후 흐름을 좌우할 중요한 요소로 작용할 것입니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -3308,6 +3291,7 @@
     "subheading": "",
     "text": "분기별 가격 상승: 삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -3349,10 +3333,9 @@
       "Seagate"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -3389,10 +3372,9 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2024,
@@ -3552,7 +3534,9 @@
     "subheading": "",
     "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "M&A"
+    ],
     "risk_level": "Low"
   },
   {
@@ -3792,10 +3776,8 @@
     "subheading": "",
     "text": "저용량 엔터프라이즈 SSDs 공급은 여전히 제약을 받고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -3856,10 +3838,8 @@
     "detected_vendors": [
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -3959,10 +3939,8 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -4036,10 +4014,9 @@
       "Solidigm"
     ],
     "detected_keywords": [
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4129,10 +4106,9 @@
     "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -4552,6 +4528,7 @@
     "detected_vendors": [
       "Kioxia",
       "Seagate",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -4573,6 +4550,7 @@
     "text": "솔리다임, 삼성, 마이크론은 1분기 SSD 가격을 20-70% 인상했으며, 7.68TB NVMe와 같은 엔터프라이즈 SKU는 1,500달러 이상에서 거래되고 있습니다. 배정은 하이퍼스케일러로 제한됩니다.",
     "detected_vendors": [
       "Micron",
+      "Solidigm",
       "삼성"
     ],
     "detected_keywords": [
@@ -5448,8 +5426,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },

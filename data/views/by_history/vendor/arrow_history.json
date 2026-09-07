@@ -1,18 +1,7 @@
 {
   "vendor": "Arrow",
-  "total_milestones": 10,
+  "total_milestones": 9,
   "history": [
-    {
-      "date": "2022.07",
-      "category": "CPU",
-      "detected_categories": [
-        "CPU",
-        "IC"
-      ],
-      "risk_level": "Low",
-      "summary": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다.",
-      "text": "Intel Sapphire Rapid CPU 출시가 2023년 2분기로 지연되었습니다. 이전 보고서에 따르면 Sapphire Rapid CPU 출시는 2022년 후반으로 미뤄졌지만 계속되는 공급망 장애로 인해 출시는 다시 한번 미뤄졌습니다. 보고서가 정확하다면 Sapphire Rapid 및 Emerald Rapid 시리즈 CPU는 모두 2023년에 출시될 예정입니다. Intel이 최신 시리즈 쪽으로 생산 지원을 전환한다는 사실은 고객이 Cascade Lake 및 Cascade Lake (R)를 더 이상 이용할 수 없기 전 향후 2~3년 내에 전환해야 한다는 것을 의미합니다. 이미 Sapphire Rapid로 전환할 의도를 가지고 Ice Lake로 전환한 고객은 Sapphire Rapid가 출시될 때까지 예상했던 것보다 더 오래 현재 CPU 시리즈를 사용해야 합니다."
-    },
     {
       "date": "2024.10",
       "category": "CPU",
@@ -20,7 +9,7 @@
         "CPU",
         "Other"
       ],
-      "risk_level": "High",
+      "risk_level": "Low",
       "summary": "데스크탑 CPU 공급 제약: 12세대 Alder Lake CPU(Core i3/i5/i7/i9 GT0)의 공급이 4분기까지 제한될 것으로 예상되며, Pentium과 Celeron은 2025년 1월 말까지 공급이 타이트할 것으로 보입니다.",
       "text": "데스크탑 CPU 공급 제약: 12세대 Alder Lake CPU(Core i3/i5/i7/i9 GT0)의 공급이 4분기까지 제한될 것으로 예상되며, Pentium과 Celeron은 2025년 1월 말까지 공급이 타이트할 것으로 보입니다. 또한, 13세대 Raptor Lake의 Core i7 및 i9은 12월까지 사용 가능하나, 14900 및 T SKU는 공급이 제한적입니다. 15세대 Arrow Lake가 2024년 4분기 중 신제품으로 출시될 예정입니다."
     },

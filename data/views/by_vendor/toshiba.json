@@ -100,10 +100,8 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2022,
@@ -140,8 +138,10 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -157,8 +157,10 @@
     "detected_vendors": [
       "Toshiba"
     ],
-    "detected_keywords": [],
-    "risk_level": "Low"
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2022,
@@ -229,10 +231,9 @@
       "Western Digital"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2025,
@@ -268,10 +269,8 @@
       "Toshiba",
       "Western Digital"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -420,8 +419,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   }

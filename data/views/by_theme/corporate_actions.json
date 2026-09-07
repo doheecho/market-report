@@ -185,7 +185,7 @@
     "subheading": "",
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Microchip"
     ],
     "detected_keywords": [
@@ -640,7 +640,7 @@
     "subheading": "AMD의 Milan 및 Genoa 시리즈 인기 계속돼",
     "text": "AMD의 최적화된 재고 관리를 위한 감산 관련 소문이 있었음에도 Milan 및 Genoa 시리즈에 대한 오픈 마켓 활동의 주요 동인은 여전히 비용 절감입니다. AI 확산에 힘입어 전반적인 서버 CPU 수요는 꾸준히 증가할 것으로 기대되지만 이는 공급이 감소할 수 있으므로 변동할 수 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Production Cut"
@@ -677,10 +677,9 @@
     "text": "4월 중순 이후로 시장 활동이 급격히 증가하면서 HDD 공급이 극도로 제한되고 있습니다. 이러한 추세는 제조사들이 원자재 제약으로 인한 압박이 가중되는 상황에서 손실을 줄이기 위해 HDD를 감산한 결과입니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Production Cut",
-      "Shortage"
+      "Production Cut"
     ],
-    "risk_level": "High"
+    "risk_level": "Low"
   },
   {
     "year": 2024,
@@ -694,7 +693,7 @@
     "subheading": "",
     "text": "고객 불만과 경쟁 심화: Nvidia의 하드웨어 중심 전략에 불만을 가진 대규모 언어 모델 기업들은 AMD GPU로의 전환을 고려하고 있습니다. AMD는 경쟁력을 높이기 위해 서버 제조업체인 ZT Systems를 인수했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -713,7 +712,7 @@
     "subheading": "",
     "text": "단종 제품(EOL) 수요 증가: 자일링스(Xilinx) 부품에 대한 수요가 급증하면서 가격 급등이 예상됩니다. 많은 부품이 생산 축소와 리드 타임 연장에 직면하고 있어, 기업들은 단종 전 필요한 부품을 신속하게 확보해야 합니다. 자일링스의 6월 마지막 주문(LTB) 중 일부는 이미 지연되고 있으며, 제조업체는 배송을 2025년으로 연기한 상태입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "EOL",
@@ -738,6 +737,22 @@
       "Production Cut"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "SSD 약세 시장 지속",
+    "subheading": "",
+    "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
   },
   {
     "year": 2025,
@@ -934,10 +949,25 @@
     "detected_keywords": [
       "Capacity Expansion",
       "Discommit",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진: 계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
   },
   {
     "year": 2026,
@@ -954,10 +984,25 @@
     ],
     "detected_keywords": [
       "Capacity Expansion",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "기타",
+    "detected_categories": [
+      "기타"
+    ],
+    "section_raw": "제조업체 뉴스 및 업데이트",
+    "subheading": "",
+    "text": "전자제품 위탁생산업체 Flex는 인공지능 사업에서의 성장 기회를 극대화하기 위한 전략적 분할 계획을 발표했다. 회사는 클라우드 및 전력 인프라 사업을 2027년 초까지 별도의 상장사로 분사할 계획이라고 밝혔다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
   },
   {
     "year": 2026,
@@ -1015,8 +1060,7 @@
     "detected_keywords": [
       "Capacity Expansion",
       "Discommit",
-      "Price Increase",
-      "Shortage"
+      "Price Increase"
     ],
     "risk_level": "High"
   }

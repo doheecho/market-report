@@ -13,10 +13,9 @@
       "Mellanox"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2022,
@@ -171,10 +170,9 @@
     "text": "지금은 제약 조건이 특히 소비자들 사이에서 보다 지속적인 관심을 끌었던 고용량 시리즈의 가용성에 더욱 영향을 미치기 시작했습니다. 시세는 가격 및 리드 타임이 점차 확대됨에 따라 이러한 수요 증가를 반영하기 시작했습니다. 주문 적체를 막으려면 제조업체들이 생산을 늘려야 합니다. 그러나 제조에 필요한 원자재 및 기타 자원을 저장하려면 시간과 자본이 듭니다.",
     "detected_vendors": [],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2023,
@@ -699,7 +697,9 @@
     "subheading": "",
     "text": "Flex, AI 데이터센터 인프라 사업부 분사 및 상장 추진: 계약 제조업체 Flex(FLEX)는 Cloud and Power Infrastructure(CPI) 사업부를 별도 상장 회사로 분사할 계획이다. 신설 법인은 AI 데이터센터 전력, 냉각 및 통합 시스템을 전문으로 하게 된다. [출처: Reuters]",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "M&A"
+    ],
     "risk_level": "Low"
   },
   {
@@ -741,7 +741,9 @@
     "subheading": "",
     "text": "전자제품 위탁생산업체 Flex는 인공지능 사업에서의 성장 기회를 극대화하기 위한 전략적 분할 계획을 발표했다. 회사는 클라우드 및 전력 인프라 사업을 2027년 초까지 별도의 상장사로 분사할 계획이라고 밝혔다.",
     "detected_vendors": [],
-    "detected_keywords": [],
+    "detected_keywords": [
+      "M&A"
+    ],
     "risk_level": "Low"
   },
   {

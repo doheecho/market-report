@@ -24,61 +24,28 @@ CLI_BACKUP_DIR = r"E:\조도희\11.AI\11-07.CLI"
 
 USER_CSV_PATH = os.path.join(REPO_DIR, "classification_rules.csv")
 
-VENDOR_MAP = {
-    r"samsung|삼성": "삼성",
-    r"micron|마이크론": "Micron",
-    r"hynix|하이닉스": "SK하이닉스",
-    r"intel|인텔|altera|알테라": "Intel",
-    r"nvidia|엔비디아": "Nvidia",
-    r"amd|advanced micro devices|xilinx|자일링스|xlinx": "Amd",
-    r"broadcom|브로드컴": "Broadcom",
-    r"infineon|인피니언": "Infineon",
-    r"nexperia|넥스페리아|\bnxp\b|에스엔피": "Nexperia",
-    r"lattice|래티스|lattice\s*semiconductor": "Lattice",
-    r"toshiba|도시바": "Toshiba",
-    r"seagate|씨게이트": "Seagate",
-    r"solidigm|솔일다임": "Solidigm",
-    r"kioxia|키옥시아": "Kioxia",
-    r"murata|무라타": "Murata",
-    r"taiyo yuden|taiyo|타이요\s*유덴": "Taiyo Yuden",
-    r"yageo|야게오": "Yageo",
-    r"panasonic|파나소닉": "Panasonic",
-    r"kemet|케멧": "Kemet",
-    r"qorvo|코보": "Qorvo",
-    r"realtek|리얼텍": "Realtek",
-    r"sony|소니": "Sony",
-    r"winbond|윈본드": "Winbond",
-    r"nanya|남야": "Nanya",
-    r"coherent|finisar|코히런트|피니사": "Coherent",
-    r"macnica|맥니카": "Macnica",
-    r"arrow|애로": "Arrow",
-    r"microchip|마이크로칩": "Microchip",
-    r"on[-_\s]*semi|onsemi|온세미": "Onsemi",
-    r"supermicro|슈퍼마이크로": "Supermicro",
-    r"huawei|화웨이": "Huawei",
-    r"mellanox|멜라녹스": "Mellanox",
-    r"inspur|인스퍼": "Inspur",
-    r"qlogic|큐로직": "QLogic",
-    r"renesas|르네사스": "Renesas",
-    r"mediatek|mi디어텍": "Mediatek"
-}
+# 1. Load SCM Master Rules dynamically from JSON Config!
+CONFIG_PATH = os.path.join(REPO_DIR, "scm_master_config.json")
 
-KEYWORD_MAP = {
-    r"가격\s*인상|비용\s*인상|단가\s*인상|가격\s*상승|인상률|가격\s*조정|오름세": "Price Increase",
-    r"가격\s*인하|비용\s*인하|가격\s*하락|비용\s*하락|내림세|디플레이션": "Price Decrease",
-    r"리드\s*타임|리드타임|배송\s*기간|납기|배송\s*지연|납품\s*일정": "Lead Time",
-    r"단종|eol|지원\s*종료|수명\s*종료|생산\s*종료": "EOL",
-    r"부족|공급\s*부족|품귀|제약|수급\s*문제|공백": "Shortage",
-    r"할당|배정": "Allocation",
-    r"디커밋|공급\s*확약\s*철회|납품\s*취소": "Discommit",
-    r"지진|화재|태풍": "Natural Disaster / Incident",
-    r"관세": "Tariff",
-    r"인수|합병|m&a|인수\s*제안|합병\s*추진": "M&A",
-    r"감산|생산\s*감축|생산량을\s*줄이|생산\s*축소": "Production Cut",
-    r"생산\s*라인\s*확장|증산|투자\s*계획|생산량\s*확대|생산\s*능력\s*확대": "Capacity Expansion",
-    r"수출\s*규제|제재|미중\s*기술|수출\s*제한": "Geopolitics / Sanctions",
-    r"결함|품질\s*문제|품질\s*우려|진품성\s*우려": "Quality / Defect"
-}
+VENDOR_MAP = {}
+KEYWORD_MAP = {}
+
+if os.path.exists(CONFIG_PATH):
+    print(f"- Loading master SCM rules from '{CONFIG_PATH}'...")
+    try:
+        with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+            config_data = json.load(f)
+            
+        for item in config_data.get("vendor_mappings", []):
+            VENDOR_MAP[item["pattern"]] = item["representative"]
+            
+        for item in config_data.get("theme_mappings", []):
+            KEYWORD_MAP[item["pattern"]] = item["representative"]
+        print(f"  - Successfully loaded {len(VENDOR_MAP)} vendor rules and {len(KEYWORD_MAP)} theme rules.")
+    except Exception as e:
+        print(f"  - Error loading json config: {e}. Falling back to default built-ins.")
+else:
+    print("- Error: scm_master_config.json not found! Falling back to empty defaults.")
 
 def clean_section(text):
     text = re.sub(r"[^\w\s\(\)&,-]", "", text)

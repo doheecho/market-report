@@ -67,10 +67,9 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
-    "risk_level": "High"
+    "risk_level": "Medium"
   },
   {
     "year": 2020,
@@ -200,10 +199,8 @@
     "subheading": "",
     "text": "서버 CPU 수요는 여전히 증가세에 있지만, 공급이 회복되거나 개선될 기미는 보이지 않고 있습니다. 최근 몇 주 사이에 모든 유형의 Cascade Lake에 대한 주문이 있는 것으로 확인되었지만, 현재는 42XX 부품이 가장 큰 제약을 받고 있습니다. 2분기 남은 기간 동안은 수요 상승에 대한 지원을 받기 힘들 것입니다. 몇몇 벤더는 Purley 시리즈 41XX, 61XX, 81XX에 대한 특별가 혜택이 없어졌다는 얘기도 하고 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -506,10 +503,8 @@
     "subheading": "",
     "text": "저가형 시스템 온 칩(SoC) 서버 등급 Atom CPU(구 Denverton)는 최근 몇 주간 공급에 제약이 있었으며 3분기 내내 그런 상황이 계속될 것입니다. 전하는 바에 의하면, 이러한 저가형 프로세서의 생산은 다른 공급 제약 조건이 엄존하는 상황에서 그 우선순위가 낮게 설정되었다고 합니다. Denverton 시리즈 프로세서는 일반적으로 엔터프라이즈 네트워킹 장치에 사용됩니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -667,13 +662,11 @@
     "subheading": "",
     "text": "AMD는 부분적으로는 Intel Gemini Lake 및 Gemini Lake Refresh 제품에 대한 공급 제약 조건과 프리미엄 가격 정책으로 인해 CPU 분야에서 시장 점유율을 계속 확대하고 있습니다. AMD Ryzen 4000 시리즈인 Renoir에 대해서는 어떤 오픈 마켓 오퍼도 보이지 않으며, 따라서 많은 제조업체가 7세대 AMD A-Series APU인 Stoney Ridge를 선택하고 있습니다. 현재 Intel이 혼란에 빠진 상황에서, AMD Renoir 및 Stoney Ridge 시리즈에 대한 수요가 상당히 증가할 것으로 예상합니다. 그러나 AMD 생산 공장에서 이처럼 빠른 속도의 수요를 따라잡을 수 있을지 여부는 불분명합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -705,10 +698,8 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -892,7 +883,7 @@
     "subheading": "",
     "text": "AMD EPYC 서버 CPU 공급이 제한된 상황에서, 일부 고객이 AMD 고급형 Ryzen 데스크톱 CPU(AMD Ryzen Threadripper 프로세서 및 AMD Ryzen 9 데스크톱 프로세서)를 대신 선택하고 있습니다. 그 성능이 AMD EPYC 서버 CPU와 필적하기 때문입니다. 이런 고급형 데스크톱 CPU에 대한 오픈 마켓 가격이 약 5% 증가할 것으로 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -928,8 +919,7 @@
     ],
     "detected_keywords": [
       "EOL",
-      "Lead Time",
-      "Shortage"
+      "Lead Time"
     ],
     "risk_level": "High"
   },
@@ -946,7 +936,7 @@
     "subheading": "",
     "text": "IPFS 블록체인(Filecoin)과 관련된 대대적인 광고로 인해, AMD의 EPYC 서버 CPU 공급이 오픈 마켓에서 제한되고 리드 타임이 4주 이상으로 늘었습니다. 가장 많이 찾는 SKU는 AMD EPYC 서버 CPU(7742, 7542, 7402, 7302P, 7302, 7282), AMD EPYC 7302 및 AMD EPYC 7282입니다. 오픈 마켓에서 이런 AMD EPYC 서버 CPU의 가격이 전체적으로 3% 높아졌다는 점도 확인했는데, 특히 중국에서 많이 상승했습니다. 이로 인해 대용량 HDD와 서버 RDIMM의 수요가 늘었습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -1042,7 +1032,7 @@
     "subheading": "",
     "text": "Filecoin에 대한 대대적인 광고로 인해 AMD CPU뿐 아니라 이 CPU가 사용되는 마더보드(Supermicro, AsRock, Asus에서 제조하는 CPU 포함)의 가격 폭등과 공급 부족이 발생했습니다. 소식통에 따르면, 듀얼 소켓 마더보드가 가장 큰 영향을 받고 있다고 합니다. 노트북 수요는 3분기 말까지 강세로 유지될 것으로 예상됩니다. 무선 카드와 함께 웹캠 및 헤드셋과 같은 주변 장치 제품 역시 수요 폭증으로 공급을 맞추기 빠듯한 상황입니다. 제조업체들은 학생과 재택근무를 하는 직장인의 넘치는 수요를 충족시키려 노력하고 있지만, 언제 그 수요를 따라잡을지는 분명하지 않습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Supermicro"
     ],
     "detected_keywords": [
@@ -1235,7 +1225,7 @@
     "subheading": "",
     "text": "AMD EPYC 서버 CPU의 공급이 부족하기 때문에 일부 고객들은 AMD Ryzen Threadripper 프로세서, AMD Ryzen 9 Desktop 프로세서와 같이 성능이 AMD EPYC 서버 CPU와 비슷하여 대체 가능한 AMD 고성능 데스크톱 CPU로 전환하고 있습니다. 이런 이유로 고성능 데스크톱 CPU의 공개시장 가격이 약 5% 인상될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -1317,7 +1307,7 @@
     "subheading": "",
     "text": "IPFS 블록체인(파일코인)을 둘러싼 과도한 열풍으로 인해 AMD의 EPYC 서버 CPU 공개시장 공급은 제한되고 리드 타임은 4주 이상으로 늘어났습니다. 가장 수요가 많은 SKU는 AMD EPYC 서버 CPU(7742, 7542, 7402, 7302P, 7302 & 7282), AMD EPYC 7302, 그리고 AMD EPYC 7282입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -1337,7 +1327,7 @@
     "subheading": "",
     "text": "또한 AMD EPYC 서버 CPU의 공개 시장 가격이 전반적으로 상승하였고 특히 중국에서 3%까지 상승하였습니다. 이 때문에 대용량 HDD와 서버 RDIMM에 대한 수요도 증가했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1506,7 +1496,7 @@
     "subheading": "",
     "text": "Filecoin에 대한 과한 열풍은 AMD CPU뿐만 아니라 Supermicro, AsRock, Asus에서 제조한 마더보드의 가격 인상까지 초래했습니다. 소식통에 따르면 가장 많은 영향을 맞는 보드는 듀얼 소켓 마더보드입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Supermicro"
     ],
     "detected_keywords": [
@@ -1555,7 +1545,7 @@
     "subheading": "",
     "text": "모바일 CPU의 경우 코로나19의 대유행 때문에 예년보다 수요가 증가할 수 있습니다. 코로나19는 Project Connect(모든 학교를 인터넷에 연결하는 것을 목표로 하는 GIGA 이니셔티브)의 진행 속도를 높였고 그 결과로 Intel 및 AMD 소형 모바일 CPU의 수요가 굉장히 많아졌습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -1631,7 +1621,7 @@
     "subheading": "",
     "text": "AMD는 2020년 1분기부터 서버 프로세서 분야에 큰 반향을 일으키고 있습니다. 보다 향상된 EPYC 프로세서 성능을 기반으로 AMD는 데이터 센터 사업을 두 배로 확장할 계획입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1647,12 +1637,10 @@
     "subheading": "",
     "text": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다. 그러나 많은 수요로 인해 공급 제약은 불가피해 보입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -1679,7 +1667,7 @@
     "subheading": "",
     "text": "모바일 CPU의 경우 코로나19의 대유행 때문에 예년보다 수요가 증가할 수 있습니다. 코로나19는 Project Connect(모든 학교를 인터넷에 연결하는 것을 목표로 하는 GIGA 이니셔티브)의 진행 속도를 높였고 그 결과로 Intel 및 AMD 소형 모바일 CPU의 수요가 굉장히 많아졌습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -1755,7 +1743,7 @@
     "subheading": "",
     "text": "AMD는 2020년 1분기부터 서버 프로세서 분야에 큰 반향을 일으키고 있습니다. 보다 향상된 EPYC 프로세서 성능을 기반으로 AMD는 데이터 센터 사업을 두 배로 확장할 계획입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1771,12 +1759,10 @@
     "subheading": "",
     "text": "AMD 서버의 시장 지분율은 낙관적이며 가격도 상승하는 추세입니다. 그러나 많은 수요로 인해 공급 제약은 불가피해 보입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -2242,7 +2228,7 @@
     "subheading": "",
     "text": "현재 AMD Ryzen 3xxx 시리즈(Zen 2, Matisse)의 공급은 오픈 마켓에서 제한적인 상태로 유지되고 있습니다. AMD가 2020년 10월에 새로운 AMD Ryzen 4000 데스크톱 CPU의 출시를 준비 중이라는 얘기가 들려옵니다. 이 무렵은 휴가철을 눈앞에 두고 있을 시점으로, 소비자들은 전통적으로 이 무렵에 새로운 전자제품과 고급스러운 각종 새로운 장치에 가장 많이 지출합니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2258,10 +2244,8 @@
     "subheading": "",
     "text": "모바일 Gemini Lake 및 Gemini Lake Refresh의 공급 제약이 4분기에 개선될 기미를 보이지 않고 있고 2021년 1월이나 2월까지 계속될 수 있습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -2276,7 +2260,7 @@
     "subheading": "",
     "text": "Intel 이 1세대 10NM Ice Lake 모바일 CPU에서 2세대 10NM Tiger Lake 버전을 중심으로 집중 할 것이라는 소문이 돌고 있습니다. 이 사실이 확인될 경우에는 Ice Lake 모바일 CPU 공급이 제한될 것으로 예상됩니다. Intel의 Tiger Lake Mobile CPU가 AMD의 4000 Renoir 모바일 시리즈보다 성능이 더 뛰어나 실질적 경쟁 제품인 것으로 홍보되고 있으므로 이런 현상은 이해할 만합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -2294,7 +2278,7 @@
     "subheading": "",
     "text": "그럼에도 불구하고, AMD의 4000 Renoir 모바일 시리즈가 소비자 시장에서 압도적으로 뜨거운 호응을 얻고 있어 수요가 두 배로 늘었다는 소식을 듣고 있습니다. 고객들은 이런 추세에 대응해 Ryzen 3000 시리즈 ‘Picasso’로 다시 돌아가는 데는 거부감을 보이는데, 이 시리즈 역시 공급이 제한적이기 때문입니다. 4분기에도 수급 문제가 계속 될 것이므로, 우리는 고객에게 Ryzen 3000 시리즈 상황을 주의 깊게 살펴 단호히 결정 하도록 권고하고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -2772,7 +2756,7 @@
     "subheading": "",
     "text": "한편, AMD는 10월 28일에 차세대 GPU를 발표할 예정입니다. 일부 업계 전문가는 차세대 모델의 사양의 NVIDIA의 RTX 3000 시리즈의 사양에 필적하거나 더 나을 것으로 예측합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -2952,10 +2936,8 @@
     "subheading": "",
     "text": "가정용 수요의 증가에는 USB 오디오 헤드셋과 같은 오디오 제품도 포함됩니다. 이로 인해 생산이 세계적인 수요 급증을 따라잡기 버거운 상황으로 내몰리면서 최고의 오디오 브랜드로 손꼽히는 Logitech이 공급 제약에 직면했습니다.",
     "detected_vendors": [],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -2969,7 +2951,7 @@
     "subheading": "",
     "text": "AMD는 최근에 Zen 3 아키텍처를 가진 최신 7NM 데스크톱 CPU인 새로운 Ryzen 5000 시리즈 ‘Vermeer’ (AMD Ryzen 9 5950X, Ryzen 9 5900X, Ryzen 7 5800X, Ryzen 5 5600X) 를 발표했습니다. 이런 고급형 데스크톱 CPU 는 게이머, 콘텐츠 제작자, PC 애호가를 겨냥한 제품입니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3101,10 +3083,8 @@
     "detected_vendors": [
       "Intel"
     ],
-    "detected_keywords": [
-      "Shortage"
-    ],
-    "risk_level": "High"
+    "detected_keywords": [],
+    "risk_level": "Low"
   },
   {
     "year": 2020,
@@ -3250,7 +3230,7 @@
     "subheading": "",
     "text": "AMD는 경쟁사에 비해 시장 점유율을 늘리고 350억 달러 규모의 Xilinx 인수를 통해 성장할 것으로 전망합니다. AMD는 컴퓨터의 디지털 두뇌 역할을 하는 CPU 전문 기업인 반면, Xilinx는 생산 후 다시 프로그래밍할 수 있는 FPGA 마이크로칩을 만드는 회사입니다. 그 덕분에, 두 회사 모두 신속한 프로토타입 제작과 최신 5G 통신 인프라를 포함한 신흥 기술 분야를 리드하고 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Microchip"
     ],
     "detected_keywords": [
@@ -3270,7 +3250,7 @@
     "subheading": "",
     "text": "Xilinx 는 또한 모든 Spartan 6 (XC6SLX), Virtex 6 및 7, Kintex 7 (XC7K) FPGA 패밀리 제품에 대해 25% 의 가격 인상이 있을 것이라고 발표했습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -3324,9 +3304,10 @@
       "삼성"
     ],
     "detected_keywords": [
-      "Lead Time"
+      "Lead Time",
+      "Natural Disaster / Incident"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -3343,9 +3324,10 @@
     ],
     "detected_keywords": [
       "Allocation",
-      "Lead Time"
+      "Lead Time",
+      "Natural Disaster / Incident"
     ],
-    "risk_level": "Medium"
+    "risk_level": "High"
   },
   {
     "year": 2020,
@@ -3587,7 +3569,7 @@
     "subheading": "",
     "text": "Nvidia와 직접적인 경쟁 관계에 있는 AMD 는 역시 이번 달 말에 출시 예정인 새로운 ‘Big Navi’ GPU 인 Radeon 의 RX 6000 시리즈 출시를 통해 Nvidia의 RTX 30 시리즈에 정면으로 맞서게 됩니다. AMD 의 ‘Big Navi’ 는 TSMC 7nm 다이를 통합한 제품으로, (Nvidia 의 RTX 30 시리즈에 사용되는) 삼성의 8nm 보다 수율이 높다고 합니다. 따라서 AMD 는 공급에 있어 Nvidia 보다 유리할 수 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC",
       "삼성"
@@ -3606,7 +3588,7 @@
     "subheading": "",
     "text": "역사적으로, AMD 는 Nvidia 보다 낮은 가격 벤치마크를 설정했습니다. Nvidia 의 RTX 30 시리즈와 AMD의 ‘Big Navi’ 시리즈가 모두 성능면에서 비슷하다면 가격이 그래픽 부문에서 누가 승자로 떠오를지 결정하는 요인이 될 것 입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -3624,7 +3606,7 @@
     "subheading": "",
     "text": "AMD 에서 새로 출시한 Ryzen 5000 시리즈, ‘Vermeer’ 데스크톱 프로세서는 재입고 시마다 날개 돋친 듯 팔려나갔습니다. 이 때문에 이 프로세서는 오픈 마켓에서 그리 널리 사용되지 않습니다. 따라서 구매자는 제품에 대한 프리미엄을 지불할 것으로 예상할 수 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3641,7 +3623,7 @@
     "subheading": "",
     "text": "현재, AMD 는 Intel의 데스크톱 CPU, 11세대 시리즈, ‘Rocket Lake’ 로 데스크톱 환경에서 우위를 점하고 있는 것 같지만 이 시리즈는 적어도 2021년 1분기까지 출시되지 않을 것입니다. 시간이 지나야만 이 시리즈가 AMD 의 Ryzen 5000 시리즈, ‘Vermeer’ 의 아성을 무너뜨릴 수 있을지 알 수 있을 것입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -3660,7 +3642,7 @@
     "subheading": "",
     "text": "AMD의 Ryzen 4000 시리즈, ‘Renoir’ 모바일 프로세서에 대한 수요가 계속해서 공급을 초과함에 따라 고객들은 이전 모델인 AMD의 Ryzen 3000 시리즈, ‘Picasso’ 로 점점 다시 전환하고 있습니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -3678,7 +3660,7 @@
     "subheading": "",
     "text": "요약하자면 시장이 최신 기술, 즉 AMD의 Ryzen 4000 시리즈, ‘Picasso’, 7nm 모바일 프로세서를 채택하고 사용하도록 하기 위해 AMD의 Ryzen 3000 시리즈, ‘Renoir’, 12nm 모바일 프로세서의 생산량을 축소했습니다. 결과적으로 AMD는 이제 새로운 시리즈의 공급 부족으로 인해 궁지에 몰렸습니다. 단 2개의 모바일 제품 공급이 부족한 상황에서 AMD는 이 같은 공급 격차를 메울 방법이 부족합니다.",
     "detected_vendors": [
-      "Amd"
+      "AMD"
     ],
     "detected_keywords": [
       "Shortage"
@@ -3716,7 +3698,7 @@
     "subheading": "",
     "text": "따라서 AMD 의 모바일 프로세서에서 Intel로 다시 전환하기로 결정한 고객에게 오픈 마켓 가용성을 확인하기를 촉구합니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel"
     ],
     "detected_keywords": [],
@@ -3770,7 +3752,7 @@
     "subheading": "",
     "text": "Fusion Worldwide 의 고객과 공급업체들은 이러한 공급 부족 현상이 AMD CPU 공급에 영향을 미칠 것이라는 사실을 확인했습니다. 소식통에 따르면 기판 제조업체들은 AMD 보다 Intel 과 Nvidia 를 우선시해 왔고, 더 많은 공급 물량을 확보하려는 이 회사의 노력은 상당히 역부족이었습니다. AMD 는 수익성이 더 높은 고급 CPU 를 위해 최소 1월 말까지 소형 코어 카운트 프로세서에 대한 지원을 축소할 것으로 보입니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Intel",
       "Nvidia"
     ],
@@ -4040,7 +4022,7 @@
     "subheading": "",
     "text": "마지막으로, AMD 가 Nvidia 의 RTX 3000 시리즈에 대한 경쟁 제품으로 새로운 Radeon RX 6000 시리즈 GPU 를 공식 발표한 후 차세대 GPU 에 대한 싸움이 여전히 진행되고 있습니다. AMD 는 또한 Radeon RX 5700 과 같은 구세대 GPU의 생산을 중단하여 차세대를 위한 길을 닦고 생산 용량을 확보했습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -4057,7 +4039,7 @@
     "subheading": "",
     "text": "Nvidia 는 주로 AMD RX 6000 시리즈에 비해 가격과 기능적 성능 면에서 전혀 경쟁력이 없는 이유 때문에 RTX 3080 20GB, 3070Ti 및 3070 16GB 등 3가지 모델 출시 계획을 취소했다는 소문이 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia"
     ],
     "detected_keywords": [],
@@ -4074,7 +4056,7 @@
     "subheading": "",
     "text": "더군다나 AMD 는 새로운 워크스테이션/가속기 GPU 를 공개할 예정인 데, 11월 중순에 출시될 것으로 예상됩니다. 이 제품은 최근 출시된 Nvidia 의 A100 40GB 와 같은 Ampere 시리즈 워크스테이션 GPU와 대항할 것입니다. Nvidia 가 더 나은 수율을 위해 2021년 1분기까지 소비자 등급 GPU 생산을 TSMC 7nm 로 전환하여 공급을 늘리고 시장 점유율을 확보할 것이라는 시장 예측이 있습니다.",
     "detected_vendors": [
-      "Amd",
+      "AMD",
       "Nvidia",
       "TSMC"
     ],
