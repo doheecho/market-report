@@ -5807,6 +5807,54 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       }
     };
 
+    window.toggleMarketFactorsCollapse = function() {
+      const target = document.getElementById("market-factors-root");
+      const btn = document.getElementById("btn-market-factors-collapse");
+      if (target.style.display === "none") {
+        target.style.display = "grid";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleMarketRequestsCollapse = function() {
+      const target = document.getElementById("market-requests-root");
+      const btn = document.getElementById("btn-market-requests-collapse");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleMarketSensitivityCollapse = function() {
+      const target = document.getElementById("market-sensitivity-root");
+      const btn = document.getElementById("btn-market-sensitivity-collapse");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleMarketRiskPartnersCollapse = function() {
+      const target = document.getElementById("market-risk-partners-root");
+      const btn = document.getElementById("btn-market-risk-partners-collapse");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
     window.renderDlPagination = function(totalItems, currentPage, onPageChange) {
       const container = document.getElementById("dl-pagination-container");
       if (!container) return;
