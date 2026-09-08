@@ -12,6 +12,7 @@
     "text": "삼성전자의 말레이시아 생산 공장도 생산능력의 최대 60%까지만 운영할 수 있고, Kemet의 생산 공장도 생산능력을 축소 운영하고 있습니다. 이런 상황이 얼마나 계속될지, 결과적으로 어떤 장기적 효과가 나타날 수 있을지는 알 수 없습니다.",
     "detected_vendors": [
       "Kemet",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -141,7 +142,6 @@
     "subheading": "리드 타임 연장 및 할당",
     "text": "AVX 및 Kemet 탄탈륨 커패시터의 리드타임은 24~28주에 달합니다.",
     "detected_vendors": [
-      "AVX",
       "Kemet"
     ],
     "detected_keywords": [

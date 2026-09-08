@@ -441,6 +441,7 @@
     "detected_vendors": [
       "AMD",
       "Nvidia",
+      "Samsung",
       "TSMC",
       "삼성"
     ],

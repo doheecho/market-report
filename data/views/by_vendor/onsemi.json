@@ -140,6 +140,7 @@
     "text": "베트남도 코로나19 발병으로 인해 봉쇄 조치를 9월 15일까지 연장했습니다. 삼성전자와 OnSemiconductor가 이 지역에서 영향을 받는 주요 제조업체로 손꼽히며, 이들 기업은 엄격한 정부 지침을 따르기 위해 조업 인력을 제한해야 합니다.",
     "detected_vendors": [
       "Onsemi",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],

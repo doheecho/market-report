@@ -90,6 +90,7 @@
     "subheading": "기술 기업계의 거인 삼성, NAND 플래시 공장 신축",
     "text": "삼성은 여전히 NAND 플래시 메모리 부문의 1위 제조업체로, 그 리더십을 계속 이어나갈 길을 모색하고 있습니다. 작년에 출시한 6세대 V-NAND(100개 이상의 계층을 가진 단일 스택 3D 메모리 다이)의 발명으로 3D 메모리를 새로운 차원으로 끌어 올립니다. 이런 변화에 부응하여, 삼성은 인공지능, 사물인터넷(IoT), 5G와 같은 신기술에서 창출되는 수요를 충족시키기 위해 NAND 플래시 생산 능력을 확대할 계획을 가지고 있습니다. 즉, 차세대 메모리 기술의 허브인 평택으로 생산 기지를 확장한다는 계획입니다. 또한 클라우드 하드웨어 주문량 감소로 인한 역풍에도 불구하고, NAND 제조 부문 리더인 삼성은 여전히 다가오는 하반기 서버 저장 장치 시장에 확신을 가지고서 플래시 생산 확대에 투자하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -441,6 +442,7 @@
     "subheading": "2021년 초에 메모리 수요 증가 예상",
     "text": "삼성은 이 기회를 빌어 생산능력을 새로운 D-다이 모듈로 전환하고 있습니다. C-die 프로젝트가 예정된 최종 사용자 또는 전환 준비가되지 않은 최종 사용자는 버퍼 재고 및 빠른 부족 구매를 위해 오픈 마켓에서 찾을 수 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -646,6 +648,7 @@
     "subheading": "CMOS 센서 시장이 추가로 성장할 것으로 전망",
     "text": "최근 뉴스에서, CMOS 시장 점유율 최상위권으로 손꼽히는 삼성전자는 올해 DRAM 팹 중 하나를 CMOS 이미지 센서 라인으로 전환해 생산능력을 대략 20% 정도 늘릴 수도 있다는 계획입니다. 이에 대응해, Sony는 나가사키 생산 라인에 1,000억 엔 규모의 투자해 향후 5년 내에 시장 점유율을 60%로 끌어올릴 계획입니다.",
     "detected_vendors": [
+      "Samsung",
       "Sony",
       "삼성"
     ],
@@ -681,6 +684,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Winbond",
       "삼성"
     ],
@@ -717,6 +721,7 @@
     "subheading": "DRAM 공급 부족이 2021년 내내 계속될 것으로 보여",
     "text": "DRAM 공급 부족은 2분기에도 지속될 것으로 예상되며 3분기나 4분기에도 그럴 가능성이 꽤 높습니다. 삼성은 현재 수주한 물량을 맞추는 데 이미 애를 먹고 있으므로 일부 벤더에게는 당분간 주문을 받지 말라고 지시했습니다. 이 문제를 해결하기 위해, 삼성은 고객과 협력하며 2분기까지 일부 납품을 미루고 나머지 납품을 전면 취소 처리하는 중입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -775,6 +780,7 @@
     "text": "2020년 하반기에 뜨거운 관심과 수요를 일으킨 Nvidia의 RTX 30xx 시리즈 GPU는 여전히 강세를 보이고 있습니다. 하지만 Nvidia는 파운드리 협력사인 삼성에서 8nm 웨이퍼의 수율이 만족스럽지 않아 생산 문제에 직면했습니다. 더욱이, 일반적인 원자재 공급 부족과 가격 상승(예: PCB 보드 및 GDDR6 메모리 칩)도 Nvidia와 기타 GPU 제조업체에 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -878,6 +884,7 @@
     "subheading": "메모리 DRAM 및 NOR 플래시 수요 충족 불가",
     "text": "2월에 언급했듯이, DRAM과 NOR 플래시 가격이 여러 부문의 풍부한 수요로 인해 계속 급등하고 있습니다. 이들 제품의 공급은 삼성의 텍사스 팹 폐쇄와 8인치 웨이퍼 공급 부족에 더욱 영향을 받을 것으로 생각됩니다. 공급이 빠르게 회복되지는 않을 것입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -913,6 +920,7 @@
     "text": "다른 뉴스에서는 하이닉스가 2GB DDR3의 단종 계획을 공식적으로 발표함에 따라, 고객이 삼성과 Winbond 같은 다른 제조업체로 눈을 돌리게 되었다는 소식이 있습니다. 하지만 이 두 회사 모두 엄청난 수요에 압도되어 당분간은 신규 주문을 받지 않기로 했습니다. 이 때문에 각각 3분기와 4분기쯤 되어야 기존 주문 물량을 인도할 수 있을 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "Winbond",
       "삼성"
     ],
@@ -1045,6 +1053,7 @@
     "text": "전 세계적인 칩 공급 부족이 이어지는 가운데, 삼성과 하이닉스는 모바일와 PC 부문에서 모두 치솟고 있는 DRAM 수요가 심각한 문제를 일으키고 있다고 밝혔습니다. 하이닉스는 이를 해결하기 위해 새로운 웨이퍼 제조 장비를 구매하여 칩 생산에 대한 투자를 늘릴 예정입니다. 하이닉스는 늘어난 리드 타임과 장비 설치에 필요한 기간을 고려해, 당초 2022년으로 예정했던 지출 계획을 올해 말 실시할 계획입니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1481,6 +1490,7 @@
     "text": "중국 시안은 지역 전체로 코로나19 확진자가 발생하면서 봉쇄 조치가 내려졌습니다. 로이터통신 보도에 따르면, 삼성전자와 Micron Technology가 시안에 메모리 칩 공장을 운영 중인데, 이번 정부 봉쇄 조치로 생산 지연이 예상된다고 합니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1518,6 +1528,7 @@
     "subheading": "공급망 중단으로 영향을 받는 DRAM, NAND 및 DIMM 메모리 생산량",
     "text": "한편, 삼성전자는 시안에 두 NAND 플래시 메모리 칩 제조 시설에서 조업을 줄일 것이라고 알렸습니다. NAND 플래시 메모리 칩은 데이터 센터, 스마트폰, 기타 소비자 전자 제품의 데이터 저장 장치에 주로 사용됩니다. 삼성전자의 시안 공장은 전 세계적으로 전체 NAND 생산량의 15.3%를 차지하며 이곳의 생산능력 중 42.3%가 NAND 생산에 의존하므로, 조업 중단으로 시장에 악영향을 미칠 수 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1854,6 +1865,7 @@
     "text": "반대로 삼성, Micron 및 다른 프랜차이즈 유통업체는 이전 예약으로 인해 높은 수준의 재고와 생산량을 갖추고 있습니다. 개인용 컴퓨터 및 노트북을 포함한 컴퓨터 제품은 데이터 센터의 수요 감소와 충분한 공급을 받는 고객 덕분에 현재 하락하는 추세입니다. 이로 인해 DDR4, LPDDR 및 eMMC의 가격이 하락할 것으로 예상됩니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1920,6 +1932,7 @@
     "text": "제조 역량과 관련하여, 삼성의 한국 내 시설은 올해  최대치를 생산했으며, 14NM 팹을 위해 2023년 1분기 DRAM 증산을 위한 새로운 공장을 오픈할 것이라고 발표했습니다. 경쟁사인 SK Hynix도 이를 따라 중국 우시 및 한국에 있는 공장에서 증산에 들어갔습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2015,6 +2028,7 @@
     "subheading": "저장 장치 시장 활동의 둔화와 대조적으로 고밀도 SSD 주문은 증가 추세",
     "text": "벤더들은 삼성 PM883 1.92T 이상과 같은 고밀도 SSD에 대한 현물 문의와 수요가 증가하는 것을 확인하고 있습니다. PM883 1.92TB의 가격은 제조업자가 시리즈를 중단하고 결과적으로 재고가 소진됨에 따라 10~15% 인상되었습니다. 64단 플래시 가격은 안정되었고 NAND 기술을 사용하는 SSD 제품 가격은 공급 과잉 상태임에도 불구하고 당분간은 변동이 나타나지 않을 것으로 예상됩니다. 이에 비해 112단 플래시를 사용하는 제품은 가격 협상의 여지를 더 크게 남겨 두고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2144,6 +2158,7 @@
     "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "text": "반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2251,6 +2266,7 @@
     "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
     "text": "삼성 시리즈 S4510, 240GB, 480GB는 여전히 사람들이 가장 많이 찾는 모델이며 고객들은 비용 절감 기회를 적극적으로 찾고 있습니다. 하지만 수요가 점차 감소하고 있고, 벤더들은 현재 재고에서 손실을 보고 있기 때문에 재고를 덜 끌어들이고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2272,6 +2288,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2450,6 +2467,7 @@
     "subheading": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
     "text": "이 때문에 삼성은 다음 분기에는 생산을 줄이겠다는 발표를 했습니다. 대신, 삼성은 제품 라인 효율성과 라인 설비 호환성을 증진하여 투자 효율성을 높이고 구조를 개선할 계획입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2539,6 +2557,7 @@
     "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2560,6 +2579,7 @@
     "text": "고객들이 DDR4에서 DDR5로 점차 전환하고 있는 것으로 보이기 때문에 이러한 제약은 2024년까지 계속될 수 있습니다. 이러한 전환은 DDR5의 향상된 성능, 고용량 지원 기능 및 향상된 전력 효율성 때문일 확률이 높습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2582,6 +2602,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2642,6 +2663,7 @@
     "subheading": "메모리 제조업체, 시장 회복에 따른 가격 하락 방지에 집중",
     "text": "또한 전력 관리 집적 회로(PMIC)의 문제가 DDR5 메모리 모듈 공급에 영향을 미쳐 가격이 상승하는 추세에 있습니다. 제조업체들은 이 문제를 신속하게 해결하려고 노력했지만, 삼성 RDIMM의 공급 차질은 쉬 사그러들지 않고 있습니다. 삼성은 64GB 5600 DDR5의 PMIC 문제를 해결하는 데 성공했습니다. 남아있는 재고 제약이 대부분 256GB에 국한되어 있긴 하지만, 전체 공급량은 아직 정상 수준으로 회복되지 않았습니다. 회복에는 2~3개월이 더 걸릴 것으로 보입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2816,6 +2838,7 @@
     "subheading": "DDR4 및 DDR5 가격 경쟁 심화",
     "text": "DDR4 RDIMM의 오픈 마켓 가격은 특히 64GB의 경우 여전히 경쟁력이 있지만 DDR5 128GB 및 256GB 공급은 여전히 제한적입니다. DDR5 128GB는 5월부터 인기를 끌었으며 이러한 모듈에 대한 수요가 가용성을 훨씬 초과합니다. 삼성에서 1년 내내 생산량을 지속적으로 줄이다가 품질 문제를 겪은 이후 6월부터 DDR5 256Gb에 대한 제약 조건이 시작됐습니다. 또한 DDR5 제약 조건은 글로벌 전망 부족과 AI 산업의 예상치 못한 강세로 인해 악화되었습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2852,6 +2875,7 @@
     "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3056,6 +3080,7 @@
     "subheading": "다양한 시장 상황 속에서 DDR3, DDR4, DDR5 가격 인상 단행",
     "text": "또는 DDR3 수요는 수요에 큰 변화가 없었지만 제조업체가 생산량을 줄인 후 리드 타임이 4주에서 12주로 늘어났습니다. 삼성 유통업체에 따르면 제조업체는 10월 가격 조정을 예상하고 인하를 단행했다고 합니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3282,6 +3307,7 @@
     "subheading": "스토리지 수요 증가로 NAND 플래시 시장 반등",
     "text": "2023년의 낮은 수요로 NAND 시장은 상당히 위축됐습니다. 가격이 지속적으로 하락하여 해당 연도 대부분의 기간 NAND 플래시는 원가 수준에서 판매되었습니다. 이에 삼성 및 기타 플래시 메모리 제조사들은 생산량을 50%까지 줄였습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3384,6 +3410,7 @@
       "Micron",
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3489,6 +3516,7 @@
       "Micron",
       "Nanya",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3505,6 +3533,7 @@
     "subheading": "수요 증가 및 공급 제약으로 인한 DDR 가격 급등",
     "text": "삼성에서도 재고를 상당량 보류하고 있는 것으로 알려져 공급 상황이 더욱 악화될 것입니다. DDR3 및 DDR4 수요가 계속 급증함에 따라 공급 부족으로 인해 향후 2분기 이내에 가격 급등이 추가로 발생할 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3650,6 +3679,7 @@
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3703,6 +3733,7 @@
     "text": "Micron, 삼성에서 HBM 공급을 늘리고 있으며 이러한 신제품을 지원하기 위해 생산량을 전환할 계획입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3897,6 +3928,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3918,6 +3950,7 @@
     "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3975,6 +4008,7 @@
     "text": "마이크론 테크놀로지와 삼성전자의 실적 보고서에 따르면, AI 기술에 집중하는 데이터 센터 및 클라우드 서비스 제공업체들이 RDIMM 수요의 주요 원동력입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4130,6 +4164,7 @@
     "text": "삼성전자와 마이크론 테크놀로지의 최신 실적 보고서에 따르면 AI와 클라우드 컴퓨팅의 발전으로 HBM에 대한 수요가 빠르게 증가하고 있습니다. HBM3E 제품 출시로 인한 매출 증가가 특히 두드러지며, AI와 데이터 센터 부문에서 그 영향이 가장 큽니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4169,6 +4204,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4203,6 +4239,7 @@
     "detected_vendors": [
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4224,6 +4261,7 @@
     "text": "8-High에서 12-High HBM으로의 전환과 전력 효율 및 성능 향상은 2025년까지 가속화될 전망입니다. 마이크론은 전력 효율적인 HBM 제품에서 리더십을 발휘하고 있으며, 삼성의 대규모 HBM3E 생산 능력은 경쟁 구도를 변화시킬 가능성이 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4328,6 +4366,7 @@
     "text": "삼성과 마이크론의 최근 실적 보고서에 따르면 AI 투에 힘입어 클라우드 서비스 제공업체들이 전통적인 DRAM에 대한 수요를 크게 증가시키고 있습니다. AI 서버는 고대역폭 메모리(HBM)뿐만 아니라 일반 DRAM도 대량으로 필요로 하여 DDR5 수요가 지속되고 있습니다. 또한 기존 서버 시장의 리프레시 주기가 진행되면서 효율성과 성능이 향상되고, 스마트폰의 AI 기능 통합과 자동차 애플리케이션의 성장으로 인해 DRAM 수요가 증가하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4347,6 +4386,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4413,6 +4453,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4449,6 +4490,7 @@
     "text": "삼성과 마이크론의 최근 실적 보고서에 따르면 스마트폰에서의 온디바이스 AI 수요가 증가하면서 LPDDR 수요가 급증하고 있으며, 저전력 소비가 중요한 요소로 부각되고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4585,6 +4627,7 @@
     "subheading": "RDIMM 가격 하락과 변화하는 수요",
     "text": "DDR5 4800 속도의 모듈에 대한 관심이 감소하면서 단종(EOL) 공지가 발표되었습니다. Samsung의 4800 RDIMM 모듈은 2025년 2월이 마지막 구매 기회이며, 최종 출하는 2025년 8월로 예상됩니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4700,6 +4743,7 @@
     "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "Samsung은 2025년 하반기 수요 회복을 기대하고 있으나, 단기적으로는 모바일, PC, 메모리 가격 측면에서 여전히 부담 요인이 존재한다고 밝혔습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4778,6 +4822,7 @@
     "subheading": "RDIMM",
     "text": "삼성은DDR4단종을 공식 발표했으며, 최종 주문 마감일은 2025년 6월, 최종 출하일은 2025년 12월입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4797,6 +4842,7 @@
     "subheading": "스토리지",
     "text": "삼성은 SSD 및 RAM 생산을 줄일 준비를 하고 있습니다. 동시에 AI 및 전기차 시장 성장을 활용하기 위해 고대역폭 메모리(HBM) 및 자동차용 전자제품 사업을 확장하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4815,6 +4861,7 @@
     "text": "Samsung과 Micron은 DRAM/NAND 가격을 인상할 것으로 예상되어 소비자 메모리 가격이 크게 상승할 전망입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4851,6 +4898,7 @@
     "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4994,6 +5042,7 @@
     "detected_vendors": [
       "Broadcom",
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5043,6 +5092,7 @@
     "subheading": "DRAM메모리 모듈 병목 현상 및 DDR5 전환",
     "text": "삼성은 3분기 중 주요 재고 방출이 없을 것으로 보이며, LPDDR4/4X 공급은 EOL 상태 및 지속적인 수요로 인해 크게 제한될 것입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5079,6 +5129,7 @@
     "subheading": "RDIMM 수요 재정렬 및 가격 압박",
     "text": "삼성 RDIMM의 직접 가격은 20~30% 상승할 것으로 보입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5295,6 +5346,7 @@
     "text": "삼성과 Hynix는 AI 서버용 96GB 및 128GB DDR5 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이 (~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5316,6 +5368,7 @@
     "subheading": "생산 우선순위 및 용량 전환",
     "text": "삼성은 극심한 시장 변동성을 반영해 LPDDR4/4X 가격 협상을 분기별에서 월별로 전환했습니다. 지난 두 달간 계약 가격이 급등했습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5370,6 +5423,7 @@
     "subheading": "타이트한 배정 및 가격 인상 전망",
     "text": "신규 생산이 없어 DDR4 모듈 가격은 계속 상승하고 있습니다. 삼성은 잔여 재고에 대해 20~30% 가격 인상을 통보했으며, Kingston은 이미 데스크톱 DDR4 DIMM 가격을 35% 인상했습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5424,6 +5478,7 @@
     "subheading": "DRAM메모리 생산 재개 및 용량 문제",
     "text": "삼성은 극도의 시장 변동성을 반영해 가격 협상 주기를 분기에서 월 단위로 전환했다. 지난 두 달 동안 계약 가격이 크게 급등했다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5472,6 +5527,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버(B200/B300)용 96GB 및 128GB 고용량 모듈이 가장 큰 제약을 받고 있다. 삼성의 96GB(Q-die)는 공급이 다소 나은 편이지만, 128GB는 다이 공유 생산으로 인해 여전히 매우 타이트하다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5491,6 +5547,7 @@
     "text": "DDR4보다 가용성은 높지만, DDR5 역시 현재 심각한 할당 압력에 놓여 있다.삼성과 Hynix는 AI 서버용 96GB 및 128GB 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이(~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5513,6 +5570,7 @@
     "text": "SK하이닉스는 2026년 하반기까지 DRAM 웨이퍼 생산능력을 월 60만 장으로 두 배 확대해 삼성의 규모에 맞출 계획인 반면, 수요 부진으로 NAND 투자는 축소할 것으로 전해진다. DRAM 가격은 이미 상승 중이며, 일부 보고에 따르면 이번 달에만 약 15% 인상되었다. 최근 몇 년간 NAND 설비투자가 DRAM에 비해 더디게 진행되어, 향후 NAND 부족 가능성에 대한 우려가 커지고 있다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5532,6 +5590,7 @@
     "subheading": "삼성",
     "text": "삼성전자는 2022년 이후 가장 높은 분기 실적을 예상하며, 2025년 7~9월 영업이익을 12.1조 원(85억 달러)으로 전망한다. 이번 급증은 데이터센터 서버에 대한 강한 수요에 힘입어 범용 메모리(DRAM과 NAND)의 타이트한 공급과 가격 상승이 견인했다. [Source: Reuters]",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5552,6 +5611,7 @@
     "text": "양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5568,6 +5628,7 @@
     "subheading": "202526년 대규모 메모리 부족 심화",
     "text": "삼성은 DDR5 모듈의 계약 가격을 최대 60%까지 인상한 것으로 전해지며, 32GB 가격이 급등했다. 고객들은 최소한의 공급을 확보하기 위해 주간 단위의 비협상 가격과 NCNR 조건을 강제로 받아들이고 있다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5589,6 +5650,7 @@
     "text": "Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5649,6 +5711,7 @@
     "text": "삼성은 DDR5 모듈 가격을 인상했다. 16GB, 32GB 및 128GB 모듈 가격은 약 50% 상승했다.",
     "detected_vendors": [
       "Broadcom",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5669,6 +5732,7 @@
       "Broadcom",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5778,6 +5842,7 @@
     "subheading": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",
     "text": "삼성, 메모리 부족으로 사상 최대 수준의 실적 전망: 삼성전자는 “전통적 메모리 칩의 공급 타이트 및 가격 상승”을 이유로 2025년 3분기 2022년 이후 최고 분기 실적을 기록할 것으로 예상했다. 이는 진행 중인 시장 공급난의 직접적 결과다. [Source: Reuters]",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5799,6 +5864,7 @@
     "text": "Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5817,6 +5883,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5989,6 +6056,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6009,6 +6077,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6086,6 +6155,7 @@
     "subheading": "메모리 생산 재개 및 용량 문제",
     "text": "삼성은 DDR5 계약 가격을 최대 60% 인상했으며, 고객들은 주간 단위의 협상 불가 NCNR 계약으로 내몰리고 있습니다. 32GB / 64GB / 96GB / 128GB 모듈은 현재 일일 단가로 견적되며, 가격은 주간 기준 5~10%씩 상승하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -6135,6 +6205,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버 수요가 96GB/128GB 모듈의 급성 부족을 유발하고 있습니다. 삼성의 96GB(Q-die)는 소폭 가용하나, 128GB는 다이 공유 제약으로 인해 여전히 극도로 타이트합니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6173,6 +6244,7 @@
     "text": "키옥시아 BG6 NVMe SSD는 거의 구할 수 없는 수준으로, NAND 플래시 부족이 본격화되는 조짐을 보입니다. 삼성은 1월에 SATA SSD의 유통사 판매를 전면 중단했습니다. 메모리 제조사들이 DRAM 및 HBM 생산 유지를 우선하면서 NAND 생산은 감소했습니다.",
     "detected_vendors": [
       "Kioxia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6192,6 +6264,7 @@
     "subheading": "삼성, 4분기 사상 최대 이익 전망",
     "text": "메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -6210,6 +6283,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6286,6 +6360,7 @@
     "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "DDR5 RDIMM 64GB 계약 가격은 전 분기 대비 75~125% 급등했습니다. 현물 가격은 2,300~3,000달러 이상에서 형성되고 있습니다. 삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6324,6 +6399,7 @@
     "text": "차량용- 8GB 및 16GB eMMC는 심각한 공급 부족이 발생하고 있습니다. 삼성과 마이크론은 사실상 견적 제시를 중단했으며, 리드타임은 2027년까지 연장되었습니다. SanDisk는 2026년 요청 물량의 15~20%만 계획할 것을 고객사에 안내했습니다. 레거시 eMMC 가격은 AI 가속기에 사용되는 -HBM3E/HBM4로 생산 능력이 재배치되면서 세 배로 상승했습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6363,6 +6439,7 @@
     "text": "엔터프라이즈 SSD 가격은 전 분기 대비 50~90% 상승했습니다. Solidigm과 삼성은 주 단위로 가격을 재조정하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -6494,6 +6571,7 @@
       "Macnica",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6569,6 +6647,7 @@
     "text": "Samsung 및 Micron의 8GB/16GB 자동차용 eMMC는 심각한 공급 부족 상태이다. 레거시 eMMC 가격은 3배 상승했으며, AI 가속기용 HBM3E/HBM4 생산 집중으로 공급이 축소되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6607,6 +6686,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6625,6 +6705,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버 수요로 96GB/128GB 모듈이 심각하게 부족하다. Samsung 96GB(Q-die)는 일부 공급 가능하지만 128GB는 다이 공유 문제로 극히 부족하다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6703,6 +6784,7 @@
     "subheading": "제조사 뉴스 및 업데이트",
     "text": "Samsung은 2026년 하반기 출시 예정인 Apple 최초 폴더블 iPhone에 12GB LPDDR5X 메모리를 공급하는 계약을 수주한 것으로 알려졌다. 이번 계약은 DRAM 공급 긴축 상황을 반영하며, LPDDR5X 가격은 2025년 대비 두 배 상승한 것으로 전해진다. [출처:Digitimes]",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -6738,6 +6820,7 @@
     "text": "1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6794,6 +6877,7 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6925,6 +7009,7 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "삼성 DDR5 RDIMM 64GB 계약 가격은 전분기 대비 75~125% 상승했다. 현물 가격은 2,300 ~ 3,000 이상이며, 하이퍼스케일러는 2030년까지 장기 계약을 체결하여 기존 OEM 및 자동차 시장은 최소 2027년까지 배제되고 있다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6963,6 +7048,7 @@
     "text": "8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7122,6 +7208,7 @@
     "text": "자동차 등급 8GB/16GB LPDDR4/5 및 eMMC의 공급 부족이 지속되고 있다. Samsung과 Micron은 신규 견적 제공을 대부분 중단했으며, 리드타임은 2027년까지 연장되었다. ISSI는 신규 eMMC 주문의 출하가 2028년까지 불가능하다고 확인했으며, 이에 따라 공격적인 듀얼 소싱 전략이 추진되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7219,6 +7306,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7291,6 +7379,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7334,6 +7423,7 @@
       "Kioxia",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7448,6 +7538,7 @@
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7488,6 +7579,7 @@
     "subheading": "메모리 유동적 가격 책정 및 단종 확산",
     "text": "DDR5 RDIMM의 비하이퍼스케일러 대상 공급 충족률은 여전히 30% 미만입니다. 64GB 모듈의 현물 가격은 통상 3,100달러를 넘고 있으며, 계약 가격은 전월 대비 8~10%씩 계속 상승하고 있습니다. Samsung은 2026년 하반기에 5600MHz 제품보다 6400MHz 제품의 생산 비중을 전략적으로 확대하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7549,6 +7641,7 @@
     "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [

@@ -66,6 +66,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -126,6 +127,7 @@
     "subheading": "기술 기업계의 거인 삼성, NAND 플래시 공장 신축",
     "text": "삼성은 여전히 NAND 플래시 메모리 부문의 1위 제조업체로, 그 리더십을 계속 이어나갈 길을 모색하고 있습니다. 작년에 출시한 6세대 V-NAND(100개 이상의 계층을 가진 단일 스택 3D 메모리 다이)의 발명으로 3D 메모리를 새로운 차원으로 끌어 올립니다. 이런 변화에 부응하여, 삼성은 인공지능, 사물인터넷(IoT), 5G와 같은 신기술에서 창출되는 수요를 충족시키기 위해 NAND 플래시 생산 능력을 확대할 계획을 가지고 있습니다. 즉, 차세대 메모리 기술의 허브인 평택으로 생산 기지를 확장한다는 계획입니다. 또한 클라우드 하드웨어 주문량 감소로 인한 역풍에도 불구하고, NAND 제조 부문 리더인 삼성은 여전히 다가오는 하반기 서버 저장 장치 시장에 확신을 가지고서 플래시 생산 확대에 투자하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -293,6 +295,7 @@
     "text": "최근의 SSD 시장 수요는 비교적 현상을 유지해왔고, 그 때문에 지난 분기 내내 현물 시장 가격은 하락세였습니다. 구매력은 소비자의 선택에 따라 달라지므로 SSD 가격이 얼마나 계속 떨어질지는 알 수 없습니다. 최근 몇 달 동안 시장 활동이 부족함에도 불구하고 Intel 및 Samsung과 같은 주요 SSD 제조업체는 SSD 부문의 잠재적 성장에 대해 여전히 낙관적입니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -553,6 +556,7 @@
     "detected_vendors": [
       "Intel",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -571,6 +575,7 @@
     "subheading": "삼성, 생산 감소키로",
     "text": "삼성의 SSD 공급이 SSD 생산에 중요한 IC 컨트롤러 칩을 생산하는 텍사스 제조공장의 폐쇄로 인해 심각한 영향을 받았습니다. 그 점 때문에, 5월에는 일부 삼성 SSD의 생산량이 30% 감소할 수 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -761,6 +766,7 @@
     "subheading": "3분기에 빠듯해질 SSD 공급",
     "text": "삼성전자의 SSD 가격도 3분기에 10~20% 인상될 것 같습니다. 삼성전자는 2021년 8월 PM883, SM883, PM983의 단종을 발표할 계획이었지만, 많은 고객이 새 시리즈로 전환할 계획이 없어 단종 일정을 2022년 3월로 미루었습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -891,6 +897,7 @@
     "subheading": "삼성전자, 주력 생산품 전환",
     "text": "삼성전자는 3분기로 예상되는 원자재 공급 부족 상황에 대비해 소비자용 SSD 제조로 초점을 전략적으로 옮길 예정입니다. 그 대신에, 삼성전자는 최근 몇 년간 수요가 급증한 NVME SSD를 고려해 NVME 라인업에 주력한다는 방침입니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -910,6 +917,7 @@
     "subheading": "삼성전자, 주력 생산품 전환",
     "text": "삼성전자 벤더들은 모든 기업용 SSD의 가격이 12~18% 뛰었다는 정보를 공유해주었습니다. 가격 인상 외에도, 이러한 제품의 할당이 제한적인 상황은 그대로 유지됩니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1075,6 +1083,7 @@
     "subheading": "SSD 가격은 계속 오를 전망",
     "text": "수요와 생산 비용이 증가할 것으로 예상하는 삼성전자는 SSD 가격을 다시 한 번 인상했습니다. 이는 고객이 가격 급등을 받아들일 준비가 되지 않았기 때문에 저항에 부딪혔습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1091,6 +1100,7 @@
     "subheading": "SSD 가격은 계속 오를 전망",
     "text": "하지만 삼성전자의 SM883 1.92T에 대한 수요는 오픈 마켓 가격이 공식 가격보다 15% 높고 주문 리드 타임이 2주에서 4주로 늘어났음에도 영향을 받지 않았습니다. 암호화폐 사업이 중국에서 철수하고 잠재적인 코로나19 관련 봉쇄의 위협으로 인해 향후 몇 주 동안 SSD의 가격이 추가로 인상될 것으로 예상됩니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1224,6 +1234,7 @@
     "text": "삼성전자는 SSD 수요 물량의 60%만 채운 후 재고 부족 상황을 맞이한 관계로, 4분기에 공급 문제로 이어졌습니다. 삼성전자의 240GB 및 960GB SSD는 전 세계적인 컨트롤러 공급 부족으로 인한 생산능력 문제에 직면했습니다. 또한, 최종 사용자의 수요는 가용성과 가격으로 인해 Intel S4510 240GB 및 480GB에서 삼성전자의 PM883으로 옮겨가고 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1335,6 +1346,7 @@
     "subheading": "공급망 중단으로 영향을 받는 DRAM, NAND 및 DIMM 메모리 생산량",
     "text": "한편, 삼성전자는 시안에 두 NAND 플래시 메모리 칩 제조 시설에서 조업을 줄일 것이라고 알렸습니다. NAND 플래시 메모리 칩은 데이터 센터, 스마트폰, 기타 소비자 전자 제품의 데이터 저장 장치에 주로 사용됩니다. 삼성전자의 시안 공장은 전 세계적으로 전체 NAND 생산량의 15.3%를 차지하며 이곳의 생산능력 중 42.3%가 NAND 생산에 의존하므로, 조업 중단으로 시장에 악영향을 미칠 수 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1388,6 +1400,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1556,6 +1569,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1708,6 +1722,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1787,6 +1802,7 @@
       "Intel",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1860,6 +1876,7 @@
     "text": "삼성의 경우, 가격 조정과 관련하여 논의가  진행 중이지만 수요 부진으로  유통업체는  10~20%까지 가격을 인하할 가능성이가 높습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1912,6 +1929,7 @@
     "text": "Samsung PM883 시리즈에 대한 재고가 증가하였으며, 공개 시장 가격은 공식 제조업체 가격보다 10~15% 낮게 형성되어 있습니다. 또한 예전에 부족한 S4510에 대한 공급 문제도 완화되어 가격이 약 5~10% 개선되었습니다. 마찬가지로 스토리지 구성품의 재고 확대가 Intel에 부담을 주고 있으며, Intel은 더 많은 수량의 수요 내에서 가격 협상에 대한 여유를 두기 위해 재고 감소를 모색하고 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1945,6 +1963,7 @@
     "text": "전반적으로, 저장 장치 시장 활동은 고객과 공급업체가 더 많은 재고를 보유해야 함에 따라 감소 추세에 있습니다. Intel과 삼성의 오픈 마켓 가격은 모든 밀도에서 최소 5~10% 하락했지만 저용량(240G, 480G 및 960G)이 가장 큰 폭의 하락을 보였습니다. 벤더들은 이들 제품의 생산이 양호하고 오픈 마켓에서 쉽게 공급이 가능하다고 밝혔습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1962,6 +1981,7 @@
     "subheading": "저장 장치 시장 활동의 둔화와 대조적으로 고밀도 SSD 주문은 증가 추세",
     "text": "벤더들은 삼성 PM883 1.92T 이상과 같은 고밀도 SSD에 대한 현물 문의와 수요가 증가하는 것을 확인하고 있습니다. PM883 1.92TB의 가격은 제조업자가 시리즈를 중단하고 결과적으로 재고가 소진됨에 따라 10~15% 인상되었습니다. 64단 플래시 가격은 안정되었고 NAND 기술을 사용하는 SSD 제품 가격은 공급 과잉 상태임에도 불구하고 당분간은 변동이 나타나지 않을 것으로 예상됩니다. 이에 비해 112단 플래시를 사용하는 제품은 가격 협상의 여지를 더 크게 남겨 두고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2044,6 +2064,7 @@
     "subheading": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
     "text": "반면, 생산 중단된 Samsung PM883 시리즈는 수요가 갑작스레 급증하여 특정 용량에 한해 가격이 증가했습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2078,6 +2099,7 @@
     "subheading": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
     "text": "삼성 시리즈 S4510, 240GB, 480GB는 여전히 사람들이 가장 많이 찾는 모델이며 고객들은 비용 절감 기회를 적극적으로 찾고 있습니다. 하지만 수요가 점차 감소하고 있고, 벤더들은 현재 재고에서 손실을 보고 있기 때문에 재고를 덜 끌어들이고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2099,6 +2121,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2680,6 +2703,7 @@
     "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3055,6 +3079,7 @@
     "subheading": "스토리지 수요 증가로 NAND 플래시 시장 반등",
     "text": "2023년의 낮은 수요로 NAND 시장은 상당히 위축됐습니다. 가격이 지속적으로 하락하여 해당 연도 대부분의 기간 NAND 플래시는 원가 수준에서 판매되었습니다. 이에 삼성 및 기타 플래시 메모리 제조사들은 생산량을 50%까지 줄였습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3216,6 +3241,7 @@
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3237,6 +3263,7 @@
     "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3257,6 +3284,7 @@
     "text": "Solidigm SSD 가격은 4월에 10% 인상되었으며, 시장 보고서에 따르면 5월에도 가격이 계속 상승할 것으로 보입니다. 유통업체의 사전 시장 정보에 따르면 삼성 SSD의 비용이 20~30%까지 인상될 것으로 예상됩니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3606,6 +3634,7 @@
     "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3693,6 +3722,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3729,6 +3759,7 @@
     "text": "삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4056,6 +4087,7 @@
     "subheading": "스토리지",
     "text": "삼성은 SSD 및 RAM 생산을 줄일 준비를 하고 있습니다. 동시에 AI 및 전기차 시장 성장을 활용하기 위해 고대역폭 메모리(HBM) 및 자동차용 전자제품 사업을 확장하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4152,6 +4184,7 @@
     "text": "삼성와Micron은 공식적으로 저용량 SSD(240GB~1TB) 생산을 축소했으며, 이로 인해 일반 애플리케이션용 SSD 공급이 제한되고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4542,6 +4575,7 @@
     "text": "SK하이닉스는 2026년 하반기까지 DRAM 웨이퍼 생산능력을 월 60만 장으로 두 배 확대해 삼성의 규모에 맞출 계획인 반면, 수요 부진으로 NAND 투자는 축소할 것으로 전해진다. DRAM 가격은 이미 상승 중이며, 일부 보고에 따르면 이번 달에만 약 15% 인상되었다. 최근 몇 년간 NAND 설비투자가 DRAM에 비해 더디게 진행되어, 향후 NAND 부족 가능성에 대한 우려가 커지고 있다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4641,6 +4675,7 @@
     "text": "Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4680,6 +4715,7 @@
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4700,6 +4736,7 @@
     "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20~30% 가격 인상이 적용되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4802,6 +4839,7 @@
     "subheading": "SSD",
     "text": "삼성 및 Solidgm의 엔터프라이즈/컨슈머 SSD 공급 부족은 2026년 1분기에 더욱 악화되고 있습니다. 엔터프라이즈 SSD는 최소 20% 가격 인상이 있을 것이라는 보고가 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4838,6 +4876,7 @@
     "subheading": "SSD",
     "text": "삼성은 향후 250GB 및 500GB SSD 모델을 전면 단종할 예정입니다. 최소 용량 기준은 이제 1TB로 변경됩니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4895,6 +4934,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -4918,6 +4958,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4939,6 +4980,7 @@
     "text": "키옥시아 BG6 NVMe SSD는 거의 구할 수 없는 수준으로, NAND 플래시 부족이 본격화되는 조짐을 보입니다. 삼성은 1월에 SATA SSD의 유통사 판매를 전면 중단했습니다. 메모리 제조사들이 DRAM 및 HBM 생산 유지를 우선하면서 NAND 생산은 감소했습니다.",
     "detected_vendors": [
       "Kioxia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5037,6 +5079,7 @@
     "text": "엔터프라이즈 SSD 가격은 전 분기 대비 50~90% 상승했습니다. Solidigm과 삼성은 주 단위로 가격을 재조정하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5160,6 +5203,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -5207,6 +5251,7 @@
       "Macnica",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5226,6 +5271,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5387,6 +5433,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -5409,6 +5456,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5533,6 +5581,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. 저가 SATA 모델은 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다. Gen5 엔터프라이즈 SSD는 3분기에 추가로 20~30% 급등할 것으로 전망된다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5609,6 +5658,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -5633,6 +5683,7 @@
       "Kioxia",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [

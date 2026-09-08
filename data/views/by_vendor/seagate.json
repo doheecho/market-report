@@ -614,6 +614,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -657,6 +658,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -720,6 +722,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -762,6 +765,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],

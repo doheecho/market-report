@@ -102,6 +102,7 @@
       "date": "2020.10",
       "detected_vendors": [
         "Nvidia",
+        "Samsung",
         "TSMC",
         "삼성"
       ],
@@ -167,6 +168,7 @@
       "date": "2020.11",
       "detected_vendors": [
         "Nvidia",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -187,6 +189,7 @@
       "detected_vendors": [
         "AMD",
         "Nvidia",
+        "Samsung",
         "TSMC",
         "삼성"
       ],
@@ -222,6 +225,7 @@
       "date": "2020.12",
       "detected_vendors": [
         "Nvidia",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -272,6 +276,7 @@
       "date": "2021.01",
       "detected_vendors": [
         "Nvidia",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -313,6 +318,7 @@
     {
       "date": "2021.02",
       "detected_vendors": [
+        "Samsung",
         "TSMC",
         "삼성"
       ],
@@ -338,6 +344,7 @@
       "date": "2021.02",
       "detected_vendors": [
         "Nvidia",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -1398,6 +1405,7 @@
         "Micron",
         "Nvidia",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -1619,6 +1627,7 @@
       "detected_vendors": [
         "Nvidia",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2224,6 +2233,7 @@
       "date": "2026.02",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2284,6 +2294,7 @@
       "date": "2026.03",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2392,6 +2403,7 @@
       "date": "2026.05",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",

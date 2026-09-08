@@ -13,6 +13,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -55,6 +56,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Winbond",
       "삼성"
     ],
@@ -78,6 +80,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -176,6 +179,7 @@
     "text": "중국 시안은 지역 전체로 코로나19 확진자가 발생하면서 봉쇄 조치가 내려졌습니다. 로이터통신 보도에 따르면, 삼성전자와 Micron Technology가 시안에 메모리 칩 공장을 운영 중인데, 이번 정부 봉쇄 조치로 생산 지연이 예상된다고 합니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -215,6 +219,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -253,6 +258,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -318,6 +324,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -341,6 +348,7 @@
       "Intel",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -385,6 +393,7 @@
     "text": "반대로 삼성, Micron 및 다른 프랜차이즈 유통업체는 이전 예약으로 인해 높은 수준의 재고와 생산량을 갖추고 있습니다. 개인용 컴퓨터 및 노트북을 포함한 컴퓨터 제품은 데이터 센터의 수요 감소와 충분한 공급을 받는 고객 덕분에 현재 하락하는 추세입니다. 이로 인해 DDR4, LPDDR 및 eMMC의 가격이 하락할 것으로 예상됩니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -499,6 +508,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -541,6 +551,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -679,6 +690,7 @@
       "Micron",
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -701,6 +713,7 @@
       "Micron",
       "Nanya",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -776,6 +789,7 @@
     "text": "Micron, 삼성에서 HBM 공급을 늘리고 있으며 이러한 신제품을 지원하기 위해 생산량을 전환할 계획입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -889,6 +903,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -909,6 +924,7 @@
     "text": "마이크론 테크놀로지와 삼성전자의 실적 보고서에 따르면, AI 기술에 집중하는 데이터 센터 및 클라우드 서비스 제공업체들이 RDIMM 수요의 주요 원동력입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -946,6 +962,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -985,6 +1002,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1003,6 +1021,7 @@
     "text": "삼성전자와 마이크론 테크놀로지의 최신 실적 보고서에 따르면 AI와 클라우드 컴퓨팅의 발전으로 HBM에 대한 수요가 빠르게 증가하고 있습니다. HBM3E 제품 출시로 인한 매출 증가가 특히 두드러지며, AI와 데이터 센터 부문에서 그 영향이 가장 큽니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1042,6 +1061,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1060,6 +1080,7 @@
     "text": "8-High에서 12-High HBM으로의 전환과 전력 효율 및 성능 향상은 2025년까지 가속화될 전망입니다. 마이크론은 전력 효율적인 HBM 제품에서 리더십을 발휘하고 있으며, 삼성의 대규모 HBM3E 생산 능력은 경쟁 구도를 변화시킬 가능성이 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1133,6 +1154,7 @@
     "text": "삼성과 마이크론의 최근 실적 보고서에 따르면 AI 투에 힘입어 클라우드 서비스 제공업체들이 전통적인 DRAM에 대한 수요를 크게 증가시키고 있습니다. AI 서버는 고대역폭 메모리(HBM)뿐만 아니라 일반 DRAM도 대량으로 필요로 하여 DDR5 수요가 지속되고 있습니다. 또한 기존 서버 시장의 리프레시 주기가 진행되면서 효율성과 성능이 향상되고, 스마트폰의 AI 기능 통합과 자동차 애플리케이션의 성장으로 인해 DRAM 수요가 증가하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1152,6 +1174,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1173,6 +1196,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1193,6 +1217,7 @@
     "text": "삼성과 마이크론의 최근 실적 보고서에 따르면 스마트폰에서의 온디바이스 AI 수요가 증가하면서 LPDDR 수요가 급증하고 있으며, 저전력 소비가 중요한 요소로 부각되고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1247,6 +1272,7 @@
     "text": "Samsung과 Micron은 DRAM/NAND 가격을 인상할 것으로 예상되어 소비자 메모리 가격이 크게 상승할 전망입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1265,6 +1291,7 @@
     "text": "삼성와Micron은 공식적으로 저용량 SSD(240GB~1TB) 생산을 축소했으며, 이로 인해 일반 애플리케이션용 SSD 공급이 제한되고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1356,6 +1383,7 @@
       "Broadcom",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1375,6 +1403,7 @@
     "text": "시장은 삼성과 마이크론으로부터의 4분기 SSD 주문에 대해 20~30% 가격 인상이 적용되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1416,6 +1445,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1436,6 +1466,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1456,6 +1487,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1477,6 +1509,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1497,6 +1530,7 @@
     "text": "차량용- 8GB 및 16GB eMMC는 심각한 공급 부족이 발생하고 있습니다. 삼성과 마이크론은 사실상 견적 제시를 중단했으며, 리드타임은 2027년까지 연장되었습니다. SanDisk는 2026년 요청 물량의 15~20%만 계획할 것을 고객사에 안내했습니다. 레거시 eMMC 가격은 AI 가속기에 사용되는 -HBM3E/HBM4로 생산 능력이 재배치되면서 세 배로 상승했습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1545,6 +1579,7 @@
       "Macnica",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1566,6 +1601,7 @@
     "text": "Samsung 및 Micron의 8GB/16GB 자동차용 eMMC는 심각한 공급 부족 상태이다. 레거시 eMMC 가격은 3배 상승했으며, AI 가속기용 HBM3E/HBM4 생산 집중으로 공급이 축소되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1588,6 +1624,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1667,6 +1704,7 @@
     "text": "1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1689,6 +1727,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -1714,6 +1753,7 @@
     "text": "8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1756,6 +1796,7 @@
     "text": "자동차 등급 8GB/16GB LPDDR4/5 및 eMMC의 공급 부족이 지속되고 있다. Samsung과 Micron은 신규 견적 제공을 대부분 중단했으며, 리드타임은 2027년까지 연장되었다. ISSI는 신규 eMMC 주문의 출하가 2028년까지 불가능하다고 확인했으며, 이에 따라 공격적인 듀얼 소싱 전략이 추진되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1802,6 +1843,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1822,6 +1864,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1844,6 +1887,7 @@
       "Kioxia",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [

@@ -1374,6 +1374,7 @@
       "date": "2022.11",
       "detected_vendors": [
         "Intel",
+        "Samsung",
         "TSMC",
         "삼성"
       ],
@@ -3645,6 +3646,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "Intel",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",

@@ -462,6 +462,7 @@
     "text": "최근의 SSD 시장 수요는 비교적 현상을 유지해왔고, 그 때문에 지난 분기 내내 현물 시장 가격은 하락세였습니다. 구매력은 소비자의 선택에 따라 달라지므로 SSD 가격이 얼마나 계속 떨어질지는 알 수 없습니다. 최근 몇 달 동안 시장 활동이 부족함에도 불구하고 Intel 및 Samsung과 같은 주요 SSD 제조업체는 SSD 부문의 잠재적 성장에 대해 여전히 낙관적입니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1073,6 +1074,7 @@
     "detected_vendors": [
       "Intel",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1213,6 +1215,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2352,6 +2355,7 @@
     "text": "삼성전자는 SSD 수요 물량의 60%만 채운 후 재고 부족 상황을 맞이한 관계로, 4분기에 공급 문제로 이어졌습니다. 삼성전자의 240GB 및 960GB SSD는 전 세계적인 컨트롤러 공급 부족으로 인한 생산능력 문제에 직면했습니다. 또한, 최종 사용자의 수요는 가용성과 가격으로 인해 Intel S4510 240GB 및 480GB에서 삼성전자의 PM883으로 옮겨가고 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2834,6 +2838,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2988,6 +2993,7 @@
     "detected_vendors": [
       "Intel",
       "SK하이닉스",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -3008,6 +3014,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3272,6 +3279,7 @@
     "detected_vendors": [
       "Intel",
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3617,6 +3625,7 @@
       "Intel",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3638,6 +3647,7 @@
     "text": "하이엔드 스마트 전자 기기와 같은 제품에 대한 수요 감소를 피하기 위해 삼성은 파운드리 제조의 경영을 대체함으로써 미래를 내다보고 있습니다. 이러한 기술 개혁을 통해 삼성은 더 높은 수준에서 TSMC와 Intel과 경쟁하는 것을 목표로 하고 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -3728,6 +3738,7 @@
     "text": "Samsung PM883 시리즈에 대한 재고가 증가하였으며, 공개 시장 가격은 공식 제조업체 가격보다 10~15% 낮게 형성되어 있습니다. 또한 예전에 부족한 S4510에 대한 공급 문제도 완화되어 가격이 약 5~10% 개선되었습니다. 마찬가지로 스토리지 구성품의 재고 확대가 Intel에 부담을 주고 있으며, Intel은 더 많은 수량의 수요 내에서 가격 협상에 대한 여유를 두기 위해 재고 감소를 모색하고 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3806,6 +3817,7 @@
     "text": "전반적으로, 저장 장치 시장 활동은 고객과 공급업체가 더 많은 재고를 보유해야 함에 따라 감소 추세에 있습니다. Intel과 삼성의 오픈 마켓 가격은 모든 밀도에서 최소 5~10% 하락했지만 저용량(240G, 480G 및 960G)이 가장 큰 폭의 하락을 보였습니다. 벤더들은 이들 제품의 생산이 양호하고 오픈 마켓에서 쉽게 공급이 가능하다고 밝혔습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3823,6 +3835,7 @@
     "text": "TSMC, 삼성 및 Intel은 각자의 파운드리 사업을 위해 2023년 다시 한번 계약 가격을 인상할 예정입니다. TSMC는 또한 고객의 NCNR 주문을 더욱 엄격하게 적용하면서, 고객에게 수요 예측치보다 더 많은 양의 자재 주문을 압박하고 있습니다. 이 전략은 TSMC가 계약 칩 제조업체로부터 추가 지원을 받을 수 있는 제품 라인 공간을 확보하기 위해 구현될 확률이 높습니다. 또한 이를 통해 시장의 실제 요구사항을 더 잘 파악할 수 있습니다. 제조 공정의 복잡성에 따라 가격이 6~9% 인상될 수 있다는 소문이 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -3844,6 +3857,7 @@
     "text": "많은 언론 매체들은 또한 삼성이 가격 책정 방식을 변경하고 많은 마이크로프로세서와 주변 장치 칩 제품의 가격을 인상할 계획이라고 밝혔습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -3864,6 +3878,7 @@
     "text": "통신 산업 내 전자 제품의 발전으로 계속해서 더욱 복잡한 생산이 필요해지면서 제조 비용이 증가하고 있습니다. 이러한 대폭적인 가격 인상설은 고품질 규격을 유지하면서 추가 생산 비용을 고객에게 전가하려는 의도에서 나온 것입니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -3884,6 +3899,7 @@
     "text": "최대 규모의 모바일 통신 고객 중 하나는 이러한 움직임에 대해 이미 TSMC에 불만을 표명하고 추가 비용 지불을 거부하고 있습니다.",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -7459,6 +7475,7 @@
     "text": "Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]",
     "detected_vendors": [
       "Intel",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -7687,6 +7704,7 @@
       "Intel",
       "Lattice",
       "SK하이닉스",
+      "Samsung",
       "Sony",
       "삼성"
     ],

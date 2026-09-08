@@ -33,6 +33,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -51,9 +52,7 @@
     "section_raw": "AVX 탄탈 커패시터 생산은 히트였으며",
     "subheading": "AVX 탄탈 커패시터 생산은 히트였으며",
     "text": "올해 초, AVX는 일본 아도가와의 생산 중 일부를 엘살바도르로 전환할 것이라 발표한 바 있습니다. 이 전환 계획에 따라 AVX의 모든 탄탈 커패시터 생산을 엘살바도르와 체코 프라하에 있는 생산 설비 사이에 적절히 분산하려고 했던 것입니다. 하지만 코로나19 팬데믹으로 인해 이 두 나라 모두 락다운에 들어가는 바람에 탄탈 커패시터 생산이 타격을 받을 수 있습니다. 결국, AVX는 탄탈 커패시터 제품에 대한 신규 수주나 생산 진행 중이던 주문품에 대한 리드타임 일정 제공을 중단했습니다. 수요 측면에서는, 의료 업계의 수요 급증으로 공급 상황이 악화되고 있습니다. AVX는 인공호흡기 장비에 사용되는 TRJ 시리즈가 최우선순위의 제품으로 파악됨에 따라 의료 업계 고객에게서 받아서 생산 중이던 모든 주문품을 우선적으로 처리하기로 약속합니다. 당사는 유통업체들로부터 오픈 마켓에서 모든 탄탈 커패시터가 활발히 거래되고 있고 가격이 매일같이 요동치고 있다는 피드백을 받았습니다. 공통 부품의 가격이 50~80% 인상된 것을 관찰할 수 있습니다. AVX 탄탈 커패시터 리드타임은 20주 이상으로 늘었습니다. TAJ 시리즈의 경우, 현재 주문은 9월에서 10월이나 되어야 겨우 출고 가능할 것으로 보입니다.",
-    "detected_vendors": [
-      "AVX"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -200,6 +199,7 @@
     "text": "2019년 말 이후로 또 다른 MLCC 공급 부족이 발생할 것 같다는 추측이 제기되었습니다. 그런데 그 추측이 현실이 되고 있습니다. 2018년의 MLCC 공급 부족 사태 이후로, Murata는 자사의 유통 및 생산량 할당 전략을 다시 들여다봤습니다. 이로 인해 생산량이 과다하게 할당된 자동차 부문을 위한 GCM 시리즈에서 일부 공급 중단으로 이어졌고, 더 큰 케이스 크기 0402, 0603, 0805, 1206에 대한 공급 문제가 확인되고 있습니다. MLCC 이외에, Murata의 LQH/LQW 인덕터와 LFB-/DLP/DLM 시리즈 RF/EMI 필터 역시 말레이시아 및 필리핀 공장 셧다운의 영향을 받고 있습니다. 이런 공장 셧다운으로 인해 인덕터/필터의 리드 타임이 24~26주로 늘었습니다. 고객과 유통업체들은 주문 확인에도 1~2주일 정도 지연되고 있다고 알려오고 있습니다. 코로나19는 대부분의 제조업체에 큰 피해를 입혔지만, 말레이시아 및 필리핀 공장이 여전히 풀 가동 상태로 돌아오지 못한 삼성이 특히 심한 타격을 받았습니다. 제조 현황 페이지에서 언급한 바와 같이, 말레이시아와 필리핀의 락다운으로 인해 삼성은 생산 능력 문제에 봉착했습니다. 필리핀 공장에서는 정부 규제에 따라 조업 활동에 참여할 수 있는 인력이 평소의 절반 미만입니다. 이 공장은 생산 능력의 20~30% 수준으로 가동되고 있었고 5월 중순 이후에 70~80% 수준으로 상승할 것으로 예상됩니다. 삼성은 이런 상황에 대응해 특정 생산 라인(특히 자동차용 MLCC)을 중국 선전으로 옮기고 있지만, 이런 조치만으로는 전 세계 수요를 충족시키기에 부족했습니다. 이는 선전 공장 역시 현지의 코로나19 관련 규제를 준수해야 하는 상황 때문일 가능성이 있습니다. 2020년 2분기가 시작된 이후로 Taiyo Yuden 인덕터와 MLCC의 공급 부족과 리드 타임 연장이 발생하고 있는 것으로 보고되었습니다. 인도 및 생산 할당에 관한 보고에 따르면, 5월의 선적량이 4월에 비해 50% 감소한 것으로 나타났습니다. 6월 할당량은 5월보다도 낮아질 것으로 예측됩니다. 필리핀 공장에서 생산이 전면 재개되는 6월 말 이후로는 회복될 것으로 예상됩니다. Yageo MLCC에 대한 수요는 2019년에 비해 약 10% 떨어졌지만, 고객과 유통업체들은 여전히 가격이 인상되었다고 합니다. Yageo는 40일 이상 재고가 부족했다고 보고했는데, 가격 인상을 뒷받침하려고 생산량을 줄였다는 소문이 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "Yageo",
       "삼성"
@@ -261,7 +261,6 @@
     "subheading": "멈출 수 없는 탄탈 커패시터 수요",
     "text": "탄탈 커패시터의 원자재는 주로 중앙아프리카에서 공급되는데 최근 몇 달간 공급망의 안정적 운용에 대한 우려가 높아졌습니다. 코로나바이러스 팬데믹으로 인해 광산 조업이 중단되면서, 리드 타임이 늘어났고 불안정한 상태로 남아 있습니다. 관련 회사들이 영업을 재개함에 따라, 수요를 맞추고 공급을 안정화하기 위해 노력하고 있습니다. AVX 및 Panasonic과 같은 공급업체가 정상적인 생산 속도로 돌아가려면 여러 주가 걸릴 것이며 전반적으로 재고 수준이 사상 최저 수준인 상황에서 리드 타임이 늘어난 상태로 유지됩니다.",
     "detected_vendors": [
-      "AVX",
       "Panasonic"
     ],
     "detected_keywords": [
@@ -722,6 +721,7 @@
     "subheading": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
     "text": "Yageo의 0402 케이스 크기 104 - 105 정전용량 규격에 대한 수요가 증가하고 있습니다. 이와 유사하게, 삼성의 0402 및 0603 케이스 크기에 대한 수요가 급증하고 있습니다. 대부분의 크기와 커패시턴스 규격 제품의 리드 타임은 안정적이지만, 커패시턴스 값 105, 106, 226 규격 제품의 리드 타임은 늘고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "Yageo",
       "삼성"
     ],
@@ -1599,6 +1599,7 @@
     "subheading": "MLCC 가격 4월 인상 예정",
     "text": "반면에 삼성은 30개 MLCC 라인의 가격을 20~30% 이미 인상했습니다. 많은 유통업체가 삼성의 MLCC가 3개월 반에 이르는 리드 타임 연장을 보이고 있고, 추가적인 공급 부족 문제가 여전히 이어질 것이라는 생각을 공유해주었습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1913,9 +1914,7 @@
     "section_raw": "커패시터 공급제한",
     "subheading": "커패시터 공급제한",
     "text": "마찬가지로, AVX의 탄탈 커패시터는 코로나19 팬데믹의 영향을 크게 받았습니다. 엘살바도르 공장이 현재 폐쇄된 상황이 수요 증가와 맞물려 공급이 제한되는 상황에 기여하고 있습니다 리드 타임은 여전히 길지만, AVX는 견적에 따른 납품 요건을 충족하고 있으며 생산이 서서히 회복되기 시작하고 있습니다.",
-    "detected_vendors": [
-      "AVX"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2026,6 +2025,7 @@
     "text": "전 세계적인 칩 공급 부족이 이어지는 가운데, 삼성과 하이닉스는 모바일와 PC 부문에서 모두 치솟고 있는 DRAM 수요가 심각한 문제를 일으키고 있다고 밝혔습니다. 하이닉스는 이를 해결하기 위해 새로운 웨이퍼 제조 장비를 구매하여 칩 생산에 대한 투자를 늘릴 예정입니다. 하이닉스는 늘어난 리드 타임과 장비 설치에 필요한 기간을 고려해, 당초 2022년으로 예정했던 지출 계획을 올해 말 실시할 계획입니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2605,6 +2605,7 @@
     "subheading": "삼성전자, 주력 생산품 전환",
     "text": "삼성전자 벤더들은 모든 기업용 SSD의 가격이 12~18% 뛰었다는 정보를 공유해주었습니다. 가격 인상 외에도, 이러한 제품의 할당이 제한적인 상황은 그대로 유지됩니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2924,6 +2925,7 @@
     "detected_vendors": [
       "Murata",
       "Nexperia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2998,6 +3000,7 @@
     "subheading": "SSD 가격은 계속 오를 전망",
     "text": "하지만 삼성전자의 SM883 1.92T에 대한 수요는 오픈 마켓 가격이 공식 가격보다 15% 높고 주문 리드 타임이 2주에서 4주로 늘어났음에도 영향을 받지 않았습니다. 암호화폐 사업이 중국에서 철수하고 잠재적인 코로나19 관련 봉쇄의 위협으로 인해 향후 몇 주 동안 SSD의 가격이 추가로 인상될 것으로 예상됩니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3425,6 +3428,7 @@
     "text": "Yageo와 삼성전자의 탄탈륨 커패시터 리드 타임은 2주로 연장되었으며 생산 라인이 건강한 것으로 보고되었습니다. 그러나 Panasonic의 상황은 다릅니다. 이 제조업체는 원료 공급 부족에 따른 중단으로 인해 P5KF, A4S 및 A35S 시리즈 커패시터 생산이 빠듯하기 때문입니다.",
     "detected_vendors": [
       "Panasonic",
+      "Samsung",
       "Yageo",
       "삼성"
     ],
@@ -4871,6 +4875,7 @@
       "Intel",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -6518,6 +6523,7 @@
     "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -7960,6 +7966,7 @@
     "subheading": "다양한 시장 상황 속에서 DDR3, DDR4, DDR5 가격 인상 단행",
     "text": "또는 DDR3 수요는 수요에 큰 변화가 없었지만 제조업체가 생산량을 줄인 후 리드 타임이 4주에서 12주로 늘어났습니다. 삼성 유통업체에 따르면 제조업체는 10월 가격 조정을 예상하고 인하를 단행했다고 합니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -9569,6 +9576,7 @@
     "detected_vendors": [
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -9741,6 +9749,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -10117,9 +10126,7 @@
     "section_raw": "패시브 부품 높은 수요로 리드 타임 연장",
     "subheading": "패시브 부품 높은 수요로 리드 타임 연장",
     "text": "AVX의 탄탈륨 커패시터는 16~28주의 짧은 리드 타임을 제공하여 대체 옵션으로 고려될 수 있습니다.",
-    "detected_vendors": [
-      "AVX"
-    ],
+    "detected_vendors": [],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -11003,6 +11010,7 @@
     "subheading": "수동 부품 리드 타임 연장 및 할당",
     "text": "삼성 수동 부품의 리드 타임은 기존 8~12주에서 14~18주로 늘어났습니다. 공식적인 부족 선언은 없지만, 제약은 증가하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -11330,6 +11338,7 @@
     "text": "Samsung, Murata, Taiyo Yuden MLCC는 3분기에 공급 문제에 직면할 수 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "삼성"
     ],
@@ -11719,6 +11728,7 @@
     "text": "삼성과 Hynix는 AI 서버용 96GB 및 128GB DDR5 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이 (~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -11758,6 +11768,7 @@
     "subheading": "타이트한 배정 및 가격 인상 전망",
     "text": "신규 생산이 없어 DDR4 모듈 가격은 계속 상승하고 있습니다. 삼성은 잔여 재고에 대해 20~30% 가격 인상을 통보했으며, Kingston은 이미 데스크톱 DDR4 DIMM 가격을 35% 인상했습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -11837,7 +11848,6 @@
     "subheading": "리드 타임 연장 및 할당",
     "text": "AVX 및 Kemet 탄탈륨 커패시터의 리드타임은 24~28주에 달합니다.",
     "detected_vendors": [
-      "AVX",
       "Kemet"
     ],
     "detected_keywords": [
@@ -11913,6 +11923,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버(B200/B300)용 96GB 및 128GB 고용량 모듈이 가장 큰 제약을 받고 있다. 삼성의 96GB(Q-die)는 공급이 다소 나은 편이지만, 128GB는 다이 공유 생산으로 인해 여전히 매우 타이트하다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -11932,6 +11943,7 @@
     "text": "DDR4보다 가용성은 높지만, DDR5 역시 현재 심각한 할당 압력에 놓여 있다.삼성과 Hynix는 AI 서버용 96GB 및 128GB 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이(~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12050,6 +12062,7 @@
     "text": "삼성, 무라타, 타요유덴의 MLCC는 공급 문제가 지속되고 있으며, 일부 시리즈의 리드타임은 24~28주에 달한다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12110,6 +12123,7 @@
     "text": "Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12244,6 +12258,7 @@
       "Broadcom",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12337,6 +12352,7 @@
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12418,6 +12434,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12683,6 +12700,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12745,6 +12763,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -12929,6 +12948,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버 수요가 96GB/128GB 모듈의 급성 부족을 유발하고 있습니다. 삼성의 96GB(Q-die)는 소폭 가용하나, 128GB는 다이 공유 제약으로 인해 여전히 극도로 타이트합니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -12967,6 +12987,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -13046,6 +13067,7 @@
     "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24~28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -13386,6 +13408,7 @@
     "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "DDR5 RDIMM 64GB 계약 가격은 전 분기 대비 75~125% 급등했습니다. 현물 가격은 2,300~3,000달러 이상에서 형성되고 있습니다. 삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -13424,6 +13447,7 @@
     "text": "차량용- 8GB 및 16GB eMMC는 심각한 공급 부족이 발생하고 있습니다. 삼성과 마이크론은 사실상 견적 제시를 중단했으며, 리드타임은 2027년까지 연장되었습니다. SanDisk는 2026년 요청 물량의 15~20%만 계획할 것을 고객사에 안내했습니다. 레거시 eMMC 가격은 AI 가속기에 사용되는 -HBM3E/HBM4로 생산 능력이 재배치되면서 세 배로 상승했습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -13642,6 +13666,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -13668,6 +13693,7 @@
       "Intel",
       "Lattice",
       "SK하이닉스",
+      "Samsung",
       "Sony",
       "삼성"
     ],
@@ -13715,6 +13741,7 @@
       "Macnica",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -14008,6 +14035,7 @@
     "text": "Samsung 및 Micron의 8GB/16GB 자동차용 eMMC는 심각한 공급 부족 상태이다. 레거시 eMMC 가격은 3배 상승했으며, AI 가속기용 HBM3E/HBM4 생산 집중으로 공급이 축소되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -14046,6 +14074,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -14064,6 +14093,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버 수요로 96GB/128GB 모듈이 심각하게 부족하다. Samsung 96GB(Q-die)는 일부 공급 가능하지만 128GB는 다이 공유 문제로 극히 부족하다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -14305,6 +14335,7 @@
     "text": "1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -14699,6 +14730,7 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -14935,6 +14967,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -15250,6 +15283,7 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "삼성 DDR5 RDIMM 64GB 계약 가격은 전분기 대비 75~125% 상승했다. 현물 가격은 2,300 ~ 3,000 이상이며, 하이퍼스케일러는 2030년까지 장기 계약을 체결하여 기존 OEM 및 자동차 시장은 최소 2027년까지 배제되고 있다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -15288,6 +15322,7 @@
     "text": "8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -15467,6 +15502,7 @@
     "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "삼성"
     ],
@@ -15898,6 +15934,7 @@
     "text": "자동차 등급 8GB/16GB LPDDR4/5 및 eMMC의 공급 부족이 지속되고 있다. Samsung과 Micron은 신규 견적 제공을 대부분 중단했으며, 리드타임은 2027년까지 연장되었다. ISSI는 신규 eMMC 주문의 출하가 2028년까지 불가능하다고 확인했으며, 이에 따라 공격적인 듀얼 소싱 전략이 추진되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -16018,6 +16055,7 @@
     "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약 상태에서 운영되고 있다. 고용량·고온 제품군(일본 전용 생산 라인)의 리드타임은 36~60주에 달한다. AI 서버 및 자동차 수요가 특수 생산 능력의 80% 이상을 소진하고 있다. 유통업체들은 브로커 거래 제한 및 단계별 가격 정책을 시행하고 있다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "삼성"
     ],
@@ -16109,6 +16147,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -16129,6 +16168,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -16410,6 +16450,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -16555,6 +16596,7 @@
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -16934,6 +16976,7 @@
     "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -17038,6 +17081,7 @@
     "text": "MLCC는 공식적으로 공급 부족 국면에 진입했습니다. Murata, Samsung Electro-Mechanics, Taiyo Yuden, Yageo는 가격을 15~30% 인상하고 있습니다. AI 서버용 고용량 MLCC(예: 100uF)와 자동차용 등급 제품의 리드타임은 20주에서 50주 이상이며, 유통업체들은 브로커 대상 판매를 제한하고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "Yageo",
       "삼성"

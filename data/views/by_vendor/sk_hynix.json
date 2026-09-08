@@ -13,6 +13,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -53,6 +54,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Winbond",
       "삼성"
     ],
@@ -76,6 +78,7 @@
     "detected_vendors": [
       "Intel",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -93,6 +96,7 @@
     "text": "다른 뉴스에서는 하이닉스가 2GB DDR3의 단종 계획을 공식적으로 발표함에 따라, 고객이 삼성과 Winbond 같은 다른 제조업체로 눈을 돌리게 되었다는 소식이 있습니다. 하지만 이 두 회사 모두 엄청난 수요에 압도되어 당분간은 신규 주문을 받지 않기로 했습니다. 이 때문에 각각 3분기와 4분기쯤 되어야 기존 주문 물량을 인도할 수 있을 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "Winbond",
       "삼성"
     ],
@@ -114,6 +118,7 @@
     "text": "전 세계적인 칩 공급 부족이 이어지는 가운데, 삼성과 하이닉스는 모바일와 PC 부문에서 모두 치솟고 있는 DRAM 수요가 심각한 문제를 일으키고 있다고 밝혔습니다. 하이닉스는 이를 해결하기 위해 새로운 웨이퍼 제조 장비를 구매하여 칩 생산에 대한 투자를 늘릴 예정입니다. 하이닉스는 늘어난 리드 타임과 장비 설치에 필요한 기간을 고려해, 당초 2022년으로 예정했던 지출 계획을 올해 말 실시할 계획입니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -188,6 +193,7 @@
     "detected_vendors": [
       "Intel",
       "SK하이닉스",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -283,6 +289,7 @@
       "Intel",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -356,6 +363,7 @@
     "text": "삼성의 경우, 가격 조정과 관련하여 논의가  진행 중이지만 수요 부진으로  유통업체는  10~20%까지 가격을 인하할 가능성이가 높습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -393,6 +401,7 @@
     "text": "제조 역량과 관련하여, 삼성의 한국 내 시설은 올해  최대치를 생산했으며, 14NM 팹을 위해 2023년 1분기 DRAM 증산을 위한 새로운 공장을 오픈할 것이라고 발표했습니다. 경쟁사인 SK Hynix도 이를 따라 중국 우시 및 한국에 있는 공장에서 증산에 들어갔습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -434,6 +443,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -555,6 +565,7 @@
     "text": "고밀도 모듈은 긴 리드 타임과 오픈 마켓에서의 가격 급등으로 인해 여전히 공급이 부족한 상황입니다. 벤더들은 DDR5 요청이 점차 증가하고 있으며 AI 서버를 구축하는 고객들이 선호하는 용량인 128GB DDR5에 집중되어 있다고 밝혔습니다. 이는 주로 소수의 관심사이긴 하지만, 가용성 문제가 보고됨에 따라 DDR5 공급에 대한 몇 가지 우려 사항도 있습니다. 문제는 낮은 수율로 인한 생산량 저하에서 비롯됩니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -576,6 +587,7 @@
     "text": "고객들이 DDR4에서 DDR5로 점차 전환하고 있는 것으로 보이기 때문에 이러한 제약은 2024년까지 계속될 수 있습니다. 이러한 전환은 DDR5의 향상된 성능, 고용량 지원 기능 및 향상된 전력 효율성 때문일 확률이 높습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -598,6 +610,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -621,6 +634,7 @@
     "text": "올해 초 축소한 NAND 플래시 생산은 여전히 저조한 수요로 보아 신중한 조치였던 것으로 보입니다. 삼성 및 SK하이닉스와 같은 기업의 2분기 실적 발표에 따르면 NAND 가격이 10%만큼 떨어진 것으로 집계되며, 가격은 계속 하락하는 추세입니다. 두 회사 모두 다시 수요가 회복될 때까지는 NAND 생산을 조정할 계획이라고 밝혔습니다. 가전제품의 수요가 여전히 저조하고, 중국 스마트폰 브랜드의 재고 소진 역시 부진한 상황에서 3분기에는 공급 과잉과 0~5% 안팎의 추가 가격 하락이 구체화될 가능성이 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -664,6 +678,7 @@
       "Micron",
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -686,6 +701,7 @@
       "Micron",
       "Nanya",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -724,6 +740,7 @@
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -745,6 +762,7 @@
     "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -765,6 +783,7 @@
     "text": "Solidigm SSD 가격은 4월에 10% 인상되었으며, 시장 보고서에 따르면 5월에도 가격이 계속 상승할 것으로 보입니다. 유통업체의 사전 시장 정보에 따르면 삼성 SSD의 비용이 20~30%까지 인상될 것으로 예상됩니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -802,6 +821,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -823,6 +843,7 @@
     "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -843,6 +864,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -863,6 +885,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -881,6 +904,7 @@
     "text": "삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -922,6 +946,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -941,6 +966,7 @@
     "detected_vendors": [
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -963,6 +989,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -984,6 +1011,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1021,6 +1049,7 @@
     "text": "SK Hynix와삼성는 고용량 RDIMM 모듈에 대한 지속적인 수요를 경험하고 있으며, 특히96GB 및128GB DDR5~5600, DDR5~6400 변종에 대한 수요가 큽니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1113,6 +1142,7 @@
     "text": "삼성과 Hynix는 AI 서버용 96GB 및 128GB DDR5 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이 (~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1189,6 +1219,7 @@
     "text": "DDR4보다 가용성은 높지만, DDR5 역시 현재 심각한 할당 압력에 놓여 있다.삼성과 Hynix는 AI 서버용 96GB 및 128GB 모듈을 우선시하고 있으며, 리드타임은 20주로 늘어났고 월별 가격 인상이(~4%) 확인되었습니다. 삼성은 온다이 ECC 검증 문제로 인해 DDR5 RDIMM의 오픈마켓 배정을 중단한 것으로 전해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1230,6 +1261,7 @@
     "text": "SK하이닉스는 2026년 하반기까지 DRAM 웨이퍼 생산능력을 월 60만 장으로 두 배 확대해 삼성의 규모에 맞출 계획인 반면, 수요 부진으로 NAND 투자는 축소할 것으로 전해진다. DRAM 가격은 이미 상승 중이며, 일부 보고에 따르면 이번 달에만 약 15% 인상되었다. 최근 몇 년간 NAND 설비투자가 DRAM에 비해 더디게 진행되어, 향후 NAND 부족 가능성에 대한 우려가 커지고 있다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1250,6 +1282,7 @@
     "text": "양사는 2027년까지의 강한 수요에 대응하기 위해 최근 신규 공장 건설을 가속화했다. 두 공장은 차세대 DRAM 생산 허브로 기능할 예정이며 2027년 4월과 5월에 준공될 계획이다. [Source: DigiTimes Asia]",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1269,6 +1302,7 @@
     "text": "Solidigm과 삼성의 엔터프라이즈 SSDs들는 사실상 “Big 7” 클라우드 고객(Tesla, Microsoft, OpenAI 등)에게만 배정되고 있으며, 유통 채널 지원은 최소화되고 있다. 여기에 DRAM/NAND 비용 급등이 더해지면서 PNY는 모든 블랙프라이데이 스토리지 프로모션을 중단했고, 제조사들은 전반적으로 20~30%의 4분기 가격 인상을 예고했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1292,6 +1326,7 @@
       "Broadcom",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1332,6 +1367,7 @@
     "text": "유통사들은 삼성과 Solidigm이 엔터프라이즈 SSD 생산량 대부분을 주요 클라우드 서비스 제공업체에만 배정하고 있다고 보고한다. 채널 지원은 급격히 감소하고 있으며, 대부분의 SKUs 들에서 특별 가격이 제거되었다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1353,6 +1389,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1390,6 +1427,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1410,6 +1448,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1430,6 +1469,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -1453,6 +1493,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1490,6 +1531,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1510,6 +1552,7 @@
     "text": "엔터프라이즈 SSD 가격은 전 분기 대비 50~90% 상승했습니다. Solidigm과 삼성은 주 단위로 가격을 재조정하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1528,6 +1571,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -1554,6 +1598,7 @@
       "Intel",
       "Lattice",
       "SK하이닉스",
+      "Samsung",
       "Sony",
       "삼성"
     ],
@@ -1582,6 +1627,7 @@
       "Macnica",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1603,6 +1649,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1622,6 +1669,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1683,6 +1731,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -1705,6 +1754,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1741,6 +1791,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. 저가 SATA 모델은 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다. Gen5 엔터프라이즈 SSD는 3분기에 추가로 20~30% 급등할 것으로 전망된다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1776,6 +1827,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1796,6 +1848,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -1837,6 +1890,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1859,6 +1913,7 @@
       "Kioxia",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1897,6 +1952,7 @@
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1932,6 +1988,7 @@
     "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [

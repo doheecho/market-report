@@ -12,6 +12,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -32,6 +33,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -94,6 +96,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -303,6 +306,7 @@
     "subheading": "메모리 생산 재개 및 용량 문제",
     "text": "삼성은 DDR5 계약 가격을 최대 60% 인상했으며, 고객들은 주간 단위의 협상 불가 NCNR 계약으로 내몰리고 있습니다. 32GB / 64GB / 96GB / 128GB 모듈은 현재 일일 단가로 견적되며, 가격은 주간 기준 5~10%씩 상승하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -352,6 +356,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버 수요가 96GB/128GB 모듈의 급성 부족을 유발하고 있습니다. 삼성의 96GB(Q-die)는 소폭 가용하나, 128GB는 다이 공유 제약으로 인해 여전히 극도로 타이트합니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -390,6 +395,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -411,6 +417,7 @@
     "text": "키옥시아 BG6 NVMe SSD는 거의 구할 수 없는 수준으로, NAND 플래시 부족이 본격화되는 조짐을 보입니다. 삼성은 1월에 SATA SSD의 유통사 판매를 전면 중단했습니다. 메모리 제조사들이 DRAM 및 HBM 생산 유지를 우선하면서 NAND 생산은 감소했습니다.",
     "detected_vendors": [
       "Kioxia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -508,6 +515,7 @@
     "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24~28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -600,6 +608,7 @@
     "subheading": "삼성, 4분기 사상 최대 이익 전망",
     "text": "메모리의 “타이트한 공급과 급등한 가격”에 힘입어 삼성은 2022년 이후 최고 분기 실적을 전망하고 있습니다. 한국 내 신규 DRAM 팹은 2027년 중반 완공 일정대로 진행 중입니다. [소스: 로이터]",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -634,6 +643,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -974,6 +984,7 @@
     "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "DDR5 RDIMM 64GB 계약 가격은 전 분기 대비 75~125% 급등했습니다. 현물 가격은 2,300~3,000달러 이상에서 형성되고 있습니다. 삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1012,6 +1023,7 @@
     "text": "차량용- 8GB 및 16GB eMMC는 심각한 공급 부족이 발생하고 있습니다. 삼성과 마이크론은 사실상 견적 제시를 중단했으며, 리드타임은 2027년까지 연장되었습니다. SanDisk는 2026년 요청 물량의 15~20%만 계획할 것을 고객사에 안내했습니다. 레거시 eMMC 가격은 AI 가속기에 사용되는 -HBM3E/HBM4로 생산 능력이 재배치되면서 세 배로 상승했습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1051,6 +1063,7 @@
     "text": "엔터프라이즈 SSD 가격은 전 분기 대비 50~90% 상승했습니다. Solidigm과 삼성은 주 단위로 가격을 재조정하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1417,6 +1430,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -1443,6 +1457,7 @@
       "Intel",
       "Lattice",
       "SK하이닉스",
+      "Samsung",
       "Sony",
       "삼성"
     ],
@@ -1490,6 +1505,7 @@
       "Macnica",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1817,6 +1833,7 @@
     "text": "Samsung 및 Micron의 8GB/16GB 자동차용 eMMC는 심각한 공급 부족 상태이다. 레거시 eMMC 가격은 3배 상승했으며, AI 가속기용 HBM3E/HBM4 생산 집중으로 공급이 축소되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1855,6 +1872,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1873,6 +1891,7 @@
     "subheading": "RDIMM 긴급한 할당 속 장기 지원",
     "text": "AI 서버 수요로 96GB/128GB 모듈이 심각하게 부족하다. Samsung 96GB(Q-die)는 일부 공급 가능하지만 128GB는 다이 공유 문제로 극히 부족하다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1930,6 +1949,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2205,6 +2225,7 @@
     "subheading": "제조사 뉴스 및 업데이트",
     "text": "Samsung은 2026년 하반기 출시 예정인 Apple 최초 폴더블 iPhone에 12GB LPDDR5X 메모리를 공급하는 계약을 수주한 것으로 알려졌다. 이번 계약은 DRAM 공급 긴축 상황을 반영하며, LPDDR5X 가격은 2025년 대비 두 배 상승한 것으로 전해진다. [출처:Digitimes]",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2240,6 +2261,7 @@
     "text": "1분기 가격 급등 이후 4월 들어 DDR5 RDIMM 현물 가격의 변동성이 확대되고 있습니다. 공식 계약 가격은 여전히 높은 수준을 유지하고 있으나, 중국 시장에는 할인된 재고가 대량 유입되고 있습니다. 삼성과 마이크론은 비하이퍼스케일러 고객에 대한 할당 비중을 30% 미만으로 유지하고 있지만, 유통 단계의 재고 방출과 OEM 완충 재고 청산으로 일시적인 가격 괴리가 발생하고 있습니다. 시장 참여자들은 4월 중순까지 관망 기조를 유지하고 있으며, 2분기 할당이 확정되면 다시 가격 상승 압력이 나타날 것으로 예상하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2634,6 +2656,7 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "삼성은 OEM 대상 DIMM 가격에 대해 전월 대비 110% 인상을 제안했습니다. 하이퍼스케일러들은 2030년까지 연장되는 장기 공급 계약(LTA)을 체결하고 있어, 전통적 OEM 및 자동차 부문의 물량 확보는 최소 2027년까지 제한될 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2960,6 +2983,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -3366,6 +3390,7 @@
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "삼성 DDR5 RDIMM 64GB 계약 가격은 전분기 대비 75~125% 상승했다. 현물 가격은 2,300 ~ 3,000 이상이며, 하이퍼스케일러는 2030년까지 장기 계약을 체결하여 기존 OEM 및 자동차 시장은 최소 2027년까지 배제되고 있다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3404,6 +3429,7 @@
     "text": "8GB/16GB 자동차 등급 eMMC에서 심각한 공급 부족이 발생하고 있다. Samsung과 Micron은 대부분 견적을 중단했으며, 리드타임은 2027년까지 연장되고 있다. AI 가속기용 HBM3E/HBM4 생산을 극대화하기 위해 레거시 eMMC 생산 우선순위가 낮아지면서 레거시 eMMC 가격은 3배로 상승했다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3439,6 +3465,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. Solidigm 저가 SATA는 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3664,6 +3691,7 @@
     "subheading": "삼성전자 노조, 예정된 파업 강행 방침 유지",
     "text": "삼성전자 노조는 보상 요구가 충족되지 않을 경우 5월 21일부터 18일간 파업에 돌입하겠다고 경고했다. 노조는 5만 명 이상의 조합원이 참여할 것으로 추산하며, 잠재적 일일 손실 비용은 약 6억7,600만 달러에 달할 것으로 보고 있다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3760,6 +3788,7 @@
     "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약을 겪고 있으며, 고용량 및 자동차 등급 제품군의 리드타임은 36~60주까지 늘어났다. AI 서버와 전기차 인프라 수요가 일본 전용 및 특수 생산 능력을 대부분 소진하고 있다. 유통업체들은 브로커 판매를 적극 제한하고 단계별 가격 정책을 시행하고 있으며, 이는 일시적 현상이 아닌 구조적 공급 부족임을 시사한다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "삼성"
     ],
@@ -4232,6 +4261,7 @@
     "text": "자동차 등급 8GB/16GB LPDDR4/5 및 eMMC의 공급 부족이 지속되고 있다. Samsung과 Micron은 신규 견적 제공을 대부분 중단했으며, 리드타임은 2027년까지 연장되었다. ISSI는 신규 eMMC 주문의 출하가 2028년까지 불가능하다고 확인했으며, 이에 따라 공격적인 듀얼 소싱 전략이 추진되고 있다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4269,6 +4299,7 @@
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 상승했다. Solidigm과 Samsung은 주간 가격 재설정을 시행하고 있다. 저가 SATA 모델은 50~60%, 고가 SATA 및 NVMe는 80~90% 상승했다. Gen5 엔터프라이즈 SSD는 3분기에 추가로 20~30% 급등할 것으로 전망된다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4404,6 +4435,7 @@
     "text": "Murata, Samsung, Taiyo Yuden은 심각한 할당 제약 상태에서 운영되고 있다. 고용량·고온 제품군(일본 전용 생산 라인)의 리드타임은 36~60주에 달한다. AI 서버 및 자동차 수요가 특수 생산 능력의 80% 이상을 소진하고 있다. 유통업체들은 브로커 거래 제한 및 단계별 가격 정책을 시행하고 있다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "삼성"
     ],
@@ -4643,6 +4675,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4663,6 +4696,7 @@
     "detected_vendors": [
       "Kioxia",
       "SK하이닉스",
+      "Samsung",
       "Seagate",
       "삼성"
     ],
@@ -4999,6 +5033,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5042,6 +5077,7 @@
       "Kioxia",
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5261,6 +5297,7 @@
     "text": "Samsung Electronics와 SK Hynix는 고객과 이미 공급을 확약한 고대역폭 메모리(HBM) 물량을 유지하는 동시에, 서버용 DDR5 및 기타 범용 메모리 제품에 추가 또는 유연한 DRAM 생산 능력을 배정하고 있는 것으로 알려졌다. [출처: DigiTimes]",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5295,6 +5332,7 @@
     "subheading": "Samsung, TSMC의 패키징 생산 능력 확대 속 차세대 글래스 인터포저 개발",
     "text": "삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
     "detected_vendors": [
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -5694,6 +5732,7 @@
     "subheading": "메모리 유동적 가격 책정 및 단종 확산",
     "text": "DDR5 RDIMM의 비하이퍼스케일러 대상 공급 충족률은 여전히 30% 미만입니다. 64GB 모듈의 현물 가격은 통상 3,100달러를 넘고 있으며, 계약 가격은 전월 대비 8~10%씩 계속 상승하고 있습니다. Samsung은 2026년 하반기에 5600MHz 제품보다 6400MHz 제품의 생산 비중을 전략적으로 확대하고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5755,6 +5794,7 @@
     "text": "LPDDR4/5의 자동차 및 모바일용 물량 할당은 심각하게 제한돼 있으며, Samsung과 SK Hynix의 공급 충족률은 계약 수요의 40%에도 미치지 못하고 있습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5876,6 +5916,7 @@
     "text": "MLCC는 공식적으로 공급 부족 국면에 진입했습니다. Murata, Samsung Electro-Mechanics, Taiyo Yuden, Yageo는 가격을 15~30% 인상하고 있습니다. AI 서버용 고용량 MLCC(예: 100uF)와 자동차용 등급 제품의 리드타임은 20주에서 50주 이상이며, 유통업체들은 브로커 대상 판매를 제한하고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "Yageo",
       "삼성"
@@ -5915,6 +5956,7 @@
     "subheading": "Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고",
     "text": "Samsung Electronics는 7월 30일 열린 2026년 2분기 실적 발표 콘퍼런스콜에서 세계 반도체 공급난에 관해 지금까지 나온 것 중 가장 강력한 수준의 경고를 내놓았습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [

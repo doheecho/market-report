@@ -7,6 +7,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -85,7 +86,6 @@
     {
       "date": "2020.06",
       "detected_vendors": [
-        "AVX",
         "Panasonic"
       ],
       "risk_level": "Medium",
@@ -120,6 +120,7 @@
     {
       "date": "2020.07",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -190,6 +191,7 @@
     {
       "date": "2020.08",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -666,6 +668,7 @@
     {
       "date": "2021.01",
       "detected_vendors": [
+        "Samsung",
         "Sony",
         "삼성"
       ],
@@ -699,6 +702,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "Winbond",
         "삼성"
       ],
@@ -823,6 +827,7 @@
       "detected_vendors": [
         "Intel",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -896,6 +901,7 @@
     {
       "date": "2021.04",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -907,6 +913,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -1283,6 +1290,7 @@
       "date": "2021.09",
       "detected_vendors": [
         "Onsemi",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -1558,6 +1566,7 @@
       "date": "2021.12",
       "detected_vendors": [
         "Panasonic",
+        "Samsung",
         "Yageo",
         "삼성"
       ],
@@ -1662,6 +1671,7 @@
       "date": "2022.01",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -1769,6 +1779,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -1917,6 +1928,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2049,6 +2061,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2191,6 +2204,7 @@
         "Intel",
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2245,6 +2259,7 @@
       "date": "2022.08",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -2811,6 +2826,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -3113,6 +3129,7 @@
     {
       "date": "2023.04",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -3307,6 +3324,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -3456,6 +3474,7 @@
     {
       "date": "2023.06",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -4114,6 +4133,7 @@
         "Micron",
         "Nvidia",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -4163,6 +4183,7 @@
         "Micron",
         "Nanya",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -4344,6 +4365,7 @@
       "date": "2024.06",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -4507,6 +4529,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -4561,6 +4584,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -4570,6 +4594,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -4739,7 +4764,6 @@
     {
       "date": "2024.10",
       "detected_vendors": [
-        "AVX",
         "Murata"
       ],
       "risk_level": "High",
@@ -5181,6 +5205,7 @@
       "date": "2025.04",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Low",
@@ -5252,6 +5277,7 @@
       "date": "2025.05",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -5614,6 +5640,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -5935,6 +5962,7 @@
         "Intel",
         "Lattice",
         "SK하이닉스",
+        "Samsung",
         "Sony",
         "삼성"
       ],
@@ -5949,6 +5977,7 @@
         "Macnica",
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -6015,6 +6044,7 @@
       "date": "2026.03",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -6026,6 +6056,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -6258,6 +6289,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "Seagate",
         "삼성"
       ],
@@ -6319,6 +6351,7 @@
       "date": "2026.05",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -6471,6 +6504,7 @@
       "date": "2026.06",
       "detected_vendors": [
         "Micron",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",
@@ -6571,6 +6605,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -6700,6 +6735,7 @@
       "date": "2026.07",
       "detected_vendors": [
         "SK하이닉스",
+        "Samsung",
         "삼성"
       ],
       "risk_level": "Medium",
@@ -6856,6 +6892,7 @@
       "date": "2026.08",
       "detected_vendors": [
         "Murata",
+        "Samsung",
         "Taiyo Yuden",
         "Yageo",
         "삼성"
@@ -6867,6 +6904,7 @@
     {
       "date": "2026.08",
       "detected_vendors": [
+        "Samsung",
         "삼성"
       ],
       "risk_level": "High",

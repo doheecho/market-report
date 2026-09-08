@@ -127,6 +127,7 @@
     "text": "RTX 30 시리즈는 이전에 가장 흔히 사용되던 TSMC 7nm 다이 대신에 삼성 8nm 다이를 기반으로 생산됩니다. NVIDIA 공급업체들은 이 점이 RTX 30 시리즈의 공급에 어떤 영향을 미치게 될지 복잡한 심경으로 지켜보고 있습니다. 일부는 RTX 30에 대한 공급 전망이 TSMC 포장 생산으로 인해 영향 받지 않아 안정적이라고 추측하는 반면, 다른 사람들은 삼성 8nm에 대한 주요 수요가 공급 부족을 초래할 것이라고 생각합니다.",
     "detected_vendors": [
       "Nvidia",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -238,6 +239,7 @@
     "text": "Nvidia의 새로운 라인 출시 이후로 GeForce RTX 30 시리즈 그래픽 카드의 수요가 급증하고 있습니다. RTX 30 그래픽 카드에 사용되는 삼성의 8nm 웨이퍼의 수율이 이전 버전보다 낮은 것으로 보고되었습니다. 현물 시장 가격은 3080과 3090 모두 공식 가격보다 30% 이상 높은 가격으로 치솟았으며, 더 인상 될 가능성도 있습니다.",
     "detected_vendors": [
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -272,6 +274,7 @@
     "detected_vendors": [
       "AMD",
       "Nvidia",
+      "Samsung",
       "TSMC",
       "삼성"
     ],
@@ -328,6 +331,7 @@
     "text": "또한 Nvidia RTX 3000 시리즈 GPU 는 주로 삼성의 8nm 생산 설비를 사용하는 Nvidia 로 인해 공급이 계속 낮아지고 있습니다. 이 생산 설비는 낮은 수율 문제가 있는 것으로 보고되었습니다.",
     "detected_vendors": [
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -399,6 +403,7 @@
     "text": "2020년 하반기에 뜨거운 관심과 수요를 일으킨 Nvidia의 RTX 30xx 시리즈 GPU는 여전히 강세를 보이고 있습니다. 하지만 Nvidia는 파운드리 협력사인 삼성에서 8nm 웨이퍼의 수율이 만족스럽지 않아 생산 문제에 직면했습니다. 더욱이, 일반적인 원자재 공급 부족과 가격 상승(예: PCB 보드 및 GDDR6 메모리 칩)도 Nvidia와 기타 GPU 제조업체에 영향을 미치고 있습니다.",
     "detected_vendors": [
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -420,6 +425,7 @@
     "text": "공급과 생산 문제에도 불구하고, CES 2021에 참가한 Nvidia는 2월 말에 출시될 새 GPU 모델 RTX 3060 12GB를 발표했습니다. 그에 상관없이, 삼성은 여전히 Nvidia의 새 RTX 3000 Ampere 시리즈를 위한 충분한 8nm 웨이퍼를 Nvidia에 공급하려 애쓰고 있습니다.",
     "detected_vendors": [
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2041,6 +2047,7 @@
       "Micron",
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -2446,6 +2453,7 @@
     "detected_vendors": [
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3009,6 +3017,7 @@
     "detected_vendors": [
       "Broadcom",
       "Nvidia",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],

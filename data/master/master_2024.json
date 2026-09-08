@@ -486,6 +486,7 @@
     "subheading": "스토리지 수요 증가로 NAND 플래시 시장 반등",
     "text": "2023년의 낮은 수요로 NAND 시장은 상당히 위축됐습니다. 가격이 지속적으로 하락하여 해당 연도 대부분의 기간 NAND 플래시는 원가 수준에서 판매되었습니다. 이에 삼성 및 기타 플래시 메모리 제조사들은 생산량을 50%까지 줄였습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -938,6 +939,7 @@
       "Micron",
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1295,6 +1297,7 @@
       "Micron",
       "Nanya",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -1311,6 +1314,7 @@
     "subheading": "수요 증가 및 공급 제약으로 인한 DDR 가격 급등",
     "text": "삼성에서도 재고를 상당량 보류하고 있는 것으로 알려져 공급 상황이 더욱 악화될 것입니다. DDR3 및 DDR4 수요가 계속 급증함에 따라 공급 부족으로 인해 향후 2분기 이내에 가격 급등이 추가로 발생할 가능성이 높습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1780,6 +1784,7 @@
     "text": "SSD 시장은 주로 NAND 플래시의 비용 상승으로 인해 가격 인상이 지속되고 있습니다. 대만 지진으로 인해 공급망의 불확실성이 가중되고 공급업체들이 일시적으로 가격 책정 및 배송을 중단하는 등 상황이 더욱 복잡해졌습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1801,6 +1806,7 @@
     "text": "지금은 제조업체들이 시설에 대한 전반적인 영향을 평가했으며, 가격 책정이 재개되었고, 지진 발생 전 예상했던 대로 가격이 인상되었습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -1821,6 +1827,7 @@
     "text": "Solidigm SSD 가격은 4월에 10% 인상되었으며, 시장 보고서에 따르면 5월에도 가격이 계속 상승할 것으로 보입니다. 유통업체의 사전 시장 정보에 따르면 삼성 SSD의 비용이 20~30%까지 인상될 것으로 예상됩니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -2232,6 +2239,7 @@
     "text": "Micron, 삼성에서 HBM 공급을 늘리고 있으며 이러한 신제품을 지원하기 위해 생산량을 전환할 계획입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3010,6 +3018,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3068,6 +3077,7 @@
     "text": "SSD는 HDD보다 높은 가격을 유지하고 있으며, NAND 플래시의 가격 변동으로 SSD 가격이 상승하고 있습니다. 최근 삼성 및 Solidigm은 모든 용량의 SSD 가격을 10~25% 정도 인상했습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3353,6 +3363,7 @@
     "subheading": "LED: 삼성, 재정적 어려움 속에 LED 사업 조정 반발에 직면",
     "text": "시장 완전 철수설과 반대로 삼성은 오히려 저사양 LED 제품에 맞춘 초점을 전략적으로 전환하고 있습니다. 몇 년간 재정적 손실을 겪으면서 삼성은 수익성이 낮은 제품군을 단계적으로 폐지할 것입니다. 그러나 유통사들은 여전히 해당 제품의 구체적인 수명 종료 일정을 기다리고 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3371,6 +3382,7 @@
     "subheading": "LED: 삼성, 재정적 어려움 속에 LED 사업 조정 반발에 직면",
     "text": "삼성의 해외 법인이 최근에 단행한 가격 인상이 고객사의 상당한 불만을 촉발하면서 삼성 LED에 대한 재정적 압박은 가중되었습니다. 삼성은 현재 지침에 따라 자동차 LED 생산을 계속해서 지원할 예정이나 많은 고객사가 설계를 대체 브랜드로 이전하고 있습니다. 한국 고객들에게는 서울반도체가 경쟁력 있는 가격 때문에 많은 관심을 받는 선택지로 떠오르고 있습니다. 유럽에서는 Osram이 원예분야에서 강한 수요를 보이면서 하이스펙 요구 사항을 위한 브랜드로 선호되고 있습니다 .",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3408,6 +3420,7 @@
     "text": "마이크론 테크놀로지와 삼성전자의 실적 보고서에 따르면, AI 기술에 집중하는 데이터 센터 및 클라우드 서비스 제공업체들이 RDIMM 수요의 주요 원동력입니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3476,6 +3489,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3563,6 +3577,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3599,6 +3614,7 @@
     "text": "삼성의 SSD 가격은 분기별로 10~25% 상승했으며, 모든 용량에 걸쳐 영향을 미치고 있습니다. 반면, 솔리다임의 가격은 변동이 없었습니다.",
     "detected_vendors": [
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -3910,6 +3926,7 @@
     "text": "삼성전자와 마이크론 테크놀로지의 최신 실적 보고서에 따르면 AI와 클라우드 컴퓨팅의 발전으로 HBM에 대한 수요가 빠르게 증가하고 있습니다. HBM3E 제품 출시로 인한 매출 증가가 특히 두드러지며, AI와 데이터 센터 부문에서 그 영향이 가장 큽니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3949,6 +3966,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -3983,6 +4001,7 @@
     "detected_vendors": [
       "Nvidia",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -4004,6 +4023,7 @@
     "text": "8-High에서 12-High HBM으로의 전환과 전력 효율 및 성능 향상은 2025년까지 가속화될 전망입니다. 마이크론은 전력 효율적인 HBM 제품에서 리더십을 발휘하고 있으며, 삼성의 대규모 HBM3E 생산 능력은 경쟁 구도를 변화시킬 가능성이 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4915,6 +4935,7 @@
     "text": "삼성과 마이크론의 최근 실적 보고서에 따르면 AI 투에 힘입어 클라우드 서비스 제공업체들이 전통적인 DRAM에 대한 수요를 크게 증가시키고 있습니다. AI 서버는 고대역폭 메모리(HBM)뿐만 아니라 일반 DRAM도 대량으로 필요로 하여 DDR5 수요가 지속되고 있습니다. 또한 기존 서버 시장의 리프레시 주기가 진행되면서 효율성과 성능이 향상되고, 스마트폰의 AI 기능 통합과 자동차 애플리케이션의 성장으로 인해 DRAM 수요가 증가하고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -4934,6 +4955,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5000,6 +5022,7 @@
     "detected_vendors": [
       "Micron",
       "SK하이닉스",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [
@@ -5036,6 +5059,7 @@
     "text": "삼성과 마이크론의 최근 실적 보고서에 따르면 스마트폰에서의 온디바이스 AI 수요가 증가하면서 LPDDR 수요가 급증하고 있으며, 저전력 소비가 중요한 요소로 부각되고 있습니다.",
     "detected_vendors": [
       "Micron",
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
@@ -5528,6 +5552,7 @@
     "text": "AI 응용 제품에서 자동차 등급의 MLCC 사용이 증가하고 있으며, 주요 OEM 업체들은 Murata, Taiyo, Samsung, Yageo와 같은 주요 MLCC 제조업체와의 거래가 활발하다고 보고하고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Samsung",
       "Taiyo Yuden",
       "Yageo",
       "삼성"
@@ -5547,7 +5572,6 @@
     "subheading": "가격 인상",
     "text": "AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
-      "AVX",
       "Murata"
     ],
     "detected_keywords": [
@@ -5568,6 +5592,7 @@
     "subheading": "생산 증가와 경쟁 압력",
     "text": "MLCC 시장의 단기 전망은 AI 서버, AI PC, 스마트폰 출시(특히 iPhone 16)로 인한 수요 증가로 삼성전기가 90% 이상의 생산 가동률에 도달하는 등 생산 증가를 보여줍니다. 그러나 치열한 경쟁으로 인해 판매 가격이 정체되면서 수익성은 제한될 수 있습니다.",
     "detected_vendors": [
+      "Samsung",
       "삼성"
     ],
     "detected_keywords": [],
