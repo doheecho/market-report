@@ -5670,28 +5670,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     };
 
     window.renderMajorTimeline = function(customRecords) {
-      const blockEl = document.getElementById("major-timeline-block");
       const lanesEl = document.getElementById("major-timeline-lanes");
       const loadingEl = document.getElementById("major-timeline-loading");
       const detailEl = document.getElementById("major-timeline-detail");
       if (!lanesEl) return;
 
-      // Check if any specific filter is active (overall overview vs filtered)
-      const hasActiveFilter = 
-        (window.__DL_SELECTED.theme && window.__DL_SELECTED.theme.length > 0) ||
-        (window.__DL_SELECTED.category && window.__DL_SELECTED.category.length > 0) ||
-        (window.__DL_SELECTED.vendor && window.__DL_SELECTED.vendor.length > 0);
 
-      if (!hasActiveFilter) {
-        // If overall "All" is active, completely hide the major timeline block!
-        if (blockEl) blockEl.style.display = "none";
-        return;
-      } else {
-        // Only show if we are actually on the "조달 · 납기" top tab category!
-        if (currentTopCategory === "조달 · 납기" && blockEl) {
-          blockEl.style.display = "block";
-        }
-      }
 
       if (loadingEl) loadingEl.style.display = "none";
 
@@ -5764,10 +5748,53 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                "</span>";
       }).join("");
 
+      // Dynamic timeline filter subtitle builder
+      const formatList = (list, prefix) => {
+        if (list.length === 0) return "";
+        const mapped = list.map(item => {
+          const aliasMapReverse = {
+            samsung: "Samsung",
+            sk_hynix: "SK Hynix",
+            texas_instruments: "TI",
+            analog_devices: "Analog Devices",
+            western_digital: "Western Digital",
+            stmicroelectronics: "STMicroelectronics",
+            amd: "AMD",
+            intel: "Intel",
+            taiyo_yuden: "Taiyo Yuden",
+            nvidia: "NVIDIA",
+            murata: "Murata"
+          };
+          return aliasMapReverse[item.toLowerCase()] || (item.charAt(0).toUpperCase() + item.slice(1));
+        });
+
+        if (mapped.length <= 5) {
+          return prefix + " " + mapped.join(", ");
+        } else {
+          return prefix + " " + mapped.slice(0, 5).join(", ") + " 등 " + list.length + "개";
+        }
+      };
+
+      const themes = window.__DL_SELECTED.theme || [];
+      const categories = window.__DL_SELECTED.category || [];
+      const vendors = window.__DL_SELECTED.vendor || [];
+
+      const themeText = formatList(themes, "(테마)");
+      const catText = formatList(categories, "(품목군)");
+      const vendorText = formatList(vendors, "(제조사)");
+
+      const parts = [themeText, catText, vendorText].filter(Boolean);
+      const filterDetails = (parts.length === 0) ? "전체" : parts.join("   ");
+
+      const titleTextEl = document.getElementById("dl-timeline-title-text");
+      if (titleTextEl) {
+        titleTextEl.innerHTML = `<i class="bi bi-signpost-split-fill me-1 text-primary"></i>타임라인 - ${escapeHtml(filterDetails)}`;
+      }
+
+      // Render the lane directly without the label column, allowing circles/dots to start immediately on the left!
       lanesEl.innerHTML = 
-        '<div class="major-timeline-lane">' +
-          '<div class="major-timeline-lane-label" style="font-size: 0.82rem; font-weight: 700; color: var(--srm-text); width: 140px; flex-shrink: 0;">' + escapeHtml(labelText) + '</div>' +
-          '<div class="major-timeline-track" style="display:flex; overflow-x:auto; gap:14px; padding-bottom:5px; flex-grow:1;">' + nodesHtml + '</div>' +
+        '<div class="major-timeline-lane" style="display: flex; align-items: center; width: 100%;">' +
+          '<div class="major-timeline-track" style="display:flex; overflow-x:auto; gap:14px; padding-bottom:5px; flex-grow:1; margin-left:5px;">' + nodesHtml + '</div>' +
         '</div>';
 
       lanesEl.style.display = "block";
