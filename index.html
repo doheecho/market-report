@@ -2042,6 +2042,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
   <script>
     // G.A.S Compatibility Layer for Static Environment (GitHub Pages)
     if (typeof google === 'undefined') {
+      const cacheBuster = "?t=" + new Date().getTime();
       const fetchWithFallback = function(urls) {
         let index = 0;
         function attempt() {
@@ -2072,10 +2073,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                   const runMock = {
                     getScmRiskData: function() {
                       const urls = [
-                        './data/views/geopolitics_risk.json',
-                        'https://doheecho.github.io/market-report/data/views/geopolitics_risk.json',
-                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/geopolitics_risk.json',
-                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/geopolitics_risk.json'
+                        './data/views/geopolitics_risk.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/geopolitics_risk.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/geopolitics_risk.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/geopolitics_risk.json' + cacheBuster
                       ];
                       fetchWithFallback(urls)
                         .then(successHandler)
@@ -2083,9 +2084,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     },
                     getMarketForecastData: function() {
                       const urls = [
-                        'https://doheecho.github.io/market-forecast/raw_materials_forecast.json',
-                        'https://cdn.jsdelivr.net/gh/doheecho/market-forecast@main/raw_materials_forecast.json',
-                        'https://raw.githubusercontent.com/doheecho/market-forecast/main/raw_materials_forecast.json'
+                        'https://doheecho.github.io/market-forecast/raw_materials_forecast.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-forecast@main/raw_materials_forecast.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-forecast/main/raw_materials_forecast.json' + cacheBuster
                       ];
                       fetchWithFallback(urls)
                         .then(data => {
@@ -2098,10 +2099,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     },
                     getCurrencyData: function() {
                       const urls = [
-                        './data/views/currency_data.json',
-                        'https://doheecho.github.io/market-report/data/views/currency_data.json',
-                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/currency_data.json',
-                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/currency_data.json'
+                        './data/views/currency_data.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/currency_data.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/currency_data.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/currency_data.json' + cacheBuster
                       ];
                       fetchWithFallback(urls)
                         .then(successHandler)
@@ -2109,10 +2110,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     },
                     getCostMarketRiskData: function() {
                       const urls = [
-                        './data/views/cost_market_risk.json',
-                        'https://doheecho.github.io/market-report/data/views/cost_market_risk.json',
-                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/cost_market_risk.json',
-                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/cost_market_risk.json'
+                        './data/views/cost_market_risk.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/cost_market_risk.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/cost_market_risk.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/cost_market_risk.json' + cacheBuster
                       ];
                       fetchWithFallback(urls)
                         .then(successHandler)
@@ -2120,10 +2121,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     },
                     getProcurementRiskData: function() {
                       const urls = [
-                        './data/views/procurement_risk.json',
-                        'https://doheecho.github.io/market-report/data/views/procurement_risk.json',
-                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/procurement_risk.json',
-                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/procurement_risk.json'
+                        './data/views/procurement_risk.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/procurement_risk.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/procurement_risk.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/procurement_risk.json' + cacheBuster
                       ];
                       fetchWithFallback(urls)
                         .then(successHandler)
