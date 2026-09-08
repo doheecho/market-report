@@ -1539,7 +1539,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <div class="market-grid-split" id="market-tables-split-row" style="display: none;">
         <!-- 단가인상 요청내역 (좌측 3칸) -->
         <section class="block" id="market-requests-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
-          <h3 id="dashboard-market-requests-title"><span><i class="bi bi-file-earmark-spreadsheet-fill me-1"></i>단가인상 요청내역</span></h3>
+          <h3 id="dashboard-market-requests-title"><span><i class="bi bi-emoji-angry me-1"></i>단가인상 요청내역</span></h3>
           <div class="market-table-wrapper" id="market-requests-root" style="flex-grow: 1;">
             <div class="loading text-center py-4">요청내역 로딩 중…</div>
           </div>
@@ -1556,7 +1556,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       <!-- 4. 원가·시황측면 Risk 협력사 섹션 블록 (가로 전체 사용) -->
       <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px !important;">
-        <h3 id="dashboard-market-partners-title"><span><i class="bi bi-shield-slash-fill me-1"></i>원가·시황측면 Risk 협력사</span></h3>
+        <h3 id="dashboard-market-partners-title"><span><i class="bi bi-exclamation-triangle-fill me-1"></i>원가·시황측면 Risk 협력사</span></h3>
         <div class="market-table-wrapper" id="market-risk-partners-root" style="flex-grow: 1;">
           <div class="loading text-center py-5">데이터 불러오는 중…</div>
         </div>
@@ -2373,7 +2373,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         mapBlock.style.display = "block";
         mapPanel.style.setProperty("display", "block", "important");
         unifiedPanel.style.setProperty("display", "none", "important");
-        mainTitle.innerHTML = `<i class="bi bi-globe-asia-australia-fill me-1 text-danger"></i>지정학적 Risk Map`;
+        mainTitle.innerHTML = `<i class="bi bi-globe-asia-australia me-1 text-danger"></i>지정학적 Risk Map`;
         
         if (map) {
           setTimeout(function() {
@@ -2449,9 +2449,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           commentsHtml = `
             • 지도 좌측의 <b>Risk 탭</b>을 클릭하면 해당 Risk의 주요 요약 및 영향권 내 전체 SCM 정보가 조회됩니다.<br>
             • 우측 하단의 <b>시뮬레이션 버튼</b>을 통해 자연재해(지진, 태풍) 및 국가별 이슈 발생 시 당사 SCM 영향도를 사전 시뮬레이션할 수 있습니다.<br>
-               <b>  - 지진:</b> 진앙지를 지도상에서 클릭 후 지진 규모(Richter Scale)를 선택/입력하면, 규모별 예상 영향 반경에 따라 피해가 예측되는 협력사의 Risk가 계산됩니다.<br>
-               <b>  - 태풍:</b> 태풍 이동 경로를 순차 클릭(좌클릭) 후 우클릭으로 경로 지정을 완료하면, 기상청/WMO 풍속 기준(대형/초강력) 및 물류·방재 모델에 따라 이동 경로 내 협력사의 Risk가 계산됩니다.<br>
-               <b>  - 국가:</b> 시뮬레이션할 국가의 영토를 클릭하면 해당 국가 단위의 SCM Risk를 산출하며, 3가지 시나리오(전면 봉쇄(Lockdown), 가동률 하락, 단순 모니터링)별 영향도를 조회할 수 있습니다.
+            <div style="padding-left: 10px; margin-top: 0px; margin-bottom: 4px; line-height: 1.6;">
+              <b>- 지진:</b> 진앙지를 지도상에서 클릭 후 지진 규모(Richter Scale)를 선택/입력하면, 규모별 예상 영향 반경에 따라 피해가 예측되는 협력사의 Risk가 계산됩니다.<br>
+              <b>- 태풍:</b> 태풍 이동 경로를 순차 클릭(좌클릭) 후 우클릭으로 경로 지정을 완료하면, 기상청/WMO 풍속 기준(대형/초강력) 및 물류·방재 모델에 따라 이동 경로 내 협력사의 Risk가 계산됩니다.<br>
+              <b>- 국가:</b> 시뮬레이션할 국가의 영토를 클릭하면 해당 국가 단위의 SCM Risk를 산출하며, 3가지 시나리오(전면 봉쇄(Lockdown), 가동률 하락, 단순 모니터링)별 영향도를 조회할 수 있습니다.
           `;
         } else if (category === "경영 안정성") {
           commentsHtml = `
@@ -2470,7 +2471,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         } else if (category === "조달 · 납기") {
           commentsHtml = `
             • 시장 동향 리포트는 글로벌 전자부품 유통업체인 <b>Fusion Trade, Inc.</b> 가 발행하는 월간 시장 인텔리전스 리포트인 <b>The Greensheet</b> 를 기반으로 정리되었습니다.<br>
-            <div style="padding-left: 24px; margin-top: 4px; margin-bottom: 4px; line-height: 1.6;">
+            <div style="padding-left: 10px; margin-top: 0px; margin-bottom: 4px; line-height: 1.6;">
               <b>- 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
               <b>- 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.<br>
               <b>- 위험도 분류 기준:</b> <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.
@@ -5686,7 +5687,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     let currentDlDisplayMode = 'table'; // 'table' or 'detail'
 
     window.__DL_PAGINATION_PAGE = 1;
-    const ITEMS_PER_PAGE = 10;
+    const ITEMS_PER_PAGE = 8;
     let loadedProcurementTablesData = null;
 
     window.setDlDisplayMode = function(mode) {
