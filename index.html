@@ -1697,6 +1697,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           </div>
         </div>
 
+        <!-- [신설] 조달/납기 리포트 페이징 컨트롤 컨테이너 (하단 가운데 배치) -->
+        <div id="dl-pagination-container" class="d-flex justify-content-center align-items-center gap-2 mt-3 mb-4" style="display: none !important;">
+          <!-- Dynamic pagination buttons -->
+        </div>
+
         <!-- [신설 / 순서 변경] SCM 타임라인 타이틀 바 및 접기 버튼 (리포트 내용의 아래로 내림, 동일한 하위레벨 폰트 크기 0.88rem 부여) -->
         <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
           <div id="dl-timeline-title-text" class="fw-bold" style="font-size: 0.88rem; color: var(--srm-text-secondary) !important;">
@@ -1713,6 +1718,42 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <div id="major-timeline-lanes" style="display: none;"></div>
           <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
         </div>
+      </div>
+    </section>
+
+    <!-- [신설] 조달/납기 분할 5분할 (3fr 2fr Split) 영역 -->
+    <div class="market-grid-split" id="procurement-tables-split-row" style="display: none; margin-top: 20px; margin-bottom: 20px;">
+      <!-- 리드타임 변동이력 (좌측 3칸) -->
+      <section class="block" id="procurement-requests-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
+        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
+          <span><i class="bi bi-calendar-range-fill me-1 text-primary"></i>리드타임 변동이력</span>
+          <button type="button" id="dl-lt-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleLtCollapse()">접기</button>
+        </h3>
+        <div class="market-table-wrapper" id="procurement-lt-root" style="flex-grow: 1;">
+          <div class="loading text-center py-4">리드타임 이력 로딩 중…</div>
+        </div>
+      </section>
+
+      <!-- 공급 차질 Risk (우측 2칸) -->
+      <section class="block" id="procurement-sensitivity-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
+        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
+          <span><i class="bi bi-exclamation-octagon-fill me-1 text-warning"></i>공급 차질 Risk</span>
+          <button type="button" id="dl-sc-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleScCollapse()">접기</button>
+        </h3>
+        <div class="market-table-wrapper" id="procurement-sc-root" style="flex-grow: 1;">
+          <div class="loading text-center py-4">공급 차질 로딩 중…</div>
+        </div>
+      </section>
+    </div>
+
+    <!-- [신설] 조달/납기측면 Risk 협력사 (가로 전체 사용) -->
+    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px !important;">
+      <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
+        <span><i class="bi bi-shield-slash-fill me-1 text-danger"></i>조달/납기측면 Risk 협력사</span>
+        <button type="button" id="dl-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleRpCollapse()">접기</button>
+      </h3>
+      <div class="market-table-wrapper" id="procurement-risk-partners-root" style="flex-grow: 1;">
+        <div class="loading text-center py-5">데이터 불러오는 중…</div>
       </div>
     </section>
 
@@ -2077,6 +2118,17 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                         .then(successHandler)
                         .catch(failureHandler);
                     },
+                    getProcurementRiskData: function() {
+                      const urls = [
+                        './data/views/procurement_risk.json',
+                        'https://doheecho.github.io/market-report/data/views/procurement_risk.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/procurement_risk.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/procurement_risk.json'
+                      ];
+                      fetchWithFallback(urls)
+                        .then(successHandler)
+                        .catch(failureHandler);
+                    },
                     getDetailData: function(country, city, vendor) {
                       const matched = (window.__DL_CURRENT_RECORDS || []).filter(r => 
                         r.detected_vendors.some(v => v.toLowerCase() === vendor.toLowerCase())
@@ -2302,6 +2354,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       partnersBlock.style.display = "none";
       if (procurementBlock) procurementBlock.style.display = "none";
       if (majorTimelineBlock) majorTimelineBlock.style.display = "none";
+      
+      const procSplit = document.getElementById("procurement-tables-split-row");
+      const procPartners = document.getElementById("procurement-risk-partners-block");
+      if (procSplit) procSplit.style.display = "none";
+      if (procPartners) procPartners.style.display = "none";
 
       if (category === "통합 관리") {
         mapBlock.style.display = "block";
@@ -2356,13 +2413,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       } else if (category === "조달 · 납기") {
         if (procurementBlock) {
           procurementBlock.style.display = "block";
+          
+          const procSplit = document.getElementById("procurement-tables-split-row");
+          const procPartners = document.getElementById("procurement-risk-partners-block");
+          if (procSplit) procSplit.style.display = "grid";
+          if (procPartners) procPartners.style.display = "flex";
+          
           if (typeof window.initDlViewModule === 'function') {
             window.initDlViewModule();
           }
-        }
-        // [수정] 전체 조회 상태일 때는 주요 타임라인을 숨겨두고, 필터가 걸렸을 때만 보이도록 제어 (renderMajorTimeline에서 제어)
-        if (majorTimelineBlock) {
-          majorTimelineBlock.style.display = "none";
+          // Asynchronously trigger loading of Procurement Risk Tables
+          if (typeof window.loadProcurementRiskTables === 'function') {
+            window.loadProcurementRiskTables();
+          }
         }
       }
 
@@ -5500,10 +5563,17 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             <td colspan="6" class="text-muted py-5" style="background: var(--srm-surface) !important;">조건에 부합하는 시황 데이터 레코드가 없습니다.</td>
           </tr>
         `;
+        const pagContainer = document.getElementById("dl-pagination-container");
+        if (pagContainer) pagContainer.style.setProperty("display", "none", "important");
         return;
       }
 
-      tbody.innerHTML = records.map(r => {
+      // Pagination slice
+      const page = window.__DL_PAGINATION_PAGE || 1;
+      const startIdx = (page - 1) * ITEMS_PER_PAGE;
+      const pageRecords = records.slice(startIdx, startIdx + ITEMS_PER_PAGE);
+
+      tbody.innerHTML = pageRecords.map(r => {
         let riskBadge = `<span class="badge bg-secondary" style="font-size: 11px;">Low</span>`;
         if (r.risk_level === "High") {
           riskBadge = `<span class="badge bg-danger" style="background-color: #be123c !important; font-size: 11px; padding: 4px 8px;">High</span>`;
@@ -5614,6 +5684,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
     let currentDlDisplayMode = 'table'; // 'table' or 'detail'
 
+    window.__DL_PAGINATION_PAGE = 1;
+    const ITEMS_PER_PAGE = 10;
+    let loadedProcurementTablesData = null;
+
     window.setDlDisplayMode = function(mode) {
       currentDlDisplayMode = mode;
       const btnTable = document.getElementById("btn-dl-mode-table");
@@ -5634,7 +5708,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
         document.getElementById("dl-table-wrapper").style.display = "block";
         document.getElementById("dl-detail-wrapper").style.display = "none";
-        renderDlTable(window.__DL_CURRENT_RECORDS);
+        renderDlTable(window.__DL_CURRENT_FILTERED_RECORDS || window.__DL_CURRENT_RECORDS);
       } else {
         btnDetail.className = "btn btn-sm btn-primary py-1 px-3";
         btnDetail.style.removeProperty("background");
@@ -5648,7 +5722,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
         document.getElementById("dl-table-wrapper").style.display = "none";
         document.getElementById("dl-detail-wrapper").style.display = "block";
-        renderDlDetailList(window.__DL_CURRENT_RECORDS);
+        renderDlDetailList(window.__DL_CURRENT_FILTERED_RECORDS || window.__DL_CURRENT_RECORDS);
       }
     };
 
@@ -5656,13 +5730,18 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const isTableMode = (currentDlDisplayMode === 'table');
       const target = isTableMode ? document.getElementById("dl-table-wrapper") : document.getElementById("dl-detail-wrapper");
       const btn = document.getElementById("dl-collapse-btn");
+      const pagContainer = document.getElementById("dl-pagination-container");
       
       if (target.style.display === "none") {
         target.style.display = "block";
         btn.textContent = "접기";
+        if (pagContainer && (window.__DL_CURRENT_FILTERED_RECORDS || window.__DL_CURRENT_RECORDS || []).length > ITEMS_PER_PAGE) {
+          pagContainer.style.setProperty("display", "flex", "important");
+        }
       } else {
         target.style.display = "none";
         btn.textContent = "펼치기";
+        if (pagContainer) pagContainer.style.setProperty("display", "none", "important");
       }
     };
 
@@ -5692,6 +5771,120 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       }
     };
 
+    window.toggleLtCollapse = function() {
+      const target = document.getElementById("procurement-lt-root");
+      const btn = document.getElementById("dl-lt-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleScCollapse = function() {
+      const target = document.getElementById("procurement-sc-root");
+      const btn = document.getElementById("dl-sc-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleRpCollapse = function() {
+      const target = document.getElementById("procurement-risk-partners-root");
+      const btn = document.getElementById("dl-rp-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.renderDlPagination = function(totalItems, currentPage, onPageChange) {
+      const container = document.getElementById("dl-pagination-container");
+      if (!container) return;
+
+      if (totalItems <= ITEMS_PER_PAGE) {
+        container.style.setProperty("display", "none", "important");
+        return;
+      }
+      container.style.setProperty("display", "flex", "important");
+
+      const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
+      let html = "";
+
+      // Previous button
+      const prevDisabled = (currentPage === 1);
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${prevDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage - 1})"><i class="bi bi-chevron-left"></i></button>`;
+
+      // Page numbers (smart range around currentPage)
+      const startPage = Math.max(1, currentPage - 2);
+      const endPage = Math.min(totalPages, startPage + 4);
+      
+      for (let p = startPage; p <= endPage; p++) {
+        const isActive = (p === currentPage);
+        html += `<button type="button" class="btn btn-sm ${isActive ? 'btn-primary' : 'btn-outline-secondary'} px-3 py-1 fw-bold" onclick="window.__DL_ON_PAGE_CHANGE(${p})">${p}</button>`;
+      }
+
+      // Next button
+      const nextDisabled = (currentPage === totalPages);
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${nextDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage + 1})"><i class="bi bi-chevron-right"></i></button>`;
+
+      container.innerHTML = html;
+      window.__DL_ON_PAGE_CHANGE_CALLBACK = onPageChange;
+    };
+
+    window.__DL_ON_PAGE_CHANGE = function(page) {
+      window.__DL_PAGINATION_PAGE = page;
+      if (typeof window.__DL_ON_PAGE_CHANGE_CALLBACK === 'function') {
+        window.__DL_ON_PAGE_CHANGE_CALLBACK(page);
+      }
+    };
+
+    window.loadProcurementRiskTables = function(forceReload) {
+      const ltRoot = document.getElementById("procurement-lt-root");
+      const scRoot = document.getElementById("procurement-sc-root");
+      const partnerRoot = document.getElementById("procurement-risk-partners-root");
+
+      if (loadedProcurementTablesData && !forceReload) {
+        renderProcurementRiskTables(loadedProcurementTablesData);
+      } else {
+        if (ltRoot) ltRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>리드타임 이력 로딩 중…</div>';
+        if (scRoot) scRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>공급 차질 로딩 중…</div>';
+        if (partnerRoot) partnerRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>리스크 협력사 로딩 중…</div>';
+
+        google.script.run.withSuccessHandler(res => {
+          if (res.success) {
+            loadedProcurementTablesData = res;
+            renderProcurementRiskTables(loadedProcurementTablesData);
+          } else {
+            const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.8rem;">데이터 로드 실패: ' + (res.message || "알 수 없는 오류") + '</div>';
+            if (ltRoot) ltRoot.innerHTML = errHtml;
+            if (scRoot) scRoot.innerHTML = errHtml;
+            if (partnerRoot) partnerRoot.innerHTML = errHtml;
+          }
+        }).withFailureHandler(err => {
+          const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.8rem;">서버 통신 실패: ' + err.message + '</div>';
+          if (ltRoot) ltRoot.innerHTML = errHtml;
+          if (scRoot) scRoot.innerHTML = errHtml;
+          if (partnerRoot) partnerRoot.innerHTML = errHtml;
+        }).getProcurementRiskData();
+      }
+    };
+
+    function renderProcurementRiskTables(tablesData) {
+      renderCustomTable("procurement-lt-root", tablesData.leadTimeHistory);
+      renderCustomTable("procurement-sc-root", tablesData.supplyDisruptionRisk);
+      renderCustomTable("procurement-risk-partners-root", tablesData.procurementRiskPartners);
+    }
+
     // [수정] 기존 renderDlTimeline()을 대체. 더 이상 "타임라인"이 아니라 클릭 없이
     // 처음부터 본문 전체가 항상 보이는 상세 리스트 뷰. 카드 마크업/배지 구성은
     // 원본과 동일하게 유지하고, 클릭-토글 캐럿 아이콘과 요약 문장 파싱 로직만 제거.
@@ -5701,12 +5894,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       if (!records || records.length === 0) {
         container.innerHTML = `<div class="text-muted text-center py-5">조건에 부합하는 SCM 시황 데이터가 없습니다.</div>`;
+        const pagContainer = document.getElementById("dl-pagination-container");
+        if (pagContainer) pagContainer.style.setProperty("display", "none", "important");
         return;
       }
 
       const sorted = [...records].sort((a, b) => (b.year - a.year) || (b.month - a.month));
 
-      container.innerHTML = sorted.map((r) => {
+      // Pagination slice
+      const page = window.__DL_PAGINATION_PAGE || 1;
+      const startIdx = (page - 1) * ITEMS_PER_PAGE;
+      const pageRecords = sorted.slice(startIdx, startIdx + ITEMS_PER_PAGE);
+
+      container.innerHTML = pageRecords.map((r) => {
         const formattedDate = `${r.year}년 ${r.month}월`;
 
         let markerColor = "var(--srm-accent)";
