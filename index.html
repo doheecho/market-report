@@ -1565,7 +1565,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- 5. 조달·납기 (GitHub Data Lake Views) 섹션 블록 (조달/납기 탭 전용) -->
       <section class="block mb-4" id="procurement-risk-block" style="display: none; margin-top: 16px;">
         <h3 id="dashboard-procurement-title" class="d-flex justify-content-between align-items-center">
-          <span><i class="bi bi-truck me-1"></i>시장 동향 Report 조회</span>
+          <span><i class="bi bi-diagram-3 me-1"></i>시장 동향 Report 조회</span>
           <button type="button" id="dl-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlCollapseAll()">모두 접기</button>
         </h3>
         
@@ -1726,7 +1726,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- 리드타임 변동이력 (좌측 3칸) -->
       <section class="block" id="procurement-requests-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
-          <span><i class="bi bi-calendar-range-fill me-1 text-primary"></i>리드타임 변동이력</span>
+          <span><i class="bi bi-truck me-1 text-primary"></i>리드타임 변동이력</span>
           <button type="button" id="dl-lt-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleLtCollapse()">접기</button>
         </h3>
         <div class="market-table-wrapper" id="procurement-lt-root" style="flex-grow: 1;">
@@ -1749,7 +1749,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     <!-- [신설] 조달/납기측면 Risk 협력사 (가로 전체 사용) -->
     <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px !important;">
       <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
-        <span><i class="bi bi-shield-slash-fill me-1 text-danger"></i>조달/납기측면 Risk 협력사</span>
+        <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달/납기측면 Risk 협력사</span>
         <button type="button" id="dl-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleRpCollapse()">접기</button>
       </h3>
       <div class="market-table-wrapper" id="procurement-risk-partners-root" style="flex-grow: 1;">
@@ -2373,7 +2373,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         mapBlock.style.display = "block";
         mapPanel.style.setProperty("display", "block", "important");
         unifiedPanel.style.setProperty("display", "none", "important");
-        mainTitle.innerHTML = `<i class="bi bi-geo-alt-fill me-1 text-danger"></i>SCM 지정학적 Risk Map`;
+        mainTitle.innerHTML = `<i class="bi bi-globe-asia-australia-fill me-1 text-danger"></i>지정학적 Risk Map`;
         
         if (map) {
           setTimeout(function() {
