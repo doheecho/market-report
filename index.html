@@ -1274,7 +1274,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     var adminBadge = opts.admin ? '<span class="admin-badge">ADMIN</span>' : '';
 
     header.innerHTML =
-      '<div class="header-title">삼성메디슨 구매그룹' + titleSuffix + '</div>' +
+      '<div class="header-title">DH' + titleSuffix + '</div>' +
       '<div class="header-buttons">' +
         '<span class="user-info-text">' +
           '<span id="dynamic-user-name">' + initialName + '</span>' + adminBadge +
@@ -1615,7 +1615,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">텍스트 검색:</span>
             <div class="input-group input-group-sm">
               <span class="input-group-text" style="height: 32px;"><i class="bi bi-search"></i></span>
-              <input type="text" id="dl-search-input" class="form-control" placeholder="검색어..." style="height: 32px;" oninput="filterDlTable()">
+              <input type="text" id="dl-search-input" class="form-control" placeholder="검색할 단어를 입력하세요" style="height: 32px;" oninput="filterDlTable()">
             </div>
           </div>
 
@@ -1648,6 +1648,23 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
         <!-- Hidden G.A.S metricsRow compatibility tag -->
         <div id="dl-metrics-row" style="display: none !important;"></div>
+
+        <!-- [신설] SCM 타임라인 타이틀 바 및 접기 버튼 (리포트 내용과 동일한 레벨로 삽입) -->
+        <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
+          <div class="fw-bold text-dark" style="font-size: 0.95rem; color: var(--srm-text) !important;">
+            <i class="bi bi-signpost-split-fill me-1 text-primary"></i>타임라인
+          </div>
+          <button type="button" id="dl-timeline-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTimelineCollapse()">접기</button>
+        </div>
+
+        <!-- [신설] 타임라인 콘텐츠 영역 -->
+        <div id="dl-timeline-content-wrapper" style="margin-bottom: 24px;">
+          <div id="major-timeline-loading" class="text-center text-muted py-4" style="font-size: 0.85rem;">
+            <div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>주요 테마별 타임라인 로딩 중…
+          </div>
+          <div id="major-timeline-lanes" style="display: none;"></div>
+          <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
+        </div>
 
         <!-- [신설] 리포트 내용 타이틀 바 및 접기 버튼 -->
         <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
@@ -1686,16 +1703,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </div>
       </section>
 
-      <!-- 5-1. [신설] 주요 타임라인: 테마별 이슈 발생 추이를 좌→우 가로 스크롤 타임라인으로 표시.
-           각 점(노드)을 클릭하면 아래에 해당 시기·테마의 제조사(품목)별 이슈 상세가 펼쳐짐. -->
-      <section class="block mb-4" id="major-timeline-block" style="display: none; margin-top: 16px;">
-        <h3><span><i class="bi bi-signpost-split-fill me-1"></i>타임라인</span></h3>
-        <div id="major-timeline-loading" class="text-center text-muted py-4" style="font-size: 0.85rem;">
-          <div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>주요 테마별 타임라인 로딩 중…
-        </div>
-        <div id="major-timeline-lanes" style="display: none;"></div>
-        <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
-      </section>
+
 
       <!-- 6. 실시간 SCM 모듈별 주석 (Comments) - 제목/테두리 없이 깔끔하게 좌하단에 배치 -->
       <div id="scm-comments-block" style="margin-top: 15px; margin-bottom: 20px; font-size: 0.82rem; color: var(--srm-text-secondary) !important; line-height: 1.6; text-align: left; padding-left: 5px;">
@@ -2387,8 +2395,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         } else if (category === "조달 · 납기") {
           commentsHtml = `
             • 시장 동향 리포트는 글로벌 전자부품 유통업체인 <b>Fusion Trade, Inc.</b> 가 발행하는 월간 시장 인텔리전스 리포트인 <b>The Greensheet</b> 를 기반으로 정리되었습니다.<br>
-               <b>  - 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
-               <b>  - 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.<br>
+            <div style="padding-left: 24px; margin-top: 4px; margin-bottom: 4px; line-height: 1.6;">
+              <b>- 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
+              <b>- 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.
+            </div>
             • 위험도 분류 기준은 <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.<br>
             • 주석 3:<br>
             • 주석 4:
@@ -5568,6 +5578,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       }
     };
 
+    window.toggleDlTimelineCollapse = function() {
+      const target = document.getElementById("dl-timeline-content-wrapper");
+      const btn = document.getElementById("dl-timeline-collapse-btn");
+      
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
     // [수정] 기존 renderDlTimeline()을 대체. 더 이상 "타임라인"이 아니라 클릭 없이
     // 처음부터 본문 전체가 항상 보이는 상세 리스트 뷰. 카드 마크업/배지 구성은
     // 원본과 동일하게 유지하고, 클릭-토글 캐럿 아이콘과 요약 문장 파싱 로직만 제거.
@@ -5637,22 +5660,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const detailEl = document.getElementById("major-timeline-detail");
       if (!lanesEl) return;
 
-      // Check if any specific filter is active (overall overview vs filtered)
-      const hasActiveFilter = 
-        (window.__DL_SELECTED.theme && window.__DL_SELECTED.theme.length > 0) ||
-        (window.__DL_SELECTED.category && window.__DL_SELECTED.category.length > 0) ||
-        (window.__DL_SELECTED.vendor && window.__DL_SELECTED.vendor.length > 0);
 
-      if (!hasActiveFilter) {
-        // If overall "All" is active, completely hide the major timeline block!
-        if (blockEl) blockEl.style.display = "none";
-        return;
-      } else {
-        // Only show if we are actually on the "조달 · 납기" top tab category!
-        if (currentTopCategory === "조달 · 납기" && blockEl) {
-          blockEl.style.display = "block";
-        }
-      }
 
       if (loadingEl) loadingEl.style.display = "none";
 
