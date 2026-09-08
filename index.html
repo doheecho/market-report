@@ -1274,7 +1274,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     var adminBadge = opts.admin ? '<span class="admin-badge">ADMIN</span>' : '';
 
     header.innerHTML =
-      '<div class="header-title">삼성메디슨 구매그룹' + titleSuffix + '</div>' +
+      '<div class="header-title">DH' + titleSuffix + '</div>' +
       '<div class="header-buttons">' +
         '<span class="user-info-text">' +
           '<span id="dynamic-user-name">' + initialName + '</span>' + adminBadge +
@@ -1971,6 +1971,28 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
   <script>
     // G.A.S Compatibility Layer for Static Environment (GitHub Pages)
     if (typeof google === 'undefined') {
+      // Helper function to fetch from a list of URLs with automatic fallback
+      const fetchWithFallback = function(urls) {
+        let index = 0;
+        function attempt() {
+          if (index >= urls.length) {
+            return Promise.reject(new Error("All fetch attempts failed"));
+          }
+          const url = urls[index];
+          index++;
+          return fetch(url)
+            .then(res => {
+              if (!res.ok) throw new Error("HTTP error " + res.status);
+              return res.json();
+            })
+            .catch(err => {
+              console.warn("Fetch to " + url + " failed, trying next...", err);
+              return attempt();
+            });
+        }
+        return attempt();
+      };
+
       window.google = {
         script: {
           run: {
@@ -1979,38 +2001,50 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                 withFailureHandler: function(failureHandler) {
                   const runMock = {
                     getScmRiskData: function() {
-                      fetch('./data/views/geopolitics_risk.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        './data/views/geopolitics_risk.json',
+                        'https://doheecho.github.io/market-report/data/views/geopolitics_risk.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/geopolitics_risk.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/geopolitics_risk.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
                     getMarketForecastData: function() {
-                      fetch('https://doheecho.github.io/market-forecast/raw_materials_forecast.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
+                      const urls = [
+                        'https://doheecho.github.io/market-forecast/raw_materials_forecast.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-forecast@main/raw_materials_forecast.json',
+                        'https://raw.githubusercontent.com/doheecho/market-forecast/main/raw_materials_forecast.json'
+                      ];
+                      fetchWithFallback(urls)
+                        .then(data => {
+                          successHandler({
+                            success: true,
+                            forecastData: data
+                          });
                         })
-                        .then(successHandler)
                         .catch(failureHandler);
                     },
                     getCurrencyData: function() {
-                      fetch('./data/views/currency_data.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        './data/views/currency_data.json',
+                        'https://doheecho.github.io/market-report/data/views/currency_data.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/currency_data.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/currency_data.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
                     getCostMarketRiskData: function() {
-                      fetch('./data/views/cost_market_risk.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        './data/views/cost_market_risk.json',
+                        'https://doheecho.github.io/market-report/data/views/cost_market_risk.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/cost_market_risk.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/cost_market_risk.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
@@ -2344,9 +2378,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         } else if (category === "조달 · 납기") {
           commentsHtml = `
             • 시장 동향 리포트는 글로벌 전자부품 유통업체인 <b>Fusion Trade, Inc.</b> 가 발행하는 월간 시장 인텔리전스 리포트인 <b>The Greensheet</b> 를 기반으로 정리되었습니다.<br>
-               <b>  - 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
-               <b>  - 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.<br>
-            • 위험도 분류 기준은 <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.<br>
+            <div style="padding-left: 24px; margin-top: 4px; margin-bottom: 4px; line-height: 1.6;">
+              <b>- 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
+              <b>- 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.<br>
+              <b>- 위험도 분류 기준:</b> <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.
+            </div>
             • 주석 3:<br>
             • 주석 4:
           `;
@@ -5204,15 +5240,15 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       if (dim === 'all') {
         return [
           "./data/master/master_all.json" + cacheBuster,
+          "https://doheecho.github.io/market-report/data/master/master_all.json" + cacheBuster,
           "https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/master/master_all.json" + cacheBuster,
-          "https://cdn.jsdelivr.net/gh/doheecho/my-market-intelligence@main/data/master/master_all.json" + cacheBuster,
           "https://raw.githubusercontent.com/doheecho/market-report/main/data/master/master_all.json" + cacheBuster
         ];
       }
       return [
         "./data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
+        "https://doheecho.github.io/market-report/data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
         "https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
-        "https://cdn.jsdelivr.net/gh/doheecho/my-market-intelligence@main/data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
         "https://raw.githubusercontent.com/doheecho/market-report/main/data/views/by_" + dim + "/" + value + ".json" + cacheBuster
       ];
     }
@@ -5477,6 +5513,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       currentDlDisplayMode = mode;
       const btnTable = document.getElementById("btn-dl-mode-table");
       const btnDetail = document.getElementById("btn-dl-mode-detail");
+      const collapseBtn = document.getElementById("dl-collapse-btn");
+      if (collapseBtn) collapseBtn.textContent = "접기";
 
       if (mode === 'table') {
         btnTable.className = "btn btn-sm btn-primary py-1 px-3";
@@ -5506,6 +5544,46 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         document.getElementById("dl-table-wrapper").style.display = "none";
         document.getElementById("dl-detail-wrapper").style.display = "block";
         renderDlDetailList(window.__DL_CURRENT_RECORDS);
+      }
+    };
+
+    window.toggleDlTableCollapse = function() {
+      const isTableMode = (currentDlDisplayMode === 'table');
+      const target = isTableMode ? document.getElementById("dl-table-wrapper") : document.getElementById("dl-detail-wrapper");
+      const btn = document.getElementById("dl-collapse-btn");
+      
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleDlTimelineCollapse = function() {
+      const target = document.getElementById("dl-timeline-content-wrapper");
+      const btn = document.getElementById("dl-timeline-collapse-btn");
+      
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleDlCollapseAll = function() {
+      const target = document.getElementById("dl-block-content-container");
+      const btn = document.getElementById("dl-collapse-all-btn");
+      
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "모두 접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "모두 펴기";
       }
     };
 
@@ -5578,22 +5656,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const detailEl = document.getElementById("major-timeline-detail");
       if (!lanesEl) return;
 
-      // Check if any specific filter is active (overall overview vs filtered)
-      const hasActiveFilter = 
-        (window.__DL_SELECTED.theme && window.__DL_SELECTED.theme.length > 0) ||
-        (window.__DL_SELECTED.category && window.__DL_SELECTED.category.length > 0) ||
-        (window.__DL_SELECTED.vendor && window.__DL_SELECTED.vendor.length > 0);
 
-      if (!hasActiveFilter) {
-        // If overall "All" is active, completely hide the major timeline block!
-        if (blockEl) blockEl.style.display = "none";
-        return;
-      } else {
-        // Only show if we are actually on the "조달 · 납기" top tab category!
-        if (currentTopCategory === "조달 · 납기" && blockEl) {
-          blockEl.style.display = "block";
-        }
-      }
 
       if (loadingEl) loadingEl.style.display = "none";
 
