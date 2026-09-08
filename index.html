@@ -2018,7 +2018,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                         'https://raw.githubusercontent.com/doheecho/market-forecast/main/raw_materials_forecast.json'
                       ];
                       fetchWithFallback(urls)
-                        .then(successHandler)
+                        .then(data => {
+                          successHandler({
+                            success: true,
+                            forecastData: data
+                          });
+                        })
                         .catch(failureHandler);
                     },
                     getCurrencyData: function() {
