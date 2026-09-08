@@ -1416,6 +1416,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           </div>
           <div class="icon-box bg-secondary-subtle text-secondary" style="background-color: var(--srm-surface-2) !important; color: var(--srm-text-secondary) !important;"><i class="bi bi-grid-3x3-gap-fill"></i></div>
         </div>
+        </div>
       </section>
 
 
@@ -1533,6 +1534,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <div id="market-factors-root" class="market-factors-grid">
           <div class="loading text-center py-5">데이터 불러오는 중…</div>
         </div>
+        </div>
       </section>
 
       <!-- 요인지표 아래 가로 5분할 (3fr 2fr Split) 독립 블록 영역 (각각 완전히 독립된 네모칸으로 개별 테두리 블록화) -->
@@ -1560,6 +1562,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <div class="market-table-wrapper" id="market-risk-partners-root" style="flex-grow: 1;">
           <div class="loading text-center py-5">데이터 불러오는 중…</div>
         </div>
+        </div>
       </section>
 
       <!-- 5. 조달·납기 (GitHub Data Lake Views) 섹션 블록 (조달/납기 탭 전용) -->
@@ -1568,7 +1571,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <span><i class="bi bi-truck me-1"></i>시장 동향 Report 조회</span>
         </h3>
         
-        <!-- [수정] 컨트롤 영역: 기존 '조회 기준(택1) + 세부분류 드롭다운' 방식을 버리고,
+        <!-- [신설] 모두 접기 대상 랩핑 컨테이너 -->
+        <div id="dl-block-content-container">
+          <!-- [수정] 컨트롤 영역: 기존 '조회 기준(택1) + 세부분류 드롭다운' 방식을 버리고,
              테마/품목군/제조사 3개 필터를 항상 동시에 노출. 각 필터는 복수선택 가능하며,
              3개 필터 모두를 동시에 만족(AND)하는 데이터만 표시. 자세한 로직은 하단 JS의
              computeDlFilteredRecords() 참고. -->
@@ -1610,8 +1615,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             </div>
           </div>
 
-          <!-- [수정] 텍스트 검색: 필터 영역 확보를 위해 flex-grow를 없애고 폭을 최소화 -->
-          <div class="d-flex flex-column gap-1" style="min-width: 150px; max-width: 180px;">
+          <!-- [수정] 텍스트 검색: 필터 영역 확보 및 가로 너비 1.5배 (min-width: 225px, max-width: 270px) -->
+          <div class="d-flex flex-column gap-1" style="min-width: 225px; max-width: 270px;">
             <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">텍스트 검색:</span>
             <div class="input-group input-group-sm">
               <span class="input-group-text" style="height: 32px;"><i class="bi bi-search"></i></span>
@@ -1649,24 +1654,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <!-- Hidden G.A.S metricsRow compatibility tag -->
         <div id="dl-metrics-row" style="display: none !important;"></div>
 
-        <!-- [신설] SCM 타임라인 타이틀 바 및 접기 버튼 (리포트 내용과 동일한 레벨로 삽입) -->
-        <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
-          <div class="fw-bold text-dark" style="font-size: 0.95rem; color: var(--srm-text) !important;">
-            <i class="bi bi-signpost-split-fill me-1 text-primary"></i>타임라인
-          </div>
-          <button type="button" id="dl-timeline-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTimelineCollapse()">접기</button>
-        </div>
-
-        <!-- [신설] 타임라인 콘텐츠 영역 -->
-        <div id="dl-timeline-content-wrapper" style="margin-bottom: 24px;">
-          <div id="major-timeline-loading" class="text-center text-muted py-4" style="font-size: 0.85rem;">
-            <div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>주요 테마별 타임라인 로딩 중…
-          </div>
-          <div id="major-timeline-lanes" style="display: none;"></div>
-          <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
-        </div>
-
-        <!-- [신설] 리포트 내용 타이틀 바 및 접기 버튼 -->
+        <!-- [신설 / 순서 변경] 리포트 내용 타이틀 바 및 접기 버튼 (맨 위로 올림) -->
         <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
           <div class="fw-bold text-dark" style="font-size: 0.95rem; color: var(--srm-text) !important;">
             <i class="bi bi-file-text me-1 text-primary"></i>리포트 내용
@@ -1696,10 +1684,28 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </div>
 
         <!-- 상세 리스트 뷰: 클릭해서 펼치지 않아도 본문 전체가 항상 표시됨 -->
-        <div id="dl-detail-wrapper" style="display: none; height: 520px; overflow-y: auto; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px;">
+        <div id="dl-detail-wrapper" style="display: none; height: 520px; overflow-y: auto; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px; margin-bottom: 24px;">
           <div id="dl-detail-content" style="position: relative; margin-left: 20px; border-left: 2px solid var(--srm-border); padding-bottom: 10px;">
             <!-- Loaded dynamically -->
           </div>
+        </div>
+
+        <!-- [신설 / 순서 변경] SCM 타임라인 타이틀 바 및 접기 버튼 (리포트 내용의 아래로 내림) -->
+        <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
+          <div class="fw-bold text-dark" style="font-size: 0.95rem; color: var(--srm-text) !important;">
+            <i class="bi bi-signpost-split-fill me-1 text-primary"></i>타임라인
+          </div>
+          <button type="button" id="dl-timeline-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTimelineCollapse()">접기</button>
+        </div>
+
+        <!-- [신설 / 순서 변경] 타임라인 콘텐츠 영역 -->
+        <div id="dl-timeline-content-wrapper" style="margin-bottom: 24px;">
+          <div id="major-timeline-loading" class="text-center text-muted py-4" style="font-size: 0.85rem;">
+            <div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>주요 테마별 타임라인 로딩 중…
+          </div>
+          <div id="major-timeline-lanes" style="display: none;"></div>
+          <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
+        </div>
         </div>
       </section>
 
@@ -2397,9 +2403,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             • 시장 동향 리포트는 글로벌 전자부품 유통업체인 <b>Fusion Trade, Inc.</b> 가 발행하는 월간 시장 인텔리전스 리포트인 <b>The Greensheet</b> 를 기반으로 정리되었습니다.<br>
             <div style="padding-left: 24px; margin-top: 4px; margin-bottom: 4px; line-height: 1.6;">
               <b>- 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
-              <b>- 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.
+              <b>- 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.<br>
+              <b>- 위험도 분류 기준:</b> <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.
             </div>
-            • 위험도 분류 기준은 <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.<br>
             • 주석 3:<br>
             • 주석 4:
           `;
@@ -5588,6 +5594,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       } else {
         target.style.display = "none";
         btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleDlCollapseAll = function() {
+      const target = document.getElementById("dl-block-content-container");
+      const btn = document.getElementById("dl-collapse-all-btn");
+      
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "모두 접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "모두 펴기";
       }
     };
 
