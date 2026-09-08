@@ -1648,6 +1648,14 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
               </div>
             </div>
           </div>
+
+          <!-- [신설] 필터 초기화 버튼 (표시 모드 왼쪽에 배치) -->
+          <div class="d-flex flex-column gap-1">
+            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">필터 리셋:</span>
+            <button type="button" class="btn btn-sm btn-outline-danger fw-bold" style="height: 32px; font-size: 0.8rem; padding: 0 16px; border-radius: 8px;" onclick="resetAllDlFilters()">
+              <i class="bi bi-arrow-counterclockwise me-1"></i>초기화
+            </button>
+          </div>
         </div>
 
         <!-- Hidden G.A.S metricsRow compatibility tag -->
@@ -5294,9 +5302,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const menu = document.getElementById(`dl-filter-${dim}-menu`);
       if (!menu) return;
       const selected = window.__DL_SELECTED[dim];
-      // 체크박스 클릭 시 드롭다운이 바로 닫히지 않도록 stopPropagation, 여러 개를
-      // 연달아 체크/해제할 수 있게 함 (버튼에는 data-bs-auto-close="outside" 적용됨)
-      menu.innerHTML = options.map(opt => `
+      const isAllChecked = (selected.length === options.length && options.length > 0);
+
+      const allItemHtml = `
+        <li>
+          <label class="dropdown-item d-flex align-items-center gap-2 mb-0" style="cursor:pointer; font-size:0.82rem; font-weight:700; color:var(--srm-accent);" onclick="event.stopPropagation();">
+            <input type="checkbox" class="form-check-input mt-0" value="all_master" ${isAllChecked ? 'checked' : ''} onchange="toggleDlFilterAll('${dim}', this.checked)">
+            <span>전체</span>
+          </label>
+        </li>
+        <li><hr class="dropdown-divider"></li>
+      `;
+
+      const itemsHtml = options.map(opt => `
         <li>
           <label class="dropdown-item d-flex align-items-center gap-2 mb-0" style="cursor:pointer; font-size:0.82rem; font-weight:600;" onclick="event.stopPropagation();">
             <input type="checkbox" class="form-check-input mt-0" value="${opt.value}" ${selected.includes(opt.value) ? 'checked' : ''} onchange="toggleDlFilterValue('${dim}', '${opt.value}', this.checked)">
@@ -5304,7 +5322,74 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           </label>
         </li>
       `).join("");
+
+      menu.innerHTML = allItemHtml + itemsHtml;
     }
+
+    window.toggleDlFilterAll = function(dim, checked) {
+      const menu = document.getElementById(`dl-filter-${dim}-menu`);
+      if (!menu) return;
+      const checkboxes = menu.querySelectorAll('input[type="checkbox"]');
+      const arr = window.__DL_SELECTED[dim];
+      arr.length = 0; // Clear selections array
+
+      checkboxes.forEach(cb => {
+        cb.checked = checked;
+        const val = cb.value;
+        if (val && val !== 'all_master') {
+          if (checked) {
+            arr.push(val);
+          }
+        }
+      });
+
+      updateDlFilterButtonLabel(dim);
+      applyDlFilters();
+    };
+
+    window.toggleDlFilterValue = function(dim, value, checked) {
+      const arr = window.__DL_SELECTED[dim];
+      const idx = arr.indexOf(value);
+      if (checked && idx === -1) arr.push(value);
+      if (!checked && idx !== -1) arr.splice(idx, 1);
+      updateDlFilterButtonLabel(dim);
+      
+      // Sync master "전체" checkbox state
+      const menu = document.getElementById(`dl-filter-${dim}-menu`);
+      if (menu) {
+        const allMasterCb = menu.querySelector('input[value="all_master"]');
+        if (allMasterCb) {
+          const optionsLength = menu.querySelectorAll('input[type="checkbox"]:not([value="all_master"])').length;
+          allMasterCb.checked = (arr.length === optionsLength);
+        }
+      }
+
+      applyDlFilters();
+    };
+
+    window.resetAllDlFilters = function() {
+      // Clear the selections arrays
+      window.__DL_SELECTED.theme.length = 0;
+      window.__DL_SELECTED.category.length = 0;
+      window.__DL_SELECTED.vendor.length = 0;
+
+      // Clear text search box
+      const searchInput = document.getElementById("dl-search-input");
+      if (searchInput) searchInput.value = "";
+
+      // Rebuild filter menus
+      buildDlFilterMenu('theme', DL_REPORTS.theme);
+      buildDlFilterMenu('category', DL_REPORTS.category);
+      buildDlFilterMenu('vendor', DL_REPORTS.vendor);
+
+      // Update labels
+      updateDlFilterButtonLabel('theme');
+      updateDlFilterButtonLabel('category');
+      updateDlFilterButtonLabel('vendor');
+
+      // Re-apply filters
+      applyDlFilters();
+    };
 
     window.toggleDlFilterValue = function(dim, value, checked) {
       const arr = window.__DL_SELECTED[dim];
@@ -5748,24 +5833,13 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                "</span>";
       }).join("");
 
-      // Dynamic timeline filter subtitle builder
-      const formatList = (list, prefix) => {
+      // Dynamic timeline filter subtitle builder using exact upper filter display labels
+      const formatList = (list, prefix, dimKey) => {
         if (list.length === 0) return "";
-        const mapped = list.map(item => {
-          const aliasMapReverse = {
-            samsung: "Samsung",
-            sk_hynix: "SK Hynix",
-            texas_instruments: "TI",
-            analog_devices: "Analog Devices",
-            western_digital: "Western Digital",
-            stmicroelectronics: "STMicroelectronics",
-            amd: "AMD",
-            intel: "Intel",
-            taiyo_yuden: "Taiyo Yuden",
-            nvidia: "NVIDIA",
-            murata: "Murata"
-          };
-          return aliasMapReverse[item.toLowerCase()] || (item.charAt(0).toUpperCase() + item.slice(1));
+        const options = DL_REPORTS[dimKey] || [];
+        const mapped = list.map(val => {
+          const found = options.find(opt => opt.value.toLowerCase() === val.toLowerCase());
+          return found ? found.label : val;
         });
 
         if (mapped.length <= 5) {
@@ -5779,9 +5853,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const categories = window.__DL_SELECTED.category || [];
       const vendors = window.__DL_SELECTED.vendor || [];
 
-      const themeText = formatList(themes, "(테마)");
-      const catText = formatList(categories, "(품목군)");
-      const vendorText = formatList(vendors, "(제조사)");
+      const themeText = formatList(themes, "(테마)", "theme");
+      const catText = formatList(categories, "(품목군)", "category");
+      const vendorText = formatList(vendors, "(제조사)", "vendor");
 
       const parts = [themeText, catText, vendorText].filter(Boolean);
       const filterDetails = (parts.length === 0) ? "전체" : parts.join("   ");
