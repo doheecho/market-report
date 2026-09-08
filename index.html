@@ -1971,6 +1971,28 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
   <script>
     // G.A.S Compatibility Layer for Static Environment (GitHub Pages)
     if (typeof google === 'undefined') {
+      // Helper function to fetch from a list of URLs with automatic fallback
+      const fetchWithFallback = function(urls) {
+        let index = 0;
+        function attempt() {
+          if (index >= urls.length) {
+            return Promise.reject(new Error("All fetch attempts failed"));
+          }
+          const url = urls[index];
+          index++;
+          return fetch(url)
+            .then(res => {
+              if (!res.ok) throw new Error("HTTP error " + res.status);
+              return res.json();
+            })
+            .catch(err => {
+              console.warn("Fetch to " + url + " failed, trying next...", err);
+              return attempt();
+            });
+        }
+        return attempt();
+      };
+
       window.google = {
         script: {
           run: {
@@ -1979,38 +2001,42 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                 withFailureHandler: function(failureHandler) {
                   const runMock = {
                     getScmRiskData: function() {
-                      fetch('./data/views/geopolitics_risk.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        './data/views/geopolitics_risk.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/geopolitics_risk.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/geopolitics_risk.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
                     getMarketForecastData: function() {
-                      fetch('https://doheecho.github.io/market-forecast/raw_materials_forecast.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        'https://doheecho.github.io/market-forecast/raw_materials_forecast.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-forecast@main/raw_materials_forecast.json',
+                        'https://raw.githubusercontent.com/doheecho/market-forecast/main/raw_materials_forecast.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
                     getCurrencyData: function() {
-                      fetch('./data/views/currency_data.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        './data/views/currency_data.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/currency_data.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/currency_data.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
                     getCostMarketRiskData: function() {
-                      fetch('./data/views/cost_market_risk.json')
-                        .then(res => {
-                          if (!res.ok) throw new Error("HTTP error " + res.status);
-                          return res.json();
-                        })
+                      const urls = [
+                        './data/views/cost_market_risk.json',
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/cost_market_risk.json',
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/cost_market_risk.json'
+                      ];
+                      fetchWithFallback(urls)
                         .then(successHandler)
                         .catch(failureHandler);
                     },
