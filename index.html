@@ -1564,9 +1564,13 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       <!-- 5. 조달·납기 (GitHub Data Lake Views) 섹션 블록 (조달/납기 탭 전용) -->
       <section class="block mb-4" id="procurement-risk-block" style="display: none; margin-top: 16px;">
-        <h3 id="dashboard-procurement-title">
+        <h3 id="dashboard-procurement-title" class="d-flex justify-content-between align-items-center">
           <span><i class="bi bi-truck me-1"></i>시장 동향 Report 조회</span>
+          <button type="button" id="dl-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlCollapseAll()">모두 접기</button>
         </h3>
+        
+        <!-- [신설] 모두 접기 대상 랩핑 컨테이너 -->
+        <div id="dl-block-content-container">
         
         <!-- [수정] 컨트롤 영역: 기존 '조회 기준(택1) + 세부분류 드롭다운' 방식을 버리고,
              테마/품목군/제조사 3개 필터를 항상 동시에 노출. 각 필터는 복수선택 가능하며,
@@ -1610,46 +1614,55 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             </div>
           </div>
 
-          <!-- [수정] 텍스트 검색: 필터 영역 확보를 위해 flex-grow를 없애고 폭을 최소화 -->
-          <div class="d-flex flex-column gap-1" style="min-width: 150px; max-width: 180px;">
+          <!-- [수정] 텍스트 검색: 필터 영역 확보 및 가로 너비 2.0배 (min-width: 300px, max-width: 360px) -->
+          <div class="d-flex flex-column gap-1" style="min-width: 300px; max-width: 360px;">
             <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">텍스트 검색:</span>
             <div class="input-group input-group-sm">
               <span class="input-group-text" style="height: 32px;"><i class="bi bi-search"></i></span>
-              <input type="text" id="dl-search-input" class="form-control" placeholder="검색어..." style="height: 32px;" oninput="filterDlTable()">
+              <input type="text" id="dl-search-input" class="form-control" placeholder="검색어를 입력하세요." style="height: 32px;" oninput="filterDlTable()">
+            </div>
+          </div>
+
+          <!-- [신설] 리포트 요약 지표 (텍스트 검색 우측에 완전 밀착 정렬) -->
+          <div class="d-flex flex-column gap-1 ms-auto" id="dl-metrics-compact-container">
+            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">리포트 요약:</span>
+            <div class="d-flex align-items-center gap-3" style="height: 32px; background: var(--srm-surface-2) !important; padding: 0 16px; border-radius: 8px; font-size: 0.8rem; border: 1px solid var(--srm-border);">
+              <div class="d-flex align-items-center gap-1">
+                <span class="text-secondary fw-bold" style="font-size: 0.78rem;">전체:</span>
+                <span id="dl-metric-total" class="fw-bold text-primary" style="font-size: 0.82rem;">0건</span>
+              </div>
+              <div class="vr" style="height: 14px; opacity: 0.25;"></div>
+              <div class="d-flex align-items-center gap-1">
+                <span class="text-danger fw-bold" style="font-size: 0.78rem;">● High:</span>
+                <span id="dl-metric-high" class="fw-bold text-danger" style="font-size: 0.82rem;">0건</span>
+              </div>
+              <div class="vr" style="height: 14px; opacity: 0.25;"></div>
+              <div class="d-flex align-items-center gap-1">
+                <span class="text-warning fw-bold" style="color: #f59e0b !important; font-size: 0.78rem;">● Mid:</span>
+                <span id="dl-metric-medium" class="fw-bold text-warning" style="color: #f59e0b !important; font-size: 0.82rem;">0건</span>
+              </div>
+              <div class="vr" style="height: 14px; opacity: 0.25;"></div>
+              <div class="d-flex align-items-center gap-1">
+                <span class="text-success fw-bold" style="font-size: 0.78rem;">● Low:</span>
+                <span id="dl-metric-low" class="fw-bold text-success" style="font-size: 0.82rem;">0건</span>
+              </div>
             </div>
           </div>
         </div>
 
-        <!-- Mini-Dashboard Metrics for the loaded report -->
-        <div id="dl-metrics-row" class="row g-3 mb-3" style="display: none;">
-          <div class="col-md-3">
-            <div class="p-3 border rounded shadow-sm d-flex align-items-center justify-content-between" style="background: var(--srm-surface) !important; border-radius: 10px; border-color: var(--srm-border) !important;">
-              <span class="small text-muted fw-bold">리포트 갯수</span>
-              <span id="dl-metric-total" class="fw-bold text-primary" style="font-size: 1.3rem;">0건</span>
-            </div>
+        <!-- Hidden G.A.S metricsRow compatibility tag -->
+        <div id="dl-metrics-row" style="display: none !important;"></div>
+
+        <!-- [신설 / 순서 변경] 리포트 내용 타이틀 바 및 접기 버튼 (맨 위로 올림, 폰트 크기 0.88rem으로 설정하여 하위레벨 매핑) -->
+        <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
+          <div class="fw-bold" style="font-size: 0.88rem; color: var(--srm-text-secondary) !important;">
+            <i class="bi bi-file-text me-1 text-primary"></i>리포트 내용
           </div>
-          <div class="col-md-3">
-            <div class="p-3 border rounded shadow-sm d-flex align-items-center justify-content-between" style="background: var(--srm-surface) !important; border-radius: 10px; border-color: var(--srm-border) !important;">
-              <span class="small text-danger fw-bold">● High (위험)</span>
-              <span id="dl-metric-high" class="fw-bold text-danger" style="font-size: 1.3rem;">0건</span>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="p-3 border rounded shadow-sm d-flex align-items-center justify-content-between" style="background: var(--srm-surface) !important; border-radius: 10px; border-color: var(--srm-border) !important;">
-              <span class="small text-warning fw-bold" style="color: #f59e0b !important;">● Medium (주의)</span>
-              <span id="dl-metric-medium" class="fw-bold text-warning" style="font-size: 1.3rem; color: #f59e0b !important;">0건</span>
-            </div>
-          </div>
-          <div class="col-md-3">
-            <div class="p-3 border rounded shadow-sm d-flex align-items-center justify-content-between" style="background: var(--srm-surface) !important; border-radius: 10px; border-color: var(--srm-border) !important;">
-              <span class="small text-success fw-bold">● Low (양호)</span>
-              <span id="dl-metric-low" class="fw-bold text-success" style="font-size: 1.3rem;">0건</span>
-            </div>
-          </div>
+          <button type="button" id="dl-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTableCollapse()">접기</button>
         </div>
 
         <!-- Standardized Data Table -->
-        <div id="dl-table-wrapper" class="market-table-wrapper" style="height: 520px; overflow-y: auto;">
+        <div id="dl-table-wrapper" class="market-table-wrapper" style="height: 520px; overflow-y: auto; margin-bottom: 24px;">
           <table class="table table-bordered table-hover table-sm text-center mb-0 align-middle" id="dl-data-table" style="color: var(--srm-text) !important; font-size: 0.82rem !important; border-collapse: collapse;">
             <thead class="table-light" style="position: sticky; top: 0; z-index: 10;">
               <tr>
@@ -1670,23 +1683,32 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </div>
 
         <!-- 상세 리스트 뷰: 클릭해서 펼치지 않아도 본문 전체가 항상 표시됨 -->
-        <div id="dl-detail-wrapper" style="display: none; height: 520px; overflow-y: auto; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px;">
+        <div id="dl-detail-wrapper" style="display: none; height: 520px; overflow-y: auto; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px; margin-bottom: 24px;">
           <div id="dl-detail-content" style="position: relative; margin-left: 20px; border-left: 2px solid var(--srm-border); padding-bottom: 10px;">
             <!-- Loaded dynamically -->
           </div>
         </div>
-      </section>
 
-      <!-- 5-1. [신설] 주요 타임라인: 테마별 이슈 발생 추이를 좌→우 가로 스크롤 타임라인으로 표시.
-           각 점(노드)을 클릭하면 아래에 해당 시기·테마의 제조사(품목)별 이슈 상세가 펼쳐짐. -->
-      <section class="block mb-4" id="major-timeline-block" style="display: none; margin-top: 16px;">
-        <h3><span><i class="bi bi-signpost-split-fill me-1"></i>타임라인</span></h3>
-        <div id="major-timeline-loading" class="text-center text-muted py-4" style="font-size: 0.85rem;">
-          <div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>주요 테마별 타임라인 로딩 중…
+        <!-- [신설 / 순서 변경] SCM 타임라인 타이틀 바 및 접기 버튼 (리포트 내용의 아래로 내림, 동일한 하위레벨 폰트 크기 0.88rem 부여) -->
+        <div class="d-flex justify-content-between align-items-center mb-2 mt-4" style="border-bottom: 1px solid var(--srm-border); padding-bottom: 8px;">
+          <div class="fw-bold" style="font-size: 0.88rem; color: var(--srm-text-secondary) !important;">
+            <i class="bi bi-signpost-split-fill me-1 text-primary"></i>타임라인
+          </div>
+          <button type="button" id="dl-timeline-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTimelineCollapse()">접기</button>
         </div>
-        <div id="major-timeline-lanes" style="display: none;"></div>
-        <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
-      </section>
+
+        <!-- [신설 / 순서 변경] 타임라인 콘텐츠 영역 -->
+        <div id="dl-timeline-content-wrapper" style="margin-bottom: 24px;">
+          <div id="major-timeline-loading" class="text-center text-muted py-4" style="font-size: 0.85rem;">
+            <div class="spinner-border spinner-border-sm text-primary me-2" role="status"></div>주요 테마별 타임라인 로딩 중…
+          </div>
+          <div id="major-timeline-lanes" style="display: none;"></div>
+          <div id="major-timeline-detail" style="display: none; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--srm-border);"></div>
+        </div>
+      </div>
+    </section>
+
+
 
       <!-- 6. 실시간 SCM 모듈별 주석 (Comments) - 제목/테두리 없이 깔끔하게 좌하단에 배치 -->
       <div id="scm-comments-block" style="margin-top: 15px; margin-bottom: 20px; font-size: 0.82rem; color: var(--srm-text-secondary) !important; line-height: 1.6; text-align: left; padding-left: 5px;">
@@ -1971,7 +1993,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
   <script>
     // G.A.S Compatibility Layer for Static Environment (GitHub Pages)
     if (typeof google === 'undefined') {
-      // Helper function to fetch from a list of URLs with automatic fallback
       const fetchWithFallback = function(urls) {
         let index = 0;
         function attempt() {
@@ -2049,7 +2070,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                         .catch(failureHandler);
                     },
                     getDetailData: function(country, city, vendor) {
-                      // Dynamically filter matching material/greensheet detail matched with the vendor
                       const matched = (window.__DL_CURRENT_RECORDS || []).filter(r => 
                         r.detected_vendors.some(v => v.toLowerCase() === vendor.toLowerCase())
                       );
