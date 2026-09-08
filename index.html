@@ -2003,6 +2003,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     getScmRiskData: function() {
                       const urls = [
                         './data/views/geopolitics_risk.json',
+                        'https://doheecho.github.io/market-report/data/views/geopolitics_risk.json',
                         'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/geopolitics_risk.json',
                         'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/geopolitics_risk.json'
                       ];
@@ -2023,6 +2024,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     getCurrencyData: function() {
                       const urls = [
                         './data/views/currency_data.json',
+                        'https://doheecho.github.io/market-report/data/views/currency_data.json',
                         'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/currency_data.json',
                         'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/currency_data.json'
                       ];
@@ -2033,6 +2035,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                     getCostMarketRiskData: function() {
                       const urls = [
                         './data/views/cost_market_risk.json',
+                        'https://doheecho.github.io/market-report/data/views/cost_market_risk.json',
                         'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/cost_market_risk.json',
                         'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/cost_market_risk.json'
                       ];
@@ -5230,15 +5233,15 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       if (dim === 'all') {
         return [
           "./data/master/master_all.json" + cacheBuster,
+          "https://doheecho.github.io/market-report/data/master/master_all.json" + cacheBuster,
           "https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/master/master_all.json" + cacheBuster,
-          "https://cdn.jsdelivr.net/gh/doheecho/my-market-intelligence@main/data/master/master_all.json" + cacheBuster,
           "https://raw.githubusercontent.com/doheecho/market-report/main/data/master/master_all.json" + cacheBuster
         ];
       }
       return [
         "./data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
+        "https://doheecho.github.io/market-report/data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
         "https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
-        "https://cdn.jsdelivr.net/gh/doheecho/my-market-intelligence@main/data/views/by_" + dim + "/" + value + ".json" + cacheBuster,
         "https://raw.githubusercontent.com/doheecho/market-report/main/data/views/by_" + dim + "/" + value + ".json" + cacheBuster
       ];
     }
