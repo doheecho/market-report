@@ -1196,6 +1196,95 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       white-space: nowrap;
     }
     
+      .major-timeline-node .node-label {
+      font-size: 0.68rem;
+      color: var(--srm-text-secondary);
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    /* ==========================================
+       📱 Mobile Responsive CSS (모바일 반응형 최적화)
+       ========================================== */
+    @media (max-width: 768px) {
+      /* 1. 바디 레이아웃 유동성 전환 (100vh 고정 높이 해제 및 본문 스크롤 허용) */
+      body {
+        height: auto !important;
+        min-height: 100vh;
+        min-height: 100dvh; /* 모바일 브라우저 주소창 높이 가변 대응 */
+        overflow-y: auto !important;
+      }
+
+      /* 2. 메인 스크롤 영역 내부 패딩 압축 및 스크롤 권한 위임 */
+      .dashboard-scroll-container {
+        overflow-y: visible !important;
+        padding: 16px 15px !important; /* 좌우 여백을 40px -> 15px로 줄여 공간 확보 */
+      }
+
+      /* 3. 상단 글로벌 필터바 여백 축소 및 가로 정렬 압축 */
+      .global-filter {
+        padding: 10px 15px !important;
+        height: auto !important;
+        flex-direction: column !important;
+        gap: 10px !important;
+        align-items: flex-start !important;
+      }
+      .tabs {
+        gap: 12px !important;
+        width: 100% !important;
+        justify-content: flex-start !important;
+      }
+      .tabs button {
+        padding: 8px 4px !important;
+        font-size: 13px !important;
+      }
+
+      /* 4. KPI 요약 카드 모바일 2열(Grid) 배치 최적화 및 250px 최소 너비 해제 */
+      .kpi-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+        gap: 10px !important;
+      }
+      .kpi-card {
+        min-width: 0 !important;
+        padding: 12px 15px !important;
+      }
+
+      /* 5. SCM 통합 관리 반원 게이지 카드 4분할 ➡️ 세로 스택(1열) 전환 */
+      #unified-portal-panel {
+        flex-direction: column !important;
+        gap: 15px !important;
+      }
+      #unified-portal-panel > div {
+        width: 100% !important;
+      }
+      #unified-portal-panel .border {
+        height: auto !important; /* 고정 높이 460px 해제하고 내용에 맞춰 자동 가변 */
+        padding-bottom: 20px !important;
+      }
+
+      /* 6. SCM 리스크 2D 지도 패널 세로 배치 전환 (좌측 요약 보드 + 우측 지도) */
+      #scm-map-panel {
+        flex-direction: column !important;
+        height: auto !important;
+      }
+      #risk-summary-panel {
+        width: 100% !important;
+        height: 300px !important;
+        border-right: none !important;
+        border-bottom: 1px solid var(--srm-border) !important;
+      }
+      #scm-map-panel .flex-grow-1.position-relative {
+        height: 350px !important; /* 모바일 화면에 알맞게 지도 전용 높이 설정 */
+      }
+    }
+
+    @media (max-width: 480px) {
+      /* 초소형 스마트폰 대응 (KPI 1열 배치) */
+      .kpi-grid {
+        grid-template-columns: 1fr !important;
+      }
+    }
+
   </style>
 </head>
 <body>
