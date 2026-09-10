@@ -5699,14 +5699,23 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           </tr>
         `;
       }).join("");
+
+      // [추가] 조달/납기 테이블 페이지네이션 버튼 렌더링 호출
+      renderDlPagination(records.length, page, function(newPage) {
+        renderDlTable(records);
+      });
     };
 
     window.filterDlTable = function() {
+      // [추가] 검색어나 필터 조건 변경 시 페이지 번호를 1페이지로 강제 리셋
+      window.__DL_PAGINATION_PAGE = 1;
+
       const input = document.getElementById("dl-search-input");
       if (!input) return;
 
       const text = input.value.trim().toLowerCase();
       if (!text) {
+        window.__DL_CURRENT_FILTERED_RECORDS = null; // 검색 조건 초기화
         if (currentDlDisplayMode === 'table') {
           renderDlTable(window.__DL_CURRENT_RECORDS);
         } else {
@@ -5758,6 +5767,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       document.getElementById("dl-metric-high").innerText = `${high}건`;
       document.getElementById("dl-metric-medium").innerText = `${medium}건`;
       document.getElementById("dl-metric-low").innerText = `${low}건`;
+
+      // [추가] 검색 필터링된 레코드를 글로벌 변수에 저장하여 디스플레이 모드 스위칭 시 유지 보증
+      window.__DL_CURRENT_FILTERED_RECORDS = filtered;
 
       if (currentDlDisplayMode === 'table') {
         renderDlTable(filtered);
@@ -5961,7 +5973,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       // Previous button
       const prevDisabled = (currentPage === 1);
-      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${prevDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage - 1})"><i class="bi bi-chevron-left"></i></button>`;
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${prevDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage - 1})"><span class="fw-bold">&lt;</span></button>`;
 
       // Page numbers (smart range around currentPage)
       const startPage = Math.max(1, currentPage - 2);
@@ -5974,7 +5986,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       // Next button
       const nextDisabled = (currentPage === totalPages);
-      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${nextDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage + 1})"><i class="bi bi-chevron-right"></i></button>`;
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${nextDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage + 1})"><span class="fw-bold">&gt;</span></button>`;
 
       container.innerHTML = html;
       window.__DL_ON_PAGE_CHANGE_CALLBACK = onPageChange;
@@ -6084,6 +6096,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           </div>
         `;
       }).join("");
+
+      // [추가] 조달/납기 상세 카드 페이지네이션 버튼 렌더링 호출
+      renderDlPagination(sorted.length, page, function(newPage) {
+        renderDlDetailList(records);
+      });
     };
 
     // ===== [신설] 주요 타임라인: 선택한 조건 기반 단일 행 통합 타임라인 및 클릭 시 상세 분석 =====
