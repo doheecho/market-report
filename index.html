@@ -5971,22 +5971,32 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
       let html = "";
 
-      // Previous button
+      // 10개씩 페이지 그룹(블록) 계산
+      const currentBlock = Math.floor((currentPage - 1) / 10);
+      const startPage = currentBlock * 10 + 1;
+      const endPage = Math.min(totalPages, startPage + 9);
+
+      // [맨앞] 버튼
+      const firstDisabled = (currentPage === 1);
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${firstDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(1)">맨앞</button>`;
+
+      // [<] 버튼
       const prevDisabled = (currentPage === 1);
       html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${prevDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage - 1})"><span class="fw-bold">&lt;</span></button>`;
 
-      // Page numbers (smart range around currentPage)
-      const startPage = Math.max(1, currentPage - 2);
-      const endPage = Math.min(totalPages, startPage + 4);
-      
+      // 숫자 버튼 10개 출력 (startPage ~ endPage)
       for (let p = startPage; p <= endPage; p++) {
         const isActive = (p === currentPage);
         html += `<button type="button" class="btn btn-sm ${isActive ? 'btn-primary' : 'btn-outline-secondary'} px-3 py-1 fw-bold" onclick="window.__DL_ON_PAGE_CHANGE(${p})">${p}</button>`;
       }
 
-      // Next button
+      // [>] 버튼
       const nextDisabled = (currentPage === totalPages);
       html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${nextDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage + 1})"><span class="fw-bold">&gt;</span></button>`;
+
+      // [맨뒤] 버튼
+      const lastDisabled = (currentPage === totalPages);
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${lastDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${totalPages})">맨뒤</button>`;
 
       container.innerHTML = html;
       window.__DL_ON_PAGE_CHANGE_CALLBACK = onPageChange;
