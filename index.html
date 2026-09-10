@@ -1452,11 +1452,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
   <!-- 최상단 대분류 이동 탭 바 전격 원복 이식! -->
   <div class="global-filter">
     <div class="tabs" id="risk-top-tabs">
-      <button class="active" onclick="filterByTopCategory('통합 관리')">통합 관리</button>
-      <button onclick="filterByTopCategory('지정학')">지정학 <span id="badge-tab-지정학" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
-      <button onclick="filterByTopCategory('경영 안정성')">경영 안정성 <span id="badge-tab-경영 안정성" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
-      <button onclick="filterByTopCategory('원가 · 시황')">원가 · 시황 <span id="badge-tab-원가 · 시황" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
-      <button onclick="filterByTopCategory('조달 · 납기')">조달 · 납기 <span id="badge-tab-조달 · 납기" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
+      <button class="active" onclick="filterByTopCategory('Risk 통합관리 대시보드')">Risk 통합관리 대시보드</button>
+      <button onclick="filterByTopCategory('① 지정학적 Risk')">① 지정학적 Risk <span id="badge-tab-지정학" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
+      <button onclick="filterByTopCategory('② 경영 안정성 Risk')">② 경영 안정성 Risk <span id="badge-tab-경영 안정성" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
+      <button onclick="filterByTopCategory('③ 원가·시황 Risk')">③ 원가·시황 Risk <span id="badge-tab-원가 · 시황" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
+      <button onclick="filterByTopCategory('④ 조달·납기 Risk')">④ 조달·납기 Risk <span id="badge-tab-조달 · 납기" class="badge rounded-pill bg-danger ms-1" style="font-size: 10px; display: none;">0</span></button>
+      <button onclick="filterByTopCategory('Market Intelligence')">Market Intelligence</button>
     </div>
   </div>
 
@@ -1618,11 +1619,15 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       </section>
       <!-- 3. 주요 시황 요인지표 섹션 블록 (네모난 탭 격자망 수립) -->
       <section class="block mt-3 mb-4" id="market-factors-block" style="display: none;">
-        <h3 id="dashboard-market-factors-title"><span><i class="bi bi-graph-up-arrow me-1"></i>주요 시황 요인지표</span></h3>
-        <div id="market-factors-root" class="market-factors-grid">
+        <h3 id="dashboard-market-factors-title" class="d-flex justify-content-between align-items-center">
+          <span><i class="bi bi-graph-up-arrow me-1"></i>주요 시황 요인지표</span>
+          <button type="button" id="mf-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleMfCollapseAll()">모두 접기</button>
+        </h3>
+        <div id="mf-block-content-container">
+          <div id="market-factors-root" class="market-factors-grid">
           <div class="loading text-center py-5">데이터 불러오는 중…</div>
         </div>
-      </section>
+        </div></section>
 
       <!-- 요인지표 아래 가로 5분할 (3fr 2fr Split) 독립 블록 영역 (각각 완전히 독립된 네모칸으로 개별 테두리 블록화) -->
       <div class="market-grid-split" id="market-tables-split-row" style="display: none;">
@@ -1654,7 +1659,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- 5. 조달·납기 (GitHub Data Lake Views) 섹션 블록 (조달/납기 탭 전용) -->
       <section class="block mb-4" id="procurement-risk-block" style="display: none; margin-top: 16px;">
         <h3 id="dashboard-procurement-title" class="d-flex justify-content-between align-items-center">
-          <span><i class="bi bi-diagram-3 me-1"></i>시장 동향 Report 조회</span>
+          <span><i class="bi bi-diagram-3 me-1"></i>시장 동향 리포트 조회</span>
           <button type="button" id="dl-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlCollapseAll()">모두 접기</button>
         </h3>
         
@@ -2275,7 +2280,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     let mapLocations = []; // SCM Raw 실시간 좌표
     let allScmLocations = []; // Risk 분류 무관 전체 SCM 위치 리스트
     let riskStats = [];    // 지정학 요인별 통계
-    let currentTopCategory = "통합 관리"; // SCM Risk 대시보드 탭 스위치
+    let currentTopCategory = "Risk 통합관리 대시보드"; // SCM Risk 대시보드 탭 스위치
     
     // 사용자 피드백 반영: 다중 무지개 계열별 고대비 색상 그라데이션 재구성 (가독성 극대화!)
     const PALETTE_RED = ["#ef4444", "#be123c", "#991b1b", "#7f1d1d", "#8b5cf6", "#6d28d9", "#4c1d95", "#ec4899"];
@@ -2403,15 +2408,15 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
      */
     window.filterByTopCategory = function(category) {
       currentTopCategory = category;
-      
-      // 상부 탭 단추 활성화 클래스 스위칭
+
+      // 상단 탭 단추 활성화 클래스 스위치
       const container = document.getElementById("risk-top-tabs");
       container.querySelectorAll("button").forEach(b => {
         if (b.innerText.includes(category)) b.classList.add("active");
         else b.classList.remove("active");
       });
-      
-      // KPI 필터와 개별 리스크 포커싱 완전 소거 초기화
+
+      // KPI 필터와 개별 리스트 포커스 완전 소거 초기화
       window.__ACTIVE_KPI_FILTER = null;
       document.querySelectorAll(".kpi-card").forEach(c => {
         c.style.removeProperty("border-color");
@@ -2426,7 +2431,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         window.cancelEarthquakeSimulation();
       }
 
-      // UI 탭 내용 필터 분기 가이드
+      // UI 및 내용 필터 분기 가이드
       const mapBlock = document.getElementById("scm-map-block");
       const mapPanel = document.getElementById("scm-map-panel");
       const unifiedPanel = document.getElementById("unified-portal-panel");
@@ -2444,31 +2449,29 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       partnersBlock.style.display = "none";
       if (procurementBlock) procurementBlock.style.display = "none";
       if (majorTimelineBlock) majorTimelineBlock.style.display = "none";
-      
+
       const procSplit = document.getElementById("procurement-tables-split-row");
       const procPartners = document.getElementById("procurement-risk-partners-block");
       if (procSplit) procSplit.style.display = "none";
       if (procPartners) procPartners.style.display = "none";
 
-      if (category === "통합 관리") {
+      if (category === "Risk 통합관리 대시보드" || category === "통합 관리") {
         mapBlock.style.display = "block";
         mapPanel.style.setProperty("display", "none", "important");
         unifiedPanel.style.setProperty("display", "flex", "important");
-        mainTitle.innerHTML = `<i class="bi bi-grid-1x2-fill me-1 text-primary"></i>SCM Risk 대시보드`;
-        
-        // 계기판 차트들 즉각 드로잉
+        mainTitle.innerHTML = `<i class="bi bi-grid-1x2-fill me-1 text-primary"></i>SCM Risk 통합관리 대시보드`;
+
+        // 계기판 차트즉각 새로고침
         setTimeout(renderUnifiedGauges, 50);
-      } else if (category === "지정학") {
+      } else if (category === "① 지정학적 Risk" || category === "지정학") {
         mapBlock.style.display = "block";
         mapPanel.style.setProperty("display", "block", "important");
         unifiedPanel.style.setProperty("display", "none", "important");
-        mainTitle.innerHTML = `<i class="bi bi-globe-asia-australia me-1 text-danger"></i>지정학적 Risk Map`;
-        
+        mainTitle.innerHTML = `<i class="bi bi-globe-asia-australia me-1 text-danger"></i>지정학적 Risk Map`;   
+
         if (map) {
           setTimeout(function() {
             map.invalidateSize();
-            
-            // 다른 메뉴에 있다가 지정학 메뉴 클릭 시 활성화되어 있는 표식들을 한눈에 보이도록 줌 조절
             if (markersLayer) {
               const activeMarkers = [];
               markersLayer.eachLayer(layer => {
@@ -2476,8 +2479,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                   activeMarkers.push(layer);
                 }
               });
-              
-              // 만약 지진 시뮬레이션 중이라 window.__EARTHQUAKE_LAYERS가 있다면 그것도 포함
+
               if (window.__EARTHQUAKE_ACTIVE && window.__EARTHQUAKE_LAYERS && window.__EARTHQUAKE_LAYERS.length > 0) {
                 window.__EARTHQUAKE_LAYERS.forEach(layer => {
                   if (layer instanceof L.Marker || layer instanceof L.CircleMarker || layer instanceof L.Circle) {
@@ -2493,29 +2495,37 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             }
           }, 150);
         }
-      } else if (category === "원가 · 시황") {
-        factorsBlock.style.display = "block";
-        splitRow.style.display = "grid"; // Grid display for 3fr 2fr side-by-side split!
-        partnersBlock.style.display = "block";
-        if (typeof window.loadMarketFactors === 'function') {
-          window.loadMarketFactors();
+      } else if (category === "② 경영 안정성 Risk" || category === "경영 안정성") {
+        mapBlock.style.display = "block";
+        mapPanel.style.setProperty("display", "block", "important");
+        unifiedPanel.style.setProperty("display", "none", "important");
+        mainTitle.innerHTML = `<i class="bi bi-activity me-1 text-warning"></i>경영 안정성 Risk Map`;
+        if (map) {
+          setTimeout(function() {
+            map.invalidateSize();
+          }, 150);
         }
-      } else if (category === "조달 · 납기") {
+      } else if (category === "③ 원가·시황 Risk" || category === "원가 · 시황") {
+        splitRow.style.display = "grid"; // 원부자재 가격 동향 및 주요 환율 민감도 3fr 2fr 분할 노출
+        partnersBlock.style.display = "block"; // 원가/시황측면 Risk 협력사 노출
+      } else if (category === "④ 조달·납기 Risk" || category === "조달 · 납기") {
+        if (procSplit) procSplit.style.display = "grid"; // 리드타임 변동이력 + 공급 차질 Risk 노출
+        if (procPartners) procPartners.style.display = "flex"; // 조달/납기측면 Risk 협력사 노출
+        
+        if (typeof window.loadProcurementRiskTables === 'function') {
+          window.loadProcurementRiskTables();
+        }
+      } else if (category === "Market Intelligence") {
+        factorsBlock.style.display = "block"; // 주요 시황 요인지표 노출
         if (procurementBlock) {
-          procurementBlock.style.display = "block";
-          
-          const procSplit = document.getElementById("procurement-tables-split-row");
-          const procPartners = document.getElementById("procurement-risk-partners-block");
-          if (procSplit) procSplit.style.display = "grid";
-          if (procPartners) procPartners.style.display = "flex";
+          procurementBlock.style.display = "block"; // 시장 동향 리포트 조회 노출
           
           if (typeof window.initDlViewModule === 'function') {
             window.initDlViewModule();
           }
-          // Asynchronously trigger loading of Procurement Risk Tables
-          if (typeof window.loadProcurementRiskTables === 'function') {
-            window.loadProcurementRiskTables();
-          }
+        }
+        if (typeof window.loadMarketFactors === 'function') {
+          window.loadMarketFactors();
         }
       }
 
@@ -2527,55 +2537,51 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const commentsContent = document.getElementById("scm-comments-content");
       if (commentsContent) {
         let commentsHtml = "";
-        if (category === "통합 관리") {
+        if (category === "Risk 통합관리 대시보드" || category === "통합 관리") {
           commentsHtml = `
-            주석 1: <br>
-            주석 2: <br>
-            주석 3: <br>
-            주석 4:
+            • SCM Risk 통합관리 대시보드는 실시간 지리 기상 재해, 원재료가 변동, 협력사 경영안정성 등 주요 위험 요소들을 시각화 요약합니다.<br>
+            • 각 카테고리 탭을 선택하여 지리 2D 지도 시뮬레이션 및 각 세부 영역 리포트 원장을 연계 조회할 수 있습니다.
           `;
-        } else if (category === "지정학") {
+        } else if (category === "① 지정학적 Risk" || category === "지정학") {
           commentsHtml = `
-            • 지도 좌측의 <b>Risk 탭</b>을 클릭하면 해당 Risk의 주요 요약 및 영향권 내 전체 SCM 정보가 조회됩니다.<br>
-            • 우측 하단의 <b>시뮬레이션 버튼</b>을 통해 자연재해(지진, 태풍) 및 국가별 이슈 발생 시 당사 SCM 영향도를 사전 시뮬레이션할 수 있습니다.<br>
-            <div style="padding-left: 10px; margin-top: 0px; margin-bottom: 4px; line-height: 1.6;">
-              <b>- 지진:</b> 진앙지를 지도상에서 클릭 후 지진 규모(Richter Scale)를 선택/입력하면, 규모별 예상 영향 반경에 따라 피해가 예측되는 협력사의 Risk가 계산됩니다.<br>
-              <b>- 태풍:</b> 태풍 이동 경로를 순차 클릭(좌클릭) 후 우클릭으로 경로 지정을 완료하면, 기상청/WMO 풍속 기준(대형/초강력) 및 물류·방재 모델에 따라 이동 경로 내 협력사의 Risk가 계산됩니다.<br>
-              <b>- 국가:</b> 시뮬레이션할 국가의 영토를 클릭하면 해당 국가 단위의 SCM Risk를 산출하며, 3가지 시나리오(전면 봉쇄(Lockdown), 가동률 하락, 단순 모니터링)별 영향도를 조회할 수 있습니다.
-          `;
-        } else if (category === "경영 안정성") {
-          commentsHtml = `
-            주석 1: <br>
-            주석 2: <br>
-            주석 3: <br>
-            주석 4:
-          `;
-        } else if (category === "원가 · 시황") {
-          commentsHtml = `
-            주석 1: <br>
-            주석 2: <br>
-            주석 3: <br>
-            주석 4:
-          `;
-        } else if (category === "조달 · 납기") {
-          commentsHtml = `
-            • 시장 동향 리포트는 글로벌 전자부품 유통업체인 <b>Fusion Trade, Inc.</b> 가 발행하는 월간 시장 인텔리전스 리포트인 <b>The Greensheet</b> 를 기반으로 정리되었습니다.<br>
-            <div style="padding-left: 10px; margin-top: 0px; margin-bottom: 4px; line-height: 1.6;">
-              <b>- 필터링:</b> 테마 / 품목군 / 제조사별 필터를 적용하여 과거 시장동향 및 수급 이슈 리포트를 상세 확인할 수 있습니다.<br>
-              <b>- 타임라인:</b> 필터 조건에 따른 시계열 가격 변동 및 수급 동향 타임라인을 추가로 조회할 수 있습니다.<br>
-              <b>- 위험도 분류 기준:</b> <b>상:</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중:</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈 관련 리포트로 분류하였습니다.
+            • 각 지리 좌표의 <b>Risk 원</b>을 클릭하면 해당 지정학적 요약 및 영향권 내 전체 협력사/자재 정보가 조회됩니다.<br>
+            • 우측 하단의 <b>시뮬레이션 버튼</b>을 통해 자연재해(지진, 태풍) 및 국가별 이슈 발생 시 당사 SCM 영향도를 가상 모의 분석할 수 있습니다.<br>
+            <div style="padding-left: 24px; margin-top: 0px; margin-bottom: 4px; line-height: 1.6;">
+              <b>- 지진:</b> 진앙지를 지도상에서 직접 클릭 후 리히터 규모를 지정하면 영향 반경 내 협력사의 피해 수준을 자동 산출합니다.<br>
+              <b>- 태풍:</b> 태풍 이동 경로를 순차 지정하면 태풍 강도(초강력 등) 및 물리적 위치 분석에 따라 협력사별 리스크를 예측합니다.<br>
+              <b>- 국가:</b> 시뮬레이션할 특정 국가를 영토 클릭하면 가동률 하락, 국경 봉쇄 등 시나리오별 실시간 영향 지수를 표출합니다.
             </div>
-            • 주석 3:<br>
-            • 주석 4:
+          `;
+        } else if (category === "② 경영 안정성 Risk" || category === "경영 안정성") {
+          commentsHtml = `
+            • 협력사별 신용등급 변동 추이 및 재무 안정성 지수를 실시간 지리 지도와 결합하여 선제 모니터링합니다.<br>
+            • 가동 중단 위기 협력사 조기 경보 및 이중 소싱 체계 연계 의사결정을 실시간으로 지원합니다.
+          `;
+        } else if (category === "③ 원가·시황 Risk" || category === "원가 · 시황") {
+          commentsHtml = `
+            • 원부자재 가격 동향 및 주요 3대 환율 민감도를 기반으로 자재별 원가 변동 폭을 정량적으로 산출합니다.<br>
+            • 협력사의 일방적 단가 상승 요구에 대응하여 당사 구매 협상 가이드를 정밀 시각화합니다.
+          `;
+        } else if (category === "④ 조달·납기 Risk" || category === "조달 · 납기") {
+          commentsHtml = `
+            • 협력사 품목별 리드타임(L/T) 변동 이력과 부품 공급 차질 리스크 지수를 직관적인 테이블로 요약 제공합니다.<br>
+            • 납기 악화 협력사 및 자재별 공급 차질 영향을 선제적으로 파악하여 생산 라인 병목을 미연에 방지합니다.
+          `;
+        } else if (category === "Market Intelligence") {
+          commentsHtml = `
+            • <b>주요 시황 요인지표:</b> LME 금속, 원유, 3대 주요 환율의 실시간 시세와 전주 대비 변동율을 도식화합니다.<br>
+            • <b>시장 동향 리포트 조회:</b> 글로벌 전자부품 유통업체인 <b>Fusion Trade, Inc.</b> 가 발행하는 월간 수급 인텔리전스 리포트 <b>The Greensheet</b>를 분석 구조화하여 제공합니다.<br>
+            <div style="padding-left: 24px; margin-top: 0px; margin-bottom: 4px; line-height: 1.6;">
+              <b>- 필터링:</b> 테마 / 품목군 / 제조업체 필터를 조합하여 원본 시장 동향 및 수급 이슈 리포트를 상세 다각 조회할 수 있습니다.<br>
+              <b>- 타임라인:</b> 필터 조건에 부합하는 사건 중심의 공급망 수급 변화와 동향 연동 꺾은선 점(Chronological Lanes)을 추적합니다.<br>
+              <b>- 위험도 분류 기준:</b> <b>상</b> Shortage / EOL / Decommit / 재해 / 사고, <b>중</b> 단가 상승 / 납기 증가 / Allocation / 관세 / 지정학적 이슈로 자동 구조화 분류됩니다.
+            </div>
           `;
         }
         commentsContent.innerHTML = commentsHtml;
       }
     };
 
-    /**
-     * 통합 관리 4분할 반원 계기판 및 하단 리스크 요인 텍스트 동적 바인딩 출력 엔진
-     */
     function renderUnifiedGauges() {
       // 1) 지정학적 Risk 점수는 현재 실제 실시간 DB의 위험도를 계산하여 반영!
       let geoScore = 0;
@@ -2920,7 +2926,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const container = document.getElementById("risk-summary-cards");
       
       // 사용자 피드백 반영: 오직 '지정학' 탭 활성화 시에만 데이터 바인딩! 그 외 4개 탭은 무조건 공란!
-      let statsToPlot = (currentTopCategory === '지정학') ? riskStats : [];
+      let statsToPlot = (currentTopCategory.includes('지정학')) ? riskStats : [];
 
       // 상부 KPI 카드 필터 작동 시 추가 등급 필터링
       if (window.__ACTIVE_KPI_FILTER) {
@@ -3220,7 +3226,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const currentMarkers = [];
       
       // 사용자 피드백 반영: 오직 '지정학' 탭 활성화 시에만 지도에 핀 마커 바인딩! 그 외 4개 탭은 완전 공란!
-      let locationsToPlot = (currentTopCategory === '지정학') ? mapLocations : [];
+      let locationsToPlot = (currentTopCategory.includes('지정학')) ? mapLocations : [];
       const riskLevelMap = {};
       riskStats.forEach(stat => {
         riskLevelMap[stat.name] = stat.level; 
@@ -3459,7 +3465,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       });
 
       // 사용자 피드백 반영: 오직 '지정학' 탭 활성화 시에만 KPI 실집계 처리! 그 외 4개 탭은 무조건 공란(0) 처리!
-      const locationsForKpi = (currentTopCategory === '지정학') ? mapLocations : [];
+      const locationsForKpi = (currentTopCategory.includes('지정학')) ? mapLocations : [];
 
       locationsForKpi.forEach(row => {
         const level = riskLevelMap[row.risk] || '하';
@@ -5874,6 +5880,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       }
     };
 
+    window.toggleMfCollapseAll = function() {
+      const target = document.getElementById("mf-block-content-container");
+      const btn = document.getElementById("mf-collapse-all-btn");
+
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "모두 접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "모두 펴기";
+      }
+    };
+
     window.toggleLtCollapse = function() {
       const target = document.getElementById("procurement-lt-root");
       const btn = document.getElementById("dl-lt-collapse-btn");
@@ -6189,7 +6208,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         const isActive = window.__MAJOR_TIMELINE_ACTIVE_KEY === key;
         
         // Append a dynamic direction arrow "▶" perfectly centered on top of the connecting line every 3 nodes, resized (21px) and shifted rightward (21px)
-        const hasArrow = (idx < months.length - 1) && ((idx + 1) % 3 === 0);
+        const hasArrow = (idx < months.length - 1) && ((idx + 1) % 2 === 0);
         const arrowHtml = hasArrow ? '<span style="position:absolute; top:7px; left:calc(100% + 21px); font-size:15px; color:var(--srm-text-muted, #8b95a1); z-index:4; pointer-events:none; font-family:sans-serif; transform:translate(-50%, -50%); line-height:1;">▶</span>' : '';
         
         return "<span class='major-timeline-node" + (isActive ? " is-active" : "") + "' id='mt-node-" + key + "' onclick='onMajorTimelineNodeClick(" + m.year + ", " + m.month + ")'>" +
