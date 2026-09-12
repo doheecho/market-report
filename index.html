@@ -969,7 +969,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     /* ===== 요인지표 하위 가로 5분할 (3fr 2fr Split) 및 커스텀 테이블 스타일 ===== */
     .market-grid-split {
       display: grid;
-      grid-template-columns: 3fr 2fr; /* 좌측 3칸 (단가인상 요청내역), 우측 2칸 (지수 민감도) */
+      grid-template-columns: 1fr 1fr; /* [수정] 좌측 50%, 우측 50% 동일 너비로 정렬 */
       gap: 16px;
       margin-top: 20px;
       margin-bottom: 20px;
@@ -1511,10 +1511,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
 
       <!-- 2. SCM Map 지정학 중심 통제 블록 (꽉 찬 가로세로 스케일) -->
-      <section class="block" id="scm-map-block">
-        <h3>
+      <section class="block" id="scm-map-block" style="padding: 16px 20px !important;">
+        <h3 class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span id="dashboard-main-title"><i class="bi bi-grid-1x2-fill me-1 text-primary"></i>SCM Risk 대시보드</span>
+          <button type="button" id="scm-map-block-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleScmMapBlockCollapse()">접기</button>
         </h3>
+        <div id="scm-map-block-content" style="margin-top: 10px;">
         
         <!-- SCM 통합 관리를 가로 4분할 격자형 계기판 포털로 대체 구현하는 패널 신설 (세로 높이 460px로 여유롭게 확장하여 상세 텍스트 수용!) -->
         <div id="unified-portal-panel" class="row g-4 mb-2" style="display: flex !important;">
@@ -1618,49 +1620,118 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       </section>
       <!-- 3. 주요 시황 요인지표 섹션 블록 (네모난 탭 격자망 수립) -->
-      <section class="block mt-3 mb-4" id="market-factors-block" style="display: none;">
-        <h3 id="dashboard-market-factors-title" class="d-flex justify-content-between align-items-center">
+      <section class="block mt-3 mb-4" id="market-factors-block" style="display: none; padding: 16px 20px !important;">
+        <h3 id="dashboard-market-factors-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-graph-up-arrow me-1"></i>주요 시황 요인지표</span>
-          <button type="button" id="mf-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleMfCollapseAll()">모두 접기</button>
+          <button type="button" id="mf-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleMfCollapseAll()">접기</button>
         </h3>
-        <div id="mf-block-content-container">
+        <div id="mf-block-content-container" style="margin-top: 10px;">
           <div id="market-factors-root" class="market-factors-grid">
           <div class="loading text-center py-5">데이터 불러오는 중…</div>
         </div>
         </div></section>
 
-      <!-- 요인지표 아래 가로 5분할 (3fr 2fr Split) 독립 블록 영역 (각각 완전히 독립된 네모칸으로 개별 테두리 블록화) -->
-      <div class="market-grid-split" id="market-tables-split-row" style="display: none;">
-        <!-- 단가인상 요청내역 (좌측 3칸) -->
-        <section class="block" id="market-requests-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
-          <h3 id="dashboard-market-requests-title"><span><i class="bi bi-emoji-angry me-1"></i>단가인상 요청내역</span></h3>
-          <div class="market-table-wrapper" id="market-requests-root" style="flex-grow: 1;">
-            <div class="loading text-center py-4">요청내역 로딩 중…</div>
-          </div>
-        </section>
+      <!-- 요인지표 아래 가로 5분할 (3fr 2fr Split) 통합 블록 영역 (하나의 큰 네모칸으로 병합) -->
+      <section class="block mb-4" id="market-tables-split-row" style="display: none; padding: 16px 20px !important;">
+        <!-- 상단 헤더: 전체를 접기 위한 버튼과 타이틀 영역 -->
+        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+          <span><i class="bi bi-calculator me-1 text-primary"></i>원가·시황 요인 상세분석</span>
+          <button type="button" id="market-combined-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleMarketCombinedCollapse()">접기</button>
+        </h3>
+        
+        <!-- 접히는 대상이 될 컨텐츠 영역 -->
+        <div id="market-tables-combined-content">
+          <!-- 가로 5분할 Grid -->
+          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
+            <!-- 단가인상 요청이력 (좌측 3칸) -->
+            <div id="market-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
+              <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
+                <i class="bi bi-emoji-angry-fill me-1 text-danger"></i>단가인상 요청이력
+              </h4>
+              <div class="market-table-wrapper" id="market-requests-root" style="flex-grow: 1;">
+                <div class="loading text-center py-4">요청이력 로딩 중…</div>
+              </div>
+            </div>
 
-        <!-- 품목군별 지수 민감도 (우측 2칸) -->
-        <section class="block" id="market-sensitivity-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
-          <h3 id="dashboard-market-sensitivity-title"><span><i class="bi bi-percent me-1"></i>품목군별 지수 민감도</span></h3>
-          <div class="market-table-wrapper" id="market-sensitivity-root" style="flex-grow: 1;">
-            <div class="loading text-center py-4">지수 민감도 로딩 중…</div>
+            <!-- 글로벌 원가 압박 요인 (우측 2칸) -->
+            <div id="market-sensitivity-panel" style="height: 330px; display: flex; flex-direction: column;">
+              <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
+                <i class="bi bi-graph-up-arrow me-1 text-warning"></i>글로벌 원가 압박 요인
+              </h4>
+              <div class="market-table-wrapper" id="market-sensitivity-root" style="flex-grow: 1;">
+                <div class="loading text-center py-4">요인분석 로딩 중…</div>
+              </div>
+            </div>
           </div>
-        </section>
-      </div>
+        </div>
+      </section>
 
       <!-- 4. 원가·시황측면 Risk 협력사 섹션 블록 (가로 전체 사용) -->
-      <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px !important;">
-        <h3 id="dashboard-market-partners-title"><span><i class="bi bi-exclamation-triangle-fill me-1"></i>원가·시황측면 Risk 협력사</span></h3>
-        <div class="market-table-wrapper" id="market-risk-partners-root" style="flex-grow: 1;">
-          <div class="loading text-center py-5">데이터 불러오는 중…</div>
+      <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+        <h3 id="dashboard-market-partners-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>원가·시황측면 Risk 협력사</span>
+          <button type="button" id="market-risk-partners-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleMarketRiskPartnersCollapse()">접기</button>
+        </h3>
+        <div id="market-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
+          <div class="market-table-wrapper" id="market-risk-partners-root" style="flex-grow: 1;">
+            <div class="loading text-center py-5">데이터 불러오는 중…</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- [신설] ② 경영안정성 요인지표 아래 가로 5분할 (1fr 1fr Split) 통합 블록 영역 (하나의 큰 네모칸으로 병합) -->
+      <section class="block mb-4" id="stability-tables-split-row" style="display: none; padding: 16px 20px !important;">
+        <!-- 상단 헤더: 전체를 접기 위한 버튼과 타이틀 영역 -->
+        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+          <span><i class="bi bi-shield-shaded me-1 text-primary"></i>경영안정성 요인 상세분석</span>
+          <button type="button" id="stability-combined-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleStabilityCombinedCollapse()">접기</button>
+        </h3>
+        
+        <!-- 접히는 대상이 될 컨텐츠 영역 -->
+        <div id="stability-tables-combined-content">
+          <!-- 가로 5분할 Grid (1fr 1fr 대칭) -->
+          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
+            <!-- 재무위험 조기경보이력 (좌측 1fr) -->
+            <div id="stability-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
+              <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
+                <i class="bi bi-activity-fill me-1 text-danger"></i>재무위험 조기경보이력
+              </h4>
+              <div class="market-table-wrapper" id="stability-lt-root" style="flex-grow: 1;">
+                <div class="loading text-center py-4">조기경보 이력 로딩 중…</div>
+              </div>
+            </div>
+
+            <!-- 글로벌 경영안정 위협요인 (우측 1fr) -->
+            <div id="stability-sensitivity-panel" style="height: 330px; display: flex; flex-direction: column;">
+              <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
+                <i class="bi bi-shield-exclamation me-1 text-warning"></i>글로벌 경영안정 위협요인
+              </h4>
+              <div class="market-table-wrapper" id="stability-sc-root" style="flex-grow: 1;">
+                <div class="loading text-center py-4">위협요인 로딩 중…</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- [신설] 경영안정성측면 Risk 협력사 (가로 전체 사용) -->
+      <section class="block mb-4" id="stability-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>경영안정성측면 Risk 협력사</span>
+          <button type="button" id="stability-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleStabilityRpCollapse()">접기</button>
+        </h3>
+        <div id="stability-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
+          <div class="market-table-wrapper" id="stability-risk-partners-root" style="flex-grow: 1;">
+            <div class="loading text-center py-5">데이터 불러오는 중…</div>
+          </div>
         </div>
       </section>
 
       <!-- 5. 조달·납기 (GitHub Data Lake Views) 섹션 블록 (조달/납기 탭 전용) -->
-      <section class="block mb-4" id="procurement-risk-block" style="display: none; margin-top: 16px;">
-        <h3 id="dashboard-procurement-title" class="d-flex justify-content-between align-items-center">
+      <section class="block mb-4" id="procurement-risk-block" style="display: none; margin-top: 16px; padding: 16px 20px !important;">
+        <h3 id="dashboard-procurement-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-diagram-3 me-1"></i>시장 동향 리포트 조회</span>
-          <button type="button" id="dl-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlCollapseAll()">모두 접기</button>
+          <button type="button" id="dl-collapse-all-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleDlCollapseAll()">접기</button>
         </h3>
         
         <!-- [신설] 모두 접기 대상 랩핑 컨테이너 -->
@@ -1672,9 +1743,18 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
              computeDlFilteredRecords() 참고. -->
         <div class="p-3 border rounded shadow-sm mb-3" style="background: var(--srm-surface) !important; border: 1.5px solid var(--srm-border) !important; border-radius: 12px; display: flex; gap: 14px; align-items: flex-end; flex-wrap: wrap;">
 
+          <!-- 기간 필터 (복수선택) -->
+          <div class="d-flex flex-column gap-1">
+            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">기간:</span>
+            <div class="dropdown">
+              <button type="button" id="dl-filter-year-btn" class="btn btn-sm btn-outline-secondary dropdown-toggle fw-bold" data-bs-toggle="dropdown" data-bs-auto-close="outside" style="height: 32px; font-size: 0.8rem; min-width: 110px; text-align: left;">전체</button>
+              <ul class="dropdown-menu p-2" id="dl-filter-year-menu" style="max-height: 260px; overflow-y: auto; min-width: 150px;"></ul>
+            </div>
+          </div>
+
           <!-- 테마 필터 (복수선택) -->
           <div class="d-flex flex-column gap-1">
-            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">테마 필터:</span>
+            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">테마:</span>
             <div class="dropdown">
               <button type="button" id="dl-filter-theme-btn" class="btn btn-sm btn-outline-secondary dropdown-toggle fw-bold" data-bs-toggle="dropdown" data-bs-auto-close="outside" style="height: 32px; font-size: 0.8rem; min-width: 130px; text-align: left;">전체</button>
               <ul class="dropdown-menu p-2" id="dl-filter-theme-menu" style="max-height: 260px; overflow-y: auto; min-width: 230px;"></ul>
@@ -1683,7 +1763,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
           <!-- 품목군 필터 (복수선택) -->
           <div class="d-flex flex-column gap-1">
-            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">품목군 필터:</span>
+            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">품목군:</span>
             <div class="dropdown">
               <button type="button" id="dl-filter-category-btn" class="btn btn-sm btn-outline-secondary dropdown-toggle fw-bold" data-bs-toggle="dropdown" data-bs-auto-close="outside" style="height: 32px; font-size: 0.8rem; min-width: 130px; text-align: left;">전체</button>
               <ul class="dropdown-menu p-2" id="dl-filter-category-menu" style="max-height: 260px; overflow-y: auto; min-width: 200px;"></ul>
@@ -1692,7 +1772,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
           <!-- 제조사 필터 (복수선택) -->
           <div class="d-flex flex-column gap-1">
-            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">제조사 필터:</span>
+            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">제조사:</span>
             <div class="dropdown">
               <button type="button" id="dl-filter-vendor-btn" class="btn btn-sm btn-outline-secondary dropdown-toggle fw-bold" data-bs-toggle="dropdown" data-bs-auto-close="outside" style="height: 32px; font-size: 0.8rem; min-width: 130px; text-align: left;">전체</button>
               <ul class="dropdown-menu p-2" id="dl-filter-vendor-menu" style="max-height: 260px; overflow-y: auto; min-width: 230px;"></ul>
@@ -1760,7 +1840,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <div class="fw-bold" style="font-size: 0.88rem; color: var(--srm-text-secondary) !important;">
             <i class="bi bi-file-text me-1 text-primary"></i>리포트 내용
           </div>
-          <button type="button" id="dl-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTableCollapse()">접기</button>
+          <button type="button" id="dl-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleDlTableCollapse()">접기</button>
         </div>
 
         <!-- Standardized Data Table -->
@@ -1801,7 +1881,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <div id="dl-timeline-title-text" class="fw-bold" style="font-size: 0.88rem; color: var(--srm-text-secondary) !important;">
             <i class="bi bi-signpost-split-fill me-1 text-primary"></i>타임라인 - 전체
           </div>
-          <button type="button" id="dl-timeline-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 28px; font-size: 0.75rem; padding: 2px 10px; font-weight: 600;" onclick="toggleDlTimelineCollapse()">접기</button>
+          <button type="button" id="dl-timeline-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleDlTimelineCollapse()">접기</button>
         </div>
 
         <!-- [신설 / 순서 변경] 타임라인 콘텐츠 영역 -->
@@ -1815,39 +1895,51 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       </div>
     </section>
 
-    <!-- [신설] 조달/납기 분할 5분할 (3fr 2fr Split) 영역 -->
-    <div class="market-grid-split" id="procurement-tables-split-row" style="display: none; margin-top: 20px; margin-bottom: 20px;">
-      <!-- 리드타임 변동이력 (좌측 3칸) -->
-      <section class="block" id="procurement-requests-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
-        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
-          <span><i class="bi bi-truck me-1 text-primary"></i>리드타임 변동이력</span>
-          <button type="button" id="dl-lt-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleLtCollapse()">접기</button>
-        </h3>
-        <div class="market-table-wrapper" id="procurement-lt-root" style="flex-grow: 1;">
-          <div class="loading text-center py-4">리드타임 이력 로딩 중…</div>
-        </div>
-      </section>
+    <!-- [신설] 조달/납기 분할 5분할 (3fr 2fr Split) 통합 블록 영역 (하나의 큰 네모칸으로 병합) -->
+    <section class="block mb-4" id="procurement-tables-split-row" style="display: none; padding: 16px 20px !important; margin-top: 20px; margin-bottom: 20px;">
+      <!-- 상단 헤더: 전체를 접기 위한 버튼과 타이틀 영역 -->
+      <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+        <span><i class="bi bi-truck me-1 text-primary"></i>조달·납기 요인 상세분석</span>
+        <button type="button" id="procurement-combined-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleProcurementCombinedCollapse()">접기</button>
+      </h3>
+      
+      <!-- 접히는 대상이 될 컨텐츠 영역 -->
+      <div id="procurement-tables-combined-content">
+        <!-- 가로 5분할 Grid -->
+        <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
+          <!-- 리드타임 변동이력 (좌측 3칸) -->
+          <div id="procurement-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
+            <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
+              <i class="bi bi-truck me-1 text-primary"></i>리드타임 변동이력
+            </h4>
+            <div class="market-table-wrapper" id="procurement-lt-root" style="flex-grow: 1;">
+              <div class="loading text-center py-4">리드타임 이력 로딩 중…</div>
+            </div>
+          </div>
 
-      <!-- 공급 차질 Risk (우측 2칸) -->
-      <section class="block" id="procurement-sensitivity-block" style="margin: 0 !important; padding: 16px !important; height: 380px; display: flex; flex-direction: column;">
-        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
-          <span><i class="bi bi-exclamation-octagon-fill me-1 text-warning"></i>공급 차질 Risk</span>
-          <button type="button" id="dl-sc-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleScCollapse()">접기</button>
-        </h3>
-        <div class="market-table-wrapper" id="procurement-sc-root" style="flex-grow: 1;">
-          <div class="loading text-center py-4">공급 차질 로딩 중…</div>
+          <!-- 글로벌 공급망 병목 요인 (우측 2칸) -->
+          <div id="procurement-sensitivity-panel" style="height: 330px; display: flex; flex-direction: column;">
+            <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
+              <i class="bi bi-exclamation-octagon-fill me-1 text-warning"></i>글로벌 공급망 병목 요인
+            </h4>
+            <div class="market-table-wrapper" id="procurement-sc-root" style="flex-grow: 1;">
+              <div class="loading text-center py-4">공급망 병목 로딩 중…</div>
+            </div>
+          </div>
         </div>
-      </section>
-    </div>
+      </div>
+    </section>
 
     <!-- [신설] 조달/납기측면 Risk 협력사 (가로 전체 사용) -->
-    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px !important;">
-      <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between;">
-        <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달/납기측면 Risk 협력사</span>
+    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+        <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달·납기측면 Risk 협력사</span>
         <button type="button" id="dl-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleRpCollapse()">접기</button>
       </h3>
-      <div class="market-table-wrapper" id="procurement-risk-partners-root" style="flex-grow: 1;">
-        <div class="loading text-center py-5">데이터 불러오는 중…</div>
+      <div id="procurement-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
+        <div class="market-table-wrapper" id="procurement-risk-partners-root" style="flex-grow: 1;">
+          <div class="loading text-center py-5">데이터 불러오는 중…</div>
+        </div>
       </div>
     </section>
 
@@ -2213,6 +2305,17 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                         .then(successHandler)
                         .catch(failureHandler);
                     },
+                    getStabilityRiskData: function() {
+                      const urls = [
+                        './data/views/stability_risk.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/stability_risk.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/stability_risk.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/stability_risk.json' + cacheBuster
+                      ];
+                      fetchWithFallback(urls)
+                        .then(successHandler)
+                        .catch(failureHandler);
+                    },
                     getProcurementRiskData: function() {
                       const urls = [
                         './data/views/procurement_risk.json' + cacheBuster,
@@ -2441,6 +2544,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const partnersBlock = document.getElementById("market-risk-partners-block");
       const procurementBlock = document.getElementById("procurement-risk-block");
       const majorTimelineBlock = document.getElementById("major-timeline-block");
+      const stabilitySplit = document.getElementById("stability-tables-split-row");
+      const stabilityPartners = document.getElementById("stability-risk-partners-block");
 
       // Hide all panels initially
       mapBlock.style.display = "none";
@@ -2449,6 +2554,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       partnersBlock.style.display = "none";
       if (procurementBlock) procurementBlock.style.display = "none";
       if (majorTimelineBlock) majorTimelineBlock.style.display = "none";
+      if (stabilitySplit) stabilitySplit.style.display = "none";
+      if (stabilityPartners) stabilityPartners.style.display = "none";
 
       const procSplit = document.getElementById("procurement-tables-split-row");
       const procPartners = document.getElementById("procurement-risk-partners-block");
@@ -2496,20 +2603,17 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           }, 150);
         }
       } else if (category === "② 경영 안정성 Risk" || category === "경영 안정성") {
-        mapBlock.style.display = "block";
-        mapPanel.style.setProperty("display", "block", "important");
-        unifiedPanel.style.setProperty("display", "none", "important");
-        mainTitle.innerHTML = `<i class="bi bi-activity me-1 text-warning"></i>경영 안정성 Risk Map`;
-        if (map) {
-          setTimeout(function() {
-            map.invalidateSize();
-          }, 150);
+        if (stabilitySplit) stabilitySplit.style.display = "block";
+        if (stabilityPartners) stabilityPartners.style.display = "block";
+        
+        if (typeof window.loadStabilityRiskTables === 'function') {
+          window.loadStabilityRiskTables();
         }
       } else if (category === "③ 원가·시황 Risk" || category === "원가 · 시황") {
-        splitRow.style.display = "grid"; // 원부자재 가격 동향 및 주요 환율 민감도 3fr 2fr 분할 노출
+        splitRow.style.display = "block"; // 원부자재 가격 동향 및 주요 환율 민감도 3fr 2fr 분할 노출
         partnersBlock.style.display = "block"; // 원가/시황측면 Risk 협력사 노출
       } else if (category === "④ 조달·납기 Risk" || category === "조달 · 납기") {
-        if (procSplit) procSplit.style.display = "grid"; // 리드타임 변동이력 + 공급 차질 Risk 노출
+        if (procSplit) procSplit.style.display = "block"; // 리드타임 변동이력 + 공급 차질 Risk 노출
         if (procPartners) procPartners.style.display = "flex"; // 조달/납기측면 Risk 협력사 노출
         
         if (typeof window.loadProcurementRiskTables === 'function') {
@@ -2554,17 +2658,17 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           `;
         } else if (category === "② 경영 안정성 Risk" || category === "경영 안정성") {
           commentsHtml = `
-            • 협력사별 신용등급 변동 추이 및 재무 안정성 지수를 실시간 지리 지도와 결합하여 선제 모니터링합니다.<br>
+            • 협력사별 신용등급 변동 추이 및 재무 위험 조기경보 이력을 정성적으로 평가하여 선제 모니터링합니다.<br>
             • 가동 중단 위기 협력사 조기 경보 및 이중 소싱 체계 연계 의사결정을 실시간으로 지원합니다.
           `;
         } else if (category === "③ 원가·시황 Risk" || category === "원가 · 시황") {
           commentsHtml = `
-            • 원부자재 가격 동향 및 주요 3대 환율 민감도를 기반으로 자재별 원가 변동 폭을 정량적으로 산출합니다.<br>
+            • 글로벌 원가 압박 요인인과 협력사 단가인상 요청이력을 정성적으로 분석하고 대응 전략을 한눈에 파악합니다.<br>
             • 협력사의 일방적 단가 상승 요구에 대응하여 당사 구매 협상 가이드를 정밀 시각화합니다.
           `;
         } else if (category === "④ 조달·납기 Risk" || category === "조달 · 납기") {
           commentsHtml = `
-            • 협력사 품목별 리드타임(L/T) 변동 이력과 부품 공급 차질 리스크 지수를 직관적인 테이블로 요약 제공합니다.<br>
+            • 협력사 품목별 리드타임(L/T) 변동 이력과 글로벌 공급망 병목 요인을 직관적인 테이블로 요약 제공합니다.<br>
             • 납기 악화 협력사 및 자재별 공급 차질 영향을 선제적으로 파악하여 생산 라인 병목을 미연에 방지합니다.
           `;
         } else if (category === "Market Intelligence") {
@@ -3721,8 +3825,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       if (loadedRiskTablesData && !forceReload) {
         renderCostRiskTables(loadedRiskTablesData);
       } else {
-        if (sensRoot) sensRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>지수 민감도 로딩 중…</div>';
-        if (reqRoot) reqRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>요청내역 로딩 중…</div>';
+        if (sensRoot) sensRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>요인분석 로딩 중…</div>';
+        if (reqRoot) reqRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>요청이력 로딩 중…</div>';
         if (partnerRoot) partnerRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>리스크 협력사 로딩 중…</div>';
 
         google.script.run.withSuccessHandler(res => {
@@ -5381,6 +5485,15 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         { value: "tsmc", label: "TSMC" },
         { value: "sony", label: "Sony" },
         { value: "mediatek", label: "Mediatek" }
+      ],
+      year: [
+        { value: "2020", label: "2020년" },
+        { value: "2021", label: "2021년" },
+        { value: "2022", label: "2022년" },
+        { value: "2023", label: "2023년" },
+        { value: "2024", label: "2024년" },
+        { value: "2025", label: "2025년" },
+        { value: "2026", label: "2026년" }
       ]
     };
 
@@ -5388,7 +5501,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
     // [수정] 기존 '조회 기준(택1) + 세부분류 단일선택' 상태값(currentDlViewType) 대신,
     // 테마/품목군/제조사 3개 차원을 동시에 유지하는 복수선택 필터 상태로 교체.
-    window.__DL_SELECTED = { theme: [], category: [], vendor: [] };
+    // (기간(년도) 필터를 포함한 4개 차원 대응으로 확장)
+    window.__DL_SELECTED = { theme: [], category: [], vendor: [], year: [] };
 
     // 동일 원격 JSON을 반복 요청하지 않도록 URL 단위로 캐시 (Promise 자체를 캐싱해
     // 같은 파일에 대한 동시 요청도 하나로 합쳐짐)
@@ -5446,12 +5560,14 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       return fetchJsonWithFallback(urls);
     }
 
-    // ── 테마 / 품목군 / 제조사 3개 필터 드롭다운(복수선택) 초기화 ───────────
+    // ── 테마 / 기간(년도) / 품목군 / 제조사 4개 필터 드롭다운(복수선택) 초기화 ───────────
     window.initDlViewModule = function() {
       buildDlFilterMenu('theme', DL_REPORTS.theme);
+      buildDlFilterMenu('year', DL_REPORTS.year);
       buildDlFilterMenu('category', DL_REPORTS.category);
       buildDlFilterMenu('vendor', DL_REPORTS.vendor);
       updateDlFilterButtonLabel('theme');
+      updateDlFilterButtonLabel('year');
       updateDlFilterButtonLabel('category');
       updateDlFilterButtonLabel('vendor');
       applyDlFilters();
@@ -5530,6 +5646,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     window.resetAllDlFilters = function() {
       // Clear the selections arrays
       window.__DL_SELECTED.theme.length = 0;
+      window.__DL_SELECTED.year.length = 0;
       window.__DL_SELECTED.category.length = 0;
       window.__DL_SELECTED.vendor.length = 0;
 
@@ -5539,11 +5656,13 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       // Rebuild filter menus
       buildDlFilterMenu('theme', DL_REPORTS.theme);
+      buildDlFilterMenu('year', DL_REPORTS.year);
       buildDlFilterMenu('category', DL_REPORTS.category);
       buildDlFilterMenu('vendor', DL_REPORTS.vendor);
 
       // Update labels
       updateDlFilterButtonLabel('theme');
+      updateDlFilterButtonLabel('year');
       updateDlFilterButtonLabel('category');
       updateDlFilterButtonLabel('vendor');
 
@@ -5581,25 +5700,33 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       ];
       const activeDims = dims.filter(d => d.selected.length > 0);
 
+      let records;
       if (activeDims.length === 0) {
-        return await fetchDimensionValueRecords('all', 'all');
+        records = await fetchDimensionValueRecords('all', 'all');
+      } else {
+        const dimMaps = [];
+        for (const d of activeDims) {
+          const arrays = await Promise.all(d.selected.map(v => fetchDimensionValueRecords(d.key, v)));
+          const map = new Map();
+          arrays.forEach(arr => (arr || []).forEach(r => map.set(JSON.stringify(r), r)));
+          dimMaps.push(map);
+        }
+
+        let resultMap = dimMaps[0];
+        for (let i = 1; i < dimMaps.length; i++) {
+          const next = new Map();
+          resultMap.forEach((v, k) => { if (dimMaps[i].has(k)) next.set(k, v); });
+          resultMap = next;
+        }
+        records = Array.from(resultMap.values());
       }
 
-      const dimMaps = [];
-      for (const d of activeDims) {
-        const arrays = await Promise.all(d.selected.map(v => fetchDimensionValueRecords(d.key, v)));
-        const map = new Map();
-        arrays.forEach(arr => (arr || []).forEach(r => map.set(JSON.stringify(r), r)));
-        dimMaps.push(map);
+      // [신설] 기간(년도) 필터 클라이언트사이드 필터링 적용 (AND 조건)
+      if (window.__DL_SELECTED.year && window.__DL_SELECTED.year.length > 0) {
+        records = records.filter(r => window.__DL_SELECTED.year.includes(String(r.year)));
       }
 
-      let resultMap = dimMaps[0];
-      for (let i = 1; i < dimMaps.length; i++) {
-        const next = new Map();
-        resultMap.forEach((v, k) => { if (dimMaps[i].has(k)) next.set(k, v); });
-        resultMap = next;
-      }
-      return Array.from(resultMap.values());
+      return records;
     }
 
     // 3개 필터 상태를 기준으로 데이터를 다시 가져와 표/상세 리스트를 갱신.
@@ -5873,10 +6000,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       
       if (target.style.display === "none") {
         target.style.display = "block";
-        btn.textContent = "모두 접기";
+        btn.textContent = "접기";
       } else {
         target.style.display = "none";
-        btn.textContent = "모두 펴기";
+        btn.textContent = "펼치기";
       }
     };
 
@@ -5886,16 +6013,16 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       if (target.style.display === "none") {
         target.style.display = "block";
-        btn.textContent = "모두 접기";
+        btn.textContent = "접기";
       } else {
         target.style.display = "none";
-        btn.textContent = "모두 펴기";
+        btn.textContent = "펼치기";
       }
     };
 
-    window.toggleLtCollapse = function() {
-      const target = document.getElementById("procurement-lt-root");
-      const btn = document.getElementById("dl-lt-collapse-btn");
+    window.toggleStabilityCombinedCollapse = function() {
+      const target = document.getElementById("stability-tables-combined-content");
+      const btn = document.getElementById("stability-combined-collapse-btn");
       if (target.style.display === "none") {
         target.style.display = "block";
         btn.textContent = "접기";
@@ -5905,11 +6032,59 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       }
     };
 
-    window.toggleScCollapse = function() {
-      const target = document.getElementById("procurement-sc-root");
-      const btn = document.getElementById("dl-sc-collapse-btn");
+    window.toggleStabilityRpCollapse = function() {
+      const target = document.getElementById("stability-risk-partners-content-container");
+      const btn = document.getElementById("stability-rp-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "flex";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleMarketCombinedCollapse = function() {
+      const target = document.getElementById("market-tables-combined-content");
+      const btn = document.getElementById("market-combined-collapse-btn");
       if (target.style.display === "none") {
         target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleProcurementCombinedCollapse = function() {
+      const target = document.getElementById("procurement-tables-combined-content");
+      const btn = document.getElementById("procurement-combined-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleScmMapBlockCollapse = function() {
+      const target = document.getElementById("scm-map-block-content");
+      const btn = document.getElementById("scm-map-block-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    window.toggleMarketRiskPartnersCollapse = function() {
+      const target = document.getElementById("market-risk-partners-content-container");
+      const btn = document.getElementById("market-risk-partners-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "flex";
         btn.textContent = "접기";
       } else {
         target.style.display = "none";
@@ -5918,10 +6093,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     };
 
     window.toggleRpCollapse = function() {
-      const target = document.getElementById("procurement-risk-partners-root");
+      const target = document.getElementById("procurement-risk-partners-content-container");
       const btn = document.getElementById("dl-rp-collapse-btn");
       if (target.style.display === "none") {
-        target.style.display = "block";
+        target.style.display = "flex";
         btn.textContent = "접기";
       } else {
         target.style.display = "none";
@@ -5999,6 +6174,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const firstDisabled = (currentPage === 1);
       html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${firstDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(1)">맨앞</button>`;
 
+      // [-10] 버튼 ( < 왼쪽에 배치)
+      const prev10Disabled = (startPage === 1);
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${prev10Disabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${Math.max(1, currentPage - 10)})">-10</button>`;
+
       // [<] 버튼
       const prevDisabled = (currentPage === 1);
       html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${prevDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage - 1})"><span class="fw-bold">&lt;</span></button>`;
@@ -6012,6 +6191,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       // [>] 버튼
       const nextDisabled = (currentPage === totalPages);
       html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${nextDisabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${currentPage + 1})"><span class="fw-bold">&gt;</span></button>`;
+
+      // [+10] 버튼 ( > 오른쪽에 배치)
+      const next10Disabled = (endPage >= totalPages);
+      html += `<button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${next10Disabled ? 'disabled' : ''} onclick="window.__DL_ON_PAGE_CHANGE(${Math.min(totalPages, currentPage + 10)})">+10</button>`;
 
       // [맨뒤] 버튼
       const lastDisabled = (currentPage === totalPages);
@@ -6028,6 +6211,45 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       }
     };
 
+    let loadedStabilityTablesData = null;
+
+    window.loadStabilityRiskTables = function(forceReload) {
+      const warningRoot = document.getElementById("stability-lt-root");
+      const threatRoot = document.getElementById("stability-sc-root");
+      const partnerRoot = document.getElementById("stability-risk-partners-root");
+
+      if (loadedStabilityTablesData && !forceReload) {
+        renderStabilityRiskTables(loadedStabilityTablesData);
+      } else {
+        if (warningRoot) warningRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>조기경보 이력 로딩 중…</div>';
+        if (threatRoot) threatRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>위협요인 로딩 중…</div>';
+        if (partnerRoot) partnerRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>리스크 협력사 로딩 중…</div>';
+
+        google.script.run.withSuccessHandler(res => {
+          if (res.success) {
+            loadedStabilityTablesData = res;
+            renderStabilityRiskTables(loadedStabilityTablesData);
+          } else {
+            const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.8rem;">데이터 로드 실패: ' + (res.message || "알 수 없는 오류") + '</div>';
+            if (warningRoot) warningRoot.innerHTML = errHtml;
+            if (threatRoot) threatRoot.innerHTML = errHtml;
+            if (partnerRoot) partnerRoot.innerHTML = errHtml;
+          }
+        }).withFailureHandler(err => {
+          const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.8rem;">서버 통신 실패: ' + err.message + '</div>';
+          if (warningRoot) warningRoot.innerHTML = errHtml;
+          if (threatRoot) threatRoot.innerHTML = errHtml;
+          if (partnerRoot) partnerRoot.innerHTML = errHtml;
+        }).getStabilityRiskData();
+      }
+    };
+
+    function renderStabilityRiskTables(tablesData) {
+      renderCustomTable("stability-lt-root", tablesData.warningHistory);
+      renderCustomTable("stability-sc-root", tablesData.stabilityThreatFactors);
+      renderCustomTable("stability-risk-partners-root", tablesData.stabilityRiskPartners);
+    }
+
     window.loadProcurementRiskTables = function(forceReload) {
       const ltRoot = document.getElementById("procurement-lt-root");
       const scRoot = document.getElementById("procurement-sc-root");
@@ -6037,7 +6259,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         renderProcurementRiskTables(loadedProcurementTablesData);
       } else {
         if (ltRoot) ltRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>리드타임 이력 로딩 중…</div>';
-        if (scRoot) scRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>공급 차질 로딩 중…</div>';
+        if (scRoot) scRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>공급망 병목 로딩 중…</div>';
         if (partnerRoot) partnerRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>리스크 협력사 로딩 중…</div>';
 
         google.script.run.withSuccessHandler(res => {
@@ -6234,15 +6456,17 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         }
       };
 
+      const years = window.__DL_SELECTED.year || [];
       const themes = window.__DL_SELECTED.theme || [];
       const categories = window.__DL_SELECTED.category || [];
       const vendors = window.__DL_SELECTED.vendor || [];
 
+      const yearText = formatList(years, "(기간)", "year");
       const themeText = formatList(themes, "(테마)", "theme");
       const catText = formatList(categories, "(품목군)", "category");
       const vendorText = formatList(vendors, "(제조사)", "vendor");
 
-      const parts = [themeText, catText, vendorText].filter(Boolean);
+      const parts = [yearText, themeText, catText, vendorText].filter(Boolean);
       const filterDetails = (parts.length === 0) ? "전체" : parts.join("   ");
 
       const titleTextEl = document.getElementById("dl-timeline-title-text");

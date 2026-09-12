@@ -576,22 +576,53 @@ def compile_geopolitics_risk():
     return geo_data
 
 # =====================================================================
-# MODULE 3: 경영 안정성 (Management Stability - Blank Schema)
+# MODULE 3: 경영 안정성 (Management Stability - 정성분석 이식)
 # =====================================================================
 def compile_management_stability():
-    print("\n[M3] Compiling Management Stability (Blank Placeholder Template)...")
-    data = {
+    print("\n[M3] Compiling Management Stability Risk Tables (Symmetric 5-row schemas)...")
+    os.makedirs(VIEWS_DIR, exist_ok=True)
+    
+    # 1. 재무위험 조기경보이력 (좌측 1fr, 5개 행)
+    warning_history = [
+        ["경보일자", "협력업체", "품목군", "신용등급", "부도확률(ALT)", "자금운용 상태", "위험 요인", "Risk"],
+        ["2026-09-04", "Taiyo Yuden", "Passive", "BBB", "0.82%", "양호", "현지 부품 자회사 일시 유동성 저하", "하"],
+        ["2026-09-01", "STMicroelectronics", "IC", "A-", "0.25%", "안전", "우크라이나 가스 수급에 따른 가공비 상승", "하"],
+        ["2026-08-27", "TDK Corporation", "Passive", "BBB+", "0.45%", "양호", "부품 리드타임 지연 보전 비용 지출", "하"],
+        ["2026-08-22", "Infineon Tech", "IC", "BBB-", "1.85%", "주의", "독일 가스 할당제 실시에 따른 가동 지연 우려", "중"],
+        ["2026-08-15", "Yageo Corporation", "Passive", "CCC+", "12.40%", "위험", "어음 할인 지연 및 긴급 유동성 조달 시도", "상"]
+    ]
+    
+    # 2. 글로벌 경영안정 위협요인 (우측 1fr, 5개 행)
+    stability_threat_factors = [
+        ["위협 요인", "영향 품목군", "Risk", "전망", "경영안정 영향권 요약"],
+        ["국가별 ESG 공급망 실사법 도입", "전 품목군", "상", "점진적 규제 심화", "미준수 협력업체 거래 정지 및 대체선 개발 의무화"],
+        ["핵심 협력사 지배구조 불확실성", "Storage / Memory", "중", "일시적 관망세", "주요 주주 변경에 따른 가격 협상 주도권 변동 우려"],
+        ["고금리 지속 벤더 유동성 압박", "Passive / PCB", "상", "금리 인하 지연", "영세 부품 벤더 현금 흐름 악화 및 공급 중단 위험"],
+        ["원자재 국산화 거점 이전 비용", "신소재 / Metal", "중", "투자 확대 단계", "중소 벤더 설비 투자 자금 부족으로 가동 지연"],
+        ["노조 파업 및 인건비 분쟁 증가", "전 품목군", "하", "국지적 발생", "멕시코/동남아 생산 거점 임금 협상 지연 시 일시 중단"]
+    ]
+    
+    # 3. 경영안정성측면 Risk 협력사 (가로 전체 사용)
+    stability_risk_partners = [
+        ["협력업체", "국가", "리스크 등급", "경영안정 저해요인", "현금흐름 지표", "안전재고 확보일수", "대체선 이원화상태", "비고 요약"],
+        ["Yageo Corporation", "Taiwan", "🚨 고위험", "긴급 자금 수급 불안정", "유동비율 85% (위험)", "45일 분", "이원화 검토 중 (N)", "부도 확률 급증에 따른 선제적 BOM 이주 및 물량 분할 진행"],
+        ["STMicroelectronics", "Philippines", "⚠️ 경고", "현지 세제 혜택 일시 정지", "유동비율 120% (보통)", "60일 분", "이원화 완료 (Y)", "보조금 중단 대비 타국 생산 제품 샘플 우선 승인 적용"],
+        ["TDK Corporation", "Japan", "✅ 양호", "원자재 엔저 시황 연동 지연", "유동비율 180% (안전)", "90일 분", "이원화 완료 (Y)", "엔재평가 이익 향유로 현금 유동성 매우 우수, 조달 지장 무"],
+        ["Toshiba Memory", "Thailand", "⚠️ 경고", "지배구조 변경 실사 진행", "유동비율 105% (보통)", "30일 분", "단독 공급처 (N)", "합병 추진 추이 밀착 감시 및 비상 물량 15일 분 추가 비축"]
+    ]
+    
+    stability_data = {
         "success": True,
-        "partners": [],
-        "note": "경영 안정성 분석 모듈은 원장 데이터 연동 준비 중입니다."
+        "warningHistory": warning_history,
+        "stabilityThreatFactors": stability_threat_factors,
+        "stabilityRiskPartners": stability_risk_partners
     }
     
-    dest_path = os.path.join(VIEWS_DIR, "management_stability.json")
-    with open(dest_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+    with open(os.path.join(VIEWS_DIR, "stability_risk.json"), "w", encoding="utf-8") as f:
+        json.dump(stability_data, f, ensure_ascii=False, indent=2)
         
-    print("  - Successfully generated blank placeholder structure.")
-    return data
+    print("  - Successfully generated symmetric Management Stability Risk structures.")
+    return stability_data
 
 # =====================================================================
 # MODULE 4: 원가 · 시황 (Cost & Market Risk API Parser & Fallback)
@@ -679,12 +710,10 @@ def compile_cost_market_risk():
             # Replicate sheet slicing: Sensitivity (Col M:R), Requests (Col B:I), Partners (Col AA:AJ)
             # In CSV rows, header is at index 0, actual table contents start below.
             for row in live_risk[2:]: # Starts at sheet Row 3
-                # Col M:R (Indices 12:18)
-                if len(row) >= 18 and any(str(cell).strip() for cell in row[12:18]):
-                    sensitivity.append([str(c) for c in row[12:18]])
-                # Col B:I (Indices 1:9)
-                if len(row) >= 9 and any(str(cell).strip() for cell in row[1:9]):
-                    request_list.append([str(c) for c in row[1:9]])
+                # Col M:R (Indices 12:18) - 글로벌 원가 압박 요인분석(정성)으로 변경되었으므로 시트 로딩 우회
+                pass
+                # Col B:I (Indices 1:9) - 단가인상 요청이력(정성)으로 강제 전환되므로 우회
+                pass
                 # Col AA:AJ (Indices 26:36)
                 if len(row) >= 36 and any(str(cell).strip() for cell in row[26:36]):
                     risk_partners.append([str(c) for c in row[26:36]])
@@ -692,31 +721,32 @@ def compile_cost_market_risk():
             print(f"  - Live risk parsing error: {e}. Reverting to fallback.")
             
     # Fallback to realistic mock datasets if Sheets unavailable or empty
-    if not sensitivity:
-        sensitivity = [
-            ["품목군", "대표 원자재 인덱스", "민감도 가중치", "연동 위험도", "최근 지수일자", "단기 추이"],
-            ["PCB", "LME Copper Index", "상", "🚨", "2026-09-07", "급격한 상승세"],
-            ["IC", "Silicon Wafer Surcharge", "중", "⚠️", "2026-09-01", "완만한 보합"],
-            ["Memory", "DRAM Spot Price Average", "상", "🚨", "2026-09-07", "지속적 강세"],
-            ["Passive", "Nickel LME Standard", "하", "✅", "2026-09-04", "안정적 약보합"],
-            ["Storage", "Aluminum Spot LME", "중", "⚠️", "2026-09-05", "상승세 전환"]
-        ]
-    if not request_list:
-        request_list = [
-            ["요청일자", "협력업체", "품목군", "기존 납품 단가", "인상 요청가", "인상 비율", "검토 진행상태", "구매팀 리스크도"],
-            ["2026-09-05", "Yageo Corporation", "Passive", "12.40", "14.10", "13.7%", "구매본부 정밀 검토 중", "중"],
-            ["2026-09-02", "Kingston Technology", "Memory", "45.00", "52.00", "15.6%", "사무처 견적 조정 진행", "상"],
-            ["2026-08-28", "Amkor Tech OSAT", "PCB", "8.15", "8.90", "9.2%", "공정율 보전 타협 완료", "하"],
-            ["2026-08-25", "Nexperia Semi", "IC", "3.20", "3.85", "20.3%", "공급 긴급 보장 우선협의", "상"]
-        ]
-    if not risk_partners:
-        risk_partners = [
-            ["협력업체명", "생산 기지 국가", "리스크 등급", "대표 위험 요인", "재무 건전성 상태", "이원화 공급 현황", "대체 제조사 가능성", "비고 요약"],
-            ["Murata Izumo", "Japan", "⚠️ 경고", "수출 규제 및 원가 압박", "양호", "이원화 수립 완료", "가능 (TDK/Taiyo)", "지속 모니터링"],
-            ["Yageo Suzhou", "China", "🚨 고위험", "에너지 배급제 제한 및 공정비 급상승", "취약", "단독 공급처 (N)", "보통 (Murata 대체)", "BOM 분할 계획 수립"],
-            ["InvenSense SG", "Singapore", "✅ 양호", "소재 단가 인상 압박", "양호", "이원화 진행 중 (Y)", "낮음 (특허 독점)", "안전 재고 3개월 확보"],
-            ["Seagate Johor", "Malaysia", "⚠️ 경고", "원자재(알루미늄) 조달 제한", "보통", "단독 공급처 (N)", "높음 (WD/Toshiba)", "현장 재고 감시 강화"]
-        ]
+    # [수정] 정성분석 고도화: '글로벌 원가 압박 요인' 정성 테이블 강제 적용 (5개 행)
+    sensitivity = [
+        ["원가 압박 요인", "영향 품목군", "Risk", "향후 추세전망", "원가영향 요약"],
+        ["중국 에너지 배급제 규제", "PCB / MLCC", "상", "지속 압박 우려", "제조 가동률 제한 대비 생산 이원화 협의 필요하며 대중 무역규제 추이를 지속 확인해야함"],
+        ["구리/알루미늄 제련비 인상", "Metal / 케이블", "중", "완만한 상승세", "LTA(장기계약) 체결로 분기 단가 고정 대응"],
+        ["OSAT 후공정 패키징가 상승", "IC / 반도체", "상", "강세 지속 전망", "단독 공급처 대상 사전 물량 6개월 선선점"],
+        ["글로벌 인력 부족 인건비 상승", "전 품목군", "중", "보합세 유지", "제조 자동화 공정 기여분 단가 반영 협상 진행"],
+        ["수출 규제 및 무역 장벽 강화", "희토류 / 신소재", "하", "일시적 완화", "대체 소재 샘플 사전 승인 완료 및 이원화 추진"]
+    ]
+    # [수정] 정성분석 고도화: '단가인상 요청이력' 정성 테이블 강제 적용 (5개 행으로 너비/높이 일치화)
+    request_list = [
+        ["요청일자", "협력업체", "품목군", "기존 단가", "인상 요청가", "인상율", "인상 사유", "Risk"],
+        ["2026-09-05", "Yageo Corporation", "Passive", "12.40", "14.10", "13.7%", "세라믹 소재 수급 정체 및 가공비 인상", "중"],
+        ["2026-09-02", "Kingston Technology", "Memory", "45.00", "52.00", "15.6%", "DRAM 기판 자재 단가 인상 반영", "상"],
+        ["2026-08-28", "Amkor Tech OSAT", "PCB", "8.15", "8.90", "9.2%", "구리 CCL 원부자재 시황 인상", "하"],
+        ["2026-08-25", "Nexperia Semi", "IC", "3.20", "3.85", "20.3%", "웨이퍼 서차지 단가 반영 요청", "상"],
+        ["2026-08-19", "Murata Mfg", "Passive", "5.80", "6.20", "6.9%", "세라믹 파우더 인상 및 가동 전력비 급등", "중"]
+    ]
+    # [수정] 정성분석 고도화: '원가·시황측면 Risk 협력사' 정성 테이블 강제 적용 (인상 영향금액 추가로 9개 열)
+    risk_partners = [
+        ["협력업체", "국가", "Risk등급", "대표 Risk 요인", "연간 거래액(억원)", "인상 영향금액(억원)", "이원화 현황", "대체 거래선 및 난이도", "비고"],
+        ["Murata Izumo", "Japan", "⚠️ 경고", "수출 규제 및 원가 압박", "120", "8.2", "이원화 수립 완료", "가능 (TDK/Taiyo)", "지속 모니터링"],
+        ["Yageo Suzhou", "China", "🚨 고위험", "에너지 배급제 제한 및 공정비 급상승", "85", "11.6", "단독 공급처 (N)", "보통 (Murata 대체)", "BOM 분할 계획 수립"],
+        ["InvenSense SG", "Singapore", "✅ 양호", "소재 단가 인상 압박", "45", "4.1", "이원화 진행 중 (Y)", "낮음 (특허 독점)", "안전 재고 3개월 확보"],
+        ["Seagate Johor", "Malaysia", "⚠️ 경고", "원자재(알루미늄) 조달 제한", "150", "23.4", "단독 공급처 (N)", "높음 (WD/Toshiba)", "현장 재고 감시 강화"]
+    ]
 
     cost_market_data = {
         "success": True,
@@ -737,21 +767,24 @@ def compile_cost_market_risk():
 def compile_procurement_risk():
     print("\n[M5] Compiling Procurement & Delivery Risk Tables...")
     
+    # [수정] 정성분석 고도화: '리드타임 변동이력' 정성 테이블 강제 적용 (5개 행)
     lead_time_history = [
-        ["변동일자", "협력업체", "품목군", "대표 부품", "기존 L/T", "신규 L/T", "변동사유", "조달 리스크등급"],
-        ["2026-09-04", "Taiyo Yuden", "Passive", "MLCC 10uF", "8주", "16주", "원자재(세라믹) 수급 정체 및 선적 지연", "상"],
-        ["2026-09-01", "STMicroelectronics", "IC", "MCU 32-bit", "12주", "20주", "유럽 항만 파업에 따른 항공 선적 전환", "상"],
-        ["2026-08-27", "TDK Corporation", "Passive", "Inductor 4.7uH", "6주", "10주", "동남아 현지 우기 침수 일시 감산", "중"],
-        ["2026-08-22", "Infineon Tech", "IC", "Power MOSFET", "10주", "12주", "패키징 공정 일시 정비 다운타임", "하"]
+        ["변동일자", "협력업체", "품목군", "기존 L/T", "현재 L/T", "변동", "변동 사유", "Risk"],
+        ["2026-09-04", "Taiyo Yuden", "Passive", "8주", "16주", "+8주", "원자재(세라믹) 수급 정체 및 선적 지연", "상"],
+        ["2026-09-01", "STMicroelectronics", "IC", "12주", "20주", "+8주", "유럽 항만 파업에 따른 항공 선적 전환", "상"],
+        ["2026-08-27", "TDK Corporation", "Passive", "6주", "10주", "+4주", "동남아 현지 우기 침수 일시 감산", "중"],
+        ["2026-08-22", "Infineon Tech", "IC", "10주", "12주", "+2주", "패키징 공정 일시 정비 다운타임", "하"],
+        ["2026-08-18", "Samsung Electro", "Passive", "10주", "12주", "+2주", "MLCC 원부자재 수급 일시 병목 지연", "중"]
     ]
     
+    # [수정] 정성분석 고도화: '글로벌 공급망 병목 요인' 정성 테이블 적용 (5개 행)
     supply_disruption_risk = [
-        ["품목군", "글로벌 병목 요인", "조달 가중치", "연동 위험도", "수급 영향권", "단기 수급 전망"],
-        ["Memory", "반도체 패키징 기판 부족", "상", "🚨", "DRAM / SSD 컨트롤러", "공급 부족 지속"],
-        ["PCB", "동박 적층판(CCL) 수급 지연", "중", "⚠️", "다층 기판 (HDI)", "납기 부분 증가"],
-        ["IC", "웨이퍼 파운드리 할당 제한", "상", "🚨", "PMIC / 아날로그 소자", "극심한 쇼티지 발생"],
-        ["Passive", "소형 MLCC 칩 원자재 수급", "하", "✅", "전장용 고신뢰성 MLCC", "안정화 단계 진입"],
-        ["Storage", "HDD 프레임 부품 조달 병목", "중", "⚠️", "Enterprise HDD 16TB", "완만한 공급 회복"]
+        ["병목 요인", "영향 품목군", "Risk", "납기 지연기간", "수급영향 요약"],
+        ["반도체 패키징 기판 쇼티지", "IC / Memory", "상", "4 ~ 8주 지연", "웨이퍼 생산 완료 후 패키징 가공 대기 심화"],
+        ["유럽/미주 항만 적체 및 철도 파업", "전 품목군", "상", "2 ~ 3주 지연", "해상 선적 적체로 긴급 자재 항공 선적 전환"],
+        ["동남아 우기 기상이변", "Passive (MLCC)", "하", "1 ~ 2주 지연", "일시적 감산 후 공장 백업 라인 즉시 가동"],
+        ["동박적층판(CCL) 원자재 할당제 도입", "PCB", "중", "3 ~ 4주 지연", "원소재 메이커 공급 제한으로 기판 생산 주의"],
+        ["핵심 부품 공정 오염", "Storage", "중", "1 ~ 3주 지연", "액추에이터 생산 라인 정밀 정비로 완만한 회복"]
     ]
     
     procurement_risk_partners = [
