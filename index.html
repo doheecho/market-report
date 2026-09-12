@@ -6218,7 +6218,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         adviceTimer = setInterval(() => {
           currentAdviceIdx = (currentAdviceIdx + 1) % adviceList.length;
           renderCurrentAdvice();
-        }, 3000); // 3초마다 좌측 스크롤 기동
+        }, 6000); // 3초마다 좌측 스크롤 기동
       }
 
       if (res.news && res.news.length > 0) {
@@ -6232,8 +6232,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           newsTimer = setInterval(() => {
             currentNewsIdx = (currentNewsIdx + 1) % newsList.length;
             renderCurrentNews();
-          }, 3000); // 3초마다 우측 스크롤 기동
-        }, 1500);
+          }, 6000); // 3초마다 우측 스크롤 기동
+        }, 3000);
       }
     }
 
