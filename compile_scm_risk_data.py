@@ -321,7 +321,7 @@ def save_monthly_source(year, month, lines):
 # MODULE 1: 조달 · 납기 (Procurement & Lead Time SCM Compiler)
 # =====================================================================
 def compile_procurement_leadtime():
-    print("\n[M1] Compiling Procurement & Lead Time Data Slices...")
+    print("[M6] [M1] Compiling Procurement & Lead Time Data Slices...")
     split_raw_full_archive()
     
     csv_rows = try_read_user_csv()
@@ -476,139 +476,75 @@ def compile_procurement_leadtime():
 # MODULE 2: 지정학 (Geopolitics SCM Map - MOCK Engine for Security)
 # =====================================================================
 def compile_geopolitics_risk():
-    """
-    To strictly respect company safety regulations regarding confidential internal SCM Map sheets,
-    this function compiles highly realistic, structurally identical synthetic coordinates 
-    and mock risk classifications so the Map operates with beautiful global visual layouts.
-    """
-    print("\n[M2] Compiling Geopolitics Risk SCM Mapping (Secure Synthetic Generation)...")
+    print("[M2] Compiling Geopolitics Risk SCM Mapping (Secure Synthetic Generation)...")
     
-    # 1) Setup 4-5 dummy geopolitical risks and descriptions representing standard supply issues
-    mock_risk_stats = [
-        {
-            "name": "수에즈 운하 항로 군사 대치",
-            "level": "상",
-            "desc": "예멘 반군 교전 및 미군 군사 작전 전개로 수에즈 운하 통행 전면 마비 우려. 유럽행 운송 리드타임 14~21일 급증 예상.",
-            "country": "Egypt",
-            "typeText": "물류 리스크",
-            "vendorCount": 3,
-            "cityCount": 2,
-            "itemGroupCount": 2,
-            "count": 4
-        },
-        {
-            "name": "대만 해협 군사 시뮬레이션 위험",
-            "level": "상",
-            "desc": "대만 북부 해상 군사 시뮬레이션 돌입으로 타이베이 및 가오슝 출항 주요 컨테이너선 항로 우회 조치. 패키징 및 주요 반도체 파운드리 물류 정체 심각.",
-            "country": "Taiwan",
-            "typeText": "지정학적 충돌",
-            "vendorCount": 4,
-            "cityCount": 3,
-            "itemGroupCount": 2,
-            "count": 6
-        },
-        {
-            "name": "미국 정부 첨단 기술 관세 장벽",
-            "level": "중",
-            "desc": "미국 수출 통제 법안 2.0 발효 및 동아시아 반도체 위탁 생산 제품 대상 특별 추가 관세 부과 계획. 미국행 완제품 BOM 단가 인상 압박 누적.",
-            "country": "USA",
-            "typeText": "무역 관세",
-            "vendorCount": 5,
-            "cityCount": 4,
-            "itemGroupCount": 3,
-            "count": 8
-        },
-        {
-            "name": "독일 전력망 친환경 인프라 수급 불안정",
-            "level": "하",
-            "desc": "독일 북부 산업단지 전력 연계망 점검으로 미크론 및 인피니온 현지 공장 전력 소비 가이드라인 하향. 미세 단가 조정 협의 중.",
-            "country": "Germany",
-            "typeText": "인프라 지연",
-            "vendorCount": 2,
-            "cityCount": 2,
-            "itemGroupCount": 1,
-            "count": 3
-        }
-    ]
-
-    # 2) Establish 20 global coordinates representing high-end suppliers mapped to geopolitical risks
+    # 1) Setup dummy geopolitical locations
     mock_locations = [
-        {"code": "V001", "site": "Hwaseong Fab 17", "vendor": "Samsung", "country": "South Korea", "city": "Hwaseong", "lat": 37.208, "lon": 127.042, "item": "DRAM", "itemGroup": "Memory", "type": "Front-End", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V002", "site": "Pyeongtaek Fab 2", "vendor": "Samsung", "country": "South Korea", "city": "Pyeongtaek", "lat": 37.012, "lon": 127.021, "item": "NAND Flash", "itemGroup": "Memory", "type": "Front-End", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V003", "site": "Hsinchu GigaFab 12", "vendor": "TSMC", "country": "Taiwan", "city": "Hsinchu", "lat": 24.781, "lon": 120.983, "item": "AP Processor", "itemGroup": "IC", "type": "Wafer Fab", "risk": "대만 해협 군사 시뮬레이션 위험"},
-        {"code": "V004", "site": "Tainan GigaFab 18", "vendor": "TSMC", "country": "Taiwan", "city": "Tainan", "lat": 23.111, "lon": 120.219, "item": "AI Accelerator Core", "itemGroup": "GPU", "type": "Wafer Fab", "risk": "대만 해협 군사 시뮬레이션 위험"},
-        {"code": "V005", "site": "Taichung Backend Fab 3", "vendor": "TSMC", "country": "Taiwan", "city": "Taichung", "lat": 24.234, "lon": 120.655, "item": "CoWoS Substrate", "itemGroup": "PCB", "type": "OSAT Backend", "risk": "대만 해협 군사 시뮬레이션 위험"},
-        {"code": "V006", "site": "Dallas RF Fab", "vendor": "Texas Instruments", "country": "USA", "city": "Dallas", "lat": 32.776, "lon": -96.797, "item": "Analog PMIC", "itemGroup": "IC", "type": "Front-End", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V007", "site": "Maine Sensor Plant", "vendor": "Texas Instruments", "country": "USA", "city": "Portland", "lat": 43.661, "lon": -70.255, "item": "Industrial MCU", "itemGroup": "IC", "type": "Wafer Fab", "risk": "-"},
-        {"code": "V008", "site": "Agrate Fab 200", "vendor": "STMicroelectronics", "country": "Italy", "city": "Agrate", "lat": 45.578, "lon": 9.356, "item": "Automotive MCU", "itemGroup": "IC", "type": "Front-End", "risk": "수에즈 운하 항로 군사 대치"},
-        {"code": "V009", "site": "Crolles Fab 300", "vendor": "STMicroelectronics", "country": "France", "city": "Crolles", "lat": 45.281, "lon": 5.882, "item": "Power Transistor", "itemGroup": "IC", "type": "Wafer Fab", "risk": "수에즈 운하 항로 군사 대치"},
-        {"code": "V010", "site": "Regensburg Automotive", "vendor": "Infineon", "country": "Germany", "city": "Regensburg", "lat": 49.013, "lon": 12.101, "item": "Power MOSFET", "itemGroup": "IC", "type": "Front-End", "risk": "독일 전력망 친환경 인프라 수급 불안정"},
-        {"code": "V011", "site": "Dresden Fab 12", "vendor": "Infineon", "country": "Germany", "city": "Dresden", "lat": 51.050, "lon": 13.737, "item": "IGBT Modules", "itemGroup": "IC", "type": "Wafer Fab", "risk": "독일 전력망 친환경 인프라 수급 불안정"},
-        {"code": "V012", "site": "Kyoto Head Plant", "vendor": "Murata", "country": "Japan", "city": "Kyoto", "lat": 34.985, "lon": 135.758, "item": "0402 MLCC", "itemGroup": "Passive", "type": "Component Production", "risk": "-"},
-        {"code": "V013", "site": "Izumo Multi-Layer", "vendor": "Murata", "country": "Japan", "city": "Izumo", "lat": 35.366, "lon": 132.753, "item": "High-Cap MLCC", "itemGroup": "Passive", "type": "Component Production", "risk": "-"},
-        {"code": "V014", "site": "Boise Fab 15", "vendor": "Micron", "country": "USA", "city": "Boise", "lat": 43.615, "lon": -116.202, "item": "Server RDIMM", "itemGroup": "Memory", "type": "Front-End", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V015", "site": "Hiroshima Fab 15", "vendor": "Micron", "country": "Japan", "city": "Hiroshima", "lat": 34.385, "lon": 132.455, "item": "LPDDR5 Memory", "itemGroup": "Memory", "type": "Wafer Fab", "risk": "-"},
-        {"code": "V016", "site": "San Jose R&D", "vendor": "Nvidia", "country": "USA", "city": "San Jose", "lat": 37.338, "lon": -121.886, "item": "AI H100 Controller", "itemGroup": "GPU", "type": "Fabless Design", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V017", "site": "Cheongju Fab M15", "vendor": "SK하이닉스", "country": "South Korea", "city": "Cheongju", "lat": 36.637, "lon": 127.489, "item": "NAND Flash Core", "itemGroup": "Memory", "type": "Front-End", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V018", "site": "Icheon Fab M16", "vendor": "SK하이닉스", "country": "South Korea", "city": "Icheon", "lat": 37.275, "lon": 127.442, "item": "HBM3E Stack", "itemGroup": "Memory", "type": "Front-End", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V019", "site": "Wuxi China Plant", "vendor": "SK하이닉스", "country": "China", "city": "Wuxi", "lat": 31.570, "lon": 120.300, "item": "Standard DRAM", "itemGroup": "Memory", "type": "Wafer Fab", "risk": "미국 정부 첨단 기술 관세 장벽"},
-        {"code": "V020", "site": "Singapore HDD Hub", "vendor": "Western Digital", "country": "Singapore", "city": "Singapore", "lat": 1.352, "lon": 103.820, "item": "Enterprise HDD", "itemGroup": "Storage", "type": "Assembly Fab", "risk": "수에즈 운하 항로 군사 대치"}
+        {"vendor": "Yageo Suzhou", "country": "China", "city": "Suzhou", "lat": 31.299, "lng": 120.585, "risk_level": "High", "comment": "에너지 배급제 제한 및 공정비 급상승"},
+        {"vendor": "Murata Izumo", "country": "Japan", "city": "Izumo", "lat": 35.366, "lng": 132.755, "risk_level": "Medium", "comment": "수출 규제 및 원가 압박 우려"},
+        {"vendor": "Seagate Johor", "country": "Malaysia", "city": "Johor", "lat": 1.485, "lng": 103.761, "risk_level": "Medium", "comment": "인수합병 실사 영향 관망"},
+        {"vendor": "InvenSense SG", "country": "Singapore", "city": "Singapore", "lat": 1.352, "lng": 103.819, "risk_level": "Low", "comment": "대체선 이원화 구축 완료"}
     ]
-
-    all_scm_locations = [dict(loc, risk="-") for loc in mock_locations]
-
+    
     geo_data = {
         "success": True,
-        "mapLocations": mock_locations,
-        "allScmLocations": all_scm_locations,
-        "riskStats": mock_risk_stats,
-        "userEmail": "doheecho@company.com",
-        "userName": "조도희",
-        "userDept": "구매기획팀"
+        "locations": mock_locations
     }
-
-    # Output to the views directory
+    
     dest_path = os.path.join(VIEWS_DIR, "geopolitics_risk.json")
     with open(dest_path, "w", encoding="utf-8") as f:
         json.dump(geo_data, f, ensure_ascii=False, indent=2)
-        
-    print(f"  - Successfully completed secure mock Geopolitics compile with {len(mock_locations)} SCM locations.")
+
+    # [신설] 지정학적 Risk 협력사 테이블 컴파일 (10개 열 대칭화 완료)
+    geopolitics_risk_partners = [
+        ["협력업체", "국가", "대표 Risk 요인", "현재 재고일수", "운송 소요일수", "물류지연 Gap", "이원화 현황", "대체 거래선 및 난이도", "비고", "Risk"],
+        ["Yageo Corporation", "Taiwan", "양안(대만해협) 봉쇄 및 군사 훈련 위기", "20일", "35일", "+15일", "이원화 검토 중 (N)", "보통 (Murata 대체)", "해상 봉쇄 대비 항공 긴급 이송 채널 사전 협약 완료", "상"],
+        ["STMicroelectronics", "Philippines", "남중국해 영유권 분쟁 및 항로 긴장 고조", "45일", "25일", "+7일", "이원화 완료 (Y)", "낮음 (Arrow 재고)", "싱가포르 경유 우회 항로 물류선 확보 적용", "중"],
+        ["TDK Corporation", "Japan", "센카쿠 열도 분쟁 및 미일 군사동맹 강화", "90일", "14일", "0일", "이원화 완료 (Y)", "낮음 (Taiyo 대체)", "안전재고 확보일수 90일 분으로 지정학 영향 없음", "하"],
+        ["Infineon Tech", "Germany", "러시아-우크라이나 가스 수급 및 전력 요동", "30일", "45일", "+14일", "이원화 완료 (Y)", "보통 (Nexperia 대체)", "홍해 수에즈 운하 우회로 운송비 전장 기부 반영 협상", "중"]
+    ]
+    geopolitics_partners_data = {
+        "success": True,
+        "geopoliticsRiskPartners": geopolitics_risk_partners
+    }
+    with open(os.path.join(VIEWS_DIR, "geopolitics_partners.json"), "w", encoding="utf-8") as f:
+        json.dump(geopolitics_partners_data, f, ensure_ascii=False, indent=2)
+
+    print(f"  - Successfully completed secure mock Geopolitics compile with {len(mock_locations)} SCM locations and 10-column partners.")
     return geo_data
 
-# =====================================================================
-# MODULE 3: 경영 안정성 (Management Stability - 정성분석 이식)
-# =====================================================================
+
 def compile_management_stability():
-    print("\n[M3] Compiling Management Stability Risk Tables (Symmetric 5-row schemas)...")
+    print("[M3] Compiling Management Stability Risk Tables (Symmetric 5-row schemas)...")
     os.makedirs(VIEWS_DIR, exist_ok=True)
     
-    # 1. 재무위험 조기경보이력 (좌측 1fr, 5개 행)
+    # 1. 경영안정 조기경보이력 (좌측 1fr, 8개 열, 5개 행)
     warning_history = [
-        ["경보일자", "협력업체", "품목군", "신용등급", "부도확률(ALT)", "자금운용 상태", "위험 요인", "Risk"],
-        ["2026-09-04", "Taiyo Yuden", "Passive", "BBB", "0.82%", "양호", "현지 부품 자회사 일시 유동성 저하", "하"],
-        ["2026-09-01", "STMicroelectronics", "IC", "A-", "0.25%", "안전", "우크라이나 가스 수급에 따른 가공비 상승", "하"],
-        ["2026-08-27", "TDK Corporation", "Passive", "BBB+", "0.45%", "양호", "부품 리드타임 지연 보전 비용 지출", "하"],
-        ["2026-08-22", "Infineon Tech", "IC", "BBB-", "1.85%", "주의", "독일 가스 할당제 실시에 따른 가동 지연 우려", "중"],
-        ["2026-08-15", "Yageo Corporation", "Passive", "CCC+", "12.40%", "위험", "어음 할인 지연 및 긴급 유동성 조달 시도", "상"]
+        ["경보일자", "협력업체", "품목군", "위험 분류", "영향 수준", "진행 상태", "경영 불안정 사유", "Risk"],
+        ["2026-09-04", "Toshiba Memory", "Memory", "M&A/지배구조", "주의", "진행중", "Kioxia 합병 추진 실사 및 미국 사모펀드 인수 실사 진행에 따른 공급선 주도권 변동 주시", "중"],
+        ["2026-09-01", "STMicroelectronics", "IC", "노사분규", "심각", "주시", "필리핀 현지 생산 공장 임금 인상 조율 결렬 및 부분 노조 태업으로 인한 OSAT 물량 인도 차질 우려", "상"],
+        ["2026-08-27", "TDK Corporation", "Passive", "승계/경영권", "경미", "완료", "창업주 일가 은퇴 및 전문경영인 이사회 승계 절차 돌입, 중장기 부품 사업 포트폴리오 영향 모니터링", "하"],
+        ["2026-08-22", "Yageo Corporation", "Passive", "경영난", "위험", "진행중", "단기 자금 유동비율 급감 및 대만 현지 은행단 긴급 워크아웃 채무 유예 조정안 실사 착수", "상"],
+        ["2026-08-15", "Murata Mfg", "Passive", "생산차질", "보통", "주시", "일본 내륙 정밀 제련 자회사 가동 제한 권고 및 핵심 원자재 공급 라인 정밀 소독 다운타임", "중"]
     ]
     
-    # 2. 글로벌 경영안정 위협요인 (우측 1fr, 5개 행)
+    # 2. 글로벌 경영안정 위협요인 (우측 1fr, 5개 행, Risk를 맨 오른쪽으로 이동)
     stability_threat_factors = [
-        ["위협 요인", "영향 품목군", "Risk", "전망", "경영안정 영향권 요약"],
-        ["국가별 ESG 공급망 실사법 도입", "전 품목군", "상", "점진적 규제 심화", "미준수 협력업체 거래 정지 및 대체선 개발 의무화"],
-        ["핵심 협력사 지배구조 불확실성", "Storage / Memory", "중", "일시적 관망세", "주요 주주 변경에 따른 가격 협상 주도권 변동 우려"],
-        ["고금리 지속 벤더 유동성 압박", "Passive / PCB", "상", "금리 인하 지연", "영세 부품 벤더 현금 흐름 악화 및 공급 중단 위험"],
-        ["원자재 국산화 거점 이전 비용", "신소재 / Metal", "중", "투자 확대 단계", "중소 벤더 설비 투자 자금 부족으로 가동 지연"],
-        ["노조 파업 및 인건비 분쟁 증가", "전 품목군", "하", "국지적 발생", "멕시코/동남아 생산 거점 임금 협상 지연 시 일시 중단"]
+        ["위협 요인", "영향 품목군", "전망", "경영안정 영향권 요약", "Risk"],
+        ["국가별 ESG 공급망 실사법 도입", "전 품목군", "점진적 규제 심화", "미준수 협력업체 거래 정지 및 대체선 개발 의무화", "상"],
+        ["핵심 협력사 지배구조 불확실성", "Storage / Memory", "일시적 관망세", "주요 주주 변경에 따른 가격 협상 주도권 변동 우려", "중"],
+        ["고금리 지속 벤더 유동성 압박", "Passive / PCB", "금리 인하 지연", "영세 부품 벤더 현금 흐름 악화 및 공급 중단 위험", "상"],
+        ["원자재 국산화 거점 이전 비용", "신소재 / Metal", "투자 확대 단계", "중소 벤더 설비 투자 자금 부족으로 가동 지연", "중"],
+        ["노조 파업 및 인건비 분쟁 증가", "전 품목군", "국지적 발생", "멕시코/동남아 생산 거점 임금 협상 지연 시 일시 중단", "하"]
     ]
     
-    # 3. 경영안정성측면 Risk 협력사 (가로 전체 사용)
+    # 3. 경영안정성측면 Risk 협력사 (가로 전체 사용, 10개 열 대칭화 완료)
     stability_risk_partners = [
-        ["협력업체", "국가", "리스크 등급", "경영안정 저해요인", "현금흐름 지표", "안전재고 확보일수", "대체선 이원화상태", "비고 요약"],
-        ["Yageo Corporation", "Taiwan", "🚨 고위험", "긴급 자금 수급 불안정", "유동비율 85% (위험)", "45일 분", "이원화 검토 중 (N)", "부도 확률 급증에 따른 선제적 BOM 이주 및 물량 분할 진행"],
-        ["STMicroelectronics", "Philippines", "⚠️ 경고", "현지 세제 혜택 일시 정지", "유동비율 120% (보통)", "60일 분", "이원화 완료 (Y)", "보조금 중단 대비 타국 생산 제품 샘플 우선 승인 적용"],
-        ["TDK Corporation", "Japan", "✅ 양호", "원자재 엔저 시황 연동 지연", "유동비율 180% (안전)", "90일 분", "이원화 완료 (Y)", "엔재평가 이익 향유로 현금 유동성 매우 우수, 조달 지장 무"],
-        ["Toshiba Memory", "Thailand", "⚠️ 경고", "지배구조 변경 실사 진행", "유동비율 105% (보통)", "30일 분", "단독 공급처 (N)", "합병 추진 추이 밀착 감시 및 비상 물량 15일 분 추가 비축"]
+        ["협력업체", "국가", "대표 Risk 요인", "年매출액(억원)", "年거래액(억원)", "당사비중", "이원화 현황", "대체 거래선 및 난이도", "비고", "Risk"],
+        ["Yageo Corporation", "Taiwan", "긴급 자금 수급 불안정", "5,200", "85", "1.6%", "이원화 검토 중 (N)", "보통 (Murata 대체)", "부도 확률 급증에 따른 선제적 BOM 이주 및 물량 분할 진행", "상"],
+        ["STMicroelectronics", "Philippines", "현지 세제 혜택 일시 정지", "21,000", "120", "0.6%", "이원화 완료 (Y)", "낮음 (Arrow 재고)", "보조금 중단 대비 타국 생산 제품 샘플 우선 승인 적용", "중"],
+        ["TDK Corporation", "Japan", "원자재 엔저 시황 연동 지연", "18,500", "90", "0.5%", "이원화 완료 (Y)", "낮음 (Taiyo 대체)", "엔재평가 이익 향유로 현금 유동성 매우 우수, 조달 지장 무", "하"],
+        ["Toshiba Memory", "Thailand", "지배구조 변경 실사 진행", "14,000", "30", "0.2%", "단독 공급처 (N)", "높음 (Samsung 대체)", "합병 추진 추이 밀착 감시 및 비상 물량 15일 분 추가 비축", "중"]
     ]
     
     stability_data = {
@@ -624,9 +560,7 @@ def compile_management_stability():
     print("  - Successfully generated symmetric Management Stability Risk structures.")
     return stability_data
 
-# =====================================================================
-# MODULE 4: 원가 · 시황 (Cost & Market Risk API Parser & Fallback)
-# =====================================================================
+
 def fetch_public_sheet_csv(spreadsheet_id, sheet_name):
     """
     Attempts to download a Google Sheet as a public CSV via pandas gviz API,
@@ -645,127 +579,91 @@ def fetch_public_sheet_csv(spreadsheet_id, sheet_name):
         return None
 
 def compile_cost_market_risk():
-    print("\n[M4] Compiling Cost & Market Risk Data...")
+    print("[M4] Compiling Cost & Market Risk Data...")
     
     # 1. Exchange Rate Indicators (Currency Sheet)
     print("  - Resolving exchange rates (USD, EUR, JPY)...")
     currency_data = None
     
-    # Attempt live sheet download
-    live_rates = fetch_public_sheet_csv(CURRENCY_SS_ID, "시황원장") # assumes sheet name
-    if live_rates and len(live_rates) >= 8:
+    live_currency = fetch_public_sheet_csv(CURRENCY_SS_ID, "환율원장")
+    if live_currency and len(live_currency) > 3:
         try:
-            # Replicate getCurrencyData() cell targeting USD (D6, J6:M6), EUR (D7, J7:M7), JPY (D8, J8:M8)
-            # In live_rates, row 0 is headers. row index matches Spreadsheet offset.
-            # Row 5 (Spreadsheet row 6): USD
-            # Row 6 (Spreadsheet row 7): EUR
-            # Row 7 (Spreadsheet row 8): JPY
             currency_data = {
-                "usd": {
-                    "today": str(live_rates[5][3]), # Column D
-                    "past1M": str(live_rates[5][9]), # Column J
-                    "past3M": str(live_rates[5][10]), # Column K
-                    "past6M": str(live_rates[5][11]), # Column L
-                    "past1Y": str(live_rates[5][12])  # Column M
-                },
-                "eur": {
-                    "today": str(live_rates[6][3]),
-                    "past1M": str(live_rates[6][9]),
-                    "past3M": str(live_rates[6][10]),
-                    "past6M": str(live_rates[6][11]),
-                    "past1Y": str(live_rates[6][12])
-                },
-                "jpy": {
-                    "today": str(live_rates[7][3]),
-                    "past1M": str(live_rates[7][9]),
-                    "past3M": str(live_rates[7][10]),
-                    "past6M": str(live_rates[7][11]),
-                    "past1Y": str(live_rates[7][12])
-                }
+                "USD": [[str(c) for c in row[1:7]] for row in live_currency[2:] if len(row) >= 7 and str(row[1]).strip()],
+                "EUR": [[str(c) for c in row[7:13]] for row in live_currency[2:] if len(row) >= 13 and str(row[7]).strip()],
+                "JPY": [[str(c) for c in row[13:19]] for row in live_currency[2:] if len(row) >= 19 and str(row[13]).strip()]
             }
         except Exception as e:
             print(f"  - Currency array parsing error: {e}. Activating market-aligned fallback.")
             
     if not currency_data:
-        # High fidelity fallback matched to current actual market trends (USD/KRW: ~1350, EUR/KRW: ~1450, JPY/KRW: ~8.8)
+        # Fallback Currency Data Slices (M-MOCK)
         currency_data = {
-            "usd": {"today": "1,350.50", "past1M": "1,340.00", "past3M": "1,328.00", "past6M": "1,315.00", "past1Y": "1,310.00"},
-            "eur": {"today": "1,452.20", "past1M": "1,438.00", "past3M": "1,422.00", "past6M": "1,410.00", "past1Y": "1,405.00"},
-            "jpy": {"today": "8.82", "past1M": "8.75", "past3M": "8.65", "past6M": "8.58", "past1Y": "8.60"}
+            "USD": [
+                ["2026-09-07", "1,340.50", "1,344.20", "1,338.10", "1,342.10", "+1.20"],
+                ["2026-09-04", "1,339.10", "1,341.50", "1,335.20", "1,340.90", "+3.50"]
+            ],
+            "EUR": [
+                ["2026-09-07", "1,485.20", "1,489.10", "1,481.50", "1,487.30", "-2.40"],
+                ["2026-09-04", "1,488.50", "1,491.20", "1,484.10", "1,489.70", "+1.10"]
+            ],
+            "JPY": [
+                ["2026-09-07", "9.32", "9.36", "9.29", "9.34", "+0.03"],
+                ["2026-09-04", "9.28", "9.31", "9.25", "9.31", "-0.01"]
+            ]
         }
-
-    with open(os.path.join(VIEWS_DIR, "currency_data.json"), "w", encoding="utf-8") as f:
-        json.dump({"success": True, "data": currency_data}, f, ensure_ascii=False, indent=2)
-
+        
     # 2. SCM Cost/Market Risk Tables
     print("  - Resolving cost tables (Sensitivity, Requests, Partners)...")
-    live_risk = fetch_public_sheet_csv(COST_MARKET_SS_ID, "원가시황Risk")
     
-    sensitivity = []
-    request_list = []
-    risk_partners = []
-    
-    if live_risk and len(live_risk) > 3:
-        try:
-            # Replicate sheet slicing: Sensitivity (Col M:R), Requests (Col B:I), Partners (Col AA:AJ)
-            # In CSV rows, header is at index 0, actual table contents start below.
-            for row in live_risk[2:]: # Starts at sheet Row 3
-                # Col M:R (Indices 12:18) - 글로벌 원가 압박 요인분석(정성)으로 변경되었으므로 시트 로딩 우회
-                pass
-                # Col B:I (Indices 1:9) - 단가인상 요청이력(정성)으로 강제 전환되므로 우회
-                pass
-                # Col AA:AJ (Indices 26:36)
-                if len(row) >= 36 and any(str(cell).strip() for cell in row[26:36]):
-                    risk_partners.append([str(c) for c in row[26:36]])
-        except Exception as e:
-            print(f"  - Live risk parsing error: {e}. Reverting to fallback.")
-            
-    # Fallback to realistic mock datasets if Sheets unavailable or empty
-    # [수정] 정성분석 고도화: '글로벌 원가 압박 요인' 정성 테이블 강제 적용 (5개 행)
+    # [수정] 글로벌 원가 압박 요인 (5개 행, Risk를 5번째 맨 우측으로 이동)
     sensitivity = [
-        ["원가 압박 요인", "영향 품목군", "Risk", "향후 추세전망", "원가영향 요약"],
-        ["중국 에너지 배급제 규제", "PCB / MLCC", "상", "지속 압박 우려", "제조 가동률 제한 대비 생산 이원화 협의 필요하며 대중 무역규제 추이를 지속 확인해야함"],
-        ["구리/알루미늄 제련비 인상", "Metal / 케이블", "중", "완만한 상승세", "LTA(장기계약) 체결로 분기 단가 고정 대응"],
-        ["OSAT 후공정 패키징가 상승", "IC / 반도체", "상", "강세 지속 전망", "단독 공급처 대상 사전 물량 6개월 선선점"],
-        ["글로벌 인력 부족 인건비 상승", "전 품목군", "중", "보합세 유지", "제조 자동화 공정 기여분 단가 반영 협상 진행"],
-        ["수출 규제 및 무역 장벽 강화", "희토류 / 신소재", "하", "일시적 완화", "대체 소재 샘플 사전 승인 완료 및 이원화 추진"]
+        ["원가 압박 요인", "영향 품목군", "향후 추세전망", "원가영향 요약", "Risk"],
+        ["중국 에너지 배급제 규제", "PCB / MLCC", "지속 압박 우려", "제조 가동률 제한 대비 생산 이원화 협의 필요하며 대중 무역규제 추이를 지속 확인해야함", "상"],
+        ["구리/알루미늄 제련비 인상", "Metal / 케이블", "완만한 상승세", "LTA(장기계약) 체결로 분기 단가 고정 대응", "중"],
+        ["OSAT 후공정 패키징가 상승", "IC / 반도체", "강세 지속 전망", "단독 공급처 대상 사전 물량 6개월 선선점", "상"],
+        ["글로벌 인력 부족 인건비 상승", "전 품목군", "보합세 유지", "제조 자동화 공정 기여분 단가 반영 협상 진행", "중"],
+        ["수출 규제 및 무역 장벽 강화", "희토류 / 신소재", "일시적 완화", "대체 소재 샘플 사전 승인 완료 및 이원화 추진", "하"]
     ]
-    # [수정] 정성분석 고도화: '단가인상 요청이력' 정성 테이블 강제 적용 (5개 행으로 너비/높이 일치화)
+    
+    # [수정] 단가인상 요청이력 (5개 행으로 너비/높이 일치화, 요청일자/협력업체/품목군/기존 단가/인상단가/인상율/인상 사유/Risk)
     request_list = [
-        ["요청일자", "협력업체", "품목군", "기존 단가", "인상 요청가", "인상율", "인상 사유", "Risk"],
+        ["요청일자", "협력업체", "품목군", "기존 단가", "인상단가", "인상율", "인상 사유", "Risk"],
         ["2026-09-05", "Yageo Corporation", "Passive", "12.40", "14.10", "13.7%", "세라믹 소재 수급 정체 및 가공비 인상", "중"],
         ["2026-09-02", "Kingston Technology", "Memory", "45.00", "52.00", "15.6%", "DRAM 기판 자재 단가 인상 반영", "상"],
         ["2026-08-28", "Amkor Tech OSAT", "PCB", "8.15", "8.90", "9.2%", "구리 CCL 원부자재 시황 인상", "하"],
         ["2026-08-25", "Nexperia Semi", "IC", "3.20", "3.85", "20.3%", "웨이퍼 서차지 단가 반영 요청", "상"],
         ["2026-08-19", "Murata Mfg", "Passive", "5.80", "6.20", "6.9%", "세라믹 파우더 인상 및 가동 전력비 급등", "중"]
     ]
-    # [수정] 정성분석 고도화: '원가·시황측면 Risk 협력사' 정성 테이블 강제 적용 (인상 영향금액 추가로 9개 열)
+    
+    # [수정] 원가·시황측면 Risk 협력사 (10개 열 칼대칭, Risk를 맨 마지막 10번째로 정렬 및 상/중/하 보정)
     risk_partners = [
-        ["협력업체", "국가", "Risk등급", "대표 Risk 요인", "연간 거래액(억원)", "인상 영향금액(억원)", "이원화 현황", "대체 거래선 및 난이도", "비고"],
-        ["Murata Izumo", "Japan", "⚠️ 경고", "수출 규제 및 원가 압박", "120", "8.2", "이원화 수립 완료", "가능 (TDK/Taiyo)", "지속 모니터링"],
-        ["Yageo Suzhou", "China", "🚨 고위험", "에너지 배급제 제한 및 공정비 급상승", "85", "11.6", "단독 공급처 (N)", "보통 (Murata 대체)", "BOM 분할 계획 수립"],
-        ["InvenSense SG", "Singapore", "✅ 양호", "소재 단가 인상 압박", "45", "4.1", "이원화 진행 중 (Y)", "낮음 (특허 독점)", "안전 재고 3개월 확보"],
-        ["Seagate Johor", "Malaysia", "⚠️ 경고", "원자재(알루미늄) 조달 제한", "150", "23.4", "단독 공급처 (N)", "높음 (WD/Toshiba)", "현장 재고 감시 강화"]
+        ["협력업체", "국가", "대표 Risk 요인", "年거래액(억원)", "인상금액(억원)", "인상율", "이원화 현황", "대체 거래선 및 난이도", "비고", "Risk"],
+        ["Murata Izumo", "Japan", "수출 규제 및 원가 압박", "120", "8.2", "6.9%", "이원화 수립 완료", "가능 (TDK/Taiyo)", "지속 모니터링", "중"],
+        ["Yageo Suzhou", "China", "에너지 배급제 제한 및 공정비 급상승", "85", "11.6", "13.7%", "단독 공급처 (N)", "보통 (Murata 대체)", "BOM 분할 계획 수립", "상"],
+        ["InvenSense SG", "Singapore", "소재 단가 인상 압박", "45", "4.1", "9.2%", "이원화 진행 중 (Y)", "낮음 (특허 독점)", "안전 재고 3개월 확보", "하"],
+        ["Seagate Johor", "Malaysia", "원자재(알루미늄) 조달 제한", "150", "23.4", "15.6%", "단독 공급처 (N)", "높음 (WD/Toshiba)", "현장 재고 감시 강화", "중"]
     ]
-
+    
     cost_market_data = {
         "success": True,
+        "exchangeUSD": currency_data.get("USD", []),
+        "exchangeEUR": currency_data.get("EUR", []),
+        "exchangeJPY": currency_data.get("JPY", []),
         "sensitivity": sensitivity,
         "requestList": request_list,
         "riskPartners": risk_partners
     }
-
+    
     with open(os.path.join(VIEWS_DIR, "cost_market_risk.json"), "w", encoding="utf-8") as f:
         json.dump(cost_market_data, f, ensure_ascii=False, indent=2)
         
     print("  - Successfully compiled Cost & Market Risk Tables.")
     return cost_market_data
 
-# =====================================================================
-# MODULE 5: SCM 조달/납기 Risk 테이블 컴파일 (신규 피처)
-# =====================================================================
+
 def compile_procurement_risk():
-    print("\n[M5] Compiling Procurement & Delivery Risk Tables...")
+    print("[M6] [M5] Compiling Procurement & Delivery Risk Tables...")
     
     # [수정] 정성분석 고도화: '리드타임 변동이력' 정성 테이블 강제 적용 (5개 행)
     lead_time_history = [
@@ -778,21 +676,24 @@ def compile_procurement_risk():
     ]
     
     # [수정] 정성분석 고도화: '글로벌 공급망 병목 요인' 정성 테이블 적용 (5개 행)
+        # [수정] 정성분석 고도화: '글로벌 공급망 병목 요인' 정성 테이블 적용 (5개 행)
     supply_disruption_risk = [
-        ["병목 요인", "영향 품목군", "Risk", "납기 지연기간", "수급영향 요약"],
-        ["반도체 패키징 기판 쇼티지", "IC / Memory", "상", "4 ~ 8주 지연", "웨이퍼 생산 완료 후 패키징 가공 대기 심화"],
-        ["유럽/미주 항만 적체 및 철도 파업", "전 품목군", "상", "2 ~ 3주 지연", "해상 선적 적체로 긴급 자재 항공 선적 전환"],
-        ["동남아 우기 기상이변", "Passive (MLCC)", "하", "1 ~ 2주 지연", "일시적 감산 후 공장 백업 라인 즉시 가동"],
-        ["동박적층판(CCL) 원자재 할당제 도입", "PCB", "중", "3 ~ 4주 지연", "원소재 메이커 공급 제한으로 기판 생산 주의"],
-        ["핵심 부품 공정 오염", "Storage", "중", "1 ~ 3주 지연", "액추에이터 생산 라인 정밀 정비로 완만한 회복"]
+        ["공급망 병목 요인", "영향 품목군", "납기 지연기간", "수급영향 요약", "Risk"],
+        ["반도체 패키징 기판 쇼티지", "IC / Memory", "4 ~ 8주 지연", "웨이퍼 생산 완료 후 패키징 가공 대기 심화", "상"],
+        ["유럽/미주 항만 적체 및 철도 파업", "전 품목군", "2 ~ 3주 지연", "해상 선적 적체로 긴급 자재 항공 선적 전환", "상"],
+        ["동남아 우기 기상이변", "Passive (MLCC)", "1 ~ 2주 지연", "일시적 감산 후 공장 백업 라인 즉시 가동", "하"],
+        ["동박적층판(CCL) 원자재 할당제 도입", "PCB", "3 ~ 4주 지연", "원소재 메이커 공급 제한으로 기판 생산 주의", "중"],
+        ["핵심 부품 공정 오염", "Storage", "1 ~ 3주 지연", "액추에이터 생산 라인 정밀 정비로 완만한 회복", "중"]
     ]
     
+        # [수정] 정성분석 고도화: '조달/납기측면 Risk 협력사' 정성 테이블 강제 적용 (10개 열로 정렬 맞춤)
+        # [수정] 정성분석 고도화: '조달/납기측면 Risk 협력사' 정성 테이블 강제 적용 (10개 열로 정렬 맞춤 및 Risk를 10번째 열로 이동)
     procurement_risk_partners = [
-        ["협력업체명", "생산 기지 국가", "리스크 등급", "조달 병목 요인", "물류 지연 수준", "안전재고 확보일수", "대체선 이원화상태", "비고 요약"],
-        ["Taiyo Yuden", "Malaysia", "🚨 고위험", "현지 인프라 정전 및 포트 적체", "심각 (+14일)", "45일 분", "이원화 검토 중 (N)", "대체 제조사 긴급 샘플 승인 진행"],
-        ["STMicroelectronics", "Philippines", "⚠️ 경고", "항공편 축소 및 세관 적체", "보통 (+5일)", "60일 분", "이원화 완료 (Y)", "대체 유통 채널(Arrow) 재고 확보"],
-        ["TDK Corporation", "Japan", "✅ 양호", "패키징 소재 수급 불안정", "경미 (+2일)", "90일 분", "이원화 완료 (Y)", "안전 재고 비축 완료로 조달 지장 없음"],
-        ["Toshiba Memory", "Thailand", "⚠️ 경고", "조립 라인 오염 정비", "보통 (+7일)", "30일 분", "단독 공급처 (N)", "완제품 입고 일정 상시 모니터링 수립"]
+        ["협력업체", "국가", "대표 Risk 요인", "현재 재고일수", "현재 리드타임", "재고일수 Gap", "이원화 현황", "대체 거래선 및 난이도", "비고", "Risk"],
+        ["Taiyo Yuden", "Malaysia", "현지 인프라 정전 및 포트 적체", "20일", "16주", "-25일", "이원화 검토 중 (N)", "보통 (Murata 대체)", "대체 제조사 긴급 샘플 승인 진행", "상"],
+        ["STMicroelectronics", "Philippines", "항공편 축소 및 세관 적체", "45일", "20주", "-15일", "이원화 완료 (Y)", "낮음 (Arrow 재고)", "대체 유통 채널(Arrow) 재고 확보", "중"],
+        ["TDK Corporation", "Japan", "패키징 소재 수급 불안정", "90일", "10주", "0일", "이원화 완료 (Y)", "낮음 (Taiyo 대체)", "안전 재고 비축 완료로 조달 지장 없음", "하"],
+        ["Toshiba Memory", "Thailand", "조립 라인 오염 정비", "20일", "12주", "-10일", "단독 공급처 (N)", "높음 (Samsung 대체)", "완제품 입고 일정 상시 모니터링 수립", "중"]
     ]
     
     procurement_data = {
@@ -811,12 +712,95 @@ def compile_procurement_risk():
 # =====================================================================
 # Dual-saving Copying Helper
 # =====================================================================
+# =====================================================================
+# MODULE 6: SCM AI Advisor & 핵심 협력사 뉴스 피드 컴파일 (정성 하이브리드)
+# =====================================================================
+def compile_ai_advisor():
+    print("[M6] Compiling SCM AI Advisor & SCM Trend Summaries from Greensheet Lake...")
+    os.makedirs(VIEWS_DIR, exist_ok=True)
+    
+    # Greensheet 마스터 데이터(master_all.json)에서 실시간으로 최근 1~2개월 기록 자동 추출
+    advice = []
+    news = []
+    total_records = 0
+    sorted_records = []
+    
+    try:
+        master_path = os.path.join(REPO_DIR, "data", "master", "master_all.json")
+        if os.path.exists(master_path):
+            with open(master_path, "r", encoding="utf-8") as mf:
+                records = json.load(mf)
+                total_records = len(records)
+                
+                # Sort records chronologically to find the latest records
+                sorted_records = sorted(records, key=lambda x: (int(x.get("year", 0)), int(x.get("month", 0))), reverse=True)
+                
+                if sorted_records:
+                    latest_year = sorted_records[0].get("year")
+                    latest_month = sorted_records[0].get("month")
+                    
+                    # Filter records for the latest 1~2 months
+                    latest_month_records = [r for r in sorted_records if r.get("year") == latest_year and r.get("month") == latest_month]
+                    
+                    # Merge previous months to get up to 50 rich records for endless loops
+                    months = sorted(list(set((int(r.get("year", 0)), int(r.get("month", 0))) for r in sorted_records)), reverse=True)
+                    if len(months) > 1:
+                        prev_year, prev_month = months[1]
+                        latest_month_records += [r for r in sorted_records if int(r.get("year", 0)) == prev_year and int(r.get("month", 0)) == prev_month]
+                    
+                    # Distribute records evenly between advice (odd indices) and news (even indices) for maximum variety!
+                    for i, r in enumerate(latest_month_records[:60]):
+                        vendors = r.get("detected_vendors", [])
+                        vendor_str = ", ".join(vendors) if vendors else "글로벌"
+                        cat = r.get("category", "공통")
+                        subheading = r.get("subheading", "").strip()
+                        if not subheading:
+                            subheading = r.get("text", "").strip()
+                        if len(subheading) > 110:
+                            subheading = subheading[:107] + "..."
+                        
+                        formatted_line = f"[{vendor_str}] {cat}: {subheading}"
+                        
+                        if i % 2 == 0:
+                            advice.append(formatted_line)
+                        else:
+                            news.append(formatted_line)
+                        
+    except Exception as e:
+        print(f"  - SCM Heuristic master data parsing warning: {e}")
+
+    # Fallback actual monthly records if master_all.json is empty or errored
+    if not advice:
+        advice = [
+            "[Yageo] Passive: 중국 에너지 배급제 규제 여파로 Suzhou 라인 가동률 소폭 둔화 우려",
+            "[TDK] Passive: 안전 재고 비축 완료 및 TDK Izumo 공장 정상 가동으로 국지 영향 최소화",
+            "[Infineon] Semi: 홍해 수에즈 운하 우회로 인한 독일 내륙 물류비 상승, 분기 원가 협상 착수"
+        ]
+    if not news:
+        news = [
+            "[STMicro] IC: 필리핀 세관 신규 전산 시스템 개정으로 일시적 통관 대기 및 항공 적체 발생",
+            "[Toshiba] Storage: 사모펀드 JIP 지배구조 실사 종료 단계 진입으로 합병 추이 장기 관망",
+            "[Analog Devices] IC: 기습적인 아날로그 IC 단가 및 부자재 비용 연쇄 상승 인상 통보 포착"
+        ]
+    
+    advisor_data = {
+        "success": True,
+        "advice": advice,
+        "news": news
+    }
+    
+    with open(os.path.join(VIEWS_DIR, "ai_advisor.json"), "w", encoding="utf-8") as f:
+        json.dump(advisor_data, f, ensure_ascii=False, indent=2)
+        
+    print(f"  - Successfully compiled SCM AI Advisor with {len(advice)} advice and {len(news)} news raw records.")
+    return advisor_data
+
 def run_dual_saving_sync():
     """
     Dual-saves compiled results from data/ directory directly into CLI backup
     directory to ensure strict compliance with storage guidelines.
     """
-    print("\n[Sync] Dual Saving Compiled Results to CLI Backup Directory...")
+    print("[M6] [Sync] Dual Saving Compiled Results to CLI Backup Directory...")
     try:
         import shutil
         backup_views = os.path.join(CLI_BACKUP_DIR, "views")
@@ -853,10 +837,13 @@ def main():
     compile_cost_market_risk()
     compile_procurement_risk()
     
-    # 5. Dual Saving Synchronization
+    # 5. Compile Module 6: SCM AI Advisor & 핵심 협력사 뉴스 피드
+    compile_ai_advisor()
+    
+    # 6. Dual Saving Synchronization
     run_dual_saving_sync()
     
-    print("\n=========================================================")
+    print("[M6] =========================================================")
     print("✨ ALL 4 PIPELINE MODULES SUCCESSFUL & PRE-COMPILED (0ms Load)")
     print("=========================================================")
 

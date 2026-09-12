@@ -745,12 +745,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
     /* SCM Risk 대시보드 전용 Deep Sky Blue 헤더색 일체화 매칭 */
     #dashboard-main-title {
-      color: #1428A0 !important; /* 라이트모드 디폴트: 삼성 블루 (#1428A0) */
+      color: var(--srm-text) !important; /* 라이트모드 디폴트: 다른 대목과 동일한 검은색 정합 */
       font-weight: 700 !important;
       transition: color 0.15s ease;
     }
     #dashboard-main-title i {
-      color: #1428A0 !important;
+      color: var(--srm-text) !important;
       transition: color 0.15s ease;
     }
     body.dark-theme #dashboard-main-title,
@@ -1011,27 +1011,34 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       border-collapse: collapse;
       font-size: 0.88rem !important; /* 0.74rem에서 요인지표 이름 크기(0.88rem)와 일대일 깔맞춤 상향 처리! */
       color: var(--srm-text);
-      min-width: max-content;
+      table-layout: fixed; /* [수정] 모든 열의 가로 너비를 완전 균등하게 맞춰줌 */
     }
     .market-table th {
       background-color: var(--srm-surface-2) !important;
       color: var(--srm-text-secondary);
       font-weight: 700;
-      padding: 10px 12px;
+      padding: 8px 6px;
       border: 1px solid var(--srm-border);
       position: sticky;
       top: 0;
       z-index: 10;
-      font-size: 0.88rem !important; /* 표 헤더 제목 폰트 크기 동시 상향 */
+      font-size: 0.82rem !important; /* 가로 너비 균등 정렬에 따라 헤더 서체 소폭 압축 */
+      word-break: break-all;
+      white-space: normal !important;
     }
     .market-table td {
-      padding: 8px 12px;
+      padding: 8px 6px;
       border: 1px solid var(--srm-border);
       background-color: var(--srm-surface) !important;
-      font-size: 0.88rem !important; /* 표 내용 셀 폰트 크기 동시 상향 */
+      font-size: 0.82rem !important; /* 가로 너비 균등 정렬에 따라 내용 서체 소폭 압축 */
+      word-break: break-all;
+      white-space: normal !important;
     }
     .market-table tr:hover td {
       background-color: var(--srm-row-hover) !important;
+    }
+    .market-table tr.table-row-danger:hover td {
+      background-color: rgba(239, 68, 68, 0.18) !important;
     }
 
     /* 지진 시뮬레이션 관련 커스텀 CSS */
@@ -1468,47 +1475,77 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
   <div class="dashboard-scroll-container">
     <main class="wrap">
-      <!-- 1. KPI 요약 패널 (● 동그라미 기호 이식 완료!) -->
-      <section class="kpi-grid">
-        <div class="kpi-card" id="kpi-card-상" onclick="toggleKpiFilter('상', this)">
-          <div class="info">
-            <span class="label"><span class="text-danger fw-bold me-1" style="font-size: 1.1rem;">●</span>Risk 상 (경고)</span>
-            <div id="kpi-high-count-box" class="d-flex align-items-baseline gap-1 flex-wrap">
-              <!-- Loaded dynamically -->
+      <!-- 1. [대혁신] KPI 요약 (좌측 1/3, 가로 3열) 및 SCM 주요 동향 (우측 2/3) 초밀착 Symmetrical 110px 패널 -->
+      <div class="row g-4 mb-4">
+        <!-- 좌측 1/3 (col-md-4): 단일 카드 내부에 가로 3개 열로 배치된 Risk 상, 중, 하 요약 (총 높이 110px 칼정치) -->
+        <div class="col-md-4">
+          <div class="kpi-card d-flex flex-column" style="height: 110px; padding: 16px !important; cursor: default !important; justify-content: center;">
+            <!-- 대칭 헤더 (SCM 주요 동향 헤더와 칼패딩 및 점선 높이 100% 일치, 셋 다 완벽 왼쪽 정렬) -->
+            <div class="row w-100" style="margin: 0; padding: 0; border-bottom: 1px dashed var(--srm-border); padding-bottom: 4px; margin-bottom: 6px;">
+              <div class="col-4 text-start fw-bold" style="padding: 0; padding-right: 12px; font-size: 0.85rem; color: #ef4444; white-space: nowrap;">
+                Risk 상 (경고)
+              </div>
+              <div class="col-4 text-start fw-bold" style="padding: 0; padding-left: 12px; padding-right: 12px; font-size: 0.85rem; color: #f59e0b; white-space: nowrap;">
+                Risk 중 (주의)
+              </div>
+              <div class="col-4 text-start fw-bold" style="padding: 0; padding-left: 12px; font-size: 0.85rem; color: #10b981; white-space: nowrap;">
+                Risk 하 (양호)
+              </div>
+            </div>
+            <!-- 수량 및 컬러링 서클 로우 (텍스트와 헤더가 세로로 완벽한 왼쪽 정렬 및 하이비저블 대형 아이콘 이식) -->
+            <div class="row w-100" style="margin: 0; padding: 0; align-items: center; flex-grow: 1; height: calc(100% - 24px);">
+              <!-- Risk 상 -->
+              <div class="col-4 d-flex align-items-center justify-content-between" id="kpi-card-상" onclick="toggleKpiFilter('상', this)" style="cursor: pointer; border-right: 1px dashed var(--srm-border); padding: 0; padding-right: 12px; height: 100%;">
+                <span style="font-size: 0.8rem; font-weight: 600; color: var(--srm-text-secondary); white-space: nowrap;"><span id="kpi-high-count-box" style="font-size: 1.25rem; font-weight: 700; color: #ef4444; margin-right: 2px;">1</span>개 협력사</span>
+                <!-- 빨간동그라미 안에 하얀 느낌표 (크기 2배 대형화) -->
+                <div class="d-flex align-items-center justify-content-center text-white" style="width: 26px; height: 26px; border-radius: 50%; background-color: #ef4444; font-size: 1.15rem; font-weight: 900; font-family: sans-serif; line-height: 1; flex-shrink: 0; margin-left: 6px;">!</div>
+              </div>
+              <!-- Risk 중 -->
+              <div class="col-4 d-flex align-items-center justify-content-between" id="kpi-card-중" onclick="toggleKpiFilter('중', this)" style="cursor: pointer; border-right: 1px dashed var(--srm-border); padding: 0; padding-left: 12px; padding-right: 12px; height: 100%;">
+                <span style="font-size: 0.8rem; font-weight: 600; color: var(--srm-text-secondary); white-space: nowrap;"><span id="kpi-warn-count-box" style="font-size: 1.25rem; font-weight: 700; color: #f59e0b; margin-right: 2px;">2</span>개 협력사</span>
+                <!-- 노란 세모 안에 하얀 느낌표 (크기 2배 대형화) -->
+                <div class="position-relative d-flex align-items-center justify-content-center" style="width: 26px; height: 26px; flex-shrink: 0; margin-left: 6px;">
+                  <i class="bi bi-triangle-fill" style="color: #f59e0b !important; font-size: 1.75rem; line-height: 1;"></i>
+                  <span class="position-absolute text-white fw-bold" style="font-size: 1.05rem; top: 4px; font-family: sans-serif; font-weight: 900 !important;">!</span>
+                </div>
+              </div>
+              <!-- Risk 하 -->
+              <div class="col-4 d-flex align-items-center justify-content-between" id="kpi-card-하" onclick="toggleKpiFilter('하', this)" style="cursor: pointer; padding: 0; padding-left: 12px; height: 100%;">
+                <span style="font-size: 0.8rem; font-weight: 600; color: var(--srm-text-secondary); white-space: nowrap;"><span id="kpi-low-count-box" style="font-size: 1.25rem; font-weight: 700; color: #10b981; margin-right: 2px;">1</span>개 협력사</span>
+                <!-- 초록색 방패 안에 하얀 v자 (크기 2배 대형화) -->
+                <div class="position-relative d-flex align-items-center justify-content-center" style="width: 26px; height: 26px; flex-shrink: 0; margin-left: 6px;">
+                  <i class="bi bi-shield-fill text-success" style="font-size: 1.65rem; line-height: 1;"></i>
+                  <span class="position-absolute text-white fw-bold" style="font-size: 1.05rem; top: 2px; font-weight: 900 !important;">✓</span>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="icon-box bg-danger-subtle text-danger"><i class="bi bi-exclamation-octagon-fill"></i></div>
         </div>
-        <div class="kpi-card" id="kpi-card-중" onclick="toggleKpiFilter('중', this)">
-          <div class="info">
-            <span class="label"><span class="text-warning fw-bold me-1" style="font-size: 1.1rem; color: #f59e0b !important;">●</span>Risk 중 (주의)</span>
-            <div id="kpi-warn-count-box" class="d-flex align-items-baseline gap-1 flex-wrap">
-              <!-- Loaded dynamically -->
-            </div>
-          </div>
-          <div class="icon-box bg-warning-subtle text-warning" style="background-color: rgba(245,158,11,0.15) !important; color: #f59e0b !important;"><i class="bi bi-exclamation-triangle-fill"></i></div>
-        </div>
-        <div class="kpi-card" id="kpi-card-하" onclick="toggleKpiFilter('하', this)">
-          <div class="info">
-            <span class="label"><span class="text-success fw-bold me-1" style="font-size: 1.1rem;">●</span>Risk 하 (양호)</span>
-            <div id="kpi-low-count-box" class="d-flex align-items-baseline gap-1 flex-wrap">
-              <!-- Loaded dynamically -->
-            </div>
-          </div>
-          <div class="icon-box bg-success-subtle text-success"><i class="bi bi-shield-fill-check"></i></div>
-        </div>
-        <div class="kpi-card" style="cursor: default !important;">
-          <div class="info">
-            <span class="label">모니터링 총 부품수</span>
-            <div id="kpi-total-count-box" class="d-flex align-items-baseline gap-1 flex-wrap">
-              <!-- Loaded dynamically -->
-            </div>
-          </div>
-          <div class="icon-box bg-secondary-subtle text-secondary" style="background-color: var(--srm-surface-2) !important; color: var(--srm-text-secondary) !important;"><i class="bi bi-grid-3x3-gap-fill"></i></div>
-        </div>
-      </section>
 
-
+        <!-- 우측 2/3 (col-md-8): SCM 주요 동향 카드 (중복 대제목/아이콘 100% 삭제 및 3줄 확대 렌더링 전격 탑재) -->
+        <div class="col-md-8">
+          <div class="block p-3 d-flex flex-column" style="height: 110px; padding: 16px !important; justify-content: center; margin: 0; border: 1.5px solid var(--srm-border) !important; border-radius: 12px;">
+            <div class="fw-bold text-dark w-100 text-start mb-1" style="font-size: 0.85rem; color: var(--srm-text) !important; border-bottom: 1px dashed var(--srm-border); padding-bottom: 4px; display: flex; align-items: center; justify-content: space-between;">
+              <span><i class="bi bi-robot me-1 text-primary animate-pulse"></i>SCM 주요 동향</span>
+            </div>
+            
+            <div class="row g-3" style="flex-grow: 1; height: calc(100% - 24px); align-items: center; margin: 0; padding: 0;">
+              <!-- 좌측 반: Market Intelligence 슬라이더 (부제목/아이콘 100% 삭제, 순수 본문 3줄 세로 중앙 정배치) -->
+              <div class="col-6 d-flex flex-column" style="border-right: 1px dashed var(--srm-border); padding-right: 15px; height: 100%; justify-content: center; margin: 0;">
+                <div id="scm-ai-advice-container" style="text-align: left; font-size: 0.74rem; color: var(--srm-text); line-height: 1.4; opacity: 1; transition: opacity 0.3s ease; margin: 0;">
+                  <div class="text-muted text-center" style="font-size: 0.7rem;">로딩 중…</div>
+                </div>
+              </div>
+              <!-- 우측 반: SCM Trend Summary 슬라이더 (부제목/아이콘 100% 삭제, 순수 본문 3줄 세로 중앙 정배치) -->
+              <div class="col-6 d-flex flex-column" style="padding-left: 15px; height: 100%; justify-content: center; margin: 0;">
+                <div id="scm-macro-news-container" style="text-align: left; font-size: 0.74rem; color: var(--srm-text); line-height: 1.4; opacity: 1; transition: opacity 0.3s ease; margin: 0;">
+                  <div class="text-muted text-center" style="font-size: 0.7rem;">로딩 중…</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <!-- 2. SCM Map 지정학 중심 통제 블록 (꽉 찬 가로세로 스케일) -->
       <section class="block" id="scm-map-block" style="padding: 16px 20px !important;">
@@ -1518,7 +1555,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </h3>
         <div id="scm-map-block-content" style="margin-top: 10px;">
         
-        <!-- SCM 통합 관리를 가로 4분할 격자형 계기판 포털로 대체 구현하는 패널 신설 (세로 높이 460px로 여유롭게 확장하여 상세 텍스트 수용!) -->
+        <!-- SCM 통합 관리를 가로 4분할 격자형 계기판 포털로 대체 구현하는 패널 신설 (원안 4대 계기판 가로 정적 복원 마감!) -->
         <div id="unified-portal-panel" class="row g-4 mb-2" style="display: flex !important;">
           <!-- 4개의 분할 카드로 구성 (각 주요 리스크 명칭의 폰트 크기를 대제목 0.95rem 크기와 칼대칭 일치!) -->
           <div class="col-md-3">
@@ -1619,6 +1656,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </div>
 
       </section>
+      <!-- [신설] 지정학적 Risk 협력사 (가로 전체 사용) -->
+      <section class="block mb-4" id="geopolitics-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+        <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
+          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>지정학적 Risk 협력사</span>
+          <button type="button" id="geopolitics-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleGeopoliticsRpCollapse()">접기</button>
+        </h3>
+        <div id="geopolitics-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
+          <div class="market-table-wrapper" id="geopolitics-risk-partners-root" style="flex-grow: 1; min-height: 0; overflow-y: auto;">
+            <div class="loading text-center py-5">데이터 불러오는 중…</div>
+          </div>
+        </div>
+      </section>
+
       <!-- 3. 주요 시황 요인지표 섹션 블록 (네모난 탭 격자망 수립) -->
       <section class="block mt-3 mb-4" id="market-factors-block" style="display: none; padding: 16px 20px !important;">
         <h3 id="dashboard-market-factors-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
@@ -1669,11 +1719,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- 4. 원가·시황측면 Risk 협력사 섹션 블록 (가로 전체 사용) -->
       <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
         <h3 id="dashboard-market-partners-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
-          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>원가·시황측면 Risk 협력사</span>
+          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>원가·시황 Risk 협력사</span>
           <button type="button" id="market-risk-partners-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleMarketRiskPartnersCollapse()">접기</button>
         </h3>
         <div id="market-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
-          <div class="market-table-wrapper" id="market-risk-partners-root" style="flex-grow: 1;">
+          <div class="market-table-wrapper" id="market-risk-partners-root" style="flex-grow: 1; min-height: 0; overflow-y: auto;">
             <div class="loading text-center py-5">데이터 불러오는 중…</div>
           </div>
         </div>
@@ -1683,7 +1733,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <section class="block mb-4" id="stability-tables-split-row" style="display: none; padding: 16px 20px !important;">
         <!-- 상단 헤더: 전체를 접기 위한 버튼과 타이틀 영역 -->
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
-          <span><i class="bi bi-shield-shaded me-1 text-primary"></i>경영안정성 요인 상세분석</span>
+          <span><i class="bi bi-shield-shaded me-1 text-primary"></i>경영 안정성 요인 상세분석</span>
           <button type="button" id="stability-combined-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleStabilityCombinedCollapse()">접기</button>
         </h3>
         
@@ -1691,10 +1741,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <div id="stability-tables-combined-content">
           <!-- 가로 5분할 Grid (1fr 1fr 대칭) -->
           <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
-            <!-- 재무위험 조기경보이력 (좌측 1fr) -->
+            <!-- 경영안정 조기경보이력 (좌측 1fr) -->
             <div id="stability-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
               <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
-                <i class="bi bi-activity-fill me-1 text-danger"></i>재무위험 조기경보이력
+                <i class="bi bi-building-exclamation me-1 text-danger"></i>협력사 이슈 센싱이력
               </h4>
               <div class="market-table-wrapper" id="stability-lt-root" style="flex-grow: 1;">
                 <div class="loading text-center py-4">조기경보 이력 로딩 중…</div>
@@ -1704,7 +1754,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             <!-- 글로벌 경영안정 위협요인 (우측 1fr) -->
             <div id="stability-sensitivity-panel" style="height: 330px; display: flex; flex-direction: column;">
               <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
-                <i class="bi bi-shield-exclamation me-1 text-warning"></i>글로벌 경영안정 위협요인
+                <i class="bi bi-shield-exclamation me-1 text-warning"></i>경영 안정성 위협요인
               </h4>
               <div class="market-table-wrapper" id="stability-sc-root" style="flex-grow: 1;">
                 <div class="loading text-center py-4">위협요인 로딩 중…</div>
@@ -1717,11 +1767,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- [신설] 경영안정성측면 Risk 협력사 (가로 전체 사용) -->
       <section class="block mb-4" id="stability-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
-          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>경영안정성측면 Risk 협력사</span>
+          <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>경영 안정성 Risk 협력사</span>
           <button type="button" id="stability-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleStabilityRpCollapse()">접기</button>
         </h3>
         <div id="stability-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
-          <div class="market-table-wrapper" id="stability-risk-partners-root" style="flex-grow: 1;">
+          <div class="market-table-wrapper" id="stability-risk-partners-root" style="flex-grow: 1; min-height: 0; overflow-y: auto;">
             <div class="loading text-center py-5">데이터 불러오는 중…</div>
           </div>
         </div>
@@ -1920,7 +1970,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <!-- 글로벌 공급망 병목 요인 (우측 2칸) -->
           <div id="procurement-sensitivity-panel" style="height: 330px; display: flex; flex-direction: column;">
             <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
-              <i class="bi bi-exclamation-octagon-fill me-1 text-warning"></i>글로벌 공급망 병목 요인
+              <i class="bi bi bi-hourglass-split me-1 text-warning"></i>글로벌 공급망 병목 요인
             </h4>
             <div class="market-table-wrapper" id="procurement-sc-root" style="flex-grow: 1;">
               <div class="loading text-center py-4">공급망 병목 로딩 중…</div>
@@ -1933,11 +1983,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     <!-- [신설] 조달/납기측면 Risk 협력사 (가로 전체 사용) -->
     <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
       <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
-        <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달·납기측면 Risk 협력사</span>
+        <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달·납기 Risk 협력사</span>
         <button type="button" id="dl-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleRpCollapse()">접기</button>
       </h3>
       <div id="procurement-risk-partners-content-container" style="flex-grow: 1; display: flex; flex-direction: column; margin-top: 10px;">
-        <div class="market-table-wrapper" id="procurement-risk-partners-root" style="flex-grow: 1;">
+        <div class="market-table-wrapper" id="procurement-risk-partners-root" style="flex-grow: 1; min-height: 0; overflow-y: auto;">
           <div class="loading text-center py-5">데이터 불러오는 중…</div>
         </div>
       </div>
@@ -2305,6 +2355,28 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
                         .then(successHandler)
                         .catch(failureHandler);
                     },
+                    getAiAdvisorData: function() {
+                      const urls = [
+                        './data/views/ai_advisor.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/ai_advisor.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/ai_advisor.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/ai_advisor.json' + cacheBuster
+                      ];
+                      fetchWithFallback(urls)
+                        .then(successHandler)
+                        .catch(failureHandler);
+                    },
+                    getGeopoliticsRiskData: function() {
+                      const urls = [
+                        './data/views/geopolitics_partners.json' + cacheBuster,
+                        'https://doheecho.github.io/market-report/data/views/geopolitics_partners.json' + cacheBuster,
+                        'https://cdn.jsdelivr.net/gh/doheecho/market-report@main/data/views/geopolitics_partners.json' + cacheBuster,
+                        'https://raw.githubusercontent.com/doheecho/market-report/main/data/views/geopolitics_partners.json' + cacheBuster
+                      ];
+                      fetchWithFallback(urls)
+                        .then(successHandler)
+                        .catch(failureHandler);
+                    },
                     getStabilityRiskData: function() {
                       const urls = [
                         './data/views/stability_risk.json' + cacheBuster,
@@ -2459,6 +2531,46 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     window.__TYPHOON_PATH_LAYERS = [];
     window.__TYPHOON_STRENGTH = null;
 
+    // [신설] 상단 3열 KPI 요약 단추 클릭 시 실시간 시각 필터 가동 핸들러
+    let activeKpiFilter = null;
+    window.toggleKpiFilter = function(level, element) {
+      console.log("SCM KPI Filter selected:", level);
+      
+      const cols = ["kpi-card-상", "kpi-card-중", "kpi-card-하"];
+      
+      if (activeKpiFilter === level) {
+        activeKpiFilter = null;
+        // Restore opacity on all cards
+        cols.forEach(id => {
+          const el = document.getElementById(id);
+          if (el) el.style.opacity = "1";
+        });
+        // Clear global filters if any
+        window.__ACTIVE_KPI_FILTER = null;
+      } else {
+        activeKpiFilter = level;
+        window.__ACTIVE_KPI_FILTER = level;
+        // Dim other card columns
+        cols.forEach(id => {
+          const el = document.getElementById(id);
+          if (el) {
+            if (id === `kpi-card-${level}`) el.style.opacity = "1";
+            else el.style.opacity = "0.45";
+          }
+        });
+      }
+      
+      // Force map and table elements to refresh with the selected risk level
+      if (typeof window.filterScmLocationsByRisk === 'function') {
+        window.filterScmLocationsByRisk(activeKpiFilter);
+      } else {
+        // Fallback: Redraw maps or let Leaflet handle layers
+        if (typeof window.initialize === 'function') {
+          // If you have a general draw function, call it here
+        }
+      }
+    };
+
     function initialize() {
       if (typeof renderHeaderUI === 'function') {
         renderHeaderUI(serverBootstrap.user, "SCM Risk관리 대시보드", serverBootstrap.menu);
@@ -2546,6 +2658,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const majorTimelineBlock = document.getElementById("major-timeline-block");
       const stabilitySplit = document.getElementById("stability-tables-split-row");
       const stabilityPartners = document.getElementById("stability-risk-partners-block");
+      const geoPartners = document.getElementById("geopolitics-risk-partners-block");
 
       // Hide all panels initially
       mapBlock.style.display = "none";
@@ -2556,6 +2669,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       if (majorTimelineBlock) majorTimelineBlock.style.display = "none";
       if (stabilitySplit) stabilitySplit.style.display = "none";
       if (stabilityPartners) stabilityPartners.style.display = "none";
+      if (geoPartners) geoPartners.style.display = "none";
 
       const procSplit = document.getElementById("procurement-tables-split-row");
       const procPartners = document.getElementById("procurement-risk-partners-block");
@@ -2574,6 +2688,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         mapBlock.style.display = "block";
         mapPanel.style.setProperty("display", "block", "important");
         unifiedPanel.style.setProperty("display", "none", "important");
+        if (geoPartners) geoPartners.style.display = "flex";
+        if (typeof window.loadGeopoliticsRiskTables === 'function') {
+          window.loadGeopoliticsRiskTables();
+        }
         mainTitle.innerHTML = `<i class="bi bi-globe-asia-australia me-1 text-danger"></i>지정학적 Risk Map`;   
 
         if (map) {
@@ -2604,14 +2722,14 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         }
       } else if (category === "② 경영 안정성 Risk" || category === "경영 안정성") {
         if (stabilitySplit) stabilitySplit.style.display = "block";
-        if (stabilityPartners) stabilityPartners.style.display = "block";
+        if (stabilityPartners) stabilityPartners.style.display = "flex";
         
         if (typeof window.loadStabilityRiskTables === 'function') {
           window.loadStabilityRiskTables();
         }
       } else if (category === "③ 원가·시황 Risk" || category === "원가 · 시황") {
         splitRow.style.display = "block"; // 원부자재 가격 동향 및 주요 환율 민감도 3fr 2fr 분할 노출
-        partnersBlock.style.display = "block"; // 원가/시황측면 Risk 협력사 노출
+        partnersBlock.style.display = "flex"; // 원가/시황측면 Risk 협력사 노출
       } else if (category === "④ 조달·납기 Risk" || category === "조달 · 납기") {
         if (procSplit) procSplit.style.display = "block"; // 리드타임 변동이력 + 공급 차질 Risk 노출
         if (procPartners) procPartners.style.display = "flex"; // 조달/납기측면 Risk 협력사 노출
@@ -2714,7 +2832,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       drawHalfDonutGauge("gauge-canvas-cost", 68);      // 원가 · 시황
       drawHalfDonutGauge("gauge-canvas-procurement", 18); // 조달 · 납기
 
-      // 2) 각 계기판 하단 주요 활성 리스크 목록 텍스트 동적 분사 바인딩!
+      // 2) [신설] SCM AI Advisor 및 핵심 뉴스 피드 정적 JSON 원장 데이터 로드 가동!
+      if (typeof window.loadScmAiAdvisorData === 'function') {
+        window.loadScmAiAdvisorData();
+      }
+
+      // 3) 각 계기판 하단 주요 활성 리스크 목록 텍스트 동적 분사 바인딩 복원!
       renderGaugeTextDetails(geoScore);
     }
 
@@ -3554,74 +3677,37 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     /**
      * KPI 집계 연산 및 펄싱 알림 노출 (★지정학 탭 외 타 카테고리는 무조건 0으로 표출!)
      */
+
     function calculateKPIs() {
       const highVendors = new Set();
-      const highParts = new Set();
       const warnVendors = new Set();
-      const warnParts = new Set();
       const lowVendors = new Set();
-      const lowParts = new Set();
-      const totalParts = new Set();
-      
-      const riskLevelMap = {};
-      riskStats.forEach(stat => {
-        riskLevelMap[stat.name] = stat.level; 
-      });
 
-      // 사용자 피드백 반영: 오직 '지정학' 탭 활성화 시에만 KPI 실집계 처리! 그 외 4개 탭은 무조건 공란(0) 처리!
-      const locationsForKpi = (currentTopCategory.includes('지정학')) ? mapLocations : [];
+      const scmData = mapLocations || [];
+      scmData.forEach(site => {
+        const vendor = String(site.vendor || "").trim();
+        const level = String(site.risk_level || "").trim();
 
-      locationsForKpi.forEach(row => {
-        const level = riskLevelMap[row.risk] || '하';
-        const vendor = String(row.vendor || "").trim();
-        const itemGroup = String(row.itemGroup || "").trim();
-        
-        if (itemGroup && itemGroup !== '-' && itemGroup !== '미분류') totalParts.add(itemGroup);
-        
-        if (level === '상' || level.includes("🚨") || level.includes("고위험")) {
+        if (level === '상' || level.includes("High") || level.includes("🚨") || level.includes("심각") || level.includes("고위험")) {
           if (vendor && vendor !== '-' && vendor !== '미분류') highVendors.add(vendor);
-          if (itemGroup && itemGroup !== '-' && itemGroup !== '미분류') highParts.add(itemGroup);
-        } else if (level === '중' || level.includes("⚠️") || level.includes("경고")) {
+        } else if (level === '중' || level.includes("Medium") || level.includes("⚠️") || level.includes("경고") || level.includes("주의") || level.includes("조치")) {
           if (vendor && vendor !== '-' && vendor !== '미분류') warnVendors.add(vendor);
-          if (itemGroup && itemGroup !== '-' && itemGroup !== '미분류') warnParts.add(itemGroup);
         } else {
           if (vendor && vendor !== '-' && vendor !== '미분류') lowVendors.add(vendor);
-          if (itemGroup && itemGroup !== '-' && itemGroup !== '미분류') lowParts.add(itemGroup);
         }
       });
 
-      // 심각 (Risk 상)
-      document.getElementById("kpi-high-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: #ef4444;">${highVendors.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 협력사</span>
-        <span style="font-size: 0.8rem; color: var(--srm-text-secondary); font-weight: normal; margin-left: 3px; margin-right: 3px;">/</span>
-        <span style="font-size: 1.8rem; font-weight: 700; color: #ef4444;">${highParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
+      // 경고 (Risk 상)
+      const highBox = document.getElementById("kpi-high-count-box");
+      if (highBox) highBox.innerHTML = `${highVendors.size}`;
 
-      // 경고 (Risk 중)
-      document.getElementById("kpi-warn-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: #f59e0b;">${warnVendors.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 협력사</span>
-        <span style="font-size: 0.8rem; color: var(--srm-text-secondary); font-weight: normal; margin-left: 3px; margin-right: 3px;">/</span>
-        <span style="font-size: 1.8rem; font-weight: 700; color: #f59e0b;">${warnParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
+      // 주의 (Risk 중)
+      const warnBox = document.getElementById("kpi-warn-count-box");
+      if (warnBox) warnBox.innerHTML = `${warnVendors.size}`;
 
       // 양호 (Risk 하)
-      document.getElementById("kpi-low-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: #10b981;">${lowVendors.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 협력사</span>
-        <span style="font-size: 0.8rem; color: var(--srm-text-secondary); font-weight: normal; margin-left: 3px; margin-right: 3px;">/</span>
-        <span style="font-size: 1.8rem; font-weight: 700; color: #10b981;">${lowParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
-
-      // 모니터링 총 부품수
-      document.getElementById("kpi-total-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: var(--srm-text);">${totalParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
+      const lowBox = document.getElementById("kpi-low-count-box");
+      if (lowBox) lowBox.innerHTML = `${lowVendors.size}`;
     }
 
     /**
@@ -3629,16 +3715,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
      */
     function updateSimulationKPIs(affectedSites) {
       const highVendors = new Set();
-      const highParts = new Set();
       const warnVendors = new Set();
-      const warnParts = new Set();
       const lowVendors = new Set();
-      const lowParts = new Set();
       
       affectedSites.forEach(site => {
         const vendor = String(site.vendor || "").trim();
-        // 품목군 병합 추출 (쉼표 파싱)
-        const partFamilies = site.combinedItemGroups ? site.combinedItemGroups.split(',').map(s => s.trim()).filter(Boolean) : [];
         
         // 각 타격 시뮬레이션 영향도 등급별 색상 교차 판별 상, 중, 하 분배
         const isHigh = (site.impactColor === '#be123c' || site.impactColor === '#ef4444' || site.impactColor === '#4c0519');
@@ -3646,43 +3727,27 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         
         if (isHigh) {
           if (vendor) highVendors.add(vendor);
-          partFamilies.forEach(p => highParts.add(p));
         } else if (isWarn) {
           if (vendor) warnVendors.add(vendor);
-          partFamilies.forEach(p => warnParts.add(p));
         } else {
           if (vendor) lowVendors.add(vendor);
-          partFamilies.forEach(p => lowParts.add(p));
         }
       });
       
-      // 심각 (Risk 상)
-      document.getElementById("kpi-high-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: #ef4444;">${highVendors.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 협력사</span>
-        <span style="font-size: 0.8rem; color: var(--srm-text-secondary); font-weight: normal; margin-left: 3px; margin-right: 3px;">/</span>
-        <span style="font-size: 1.8rem; font-weight: 700; color: #ef4444;">${highParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
-      
-      // 경고 (Risk 중)
-      document.getElementById("kpi-warn-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: #f59e0b;">${warnVendors.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 협력사</span>
-        <span style="font-size: 0.8rem; color: var(--srm-text-secondary); font-weight: normal; margin-left: 3px; margin-right: 3px;">/</span>
-        <span style="font-size: 1.8rem; font-weight: 700; color: #f59e0b;">${warnParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
-      
+      // 경고 (Risk 상)
+      const highBox = document.getElementById("kpi-high-count-box");
+      if (highBox) highBox.innerHTML = `${highVendors.size}`;
+
+      // 주의 (Risk 중)
+      const warnBox = document.getElementById("kpi-warn-count-box");
+      if (warnBox) warnBox.innerHTML = `${warnVendors.size}`;
+
       // 양호 (Risk 하)
-      document.getElementById("kpi-low-count-box").innerHTML = `
-        <span style="font-size: 1.8rem; font-weight: 700; color: #10b981;">${lowVendors.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 협력사</span>
-        <span style="font-size: 0.8rem; color: var(--srm-text-secondary); font-weight: normal; margin-left: 3px; margin-right: 3px;">/</span>
-        <span style="font-size: 1.8rem; font-weight: 700; color: #10b981;">${lowParts.size}</span>
-        <span style="font-size: 0.78rem; color: var(--srm-text-secondary); font-weight: 500; margin-left: 1px;">개 품목군</span>
-      `;
+      const lowBox = document.getElementById("kpi-low-count-box");
+      if (lowBox) lowBox.innerHTML = `${lowVendors.size}`;
     }
+
+    
 
     function escapeHtml(s) {
       return String(s == null ? '' : s).replace(/[&<>"']/g, function (m) {
@@ -4028,14 +4093,70 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const headers = dataArray[0];
       const rows = dataArray.slice(1);
 
-      let html = `<table class="market-table"><thead><tr>`;
+      let colgroup = "";
+      if (rootElementId === "market-requests-root" || rootElementId === "procurement-lt-root" || rootElementId === "stability-lt-root") {
+        colgroup = `
+          <colgroup>
+            <col style="width: 10%;">
+            <col style="width: 17%;">
+            <col style="width: 10%;">
+            <col style="width: 9%;">
+            <col style="width: 9%;">
+            <col style="width: 9%;">
+            <col style="width: 31%;">
+            <col style="width: 5%;">
+          </colgroup>
+        `;
+      } else if (rootElementId === "market-sensitivity-root" || rootElementId === "procurement-sc-root" || rootElementId === "stability-sc-root") {
+        colgroup = `
+          <colgroup>
+            <col style="width: 25%;">
+            <col style="width: 15%;">
+            <col style="width: 15%;">
+            <col style="width: 40%;">
+            <col style="width: 5%;">
+          </colgroup>
+        `;
+      } else if (rootElementId === "market-risk-partners-root" || rootElementId === "procurement-risk-partners-root" || rootElementId === "stability-risk-partners-root" || rootElementId === "geopolitics-risk-partners-root") {
+        colgroup = `
+          <colgroup>
+            <col style="width: 10%;">
+            <col style="width: 5%;">
+            <col style="width: 20%;">
+            <col style="width: 6%;">
+            <col style="width: 6%;">
+            <col style="width: 6%;">
+            <col style="width: 10%;">
+            <col style="width: 10%;">
+            <col style="width: 24%;">
+            <col style="width: 3%;">
+          </colgroup>
+        `;
+      }
+
+      let html = `<table class="market-table">`;
+      if (colgroup) {
+        html += colgroup;
+      }
+      html += `<thead><tr>`;
       headers.forEach(h => {
-        html += `<th>${escapeHtml(h)}</th>`;
+        let thAlign = "";
+        if (h === "Risk" || h === "Risk등급" || h === "리스크 등급") {
+          thAlign = ' style="text-align: center;"';
+        }
+        html += `<th${thAlign}>${escapeHtml(h)}</th>`;
       });
       html += `</tr></thead><tbody>`;
 
       rows.forEach(r => {
-        html += `<tr>`;
+        const riskColIdx = headers.indexOf("Risk");
+        const isHighRisk = (riskColIdx !== -1 && r[riskColIdx] === "상");
+        let rowClass = "";
+        if (isHighRisk) {
+          rowClass = ' class="table-row-danger"';
+        }
+
+        html += `<tr${rowClass}>`;
         r.forEach(cell => {
           let cellText = cell;
           if (cell instanceof Date) {
@@ -4050,17 +4171,34 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           }
           
           let displayHtml = escapeHtml(cellText);
+          let alignStyle = "";
           
           // 위성/지정학 레벨 배지와 동일한 색상 그라데이션 가이드 (상/중/하 하이라이팅 처리)
           if (cellText === "상" || cellText === "🚨" || cellText === "고위험" || String(cellText).includes("🚨")) {
             displayHtml = `<span class="badge bg-danger-subtle text-danger border border-danger-subtle px-2 py-1">${displayHtml}</span>`;
+            alignStyle = 'text-align: center;';
           } else if (cellText === "중" || cellText === "⚠️" || cellText === "경고" || String(cellText).includes("⚠️")) {
             displayHtml = `<span class="badge bg-warning-subtle text-warning border border-warning-subtle px-2 py-1" style="background-color:rgba(245,158,11,0.15) !important; color:#f59e0b !important; border-color:rgba(245,158,11,0.2) !important;">${displayHtml}</span>`;
+            alignStyle = 'text-align: center;';
           } else if (cellText === "하" || cellText === "✅" || cellText === "양호") {
             displayHtml = `<span class="badge bg-success-subtle text-success border border-success-subtle px-2 py-1">${displayHtml}</span>`;
+            alignStyle = 'text-align: center;';
           }
 
-          html += `<td>${displayHtml}</td>`;
+          // Combine background and text-align properties cleanly to override td important bg!
+          let finalStyle = "";
+          let styles = [];
+          if (isHighRisk) {
+            styles.push("background-color: rgba(239, 68, 68, 0.05) !important;"); // Extremely light warning red
+          }
+          if (alignStyle) {
+            styles.push(alignStyle);
+          }
+          if (styles.length > 0) {
+            finalStyle = ` style="${styles.join(" ")}"`;
+          }
+
+          html += `<td${finalStyle}>${displayHtml}</td>`;
         });
         html += `</tr>`;
       });
@@ -6025,6 +6163,146 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const btn = document.getElementById("stability-combined-collapse-btn");
       if (target.style.display === "none") {
         target.style.display = "block";
+        btn.textContent = "접기";
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+      }
+    };
+
+    let loadedGeopoliticsTablesData = null;
+
+    let loadedScmAiAdvisorData = null;
+
+    window.loadScmAiAdvisorData = function(forceReload) {
+      const adviceContainer = document.getElementById("scm-ai-advice-container");
+      const newsContainer = document.getElementById("scm-macro-news-container");
+
+      if (loadedScmAiAdvisorData && !forceReload) {
+        renderScmAiAdvisor(loadedScmAiAdvisorData);
+      } else {
+        if (adviceContainer) adviceContainer.innerHTML = '<div class="text-muted text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>AI 조언 로딩 중…</div>';
+        if (newsContainer) newsContainer.innerHTML = '<div class="text-muted text-center py-4"><div class="spinner-border text-success spinner-border-sm me-2" role="status"></div>뉴스 피드 로딩 중…</div>';
+
+        google.script.run.withSuccessHandler(res => {
+          if (res.success) {
+            loadedScmAiAdvisorData = res;
+            renderScmAiAdvisor(loadedScmAiAdvisorData);
+          } else {
+            const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.74rem;">로딩 실패</div>';
+            if (adviceContainer) adviceContainer.innerHTML = errHtml;
+            if (newsContainer) newsContainer.innerHTML = errHtml;
+          }
+        }).withFailureHandler(err => {
+          const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.74rem;">서버 통신 실패</div>';
+          if (adviceContainer) adviceContainer.innerHTML = errHtml;
+          if (newsContainer) newsContainer.innerHTML = errHtml;
+        }).getAiAdvisorData();
+      }
+    };
+
+    let currentAdviceIdx = 0;
+    let adviceList = [];
+    let adviceTimer = null;
+
+    let currentNewsIdx = 0;
+    let newsList = [];
+    let newsTimer = null;
+
+    function renderScmAiAdvisor(res) {
+      if (res.advice && res.advice.length > 0) {
+        adviceList = res.advice;
+        currentAdviceIdx = 0;
+        if (adviceTimer) clearInterval(adviceTimer);
+        renderCurrentAdvice();
+        adviceTimer = setInterval(() => {
+          currentAdviceIdx = (currentAdviceIdx + 1) % adviceList.length;
+          renderCurrentAdvice();
+        }, 3000); // 3초마다 좌측 스크롤 기동
+      }
+
+      if (res.news && res.news.length > 0) {
+        newsList = res.news;
+        currentNewsIdx = 0;
+        if (newsTimer) clearInterval(newsTimer);
+        
+        // 엇갈려 돌리기 (Staggered Slide): 우측 피드는 좌측보다 정확히 1.5초 엇갈려 회전하여 눈의 피로를 최소화!
+        setTimeout(() => {
+          renderCurrentNews();
+          newsTimer = setInterval(() => {
+            currentNewsIdx = (currentNewsIdx + 1) % newsList.length;
+            renderCurrentNews();
+          }, 3000); // 3초마다 우측 스크롤 기동
+        }, 1500);
+      }
+    }
+
+    function renderCurrentAdvice() {
+      const container = document.getElementById("scm-ai-advice-container");
+      if (!container || adviceList.length === 0) return;
+
+      const item = adviceList[currentAdviceIdx];
+      
+      container.style.opacity = 0;
+      setTimeout(() => {
+        container.innerHTML = `
+          <div style="font-size: 0.75rem; line-height: 1.4; color: var(--srm-text); font-weight: 500; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; height: 50px; padding: 0; margin: 0;" title="${escapeHtml(item)}">
+            ${escapeHtml(item)}
+          </div>
+        `;
+        container.style.opacity = 1;
+      }, 300);
+    }
+
+    function renderCurrentNews() {
+      const container = document.getElementById("scm-macro-news-container");
+      if (!container || newsList.length === 0) return;
+
+      const item = newsList[currentNewsIdx];
+      
+      container.style.opacity = 0;
+      setTimeout(() => {
+        container.innerHTML = `
+          <div style="font-size: 0.75rem; line-height: 1.4; color: var(--srm-text); font-weight: 500; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis; height: 50px; padding: 0; margin: 0;" title="${escapeHtml(item)}">
+            ${escapeHtml(item)}
+          </div>
+        `;
+        container.style.opacity = 1;
+      }, 300);
+    }
+
+    window.loadGeopoliticsRiskTables = function(forceReload) {
+      const partnerRoot = document.getElementById("geopolitics-risk-partners-root");
+
+      if (loadedGeopoliticsTablesData && !forceReload) {
+        renderGeopoliticsRiskTables(loadedGeopoliticsTablesData);
+      } else {
+        if (partnerRoot) partnerRoot.innerHTML = '<div class="loading text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>지정학 협력사 로딩 중…</div>';
+
+        google.script.run.withSuccessHandler(res => {
+          if (res.success) {
+            loadedGeopoliticsTablesData = res;
+            renderGeopoliticsRiskTables(loadedGeopoliticsTablesData);
+          } else {
+            const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.8rem;">데이터 로드 실패: ' + (res.message || "알 수 없는 오류") + '</div>';
+            if (partnerRoot) partnerRoot.innerHTML = errHtml;
+          }
+        }).withFailureHandler(err => {
+          const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.8rem;">서버 통신 실패: ' + err.message + '</div>';
+          if (partnerRoot) partnerRoot.innerHTML = errHtml;
+        }).getGeopoliticsRiskData();
+      }
+    };
+
+    function renderGeopoliticsRiskTables(tablesData) {
+      renderCustomTable("geopolitics-risk-partners-root", tablesData.geopoliticsRiskPartners);
+    }
+
+    window.toggleGeopoliticsRpCollapse = function() {
+      const target = document.getElementById("geopolitics-risk-partners-content-container");
+      const btn = document.getElementById("geopolitics-rp-collapse-btn");
+      if (target.style.display === "none") {
+        target.style.display = "flex";
         btn.textContent = "접기";
       } else {
         target.style.display = "none";
