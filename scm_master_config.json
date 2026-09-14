@@ -1,4 +1,8 @@
 {
+  "sheets_config": {
+    "enable_sheets_fetch": false,
+    "currency_ss_id": "15mDVNS3jFIX4mNdu0OEHMTaHgDbwvNDSmBp7OxHsH9k"
+  },
   "vendor_mappings": [
     {"pattern": "samsung|삼성|삼성전자", "representative": "삼성"},
     {"pattern": "micron|마이크론", "representative": "Micron"},
