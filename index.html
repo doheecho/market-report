@@ -4095,7 +4095,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const rows = dataArray.slice(1);
 
       let colgroup = "";
-      if (rootElementId === "market-requests-root" || rootElementId === "procurement-lt-root" || rootElementId === "stability-lt-root") {
+      if (rootElementId === "stability-lt-root") {
+        colgroup = `
+          <colgroup>
+            <col style="width: 10%;">
+            <col style="width: 17%;">
+            <col style="width: 10%;">
+            <col style="width: 18%;">
+            <col style="width: 9%;">
+            <col style="width: 31%;">
+            <col style="width: 5%;">
+          </colgroup>
+        `;
+      } else if (rootElementId === "market-requests-root" || rootElementId === "procurement-lt-root") {
         colgroup = `
           <colgroup>
             <col style="width: 10%;">
