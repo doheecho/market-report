@@ -1343,7 +1343,9 @@
     "section_raw": "AVX의 페낭 공장 셧다운",
     "subheading": "AVX의 페낭 공장 셧다운",
     "text": "AVX의 페낭 생산 공장이 2월 1일부터 10일까지 셧다운되었다는 소식을 들었습니다. 셧다운의 원인이 공식 발표되지 않은 가운데, 코로나 확진자 발생 후 완전한 방역이 이루어질 때까지 공장 가동을 중단했다는 소문이 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AVX"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1358,7 +1360,9 @@
     "section_raw": "AVX의 페낭 공장 셧다운",
     "subheading": "AVX의 페낭 공장 셧다운",
     "text": "이 생산 공장은 AVX 산하의 최대 규모이자 가장 첨단화된 MLCC 공장 중 하나로, 자동차용 MLCC 생산 전문 공장입니다. 월간 생산 능력은 수십억 규모입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AVX"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2877,7 +2881,9 @@
     "section_raw": "커패시터 공급제한",
     "subheading": "커패시터 공급제한",
     "text": "마찬가지로, AVX의 탄탈 커패시터는 코로나19 팬데믹의 영향을 크게 받았습니다. 엘살바도르 공장이 현재 폐쇄된 상황이 수요 증가와 맞물려 공급이 제한되는 상황에 기여하고 있습니다 리드 타임은 여전히 길지만, AVX는 견적에 따른 납품 요건을 충족하고 있으며 생산이 서서히 회복되기 시작하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AVX"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],

@@ -86,6 +86,7 @@
     {
       "date": "2020.06",
       "detected_vendors": [
+        "AVX",
         "Panasonic"
       ],
       "risk_level": "Medium",
@@ -4764,6 +4765,7 @@
     {
       "date": "2024.10",
       "detected_vendors": [
+        "AVX",
         "Murata"
       ],
       "risk_level": "High",

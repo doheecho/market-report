@@ -1000,6 +1000,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     }
     .market-table-wrapper {
       flex-grow: 1;
+      min-height: 0; /* Ensures proper scroll activation within flexbox parents */
       overflow-y: auto;
       overflow-x: auto;
       border: 1px solid var(--srm-border);

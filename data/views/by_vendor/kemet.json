@@ -142,6 +142,7 @@
     "subheading": "리드 타임 연장 및 할당",
     "text": "AVX 및 Kemet 탄탈륨 커패시터의 리드타임은 24~28주에 달합니다.",
     "detected_vendors": [
+      "AVX",
       "Kemet"
     ],
     "detected_keywords": [

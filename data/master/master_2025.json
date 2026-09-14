@@ -437,7 +437,9 @@
     "section_raw": "패시브 부품 높은 수요로 리드 타임 연장",
     "subheading": "패시브 부품 높은 수요로 리드 타임 연장",
     "text": "AVX의 탄탈륨 커패시터는 16~28주의 짧은 리드 타임을 제공하여 대체 옵션으로 고려될 수 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "AVX"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -5409,6 +5411,7 @@
     "subheading": "리드 타임 연장 및 할당",
     "text": "AVX 및 Kemet 탄탈륨 커패시터의 리드타임은 24~28주에 달합니다.",
     "detected_vendors": [
+      "AVX",
       "Kemet"
     ],
     "detected_keywords": [
