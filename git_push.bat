@@ -1,20 +1,20 @@
-﻿@echo off
+@echo off
 chcp 65001 >nul
 echo =========================================================
-echo SCM Risk관리 GITHUB 자동 푸시 에이전트 가동
+echo SCM Risk GITHUB Auto Push Agent
 echo =========================================================
 cd /d "%~dp0"
 
-echo [1/3] 변경된 로컬 파일 탐색 및 스테이징 - git add 중...
+echo [1/3] Staging changes - git add .
 git add .
 
-echo [2/3] 변경 사항 로컬 커밋 - git commit 중...
-git commit -m "대시보드 레이아웃 및 60:40 비율 최적화 완료"
+echo [2/3] Committing changes - git commit
+git commit -m "Auto Refactor: Layout and split ratio 60:40 refinements"
 
-echo [3/3] 원격 GITHUB 저장소로 안전하게 푸시 - git push 중...
+echo [3/3] Pushing to GitHub - git push
 git push origin main --force
 
 echo =========================================================
-echo 원격 저장소 동기화 완료! 30초 후 대시보드가 반영됩니다.
+echo Sync Completed! GitHub Pages will update in 30 seconds.
 echo =========================================================
 pause
