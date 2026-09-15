@@ -969,14 +969,14 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     /* ===== 요인지표 하위 가로 5분할 (3fr 2fr Split) 및 커스텀 테이블 스타일 ===== */
     .market-grid-split {
       display: grid;
-      grid-template-columns: 1fr 1fr; /* [수정] 좌측 50%, 우측 50% 동일 너비로 정렬 */
+      grid-template-columns: 3fr 2fr; /* 60:40 Split ratio */
       gap: 16px;
       margin-top: 20px;
       margin-bottom: 20px;
     }
     @media (max-width: 992px) {
       .market-grid-split {
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr;
       }
     }
     .market-table-card {
@@ -984,7 +984,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       border: 1px solid var(--srm-border) !important;
       border-radius: 12px;
       padding: 16px;
-      height: 380px;
+      height: auto;
+      min-height: 380px;
       display: flex;
       flex-direction: column;
       box-shadow: var(--srm-shadow-sm);
@@ -1000,6 +1001,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     }
     .market-table-wrapper {
       flex-grow: 1;
+      min-height: 0; /* Ensures proper scroll activation within flexbox parents */
       overflow-y: auto;
       overflow-x: auto;
       border: 1px solid var(--srm-border);
@@ -1037,8 +1039,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     .market-table tr:hover td {
       background-color: var(--srm-row-hover) !important;
     }
+    .market-table tr.table-row-danger td {
+      background-color: rgba(239, 68, 68, 0.05) !important;
+    }
     .market-table tr.table-row-danger:hover td {
-      background-color: rgba(239, 68, 68, 0.18) !important;
+      background-color: rgba(239, 68, 68, 0.15) !important; /* Slightly darker warning red hover */
     }
 
     /* 지진 시뮬레이션 관련 커스텀 CSS */
@@ -1559,38 +1564,38 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <div id="unified-portal-panel" class="row g-4 mb-2" style="display: flex !important;">
           <!-- 4개의 분할 카드로 구성 (각 주요 리스크 명칭의 폰트 크기를 대제목 0.95rem 크기와 칼대칭 일치!) -->
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-globe me-1 text-danger"></i>지정학적 Risk</div>
               <canvas id="gauge-canvas-geo" width="220" height="130" style="margin-top: 10px;"></canvas>
               <!-- 주요 텍스트 리스크 정보 카드 영역 배치 -->
-              <div id="gauge-details-geo" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-geo" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- G.A.S로부터 수합되어 들어오는 실시간 리스크 보드 -->
               </div>
             </div>
           </div>
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-activity me-1 text-warning"></i>경영 안정성 Risk</div>
               <canvas id="gauge-canvas-stability" width="220" height="130" style="margin-top: 10px;"></canvas>
-              <div id="gauge-details-stability" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-stability" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- 경영안정성 모의 리포트 보드 -->
               </div>
             </div>
           </div>
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-cash-coin me-1 text-primary"></i>원가·시황 Risk</div>
               <canvas id="gauge-canvas-cost" width="220" height="130" style="margin-top: 10px;"></canvas>
-              <div id="gauge-details-cost" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-cost" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- 원가·시황 모의 리포트 보드 -->
               </div>
             </div>
           </div>
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-truck me-1 text-success"></i>조달·납기 Risk</div>
               <canvas id="gauge-canvas-procurement" width="220" height="130" style="margin-top: 10px;"></canvas>
-              <div id="gauge-details-procurement" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-procurement" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- 조달·납기 모의 리포트 보드 -->
               </div>
             </div>
@@ -1657,7 +1662,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       </section>
       <!-- [신설] 지정학적 Risk 협력사 (가로 전체 사용) -->
-      <section class="block mb-4" id="geopolitics-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <section class="block mb-4" id="geopolitics-risk-partners-block" style="display: none; margin-top: 16px; height: auto; display: flex; flex-direction: column; padding: 16px 20px !important;">
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>지정학적 Risk 협력사</span>
           <button type="button" id="geopolitics-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleGeopoliticsRpCollapse()">접기</button>
@@ -1692,7 +1697,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <!-- 접히는 대상이 될 컨텐츠 영역 -->
         <div id="market-tables-combined-content">
           <!-- 가로 5분할 Grid -->
-          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px; grid-template-columns: 6fr 4fr;">
+          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
             <!-- 단가인상 요청이력 (좌측 3칸) -->
             <div id="market-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
               <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
@@ -1717,7 +1722,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       </section>
 
       <!-- 4. 원가·시황측면 Risk 협력사 섹션 블록 (가로 전체 사용) -->
-      <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: auto; display: flex; flex-direction: column; padding: 16px 20px !important;">
         <h3 id="dashboard-market-partners-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>원가·시황 Risk 협력사</span>
           <button type="button" id="market-risk-partners-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleMarketRiskPartnersCollapse()">접기</button>
@@ -1740,7 +1745,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <!-- 접히는 대상이 될 컨텐츠 영역 -->
         <div id="stability-tables-combined-content">
           <!-- 가로 5분할 Grid (1fr 1fr 대칭) -->
-          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px; grid-template-columns: 6fr 4fr;">
+          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
             <!-- 경영안정 조기경보이력 (좌측 1fr) -->
             <div id="stability-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
               <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
@@ -1765,7 +1770,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       </section>
 
       <!-- [신설] 경영안정성측면 Risk 협력사 (가로 전체 사용) -->
-      <section class="block mb-4" id="stability-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <section class="block mb-4" id="stability-risk-partners-block" style="display: none; margin-top: 16px; height: auto; display: flex; flex-direction: column; padding: 16px 20px !important;">
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>경영 안정성 Risk 협력사</span>
           <button type="button" id="stability-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleStabilityRpCollapse()">접기</button>
@@ -1956,7 +1961,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- 접히는 대상이 될 컨텐츠 영역 -->
       <div id="procurement-tables-combined-content">
         <!-- 가로 5분할 Grid -->
-        <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px; grid-template-columns: 6fr 4fr;">
+        <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
           <!-- 리드타임 변동이력 (좌측 3칸) -->
           <div id="procurement-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
             <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
@@ -1981,7 +1986,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     </section>
 
     <!-- [신설] 조달/납기측면 Risk 협력사 (가로 전체 사용) -->
-    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: auto; display: flex; flex-direction: column; padding: 16px 20px !important;">
       <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
         <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달·납기 Risk 협력사</span>
         <button type="button" id="dl-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleRpCollapse()">접기</button>
@@ -2585,6 +2590,41 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     }
 
     /**
+     * SCM Risk 대시보드 전 모듈 백그라운드 비동기 선적재(Preloading) 엔진
+     */
+    function preloadAllModulesAsynchronously() {
+      // 1) SCM 주요 동향 및 AI Advisor 선적재 (즉시 가동)
+      if (typeof window.loadScmAiAdvisorData === 'function') {
+        setTimeout(() => { window.loadScmAiAdvisorData(); }, 50);
+      }
+      
+      // 2) 지정학적 Risk 협력사 테이블 선적재
+      if (typeof window.loadGeopoliticsRiskTables === 'function') {
+        setTimeout(() => { window.loadGeopoliticsRiskTables(); }, 150);
+      }
+      
+      // 3) 경영 안정성 Risk 상세분석 테이블 및 협력사 테이블 선적재
+      if (typeof window.loadStabilityRiskTables === 'function') {
+        setTimeout(() => { window.loadStabilityRiskTables(); }, 250);
+      }
+      
+      // 4) 조달 · 납기 Risk 상세분석 테이블 및 협력사 테이블 선적재
+      if (typeof window.loadProcurementRiskTables === 'function') {
+        setTimeout(() => { window.loadProcurementRiskTables(); }, 350);
+      }
+      
+      // 5) Market Intelligence 주요 시황 지수 & 환율 데이터 선적재
+      if (typeof window.loadMarketFactors === 'function') {
+        setTimeout(() => { window.loadMarketFactors(); }, 450);
+      }
+      
+      // 6) Market Intelligence 시장 동향 리포트(The Greensheet) 및 타임라인 데이터 선적재
+      if (typeof window.initDlViewModule === 'function') {
+        setTimeout(() => { window.initDlViewModule(); }, 550);
+      }
+    }
+
+    /**
      * G.A.S 서버로부터 SCM 지정학 데이터 수집
      */
     function loadScmRiskDashboard() {
@@ -2603,12 +2643,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           // 통합 관리 탭 계기판 활성화 런타임 가동
           filterByTopCategory(currentTopCategory);
           
-          // ★ [백그라운드 비동기 적재 개시] 원가 · 시황 데이터를 백그라운드에서 미리 preloading하여 탭 전환 딜레이 제거!
-          setTimeout(function() {
-            if (typeof window.loadMarketFactors === 'function') {
-              window.loadMarketFactors();
-            }
-          }, 350);
+          // ★ [백그라운드 비동기 선적재] SCM 전 모듈 백그라운드 비동기 선적재 전격 통합 가동하여 탭 전환 딜레이 제거!
+          preloadAllModulesAsynchronously();
         } else {
           alert("데이터 수집 실패: " + res.message);
         }
@@ -4094,17 +4130,29 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const rows = dataArray.slice(1);
 
       let colgroup = "";
-      if (rootElementId === "market-requests-root" || rootElementId === "procurement-lt-root" || rootElementId === "stability-lt-root") {
+      if (rootElementId === "stability-lt-root") {
         colgroup = `
           <colgroup>
+            <col style="width: 8%;">
+            <col style="width: 17%;">
             <col style="width: 10%;">
+            <col style="width: 18%;">
+            <col style="width: 9%;">
+            <col style="width: 34%;">
+            <col style="width: 4%;">
+          </colgroup>
+        `;
+      } else if (rootElementId === "market-requests-root" || rootElementId === "procurement-lt-root") {
+        colgroup = `
+          <colgroup>
+            <col style="width: 8%;">
             <col style="width: 17%;">
             <col style="width: 10%;">
             <col style="width: 9%;">
             <col style="width: 9%;">
             <col style="width: 9%;">
-            <col style="width: 31%;">
-            <col style="width: 5%;">
+            <col style="width: 34%;">
+            <col style="width: 4%;">
           </colgroup>
         `;
       } else if (rootElementId === "market-sensitivity-root" || rootElementId === "procurement-sc-root" || rootElementId === "stability-sc-root") {
@@ -4112,9 +4160,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <colgroup>
             <col style="width: 25%;">
             <col style="width: 15%;">
-            <col style="width: 15%;">
-            <col style="width: 40%;">
-            <col style="width: 5%;">
+            <col style="width: 12%;">
+            <col style="width: 42%;">
+            <col style="width: 6%;">
           </colgroup>
         `;
       } else if (rootElementId === "market-risk-partners-root" || rootElementId === "procurement-risk-partners-root" || rootElementId === "stability-risk-partners-root" || rootElementId === "geopolitics-risk-partners-root") {
@@ -4128,8 +4176,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             <col style="width: 6%;">
             <col style="width: 10%;">
             <col style="width: 10%;">
-            <col style="width: 24%;">
-            <col style="width: 3%;">
+            <col style="width: 24.5%;">
+            <col style="width: 2.5%;">
           </colgroup>
         `;
       }
@@ -4188,9 +4236,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           // Combine background and text-align properties cleanly to override td important bg!
           let finalStyle = "";
           let styles = [];
-          if (isHighRisk) {
-            styles.push("background-color: rgba(239, 68, 68, 0.05) !important;"); // Extremely light warning red
-          }
           if (alignStyle) {
             styles.push(alignStyle);
           }
@@ -6218,7 +6263,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         adviceTimer = setInterval(() => {
           currentAdviceIdx = (currentAdviceIdx + 1) % adviceList.length;
           renderCurrentAdvice();
-        }, 3000); // 3초마다 좌측 스크롤 기동
+        }, 6000); // 3초마다 좌측 스크롤 기동
       }
 
       if (res.news && res.news.length > 0) {
@@ -6232,8 +6277,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           newsTimer = setInterval(() => {
             currentNewsIdx = (currentNewsIdx + 1) % newsList.length;
             renderCurrentNews();
-          }, 3000); // 3초마다 우측 스크롤 기동
-        }, 1500);
+          }, 6000); // 3초마다 우측 스크롤 기동
+        }, 3000);
       }
     }
 
