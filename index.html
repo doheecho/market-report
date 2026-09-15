@@ -2586,6 +2586,41 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     }
 
     /**
+     * SCM Risk 대시보드 전 모듈 백그라운드 비동기 선적재(Preloading) 엔진
+     */
+    function preloadAllModulesAsynchronously() {
+      // 1) SCM 주요 동향 및 AI Advisor 선적재 (즉시 가동)
+      if (typeof window.loadScmAiAdvisorData === 'function') {
+        setTimeout(() => { window.loadScmAiAdvisorData(); }, 50);
+      }
+      
+      // 2) 지정학적 Risk 협력사 테이블 선적재
+      if (typeof window.loadGeopoliticsRiskTables === 'function') {
+        setTimeout(() => { window.loadGeopoliticsRiskTables(); }, 150);
+      }
+      
+      // 3) 경영 안정성 Risk 상세분석 테이블 및 협력사 테이블 선적재
+      if (typeof window.loadStabilityRiskTables === 'function') {
+        setTimeout(() => { window.loadStabilityRiskTables(); }, 250);
+      }
+      
+      // 4) 조달 · 납기 Risk 상세분석 테이블 및 협력사 테이블 선적재
+      if (typeof window.loadProcurementRiskTables === 'function') {
+        setTimeout(() => { window.loadProcurementRiskTables(); }, 350);
+      }
+      
+      // 5) Market Intelligence 주요 시황 지수 & 환율 데이터 선적재
+      if (typeof window.loadMarketFactors === 'function') {
+        setTimeout(() => { window.loadMarketFactors(); }, 450);
+      }
+      
+      // 6) Market Intelligence 시장 동향 리포트(The Greensheet) 및 타임라인 데이터 선적재
+      if (typeof window.initDlViewModule === 'function') {
+        setTimeout(() => { window.initDlViewModule(); }, 550);
+      }
+    }
+
+    /**
      * G.A.S 서버로부터 SCM 지정학 데이터 수집
      */
     function loadScmRiskDashboard() {
@@ -2604,12 +2639,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           // 통합 관리 탭 계기판 활성화 런타임 가동
           filterByTopCategory(currentTopCategory);
           
-          // ★ [백그라운드 비동기 적재 개시] 원가 · 시황 데이터를 백그라운드에서 미리 preloading하여 탭 전환 딜레이 제거!
-          setTimeout(function() {
-            if (typeof window.loadMarketFactors === 'function') {
-              window.loadMarketFactors();
-            }
-          }, 350);
+          // ★ [백그라운드 비동기 선적재] SCM 전 모듈 백그라운드 비동기 선적재 전격 통합 가동하여 탭 전환 딜레이 제거!
+          preloadAllModulesAsynchronously();
         } else {
           alert("데이터 수집 실패: " + res.message);
         }
