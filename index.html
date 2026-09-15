@@ -976,7 +976,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     }
     @media (max-width: 992px) {
       .market-grid-split {
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr;
       }
     }
     .market-table-card {
@@ -1692,7 +1692,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <!-- 접히는 대상이 될 컨텐츠 영역 -->
         <div id="market-tables-combined-content">
           <!-- 가로 5분할 Grid -->
-          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px; grid-template-columns: 6fr 4fr;">
+          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
             <!-- 단가인상 요청이력 (좌측 3칸) -->
             <div id="market-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
               <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
@@ -1740,7 +1740,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <!-- 접히는 대상이 될 컨텐츠 영역 -->
         <div id="stability-tables-combined-content">
           <!-- 가로 5분할 Grid (1fr 1fr 대칭) -->
-          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px; grid-template-columns: 6fr 4fr;">
+          <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
             <!-- 경영안정 조기경보이력 (좌측 1fr) -->
             <div id="stability-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
               <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
@@ -1956,7 +1956,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       <!-- 접히는 대상이 될 컨텐츠 영역 -->
       <div id="procurement-tables-combined-content">
         <!-- 가로 5분할 Grid -->
-        <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px; grid-template-columns: 6fr 4fr;">
+        <div class="market-grid-split" style="margin-top: 10px; margin-bottom: 0; gap: 20px;">
           <!-- 리드타임 변동이력 (좌측 3칸) -->
           <div id="procurement-requests-panel" style="height: 330px; display: flex; flex-direction: column;">
             <h4 style="font-size: 0.88rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center;">
