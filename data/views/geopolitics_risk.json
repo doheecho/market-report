@@ -2,40 +2,84 @@
   "success": true,
   "locations": [
     {
-      "vendor": "Yageo Suzhou",
+      "vendor": "Sun-Tech PCB",
       "country": "China",
       "city": "Suzhou",
       "lat": 31.299,
       "lng": 120.585,
       "risk_level": "High",
-      "comment": "에너지 배급제 제한 및 공정비 급상승"
+      "comment": "대 중국 수출 규제 및 통상 마찰"
     },
     {
-      "vendor": "Murata Izumo",
+      "vendor": "Peta-Tech Electronics",
+      "country": "China",
+      "city": "Suzhou",
+      "lat": 31.102,
+      "lng": 121.411,
+      "risk_level": "High",
+      "comment": "중국 핵심광물 수출 통제"
+    },
+    {
+      "vendor": "K-Circuit Corporation",
       "country": "Japan",
       "city": "Izumo",
       "lat": 35.366,
       "lng": 132.755,
       "risk_level": "Medium",
-      "comment": "수출 규제 및 원가 압박 우려"
+      "comment": "일본 남해 해구 대지진 우려"
     },
     {
-      "vendor": "Seagate Johor",
-      "country": "Malaysia",
-      "city": "Johor",
-      "lat": 1.485,
-      "lng": 103.761,
-      "risk_level": "Medium",
-      "comment": "인수합병 실사 영향 관망"
+      "vendor": "Globi-Tech Inc",
+      "country": "Israel",
+      "city": "Haifa",
+      "lat": 32.794,
+      "lng": 34.989,
+      "risk_level": "High",
+      "comment": "중동 전쟁 및 해상 물류 봉쇄"
+    }
+  ],
+  "riskStats": [
+    {
+      "name": "일본 지진",
+      "level": "하",
+      "desc": "환태평양 조산대 및 난카이 해구·도호쿠 단층대에 위치한 일본 정밀 전자소재, 웨이퍼, 수동소자 등 제조 거점의 지진 발생에 따른 공급 중단 Risk",
+      "vendorCount": 2,
+      "itemGroupCount": 1
     },
     {
-      "vendor": "InvenSense SG",
-      "country": "Singapore",
-      "city": "Singapore",
-      "lat": 1.352,
-      "lng": 103.819,
-      "risk_level": "Low",
-      "comment": "대체선 이원화 구축 완료"
+      "name": "대만 지진",
+      "level": "하",
+      "desc": "필리핀해판과 유라시아판 경계(화롄/서부 활단층)의 빈번한 강진으로 인해 대만 3대 과학단지 내 파운드리 및 IT 부품 생태계의 생산 차질 Risk",
+      "vendorCount": 1,
+      "itemGroupCount": 1
+    },
+    {
+      "name": "대 중국 규제",
+      "level": "하",
+      "desc": "미국, EU의 대중국 제재 강화로 인해, 중국산 원자재·부품의 통관 지연, 고율 관세 부과, 공급선 강제 교체가 요구되는 통상 규제 Risk",
+      "vendorCount": 2,
+      "itemGroupCount": 1
+    },
+    {
+      "name": "중국 핵심광물 수출통제",
+      "level": "중",
+      "desc": "중국 정부의 자원 무기화 정책에 따라 특정 핵심 광물(희토류, 갈륨, 네오디뮴 등)에 대해 수출 허가제 및 수량 제한을 적용하여 글로벌 공급망을 통제하는 Risk",
+      "vendorCount": 1,
+      "itemGroupCount": 1
+    },
+    {
+      "name": "이스라엘 전쟁",
+      "level": "상",
+      "desc": "이스라엘-하마스 전쟁 및 이스라엘-이란 간 군사적 충돌 확전으로 인한 관련 지역 협력사의 물류 봉쇄 및 공급 중단 Risk",
+      "vendorCount": 1,
+      "itemGroupCount": 1
+    },
+    {
+      "name": "호르무즈 해협 분쟁",
+      "level": "상",
+      "desc": "중동 내 국지적 군사 분쟁 및 수에즈 운하, 호르무즈 해협 등 핵심 해상 병목구간 봉쇄로 인한 유가 급등과 해상 운송로 우회·운임 폭등 Risk",
+      "vendorCount": 4,
+      "itemGroupCount": 2
     }
   ]
 }
