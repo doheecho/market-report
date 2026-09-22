@@ -4060,23 +4060,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         const chg1Y = calcChg(today, past1Y);
         const formattedTodayStr = today.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
         
-        let bgSvg = "";
-        const hList = history ? history[historyKey] : null;
-        if (hList && hList.length > 0) {
-          const currentSpot = hList[hList.length - 1];
-          const currentDate = new Date(currentSpot.date);
-          const oneYearAgoDate = new Date(currentDate);
-          oneYearAgoDate.setFullYear(oneYearAgoDate.getFullYear() - 1);
-
-          const pastYearEntries = hList.filter(item => {
-            const d = new Date(item.date);
-            return d >= oneYearAgoDate && d <= currentDate;
-          });
-          const pastYearPrices = pastYearEntries.map(item => item.price * (historyKey === "jpykrw" ? jpyMult : 1.0));
-          bgSvg = generateSparklineSVG(pastYearPrices, (chg1Y || 0) / 100, null, label);
-        } else {
-          bgSvg = generateSparklineSVG([past1Y, past6M, past3M, past1M, today].filter(v => v), (chg1Y || 0) / 100, [0, 0.5, 0.75, 0.917, 1.0], label);
-        }
+        let bgSvg = ""; // 환율 지표의 경우 배경 차트를 표시하지 않음 (깔끔한 단색 솔리드 마감)
 
         return `
           <div class="market-factor-card">
