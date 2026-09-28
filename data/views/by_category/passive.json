@@ -32,8 +32,7 @@
       "Murata",
       "Samsung",
       "Taiyo Yuden",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Allocation",
@@ -94,8 +93,7 @@
     "subheading": "자동차용 MLCC 시장에서 전진하는 삼성",
     "text": "시장 리더인 삼성전기는 자율주행차 개발과 IoT 확장에서 성장을 기대하고 있습니다. 삼성전기는 스마트 주행과 인포테인먼트에 사용되는 새로운 자동차용 세라믹 커패시터 포트폴리오를 설계해왔습니다. 이 커패시터는 현재 모델보다 제품 수명이 20% 길고 더 높은 전압에 견딜 수 있어 집중된 환경에서 활용될 수 있습니다.",
     "detected_vendors": [
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -130,8 +128,7 @@
     "subheading": "자동차 MLCC 시장에서 삼성이 우위를 선점",
     "text": "시장 선두주자인 삼성전기는 자율주행차 개발과 사물인터넷 확대로 인한 성장세를 기대하고 있으며 스마트 드라이빙 및 인포테인먼트(infotainment)에 사용되는 새로운 자동차용 세라믹 커패시터 포트폴리오를 설계했습니다. 이 커패시터는 현재 모델이 비해 제품 수명이 20% 더 길고 더 높은 전압을 견딜 수 있어 극한 상황에서도 활용이 가능합니다.",
     "detected_vendors": [
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -223,8 +220,7 @@
     "text": "Yageo의 0402 케이스 크기 104 - 105 정전용량 규격에 대한 수요가 증가하고 있습니다. 이와 유사하게, 삼성의 0402 및 0603 케이스 크기에 대한 수요가 급증하고 있습니다. 대부분의 크기와 커패시턴스 규격 제품의 리드 타임은 안정적이지만, 커패시턴스 값 105, 106, 226 규격 제품의 리드 타임은 늘고 있습니다.",
     "detected_vendors": [
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -461,8 +457,7 @@
     "subheading": "MLCC 가격 4월 인상 예정",
     "text": "반면에 삼성은 30개 MLCC 라인의 가격을 20~30% 이미 인상했습니다. 많은 유통업체가 삼성의 MLCC가 3개월 반에 이르는 리드 타임 연장을 보이고 있고, 추가적인 공급 부족 문제가 여전히 이어질 것이라는 생각을 공유해주었습니다.",
     "detected_vendors": [
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -630,8 +625,7 @@
     "subheading": "수요 증가로 MLCC 공급에 부담 가중",
     "text": "다른 뉴스에서는 말레이시아의 봉쇄 조치로 원자재 공급 부족이 악화해 삼성전자의 생산 공장을 60%만 가동할 수밖에 없다는 소식도 있습니다. 삼성전자의 생산량 회복은 거의 기대난망인 상황입니다. 이러한 지속적인 공급 부족은 가격 상승도 초래하고 있습니다.",
     "detected_vendors": [
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -690,8 +684,7 @@
     "text": "삼성전자의 말레이시아 생산 공장도 생산능력의 최대 60%까지만 운영할 수 있고, Kemet의 생산 공장도 생산능력을 축소 운영하고 있습니다. 이런 상황이 얼마나 계속될지, 결과적으로 어떤 장기적 효과가 나타날 수 있을지는 알 수 없습니다.",
     "detected_vendors": [
       "Kemet",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -766,8 +759,7 @@
     "detected_vendors": [
       "Murata",
       "Nexperia",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -820,8 +812,7 @@
     "detected_vendors": [
       "Panasonic",
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -1199,8 +1190,7 @@
       "Murata",
       "Samsung",
       "Taiyo Yuden",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1239,8 +1229,7 @@
     "subheading": "생산 증가와 경쟁 압력",
     "text": "MLCC 시장의 단기 전망은 AI 서버, AI PC, 스마트폰 출시(특히 iPhone 16)로 인한 수요 증가로 삼성전기가 90% 이상의 생산 가동률에 도달하는 등 생산 증가를 보여줍니다. 그러나 치열한 경쟁으로 인해 판매 가격이 정체되면서 수익성은 제한될 수 있습니다.",
     "detected_vendors": [
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1693,8 +1682,7 @@
     "subheading": "수동 부품 리드 타임 연장 및 할당",
     "text": "삼성 수동 부품의 리드 타임은 기존 8~12주에서 14~18주로 늘어났습니다. 공식적인 부족 선언은 없지만, 제약은 증가하고 있습니다.",
     "detected_vendors": [
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Allocation",
@@ -1716,8 +1704,7 @@
     "detected_vendors": [
       "Murata",
       "Samsung",
-      "Taiyo Yuden",
-      "삼성"
+      "Taiyo Yuden"
     ],
     "detected_keywords": [
       "Allocation",
@@ -1813,8 +1800,7 @@
     "text": "삼성, 무라타, 타요유덴의 MLCC는 공급 문제가 지속되고 있으며, 일부 시리즈의 리드타임은 24~28주에 달한다.",
     "detected_vendors": [
       "Murata",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Allocation",
@@ -1949,8 +1935,7 @@
     "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24~28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
     "detected_vendors": [
       "Murata",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Allocation",
@@ -2298,8 +2283,7 @@
     "detected_vendors": [
       "Murata",
       "Samsung",
-      "Taiyo Yuden",
-      "삼성"
+      "Taiyo Yuden"
     ],
     "detected_keywords": [
       "Allocation",
@@ -2321,8 +2305,7 @@
     "detected_vendors": [
       "Murata",
       "Samsung",
-      "Taiyo Yuden",
-      "삼성"
+      "Taiyo Yuden"
     ],
     "detected_keywords": [
       "Allocation",
@@ -2516,8 +2499,7 @@
       "Murata",
       "Samsung",
       "Taiyo Yuden",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -2559,8 +2541,7 @@
       "Kyocera",
       "Murata",
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Allocation",
@@ -2624,8 +2605,7 @@
     "text": "Kyocera는 별도 통보 시까지 전 세계 유통업체에 리셀러 대상 견적 제공을 중단하라고 지시했다. Samsung Electro-Mechanics는 10월 1일 MLCC 가격을 다시 인상하는 한편, 9월 출하·할당 물량을 약 20% 줄일 것으로 예상된다. 이는 고객 및 유통업체 기반의 약 85%에 영향을 미칠 전망이다.",
     "detected_vendors": [
       "Kyocera",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Allocation"

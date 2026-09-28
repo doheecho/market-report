@@ -17,8 +17,7 @@
         "Murata",
         "Samsung",
         "Taiyo Yuden",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "수동소자 공급 부족량 증가",
@@ -44,8 +43,7 @@
     {
       "date": "2020.07",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "자동차용 MLCC 시장에서 전진하는 삼성",
@@ -61,8 +59,7 @@
     {
       "date": "2020.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "자동차 MLCC 시장에서 삼성이 우위를 선점",
@@ -104,8 +101,7 @@
       "date": "2020.11",
       "detected_vendors": [
         "Samsung",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "모바일 및 자동차 애플리케이션의 MLCC 공급 부족",
@@ -212,8 +208,7 @@
     {
       "date": "2021.04",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "MLCC 가격 4월 인상 예정",
@@ -286,8 +281,7 @@
     {
       "date": "2021.07",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "수요 증가로 MLCC 공급에 부담 가중",
@@ -314,8 +308,7 @@
       "date": "2021.08",
       "detected_vendors": [
         "Kemet",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "타격을 입는 MLCC 생산",
@@ -354,8 +347,7 @@
       "detected_vendors": [
         "Murata",
         "Nexperia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "NXP, 리드 타임을 2022년까지 연장",
@@ -382,8 +374,7 @@
       "detected_vendors": [
         "Panasonic",
         "Samsung",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "수동소자에 대한 수요가 공급을 추월",
@@ -557,8 +548,7 @@
         "Murata",
         "Samsung",
         "Taiyo Yuden",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "Low",
       "summary": "AI의 자동차용 MLCC 활용",
@@ -578,8 +568,7 @@
     {
       "date": "2024.10",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "생산 증가와 경쟁 압력",
@@ -792,8 +781,7 @@
     {
       "date": "2025.07",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "수동 부품 리드 타임 연장 및 할당",
@@ -804,8 +792,7 @@
       "detected_vendors": [
         "Murata",
         "Samsung",
-        "Taiyo Yuden",
-        "삼성"
+        "Taiyo Yuden"
       ],
       "risk_level": "Medium",
       "summary": "수동 부품 리드 타임 연장 및 할당",
@@ -850,8 +837,7 @@
       "date": "2025.10",
       "detected_vendors": [
         "Murata",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "수동 부품 리드 타임 연장 및 할당",
@@ -914,8 +900,7 @@
       "date": "2026.01",
       "detected_vendors": [
         "Murata",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "수동 부품 리드 타임 연장 및 할당",
@@ -1078,8 +1063,7 @@
       "detected_vendors": [
         "Murata",
         "Samsung",
-        "Taiyo Yuden",
-        "삼성"
+        "Taiyo Yuden"
       ],
       "risk_level": "High",
       "summary": "MLCC 및 수동소자 위기, 심각 단계로 격화",
@@ -1090,8 +1074,7 @@
       "detected_vendors": [
         "Murata",
         "Samsung",
-        "Taiyo Yuden",
-        "삼성"
+        "Taiyo Yuden"
       ],
       "risk_level": "Medium",
       "summary": "수동소자 및 원자재 가격 인상 및 병목",
@@ -1182,8 +1165,7 @@
         "Murata",
         "Samsung",
         "Taiyo Yuden",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "수동소자 및 원자재 MLCC수지 위기",
@@ -1203,8 +1185,7 @@
         "Kyocera",
         "Murata",
         "Samsung",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "Murata, 레거시 시리즈 단종 개시로 MLCC 공급 부족 심화",
@@ -1235,8 +1216,7 @@
       "date": "2026.09",
       "detected_vendors": [
         "Kyocera",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "수동부품 및 원자재 T-글래스 병목",

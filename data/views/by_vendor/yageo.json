@@ -13,8 +13,7 @@
       "Murata",
       "Samsung",
       "Taiyo Yuden",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Allocation",
@@ -37,8 +36,7 @@
     "text": "Yageo의 0402 케이스 크기 104 - 105 정전용량 규격에 대한 수요가 증가하고 있습니다. 이와 유사하게, 삼성의 0402 및 0603 케이스 크기에 대한 수요가 급증하고 있습니다. 대부분의 크기와 커패시턴스 규격 제품의 리드 타임은 안정적이지만, 커패시턴스 값 105, 106, 226 규격 제품의 리드 타임은 늘고 있습니다.",
     "detected_vendors": [
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -97,8 +95,7 @@
     "detected_vendors": [
       "Panasonic",
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -145,8 +142,7 @@
       "Murata",
       "Samsung",
       "Taiyo Yuden",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -186,8 +182,7 @@
       "Murata",
       "Samsung",
       "Taiyo Yuden",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -212,8 +207,7 @@
       "Kyocera",
       "Murata",
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Allocation",

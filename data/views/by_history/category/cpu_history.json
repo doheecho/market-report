@@ -1376,8 +1376,7 @@
       "detected_vendors": [
         "Intel",
         "Samsung",
-        "TSMC",
-        "삼성"
+        "TSMC"
       ],
       "risk_level": "Medium",
       "summary": "TSMC, 삼성 및 Intel 파운드리 고객에 대한 가격 인상 임박",
@@ -3647,8 +3646,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "Intel",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "삼성, AI 칩 수요 증가와 메모리 시장 반등으로 3분기 이익 급증",

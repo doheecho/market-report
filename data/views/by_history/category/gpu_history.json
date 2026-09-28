@@ -111,8 +111,7 @@
       "detected_vendors": [
         "Nvidia",
         "Samsung",
-        "TSMC",
-        "삼성"
+        "TSMC"
       ],
       "risk_level": "High",
       "summary": "NVIDIA, GeForce RTX 30 시리즈 그래픽 카드 출시",
@@ -178,8 +177,7 @@
       "date": "2020.11",
       "detected_vendors": [
         "Nvidia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "분주 해 지는 GPU 업체",
@@ -200,8 +198,7 @@
         "AMD",
         "Nvidia",
         "Samsung",
-        "TSMC",
-        "삼성"
+        "TSMC"
       ],
       "risk_level": "Low",
       "summary": "분주 해 지는 GPU 업체",
@@ -237,8 +234,7 @@
       "date": "2020.12",
       "detected_vendors": [
         "Nvidia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
@@ -289,8 +285,7 @@
       "date": "2021.01",
       "detected_vendors": [
         "Nvidia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "기업들이 공급 부족에 직면함에 따라 GPU 가격이 높게 유지",
@@ -332,8 +327,7 @@
       "date": "2021.02",
       "detected_vendors": [
         "Samsung",
-        "TSMC",
-        "삼성"
+        "TSMC"
       ],
       "risk_level": "High",
       "summary": "공급 부족으로 GPU 가격 폭등",
@@ -357,8 +351,7 @@
       "date": "2021.02",
       "detected_vendors": [
         "Nvidia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "Nvidia, 특정 RTX 2000 모델 재출시",
@@ -1426,8 +1419,7 @@
         "Micron",
         "Nvidia",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "메모리 제조사 사이의 경쟁 심화로 이어진 DDR3 수요",
@@ -1650,8 +1642,7 @@
       "detected_vendors": [
         "Nvidia",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "HBM 수요로 인한 DRAM 생산 조정",
@@ -2257,8 +2248,7 @@
       "detected_vendors": [
         "Micron",
         "Samsung",
-        "SanDisk",
-        "삼성"
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
@@ -2318,8 +2308,7 @@
       "date": "2026.03",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "메모리 가격 변동 및 할당 붕괴",
@@ -2427,8 +2416,7 @@
       "date": "2026.05",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "LPDDR45 및 자동차용 eMMC",

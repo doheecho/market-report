@@ -38,8 +38,7 @@
       "Kyocera",
       "Murata",
       "Samsung",
-      "Yageo",
-      "삼성"
+      "Yageo"
     ],
     "detected_keywords": [
       "Allocation",
@@ -61,8 +60,7 @@
     "text": "Kyocera는 별도 통보 시까지 전 세계 유통업체에 리셀러 대상 견적 제공을 중단하라고 지시했다. Samsung Electro-Mechanics는 10월 1일 MLCC 가격을 다시 인상하는 한편, 9월 출하·할당 물량을 약 20% 줄일 것으로 예상된다. 이는 고객 및 유통업체 기반의 약 85%에 영향을 미칠 전망이다.",
     "detected_vendors": [
       "Kyocera",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Allocation"

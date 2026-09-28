@@ -14,8 +14,7 @@
       "Micron",
       "SK하이닉스",
       "Samsung",
-      "Winbond",
-      "삼성"
+      "Winbond"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -36,8 +35,7 @@
     "detected_vendors": [
       "SK하이닉스",
       "Samsung",
-      "Winbond",
-      "삼성"
+      "Winbond"
     ],
     "detected_keywords": [
       "EOL"

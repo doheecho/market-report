@@ -7,8 +7,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "삼성 SSD 리드 타임 연장",
@@ -122,8 +121,7 @@
     {
       "date": "2020.07",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "센서 시장 확장 지속",
@@ -195,8 +193,7 @@
     {
       "date": "2020.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "센서 시장 지속적으로 확장 중",
@@ -676,8 +673,7 @@
       "date": "2021.01",
       "detected_vendors": [
         "Samsung",
-        "Sony",
-        "삼성"
+        "Sony"
       ],
       "risk_level": "Low",
       "summary": "CMOS 센서 시장이 추가로 성장할 것으로 전망",
@@ -710,8 +706,7 @@
         "Micron",
         "SK하이닉스",
         "Samsung",
-        "Winbond",
-        "삼성"
+        "Winbond"
       ],
       "risk_level": "High",
       "summary": "DRAM 공급 부족이 2021년 내내 계속될 것으로 보여",
@@ -834,8 +829,7 @@
       "detected_vendors": [
         "Intel",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "기업용 스토리지 수요의 증가",
@@ -908,8 +902,7 @@
     {
       "date": "2021.04",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "삼성, 생산 감소키로",
@@ -920,8 +913,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "삼성, 생산 감소키로",
@@ -1302,8 +1294,7 @@
       "date": "2021.09",
       "detected_vendors": [
         "Onsemi",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "또 다시 타격을 받는 자동차 부문",
@@ -1584,8 +1575,7 @@
       "detected_vendors": [
         "Panasonic",
         "Samsung",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "수동소자에 대한 수요가 공급을 추월",
@@ -1690,8 +1680,7 @@
       "date": "2022.01",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "공급망 중단으로 영향을 받는 DRAM, NAND 및 DIMM 메모리 생산량",
@@ -1798,8 +1787,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "Micron, 공급 부족 상황에서 9300 Max SSD 중단",
@@ -1947,8 +1935,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "분기 다수의 제조업체에서 SSD 가격 인상",
@@ -2080,8 +2067,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "모든 주요 SSD 브랜드, 글로벌 인플레이션의 영향을 받다",
@@ -2223,8 +2209,7 @@
         "Intel",
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
@@ -2280,8 +2265,7 @@
       "date": "2022.08",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
@@ -2856,8 +2840,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -3163,8 +3146,7 @@
     {
       "date": "2023.04",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "낮은 수요와 수익 감소가 생산 감소로 이어짐에 따라 DRAM 시장 어려움 가중",
@@ -3360,8 +3342,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "삼성과 SK Hynix의 가격 변동으로 DDR5 공급 부족 지속",
@@ -3514,8 +3495,7 @@
     {
       "date": "2023.06",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "메모리 제조업체, 시장 회복에 따른 가격 하락 방지에 집중",
@@ -4182,8 +4162,7 @@
         "Micron",
         "Nvidia",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "메모리 제조사 사이의 경쟁 심화로 이어진 DDR3 수요",
@@ -4232,8 +4211,7 @@
         "Micron",
         "Nanya",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "수요 증가 및 공급 제약으로 인한 DDR 가격 급등",
@@ -4414,8 +4392,7 @@
       "date": "2024.06",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "메모리: 모듈 가격에 영향을 주는 HBM 수요",
@@ -4578,8 +4555,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "DDR 제조사들의 메모리 가격 증가세 지속",
@@ -4633,8 +4609,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "LED: 삼성, 재정적 어려움 속에 LED 사업 조정 반발에 직면",
@@ -4643,8 +4618,7 @@
     {
       "date": "2024.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "LED: 삼성, 재정적 어려움 속에 LED 사업 조정 반발에 직면",
@@ -5263,8 +5237,7 @@
       "date": "2025.04",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "제조사 뉴스 및 기업 업데이트",
@@ -5335,8 +5308,7 @@
       "date": "2025.05",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
@@ -5703,8 +5675,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "SSD 시장이 이중 수요 충격으로 압박 심화",
@@ -6035,8 +6006,7 @@
         "Lattice",
         "SK하이닉스",
         "Samsung",
-        "Sony",
-        "삼성"
+        "Sony"
       ],
       "risk_level": "High",
       "summary": "반도체를 넘어선 원자재 위기 심화",
@@ -6049,8 +6019,7 @@
         "Macnica",
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "유통 채널 재편으로 기존 파트너 배제",
@@ -6116,8 +6085,7 @@
       "date": "2026.03",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "메모리 가격 변동 및 할당 붕괴",
@@ -6128,8 +6096,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "메모리 가격 변동 및 할당 붕괴",
@@ -6366,8 +6333,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
-        "Western Digital",
-        "삼성"
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
@@ -6427,8 +6393,7 @@
       "date": "2026.05",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "LPDDR45 및 자동차용 eMMC",
@@ -6581,8 +6546,7 @@
       "date": "2026.06",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "메모리 가격 변동 및 할당 붕괴",
@@ -6682,8 +6646,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "메모리 시장, 초인플레이션 및 물량 할당 붕괴 국면 진입",
@@ -6813,8 +6776,7 @@
       "date": "2026.07",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "공급망 동향",
@@ -6974,8 +6936,7 @@
         "Murata",
         "Samsung",
         "Taiyo Yuden",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "수동소자 및 원자재 MLCC수지 위기",
@@ -6984,8 +6945,7 @@
     {
       "date": "2026.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고",
@@ -7025,8 +6985,7 @@
         "Kyocera",
         "Murata",
         "Samsung",
-        "Yageo",
-        "삼성"
+        "Yageo"
       ],
       "risk_level": "High",
       "summary": "Murata, 레거시 시리즈 단종 개시로 MLCC 공급 부족 심화",
@@ -7037,8 +6996,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "비하이퍼스케일러 고객의 DRAMRDIMM 물량 할당 붕괴 심화",
@@ -7131,8 +7089,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
@@ -7152,8 +7109,7 @@
       "detected_vendors": [
         "Kioxia",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "스토리지 2028년까지 전량 소진",
@@ -7193,8 +7149,7 @@
       "date": "2026.09",
       "detected_vendors": [
         "Kyocera",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "수동부품 및 원자재 T-글래스 병목",

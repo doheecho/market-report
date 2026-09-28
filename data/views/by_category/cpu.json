@@ -2746,8 +2746,7 @@
     "detected_vendors": [
       "Intel",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -7147,8 +7146,7 @@
     "text": "Intel은 곧 출시될 “Diamond Rapids” Xeon 7 프로세서 제품군에서 제품 스택을 단순화하고 있으며, 그 중심은 메모리 대역폭이라고 확인했다. Intel은 차세대 Xeon 7 “Diamond Rapids” 프로세서가 Xeon 6 제품군에 사용된 1세대 MRDIMMs(Multiplexer Rank DIMM)들에서 업그레이드된 2세대 MRDIMMs들을 채택한다고 공식 발표했다. [Source: Techpowerup]",
     "detected_vendors": [
       "Intel",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

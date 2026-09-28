@@ -577,8 +577,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
-      "Western Digital",
-      "삼성"
+      "Western Digital"
     ],
     "detected_keywords": [
       "Allocation",
@@ -598,6 +597,7 @@
     "subheading": "스토리지 공급망 붕괴 및 전략적 단종",
     "text": "2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다.",
     "detected_vendors": [
+      "Seagate",
       "Western Digital"
     ],
     "detected_keywords": [
@@ -618,6 +618,7 @@
     "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다.",
     "detected_vendors": [
+      "Seagate",
       "Western Digital"
     ],
     "detected_keywords": [],
@@ -635,6 +636,7 @@
     "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
     "detected_vendors": [
+      "Seagate",
       "Western Digital"
     ],
     "detected_keywords": [
@@ -692,8 +694,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
-      "Western Digital",
-      "삼성"
+      "Western Digital"
     ],
     "detected_keywords": [
       "Allocation",
@@ -780,8 +781,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
-      "Western Digital",
-      "삼성"
+      "Western Digital"
     ],
     "detected_keywords": [
       "Allocation",
@@ -801,6 +801,7 @@
     "subheading": "스토리지 2028년까지 완판",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
     "detected_vendors": [
+      "Seagate",
       "Western Digital"
     ],
     "detected_keywords": [
@@ -881,8 +882,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
-      "Western Digital",
-      "삼성"
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",

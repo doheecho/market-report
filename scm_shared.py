@@ -103,15 +103,19 @@ def analyze_paragraph(text, vendor_map, keyword_map):
         detected_vendors.add("Analog Devices")
     if re.search(r"western\s*digital", text, re.IGNORECASE) or re.search(r"웨스턴\s*디지털", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])WD(?![a-zA-Z])", text):
         detected_vendors.add("Western Digital")
-    if re.search(r"stmicroelectronics", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])STM(?![a-zA-Z])", text) or re.search(r"(?<![a-zA-Z])ST(?![a-zA-Z])(?=\s*(?:의|는|가|를|에|로|와|과|도|사|그룹|반도체))", text):
+    if re.search(r"stmicroelectronics", text, re.IGNORECASE) or re.search(r"st\s*마이크로", text, re.IGNORECASE) or re.search(r"에스티\s*마이크로", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])STM(?![a-zA-Z])", text) or re.search(r"(?<![a-zA-Z])ST(?![a-zA-Z])(?=\s*(?:의|는|가|를|에|로|와|과|도|사|그룹|반도체|마이크로))", text):
         detected_vendors.add("STMicroelectronics")
+    if re.search(r"seagate|시게이트|씨게이트", text, re.IGNORECASE):
+        detected_vendors.add("Seagate")
+    if re.search(r"sandisk|샌디스크", text, re.IGNORECASE):
+        detected_vendors.add("SanDisk")
     if re.search(r"tsmc|티에스엠씨", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])TSMC(?![a-zA-Z])", text):
         detected_vendors.add("TSMC")
     if re.search(r"avx", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])AVX(?![a-zA-Z])", text):
         detected_vendors.add("AVX")
     if re.search(r"byd|비야디", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])BYD(?![a-zA-Z])", text):
         detected_vendors.add("BYD")
-    if re.search(r"samsung|삼성", text, re.IGNORECASE):
+    if re.search(r"samsung|삼성|삼성전자|삼성전기|semco", text, re.IGNORECASE):
         detected_vendors.add("Samsung")
     if re.search(r"sk\s*hynix|sk하이닉스|하이닉스", text, re.IGNORECASE):
         detected_vendors.add("SK하이닉스")
@@ -131,8 +135,6 @@ def analyze_paragraph(text, vendor_map, keyword_map):
         detected_vendors.add("TDK")
     if re.search(r"foxconn|폭스콘", text, re.IGNORECASE):
         detected_vendors.add("Foxconn")
-    if re.search(r"sandisk|샌디스크", text, re.IGNORECASE):
-        detected_vendors.add("SanDisk")
 
     for pattern, kw in keyword_map.items():
         if re.search(pattern, text, re.IGNORECASE):

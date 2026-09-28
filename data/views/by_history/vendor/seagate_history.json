@@ -1,6 +1,6 @@
 {
   "vendor": "Seagate",
-  "total_milestones": 44,
+  "total_milestones": 48,
   "history": [
     {
       "date": "2020.04",
@@ -345,6 +345,38 @@
       "text": "씨게이트는 저용량 SKU에 대해 “거의 매일” 가격을 올리고 있으며, 배정 물량을 점점 더 작은 단위로 풀고 있습니다. 1TB 드라이브는 사실상 EOL입니다."
     },
     {
+      "date": "2026.02",
+      "category": "Storage",
+      "detected_categories": [
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "스토리지 공급망 붕괴 및 전략적 단종",
+      "text": "2026년용 HDD 생산 능력은 시게이트와 WD 기준 100% 판매 완료된 것으로 보고되고 있으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있습니다. 제조사들은 저용량(1TB~4TB) 드라이브를 단종하고, 수익성이 높은 제품 위주로 SSD 생산을 조정함으로써 사실상 강제적인 세대 전환을 유도하고 있습니다. 현재 엔터프라이즈용 스토리지 부문에서는 심각한 병목 현상이 발생하고 있습니다."
+    },
+    {
+      "date": "2026.02",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Storage"
+      ],
+      "risk_level": "Low",
+      "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
+      "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다."
+    },
+    {
+      "date": "2026.02",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
+      "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다."
+    },
+    {
       "date": "2026.03",
       "category": "Storage",
       "detected_categories": [
@@ -384,6 +416,16 @@
       "risk_level": "High",
       "summary": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
       "text": "Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다."
+    },
+    {
+      "date": "2026.05",
+      "category": "Storage",
+      "detected_categories": [
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "스토리지 2028년까지 완판",
+      "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다."
     },
     {
       "date": "2026.06",

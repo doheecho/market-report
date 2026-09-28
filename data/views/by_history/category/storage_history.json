@@ -33,8 +33,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "삼성 SSD 리드 타임 연장",
@@ -62,8 +61,7 @@
     {
       "date": "2020.06",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "기술 기업계의 거인 삼성, NAND 플래시 공장 신축",
@@ -142,8 +140,7 @@
       "date": "2020.10",
       "detected_vendors": [
         "Intel",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 수요는 현상 유지",
@@ -271,8 +268,7 @@
       "detected_vendors": [
         "Intel",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "기업용 스토리지 수요의 증가",
@@ -281,8 +277,7 @@
     {
       "date": "2021.04",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "삼성, 생산 감소키로",
@@ -371,8 +366,7 @@
     {
       "date": "2021.07",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "분기에 빠듯해질 SSD 공급",
@@ -434,8 +428,7 @@
     {
       "date": "2021.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "삼성전자, 주력 생산품 전환",
@@ -444,8 +437,7 @@
     {
       "date": "2021.08",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "삼성전자, 주력 생산품 전환",
@@ -529,8 +521,7 @@
     {
       "date": "2021.09",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "SSD 가격은 계속 오를 전망",
@@ -539,8 +530,7 @@
     {
       "date": "2021.09",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "SSD 가격은 계속 오를 전망",
@@ -607,8 +597,7 @@
       "date": "2021.11",
       "detected_vendors": [
         "Intel",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "삼성전자, 이전 분기의 공급 부족으로 4분기에 난관에 직면",
@@ -663,8 +652,7 @@
     {
       "date": "2022.01",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "공급망 중단으로 영향을 받는 DRAM, NAND 및 DIMM 메모리 생산량",
@@ -693,8 +681,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "Micron, 공급 부족 상황에서 9300 Max SSD 중단",
@@ -778,8 +765,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "분기 다수의 제조업체에서 SSD 가격 인상",
@@ -856,8 +842,7 @@
       "detected_vendors": [
         "Intel",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "모든 주요 SSD 브랜드, 글로벌 인플레이션의 영향을 받다",
@@ -896,8 +881,7 @@
         "Intel",
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "Intel의 인기 있는 SSD 시리즈의 시장 가격은 단종 부품(EOL) 상태로 이동함에 따라 현재 수준을 유지합니다. 단종 고지의 영향을 받는 부품은 다음과 같습니다. S4510, S4610, S4520, S4620",
@@ -934,8 +918,7 @@
       "date": "2022.09",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "저용량 Solidigm SATA SSD 공급은 여전히 제약이 많지만 중국에서 서버 시장 수요가 감소하면서 시장 가격도 10~15%까지 하락하는 추세입니다. 공급 가용성에 대한 몇 가지 참고 사항:",
@@ -961,8 +944,7 @@
       "date": "2022.10",
       "detected_vendors": [
         "Intel",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 공급 추월로 비용 절감 기회 생성",
@@ -979,8 +961,7 @@
       "date": "2022.11",
       "detected_vendors": [
         "Intel",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "저장 장치 시장 활동의 둔화와 대조적으로 고밀도 SSD 주문은 증가 추세",
@@ -989,8 +970,7 @@
     {
       "date": "2022.11",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "저장 장치 시장 활동의 둔화와 대조적으로 고밀도 SSD 주문은 증가 추세",
@@ -1030,8 +1010,7 @@
     {
       "date": "2022.12",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지 및 메모리 시장에 대한 수요 부진 지속",
@@ -1047,8 +1026,7 @@
     {
       "date": "2023.01",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -1059,8 +1037,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "여전히 출구가 보이지 않는 저장 장치와 메모리 시장",
@@ -1335,8 +1312,7 @@
       "date": "2023.09",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지 가격 하락세 지속에 따른 감산",
@@ -1485,8 +1461,7 @@
     {
       "date": "2024.02",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지 수요 증가로 NAND 플래시 시장 반등",
@@ -1555,8 +1530,7 @@
       "date": "2024.05",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
@@ -1566,8 +1540,7 @@
       "date": "2024.05",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
@@ -1577,8 +1550,7 @@
       "date": "2024.05",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "삼성 및 Solidigm SSD 비용 10~30% 인상",
@@ -1729,8 +1701,7 @@
       "date": "2024.08",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "SSD: 용량 전반에 걸친 10~25%의 가격 상승",
@@ -1773,8 +1744,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "수요가 높은 SSD 브랜드",
@@ -1791,8 +1761,7 @@
       "date": "2024.10",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "분기별 가격 상승",
@@ -1947,8 +1916,7 @@
     {
       "date": "2025.04",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지",
@@ -1995,8 +1963,7 @@
       "date": "2025.05",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
@@ -2177,8 +2144,7 @@
       "date": "2025.10",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
@@ -2226,8 +2192,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "SSD 시장이 이중 수요 충격으로 압박 심화",
@@ -2248,8 +2213,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "용량 부족 및 제조사 가격 변동",
@@ -2259,8 +2223,7 @@
       "date": "2025.11",
       "detected_vendors": [
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "용량 부족 및 제조사 가격 변동",
@@ -2306,8 +2269,7 @@
     {
       "date": "2025.12",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD",
@@ -2323,8 +2285,7 @@
     {
       "date": "2025.12",
       "detected_vendors": [
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD",
@@ -2355,8 +2316,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
-        "Western Digital",
-        "삼성"
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
@@ -2367,8 +2327,7 @@
       "detected_vendors": [
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
@@ -2378,8 +2337,7 @@
       "date": "2026.01",
       "detected_vendors": [
         "Kioxia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "SSD 용량 부족 및 제조사 가격 변동",
@@ -2417,6 +2375,7 @@
     {
       "date": "2026.02",
       "detected_vendors": [
+        "Seagate",
         "Western Digital"
       ],
       "risk_level": "High",
@@ -2427,8 +2386,7 @@
       "date": "2026.02",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
@@ -2437,6 +2395,7 @@
     {
       "date": "2026.02",
       "detected_vendors": [
+        "Seagate",
         "Western Digital"
       ],
       "risk_level": "Low",
@@ -2446,6 +2405,7 @@
     {
       "date": "2026.02",
       "detected_vendors": [
+        "Seagate",
         "Western Digital"
       ],
       "risk_level": "High",
@@ -2493,8 +2453,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
-        "Western Digital",
-        "삼성"
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
@@ -2514,8 +2473,7 @@
         "Macnica",
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Medium",
       "summary": "유통 채널 재편으로 기존 파트너 배제",
@@ -2525,8 +2483,7 @@
       "date": "2026.03",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
@@ -2603,8 +2560,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
-        "Western Digital",
-        "삼성"
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
@@ -2614,8 +2570,7 @@
       "date": "2026.05",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지 2028년까지 완판",
@@ -2633,6 +2588,7 @@
     {
       "date": "2026.05",
       "detected_vendors": [
+        "Seagate",
         "Western Digital"
       ],
       "risk_level": "High",
@@ -2678,8 +2634,7 @@
       "date": "2026.06",
       "detected_vendors": [
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "Low",
       "summary": "스토리지 가격 재설정 및 급등",
@@ -2720,8 +2675,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
-        "Western Digital",
-        "삼성"
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지 공급망, 한계 상황 도달",
@@ -2733,8 +2687,7 @@
         "Kioxia",
         "Micron",
         "SK하이닉스",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -2821,8 +2774,7 @@
         "Kioxia",
         "SK하이닉스",
         "Samsung",
-        "Seagate",
-        "삼성"
+        "Seagate"
       ],
       "risk_level": "High",
       "summary": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
@@ -2878,8 +2830,7 @@
       "detected_vendors": [
         "Kioxia",
         "Micron",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "스토리지 2028년까지 전량 소진",

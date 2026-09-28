@@ -32,8 +32,7 @@
     "detected_vendors": [
       "Nvidia",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Shortage"
@@ -54,8 +53,7 @@
       "AMD",
       "Nvidia",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -187,8 +185,7 @@
     "text": "GPU의 공급이 계속해서 높아진 수요를 따라잡기 못하고 있습니다. TSMC와 삼성 같은 주요 파운드리가 모든 부문에서 높은 수요를 따라잡지 못하고 있는데, 특히 가전제품과 자동차 제조업체의 수요에 대한 공급 부족이 심합니다.",
     "detected_vendors": [
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Shortage"
@@ -381,8 +378,7 @@
       "Intel",
       "SK하이닉스",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -440,8 +436,7 @@
     "text": "TSMC가 이미 5nm 시장 “무기 경쟁”에서 승리함에도 불구하고 삼성은 최신 나노시트 기술을 사용하여 3nm 공정 기술 시장을 장악할 계획입니다. 삼성은 FinFET의 성능 한계를 극복하고 2D 칩 공정을 5nm 및 7nm에서 3nm로 전환하는 보다 발전된 혁신을 제공할 것으로 기대됩니다.",
     "detected_vendors": [
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -459,8 +454,7 @@
     "detected_vendors": [
       "Intel",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -517,8 +511,7 @@
     "detected_vendors": [
       "Intel",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -539,8 +532,7 @@
     "detected_vendors": [
       "Intel",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -560,8 +552,7 @@
     "detected_vendors": [
       "Intel",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -581,8 +572,7 @@
     "detected_vendors": [
       "Intel",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -967,8 +957,7 @@
     "text": "삼성전자와 삼성디스플레이는 고성능 칩 패키징 비용을 낮출 수 있는 차세대 글래스 인터포저를 공동 개발하고 있으며, 시제품은 올해 말까지 준비될 가능성이 있다.",
     "detected_vendors": [
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [
       "Capacity Expansion"

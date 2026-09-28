@@ -636,8 +636,7 @@
     "detected_vendors": [
       "Broadcom",
       "Nvidia",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -694,8 +693,7 @@
     "text": "삼성은 DDR5 모듈 가격을 인상했다. 16GB, 32GB 및 128GB 모듈 가격은 약 50% 상승했다.",
     "detected_vendors": [
       "Broadcom",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -715,8 +713,7 @@
       "Broadcom",
       "Micron",
       "SK하이닉스",
-      "Samsung",
-      "삼성"
+      "Samsung"
     ],
     "detected_keywords": [
       "Allocation"

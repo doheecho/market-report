@@ -442,8 +442,7 @@
       "AMD",
       "Nvidia",
       "Samsung",
-      "TSMC",
-      "삼성"
+      "TSMC"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

@@ -13,8 +13,7 @@
       "date": "2021.01",
       "detected_vendors": [
         "Nvidia",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "기업들이 공급 부족에 직면함에 따라 GPU 가격이 높게 유지",
@@ -56,8 +55,7 @@
       "date": "2026.01",
       "detected_vendors": [
         "Murata",
-        "Samsung",
-        "삼성"
+        "Samsung"
       ],
       "risk_level": "High",
       "summary": "수동 부품 리드 타임 연장 및 할당",
