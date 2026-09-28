@@ -134,7 +134,9 @@
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다. 특히 TDK Corporation, Panasonic Corporation, Vishay Intertechnology, Inc., WIMA와 같은 제조업체는 커패시터 제조용 소재 할당 문제로 인한 어려움을 겪고 있습니다. 생산 지연으로 리드 타임이 증가했습니다. 필름 커패시터의 대체적인 현재 표준 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "TDK",
+      "Vishay"
     ],
     "detected_keywords": [
       "Allocation",
@@ -193,7 +195,8 @@
     "subheading": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인",
     "text": "Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "TDK"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -401,7 +404,8 @@
     "subheading": "Vishay MOSFET(예",
     "text": "Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "Vishay"
     ],
     "detected_keywords": [
       "Lead Time"

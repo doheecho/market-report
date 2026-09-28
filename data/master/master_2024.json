@@ -519,7 +519,8 @@
     "subheading": "NVIDIA, CES 2024에서 RTX 40 GPU 공개",
     "text": "NVIDIA는 CES에서 RTX 4080 Super, RTX 4070 Ti Super, RTX 4070 Super GPU 등의 최신 제품을 공개했습니다. CES 행사의 주요 주제는 AI였으며, NVIDIA는 이러한 GPU 제품과 온디바이스 AI 작업이 호환되는 방식을 선보였습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -796,7 +797,8 @@
     "subheading": "일본 지진으로 경쟁사 수요 발생",
     "text": "지진에 의해 가장 큰 피해를 본 Murata에서 가까운 시일 내 신규 주문을 지원할 수 없음을 예상하면서 고객들의 경쟁사 주문을 장려하기 시작했습니다. Murata의 경쟁사 중 한 곳인 TDK에서는 생산 중단으로 인한 주문 증가가 나타나고 있습니다. TDK의 VLS 시리즈는 Murata LQ 시리즈를 성공적으로 대체했습니다. 그 결과 VL 시리즈의 리드 타임은 계속 연장되어 현재 14주를 초과합니다.",
     "detected_vendors": [
-      "Murata"
+      "Murata",
+      "TDK"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -1440,7 +1442,9 @@
     "section_raw": "하드웨어",
     "subheading": "가상화폐 수요가 GPU 공급에 미치는 영향",
     "text": "현재 가상화폐 고객들은 해시레이트와 메모리가 더 높은 모델에 집중하고 있습니다. 수요가 가장 높은 품목은 3090/4090 모델로 현재 채굴에 사용되는 주요 카드입니다. 공급이 부족해지고 부품을 구하기가 점점 더 어려워지면서 기업들은 4080/4070 Ti 및 Super 모델로 눈을 돌릴 것입니다. 이러한 추세가 계속되면 RTX A5000 ADA와 같은 워크스테이션 GPU가 수요 급증의 다음 타겟이 될 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -5268,7 +5272,8 @@
     "subheading": "MCU 가격 상승",
     "text": "STM과 NXP의 마이크로컨트롤러(MCU) 가격이 지속적으로 상승하고 있으며, 이는 재고 감소와 원자재 가격 상승에 기인합니다. IT 데이터 통신 분야의 성장이 예상됨에 따라 MCU 수요와 가격 인상이 예상되며, 고객들은 변화하는 시장 상황 속에서 효과적인 협상을 준비해야 합니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -5411,7 +5416,9 @@
     "section_raw": "제조업체의 산업 수요 동향",
     "subheading": "제조업체의 산업 수요 동향",
     "text": "Vishay Intertechnology의 최근 실적 보고서에 따르면, 자동차, 산업, AI 컴퓨팅 부문이 수동 부품 수요를 증가시켰으며, 이로 인해 인덕터와 광전자 부품의 매출이 성장했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5520,7 +5527,9 @@
     "section_raw": "에너지, 자동차, 산업 자동화가 수요 견인",
     "subheading": "에너지, 자동차, 산업 자동화가 수요 견인",
     "text": "Vishay Intertechnology의 최근 실적 보고서에 따르면, 에너지, 자동차, 산업 자동화 부문이 MLCC 수요를 주도하고 있으며, 특히 고전압 DC 응용 제품, 공장 자동화, 재생 에너지 시스템에서 수요가 두드러지고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5573,6 +5582,7 @@
     "text": "AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata"
     ],
     "detected_keywords": [
@@ -5651,7 +5661,8 @@
     "subheading": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인",
     "text": "Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "TDK"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

@@ -57,7 +57,9 @@
     "section_raw": "집적 회로(IC) 제한된 시장 속에서 길을 찾다",
     "subheading": "집적 회로(IC) 제한된 시장 속에서 길을 찾다",
     "text": "TI의 TCAN114x-Q1은 제조 전환 계획 문제로 인해 공급 부족 현상이 발생했으며, 3월까지 심각한 부족 상태가 지속될 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -403,7 +405,9 @@
     "section_raw": "패시브 부품 높은 수요로 리드 타임 연장",
     "subheading": "패시브 부품 높은 수요로 리드 타임 연장",
     "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터의 리드 타임이 20주에서 36주로 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -685,7 +689,9 @@
     "section_raw": "집적 회로 시장 변화 동향",
     "subheading": "집적 회로 시장 변화 동향",
     "text": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다. 4월 1일부터 최소 10% 가격 인상이 예정되어 있으며, 분기별로 추가 조정이 있을 수 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -1089,7 +1095,10 @@
     "section_raw": "SSD 약세 시장 지속",
     "subheading": "SSD 약세 시장 지속",
     "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk",
+      "Western Digital"
+    ],
     "detected_keywords": [
       "M&A"
     ],
@@ -1137,7 +1146,9 @@
     "section_raw": "수동 부품 리드 타임 장기화 지속",
     "subheading": "수동 부품 리드 타임 장기화 지속",
     "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 분야 수요 증가로 인해 리드 타임이 36주 이상으로 길어졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1319,7 +1330,9 @@
     "section_raw": "재고 정상화가 진행 중인 기업들",
     "subheading": "재고 정상화가 진행 중인 기업들",
     "text": "Skyworks는 내부 재고가 8분기 연속 감소하고 있으며, 이는 긍정적인 신호로 해석됩니다. 다만, 일부 고객층에서는 여전히 과잉 재고가 존재한다고 언급했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1381,7 +1394,9 @@
     "section_raw": "재고 소화가 악화된 기업들",
     "subheading": "재고 소화가 악화된 기업들",
     "text": "Vishay는 유럽 지역에서 자동차 및 산업용 재고 과잉으로 인해 수요가 둔화되고, 주문 보충도 지연되고 있다고 보고했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1395,7 +1410,9 @@
     "section_raw": "재고 소화가 악화된 기업들",
     "subheading": "재고 소화가 악화된 기업들",
     "text": "Diodes는 유럽 등 여러 지역에서 재고 소화가 지연되고 있으며, 수요 약세와 장기 휴업으로 인해 재고가 누적되고 있다고 밝혔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Diodes"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1729,7 +1746,9 @@
     "section_raw": "2025년 비관적 전망",
     "subheading": "2025년 비관적 전망",
     "text": "Vishay는 유럽 산업 및 자동차 시장에서 높은 재고와 수요 부진으로 인해 약세를 이어가고 있다고 보고했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1743,7 +1762,9 @@
     "section_raw": "2025년 비관적 전망",
     "subheading": "2025년 비관적 전망",
     "text": "Diodes는 특히 유럽 시장에서 산업 및 자동차 분야 셧다운이 장기화되고 있으며, 수요 회복 지연이 발생하고 있다고 밝혔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Diodes"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1851,7 +1872,9 @@
     "section_raw": "2025년 중립적 혹은 신중한 전망",
     "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "Skyworks는 자동차 및 IoT 수요는 견조하지만, 주요 고객의 계절적 수요 감소와 공급처 변경으로 인해 어려움이 예상된다고 밝혔습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1881,7 +1904,9 @@
     "section_raw": "제조업체 및 기업 업데이트",
     "subheading": "제조업체 및 기업 업데이트",
     "text": "Foxconn은 미국의 Stargate AI 프로젝트용 AI 서버 독점 수주에 성공한 것으로 알려졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Foxconn"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1991,6 +2016,7 @@
     "subheading": "공급망 동향",
     "text": "인도는 마이크론과 폭스콘의 현지 생산 확대 등 반도체 투자 유치에 성공하고 있으며, 아마존 클라우드 사업부도 인도 주정부에 82억 달러 규모의 투자를 계획 중입니다.",
     "detected_vendors": [
+      "Foxconn",
       "Micron"
     ],
     "detected_keywords": [],
@@ -2683,7 +2709,9 @@
     "section_raw": "스토리지",
     "subheading": "스토리지",
     "text": "Sandisk는 4월 1일부터 10%를 초과하는 가격 인상을 시행했으며, 다른 제조업체들도 이에 뒤따를 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -2715,7 +2743,9 @@
     "section_raw": "수동소자",
     "subheading": "수동소자",
     "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 애플리케이션 수요 증가로 인해 리드 타임이 36주를 초과하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3389,7 +3419,9 @@
     "section_raw": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
     "subheading": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
     "text": "NAND 비용 및 생산 문제로 인해 Sandisk는 가격을 10% 이상 인상했으며, 소비자 및 프로슈머 SSD 부문도 유사한 가격 조정이 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Price Increase",
       "Shortage"
@@ -3487,7 +3519,9 @@
     "section_raw": "수동 부품",
     "subheading": "수동 부품",
     "text": "Vishay의 T55/T550 탄탈륨 커패시터는 리드 타임이 40주를 초과했으며, 자동차 및 방위 산업에서의 수요가 여전히 강세를 보이고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -3543,6 +3577,7 @@
     "text": "미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
     "detected_vendors": [
       "Intel",
+      "Marvell",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -3664,7 +3699,9 @@
     "section_raw": "집적 회로",
     "subheading": "집적 회로",
     "text": "TI는 수익성이 낮은 일부 제품에 대해 6월 15일경부터 가격 인상을 시행할 예정이며, 인상 폭은 15%에서 24%입니다. 영향받는 카테고리: 이번 변경은 주로 C2000™ MCU, 절연 제품(DSPxxx, ISOxxx, UCCxxx 시리즈), 증폭기 제품(MSPxxx, LMxxx 시리즈)에 영향을 미칩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -5239,7 +5276,8 @@
     "subheading": "생산 우선순위 및 용량 전환",
     "text": "Solidigm 및 SanDisk는 수요 증가로 NAND Flash 제품의 가격 인상을 발표할 예정입니다.",
     "detected_vendors": [
-      "SK하이닉스"
+      "SK하이닉스",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Price Increase"
@@ -5315,7 +5353,9 @@
     "section_raw": "용량 수요로 인한 대안 모색",
     "subheading": "용량 수요로 인한 대안 모색",
     "text": "SanDisk는 AI, 데이터센터, 모바일 부문 수요 강세를 이유로 전 채널 및 소비자 SSD 제품에 대해 즉각적인 10% 이상 가격 인상을 발표했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -5580,7 +5620,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "Skyworks의 SMPxx 시리즈 다이오드 리드타임이 생산 감축과 원자재 부족으로 8주에서 16주로 연장되었다. 여기에 더해, 해당 부품 가격이 10배 급등해 많은 구매자들이 사실상 시장에서 배제되고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Production Cut",
@@ -5926,7 +5968,9 @@
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5965,7 +6009,8 @@
     "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "text": "Seagate와 WD는 엔터프라이즈 및 고성능 데스크톱(레드/퍼플/골드) 라인 전반에 걸쳐 한 자릿수에서 두 자릿수에 이르는 가격 인상을 시행하거나 시사했다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -6267,6 +6312,7 @@
     "subheading": "공급 제약 및 시장 변화",
     "text": "Marvell(98DX, 88E6320 시리즈)과 Realtek 모두 리드타임이 32~52주에 이르고 있다. 생산 능력은 고급 AI 관련 칩으로 우선 배정되고 있어 중·저가 제품군의 할당이 크게 축소되고 있다.",
     "detected_vendors": [
+      "Marvell",
       "Realtek"
     ],
     "detected_keywords": [
@@ -6666,7 +6712,8 @@
     "subheading": "Skyworks, Qorvo 합병 추진",
     "text": "주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
     "detected_vendors": [
-      "Qorvo"
+      "Qorvo",
+      "Skyworks"
     ],
     "detected_keywords": [
       "M&A"
@@ -6744,6 +6791,7 @@
     "subheading": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음",
     "text": "샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"
@@ -6807,6 +6855,7 @@
     "subheading": "집적 회로",
     "text": "마벨 부품, 특히 88E-xxx 시리즈의 리드타임이 표준 26주를 크게 초과할 정도로 대폭 연장되었습니다. 기존 백로그 주문의 대부분은 현재 업데이트된 납기를 기다리며 보류 상태입니다. 이번 지연은 TSMC가 AI 관련 메모리 생산으로 웨이퍼 생산능력을 전략적으로 재배치하면서 마벨에 대한 웨이퍼 할당이 약 50% 감소한 데서 비롯되었습니다.",
     "detected_vendors": [
+      "Marvell",
       "TSMC"
     ],
     "detected_keywords": [

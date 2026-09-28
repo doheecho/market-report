@@ -1,0 +1,18 @@
+{
+  "vendor": "ROHM",
+  "total_milestones": 1,
+  "history": [
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive",
+        "Storage"
+      ],
+      "risk_level": "Medium",
+      "summary": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+      "text": "주요 자동차 OEM은 2027년 중반 물량 할당 재조정에 앞서 재제조업체에 버퍼 재고를 확보하도록 지시하고 있는 것으로 알려졌다. Tier 1 고객사들은 ADI의 납기 연기, ROHM의 신규 고객 주문 거절, Nexperia로 인한 다이오드 공급 재배정 압박을 보고하고 있다. 서버 랙당 최대 75만 개에 달하는 자동차용 MLCC 수요 추정치는 이미 빠듯한 수동소자 시장의 부담을 가중시키고 있으며, Diodes Inc.의 수요가 많은 자동차용 부품 리드타임은 40주를 넘어섰다."
+    }
+  ]
+}

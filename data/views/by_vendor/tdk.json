@@ -1,0 +1,212 @@
+[
+  {
+    "year": 2021,
+    "month": 12,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "IC",
+    "text": "TDK Corporation의 제품 배송은 6개월로 연장되었습니다.",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "IC",
+    "subheading": "IC",
+    "text": "중국 남동부 해안의 다롄과 샤먼에 위치한 TDK 공장은 중국의 전력 제한으로 영향을 받고 있으며, 최대 6개월까지 제조 및 발송이 지연되고 있습니다. 영향을 받는 제품으로 클램프 필터(ZCAT 시리즈), 파워 인덕터(VLS 시리즈), MLCC(CKG 시리즈) 및 PC용 페라이트 코어 등이 있습니다.",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다. 특히 TDK Corporation, Panasonic Corporation, Vishay Intertechnology, Inc., WIMA와 같은 제조업체는 커패시터 제조용 소재 할당 문제로 인한 어려움을 겪고 있습니다. 생산 지연으로 리드 타임이 증가했습니다. 필름 커패시터의 대체적인 현재 표준 리드 타임은 다음과 같습니다.",
+    "detected_vendors": [
+      "Panasonic",
+      "TDK",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "TDK: 최대 52주",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 갈등이 세라믹 콘덴서와 MLCC 리드 타임에 영향을 미치다",
+    "subheading": "지정학적 갈등이 세라믹 콘덴서와 MLCC 리드 타임에 영향을 미치다",
+    "text": "비용 상승이 예상됨에 따라 물량 할당이 빠듯해질 것으로 예상됩니다. Yageo, Kemet Tantalum 및 Polymer 제품의 리드 타임은 현재 54주로 더 길어질 가능성이 있으며 Vishay 탄탈 콘덴서는 주문 시 리드 타임이 82주입니다. TDK와 Murata의 현재 리드 타임은 26주이지만 러시아-우크라이나 전쟁으로 인한 핵심 원료 물량의 수급 불안정으로 그 기간은 더 늘어날 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Kemet",
+      "Murata",
+      "TDK",
+      "Vishay",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "공급 부족(Shortage)으로 타격 입은 산업용 전원 공급 장치와 Raspberry Pi 재고",
+    "text": "대부분의 산업용 전원 공급 장치는 부품의 공급 부족(Shortage) 및 전기자동차와 자동화 제품에 대한 수요 증가로 인해 리드 타임이 10~24개월 연장되었습니다 COSEL, Phoenix Contact, Weidmüller, TDK, PULS 등의 브랜드가 타격을 입었으며, 리드 타임이 단기적으로 개선될 가능성은 낮습니다.",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "IC",
+    "subheading": "자동차 산업 성장이 수동소자 부품 시장의 움직임을 견인",
+    "text": "일반적으로 MLCC의 리드 타임은 약 8~10주입니다. 1210 및 1216과 같이 더 큰 케이스 크기의 리드 타임은 약 16~20주로 약간 더 길며 자동차 등급 부품에 대한 가용 공급량은 할당에 따라 달라질 수 있습니다. 전반적으로 TDK MLCC, 특히 CGA 시리즈가 가장 수요가 많은 부품인 것으로 보입니다.",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "주목 받는 TDK의 고정밀 센서",
+    "text": "TDK Corporation은 충분한 공급을 보장하기 위해 차량용 고정밀 센서 생산량을 두 배로 늘릴 계획입니다. 팬데믹 기간 동안 자동차 산업은 집적 회로 및 기타 전자 부품 부족으로 인해 특히 큰 타격을 입었기 때문에 자동차 산업을 위한 할당량을 보호하려는 노력은 자동차 고객과 TDK 모두에게 도움이 됩니다. 이 전략은 TDK 및 고객과의 전략적 파트너십을 강화하는 한편, 첨단 생산 기술을 통해 TDK의 모든 추가 업종에 대한 전반적인 제조를 개선할 것입니다.",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "주목 받는 TDK의 고정밀 센서",
+    "text": "이러한 센서는 압력, 온도, 습도 및 위치 등 다양한 매개변수에 대한 정확하고 신뢰할 수 있는 측정을 제공함으로써 자동차 응용 분야에서 중요한 역할을 합니다. 차량이 기술적으로 더욱 정교해짐에 따라 고정밀 센서에 대한 필요성이 급증하고 있습니다. 이러한 센서는 첨단 운전자 지원 시스템(ADAS)을 구현하고 차량 안전을 개선하며 전반적인 성능을 향상시키는 데 필수적입니다.",
+    "detected_vendors": [
+      "TDK"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC)",
+    "subheading": "일본 지진으로 경쟁사 수요 발생",
+    "text": "지진에 의해 가장 큰 피해를 본 Murata에서 가까운 시일 내 신규 주문을 지원할 수 없음을 예상하면서 고객들의 경쟁사 주문을 장려하기 시작했습니다. Murata의 경쟁사 중 한 곳인 TDK에서는 생산 중단으로 인한 주문 증가가 나타나고 있습니다. TDK의 VLS 시리즈는 Murata LQ 시리즈를 성공적으로 대체했습니다. 그 결과 VL 시리즈의 리드 타임은 계속 연장되어 현재 14주를 초과합니다.",
+    "detected_vendors": [
+      "Murata",
+      "TDK"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인",
+    "subheading": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인",
+    "text": "Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다.",
+    "detected_vendors": [
+      "Panasonic",
+      "TDK"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  }
+]

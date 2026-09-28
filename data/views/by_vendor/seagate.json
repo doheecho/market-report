@@ -112,6 +112,7 @@
     "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
     "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
     "detected_vendors": [
+      "Marvell",
       "SK하이닉스",
       "Seagate"
     ],
@@ -552,7 +553,8 @@
     "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "text": "Seagate와 WD는 엔터프라이즈 및 고성능 데스크톱(레드/퍼플/골드) 라인 전반에 걸쳐 한 자릿수에서 두 자릿수에 이르는 가격 인상을 시행하거나 시사했다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -616,6 +618,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -660,6 +663,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -680,7 +684,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate와 WD는 2026년 HDD 생산이 100% 매진되었으며 일부 계약은 2028~2030년까지 연장되고 있다. 백오더 가격은 인정되지 않는다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -699,7 +704,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate는 1TB~5TB 2.5인치 Barracuda 제품을 EOL 예정이며, WD는 저용량 제품 견적을 거부하고 12TB 이상으로 전환을 유도하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -724,6 +730,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -744,7 +751,8 @@
     "subheading": "스토리지 가격 재설정 및 급등",
     "text": "Seagate와 WD는 2026년 생산 능력이 100% 가동 중이며, 공급 계약은 이미 2028~2030년까지 체결된 상태라고 밝혔다. WD는 6월 10일 25% 가격 인상을 시행했으며, 7월 6일에는 40% 추가 인상이 확정되었다. 제조사들은 고객을 12TB 이상의 고마진 SKU로 전환시키기 위해 1TB~5TB 2.5인치 드라이브를 공격적으로 단종(EOL) 처리하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -767,6 +775,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -787,7 +796,8 @@
     "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
     "text": "Seagate와 WD의 2026년 생산 능력은 100% 소진된 상태다. 고용량 드라이브(20TB/24TB)는 가격이 1,150~1,200달러 이상으로 급등하고 있으며, 리드타임은 52주 이상으로 확대되고 있다. 저용량 드라이브(1TB~5TB)는 전환을 유도하기 위해 적극적인 단종(EOL)이 진행되고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",

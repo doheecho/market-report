@@ -49,6 +49,7 @@
     "text": "Western Digital의 플래시 메모리 브랜드 SanDisk는 1월에 발생한 제조 시설 오염의 결과로 제품 전체의 가격과 리드 타임 증가 문제를 겪고 있습니다. 오염이 발생한 두 공장은 일본에 있으며 WD의 합작 사업 파자너인 Kioxia에서 운영하고 있습니다. 사건이 발생한 지 한 달 후, 최대 생산 능력으로 조업을 재개했지만 오염에 따른 영향이 없는 것은 아닙니다. 원래 보고서에서는 7엑사바이트의 3D NAND가 무용지물이 되었다고 했지만, 공장의 라인 가동을 중단한 21일간의 피해는 포함되지 않았습니다.",
     "detected_vendors": [
       "Kioxia",
+      "SanDisk",
       "Western Digital"
     ],
     "detected_keywords": [
@@ -191,6 +192,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -236,6 +238,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -297,6 +300,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -343,7 +347,8 @@
     "text": "DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Allocation",
@@ -364,7 +369,8 @@
     "text": "eMMC 및 NOR 플래시의 공급 부족이 심각합니다. Kioxia, SanDisk, Micron은 4GB~32GB eMMC의 단종을 계획하고 있어 자동차 및 산업 고객은 비용이 많이 드는 64GB 제품이나 UFS로 전환해야 하는 상황입니다. Macronix와 Micron의 NOR 플래시 리드타임은 40주를 넘었으며, 가격은 20~30% 급등했습니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "EOL",
@@ -408,7 +414,8 @@
     "subheading": "메모리 변동 가격 체계 및 물량 할당 붕괴",
     "text": "산업용 및 자동차용 고객사의 eMMC 물량 할당은 계속 악화되고 있으며, ISSI는 최소 한 Tier 1 고객사에 2027년까지 8Gb eMMC 공급을 지원할 수 없다고 통보했다. Kioxia는 SanDisk 및 일본 정부의 지원을 받아 일본 기타카미에 신규 NAND 팹(Fab 3)을 건설하기 시작했으며, 2029년 가동을 목표로 하고 있다.",
     "detected_vendors": [
-      "Kioxia"
+      "Kioxia",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Allocation"

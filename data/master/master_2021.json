@@ -2349,7 +2349,8 @@
     "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
     "text": "GPU 유통업체들은 암호화폐 채굴 활동으로 인해 Nvidia AIC('애드인' 파트너)가 지난 2개월 동안 RTX 3060 Ti 칩셋 공급을 받지 못하고 있는 실태를 공유했습니다. 이를 해결하기 위해, Nvidia는 암호화폐 채굴자를 대상으로 삼아 범용 그래픽 카드로부터 이 수요를 분리하기 위해 CMP(암호화폐 채굴 프로세서) 카드를 출시했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2381,7 +2382,8 @@
     "subheading": "암호화폐 채굴 활동으로 GPU 소비 증가",
     "text": "Nvidia는 4월이나 5월 중에 출시될 것으로 예상되는 이들 제품을 암호화폐 채굴자가 구매하지 못하도록 하려고 RTX 3080 Ti와 RTX 3070 Ti에도 유사한 전략을 시도할 수 있습니다. Nvidia가 해결책을 찾지 못하면 채굴자들이 CMP GPU를 그대로 공급받으면서도 계속 게이머와 기타 최종 사용자보다 더 비싼 값을 부를 것입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -2769,7 +2771,9 @@
     "section_raw": "ST Microelectronics의 공급 부족 악화",
     "subheading": "ST Microelectronics의 공급 부족 악화",
     "text": "ST Microelectronics의 MCU 수요가 강세를 유지하고 있습니다. STM32F2/F1/F7 시리즈의 리드 타임은 45주로 여전히 길지만, SLT 시리즈의 리드 타임이 45~52주로 더 늘었습니다. 공급이 타이트 해지면서 STM8A / 8L / 8S 및 STM32F0 / F1 / F3 시리즈가 할당 될 것입니다 3분기와 4분기의 모든 생산이 이미 할당되었습니다. ST Micro의 시리즈 STM8S와 STM32F가 가장 심한 타격을 받았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -4065,7 +4069,9 @@
     "section_raw": "ST Microelectronics",
     "subheading": "ST Microelectronics",
     "text": "ST Microelectronics도 말레이시아 락다운의 영향을 받고 있습니다. 이 회사는 늘어난 수요를 감당하느라 계속 애먹고 있는데, 그 영향으로 STM8/STM32 시리즈, LIS 시리즈, STP MOSFET의 리드 타임이 늘었습니다. 현재, 배송 일정을 맞추지 못하는 상황이라, 고객이 오픈 마켓으로 돌아서고 있어 오픈 마켓의 가격이 상승하고 재고 물량도 계속 빠듯한 상황입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -4081,7 +4087,9 @@
     "section_raw": "웨이퍼 공급 부족의 영향을 받는 Diodes Incorporated의 리드 타임",
     "subheading": "웨이퍼 공급 부족의 영향을 받는 Diodes Incorporated의 리드 타임",
     "text": "Diodes Incorporated는 7월 1일 이후에 가격 인상을 준비하고 있다고 발표했지만, 얼마나 올릴지에 관한 정보는 공유하지 않았습니다. 웨이퍼 공급 부족과 그에 따른 가격 인상으로 인해 리드 타임이 52주 이상으로 늘어났습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Diodes"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -5674,7 +5682,9 @@
     "section_raw": "TI에서 계속 높은 가격 책정",
     "subheading": "TI에서 계속 높은 가격 책정",
     "text": "오픈 마켓에서 TI의 공급은 여전히 빠듯하며 가격 인상이 계속될 것으로 예상되어, TI의 자동차 부문에 대한 잠재적 문제가 강조됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -5690,7 +5700,9 @@
     "section_raw": "TI에서 계속 높은 가격 책정",
     "subheading": "TI에서 계속 높은 가격 책정",
     "text": "TI는 8월에만 이미 두 번의 가격 인상을 시행했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -5706,7 +5718,9 @@
     "section_raw": "TI에서 계속 높은 가격 책정",
     "subheading": "TI에서 계속 높은 가격 책정",
     "text": "중국 정부는 투기적인 가격 책정 때문에 시장에서 자동차 칩 유통과 기타 중요 상품에 대한 엄격한 정부 통제를 부과할 것이라고 발표했습니다. 이로 인해 향후 추가적인 가격 인상이 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -5858,7 +5872,8 @@
     "subheading": "NXP, 리드 타임을 2022년까지 연장",
     "text": "다른 뉴스에서, 칩 저항기 분야의 거인 Vishay는 가격을 10%에서 20%까지 인상했습니다. 일본의 칩 저항기 선두업체인 KOA도 이를 따를 것으로 예상됩니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "Vishay"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -6642,6 +6657,7 @@
       "AMD",
       "Analog Devices",
       "Broadcom",
+      "Marvell",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -6737,7 +6753,9 @@
     "section_raw": "Marvell의 주문 적체가 가격 인상으로 이어져",
     "subheading": "Marvell의 주문 적체가 가격 인상으로 이어져",
     "text": "데이터 센터와 차량에 사용되는 네트워킹 칩을 만드는 Marvell은 모든 최종 시장에서 증가하는 수요를 따라잡는 데 애를 먹었습니다. 결국, 11월에 약 20%의 가격 인상이 예상됩니다. 이는 모든 제품과 현재의 주문 잔고에 적용되며, 리드 타임이 최대 30주 이상으로 늘어남에 따라 현재의 문제에 더욱 부담이 가중됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Marvell"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -7222,7 +7240,9 @@
     "section_raw": "IC",
     "subheading": "IC",
     "text": "TDK Corporation의 제품 배송은 6개월로 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -7237,7 +7257,9 @@
     "section_raw": "IC",
     "subheading": "IC",
     "text": "중국 남동부 해안의 다롄과 샤먼에 위치한 TDK 공장은 중국의 전력 제한으로 영향을 받고 있으며, 최대 6개월까지 제조 및 발송이 지연되고 있습니다. 영향을 받는 제품으로 클램프 필터(ZCAT 시리즈), 파워 인덕터(VLS 시리즈), MLCC(CKG 시리즈) 및 PC용 페라이트 코어 등이 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },

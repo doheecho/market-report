@@ -1,0 +1,37 @@
+{
+  "vendor": "Foxconn",
+  "total_milestones": 3,
+  "history": [
+    {
+      "date": "2025.03",
+      "category": "기타",
+      "detected_categories": [
+        "기타"
+      ],
+      "risk_level": "Low",
+      "summary": "제조업체 및 기업 업데이트",
+      "text": "Foxconn은 미국의 Stargate AI 프로젝트용 AI 서버 독점 수주에 성공한 것으로 알려졌습니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "공급망 동향",
+      "text": "인도는 마이크론과 폭스콘의 현지 생산 확대 등 반도체 투자 유치에 성공하고 있으며, 아마존 클라우드 사업부도 인도 주정부에 82억 달러 규모의 투자를 계획 중입니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory"
+      ],
+      "risk_level": "High",
+      "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
+      "text": "Foxconn은 NVIDIA Rubin 서버 구축용 1.6TB 광 트랜시버의 리드타임이 441일이라고 확인했다. 이로 인한 공급 부족으로 B300 공랭식 서버용 일부 128GB DDR5-6400 DIMM의 예상 수요도 이후로 이연되고 있다."
+    }
+  ]
+}

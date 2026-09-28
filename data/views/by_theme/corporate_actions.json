@@ -11,7 +11,8 @@
     "subheading": "Nvidia GeForce RTX 2080 Ti 단종",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "EOL",
@@ -495,6 +496,7 @@
     "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
     "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
     "detected_vendors": [
+      "Marvell",
       "SK하이닉스",
       "Seagate"
     ],
@@ -1064,7 +1066,10 @@
     "section_raw": "SSD 약세 시장 지속",
     "subheading": "SSD 약세 시장 지속",
     "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk",
+      "Western Digital"
+    ],
     "detected_keywords": [
       "M&A"
     ],
@@ -1116,7 +1121,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "Skyworks의 SMPxx 시리즈 다이오드 리드타임이 생산 감축과 원자재 부족으로 8주에서 16주로 연장되었다. 여기에 더해, 해당 부품 가격이 10배 급등해 많은 구매자들이 사실상 시장에서 배제되고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Production Cut",
@@ -1136,7 +1143,8 @@
     "subheading": "Skyworks, Qorvo 합병 추진",
     "text": "주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]",
     "detected_vendors": [
-      "Qorvo"
+      "Qorvo",
+      "Skyworks"
     ],
     "detected_keywords": [
       "M&A"

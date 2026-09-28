@@ -1,5 +1,25 @@
 [
   {
+    "year": 2020,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "다시 조업을 재개하면서 생산 능력에 우선순위를 두는 제조업체",
+    "subheading": "다시 조업을 재개하면서 생산 능력에 우선순위를 두는 제조업체",
+    "text": "전 세계의 공장들이 조업 재개를 시작함에 따라, 제조업체들은 특히 의료, 5G, 자동차, 모바일 등의 특정 부문에 생산 활동과 자원을 배정하고 있습니다. ADI는 생산가동력의 80%를 의료기기에 배정했으며, 그 다음으로 5G, 자동차, Apple 등의 순으로 배정하고 있습니다. 다른 응용 분야에서 제품을 제조하는 고객들은 배정 문제와 인도 지연이 발생할 것으로 예상됩니다. 멕시코의 공장 셧다운과 말레이시아에서 늦춰진 조업 재개 일정으로 인해 리드 타임이 늘어남에 따라, Skyworks는 5G 및 Wifi6 고객에게만 우선적으로 생산 물량을 배정하고 있습니다. 고객과 유통업체에게는 5월 중순 이후로 배송이 이루어질 예정이며 6월 말까지는 회복될 것으로 기대한다고 알려주었습니다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Skyworks"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
     "year": 2021,
     "month": 11,
     "category": "IC",
@@ -13,6 +33,7 @@
       "AMD",
       "Analog Devices",
       "Broadcom",
+      "Marvell",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -682,6 +703,26 @@
   },
   {
     "year": 2026,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "집적 회로 공급 제약 및 시장 변화",
+    "text": "ADI는 2026년 2월 1일부터 포트폴리오 전반에 걸쳐 15% 가격 인상을 시행하며, 군용 등급 MPN은 약 30% 인상이 적용됩니다. 백엔드 캐파 제한과 기판 부족으로 주요 OP AMP(예: OPA 시리즈) 리드타임이 현재 40주를 초과합니다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
     "month": 2,
     "category": "CPU",
     "detected_categories": [
@@ -1061,6 +1102,30 @@
     "month": 9,
     "category": "IC",
     "detected_categories": [
+      "IC",
+      "Passive",
+      "Storage"
+    ],
+    "section_raw": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+    "subheading": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+    "text": "주요 자동차 OEM은 2027년 중반 물량 할당 재조정에 앞서 재제조업체에 버퍼 재고를 확보하도록 지시하고 있는 것으로 알려졌다. Tier 1 고객사들은 ADI의 납기 연기, ROHM의 신규 고객 주문 거절, Nexperia로 인한 다이오드 공급 재배정 압박을 보고하고 있다. 서버 랙당 최대 75만 개에 달하는 자동차용 MLCC 수요 추정치는 이미 빠듯한 수동소자 시장의 부담을 가중시키고 있으며, Diodes Inc.의 수요가 많은 자동차용 부품 리드타임은 40주를 넘어섰다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Diodes",
+      "Nexperia",
+      "ROHM"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
       "IC"
     ],
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
@@ -1073,6 +1138,27 @@
     "detected_keywords": [
       "Allocation",
       "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Renesas",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [
+      "Allocation",
       "Price Increase"
     ],
     "risk_level": "Medium"

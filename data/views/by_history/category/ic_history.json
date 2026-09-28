@@ -105,7 +105,8 @@
     {
       "date": "2020.06",
       "detected_vendors": [
-        "Nvidia"
+        "Nvidia",
+        "Texas Instruments"
       ],
       "risk_level": "High",
       "summary": "차세대 GeForce로의 전환 진행 중",
@@ -146,7 +147,9 @@
     },
     {
       "date": "2020.07",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Texas Instruments"
+      ],
       "risk_level": "Low",
       "summary": "GPU 공급 제한으로 오픈 마켓으로 향하는 고객",
       "text": "시장에서 공급이 매우 제한된 GeForce RTX2080Ti에 대한 수요는 여전히 비교적 높습니다. 티어 2 및 티어 3 공급업체의 공급 중 일부만 수중에 넣을 수 있는 상황이라, 이제는 브랜드를 불문하고 GeForce RTX2080Ti라면 무조건 기꺼이 받겠다는 사용자도 있습니다. 다른 고객들은 RTX 2080 SUPER를 대체품으로 사용하는 것 이외의 다른 옵션이 남아 있지 않습니다. 결과적으로, RTX 2080 SUPER의 가격이 약 3~5% 증가했습니다. RTX 2080 SUPER용 칩셋 공급이 7월 이후로 중단될 것으로 예상되므로 이는 일시적인 해결책일 뿐입니다. 공급 제한으로 인해, 채널 파트너조차도 칩셋을 구하러 오픈 마켓으로 몰리고 있습니다. 한편, 제조업체들은 차세대 GeForce 카드로 전환할 준비를 하고 있습니다."
@@ -391,7 +394,9 @@
     },
     {
       "date": "2020.10",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "High",
       "summary": "MCU에 대한 급증하는 수요로 인해 부족",
       "text": "ST Micro의 MCU STM32F01/02/03 시리즈는 공급 제약에 직면하고 있습니다. 이는 ST Micro가 MCU 리드 타임에 큰 영향을 미치는 고급 5G 관련 제품에 집중하기 위해 생산 능력을 전환했을 때 발생했습니다. 이러한 공급 부족으로 인해 오픈 마켓 재고 가격이 대폭 올랐는데, STM32F030C8T6의 급격한 시장 가격 인상이 이런 상황을 잘 보여줍니다."
@@ -408,7 +413,8 @@
     {
       "date": "2020.10",
       "detected_vendors": [
-        "Nexperia"
+        "Nexperia",
+        "STMicroelectronics"
       ],
       "risk_level": "Low",
       "summary": "자동차 및 산업용 제품에 초점을 맞추는 NXP의 생산",
@@ -924,7 +930,8 @@
     {
       "date": "2021.04",
       "detected_vendors": [
-        "Nvidia"
+        "Nvidia",
+        "Texas Instruments"
       ],
       "risk_level": "Low",
       "summary": "암호화폐 채굴 활동으로 GPU 소비 증가",
@@ -992,7 +999,9 @@
     },
     {
       "date": "2021.05",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "High",
       "summary": "ST Microelectronics의 공급 부족 악화",
       "text": "ST Microelectronics의 MCU 수요가 강세를 유지하고 있습니다. STM32F2/F1/F7 시리즈의 리드 타임은 45주로 여전히 길지만, SLT 시리즈의 리드 타임이 45~52주로 더 늘었습니다. 공급이 타이트 해지면서 STM8A / 8L / 8S 및 STM32F0 / F1 / F3 시리즈가 할당 될 것입니다 3분기와 4분기의 모든 생산이 이미 할당되었습니다. ST Micro의 시리즈 STM8S와 STM32F가 가장 심한 타격을 받았습니다."
@@ -1155,7 +1164,9 @@
     },
     {
       "date": "2021.07",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "Medium",
       "summary": "ST Microelectronics",
       "text": "ST Microelectronics도 말레이시아 락다운의 영향을 받고 있습니다. 이 회사는 늘어난 수요를 감당하느라 계속 애먹고 있는데, 그 영향으로 STM8/STM32 시리즈, LIS 시리즈, STP MOSFET의 리드 타임이 늘었습니다. 현재, 배송 일정을 맞추지 못하는 상황이라, 고객이 오픈 마켓으로 돌아서고 있어 오픈 마켓의 가격이 상승하고 재고 물량도 계속 빠듯한 상황입니다."
@@ -1461,6 +1472,7 @@
         "AMD",
         "Analog Devices",
         "Broadcom",
+        "Marvell",
         "Nexperia"
       ],
       "risk_level": "High",
@@ -1535,14 +1547,18 @@
     },
     {
       "date": "2021.12",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TDK"
+      ],
       "risk_level": "Low",
       "summary": "IC",
       "text": "TDK Corporation의 제품 배송은 6개월로 연장되었습니다."
     },
     {
       "date": "2021.12",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TDK"
+      ],
       "risk_level": "Low",
       "summary": "IC",
       "text": "중국 남동부 해안의 다롄과 샤먼에 위치한 TDK 공장은 중국의 전력 제한으로 영향을 받고 있으며, 최대 6개월까지 제조 및 발송이 지연되고 있습니다. 영향을 받는 제품으로 클램프 필터(ZCAT 시리즈), 파워 인덕터(VLS 시리즈), MLCC(CKG 시리즈) 및 PC용 페라이트 코어 등이 있습니다."
@@ -1653,7 +1669,9 @@
     {
       "date": "2022.01",
       "detected_vendors": [
-        "Panasonic"
+        "Panasonic",
+        "TDK",
+        "Vishay"
       ],
       "risk_level": "Medium",
       "summary": "지정학적 리스크에 갇힌 커패시터 제조",
@@ -2251,7 +2269,9 @@
     },
     {
       "date": "2022.08",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Vishay"
+      ],
       "risk_level": "High",
       "summary": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
       "text": "이러한 요소는 특히 STMicro MOSFET와 다이오드의 생산 비용에 영향을 미쳐 가격이 더 상승할 수 있습니다. Vishay의 고전압 전력 MOSFET(IRF-xxx 시리즈) 및 자동차 등급 품목(SQ-xxx 시리즈)의 경우 제조업체 재고 할당에 여유가 없으며 내년에는 다소 완화될 것으로 예상됩니다."
@@ -2437,7 +2457,8 @@
     {
       "date": "2022.10",
       "detected_vendors": [
-        "Nvidia"
+        "Nvidia",
+        "Texas Instruments"
       ],
       "risk_level": "Low",
       "summary": "완만한 수요로 인한 GPU 시장의 불확실성 둔화",
@@ -2593,21 +2614,27 @@
     },
     {
       "date": "2022.12",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "High",
       "summary": "자동차 센서 규제로 제조업체의 변동성 조성",
       "text": "반면 STMicro의 경우 꾸준히 상황이 개선되고 있지만 공급과 리드 타임이 안정기에 접어들지는 않았으며, 고도로 제한된 할당량에 한해 50주 이상이 소요됩니다. STM의 MCU 시리즈와 M4와 M7은 여전히 높은 가격 수준을 유지하고 있으며 웨이퍼 공급 부족이 발생한 초기부터 일어난 공급 부족이 게속되고 있습니다."
     },
     {
       "date": "2022.12",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "Medium",
       "summary": "자동차 센서 규제로 제조업체의 변동성 조성",
       "text": "M0와 M3 시리즈는 이제 막 안정화에 접어들었으며 공급 역시 지난 3주 동안 개선된 바 있습니다. 공통 부품 시장 역시 과열이 한풀 꺽이며 안정화되기 시작했습니다. OEM과 EMS 고객들이 재고를 시장에 풀면서 가격은 현저히 개선되었습니다. 이는 4분기 수요의 수치가 줄어들고 제조업체들이 할당량 전량을 납품한 결과입니다. 특히 STM32 시리즈의 가격이 많이 개선되었습니다."
     },
     {
       "date": "2022.12",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "Low",
       "summary": "자동차 센서 규제로 제조업체의 변동성 조성",
       "text": "이외에도 파운드리의 생산량 축소 여파로 향후 몇달 내에 STM8 시리즈 역시 영향을 받을 전망입니다."
@@ -2671,7 +2698,8 @@
     {
       "date": "2023.01",
       "detected_vendors": [
-        "Nexperia"
+        "Nexperia",
+        "STMicroelectronics"
       ],
       "risk_level": "High",
       "summary": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
@@ -2762,7 +2790,8 @@
     {
       "date": "2023.01",
       "detected_vendors": [
-        "AMD"
+        "AMD",
+        "Skyworks"
       ],
       "risk_level": "High",
       "summary": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
@@ -2866,7 +2895,9 @@
     },
     {
       "date": "2023.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "Medium",
       "summary": "STMicro 리드 타임은 고객들이 아직도 2020년도 주문 대기 상태에 있기 때문에 악화됨",
       "text": "MCU 제품의 리드 타임은 계속 악화되고 있으며 현재 리드 타임은 76주인 것으로 보고되었습니다. STM32F4XXX, STM32F7XXX, STM32H7XX 시리즈에 대한 공급은 2020년도 주문량에 대한 납품이 완료되지 않았으므로 아직도 여유가 거의 없습니다."
@@ -3000,7 +3031,9 @@
     },
     {
       "date": "2023.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "Medium",
       "summary": "지금까지 다음 부품에 대한 리드 타임 개선은 없었습니다. STM8S, STM8L, STM32H7, STM32F2, STM32F4, STM32F7, STM8AW",
       "text": "이러한 부품은 자동차, 산업, 의료 가전 및 IoT 제품에 적용됩니다. 이러한 부품의 리드 타임은 40~52주입니다. 해당 스펙트럼의 상단에 있는 것은 F4 시리즈이지만 VNSxxx 및 L9XXX 시리즈도 여전히 높은 수요를 유지하고 있으며 시장에서 거의 구할 수 없습니다."
@@ -3286,7 +3319,9 @@
     },
     {
       "date": "2023.05",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TDK"
+      ],
       "risk_level": "Medium",
       "summary": "자동차 산업 성장이 수동소자 부품 시장의 움직임을 견인",
       "text": "일반적으로 MLCC의 리드 타임은 약 8~10주입니다. 1210 및 1216과 같이 더 큰 케이스 크기의 리드 타임은 약 16~20주로 약간 더 길며 자동차 등급 부품에 대한 가용 공급량은 할당에 따라 달라질 수 있습니다. 전반적으로 TDK MLCC, 특히 CGA 시리즈가 가장 수요가 많은 부품인 것으로 보입니다."
@@ -3423,14 +3458,18 @@
     },
     {
       "date": "2023.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TDK"
+      ],
       "risk_level": "High",
       "summary": "주목 받는 TDK의 고정밀 센서",
       "text": "TDK Corporation은 충분한 공급을 보장하기 위해 차량용 고정밀 센서 생산량을 두 배로 늘릴 계획입니다. 팬데믹 기간 동안 자동차 산업은 집적 회로 및 기타 전자 부품 부족으로 인해 특히 큰 타격을 입었기 때문에 자동차 산업을 위한 할당량을 보호하려는 노력은 자동차 고객과 TDK 모두에게 도움이 됩니다. 이 전략은 TDK 및 고객과의 전략적 파트너십을 강화하는 한편, 첨단 생산 기술을 통해 TDK의 모든 추가 업종에 대한 전반적인 제조를 개선할 것입니다."
     },
     {
       "date": "2023.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TDK"
+      ],
       "risk_level": "Low",
       "summary": "주목 받는 TDK의 고정밀 센서",
       "text": "이러한 센서는 압력, 온도, 습도 및 위치 등 다양한 매개변수에 대한 정확하고 신뢰할 수 있는 측정을 제공함으로써 자동차 응용 분야에서 중요한 역할을 합니다. 차량이 기술적으로 더욱 정교해짐에 따라 고정밀 센서에 대한 필요성이 급증하고 있습니다. 이러한 센서는 첨단 운전자 지원 시스템(ADAS)을 구현하고 차량 안전을 개선하며 전반적인 성능을 향상시키는 데 필수적입니다."
@@ -3485,7 +3524,8 @@
     {
       "date": "2023.06",
       "detected_vendors": [
-        "Nvidia"
+        "Nvidia",
+        "Texas Instruments"
       ],
       "risk_level": "Medium",
       "summary": "기단 리드 타임으로 인해 게이밍 GPU보다 우선시하게 된 기업용 GPU",
@@ -3545,7 +3585,9 @@
     },
     {
       "date": "2023.07",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "STMicroelectronics"
+      ],
       "risk_level": "Medium",
       "summary": "FM 시리즈의 리드 타임 단축 및 비용 절감 시작",
       "text": "STM32H는 공급 제약 기간 및 리드 타임 연장으로 인한 가격 상승에 따라 3분기에서 4분기 사이에 회복할 것으로 예측됩니다. 그러나 전반적인 수요가 여전히 높기 때문에 회복은 특정 MPN의 영향을 받습니다. 가장 큰 영향을 받은 MCU로 STM32F4XXX, STM32F7XXX, STM32H7XX 등이 있지만, 리드 타임은 점차 단축되고 있습니다."
@@ -3595,7 +3637,8 @@
         "Broadcom",
         "Infineon",
         "Qorvo",
-        "STMicroelectronics"
+        "STMicroelectronics",
+        "Skyworks"
       ],
       "risk_level": "Medium",
       "summary": "수출 제한 조치가 반도체 제조에 미칠 수 있는 영향",
@@ -3878,14 +3921,18 @@
     },
     {
       "date": "2023.11",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Vishay"
+      ],
       "risk_level": "Medium",
       "summary": "CRCW 시리즈에 대한 Vishay 리드 타임 연장",
       "text": "지난 분기 Vishay의 고전력 후막 저항기 CRCW 계열의 리드 타임은 18~20주 사이였으나 빠르게 70주 이상으로 늘어났습니다. 자동차, 공업 및 통신 인프라 산업은 전력 변환, 모터 구동 및 배터리 관리 응용 분야에서 이러한 저항기를 사용하기 때문에 이러한 지연의 영향을 체감하고 있습니다."
     },
     {
       "date": "2023.11",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Vishay"
+      ],
       "risk_level": "Medium",
       "summary": "CRCW 시리즈에 대한 Vishay 리드 타임 연장",
       "text": "유통업체는 시장 정보 채널을 주의 깊게 모니터링하여 업데이트를 확인하고 있습니다. 생산에 미치는 중대한 영향에 대한 공식적인 보고는 없지만, 제조업체는 추가 지원이 필요한 경우 다른 지역 공장으로 생산 능력을 이전할 수 있는 대체 계획을 가지고 있습니다. 가격은 제조에 위험이 있는 영역을 파악하기 위해 노력함에 따라 사전 통지 없이 변경될 수 있습니다."
@@ -4085,7 +4132,8 @@
     {
       "date": "2024.02",
       "detected_vendors": [
-        "Murata"
+        "Murata",
+        "TDK"
       ],
       "risk_level": "High",
       "summary": "일본 지진으로 경쟁사 수요 발생",
@@ -4756,7 +4804,8 @@
     {
       "date": "2024.10",
       "detected_vendors": [
-        "Nexperia"
+        "Nexperia",
+        "STMicroelectronics"
       ],
       "risk_level": "Medium",
       "summary": "MCU 가격 상승",
@@ -4766,6 +4815,7 @@
       "date": "2024.10",
       "detected_vendors": [
         "AVX",
+        "Kyocera",
         "Murata"
       ],
       "risk_level": "High",
@@ -4784,7 +4834,8 @@
     {
       "date": "2024.10",
       "detected_vendors": [
-        "Panasonic"
+        "Panasonic",
+        "TDK"
       ],
       "risk_level": "Low",
       "summary": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인",
@@ -4837,7 +4888,9 @@
     },
     {
       "date": "2025.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Texas Instruments"
+      ],
       "risk_level": "High",
       "summary": "집적 회로(IC) 제한된 시장 속에서 길을 찾다",
       "text": "TI의 TCAN114x-Q1은 제조 전환 계획 문제로 인해 공급 부족 현상이 발생했으며, 3월까지 심각한 부족 상태가 지속될 것으로 보입니다."
@@ -4929,7 +4982,9 @@
     },
     {
       "date": "2025.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "집적 회로 시장 변화 동향",
       "text": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다. 4월 1일부터 최소 10% 가격 인상이 예정되어 있으며, 분기별로 추가 조정이 있을 수 있습니다."
@@ -5110,6 +5165,7 @@
     {
       "date": "2025.03",
       "detected_vendors": [
+        "Foxconn",
         "Micron"
       ],
       "risk_level": "Low",
@@ -5299,6 +5355,7 @@
       "date": "2025.05",
       "detected_vendors": [
         "Intel",
+        "Marvell",
         "Nvidia"
       ],
       "risk_level": "Medium",
@@ -5339,7 +5396,9 @@
     },
     {
       "date": "2025.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Texas Instruments"
+      ],
       "risk_level": "Medium",
       "summary": "집적 회로",
       "text": "TI는 수익성이 낮은 일부 제품에 대해 6월 15일경부터 가격 인상을 시행할 예정이며, 인상 폭은 15%에서 24%입니다. 영향받는 카테고리: 이번 변경은 주로 C2000™ MCU, 절연 제품(DSPxxx, ISOxxx, UCCxxx 시리즈), 증폭기 제품(MSPxxx, LMxxx 시리즈)에 영향을 미칩니다."
@@ -5583,7 +5642,9 @@
     },
     {
       "date": "2025.10",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Skyworks"
+      ],
       "risk_level": "High",
       "summary": "집적 회로 공급 제약 및 시장 변화",
       "text": "Skyworks의 SMPxx 시리즈 다이오드 리드타임이 생산 감축과 원자재 부족으로 8주에서 16주로 연장되었다. 여기에 더해, 해당 부품 가격이 10배 급등해 많은 구매자들이 사실상 시장에서 배제되고 있다."
@@ -5672,6 +5733,7 @@
     {
       "date": "2025.11",
       "detected_vendors": [
+        "Marvell",
         "Realtek"
       ],
       "risk_level": "Medium",
@@ -5690,7 +5752,8 @@
     {
       "date": "2025.11",
       "detected_vendors": [
-        "Qorvo"
+        "Qorvo",
+        "Skyworks"
       ],
       "risk_level": "Low",
       "summary": "Skyworks, Qorvo 합병 추진",
@@ -5719,6 +5782,7 @@
     {
       "date": "2025.12",
       "detected_vendors": [
+        "Marvell",
         "TSMC"
       ],
       "risk_level": "Medium",
@@ -5753,14 +5817,18 @@
     },
     {
       "date": "2026.01",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Analog Devices"
+      ],
       "risk_level": "High",
       "summary": "집적 회로 공급 제약 및 시장 변화",
       "text": "ADI는 2026년 2월 1일부터 포트폴리오 전반에 걸쳐 15% 가격 인상을 시행하며, 군용 등급 MPN은 약 30% 인상이 적용됩니다. 백엔드 캐파 제한과 기판 부족으로 주요 OP AMP(예: OPA 시리즈) 리드타임이 현재 40주를 초과합니다."
     },
     {
       "date": "2026.01",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Texas Instruments"
+      ],
       "risk_level": "Medium",
       "summary": "집적 회로 공급 제약 및 시장 변화",
       "text": "여러 전문 벤더에 따르면 TI는 2026년 1분기 신규 리드타임 주문에 대해 큰 폭의 가격 인상을 예고하고 있습니다. 고객들은 공식 공지가 나오기 전에 2025년 가격으로 확정하기 위해 서둘러 움직이고 있습니다."
@@ -5768,6 +5836,7 @@
     {
       "date": "2026.01",
       "detected_vendors": [
+        "Marvell",
         "Realtek",
         "TSMC"
       ],
@@ -5797,7 +5866,8 @@
       "date": "2026.02",
       "detected_vendors": [
         "Nexperia",
-        "Onsemi"
+        "Onsemi",
+        "Vishay"
       ],
       "risk_level": "High",
       "summary": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
@@ -6126,7 +6196,8 @@
     {
       "date": "2026.03",
       "detected_vendors": [
-        "Panasonic"
+        "Panasonic",
+        "Vishay"
       ],
       "risk_level": "Medium",
       "summary": "Vishay MOSFET(예",
@@ -6220,6 +6291,7 @@
     {
       "date": "2026.04",
       "detected_vendors": [
+        "Diodes",
         "Renesas"
       ],
       "risk_level": "Medium",
@@ -6278,6 +6350,7 @@
     {
       "date": "2026.05",
       "detected_vendors": [
+        "Diodes",
         "Infineon",
         "Nexperia",
         "Onsemi"
@@ -6293,6 +6366,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
+        "Western Digital",
         "삼성"
       ],
       "risk_level": "High",
@@ -6451,6 +6525,7 @@
     {
       "date": "2026.06",
       "detected_vendors": [
+        "Diodes",
         "Nexperia",
         "Onsemi",
         "Renesas"
@@ -6639,6 +6714,7 @@
     {
       "date": "2026.07",
       "detected_vendors": [
+        "STMicroelectronics",
         "TSMC"
       ],
       "risk_level": "Medium",
@@ -6748,7 +6824,8 @@
       "date": "2026.08",
       "detected_vendors": [
         "Kioxia",
-        "Micron"
+        "Micron",
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
@@ -6864,7 +6941,8 @@
       "date": "2026.08",
       "detected_vendors": [
         "Kioxia",
-        "Micron"
+        "Micron",
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "메모리 유동적 가격 책정 및 단종 확산",
@@ -6944,6 +7022,7 @@
       "date": "2026.09",
       "detected_vendors": [
         "AVX",
+        "Kyocera",
         "Murata",
         "Samsung",
         "Yageo",
@@ -6979,7 +7058,10 @@
     {
       "date": "2026.09",
       "detected_vendors": [
-        "Nexperia"
+        "Analog Devices",
+        "Diodes",
+        "Nexperia",
+        "ROHM"
       ],
       "risk_level": "Medium",
       "summary": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
@@ -7007,6 +7089,7 @@
     {
       "date": "2026.09",
       "detected_vendors": [
+        "Analog Devices",
         "Renesas",
         "STMicroelectronics"
       ],
@@ -7035,7 +7118,10 @@
     },
     {
       "date": "2026.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Skyworks",
+        "Vishay"
+      ],
       "risk_level": "High",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "Skyworks는 다이오드 생산 라인 한 곳을 폐쇄하고 전환 지원 없이 2027년부터 해당 제품군의 일부 품목에서 철수할 예정인 것으로 알려졌다. Vishay는 팹 과잉 예약과 관련해 MOSFET(SIB452DK-T1-GE3)의 공급 확약 철회를 통보했으며, 이에 따라 신규 납기 일정은 2027년 말로 연기되고 있다."
@@ -7076,6 +7162,7 @@
     {
       "date": "2026.09",
       "detected_vendors": [
+        "Foxconn",
         "Nvidia"
       ],
       "risk_level": "High",
@@ -7105,6 +7192,7 @@
     {
       "date": "2026.09",
       "detected_vendors": [
+        "Kyocera",
         "Samsung",
         "삼성"
       ],

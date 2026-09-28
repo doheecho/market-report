@@ -647,7 +647,8 @@
     "text": "Nvidia 는 주로 AMD RX 6000 시리즈에 비해 가격과 기능적 성능 면에서 전혀 경쟁력이 없는 이유 때문에 RTX 3080 20GB, 3070Ti 및 3070 16GB 등 3가지 모델 출시 계획을 취소했다는 소문이 있습니다.",
     "detected_vendors": [
       "AMD",
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1391,6 +1392,7 @@
       "AMD",
       "Analog Devices",
       "Broadcom",
+      "Marvell",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -2161,7 +2163,8 @@
     "subheading": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
     "text": "한편 또 다른 공고에 따르면 Si-xxx 시리즈는 Skyworks 이전 이후 리드 타임과 공급 부족(Shortage)이 증가하고 있습니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Lead Time",

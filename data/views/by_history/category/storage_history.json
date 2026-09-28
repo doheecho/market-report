@@ -1154,6 +1154,7 @@
     {
       "date": "2023.05",
       "detected_vendors": [
+        "Marvell",
         "SK하이닉스",
         "Seagate"
       ],
@@ -1914,7 +1915,10 @@
     },
     {
       "date": "2025.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk",
+        "Western Digital"
+      ],
       "risk_level": "Low",
       "summary": "SSD 약세 시장 지속",
       "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다."
@@ -1973,7 +1977,9 @@
     },
     {
       "date": "2025.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "스토리지",
       "text": "Sandisk는 4월 1일부터 10%를 초과하는 가격 인상을 시행했으며, 다른 제조업체들도 이에 뒤따를 것으로 예상됩니다."
@@ -1998,7 +2004,9 @@
     },
     {
       "date": "2025.05",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "High",
       "summary": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
       "text": "NAND 비용 및 생산 문제로 인해 Sandisk는 가격을 10% 이상 인상했으며, 소비자 및 프로슈머 SSD 부문도 유사한 가격 조정이 예상됩니다."
@@ -2132,7 +2140,9 @@
     },
     {
       "date": "2025.09",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "용량 수요로 인한 대안 모색",
       "text": "SanDisk는 AI, 데이터센터, 모바일 부문 수요 강세를 이유로 전 채널 및 소비자 SSD 제품에 대해 즉각적인 10% 이상 가격 인상을 발표했습니다."
@@ -2186,7 +2196,9 @@
     },
     {
       "date": "2025.10",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "High",
       "summary": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
       "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다."
@@ -2203,7 +2215,8 @@
     {
       "date": "2025.10",
       "detected_vendors": [
-        "Seagate"
+        "Seagate",
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
@@ -2342,6 +2355,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
+        "Western Digital",
         "삼성"
       ],
       "risk_level": "High",
@@ -2382,7 +2396,9 @@
     },
     {
       "date": "2026.01",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Vishay"
+      ],
       "risk_level": "Medium",
       "summary": "비쉐이(Vishay) MOSFET(예",
       "text": "SQ2389CES)은 25주 리드타임을 보이며, 유통사는 저항/캐패시터/디스크리트 전반에서 배정 축소가 발생하고 있다고 보고합니다."
@@ -2391,7 +2407,8 @@
       "date": "2026.02",
       "detected_vendors": [
         "Nexperia",
-        "Onsemi"
+        "Onsemi",
+        "Vishay"
       ],
       "risk_level": "High",
       "summary": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
@@ -2419,14 +2436,18 @@
     },
     {
       "date": "2026.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "Low",
       "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
       "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다."
     },
     {
       "date": "2026.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "High",
       "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
       "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다."
@@ -2472,6 +2493,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
+        "Western Digital",
         "삼성"
       ],
       "risk_level": "High",
@@ -2513,7 +2535,8 @@
     {
       "date": "2026.03",
       "detected_vendors": [
-        "Seagate"
+        "Seagate",
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
@@ -2522,7 +2545,8 @@
     {
       "date": "2026.03",
       "detected_vendors": [
-        "Seagate"
+        "Seagate",
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지 용량 부족 및 가격 상승",
@@ -2556,7 +2580,9 @@
     },
     {
       "date": "2026.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Vishay"
+      ],
       "risk_level": "Medium",
       "summary": "Vishay MOSFET(예",
       "text": "SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다."
@@ -2577,6 +2603,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
+        "Western Digital",
         "삼성"
       ],
       "risk_level": "High",
@@ -2605,7 +2632,9 @@
     },
     {
       "date": "2026.05",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "High",
       "summary": "스토리지 2028년까지 완판",
       "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다."
@@ -2638,7 +2667,9 @@
     },
     {
       "date": "2026.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "High",
       "summary": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
       "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다."
@@ -2666,7 +2697,8 @@
     {
       "date": "2026.06",
       "detected_vendors": [
-        "Seagate"
+        "Seagate",
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지 가격 재설정 및 급등",
@@ -2688,6 +2720,7 @@
         "SK하이닉스",
         "Samsung",
         "Seagate",
+        "Western Digital",
         "삼성"
       ],
       "risk_level": "High",
@@ -2710,7 +2743,8 @@
     {
       "date": "2026.07",
       "detected_vendors": [
-        "Seagate"
+        "Seagate",
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -2747,7 +2781,8 @@
       "date": "2026.08",
       "detected_vendors": [
         "Kioxia",
-        "Micron"
+        "Micron",
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
@@ -2796,7 +2831,10 @@
     {
       "date": "2026.09",
       "detected_vendors": [
-        "Nexperia"
+        "Analog Devices",
+        "Diodes",
+        "Nexperia",
+        "ROHM"
       ],
       "risk_level": "Medium",
       "summary": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
@@ -2828,7 +2866,8 @@
     {
       "date": "2026.09",
       "detected_vendors": [
-        "SK하이닉스"
+        "SK하이닉스",
+        "SanDisk"
       ],
       "risk_level": "Low",
       "summary": "스토리지 2028년까지 전량 소진",

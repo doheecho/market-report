@@ -515,6 +515,7 @@
     "subheading": "르네사스 공급 불안정, 시장 전반의 설계 변경 촉발",
     "text": "르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Renesas"
     ],
     "detected_keywords": [
@@ -553,6 +554,7 @@
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "Diodes Incorporated의 리드타임은 크게 늘어나, 경우에 따라 48주에서 최대 1년까지 소요되고 있습니다. 동사는 르네사스 설계 제외 흐름의 수혜를 입고 있으며, 대체 프로그램 전반에서 수요가 증가하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Renesas"
     ],
     "detected_keywords": [
@@ -610,6 +612,7 @@
     "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "On Semi와 Diodes Incorporated는 Nexperia 및 MCC의 인증 전환에 따른 초과 수요를 흡수하고 있다. 리드타임은 40~52주 이상으로 확대되었으며, On Semi는 7월 가격 조정(약 15% 이상)을 발표했고 Diodes는 상업용 등급 주문에 대해 백로그 압축 정책을 시행하고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Nexperia",
       "Onsemi",
       "Renesas"
@@ -776,6 +779,7 @@
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다.",
     "detected_vendors": [
+      "Analog Devices",
       "Renesas",
       "STMicroelectronics"
     ],

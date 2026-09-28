@@ -87,6 +87,7 @@
     "text": "Western Digital의 플래시 메모리 브랜드 SanDisk는 1월에 발생한 제조 시설 오염의 결과로 제품 전체의 가격과 리드 타임 증가 문제를 겪고 있습니다. 오염이 발생한 두 공장은 일본에 있으며 WD의 합작 사업 파자너인 Kioxia에서 운영하고 있습니다. 사건이 발생한 지 한 달 후, 최대 생산 능력으로 조업을 재개했지만 오염에 따른 영향이 없는 것은 아닙니다. 원래 보고서에서는 7엑사바이트의 3D NAND가 무용지물이 되었다고 했지만, 공장의 라인 가동을 중단한 21일간의 피해는 포함되지 않았습니다.",
     "detected_vendors": [
       "Kioxia",
+      "SanDisk",
       "Western Digital"
     ],
     "detected_keywords": [
@@ -349,6 +350,25 @@
   {
     "year": 2025,
     "month": 3,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "SSD 약세 시장 지속",
+    "subheading": "SSD 약세 시장 지속",
+    "text": "WD와 Sandisk는 2월 1일부로 공식적으로 분사되었습니다. 현재 Sandisk는 SSD 사업에 집중하고 있으며, WD는 HDD에 집중하고 있습니다. WD는 시스템 이슈로 인해 출하 지연이 발생했지만, 곧 해결될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "SanDisk",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
     "category": "Memory",
     "detected_categories": [
       "Memory",
@@ -484,6 +504,46 @@
   },
   {
     "year": 2025,
+    "month": 10,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
+    "text": "Seagate와 WD는 엔터프라이즈 및 고성능 데스크톱(레드/퍼플/골드) 라인 전반에 걸쳐 한 자릿수에서 두 자릿수에 이르는 가격 인상을 시행하거나 시사했다.",
+    "detected_vendors": [
+      "Seagate",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2025,
     "month": 12,
     "category": "Storage",
     "detected_categories": [
@@ -504,6 +564,31 @@
   },
   {
     "year": 2026,
+    "month": 1,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
+    "subheading": "비하이퍼스케일러 SSD & HDD 배정 붕괴",
+    "text": "솔리다임, 삼성, 키옥시아의 엔터프라이즈 SSD는 사실상 상위 고객에게만 배정되고 있습니다. 채널 파트너는 배정률이 30% 미만이며, 1분기에 20~70% 가격 인상을 맞이하고 있습니다. 씨게이트와 WD의 20TB+ HDD 역시 2026년 중반까지 백로그가 누적되어 있으며, 저용량(1~2TB) 드라이브는 업그레이드를 유도하기 위해 완전히 단종 수순에 들어가고 있습니다.",
+    "detected_vendors": [
+      "Kioxia",
+      "SK하이닉스",
+      "Samsung",
+      "Seagate",
+      "Western Digital",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
     "month": 2,
     "category": "Storage",
     "detected_categories": [
@@ -518,6 +603,42 @@
     "detected_keywords": [
       "EOL",
       "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
+    "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
+    "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
+    "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
+    "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -563,6 +684,72 @@
     "detected_categories": [
       "Storage"
     ],
+    "section_raw": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
+    "subheading": "스토리지 공급망 붕괴 및 전략적 EOL 가속",
+    "text": "Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD는 사실상 주요 고객에게만 예약 공급되고 있다. 채널 파트너는 30% 미만의 할당만 받고 있으며, 1분기 가격은 20~90% 상승했다. Seagate와 WD는 2026년 HDD 생산 용량이 100% 매진되었으며, 고용량 드라이브의 리드타임은 2028년까지 연장되고 있다고 보고했다. 제조사들은 저용량 드라이브(1TB~4TB)를 적극적으로 EOL 처리하여 전환을 유도하고 있다.",
+    "detected_vendors": [
+      "Kioxia",
+      "SK하이닉스",
+      "Samsung",
+      "Seagate",
+      "Western Digital",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 용량 부족 및 가격 상승",
+    "subheading": "스토리지 용량 부족 및 가격 상승",
+    "text": "Seagate와 WD는 2026년 HDD 생산이 100% 매진되었으며 일부 계약은 2028~2030년까지 연장되고 있다. 백오더 가격은 인정되지 않는다.",
+    "detected_vendors": [
+      "Seagate",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 용량 부족 및 가격 상승",
+    "subheading": "스토리지 용량 부족 및 가격 상승",
+    "text": "Seagate는 1TB~5TB 2.5인치 Barracuda 제품을 EOL 예정이며, WD는 저용량 제품 견적을 거부하고 12TB 이상으로 전환을 유도하고 있다.",
+    "detected_vendors": [
+      "Seagate",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
     "section_raw": "스토리지 용량 부족 및 가격 상승",
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "WD 고용량 HDD(18TB~24TB) 리드타임은 3개월~54주이며, Toshiba는 20TB 이상 지원이 불가하다. 10~24TB 제품 리드타임은 2026년 2분기까지 연장된다.",
@@ -574,6 +761,50 @@
       "Lead Time",
       "Price Increase",
       "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
+    "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 할당 붕괴",
+    "text": "Solidigm, Samsung, Micron의 엔터프라이즈 SSD는 전분기 대비 50~90% 가격 인상을 겪고 있으며, 주 단위 가격 재설정이 표준화되고 있다. Seagate와 WD의 HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고며, 계약은 2028~2030년까지 연장되고 있다. 제조사들은 저용량 드라이브(1TB~4TB)를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있으며, 이로 인해 기존 OEM 및 채널 파트너에게 심각한 병목 현상이 발생하고 있다.",
+    "detected_vendors": [
+      "Micron",
+      "SK하이닉스",
+      "Samsung",
+      "Seagate",
+      "Western Digital",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 완판",
+    "subheading": "스토리지 2028년까지 완판",
+    "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL"
     ],
     "risk_level": "High"
   },
@@ -595,6 +826,90 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
+    "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
+    "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
+    "detected_vendors": [
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 6,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 가격 재설정 및 급등",
+    "subheading": "스토리지 가격 재설정 및 급등",
+    "text": "Seagate와 WD는 2026년 생산 능력이 100% 가동 중이며, 공급 계약은 이미 2028~2030년까지 체결된 상태라고 밝혔다. WD는 6월 10일 25% 가격 인상을 시행했으며, 7월 6일에는 40% 추가 인상이 확정되었다. 제조사들은 고객을 12TB 이상의 고마진 SKU로 전환시키기 위해 1TB~5TB 2.5인치 드라이브를 공격적으로 단종(EOL) 처리하고 있다.",
+    "detected_vendors": [
+      "Seagate",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 공급망, 한계 상황 도달",
+    "subheading": "스토리지 공급망, 한계 상황 도달",
+    "text": "Solidigm, Samsung, Kioxia의 엔터프라이즈 SSD 가격은 3분기에 20~50% 상승하고 있다. Seagate와 WD는 2026년 생산 능력이 전량 소진된 상태라고 밝혔으며, 고용량(20TB/24TB) HDD는 리드타임이 52주 이상으로 늘어나고 가격은 1,150~1,200달러를 넘어 급등하고 있다. 저용량 드라이브는 적극적이고 강제적인 단종(EOL) 조치에 직면하고 있다.",
+    "detected_vendors": [
+      "Kioxia",
+      "SK하이닉스",
+      "Samsung",
+      "Seagate",
+      "Western Digital",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 7,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
+    "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
+    "text": "Seagate와 WD의 2026년 생산 능력은 100% 소진된 상태다. 고용량 드라이브(20TB/24TB)는 가격이 1,150~1,200달러 이상으로 급등하고 있으며, 리드타임은 52주 이상으로 확대되고 있다. 저용량 드라이브(1TB~5TB)는 전환을 유도하기 위해 적극적인 단종(EOL)이 진행되고 있다.",
+    "detected_vendors": [
+      "Seagate",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,

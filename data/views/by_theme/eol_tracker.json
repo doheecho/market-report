@@ -11,7 +11,8 @@
     "subheading": "Nvidia GeForce RTX 2080 Ti 단종",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "EOL",
@@ -68,7 +69,8 @@
     "subheading": "차세대 GeForce로의 전환 진행 중",
     "text": "차세대 GeForce 30xx 시리즈 출시를 앞두고 있는 상황에서, 기존 RTX 20xx 시리즈의 공급이 크게 줄어 새 제품 라인을 위한 길을 터주었습니다. 더욱이, RTX 2080 TI에 대한 수요가 꾸준하고 Nvidia가 5월 중순에 RTX2080Ti 칩셋을 단종함에 따라, 6월을 지나며 시장 가격이 약 5% 정도 상승 추세를 타고 있습니다. 시장의 재고 물량이 소진되고 나면 수요가 RTX2080 Super로 옮겨갈 것입니다. 몇몇 소식통은 2080 Super에 대한 문의가 이미 늘었다는 점을 지적했는데, 현재 리드 타임이 1~2주일 정도 늘어나고 있는 것으로 보입니다. 차세대 GeForce 30xx가 3분기에 출시될 것이라는 뉴스가 떠돌았습니다. 하지만 Nvidia는 어떤 공식 발표도 하지 않았고, 고객들은 새 모델이 출시되기 전까지 필사적으로 공급 격차를 적정 수준으로 관리해야 하는 상황입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "EOL",
@@ -2269,6 +2271,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -2348,7 +2351,9 @@
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -2445,6 +2450,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -2465,7 +2471,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate는 1TB~5TB 2.5인치 Barracuda 제품을 EOL 예정이며, WD는 저용량 제품 견적을 거부하고 12TB 이상으로 전환을 유도하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -2686,6 +2693,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -2782,7 +2790,9 @@
     "section_raw": "스토리지 2028년까지 완판",
     "subheading": "스토리지 2028년까지 완판",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -2897,7 +2907,9 @@
     "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
     "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Allocation",
       "EOL"
@@ -2976,7 +2988,8 @@
     "subheading": "스토리지 가격 재설정 및 급등",
     "text": "Seagate와 WD는 2026년 생산 능력이 100% 가동 중이며, 공급 계약은 이미 2028~2030년까지 체결된 상태라고 밝혔다. WD는 6월 10일 25% 가격 인상을 시행했으며, 7월 6일에는 40% 추가 인상이 확정되었다. 제조사들은 고객을 12TB 이상의 고마진 SKU로 전환시키기 위해 1TB~5TB 2.5인치 드라이브를 공격적으로 단종(EOL) 처리하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -3021,6 +3034,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -3104,7 +3118,8 @@
     "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
     "text": "Seagate와 WD의 2026년 생산 능력은 100% 소진된 상태다. 고용량 드라이브(20TB/24TB)는 가격이 1,150~1,200달러 이상으로 급등하고 있으며, 리드타임은 52주 이상으로 확대되고 있다. 저용량 드라이브(1TB~5TB)는 전환을 유도하기 위해 적극적인 단종(EOL)이 진행되고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -3168,7 +3183,8 @@
     "text": "DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Allocation",
@@ -3306,7 +3322,8 @@
     "text": "eMMC 및 NOR 플래시의 공급 부족이 심각합니다. Kioxia, SanDisk, Micron은 4GB~32GB eMMC의 단종을 계획하고 있어 자동차 및 산업 고객은 비용이 많이 드는 64GB 제품이나 UFS로 전환해야 하는 상황입니다. Macronix와 Micron의 NOR 플래시 리드타임은 40주를 넘었으며, 가격은 20~30% 급등했습니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "EOL",
@@ -3413,6 +3430,7 @@
     "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata",
       "Samsung",
       "Yageo",
@@ -3457,6 +3475,7 @@
     "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Foxconn은 NVIDIA Rubin 서버 구축용 1.6TB 광 트랜시버의 리드타임이 441일이라고 확인했다. 이로 인한 공급 부족으로 B300 공랭식 서버용 일부 128GB DDR5-6400 DIMM의 예상 수요도 이후로 이연되고 있다.",
     "detected_vendors": [
+      "Foxconn",
       "Nvidia"
     ],
     "detected_keywords": [

@@ -255,6 +255,8 @@
     "detected_vendors": [
       "Kemet",
       "Murata",
+      "TDK",
+      "Vishay",
       "Yageo"
     ],
     "detected_keywords": [
@@ -345,7 +347,8 @@
     "subheading": "일본 지진으로 경쟁사 수요 발생",
     "text": "지진에 의해 가장 큰 피해를 본 Murata에서 가까운 시일 내 신규 주문을 지원할 수 없음을 예상하면서 고객들의 경쟁사 주문을 장려하기 시작했습니다. Murata의 경쟁사 중 한 곳인 TDK에서는 생산 중단으로 인한 주문 증가가 나타나고 있습니다. TDK의 VLS 시리즈는 Murata LQ 시리즈를 성공적으로 대체했습니다. 그 결과 VL 시리즈의 리드 타임은 계속 연장되어 현재 14주를 초과합니다.",
     "detected_vendors": [
-      "Murata"
+      "Murata",
+      "TDK"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -406,6 +409,7 @@
     "text": "AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata"
     ],
     "detected_keywords": [
@@ -688,6 +692,7 @@
     "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata",
       "Samsung",
       "Yageo",

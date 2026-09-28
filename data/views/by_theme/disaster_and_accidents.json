@@ -479,7 +479,8 @@
     "subheading": "Wuxi Looms 도금 공장에서 대형 화재 발생",
     "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -497,7 +498,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -515,7 +517,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -533,7 +536,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay의 SQ 생산은 약간의 영향을 받았지만 시장에 미치는 영향은 그다지 크지 않을 것입니다. Vishay의 MOSFET, 특히 SIxxx 및 SUxxx 시리즈가 가장 큰 영향을 받았습니다. 시장은 4월까지 생산 차질의 여파를 체감하겠지만, 제조업체의 수주 잔량이 이미 제약을 받고 있어 향후 인도 여부를 판단할 수 없습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -551,7 +555,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay는 수요를 충족하기 위해 새로운 도금 공장을 재지정할 계획입니다. 4월까지 전환이 완료되겠지만 생산을 시작하려면 추가로 5개월이 더 소요될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -643,7 +648,8 @@
     "subheading": "일본 지진으로 경쟁사 수요 발생",
     "text": "지진에 의해 가장 큰 피해를 본 Murata에서 가까운 시일 내 신규 주문을 지원할 수 없음을 예상하면서 고객들의 경쟁사 주문을 장려하기 시작했습니다. Murata의 경쟁사 중 한 곳인 TDK에서는 생산 중단으로 인한 주문 증가가 나타나고 있습니다. TDK의 VLS 시리즈는 Murata LQ 시리즈를 성공적으로 대체했습니다. 그 결과 VL 시리즈의 리드 타임은 계속 연장되어 현재 14주를 초과합니다.",
     "detected_vendors": [
-      "Murata"
+      "Murata",
+      "TDK"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -1012,6 +1018,7 @@
     "subheading": "넥스페리아 분절화 심화",
     "text": "넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"

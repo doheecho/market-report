@@ -778,7 +778,8 @@
     {
       "date": "2021.04",
       "detected_vendors": [
-        "Nvidia"
+        "Nvidia",
+        "Texas Instruments"
       ],
       "risk_level": "Low",
       "summary": "암호화폐 채굴 활동으로 GPU 소비 증가",

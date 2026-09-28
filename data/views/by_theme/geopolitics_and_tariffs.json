@@ -252,7 +252,8 @@
       "Broadcom",
       "Infineon",
       "Qorvo",
-      "STMicroelectronics"
+      "STMicroelectronics",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -831,6 +832,7 @@
     "text": "미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
     "detected_vendors": [
       "Intel",
+      "Marvell",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -992,6 +994,7 @@
     "subheading": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
     "text": "Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"
@@ -1014,6 +1017,7 @@
     "subheading": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화",
     "text": "EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Nexperia",
       "Onsemi"
     ],

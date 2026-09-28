@@ -101,7 +101,9 @@
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다. 특히 TDK Corporation, Panasonic Corporation, Vishay Intertechnology, Inc., WIMA와 같은 제조업체는 커패시터 제조용 소재 할당 문제로 인한 어려움을 겪고 있습니다. 생산 지연으로 리드 타임이 증가했습니다. 필름 커패시터의 대체적인 현재 표준 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "TDK",
+      "Vishay"
     ],
     "detected_keywords": [
       "Allocation",
@@ -120,7 +122,9 @@
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "TDK: 최대 52주",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -135,7 +139,9 @@
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "Vishay: 최대 50주",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -296,7 +302,8 @@
     "subheading": "Nvidia의 새로운 플래그십 GPU 발표",
     "text": "Nvidia는 GeForce RTX 3090 Ti를 새로운 플래그십 GPU로 발표했습니다. 새로운 시리즈에 생산을 다시 할당하면 이전 모델 RTX 3080, 3080, 3090 공급에 부담이 발생할 수 있습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "Allocation"
@@ -747,7 +754,8 @@
     "subheading": "Nvidia의 GPU 가용성, 음력 설 후 계속 빠듯할 예정",
     "text": "RTX 3070/3070Ti/3080/3080Ti/3090을 포함한 Nvidia의 GeForce 시리즈가 공급 부족을 계속 겪고 있습니다. 일부 공급업체는 RTX 3090 Ti의 추가 재고가 음력 설 전에 풀릴 것으로 예상되었다고 보고했지만, 이 높은 수요에 대한 GPU의 공급은 계속 빠듯할 예정입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "Shortage"
@@ -816,7 +824,9 @@
     "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "text": "우크라이나, 중국, 대만의 Vishay 제조 시설이 다양한 중단 문제로 영향을 받았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -830,7 +840,9 @@
     "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "text": "러시아와 우크라이나의 전쟁으로 인해 우크라이나에서 Vishay의 제조 공정이 지연되고 있는데, 특히 VS-10 및 VS-40 시리즈의 생산이 영향을 받고 있습니다. 이로 인해 다이오드 및 정류기 공급 전반에 걸쳐 Vishay의 공급망을 통해 파급 효과가 발생했으며, 대만에서의 조업 활동도 지연되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -844,7 +856,9 @@
     "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "text": "동시에, 중국에 기반을 둔 Vishay의 생산 공장은 생산 능력의 50%로 가동되고 있는 형편인데, 코로나19와 인력 부족과 같은 요인 때문입니다. Vishay의 전체 MOSFET 생산 중 약 50%가 중국 공장에서 이루어지며 일부 제품의 경우 리드 타임이 현재 2년 이상으로 늘고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -861,7 +875,9 @@
     "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "text": "Vishay의 전체 자동차 및 능동 구성 부품 리드 타임은 시장에서 이러한 저항기의 공급이 빠듯해지면서 현재 70주 수준에 있습니다. 전 세계 곳곳의 공인 채널에서는 Vishay가 자동차 저항기에 대한 신규 주문을 확인해주지 않고 있다고 보고하고 있습니다.이 점에 있어 가장 큰 영향을 받는 시리즈는 리드 타임을 보장하지 않거나 납기일이 확정되지 않은 CRCW 시리즈입니다. WSL 시리즈는 현재 리드 타임이 99주이며 MMB, MMU, MMA 시리즈는 현재 최대 87주입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1008,6 +1024,7 @@
     "text": "Western Digital의 플래시 메모리 브랜드 SanDisk는 1월에 발생한 제조 시설 오염의 결과로 제품 전체의 가격과 리드 타임 증가 문제를 겪고 있습니다. 오염이 발생한 두 공장은 일본에 있으며 WD의 합작 사업 파자너인 Kioxia에서 운영하고 있습니다. 사건이 발생한 지 한 달 후, 최대 생산 능력으로 조업을 재개했지만 오염에 따른 영향이 없는 것은 아닙니다. 원래 보고서에서는 7엑사바이트의 3D NAND가 무용지물이 되었다고 했지만, 공장의 라인 가동을 중단한 21일간의 피해는 포함되지 않았습니다.",
     "detected_vendors": [
       "Kioxia",
+      "SanDisk",
       "Western Digital"
     ],
     "detected_keywords": [
@@ -1448,7 +1465,9 @@
     "section_raw": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "text": "상하이 Vishay 공장 2개의 가동과 관련하여, 중국은 코로나19로 인한 봉쇄 조치와 인력 제한의 영향을 받았습니다. 공장 1개는 MOSFET를 생산하고, 다른 공장은 소형 다이오드를 생산합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1464,7 +1483,9 @@
     "section_raw": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "text": "Vishay 유통 및 분류 공장에서 격리 제한은 MOSFET과 다이오드 생산 양쪽에 모두 영향을 미치며, 이로 인해 고객의 주문 수령이 가로막히고 있습니다. 이에 따라 생긴 공급 격차가 4월 내내 지속될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1480,7 +1501,9 @@
     "section_raw": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
     "text": "자동차용 MOSFET는 현재 75주의 리드 타임으로 고정 할당을 진행 중입니다. SI943 시리즈가 가장 많은 영향을 받은 것으로 보이며, 표준 저항기는 현재 최대 100주의 리드 타임에 직면해 있습니다(CRCW 시리즈). 박막 저항기의 리드 타임은 50~80주이고, 션트 저항기의 현재 리드 타임은 최대 80주입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -2019,7 +2042,9 @@
     "section_raw": "Vishay Intertechnology",
     "subheading": "Vishay Intertechnology",
     "text": "Vishay의 상하이 공장은 3월 28일 조업을 중단했으나 생산능력 100% 회복을 목표로 서서히 정상화를 꾀하여 현재 공장은 30%의 인력으로 운영 중입니다. 최근의 봉쇄 이전 Vishay은 모든 자동차용 MOSFET, LVM 및 HVM 패키지의 가격을 인상했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2033,7 +2058,9 @@
     "section_raw": "Vishay Intertechnology",
     "subheading": "Vishay Intertechnology",
     "text": "Tesla Inc.: Tesla는 도시 봉쇄령 이후 상하이 공장 가동을 중단했으나 이후 운영 을 재개했습니다. 하지만 Giga Shanghai 공장은 제한된 인원으로 가동하여 현재 일일 1,200대를 생산 중이며 일일 2,600대로 생산량을 늘리는 것을 목표로 하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2287,6 +2314,8 @@
     "detected_vendors": [
       "Kemet",
       "Murata",
+      "TDK",
+      "Vishay",
       "Yageo"
     ],
     "detected_keywords": [
@@ -2305,7 +2334,9 @@
     "section_raw": "Vishay, 자동차 부품 가격 인상",
     "subheading": "Vishay, 자동차 부품 가격 인상",
     "text": "Vishay는 전 제품에 걸쳐 부품 가격을 20% 인상했습니다. 특히 SQ & SQJ 자동차 시리즈는 리드 타임이 1년을 넘어가면서(99주 이상) 물량 부족을 겪고 있습니다. Vishay의 MOSFET 제조 공장이 위치한 중국에서 코로나19 봉쇄가 계속됨에 따라 이 상황은 점차 큰 문제를 야기하게 되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -2323,7 +2354,9 @@
     "section_raw": "Vishay, 자동차 부품 가격 인상",
     "subheading": "Vishay, 자동차 부품 가격 인상",
     "text": "Vishay의 생산에 차질을 빚는 또 다른 요인은 공장의 노동력 부족 및 제한적인 공급량입니다. 이는 주로 MOSFET이 반드시 포함되야 하는 전기차에 대한 수요가 늘고 있기 때문입니다. 고질적인 물량 부족은 2022년에도 계속될 것으로 예상되므로 고객은 리드 타임을 최소화할 수 있도록 미리 발주할 것을 권고받았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -3288,7 +3321,9 @@
     "section_raw": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
     "subheading": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
     "text": "이러한 요소는 특히 STMicro MOSFET와 다이오드의 생산 비용에 영향을 미쳐 가격이 더 상승할 수 있습니다. Vishay의 고전압 전력 MOSFET(IRF-xxx 시리즈) 및 자동차 등급 품목(SQ-xxx 시리즈)의 경우 제조업체 재고 할당에 여유가 없으며 내년에는 다소 완화될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Allocation",
       "Price Increase",
@@ -4274,7 +4309,8 @@
     "subheading": "완만한 수요로 인한 GPU 시장의 불확실성 둔화",
     "text": "GeForce GPU에 대한 수요가 예상보다 훨씬 더 감소하고 있고 제조업자들이 예상치를 조정함에 따라 GPU 시장에서 파급 효과가 나타나고 있습니다. 다음 달 내에 출시될 새로운 RTX4090 GPU에 대한 가격 충격을 완화하기 위해 Nvidia는 AIC 파트너로부터 RTX3090, RTX3080Ti 및 RTX 3080 12GB용 칩셋 재고를 회수하였습니다. 이는 GPU 모델 간의 경쟁 완화에 도움이 될 뿐만 아니라 시장에서 RTX 30 시리즈에 대한 단계적 철수를 계속함에 따라 새로운 모델의 출시를 준비하기 위한 전략입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -5149,7 +5185,9 @@
     "section_raw": "자동차 센서 규제로 제조업체의 변동성 조성",
     "subheading": "자동차 센서 규제로 제조업체의 변동성 조성",
     "text": "반면 STMicro의 경우 꾸준히 상황이 개선되고 있지만 공급과 리드 타임이 안정기에 접어들지는 않았으며, 고도로 제한된 할당량에 한해 50주 이상이 소요됩니다. STM의 MCU 시리즈와 M4와 M7은 여전히 높은 가격 수준을 유지하고 있으며 웨이퍼 공급 부족이 발생한 초기부터 일어난 공급 부족이 게속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -5168,7 +5206,9 @@
     "section_raw": "자동차 센서 규제로 제조업체의 변동성 조성",
     "subheading": "자동차 센서 규제로 제조업체의 변동성 조성",
     "text": "M0와 M3 시리즈는 이제 막 안정화에 접어들었으며 공급 역시 지난 3주 동안 개선된 바 있습니다. 공통 부품 시장 역시 과열이 한풀 꺽이며 안정화되기 시작했습니다. OEM과 EMS 고객들이 재고를 시장에 풀면서 가격은 현저히 개선되었습니다. 이는 4분기 수요의 수치가 줄어들고 제조업체들이 할당량 전량을 납품한 결과입니다. 특히 STM32 시리즈의 가격이 많이 개선되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Allocation"
     ],
@@ -5185,7 +5225,9 @@
     "section_raw": "자동차 센서 규제로 제조업체의 변동성 조성",
     "subheading": "자동차 센서 규제로 제조업체의 변동성 조성",
     "text": "이외에도 파운드리의 생산량 축소 여파로 향후 몇달 내에 STM8 시리즈 역시 영향을 받을 전망입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },

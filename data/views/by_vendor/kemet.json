@@ -32,6 +32,8 @@
     "detected_vendors": [
       "Kemet",
       "Murata",
+      "TDK",
+      "Vishay",
       "Yageo"
     ],
     "detected_keywords": [

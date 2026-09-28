@@ -7091,6 +7091,7 @@
     "text": "미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
     "detected_vendors": [
       "Intel",
+      "Marvell",
       "Nvidia"
     ],
     "detected_keywords": [

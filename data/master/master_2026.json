@@ -52,6 +52,7 @@
     "subheading": "넥스페리아 분절화 심화",
     "text": "넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"
@@ -98,6 +99,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -117,7 +119,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "ADI는 2026년 2월 1일부터 포트폴리오 전반에 걸쳐 15% 가격 인상을 시행하며, 군용 등급 MPN은 약 30% 인상이 적용됩니다. 백엔드 캐파 제한과 기판 부족으로 주요 OP AMP(예: OPA 시리즈) 리드타임이 현재 40주를 초과합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -135,7 +139,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "여러 전문 벤더에 따르면 TI는 2026년 1분기 신규 리드타임 주문에 대해 큰 폭의 가격 인상을 예고하고 있습니다. 고객들은 공식 공지가 나오기 전에 2025년 가격으로 확정하기 위해 서둘러 움직이고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -154,6 +160,7 @@
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "마벨과 리얼텍은 TSMC가 웨이퍼 캐파를 AI 메모리로 전환하면서 리드타임을 32~52주로 연장했습니다. 중- 저- 가 이더넷 스위치 IC(예: 88E6320)가 특히 큰 영향을 받고 있습니다.",
     "detected_vendors": [
+      "Marvell",
       "Realtek",
       "TSMC"
     ],
@@ -536,7 +543,9 @@
     "section_raw": "비쉐이(Vishay) MOSFET(예",
     "subheading": "비쉐이(Vishay) MOSFET(예",
     "text": "SQ2389CES)은 25주 리드타임을 보이며, 유통사는 저항/캐패시터/디스크리트 전반에서 배정 축소가 발생하고 있다고 보고합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -665,7 +674,8 @@
     "text": "도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
     "detected_vendors": [
       "Nexperia",
-      "Onsemi"
+      "Onsemi",
+      "Vishay"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -1024,6 +1034,7 @@
     "detected_vendors": [
       "Micron",
       "Samsung",
+      "SanDisk",
       "삼성"
     ],
     "detected_keywords": [
@@ -1043,7 +1054,9 @@
     "section_raw": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "subheading": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
     "text": "SanDisk 저용량 eMMC, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1에 대한 수요가 급증하고 있으며, 리드타임은 26주로 확대되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -1080,7 +1093,9 @@
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1095,7 +1110,9 @@
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -1287,7 +1304,8 @@
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "자동차 고객들은 Vishay의 잠재적 웨이퍼 품질 이슈를 조사하고 있으며, 이는 Nexperia 다이오드 공백을 메우는 과정에서 추가 리스크로 작용하고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "Vishay"
     ],
     "detected_keywords": [
       "Shortage"
@@ -1432,6 +1450,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -1852,7 +1871,9 @@
     "section_raw": "메모리 가격 변동 및 할당 붕괴",
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. Sandisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Allocation"
     ],
@@ -1969,7 +1990,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate와 WD는 2026년 HDD 생산이 100% 매진되었으며 일부 계약은 2028~2030년까지 연장되고 있다. 백오더 가격은 인정되지 않는다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -1988,7 +2010,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate는 1TB~5TB 2.5인치 Barracuda 제품을 EOL 예정이며, WD는 저용량 제품 견적을 거부하고 12TB 이상으로 전환을 유도하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -2171,7 +2194,9 @@
     "section_raw": "Vishay MOSFET(예",
     "subheading": "Vishay MOSFET(예",
     "text": "SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -2191,7 +2216,8 @@
     "subheading": "Vishay MOSFET(예",
     "text": "Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "Vishay"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -2281,6 +2307,7 @@
     "subheading": "르네사스 공급 불안정, 시장 전반의 설계 변경 촉발",
     "text": "르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Renesas"
     ],
     "detected_keywords": [
@@ -2483,6 +2510,7 @@
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "Diodes Incorporated의 리드타임은 크게 늘어나, 경우에 따라 48주에서 최대 1년까지 소요되고 있습니다. 동사는 르네사스 설계 제외 흐름의 수혜를 입고 있으며, 대체 프로그램 전반에서 수요가 증가하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Renesas"
     ],
     "detected_keywords": [
@@ -2958,6 +2986,7 @@
     "subheading": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
     "text": "Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"
@@ -2985,6 +3014,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -3449,7 +3479,9 @@
     "section_raw": "LPDDR45 및 자동차용 eMMC",
     "subheading": "LPDDR45 및 자동차용 eMMC",
     "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. SanDisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -3500,7 +3532,9 @@
     "section_raw": "스토리지 2028년까지 완판",
     "subheading": "스토리지 2028년까지 완판",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -3830,6 +3864,7 @@
     "subheading": "EU 제재 및 생산 지연에 따른 Nexperia 공급망 분절 심화",
     "text": "EU의 Yangzhou Yangjie/MCC 제재로 인해 고객들이 On Semi 및 Diodes 대체품 인증을 서두르면서 2차 공급망 마찰이 발생하고 있다. 그러나 Nexperia의 말레이시아 생산 증설 계획은 2026년 3분기에서 4분기로 연기되면서 할당 불확실성이 장기화되고 있다. 중국산 설계 제품에 대한 진위 검증 절차로 인해 조달 주기가 계속해서 2~4주 연장되고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Nexperia",
       "Onsemi"
     ],
@@ -3849,7 +3884,9 @@
     "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
     "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Allocation",
       "EOL"
@@ -3926,6 +3963,7 @@
     "subheading": "Renesas의 공급 불안정은 지속되고 있으며, 전력 스테이지 IC(예",
     "text": "On Semi와 Diodes Incorporated는 Nexperia 및 MCC의 인증 전환에 따른 초과 수요를 흡수하고 있다. 리드타임은 40~52주 이상으로 확대되었으며, On Semi는 7월 가격 조정(약 15% 이상)을 발표했고 Diodes는 상업용 등급 주문에 대해 백로그 압축 정책을 시행하고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Nexperia",
       "Onsemi",
       "Renesas"
@@ -4281,7 +4319,9 @@
     "section_raw": "메모리 가격 변동 및 할당 붕괴",
     "subheading": "메모리 가격 변동 및 할당 붕괴",
     "text": "SanDisk 저용량 eMMC 제품인 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1에 대한 수요가 지속되고 있으며, 제조사들은 수요가 공급의 4~5배에 달한다고 보고하고 있다. 생산 우선순위가 HBM3E/HBM4 생산 극대화에 맞춰지면서 공개 시장 가격은 세 배 이상 급등했다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Allocation"
     ],
@@ -4332,7 +4372,8 @@
     "subheading": "스토리지 가격 재설정 및 급등",
     "text": "Seagate와 WD는 2026년 생산 능력이 100% 가동 중이며, 공급 계약은 이미 2028~2030년까지 체결된 상태라고 밝혔다. WD는 6월 10일 25% 가격 인상을 시행했으며, 7월 6일에는 40% 추가 인상이 확정되었다. 제조사들은 고객을 12TB 이상의 고마진 SKU로 전환시키기 위해 1TB~5TB 2.5인치 드라이브를 공격적으로 단종(EOL) 처리하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -4698,6 +4739,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -4801,6 +4843,7 @@
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "ST마이크로일렉트로닉스의 90nm 성숙 공정 제품군(STM32G0/G4/F4/L4) 리드타임은 기존 30주에서 40~52주까지 급증했다. ST는 TSMC가 성숙 공정 생산 능력을 축소·중단함에 따라 생산을 자체 내재화하고 있으며, 이는 2026년 하반기 공급 제약 상황을 더욱 악화실 전망이다.",
     "detected_vendors": [
+      "STMicroelectronics",
       "TSMC"
     ],
     "detected_keywords": [
@@ -5098,7 +5141,8 @@
     "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
     "text": "Seagate와 WD의 2026년 생산 능력은 100% 소진된 상태다. 고용량 드라이브(20TB/24TB)는 가격이 1,150~1,200달러 이상으로 급등하고 있으며, 리드타임은 52주 이상으로 확대되고 있다. 저용량 드라이브(1TB~5TB)는 전환을 유도하기 위해 적극적인 단종(EOL)이 진행되고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -5373,7 +5417,8 @@
     "text": "DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Allocation",
@@ -5773,7 +5818,8 @@
     "text": "eMMC 및 NOR 플래시의 공급 부족이 심각합니다. Kioxia, SanDisk, Micron은 4GB~32GB eMMC의 단종을 계획하고 있어 자동차 및 산업 고객은 비용이 많이 드는 64GB 제품이나 UFS로 전환해야 하는 상황입니다. Macronix와 Micron의 NOR 플래시 리드타임은 40주를 넘었으며, 가격은 20~30% 급등했습니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "EOL",
@@ -6063,7 +6109,8 @@
     "subheading": "메모리 공급난으로 장기 공급 계약 범위 확대",
     "text": "공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",
     "detected_vendors": [
-      "Nanya"
+      "Nanya",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Shortage"
@@ -6084,6 +6131,7 @@
     "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata",
       "Samsung",
       "Yageo",
@@ -6175,7 +6223,10 @@
     "subheading": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
     "text": "주요 자동차 OEM은 2027년 중반 물량 할당 재조정에 앞서 재제조업체에 버퍼 재고를 확보하도록 지시하고 있는 것으로 알려졌다. Tier 1 고객사들은 ADI의 납기 연기, ROHM의 신규 고객 주문 거절, Nexperia로 인한 다이오드 공급 재배정 압박을 보고하고 있다. 서버 랙당 최대 75만 개에 달하는 자동차용 MLCC 수요 추정치는 이미 빠듯한 수동소자 시장의 부담을 가중시키고 있으며, Diodes Inc.의 수요가 많은 자동차용 부품 리드타임은 40주를 넘어섰다.",
     "detected_vendors": [
-      "Nexperia"
+      "Analog Devices",
+      "Diodes",
+      "Nexperia",
+      "ROHM"
     ],
     "detected_keywords": [
       "Allocation",
@@ -6279,7 +6330,8 @@
     "subheading": "시장 변동성 지수",
     "text": "800G/1.6T 광모듈 및 스위치 실리콘 | 심각 | Broadcom과 Marvell은 모두 AI 네트워킹 및 연결성 수요 모멘텀이 계속되고 있음을 시사한다.",
     "detected_vendors": [
-      "Broadcom"
+      "Broadcom",
+      "Marvell"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -6469,6 +6521,7 @@
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다.",
     "detected_vendors": [
+      "Analog Devices",
       "Renesas",
       "STMicroelectronics"
     ],
@@ -6527,7 +6580,10 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "Skyworks는 다이오드 생산 라인 한 곳을 폐쇄하고 전환 지원 없이 2027년부터 해당 제품군의 일부 품목에서 철수할 예정인 것으로 알려졌다. Vishay는 팹 과잉 예약과 관련해 MOSFET(SIB452DK-T1-GE3)의 공급 확약 철회를 통보했으며, 이에 따라 신규 납기 일정은 2027년 말로 연기되고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks",
+      "Vishay"
+    ],
     "detected_keywords": [
       "Discommit",
       "Lead Time",
@@ -6704,7 +6760,8 @@
     "subheading": "메모리 변동 가격 체계 및 물량 할당 붕괴",
     "text": "산업용 및 자동차용 고객사의 eMMC 물량 할당은 계속 악화되고 있으며, ISSI는 최소 한 Tier 1 고객사에 2027년까지 8Gb eMMC 공급을 지원할 수 없다고 통보했다. Kioxia는 SanDisk 및 일본 정부의 지원을 받아 일본 기타카미에 신규 NAND 팹(Fab 3)을 건설하기 시작했으며, 2029년 가동을 목표로 하고 있다.",
     "detected_vendors": [
-      "Kioxia"
+      "Kioxia",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Allocation"
@@ -6738,7 +6795,8 @@
     "subheading": "스토리지 2028년까지 전량 소진",
     "text": "Solidigm은 2027년까지의 고용량 엔터프라이즈 SSD 공급 물량 전량을 하이퍼스케일러에 판매한 것으로 알려졌으며, 2027년에는 고용량 생산을 40% 늘리고 저용량 생산은 줄일 계획이다. SanDisk는 FY28 공급 물량의 약 3분의 2가 이미 판매됐으며, 잔여 재고에 대해서는 협상 여지가 없다고 별도로 확인했다.",
     "detected_vendors": [
-      "SK하이닉스"
+      "SK하이닉스",
+      "SanDisk"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -6812,6 +6870,7 @@
     "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Foxconn은 NVIDIA Rubin 서버 구축용 1.6TB 광 트랜시버의 리드타임이 441일이라고 확인했다. 이로 인한 공급 부족으로 B300 공랭식 서버용 일부 128GB DDR5-6400 DIMM의 예상 수요도 이후로 이연되고 있다.",
     "detected_vendors": [
+      "Foxconn",
       "Nvidia"
     ],
     "detected_keywords": [
@@ -6892,6 +6951,7 @@
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "Kyocera는 별도 통보 시까지 전 세계 유통업체에 리셀러 대상 견적 제공을 중단하라고 지시했다. Samsung Electro-Mechanics는 10월 1일 MLCC 가격을 다시 인상하는 한편, 9월 출하·할당 물량을 약 20% 줄일 것으로 예상된다. 이는 고객 및 유통업체 기반의 약 85%에 영향을 미칠 전망이다.",
     "detected_vendors": [
+      "Kyocera",
       "Samsung",
       "삼성"
     ],
@@ -6930,7 +6990,9 @@
     "section_raw": "수동부품 및 원자재 T-글래스 병목",
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "Diodes Inc.의 주력 자동차용 부품 리드타임은 한 Tier 1 고객사에서 40주를 넘어섰으며, UCC 브랜드 알루미늄 전해 커패시터는 명시된 생산능력의 140% 수준에서 공급이 제약을 받고 있는 것으로 알려졌다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Diodes"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -7100,7 +7162,9 @@
     "section_raw": "Marvell",
     "subheading": "Marvell",
     "text": "FY2027 Q2 매출은 27억3,900만 달러였으며, 데이터센터 매출은 전년 동기 대비 46% 증가했다. 회사는 AI 관련 수주가 견조하다고 밝혔다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Marvell"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -7114,7 +7178,9 @@
     "section_raw": "Marvell",
     "subheading": "Marvell",
     "text": "광 DSP, 연결성 및 맞춤형 데이터센터 부품은 프로그램 수요를 조기에 파악할 수 있어야 한다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Marvell"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -7128,7 +7194,9 @@
     "section_raw": "Marvell",
     "subheading": "Marvell",
     "text": "광모듈 및 연결성 관련 부품 조달을 초기 구축 계획에 반영해야 한다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Marvell"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },

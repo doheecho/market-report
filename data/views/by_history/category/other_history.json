@@ -135,7 +135,9 @@
     },
     {
       "date": "2025.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Foxconn"
+      ],
       "risk_level": "Low",
       "summary": "제조업체 및 기업 업데이트",
       "text": "Foxconn은 미국의 Stargate AI 프로젝트용 AI 서버 독점 수주에 성공한 것으로 알려졌습니다."

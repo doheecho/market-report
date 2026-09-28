@@ -30,7 +30,8 @@
     "subheading": "Nvidia GeForce RTX 2080 Ti 단종",
     "text": "Nvidia는 3분기로 출시 일정이 연기된 차세대 GeForce RTX 3080 Ti 출시를 준비하면서 GeForce RTX 2080 Ti 그래픽 카드의 생산량을 줄이고 있습니다. RTX 2080Ti에 대한 공식 EOL 발표는 없었지만, Nvidia는 4월 말로 예상되는 마지막 구매 수요 정보를 수집해오고 있습니다. 여러 가지 이유로 RTX2080Ti의 수요가 대체되어 오픈 마켓에 풀리는 재고량이 늘어 대략 3% 정도 가격이 하락했습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "EOL",
@@ -279,7 +280,8 @@
     "subheading": "차세대 GeForce로의 전환 진행 중",
     "text": "차세대 GeForce 30xx 시리즈 출시를 앞두고 있는 상황에서, 기존 RTX 20xx 시리즈의 공급이 크게 줄어 새 제품 라인을 위한 길을 터주었습니다. 더욱이, RTX 2080 TI에 대한 수요가 꾸준하고 Nvidia가 5월 중순에 RTX2080Ti 칩셋을 단종함에 따라, 6월을 지나며 시장 가격이 약 5% 정도 상승 추세를 타고 있습니다. 시장의 재고 물량이 소진되고 나면 수요가 RTX2080 Super로 옮겨갈 것입니다. 몇몇 소식통은 2080 Super에 대한 문의가 이미 늘었다는 점을 지적했는데, 현재 리드 타임이 1~2주일 정도 늘어나고 있는 것으로 보입니다. 차세대 GeForce 30xx가 3분기에 출시될 것이라는 뉴스가 떠돌았습니다. 하지만 Nvidia는 어떤 공식 발표도 하지 않았고, 고객들은 새 모델이 출시되기 전까지 필사적으로 공급 격차를 적정 수준으로 관리해야 하는 상황입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "EOL",
@@ -559,7 +561,9 @@
     "section_raw": "GPU 공급 부족 때문에 공개 시장에 눈을 돌리는 고객들",
     "subheading": "GPU 공급 부족 때문에 공개 시장에 눈을 돌리는 고객들",
     "text": "GeForce RTX2080Ti에 대한 수요는 여전히 높고 시장 공급은 굉장히 제한적입니다. 일부 사용자들은 이제 극소량의 2차, 3차 공급업체 물량만 보이는 만큼, 브랜드와 관계없이 GeForce RTX2080Ti를 받아들이고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -956,7 +960,9 @@
     "section_raw": "MCU에 대한 급증하는 수요로 인해 부족",
     "subheading": "MCU에 대한 급증하는 수요로 인해 부족",
     "text": "ST Micro의 MCU STM32F01/02/03 시리즈는 공급 제약에 직면하고 있습니다. 이는 ST Micro가 MCU 리드 타임에 큰 영향을 미치는 고급 5G 관련 제품에 집중하기 위해 생산 능력을 전환했을 때 발생했습니다. 이러한 공급 부족으로 인해 오픈 마켓 재고 가격이 대폭 올랐는데, STM32F030C8T6의 급격한 시장 가격 인상이 이런 상황을 잘 보여줍니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -1677,7 +1683,9 @@
     "section_raw": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "subheading": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
     "text": "GDDR6 의 상당한 공급 부족 현상으로 인해 GPU 공급이 추가로 제한되었으며, 제조업체들은 수요를 따라잡기가 더 어려워졌습니다. 결과적으로 RTX 3060Ti 출시 일정은 11월 중순에서 12월 초로 연기되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -2922,7 +2930,9 @@
     "section_raw": "ST Microelectronics의 공급 부족 악화",
     "subheading": "ST Microelectronics의 공급 부족 악화",
     "text": "ST Microelectronics의 MCU 수요가 강세를 유지하고 있습니다. STM32F2/F1/F7 시리즈의 리드 타임은 45주로 여전히 길지만, SLT 시리즈의 리드 타임이 45~52주로 더 늘었습니다. 공급이 타이트 해지면서 STM8A / 8L / 8S 및 STM32F0 / F1 / F3 시리즈가 할당 될 것입니다 3분기와 4분기의 모든 생산이 이미 할당되었습니다. ST Micro의 시리즈 STM8S와 STM32F가 가장 심한 타격을 받았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -3424,7 +3434,9 @@
     "section_raw": "웨이퍼 공급 부족의 영향을 받는 Diodes Incorporated의 리드 타임",
     "subheading": "웨이퍼 공급 부족의 영향을 받는 Diodes Incorporated의 리드 타임",
     "text": "Diodes Incorporated는 7월 1일 이후에 가격 인상을 준비하고 있다고 발표했지만, 얼마나 올릴지에 관한 정보는 공유하지 않았습니다. 웨이퍼 공급 부족과 그에 따른 가격 인상으로 인해 리드 타임이 52주 이상으로 늘어났습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Diodes"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -4316,6 +4328,7 @@
       "AMD",
       "Analog Devices",
       "Broadcom",
+      "Marvell",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -4896,7 +4909,8 @@
     "subheading": "Nvidia의 GPU 가용성, 음력 설 후 계속 빠듯할 예정",
     "text": "RTX 3070/3070Ti/3080/3080Ti/3090을 포함한 Nvidia의 GeForce 시리즈가 공급 부족을 계속 겪고 있습니다. 일부 공급업체는 RTX 3090 Ti의 추가 재고가 음력 설 전에 풀릴 것으로 예상되었다고 보고했지만, 이 높은 수요에 대한 GPU의 공급은 계속 빠듯할 예정입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "Shortage"
@@ -4913,7 +4927,9 @@
     "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
     "text": "동시에, 중국에 기반을 둔 Vishay의 생산 공장은 생산 능력의 50%로 가동되고 있는 형편인데, 코로나19와 인력 부족과 같은 요인 때문입니다. Vishay의 전체 MOSFET 생산 중 약 50%가 중국 공장에서 이루어지며 일부 제품의 경우 리드 타임이 현재 2년 이상으로 늘고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -5572,7 +5588,9 @@
     "section_raw": "Vishay, 자동차 부품 가격 인상",
     "subheading": "Vishay, 자동차 부품 가격 인상",
     "text": "Vishay는 전 제품에 걸쳐 부품 가격을 20% 인상했습니다. 특히 SQ & SQJ 자동차 시리즈는 리드 타임이 1년을 넘어가면서(99주 이상) 물량 부족을 겪고 있습니다. Vishay의 MOSFET 제조 공장이 위치한 중국에서 코로나19 봉쇄가 계속됨에 따라 이 상황은 점차 큰 문제를 야기하게 되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -5590,7 +5608,9 @@
     "section_raw": "Vishay, 자동차 부품 가격 인상",
     "subheading": "Vishay, 자동차 부품 가격 인상",
     "text": "Vishay의 생산에 차질을 빚는 또 다른 요인은 공장의 노동력 부족 및 제한적인 공급량입니다. 이는 주로 MOSFET이 반드시 포함되야 하는 전기차에 대한 수요가 늘고 있기 때문입니다. 고질적인 물량 부족은 2022년에도 계속될 것으로 예상되므로 고객은 리드 타임을 최소화할 수 있도록 미리 발주할 것을 권고받았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -5984,7 +6004,9 @@
     "section_raw": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
     "subheading": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
     "text": "이러한 요소는 특히 STMicro MOSFET와 다이오드의 생산 비용에 영향을 미쳐 가격이 더 상승할 수 있습니다. Vishay의 고전압 전력 MOSFET(IRF-xxx 시리즈) 및 자동차 등급 품목(SQ-xxx 시리즈)의 경우 제조업체 재고 할당에 여유가 없으며 내년에는 다소 완화될 것으로 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Allocation",
       "Price Increase",
@@ -6532,7 +6554,9 @@
     "section_raw": "자동차 센서 규제로 제조업체의 변동성 조성",
     "subheading": "자동차 센서 규제로 제조업체의 변동성 조성",
     "text": "반면 STMicro의 경우 꾸준히 상황이 개선되고 있지만 공급과 리드 타임이 안정기에 접어들지는 않았으며, 고도로 제한된 할당량에 한해 50주 이상이 소요됩니다. STM의 MCU 시리즈와 M4와 M7은 여전히 높은 가격 수준을 유지하고 있으며 웨이퍼 공급 부족이 발생한 초기부터 일어난 공급 부족이 게속되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time",
@@ -6552,7 +6576,8 @@
     "subheading": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Allocation",
@@ -6571,7 +6596,8 @@
     "subheading": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "text": "여전히 정상화 되지 않는 제조 역량도 구형 Freescale 시리즈 MC9S08, MC9S12, MK 및 MCF5의 공급에 영향을 미쳐 이 모든 모델이 시장에서 장기적인 공급 부족(Shortage)을 겪고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Shortage"
@@ -6611,7 +6637,8 @@
     "subheading": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -6650,7 +6677,8 @@
     "subheading": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
     "text": "한편 또 다른 공고에 따르면 Si-xxx 시리즈는 Skyworks 이전 이후 리드 타임과 공급 부족(Shortage)이 증가하고 있습니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -6710,7 +6738,9 @@
     "section_raw": "하드웨어",
     "subheading": "공급 부족(Shortage)으로 타격 입은 산업용 전원 공급 장치와 Raspberry Pi 재고",
     "text": "대부분의 산업용 전원 공급 장치는 부품의 공급 부족(Shortage) 및 전기자동차와 자동화 제품에 대한 수요 증가로 인해 리드 타임이 10~24개월 연장되었습니다 COSEL, Phoenix Contact, Weidmüller, TDK, PULS 등의 브랜드가 타격을 입었으며, 리드 타임이 단기적으로 개선될 가능성은 낮습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -6744,7 +6774,8 @@
     "subheading": "Wuxi Looms 도금 공장에서 대형 화재 발생",
     "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -6969,7 +7000,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -6987,7 +7019,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -7005,7 +7038,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay의 SQ 생산은 약간의 영향을 받았지만 시장에 미치는 영향은 그다지 크지 않을 것입니다. Vishay의 MOSFET, 특히 SIxxx 및 SUxxx 시리즈가 가장 큰 영향을 받았습니다. 시장은 4월까지 생산 차질의 여파를 체감하겠지만, 제조업체의 수주 잔량이 이미 제약을 받고 있어 향후 인도 여부를 판단할 수 없습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -7023,7 +7057,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay는 수요를 충족하기 위해 새로운 도금 공장을 재지정할 계획입니다. 4월까지 전환이 완료되겠지만 생산을 시작하려면 추가로 5개월이 더 소요될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -7627,7 +7662,9 @@
     "section_raw": "IC",
     "subheading": "주목 받는 TDK의 고정밀 센서",
     "text": "TDK Corporation은 충분한 공급을 보장하기 위해 차량용 고정밀 센서 생산량을 두 배로 늘릴 계획입니다. 팬데믹 기간 동안 자동차 산업은 집적 회로 및 기타 전자 부품 부족으로 인해 특히 큰 타격을 입었기 때문에 자동차 산업을 위한 할당량을 보호하려는 노력은 자동차 고객과 TDK 모두에게 도움이 됩니다. 이 전략은 TDK 및 고객과의 전략적 파트너십을 강화하는 한편, 첨단 생산 기술을 통해 TDK의 모든 추가 업종에 대한 전반적인 제조를 개선할 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -8816,7 +8853,8 @@
     "subheading": "일본 지진으로 경쟁사 수요 발생",
     "text": "지진에 의해 가장 큰 피해를 본 Murata에서 가까운 시일 내 신규 주문을 지원할 수 없음을 예상하면서 고객들의 경쟁사 주문을 장려하기 시작했습니다. Murata의 경쟁사 중 한 곳인 TDK에서는 생산 중단으로 인한 주문 증가가 나타나고 있습니다. TDK의 VLS 시리즈는 Murata LQ 시리즈를 성공적으로 대체했습니다. 그 결과 VL 시리즈의 리드 타임은 계속 연장되어 현재 14주를 초과합니다.",
     "detected_vendors": [
-      "Murata"
+      "Murata",
+      "TDK"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -8953,7 +8991,9 @@
     "section_raw": "하드웨어",
     "subheading": "가상화폐 수요가 GPU 공급에 미치는 영향",
     "text": "현재 가상화폐 고객들은 해시레이트와 메모리가 더 높은 모델에 집중하고 있습니다. 수요가 가장 높은 품목은 3090/4090 모델로 현재 채굴에 사용되는 주요 카드입니다. 공급이 부족해지고 부품을 구하기가 점점 더 어려워지면서 기업들은 4080/4070 Ti 및 Super 모델로 눈을 돌릴 것입니다. 이러한 추세가 계속되면 RTX A5000 ADA와 같은 워크스테이션 GPU가 수요 급증의 다음 타겟이 될 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -10220,6 +10260,7 @@
     "text": "AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata"
     ],
     "detected_keywords": [
@@ -10238,7 +10279,9 @@
     "section_raw": "집적 회로(IC) 제한된 시장 속에서 길을 찾다",
     "subheading": "집적 회로(IC) 제한된 시장 속에서 길을 찾다",
     "text": "TI의 TCAN114x-Q1은 제조 전환 계획 문제로 인해 공급 부족 현상이 발생했으며, 3월까지 심각한 부족 상태가 지속될 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -10969,7 +11012,9 @@
     "section_raw": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
     "subheading": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
     "text": "NAND 비용 및 생산 문제로 인해 Sandisk는 가격을 10% 이상 인상했으며, 소비자 및 프로슈머 SSD 부문도 유사한 가격 조정이 예상됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "SanDisk"
+    ],
     "detected_keywords": [
       "Price Increase",
       "Shortage"
@@ -11722,7 +11767,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "Skyworks의 SMPxx 시리즈 다이오드 리드타임이 생산 감축과 원자재 부족으로 8주에서 16주로 연장되었다. 여기에 더해, 해당 부품 가격이 10배 급등해 많은 구매자들이 사실상 시장에서 배제되고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Production Cut",
@@ -11911,7 +11958,9 @@
     "section_raw": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "text": "WD의 공급 제약은 더욱 악화되어, 최근 2~3개월 내 주문분에 대해서만 납품이 이뤄지고 있다. 신규 백로그는 3~4개월의 납기를 감수해야 한다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -11950,7 +11999,8 @@
     "subheading": "HDD 고용량 SKU 공급 부족 및 리드타임 연장",
     "text": "Seagate와 WD는 엔터프라이즈 및 고성능 데스크톱(레드/퍼플/골드) 라인 전반에 걸쳐 한 자릿수에서 두 자릿수에 이르는 가격 인상을 시행하거나 시사했다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -12439,6 +12489,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -12458,7 +12509,9 @@
     "section_raw": "집적 회로 공급 제약 및 시장 변화",
     "subheading": "집적 회로 공급 제약 및 시장 변화",
     "text": "ADI는 2026년 2월 1일부터 포트폴리오 전반에 걸쳐 15% 가격 인상을 시행하며, 군용 등급 MPN은 약 30% 인상이 적용됩니다. 백엔드 캐파 제한과 기판 부족으로 주요 OP AMP(예: OPA 시리즈) 리드타임이 현재 40주를 초과합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Analog Devices"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase",
@@ -12722,7 +12775,8 @@
     "text": "도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
     "detected_vendors": [
       "Nexperia",
-      "Onsemi"
+      "Onsemi",
+      "Vishay"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -12927,6 +12981,7 @@
     "detected_vendors": [
       "Micron",
       "Samsung",
+      "SanDisk",
       "삼성"
     ],
     "detected_keywords": [
@@ -12947,7 +13002,9 @@
     "section_raw": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "subheading": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
     "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -13101,7 +13158,8 @@
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "자동차 고객들은 Vishay의 잠재적 웨이퍼 품질 이슈를 조사하고 있으며, 이는 Nexperia 다이오드 공백을 메우는 과정에서 추가 리스크로 작용하고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "Vishay"
     ],
     "detected_keywords": [
       "Shortage"
@@ -13144,6 +13202,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -13376,7 +13435,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate와 WD는 2026년 HDD 생산이 100% 매진되었으며 일부 계약은 2028~2030년까지 연장되고 있다. 백오더 가격은 인정되지 않는다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -13395,7 +13455,8 @@
     "subheading": "스토리지 용량 부족 및 가격 상승",
     "text": "Seagate는 1TB~5TB 2.5인치 Barracuda 제품을 EOL 예정이며, WD는 저용량 제품 견적을 거부하고 12TB 이상으로 전환을 유도하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -13593,6 +13654,7 @@
     "subheading": "르네사스 공급 불안정, 시장 전반의 설계 변경 촉발",
     "text": "르네사스는 여러 공급망 전반에서 주요 교란 요인으로 부상했습니다. OEM들은 불안정한 리드타임과 출하 가시성 부족으로 인해 신제품 도입(NPI) 단계에서 르네사스 부품을 적극적으로 설계에서 제외하고 있습니다. 타이밍 사업부 매각으로 신뢰도는 더욱 하락했으며, 고객들은 출하가 중단되었거나 납품 일정이 불분명하다고 보고하고 있습니다. 다이오즈(Diodes)와 같은 경쟁사들은 핀 투 핀 대체품과 더 빠른 대응 시간을 앞세워 점유율을 빠르게 확대하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Renesas"
     ],
     "detected_keywords": [
@@ -13982,6 +14044,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -14267,7 +14330,9 @@
     "section_raw": "스토리지 2028년까지 완판",
     "subheading": "스토리지 2028년까지 완판",
     "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다. 시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "EOL"
     ],
@@ -14483,7 +14548,9 @@
     "section_raw": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
     "subheading": "비(非)하이퍼스케일러 대상 엔터프라이즈 스토리지 및 HDD 할당 붕괴",
     "text": "엔터프라이즈 SSD 가격은 전분기 대비 50~90% 급등했으며, 제조사별 주 단위 가격 재설정이 표준화되고 있다. HDD 생산 능력은 2026년분이 전량 매진된 것으로 보고되며, WD는 6월 10일에 25% 인상하고 7월 6일에 40% 인상할 예정이다. 제조사들은 저용량 드라이브를 공격적으로 단종(EOL) 처리해 고객을 고마진·고용량 SKU로 전환시키고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Western Digital"
+    ],
     "detected_keywords": [
       "Allocation",
       "EOL"
@@ -14786,7 +14853,8 @@
     "subheading": "스토리지 가격 재설정 및 급등",
     "text": "Seagate와 WD는 2026년 생산 능력이 100% 가동 중이며, 공급 계약은 이미 2028~2030년까지 체결된 상태라고 밝혔다. WD는 6월 10일 25% 가격 인상을 시행했으며, 7월 6일에는 40% 추가 인상이 확정되었다. 제조사들은 고객을 12TB 이상의 고마진 SKU로 전환시키기 위해 1TB~5TB 2.5인치 드라이브를 공격적으로 단종(EOL) 처리하고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -14899,6 +14967,7 @@
       "SK하이닉스",
       "Samsung",
       "Seagate",
+      "Western Digital",
       "삼성"
     ],
     "detected_keywords": [
@@ -15125,7 +15194,8 @@
     "subheading": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
     "text": "Seagate와 WD의 2026년 생산 능력은 100% 소진된 상태다. 고용량 드라이브(20TB/24TB)는 가격이 1,150~1,200달러 이상으로 급등하고 있으며, 리드타임은 52주 이상으로 확대되고 있다. 저용량 드라이브(1TB~5TB)는 전환을 유도하기 위해 적극적인 단종(EOL)이 진행되고 있다.",
     "detected_vendors": [
-      "Seagate"
+      "Seagate",
+      "Western Digital"
     ],
     "detected_keywords": [
       "EOL",
@@ -15270,7 +15340,8 @@
     "text": "DDR5 RDIMM(64GB/128GB)과 대용량 엔터프라이즈 SSD(15TB~122TB)는 여전히 하이퍼스케일러에 엄격히 할당된 상태이며, 일반 OEM의 공급 충족률은 30% 미만으로 떨어졌습니다. 레거시 메모리(DDR3, 저용량 eMMC 및 NOR 플래시)는 Micron, Kioxia, SanDisk의 잇따른 단종 통보에 직면해 있으며, 이에 따라 기업들은 단종 전 최종 구매를 서두르고 막대한 비용을 들여 제품을 재설계해야 하는 상황입니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Allocation",
@@ -15533,7 +15604,8 @@
     "text": "eMMC 및 NOR 플래시의 공급 부족이 심각합니다. Kioxia, SanDisk, Micron은 4GB~32GB eMMC의 단종을 계획하고 있어 자동차 및 산업 고객은 비용이 많이 드는 64GB 제품이나 UFS로 전환해야 하는 상황입니다. Macronix와 Micron의 NOR 플래시 리드타임은 40주를 넘었으며, 가격은 20~30% 급등했습니다.",
     "detected_vendors": [
       "Kioxia",
-      "Micron"
+      "Micron",
+      "SanDisk"
     ],
     "detected_keywords": [
       "EOL",
@@ -15753,7 +15825,8 @@
     "subheading": "메모리 공급난으로 장기 공급 계약 범위 확대",
     "text": "공급 부족이 심화하면서 장기 공급 계약(LTA)이 주요 3대 메모리 제조업체를 넘어 SanDisk, Nanya Technology Corporation, 중국의 ChangXin Memory Technologies로 빠르게 확대되고 있습니다. [출처: Digitimes]",
     "detected_vendors": [
-      "Nanya"
+      "Nanya",
+      "SanDisk"
     ],
     "detected_keywords": [
       "Shortage"
@@ -15774,6 +15847,7 @@
     "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata",
       "Samsung",
       "Yageo",
@@ -15859,7 +15933,10 @@
     "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
     "text": "Skyworks는 다이오드 생산 라인 한 곳을 폐쇄하고 전환 지원 없이 2027년부터 해당 제품군의 일부 품목에서 철수할 예정인 것으로 알려졌다. Vishay는 팹 과잉 예약과 관련해 MOSFET(SIB452DK-T1-GE3)의 공급 확약 철회를 통보했으며, 이에 따라 신규 납기 일정은 2027년 말로 연기되고 있다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Skyworks",
+      "Vishay"
+    ],
     "detected_keywords": [
       "Discommit",
       "Lead Time",
@@ -15979,6 +16056,7 @@
     "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
     "text": "Foxconn은 NVIDIA Rubin 서버 구축용 1.6TB 광 트랜시버의 리드타임이 441일이라고 확인했다. 이로 인한 공급 부족으로 B300 공랭식 서버용 일부 128GB DDR5-6400 DIMM의 예상 수요도 이후로 이연되고 있다.",
     "detected_vendors": [
+      "Foxconn",
       "Nvidia"
     ],
     "detected_keywords": [

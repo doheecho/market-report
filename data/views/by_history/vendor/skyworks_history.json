@@ -1,0 +1,87 @@
+{
+  "vendor": "Skyworks",
+  "total_milestones": 8,
+  "history": [
+    {
+      "date": "2020.05",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "다시 조업을 재개하면서 생산 능력에 우선순위를 두는 제조업체",
+      "text": "전 세계의 공장들이 조업 재개를 시작함에 따라, 제조업체들은 특히 의료, 5G, 자동차, 모바일 등의 특정 부문에 생산 활동과 자원을 배정하고 있습니다. ADI는 생산가동력의 80%를 의료기기에 배정했으며, 그 다음으로 5G, 자동차, Apple 등의 순으로 배정하고 있습니다. 다른 응용 분야에서 제품을 제조하는 고객들은 배정 문제와 인도 지연이 발생할 것으로 예상됩니다. 멕시코의 공장 셧다운과 말레이시아에서 늦춰진 조업 재개 일정으로 인해 리드 타임이 늘어남에 따라, Skyworks는 5G 및 Wifi6 고객에게만 우선적으로 생산 물량을 배정하고 있습니다. 고객과 유통업체에게는 5월 중순 이후로 배송이 이루어질 예정이며 6월 말까지는 회복될 것으로 기대한다고 알려주었습니다."
+    },
+    {
+      "date": "2023.01",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
+      "text": "한편 또 다른 공고에 따르면 Si-xxx 시리즈는 Skyworks 이전 이후 리드 타임과 공급 부족(Shortage)이 증가하고 있습니다."
+    },
+    {
+      "date": "2023.08",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "수출 제한 조치가 반도체 제조에 미칠 수 있는 영향",
+      "text": "7월 초, 중국은 칩 제조에 필수인 두 가지 금속 갈륨 및 게르마늄에 대한 수출 제한을 발표했습니다. 이 두 금속은 전력 반도체 및 고주파 부품 제조의 핵심입니다. 이러한 수출 규제에 대한 초기 평가에서는 공급망에 즉각적인 차질을 빚지 않을 것으로 보입니다. 하지만 갈륨과 게르마늄이 없으면 제품을 제조할 수 없기 때문에 장기적으로는 부정적인 영향을 미칠 것으로 예상됩니다. 8월에 접어들면 Broadcom, Skyworks, Qorvo, Infineon, STMicroelectronics, WIN Semiconductors와 같은 제조업체에서 이러한 차질을 한층 더 심각하게 평가할 것으로 예상됩니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "재고 정상화가 진행 중인 기업들",
+      "text": "Skyworks는 내부 재고가 8분기 연속 감소하고 있으며, 이는 긍정적인 신호로 해석됩니다. 다만, 일부 고객층에서는 여전히 과잉 재고가 존재한다고 언급했습니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "년 중립적 혹은 신중한 전망",
+      "text": "Skyworks는 자동차 및 IoT 수요는 견조하지만, 주요 고객의 계절적 수요 감소와 공급처 변경으로 인해 어려움이 예상된다고 밝혔습니다."
+    },
+    {
+      "date": "2025.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "집적 회로 공급 제약 및 시장 변화",
+      "text": "Skyworks의 SMPxx 시리즈 다이오드 리드타임이 생산 감축과 원자재 부족으로 8주에서 16주로 연장되었다. 여기에 더해, 해당 부품 가격이 10배 급등해 많은 구매자들이 사실상 시장에서 배제되고 있다."
+    },
+    {
+      "date": "2025.11",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Skyworks, Qorvo 합병 추진",
+      "text": "주요 산업 통합 사례로, Skyworks Solutions는 Qorvo를 220억 달러 규모의 현금·주식 거래로 인수한다고 발표했다. 이번 합병은 고성능 RF, 아날로그, 혼합신호 반도체 분야에서 미국 기반의 선도 기업을 구축하는 것을 목표로 하며, 모바일 및 자동차 부문의 공급 및 가격에 중대한 영향을 미칠 것으로 보인다. [Source: Skyworks]"
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Skyworks는 다이오드 생산 라인 한 곳을 폐쇄하고 전환 지원 없이 2027년부터 해당 제품군의 일부 품목에서 철수할 예정인 것으로 알려졌다. Vishay는 팹 과잉 예약과 관련해 MOSFET(SIB452DK-T1-GE3)의 공급 확약 철회를 통보했으며, 이에 따라 신규 납기 일정은 2027년 말로 연기되고 있다."
+    }
+  ]
+}

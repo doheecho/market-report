@@ -88,6 +88,7 @@
       "AMD",
       "Analog Devices",
       "Broadcom",
+      "Marvell",
       "Nexperia"
     ],
     "detected_keywords": [
@@ -390,7 +391,8 @@
       "Broadcom",
       "Infineon",
       "Qorvo",
-      "STMicroelectronics"
+      "STMicroelectronics",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -978,7 +980,8 @@
     "subheading": "시장 변동성 지수",
     "text": "800G/1.6T 광모듈 및 스위치 실리콘 | 심각 | Broadcom과 Marvell은 모두 AI 네트워킹 및 연결성 수요 모멘텀이 계속되고 있음을 시사한다.",
     "detected_vendors": [
-      "Broadcom"
+      "Broadcom",
+      "Marvell"
     ],
     "detected_keywords": [],
     "risk_level": "Low"

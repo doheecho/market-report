@@ -1,0 +1,213 @@
+[
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
+    "subheading": "IC 공급 부족 지속으로 제조업체의 전망도 어두워져",
+    "text": "Xilinx, Broadcom, NXP, Marvell, Analog Devices Inc.와 같은 제조업체는 기상이변, 코로나19 발생 그리고 공장 폐쇄, 공급 제한, 시장 가격 인상으로 이어진 기타 사건과 같은 수많은 도전과 난관에서 벗어나 원상 회복하려고 발버둥을 쳤습니다.",
+    "detected_vendors": [
+      "AMD",
+      "Analog Devices",
+      "Broadcom",
+      "Marvell",
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Marvell의 주문 적체가 가격 인상으로 이어져",
+    "subheading": "Marvell의 주문 적체가 가격 인상으로 이어져",
+    "text": "데이터 센터와 차량에 사용되는 네트워킹 칩을 만드는 Marvell은 모든 최종 시장에서 증가하는 수요를 따라잡는 데 애를 먹었습니다. 결국, 11월에 약 20%의 가격 인상이 예상됩니다. 이는 모든 제품과 현재의 주문 잔고에 적용되며, 리드 타임이 최대 30주 이상으로 늘어남에 따라 현재의 문제에 더욱 부담이 가중됩니다.",
+    "detected_vendors": [
+      "Marvell"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "하드웨어",
+    "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
+    "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
+    "detected_vendors": [
+      "Marvell",
+      "SK하이닉스",
+      "Seagate"
+    ],
+    "detected_keywords": [
+      "Production Cut"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등",
+    "subheading": "Nvidia 및 기타 반도체 주식, 일시적 관세 유예 이후 급등",
+    "text": "미국과 중국이 관세를 90일간 대폭 인하하기로 합의함에 따라 Nvidia, Intel, Marvell Technology 등 미국 주요 반도체 기업의 주가가 급등했습니다.",
+    "detected_vendors": [
+      "Intel",
+      "Marvell",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Tariff"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "공급 제약 및 시장 변화",
+    "subheading": "공급 제약 및 시장 변화",
+    "text": "Marvell(98DX, 88E6320 시리즈)과 Realtek 모두 리드타임이 32~52주에 이르고 있다. 생산 능력은 고급 AI 관련 칩으로 우선 배정되고 있어 중·저가 제품군의 할당이 크게 축소되고 있다.",
+    "detected_vendors": [
+      "Marvell",
+      "Realtek"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "집적 회로",
+    "subheading": "집적 회로",
+    "text": "마벨 부품, 특히 88E-xxx 시리즈의 리드타임이 표준 26주를 크게 초과할 정도로 대폭 연장되었습니다. 기존 백로그 주문의 대부분은 현재 업데이트된 납기를 기다리며 보류 상태입니다. 이번 지연은 TSMC가 AI 관련 메모리 생산으로 웨이퍼 생산능력을 전략적으로 재배치하면서 마벨에 대한 웨이퍼 할당이 약 50% 감소한 데서 비롯되었습니다.",
+    "detected_vendors": [
+      "Marvell",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "집적 회로 공급 제약 및 시장 변화",
+    "subheading": "집적 회로 공급 제약 및 시장 변화",
+    "text": "마벨과 리얼텍은 TSMC가 웨이퍼 캐파를 AI 메모리로 전환하면서 리드타임을 32~52주로 연장했습니다. 중- 저- 가 이더넷 스위치 IC(예: 88E6320)가 특히 큰 영향을 받고 있습니다.",
+    "detected_vendors": [
+      "Marvell",
+      "Realtek",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "800G/1.6T 광모듈 및 스위치 실리콘 | 심각 | Broadcom과 Marvell은 모두 AI 네트워킹 및 연결성 수요 모멘텀이 계속되고 있음을 시사한다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Marvell"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Marvell",
+    "subheading": "Marvell",
+    "text": "FY2027 Q2 매출은 27억3,900만 달러였으며, 데이터센터 매출은 전년 동기 대비 46% 증가했다. 회사는 AI 관련 수주가 견조하다고 밝혔다.",
+    "detected_vendors": [
+      "Marvell"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Marvell",
+    "subheading": "Marvell",
+    "text": "광 DSP, 연결성 및 맞춤형 데이터센터 부품은 프로그램 수요를 조기에 파악할 수 있어야 한다.",
+    "detected_vendors": [
+      "Marvell"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Marvell",
+    "subheading": "Marvell",
+    "text": "광모듈 및 연결성 관련 부품 조달을 초기 구축 계획에 반영해야 한다.",
+    "detected_vendors": [
+      "Marvell"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  }
+]

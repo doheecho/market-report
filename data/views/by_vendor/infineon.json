@@ -420,7 +420,8 @@
     "subheading": "Wuxi Looms 도금 공장에서 대형 화재 발생",
     "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -438,7 +439,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -456,7 +458,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -474,7 +477,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay의 SQ 생산은 약간의 영향을 받았지만 시장에 미치는 영향은 그다지 크지 않을 것입니다. Vishay의 MOSFET, 특히 SIxxx 및 SUxxx 시리즈가 가장 큰 영향을 받았습니다. 시장은 4월까지 생산 차질의 여파를 체감하겠지만, 제조업체의 수주 잔량이 이미 제약을 받고 있어 향후 인도 여부를 판단할 수 없습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -492,7 +496,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay는 수요를 충족하기 위해 새로운 도금 공장을 재지정할 계획입니다. 4월까지 전환이 완료되겠지만 생산을 시작하려면 추가로 5개월이 더 소요될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -607,7 +612,8 @@
       "Broadcom",
       "Infineon",
       "Qorvo",
-      "STMicroelectronics"
+      "STMicroelectronics",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -805,6 +811,7 @@
     "subheading": "넥스페리아 일부 정상화됐지만, 위기는 아직 끝나지 않음",
     "text": "샤먼 및 둥관의 일부 넥스페리아 유통사가(중국 내 및 홍콩향) 견적 제시와 출하를 재개했지만, 글로벌 OEM들은 해당 브랜드에서 영구적으로 이탈하고 있습니다. 자동차 Tier 1 업체들은 이제 완전한 추적성을 요구하며, 온세미, 다이오즈, 인피니언을 대체 호환(드롭인) 솔루션으로 대규모로 승인(퀄리파이)하고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"
@@ -823,6 +830,7 @@
     "subheading": "넥스페리아 분절화 심화",
     "text": "넥스페리아 및 중국 모회사 윙텍의 변호인단이 법정에서 “정면 대결”했으며, 즉각적인 판결은 예상되지 않습니다. 조사 명령 여부에 대한 판결은 심리 후 4주 이내에 나올 것으로 전망됩니다. 넥스페리아 중국의 제한적 국내 출하가 위안화 기반 거래로 재개되었지만, 자동차 Tier 1을 포함한 글로벌 OEM들은 온세미, 다이오즈, 인피니언(On Semi, Diodes Inc., Infineon)을 대체 공급원으로 영구적으로 인증(퀄리파이)하고 있습니다. 2025년 10월 이후 생산된 부품의 진품성 우려가 지속되고 있으며, 말레이시아 기반 생산도 신뢰성이 낮아 다수의 핵심 고회전 품목이 여전히 2027년까지 리드타임을 겪고 있습니다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"
@@ -908,6 +916,7 @@
     "subheading": "Nexperia, EU 제재 영향으로 공급망 파편화 심화",
     "text": "Yangzhou Yangjie Electronic Technology(MCC의 모회사)에 대한 EU 제재로 고객들이 Nexperia 대체품 인증을 가속화하면서 2차 공급 차질이 발생했다. On Semi, Diodes Inc., Infineon이 초과 수요를 흡수하고 있으나, 대체 부품 리드타임은 40~52주까지 늘어났다. 자동차 Tier 1 업체들은 할당 물량 확보가 불가능하다고 보고하고 있으며, 2025년 말 접수된 주문은 현재 2026년 말로 연기된 상태이다. 정품 검증 절차로 인해 조달 주기에도 2~4주가 추가되고 있다.",
     "detected_vendors": [
+      "Diodes",
       "Infineon",
       "Nexperia",
       "Onsemi"

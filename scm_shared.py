@@ -95,25 +95,44 @@ def analyze_paragraph(text, vendor_map, keyword_map):
     for pattern, vendor in vendor_map.items():
         if re.search(pattern, text, re.IGNORECASE):
             detected_vendors.add(vendor)
-            
-    if re.search(r"texas\s*instruments", text, re.IGNORECASE) or re.search(r"텍사스\s*인스트루먼트", text, re.IGNORECASE) or re.search(r"\bTI\b", text):
+
+    # 단형 벤더명은 영문자 경계(?<![a-zA-Z])...(?![a-zA-Z])를 적용하여 한국어 조사(의, 는, 가 등) 앞에서도 정확히 매칭하고 오탐지를 차단
+    if re.search(r"texas\s*instruments", text, re.IGNORECASE) or re.search(r"텍사스\s*인스트루먼트", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])TI(?![a-zA-Z])", text):
         detected_vendors.add("Texas Instruments")
-    if re.search(r"analog\s*devices", text, re.IGNORECASE) or re.search(r"아날로그\s*디바이스", text, re.IGNORECASE) or re.search(r"\bADI\b", text) or re.search(r"maxim|맥심", text, re.IGNORECASE):
+    if re.search(r"analog\s*devices", text, re.IGNORECASE) or re.search(r"아날로그\s*디바이스", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])ADI(?![a-zA-Z])", text) or re.search(r"maxim|맥심", text, re.IGNORECASE):
         detected_vendors.add("Analog Devices")
-    if re.search(r"western\s*digital", text, re.IGNORECASE) or re.search(r"웨스턴\s*디지털", text, re.IGNORECASE) or re.search(r"\bWD\b", text):
+    if re.search(r"western\s*digital", text, re.IGNORECASE) or re.search(r"웨스턴\s*디지털", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])WD(?![a-zA-Z])", text):
         detected_vendors.add("Western Digital")
-    if re.search(r"stmicroelectronics", text, re.IGNORECASE) or re.search(r"\bSTM\b", text):
+    if re.search(r"stmicroelectronics", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])STM(?![a-zA-Z])", text) or re.search(r"(?<![a-zA-Z])ST(?![a-zA-Z])(?=\s*(?:의|는|가|를|에|로|와|과|도|사|그룹|반도체))", text):
         detected_vendors.add("STMicroelectronics")
-    if re.search(r"tsmc|티에스엠씨", text, re.IGNORECASE) or re.search(r"\bTSMC\b", text):
+    if re.search(r"tsmc|티에스엠씨", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])TSMC(?![a-zA-Z])", text):
         detected_vendors.add("TSMC")
-    if re.search(r"avx", text, re.IGNORECASE) or re.search(r"\bAVX\b", text):
+    if re.search(r"avx", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])AVX(?![a-zA-Z])", text):
         detected_vendors.add("AVX")
-    if re.search(r"byd|비야디", text, re.IGNORECASE) or re.search(r"\bBYD\b", text):
+    if re.search(r"byd|비야디", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])BYD(?![a-zA-Z])", text):
         detected_vendors.add("BYD")
     if re.search(r"samsung|삼성", text, re.IGNORECASE):
         detected_vendors.add("Samsung")
     if re.search(r"sk\s*hynix|sk하이닉스|하이닉스", text, re.IGNORECASE):
         detected_vendors.add("SK하이닉스")
+    if re.search(r"diodes(?:\s*inc\.?)?|다이오즈", text, re.IGNORECASE):
+        detected_vendors.add("Diodes")
+    if re.search(r"(?<![a-zA-Z])ROHM(?![a-zA-Z])|로옴", text, re.IGNORECASE):
+        detected_vendors.add("ROHM")
+    if re.search(r"kyocera|교세라", text, re.IGNORECASE):
+        detected_vendors.add("Kyocera")
+    if re.search(r"vishay|비샤이", text, re.IGNORECASE):
+        detected_vendors.add("Vishay")
+    if re.search(r"skyworks|스카이웍스", text, re.IGNORECASE):
+        detected_vendors.add("Skyworks")
+    if re.search(r"marvell|마벨", text, re.IGNORECASE):
+        detected_vendors.add("Marvell")
+    if re.search(r"(?<![a-zA-Z])TDK(?![a-zA-Z])|티디케이", text, re.IGNORECASE):
+        detected_vendors.add("TDK")
+    if re.search(r"foxconn|폭스콘", text, re.IGNORECASE):
+        detected_vendors.add("Foxconn")
+    if re.search(r"sandisk|샌디스크", text, re.IGNORECASE):
+        detected_vendors.add("SanDisk")
 
     for pattern, kw in keyword_map.items():
         if re.search(pattern, text, re.IGNORECASE):

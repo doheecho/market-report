@@ -252,7 +252,9 @@
     },
     {
       "date": "2020.12",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Texas Instruments"
+      ],
       "risk_level": "High",
       "summary": "시장 점유율을 놓고 씨름하고 있는 GPU 제조업체",
       "text": "GDDR6 의 상당한 공급 부족 현상으로 인해 GPU 공급이 추가로 제한되었으며, 제조업체들은 수요를 따라잡기가 더 어려워졌습니다. 결과적으로 RTX 3060Ti 출시 일정은 11월 중순에서 12월 초로 연기되었습니다."
@@ -754,6 +756,7 @@
       "date": "2022.03",
       "detected_vendors": [
         "Kioxia",
+        "SanDisk",
         "Western Digital"
       ],
       "risk_level": "Medium",
@@ -1682,7 +1685,9 @@
     },
     {
       "date": "2024.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Texas Instruments"
+      ],
       "risk_level": "High",
       "summary": "가상화폐 수요가 GPU 공급에 미치는 영향",
       "text": "현재 가상화폐 고객들은 해시레이트와 메모리가 더 높은 모델에 집중하고 있습니다. 수요가 가장 높은 품목은 3090/4090 모델로 현재 채굴에 사용되는 주요 카드입니다. 공급이 부족해지고 부품을 구하기가 점점 더 어려워지면서 기업들은 4080/4070 Ti 및 Super 모델로 눈을 돌릴 것입니다. 이러한 추세가 계속되면 RTX A5000 ADA와 같은 워크스테이션 GPU가 수요 급증의 다음 타겟이 될 것입니다."
@@ -2198,7 +2203,9 @@
     },
     {
       "date": "2025.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "집적 회로 시장 변화 동향",
       "text": "Sandisk eMMC는 생산 능력을 초과한 수요로 공급 제약과 가격 상승이 발생하고 있습니다. 4월 1일부터 최소 10% 가격 인상이 예정되어 있으며, 분기별로 추가 조정이 있을 수 있습니다."
@@ -2352,7 +2359,9 @@
     },
     {
       "date": "2025.05",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "High",
       "summary": "SSD 용량 전환으로 인한 엔트리급 드라이브 공급 부족",
       "text": "NAND 비용 및 생산 문제로 인해 Sandisk는 가격을 10% 이상 인상했으며, 소비자 및 프로슈머 SSD 부문도 유사한 가격 조정이 예상됩니다."
@@ -2540,7 +2549,8 @@
     {
       "date": "2025.09",
       "detected_vendors": [
-        "SK하이닉스"
+        "SK하이닉스",
+        "SanDisk"
       ],
       "risk_level": "Medium",
       "summary": "생산 우선순위 및 용량 전환",
@@ -2811,6 +2821,7 @@
     {
       "date": "2025.12",
       "detected_vendors": [
+        "Marvell",
         "TSMC"
       ],
       "risk_level": "Medium",
@@ -2892,6 +2903,7 @@
     {
       "date": "2026.01",
       "detected_vendors": [
+        "Marvell",
         "Realtek",
         "TSMC"
       ],
@@ -2995,7 +3007,8 @@
       "date": "2026.02",
       "detected_vendors": [
         "Nexperia",
-        "Onsemi"
+        "Onsemi",
+        "Vishay"
       ],
       "risk_level": "High",
       "summary": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
@@ -3039,6 +3052,7 @@
       "detected_vendors": [
         "Micron",
         "Samsung",
+        "SanDisk",
         "삼성"
       ],
       "risk_level": "High",
@@ -3047,7 +3061,9 @@
     },
     {
       "date": "2026.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "메모리 (DRAM, RDIMM, LPDDR, eMMC) 변동 가격 체계 및 물량 배정 붕괴",
       "text": "SanDisk 저용량 eMMC, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1에 대한 수요가 급증하고 있으며, 리드타임은 26주로 확대되었습니다."
@@ -3065,14 +3081,18 @@
     },
     {
       "date": "2026.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "Low",
       "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
       "text": "시게이트와 WD는 2026년 생산 능력은 100% 판매 완료되었으며, 일부 계약은 2028~2030년까지 연장되었습니다."
     },
     {
       "date": "2026.02",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Western Digital"
+      ],
       "risk_level": "High",
       "summary": "스토리지 (SSD, HDD, NAND, NOR) 2026년 전량 매진",
       "text": "시게이트는 1TB~5TB 2.5인치 Barracuda 드라이브 단종을 계획하고 있으며, WD는 저용량 제품에 대한 견적 제공을 중단하고 12TB 이상 제품으로의 전환을 유도하고 있습니다."
@@ -3161,7 +3181,9 @@
     },
     {
       "date": "2026.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "메모리 가격 변동 및 할당 붕괴",
       "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. Sandisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다."
@@ -3348,7 +3370,9 @@
     },
     {
       "date": "2026.05",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Low",
       "summary": "LPDDR45 및 자동차용 eMMC",
       "text": "SanDisk 저용량 eMMC 수요가 급증했으며, 특히 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1이 주요 품목이다. SanDisk는 해당 제품 수요가 공급 대비 4~5배라고 보고했다."
@@ -3419,7 +3443,9 @@
     },
     {
       "date": "2026.06",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "SanDisk"
+      ],
       "risk_level": "Medium",
       "summary": "메모리 가격 변동 및 할당 붕괴",
       "text": "SanDisk 저용량 eMMC 제품인 SDINBDG4~8G-ZA2 및 SDINBDA6~64G-ZA1에 대한 수요가 지속되고 있으며, 제조사들은 수요가 공급의 4~5배에 달한다고 보고하고 있다. 생산 우선순위가 HBM3E/HBM4 생산 극대화에 맞춰지면서 공개 시장 가격은 세 배 이상 급등했다."
@@ -3525,7 +3551,8 @@
     {
       "date": "2026.07",
       "detected_vendors": [
-        "Seagate"
+        "Seagate",
+        "Western Digital"
       ],
       "risk_level": "High",
       "summary": "스토리지(SSD,HDD,NAND,NOR)2028년전량매진",
@@ -3583,7 +3610,8 @@
       "date": "2026.08",
       "detected_vendors": [
         "Kioxia",
-        "Micron"
+        "Micron",
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "비하이퍼스케일러 대상 메모리스토리지 물량 할당 붕괴",
@@ -3613,7 +3641,8 @@
       "date": "2026.08",
       "detected_vendors": [
         "Kioxia",
-        "Micron"
+        "Micron",
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "메모리 유동적 가격 책정 및 단종 확산",
@@ -3640,7 +3669,8 @@
     {
       "date": "2026.08",
       "detected_vendors": [
-        "Nanya"
+        "Nanya",
+        "SanDisk"
       ],
       "risk_level": "High",
       "summary": "메모리 공급난으로 장기 공급 계약 범위 확대",
@@ -3761,7 +3791,8 @@
     {
       "date": "2026.09",
       "detected_vendors": [
-        "Kioxia"
+        "Kioxia",
+        "SanDisk"
       ],
       "risk_level": "Medium",
       "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
@@ -3777,6 +3808,7 @@
     {
       "date": "2026.09",
       "detected_vendors": [
+        "Foxconn",
         "Nvidia"
       ],
       "risk_level": "High",

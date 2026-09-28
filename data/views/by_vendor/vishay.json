@@ -1,0 +1,695 @@
+[
+  {
+    "year": 2021,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "NXP, 리드 타임을 2022년까지 연장",
+    "subheading": "NXP, 리드 타임을 2022년까지 연장",
+    "text": "다른 뉴스에서, 칩 저항기 분야의 거인 Vishay는 가격을 10%에서 20%까지 인상했습니다. 일본의 칩 저항기 선두업체인 KOA도 이를 따를 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다. 특히 TDK Corporation, Panasonic Corporation, Vishay Intertechnology, Inc., WIMA와 같은 제조업체는 커패시터 제조용 소재 할당 문제로 인한 어려움을 겪고 있습니다. 생산 지연으로 리드 타임이 증가했습니다. 필름 커패시터의 대체적인 현재 표준 리드 타임은 다음과 같습니다.",
+    "detected_vendors": [
+      "Panasonic",
+      "TDK",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
+    "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
+    "text": "Vishay: 최대 50주",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "text": "우크라이나, 중국, 대만의 Vishay 제조 시설이 다양한 중단 문제로 영향을 받았습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "text": "러시아와 우크라이나의 전쟁으로 인해 우크라이나에서 Vishay의 제조 공정이 지연되고 있는데, 특히 VS-10 및 VS-40 시리즈의 생산이 영향을 받고 있습니다. 이로 인해 다이오드 및 정류기 공급 전반에 걸쳐 Vishay의 공급망을 통해 파급 효과가 발생했으며, 대만에서의 조업 활동도 지연되고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "text": "동시에, 중국에 기반을 둔 Vishay의 생산 공장은 생산 능력의 50%로 가동되고 있는 형편인데, 코로나19와 인력 부족과 같은 요인 때문입니다. Vishay의 전체 MOSFET 생산 중 약 50%가 중국 공장에서 이루어지며 일부 제품의 경우 리드 타임이 현재 2년 이상으로 늘고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "subheading": "Vishay Intertechnology, 전 세계적으로 조업 중단",
+    "text": "Vishay의 전체 자동차 및 능동 구성 부품 리드 타임은 시장에서 이러한 저항기의 공급이 빠듯해지면서 현재 70주 수준에 있습니다. 전 세계 곳곳의 공인 채널에서는 Vishay가 자동차 저항기에 대한 신규 주문을 확인해주지 않고 있다고 보고하고 있습니다.이 점에 있어 가장 큰 영향을 받는 시리즈는 리드 타임을 보장하지 않거나 납기일이 확정되지 않은 CRCW 시리즈입니다. WSL 시리즈는 현재 리드 타임이 99주이며 MMB, MMU, MMA 시리즈는 현재 최대 87주입니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
+    "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
+    "text": "상하이 Vishay 공장 2개의 가동과 관련하여, 중국은 코로나19로 인한 봉쇄 조치와 인력 제한의 영향을 받았습니다. 공장 1개는 MOSFET를 생산하고, 다른 공장은 소형 다이오드를 생산합니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
+    "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
+    "text": "Vishay 유통 및 분류 공장에서 격리 제한은 MOSFET과 다이오드 생산 양쪽에 모두 영향을 미치며, 이로 인해 고객의 주문 수령이 가로막히고 있습니다. 이에 따라 생긴 공급 격차가 4월 내내 지속될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
+    "subheading": "Vishay Intertechnology 리드 타임, 1년 이상으로 연장",
+    "text": "자동차용 MOSFET는 현재 75주의 리드 타임으로 고정 할당을 진행 중입니다. SI943 시리즈가 가장 많은 영향을 받은 것으로 보이며, 표준 저항기는 현재 최대 100주의 리드 타임에 직면해 있습니다(CRCW 시리즈). 박막 저항기의 리드 타임은 50~80주이고, 션트 저항기의 현재 리드 타임은 최대 80주입니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology",
+    "subheading": "Vishay Intertechnology",
+    "text": "Vishay의 상하이 공장은 3월 28일 조업을 중단했으나 생산능력 100% 회복을 목표로 서서히 정상화를 꾀하여 현재 공장은 30%의 인력으로 운영 중입니다. 최근의 봉쇄 이전 Vishay은 모든 자동차용 MOSFET, LVM 및 HVM 패키지의 가격을 인상했습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay Intertechnology",
+    "subheading": "Vishay Intertechnology",
+    "text": "Tesla Inc.: Tesla는 도시 봉쇄령 이후 상하이 공장 가동을 중단했으나 이후 운영 을 재개했습니다. 하지만 Giga Shanghai 공장은 제한된 인원으로 가동하여 현재 일일 1,200대를 생산 중이며 일일 2,600대로 생산량을 늘리는 것을 목표로 하고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "지정학적 갈등이 세라믹 콘덴서와 MLCC 리드 타임에 영향을 미치다",
+    "subheading": "지정학적 갈등이 세라믹 콘덴서와 MLCC 리드 타임에 영향을 미치다",
+    "text": "비용 상승이 예상됨에 따라 물량 할당이 빠듯해질 것으로 예상됩니다. Yageo, Kemet Tantalum 및 Polymer 제품의 리드 타임은 현재 54주로 더 길어질 가능성이 있으며 Vishay 탄탈 콘덴서는 주문 시 리드 타임이 82주입니다. TDK와 Murata의 현재 리드 타임은 26주이지만 러시아-우크라이나 전쟁으로 인한 핵심 원료 물량의 수급 불안정으로 그 기간은 더 늘어날 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Kemet",
+      "Murata",
+      "TDK",
+      "Vishay",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay, 자동차 부품 가격 인상",
+    "subheading": "Vishay, 자동차 부품 가격 인상",
+    "text": "Vishay는 전 제품에 걸쳐 부품 가격을 20% 인상했습니다. 특히 SQ & SQJ 자동차 시리즈는 리드 타임이 1년을 넘어가면서(99주 이상) 물량 부족을 겪고 있습니다. Vishay의 MOSFET 제조 공장이 위치한 중국에서 코로나19 봉쇄가 계속됨에 따라 이 상황은 점차 큰 문제를 야기하게 되었습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Vishay, 자동차 부품 가격 인상",
+    "subheading": "Vishay, 자동차 부품 가격 인상",
+    "text": "Vishay의 생산에 차질을 빚는 또 다른 요인은 공장의 노동력 부족 및 제한적인 공급량입니다. 이는 주로 MOSFET이 반드시 포함되야 하는 전기차에 대한 수요가 늘고 있기 때문입니다. 고질적인 물량 부족은 2022년에도 계속될 것으로 예상되므로 고객은 리드 타임을 최소화할 수 있도록 미리 발주할 것을 권고받았습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
+    "subheading": "공급 부족과 경제적 압박으로 인한 예상 생산량 축소, 가격 상승",
+    "text": "이러한 요소는 특히 STMicro MOSFET와 다이오드의 생산 비용에 영향을 미쳐 가격이 더 상승할 수 있습니다. Vishay의 고전압 전력 MOSFET(IRF-xxx 시리즈) 및 자동차 등급 품목(SQ-xxx 시리즈)의 경우 제조업체 재고 할당에 여유가 없으며 내년에는 다소 완화될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Wuxi Looms 도금 공장에서 대형 화재 발생",
+    "subheading": "Wuxi Looms 도금 공장에서 대형 화재 발생",
+    "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "우시 화재로 Infineon과 Vishay에 영향",
+    "subheading": "우시 화재로 Infineon과 Vishay에 영향",
+    "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "우시 화재로 Infineon과 Vishay에 영향",
+    "subheading": "우시 화재로 Infineon과 Vishay에 영향",
+    "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "우시 화재로 Infineon과 Vishay에 영향",
+    "subheading": "우시 화재로 Infineon과 Vishay에 영향",
+    "text": "Vishay의 SQ 생산은 약간의 영향을 받았지만 시장에 미치는 영향은 그다지 크지 않을 것입니다. Vishay의 MOSFET, 특히 SIxxx 및 SUxxx 시리즈가 가장 큰 영향을 받았습니다. 시장은 4월까지 생산 차질의 여파를 체감하겠지만, 제조업체의 수주 잔량이 이미 제약을 받고 있어 향후 인도 여부를 판단할 수 없습니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "우시 화재로 Infineon과 Vishay에 영향",
+    "subheading": "우시 화재로 Infineon과 Vishay에 영향",
+    "text": "Vishay는 수요를 충족하기 위해 새로운 도금 공장을 재지정할 계획입니다. 4월까지 전환이 완료되겠지만 생산을 시작하려면 추가로 5개월이 더 소요될 것으로 예상됩니다.",
+    "detected_vendors": [
+      "Infineon",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Natural Disaster / Incident"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "CRCW 시리즈에 대한 Vishay 리드 타임 연장",
+    "text": "지난 분기 Vishay의 고전력 후막 저항기 CRCW 계열의 리드 타임은 18~20주 사이였으나 빠르게 70주 이상으로 늘어났습니다. 자동차, 공업 및 통신 인프라 산업은 전력 변환, 모터 구동 및 배터리 관리 응용 분야에서 이러한 저항기를 사용하기 때문에 이러한 지연의 영향을 체감하고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "IC",
+    "subheading": "CRCW 시리즈에 대한 Vishay 리드 타임 연장",
+    "text": "유통업체는 시장 정보 채널을 주의 깊게 모니터링하여 업데이트를 확인하고 있습니다. 생산에 미치는 중대한 영향에 대한 공식적인 보고는 없지만, 제조업체는 추가 지원이 필요한 경우 다른 지역 공장으로 생산 능력을 이전할 수 있는 대체 계획을 가지고 있습니다. 가격은 제조에 위험이 있는 영역을 파악하기 위해 노력함에 따라 사전 통지 없이 변경될 수 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "제조업체의 산업 수요 동향",
+    "subheading": "제조업체의 산업 수요 동향",
+    "text": "Vishay Intertechnology의 최근 실적 보고서에 따르면, 자동차, 산업, AI 컴퓨팅 부문이 수동 부품 수요를 증가시켰으며, 이로 인해 인덕터와 광전자 부품의 매출이 성장했습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "에너지, 자동차, 산업 자동화가 수요 견인",
+    "subheading": "에너지, 자동차, 산업 자동화가 수요 견인",
+    "text": "Vishay Intertechnology의 최근 실적 보고서에 따르면, 에너지, 자동차, 산업 자동화 부문이 MLCC 수요를 주도하고 있으며, 특히 고전압 DC 응용 제품, 공장 자동화, 재생 에너지 시스템에서 수요가 두드러지고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "패시브 부품 높은 수요로 리드 타임 연장",
+    "subheading": "패시브 부품 높은 수요로 리드 타임 연장",
+    "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터의 리드 타임이 20주에서 36주로 증가했습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동 부품 리드 타임 장기화 지속",
+    "subheading": "수동 부품 리드 타임 장기화 지속",
+    "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 분야 수요 증가로 인해 리드 타임이 36주 이상으로 길어졌습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "재고 소화가 악화된 기업들",
+    "subheading": "재고 소화가 악화된 기업들",
+    "text": "Vishay는 유럽 지역에서 자동차 및 산업용 재고 과잉으로 인해 수요가 둔화되고, 주문 보충도 지연되고 있다고 보고했습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "2025년 비관적 전망",
+    "subheading": "2025년 비관적 전망",
+    "text": "Vishay는 유럽 산업 및 자동차 시장에서 높은 재고와 수요 부진으로 인해 약세를 이어가고 있다고 보고했습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동소자",
+    "subheading": "수동소자",
+    "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 애플리케이션 수요 증가로 인해 리드 타임이 36주를 초과하고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동 부품",
+    "subheading": "수동 부품",
+    "text": "Vishay의 T55/T550 탄탈륨 커패시터는 리드 타임이 40주를 초과했으며, 자동차 및 방위 산업에서의 수요가 여전히 강세를 보이고 있습니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "비쉐이(Vishay) MOSFET(예",
+    "subheading": "비쉐이(Vishay) MOSFET(예",
+    "text": "SQ2389CES)은 25주 리드타임을 보이며, 유통사는 저항/캐패시터/디스크리트 전반에서 배정 축소가 발생하고 있다고 보고합니다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
+    "subheading": "자동차 업계, 존립 위협 수준의 메모리 및 디스크리트 반도체 위기 직면",
+    "text": "도요타, 덴소, 마렐리, 보쉬 등 자동차 Tier 1 업체들은 eMMC, LPDDR4/5, 레거시 DRAM 부문에서 심각한 공급 공백을 보고하고 있습니다. 제조사들이 자동차용 등급의 신뢰성보다 AI 서버용 제품의 수익성을 우선시하고 있기 때문입니다. 동시에 Nexperia 공급망 분절로 인해 Onsemi 및 Vishay에 대한 긴급 인증이 진행되고 있으나, 생산 능력 초과로 대체 제품의 리드타임은 40~52주까지 확대되었습니다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Onsemi",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "자동차 고객들은 Vishay의 잠재적 웨이퍼 품질 이슈를 조사하고 있으며, 이는 Nexperia 다이오드 공백을 메우는 과정에서 추가 리스크로 작용하고 있습니다.",
+    "detected_vendors": [
+      "Nexperia",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Passive",
+      "Storage"
+    ],
+    "section_raw": "Vishay MOSFET(예",
+    "subheading": "Vishay MOSFET(예",
+    "text": "SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다.",
+    "detected_vendors": [
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "Vishay MOSFET(예",
+    "subheading": "Vishay MOSFET(예",
+    "text": "Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다.",
+    "detected_vendors": [
+      "Panasonic",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Skyworks는 다이오드 생산 라인 한 곳을 폐쇄하고 전환 지원 없이 2027년부터 해당 제품군의 일부 품목에서 철수할 예정인 것으로 알려졌다. Vishay는 팹 과잉 예약과 관련해 MOSFET(SIB452DK-T1-GE3)의 공급 확약 철회를 통보했으며, 이에 따라 신규 납기 일정은 2027년 말로 연기되고 있다.",
+    "detected_vendors": [
+      "Skyworks",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  }
+]

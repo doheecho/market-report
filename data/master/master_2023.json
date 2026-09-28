@@ -11,7 +11,8 @@
     "subheading": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "text": "고전압 MOSFET 시리즈 및 MCU의 시장 물량이 빠듯한 관계로 NXP는 여전히 공급량이 수요에 미치지 못하고 있습니다. 자동차 및 산업용 부품은 아직까지도 가장 제약이 심한 부문에 속하기 때문에 공급 부족(Shortage)이 완화될 기미가 보이지 않고 있습니다. 여기에 더해 NXP가 특정 시장에 대해서 할당이 어려운 상황이 유지되고 있기 때문에 S1912와 MK 시리즈에 대한 수요가 증가하고 있습니다. 4분기 할당 역시 2023년으로 연기될 것으로 알려졌습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Allocation",
@@ -30,7 +31,8 @@
     "subheading": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "text": "여전히 정상화 되지 않는 제조 역량도 구형 Freescale 시리즈 MC9S08, MC9S12, MK 및 MCF5의 공급에 영향을 미쳐 이 모든 모델이 시장에서 장기적인 공급 부족(Shortage)을 겪고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Shortage"
@@ -70,7 +72,8 @@
     "subheading": "NXP와 STM의 공급 부족(Shortage), 내년까지 지속",
     "text": "공급에 큰 진척은 없지만 가격 인상을 암시하는 말은 나오지 않고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "STMicroelectronics"
     ],
     "detected_keywords": [
       "Price Increase",
@@ -258,7 +261,8 @@
     "subheading": "Xilinx와 Silicon Labs 제품의 가격 인상 예정",
     "text": "한편 또 다른 공고에 따르면 Si-xxx 시리즈는 Skyworks 이전 이후 리드 타임과 공급 부족(Shortage)이 증가하고 있습니다.",
     "detected_vendors": [
-      "AMD"
+      "AMD",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Lead Time",
@@ -618,7 +622,8 @@
     "subheading": "RTX 30 시리즈의 수요 급증과 함께 예측이 무색해진 GPU 시장 동향",
     "text": "NVIDIA의 RTX 4070Ti는 2023년 1월 5일에 출시될 예정입니다. 이로써 RTX 시리즈는 보다 완성된 제품군을 갖추게 될 것입니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -672,7 +677,9 @@
     "section_raw": "하드웨어",
     "subheading": "공급 부족(Shortage)으로 타격 입은 산업용 전원 공급 장치와 Raspberry Pi 재고",
     "text": "대부분의 산업용 전원 공급 장치는 부품의 공급 부족(Shortage) 및 전기자동차와 자동화 제품에 대한 수요 증가로 인해 리드 타임이 10~24개월 연장되었습니다 COSEL, Phoenix Contact, Weidmüller, TDK, PULS 등의 브랜드가 타격을 입었으며, 리드 타임이 단기적으로 개선될 가능성은 낮습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -706,7 +713,8 @@
     "subheading": "Wuxi Looms 도금 공장에서 대형 화재 발생",
     "text": "1월 6일, 중국 우시의 한 도금 공장에서 화재가 발생하여 심각하고 광범위하게 라인이 손상되었습니다. 이 공장에는 Vishay용 생산 라인이 2개가 있었으므로 최소 931개의 MPN이 이로 인한 영향을 받았으며 최소 5개월의 지연이 예상됩니다. 또한, 이 공장은 OSRAM 및 Infineon과 파트너 관계를 맺었으며, 그 중 Infineon은 이 공장에 18개의 생산 라인을 가지고 있었습니다. 최근 화재기록을 보면 이와 유사한 화재 관련 사건들은 시장에 막대한 영향을 미쳐왔습니다. 그리고 손상 범위와 복구에 대한 제조업체의 피드백을 고려하면 이러한 반복은 심각한 문제의 초기 지표가 됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -779,7 +787,9 @@
     "section_raw": "STMicro 리드 타임은 고객들이 아직도 2020년도 주문 대기 상태에 있기 때문에 악화됨",
     "subheading": "STMicro 리드 타임은 고객들이 아직도 2020년도 주문 대기 상태에 있기 때문에 악화됨",
     "text": "MCU 제품의 리드 타임은 계속 악화되고 있으며 현재 리드 타임은 76주인 것으로 보고되었습니다. STM32F4XXX, STM32F7XXX, STM32H7XX 시리즈에 대한 공급은 2020년도 주문량에 대한 납품이 완료되지 않았으므로 아직도 여유가 거의 없습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1261,7 +1271,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Fusion Worldwide의 2월 Greensheet에 보고된 바에 따르면, 중국 우시의 도금 공장에서 발생한 화재는 여전히 Infineon과 Vishay에 파급 효과를 주고 있습니다. 화재는 주로 트랜지스터와 상단부 및 하단부 MOSFET 또는 스위치에 영향을 미친 것으로 확인되었습니다. 그 결과 유통업체와 최종 사용자는 제조업체의 생산 중단 통지를 예상하고 가용한 공급량을 늘리기 시작했습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -1279,7 +1290,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "우시 화재로 인해 Infineon 및 Vishay 제품을 판매하는 공인 유통업체에 대한 제한이 강화되었습니다. 이러한 제한은 제조업체가 향후 몇 개월 내에 공급망 불균형을 바로잡을 수 있게 될 때까지 그대로 유지될 전망입니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -1297,7 +1309,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay의 SQ 생산은 약간의 영향을 받았지만 시장에 미치는 영향은 그다지 크지 않을 것입니다. Vishay의 MOSFET, 특히 SIxxx 및 SUxxx 시리즈가 가장 큰 영향을 받았습니다. 시장은 4월까지 생산 차질의 여파를 체감하겠지만, 제조업체의 수주 잔량이 이미 제약을 받고 있어 향후 인도 여부를 판단할 수 없습니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -1315,7 +1328,8 @@
     "subheading": "우시 화재로 Infineon과 Vishay에 영향",
     "text": "Vishay는 수요를 충족하기 위해 새로운 도금 공장을 재지정할 계획입니다. 4월까지 전환이 완료되겠지만 생산을 시작하려면 추가로 5개월이 더 소요될 것으로 예상됩니다.",
     "detected_vendors": [
-      "Infineon"
+      "Infineon",
+      "Vishay"
     ],
     "detected_keywords": [
       "Natural Disaster / Incident"
@@ -1477,7 +1491,9 @@
     "section_raw": "STMicro, 자동차 부품 공급 문제 지속",
     "subheading": "지금까지 다음 부품에 대한 리드 타임 개선은 없었습니다. STM8S, STM8L, STM32H7, STM32F2, STM32F4, STM32F7, STM8AW",
     "text": "이러한 부품은 자동차, 산업, 의료 가전 및 IoT 제품에 적용됩니다. 이러한 부품의 리드 타임은 40~52주입니다. 해당 스펙트럼의 상단에 있는 것은 F4 시리즈이지만 VNSxxx 및 L9XXX 시리즈도 여전히 높은 수요를 유지하고 있으며 시장에서 거의 구할 수 없습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2566,7 +2582,9 @@
     "section_raw": "IC",
     "subheading": "자동차 산업 성장이 수동소자 부품 시장의 움직임을 견인",
     "text": "일반적으로 MLCC의 리드 타임은 약 8~10주입니다. 1210 및 1216과 같이 더 큰 케이스 크기의 리드 타임은 약 16~20주로 약간 더 길며 자동차 등급 부품에 대한 가용 공급량은 할당에 따라 달라질 수 있습니다. 전반적으로 TDK MLCC, 특히 CGA 시리즈가 가장 수요가 많은 부품인 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -2742,6 +2760,7 @@
     "subheading": "안정적인 공급이 수요 약세와 맞물려 저조한 SSD 및 HDD 시장 형성",
     "text": "Marvell과 Seagate 같은 기업들은 시장의 공급 과잉을 해결하기 위해 작년 말부터 생산량과 인력 감축을 시행했지만, 이는 결실을 맺기까지 몇 달이 걸릴 수 있는 장기적인 전략입니다. 흥미롭게도, 최근 SK Hynix는 향후 추가 감산을 하지 않겠다고 밝혀 하반기 시장 회복에 대한 예상이 더 확실해져 간다는 것을 시사했습니다.",
     "detected_vendors": [
+      "Marvell",
       "SK하이닉스",
       "Seagate"
     ],
@@ -3069,7 +3088,9 @@
     "section_raw": "IC",
     "subheading": "주목 받는 TDK의 고정밀 센서",
     "text": "TDK Corporation은 충분한 공급을 보장하기 위해 차량용 고정밀 센서 생산량을 두 배로 늘릴 계획입니다. 팬데믹 기간 동안 자동차 산업은 집적 회로 및 기타 전자 부품 부족으로 인해 특히 큰 타격을 입었기 때문에 자동차 산업을 위한 할당량을 보호하려는 노력은 자동차 고객과 TDK 모두에게 도움이 됩니다. 이 전략은 TDK 및 고객과의 전략적 파트너십을 강화하는 한편, 첨단 생산 기술을 통해 TDK의 모든 추가 업종에 대한 전반적인 제조를 개선할 것입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [
       "Allocation",
       "Shortage"
@@ -3086,7 +3107,9 @@
     "section_raw": "IC",
     "subheading": "주목 받는 TDK의 고정밀 센서",
     "text": "이러한 센서는 압력, 온도, 습도 및 위치 등 다양한 매개변수에 대한 정확하고 신뢰할 수 있는 측정을 제공함으로써 자동차 응용 분야에서 중요한 역할을 합니다. 차량이 기술적으로 더욱 정교해짐에 따라 고정밀 센서에 대한 필요성이 급증하고 있습니다. 이러한 센서는 첨단 운전자 지원 시스템(ADAS)을 구현하고 차량 안전을 개선하며 전반적인 성능을 향상시키는 데 필수적입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -3442,7 +3465,8 @@
     "subheading": "기단 리드 타임으로 인해 게이밍 GPU보다 우선시하게 된 기업용 GPU",
     "text": "NVIDIA의 RTX 4090에 대한 견실한 수요에도 불구하고 공급은 제한적입니다. 이는 주로 제조업체가 기업용 GPU 생산에 우선적으로 할당함으로 인해서 GPU 칩셋에 대한 지원이 충분하지 않은 결과입니다. 이러한 상황은 6월에 새로운 RTX 4060ti 및 4060ti 8GB 모델이 출시되면 더욱 악화될 수 있습니다.",
     "detected_vendors": [
-      "Nvidia"
+      "Nvidia",
+      "Texas Instruments"
     ],
     "detected_keywords": [
       "Allocation",
@@ -3705,7 +3729,9 @@
     "section_raw": "IC",
     "subheading": "FM 시리즈의 리드 타임 단축 및 비용 절감 시작",
     "text": "STM32H는 공급 제약 기간 및 리드 타임 연장으로 인한 가격 상승에 따라 3분기에서 4분기 사이에 회복할 것으로 예측됩니다. 그러나 전반적인 수요가 여전히 높기 때문에 회복은 특정 MPN의 영향을 받습니다. 가장 큰 영향을 받은 MCU로 STM32F4XXX, STM32F7XXX, STM32H7XX 등이 있지만, 리드 타임은 점차 단축되고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "STMicroelectronics"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Price Increase"
@@ -4248,7 +4274,8 @@
       "Broadcom",
       "Infineon",
       "Qorvo",
-      "STMicroelectronics"
+      "STMicroelectronics",
+      "Skyworks"
     ],
     "detected_keywords": [
       "Geopolitics / Sanctions"
@@ -6001,7 +6028,9 @@
     "section_raw": "IC",
     "subheading": "CRCW 시리즈에 대한 Vishay 리드 타임 연장",
     "text": "지난 분기 Vishay의 고전력 후막 저항기 CRCW 계열의 리드 타임은 18~20주 사이였으나 빠르게 70주 이상으로 늘어났습니다. 자동차, 공업 및 통신 인프라 산업은 전력 변환, 모터 구동 및 배터리 관리 응용 분야에서 이러한 저항기를 사용하기 때문에 이러한 지연의 영향을 체감하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -6017,7 +6046,9 @@
     "section_raw": "IC",
     "subheading": "CRCW 시리즈에 대한 Vishay 리드 타임 연장",
     "text": "유통업체는 시장 정보 채널을 주의 깊게 모니터링하여 업데이트를 확인하고 있습니다. 생산에 미치는 중대한 영향에 대한 공식적인 보고는 없지만, 제조업체는 추가 지원이 필요한 경우 다른 지역 공장으로 생산 능력을 이전할 수 있는 대체 계획을 가지고 있습니다. 가격은 제조에 위험이 있는 영역을 파악하기 위해 노력함에 따라 사전 통지 없이 변경될 수 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],

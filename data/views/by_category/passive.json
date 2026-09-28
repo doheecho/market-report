@@ -785,7 +785,9 @@
     "section_raw": "IC",
     "subheading": "IC",
     "text": "중국 남동부 해안의 다롄과 샤먼에 위치한 TDK 공장은 중국의 전력 제한으로 영향을 받고 있으며, 최대 6개월까지 제조 및 발송이 지연되고 있습니다. 영향을 받는 제품으로 클램프 필터(ZCAT 시리즈), 파워 인덕터(VLS 시리즈), MLCC(CKG 시리즈) 및 PC용 페라이트 코어 등이 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -896,7 +898,9 @@
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "공급업체가 직면한 이런 문제 외에, 커패시터 생산 역시 미중 무역 충돌로 차질을 빚고 있습니다. 특히 TDK Corporation, Panasonic Corporation, Vishay Intertechnology, Inc., WIMA와 같은 제조업체는 커패시터 제조용 소재 할당 문제로 인한 어려움을 겪고 있습니다. 생산 지연으로 리드 타임이 증가했습니다. 필름 커패시터의 대체적인 현재 표준 리드 타임은 다음과 같습니다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "TDK",
+      "Vishay"
     ],
     "detected_keywords": [
       "Allocation",
@@ -915,7 +919,9 @@
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "TDK: 최대 52주",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -930,7 +936,9 @@
     "section_raw": "지정학적 리스크에 갇힌 커패시터 제조",
     "subheading": "지정학적 리스크에 갇힌 커패시터 제조",
     "text": "Vishay: 최대 50주",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1017,6 +1025,8 @@
     "detected_vendors": [
       "Kemet",
       "Murata",
+      "TDK",
+      "Vishay",
       "Yageo"
     ],
     "detected_keywords": [
@@ -1101,7 +1111,9 @@
     "section_raw": "IC",
     "subheading": "자동차 산업 성장이 수동소자 부품 시장의 움직임을 견인",
     "text": "일반적으로 MLCC의 리드 타임은 약 8~10주입니다. 1210 및 1216과 같이 더 큰 케이스 크기의 리드 타임은 약 16~20주로 약간 더 길며 자동차 등급 부품에 대한 가용 공급량은 할당에 따라 달라질 수 있습니다. 전반적으로 TDK MLCC, 특히 CGA 시리즈가 가장 수요가 많은 부품인 것으로 보입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TDK"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -1151,7 +1163,9 @@
     "section_raw": "에너지, 자동차, 산업 자동화가 수요 견인",
     "subheading": "에너지, 자동차, 산업 자동화가 수요 견인",
     "text": "Vishay Intertechnology의 최근 실적 보고서에 따르면, 에너지, 자동차, 산업 자동화 부문이 MLCC 수요를 주도하고 있으며, 특히 고전압 DC 응용 제품, 공장 자동화, 재생 에너지 시스템에서 수요가 두드러지고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1204,6 +1218,7 @@
     "text": "AVX, Kyocera, Murata 등 제조업체들은 MLCC 가격 인상을 발표했으며, 예를 들어 GQMWI 시리즈는 10% 인상이 예상되며, 일부 부품번호(MPN)는 최대 50%까지 인상될 가능성이 있습니다. 이는 전반적인 시장 부족의 신호로 해석됩니다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata"
     ],
     "detected_keywords": [
@@ -1282,7 +1297,8 @@
     "subheading": "데이터 센터, AI, 자동차 에너지 시스템이 폴리머 커패시터 시장 견인",
     "text": "Panasonic과 TDK의 최근 실적 보고서에 따르면, 데이터 센터, AI, 자동차 에너지 시스템에서 수요가 증가하고 있습니다. TDK는 자동차 부문에서도 유사한 수요 증가를 보고했으며, 산업 장비, 특히 태양광 및 광전 시스템에서 활동이 증가했다고 강조했습니다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "TDK"
     ],
     "detected_keywords": [],
     "risk_level": "Low"
@@ -1387,7 +1403,9 @@
     "section_raw": "패시브 부품 높은 수요로 리드 타임 연장",
     "subheading": "패시브 부품 높은 수요로 리드 타임 연장",
     "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터의 리드 타임이 20주에서 36주로 증가했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1439,7 +1457,9 @@
     "section_raw": "수동 부품 리드 타임 장기화 지속",
     "subheading": "수동 부품 리드 타임 장기화 지속",
     "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 분야 수요 증가로 인해 리드 타임이 36주 이상으로 길어졌습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1526,7 +1546,9 @@
     "section_raw": "수동소자",
     "subheading": "수동소자",
     "text": "Vishay의 T55 및 T550 시리즈 탄탈륨 커패시터는 산업 및 자동차 애플리케이션 수요 증가로 인해 리드 타임이 36주를 초과하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -1595,7 +1617,9 @@
     "section_raw": "수동 부품",
     "subheading": "수동 부품",
     "text": "Vishay의 T55/T550 탄탈륨 커패시터는 리드 타임이 40주를 초과했으며, 자동차 및 방위 산업에서의 수요가 여전히 강세를 보이고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2006,7 +2030,8 @@
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "자동차 고객들은 Vishay의 잠재적 웨이퍼 품질 이슈를 조사하고 있으며, 이는 Nexperia 다이오드 공백을 메우는 과정에서 추가 리스크로 작용하고 있습니다.",
     "detected_vendors": [
-      "Nexperia"
+      "Nexperia",
+      "Vishay"
     ],
     "detected_keywords": [
       "Shortage"
@@ -2067,7 +2092,9 @@
     "section_raw": "Vishay MOSFET(예",
     "subheading": "Vishay MOSFET(예",
     "text": "SQ2389CES)은 25주 리드타임이며, 저항기, 커패시터, 디스크리트 전반에서 할당 축소가 발생하고 있다. 자동차 고객은 Vishay 웨이퍼 문제를 조사 중이다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Vishay"
+    ],
     "detected_keywords": [
       "Allocation",
       "Lead Time"
@@ -2087,7 +2114,8 @@
     "subheading": "Vishay MOSFET(예",
     "text": "Panasonic은 2026년 1분기 POSCAP 탄탈 커패시터 가격을 크게 인상했으며, 분기 전체 생산 용량이 이미 예약 완료되었다. 리드타임은 28~32주 이상이다.",
     "detected_vendors": [
-      "Panasonic"
+      "Panasonic",
+      "Vishay"
     ],
     "detected_keywords": [
       "Lead Time"
@@ -2528,6 +2556,7 @@
     "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다.",
     "detected_vendors": [
       "AVX",
+      "Kyocera",
       "Murata",
       "Samsung",
       "Yageo",
@@ -2553,7 +2582,10 @@
     "subheading": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
     "text": "주요 자동차 OEM은 2027년 중반 물량 할당 재조정에 앞서 재제조업체에 버퍼 재고를 확보하도록 지시하고 있는 것으로 알려졌다. Tier 1 고객사들은 ADI의 납기 연기, ROHM의 신규 고객 주문 거절, Nexperia로 인한 다이오드 공급 재배정 압박을 보고하고 있다. 서버 랙당 최대 75만 개에 달하는 자동차용 MLCC 수요 추정치는 이미 빠듯한 수동소자 시장의 부담을 가중시키고 있으며, Diodes Inc.의 수요가 많은 자동차용 부품 리드타임은 40주를 넘어섰다.",
     "detected_vendors": [
-      "Nexperia"
+      "Analog Devices",
+      "Diodes",
+      "Nexperia",
+      "ROHM"
     ],
     "detected_keywords": [
       "Allocation",
@@ -2591,6 +2623,7 @@
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "Kyocera는 별도 통보 시까지 전 세계 유통업체에 리셀러 대상 견적 제공을 중단하라고 지시했다. Samsung Electro-Mechanics는 10월 1일 MLCC 가격을 다시 인상하는 한편, 9월 출하·할당 물량을 약 20% 줄일 것으로 예상된다. 이는 고객 및 유통업체 기반의 약 85%에 영향을 미칠 전망이다.",
     "detected_vendors": [
+      "Kyocera",
       "Samsung",
       "삼성"
     ],
@@ -2629,7 +2662,9 @@
     "section_raw": "수동부품 및 원자재 T-글래스 병목",
     "subheading": "수동부품 및 원자재 T-글래스 병목",
     "text": "Diodes Inc.의 주력 자동차용 부품 리드타임은 한 Tier 1 고객사에서 40주를 넘어섰으며, UCC 브랜드 알루미늄 전해 커패시터는 명시된 생산능력의 140% 수준에서 공급이 제약을 받고 있는 것으로 알려졌다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Diodes"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
