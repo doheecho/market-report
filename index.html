@@ -605,13 +605,13 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       --samsung-blue: var(--srm-accent, #1428A0);
     }
     body {
-      height: 100vh;
+      min-height: 100vh;
       margin: 0;
       background-color: var(--bg-color);
       font-family: 'Noto Sans KR', sans-serif;
       display: flex;
       flex-direction: column;
-      overflow: hidden;
+      overflow-y: auto;
     }
 
     /* 최상단 공용 카테고리 전환 탭 바 */
@@ -663,7 +663,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     /* 대시보드 메인 레이아웃 스크롤 */
     .dashboard-scroll-container {
       flex: 1;
-      overflow-y: scroll !important; /* 항상 수직 스크롤바 영역을 강제 확보하여 탭 전환 시 수평 요동(Jitter)현상 완전 제거! */
+      overflow-y: visible !important;
       padding: 24px 40px !important;
       transform: translate3d(0, 0, 0);
       -webkit-backface-visibility: hidden;
@@ -896,8 +896,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       margin-top: 16px;
     }
     .market-factor-card {
-      position: relative; /* 백그라운드 차트 절대 배치를 위한 기준 */
-      overflow: hidden;    /* 차트가 둥근 테두리 바깥으로 나가지 않도록 방지 */
       background: var(--srm-surface) !important;
       border: 1px solid var(--srm-border);
       border-radius: 10px;
@@ -907,13 +905,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       flex-direction: column;
       justify-content: space-between;
       transition: all 0.2s ease;
-    }
-    /* 기존 텍스트 레이어를 차트 위로 띄워 가독성 100% 유지 */
-    .market-factor-card .top-row,
-    .market-factor-card .price-row,
-    .market-factor-card .factor-changes-grid {
-      position: relative;
-      z-index: 1;
     }
     .market-factor-card:hover {
       box-shadow: var(--srm-shadow-md);
@@ -978,7 +969,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     /* ===== 요인지표 하위 가로 5분할 (3fr 2fr Split) 및 커스텀 테이블 스타일 ===== */
     .market-grid-split {
       display: grid;
-      grid-template-columns: 1fr 1fr; /* [수정] 좌측 50%, 우측 50% 동일 너비로 정렬 */
+      grid-template-columns: 3fr 2fr; /* 60:40 Split ratio */
       gap: 16px;
       margin-top: 20px;
       margin-bottom: 20px;
@@ -993,7 +984,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       border: 1px solid var(--srm-border) !important;
       border-radius: 12px;
       padding: 16px;
-      height: 380px;
+      height: auto;
+      min-height: 380px;
       display: flex;
       flex-direction: column;
       box-shadow: var(--srm-shadow-sm);
@@ -1047,8 +1039,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     .market-table tr:hover td {
       background-color: var(--srm-row-hover) !important;
     }
+    .market-table tr.table-row-danger td {
+      background-color: rgba(239, 68, 68, 0.05) !important;
+    }
     .market-table tr.table-row-danger:hover td {
-      background-color: rgba(239, 68, 68, 0.18) !important;
+      background-color: rgba(239, 68, 68, 0.15) !important; /* Slightly darker warning red hover */
     }
 
     /* 지진 시뮬레이션 관련 커스텀 CSS */
@@ -1569,38 +1564,38 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         <div id="unified-portal-panel" class="row g-4 mb-2" style="display: flex !important;">
           <!-- 4개의 분할 카드로 구성 (각 주요 리스크 명칭의 폰트 크기를 대제목 0.95rem 크기와 칼대칭 일치!) -->
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-globe me-1 text-danger"></i>지정학적 Risk</div>
               <canvas id="gauge-canvas-geo" width="220" height="130" style="margin-top: 10px;"></canvas>
               <!-- 주요 텍스트 리스크 정보 카드 영역 배치 -->
-              <div id="gauge-details-geo" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-geo" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- G.A.S로부터 수합되어 들어오는 실시간 리스크 보드 -->
               </div>
             </div>
           </div>
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-activity me-1 text-warning"></i>경영 안정성 Risk</div>
               <canvas id="gauge-canvas-stability" width="220" height="130" style="margin-top: 10px;"></canvas>
-              <div id="gauge-details-stability" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-stability" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- 경영안정성 모의 리포트 보드 -->
               </div>
             </div>
           </div>
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-cash-coin me-1 text-primary"></i>원가·시황 Risk</div>
               <canvas id="gauge-canvas-cost" width="220" height="130" style="margin-top: 10px;"></canvas>
-              <div id="gauge-details-cost" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-cost" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- 원가·시황 모의 리포트 보드 -->
               </div>
             </div>
           </div>
           <div class="col-md-3">
-            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; height: 460px;">
+            <div class="p-3 border rounded text-dark bg-white shadow-sm d-flex flex-column align-items-center" style="background: var(--srm-surface) !important; border: 1px solid var(--srm-border) !important; border-radius: 12px; min-height: 460px; height: 100%;">
               <div class="fw-bold text-dark w-100 text-start mb-2" style="font-size: 0.95rem; color: var(--srm-text) !important;"><i class="bi bi-truck me-1 text-success"></i>조달·납기 Risk</div>
               <canvas id="gauge-canvas-procurement" width="220" height="130" style="margin-top: 10px;"></canvas>
-              <div id="gauge-details-procurement" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: 240px; color: var(--srm-text);">
+              <div id="gauge-details-procurement" class="mt-3 w-100 overflow-y-auto" style="flex-grow: 1; text-align: left; font-size: 0.74rem; border-top: 1px solid var(--srm-border); padding-top: 10px; max-height: none; color: var(--srm-text);">
                 <!-- 조달·납기 모의 리포트 보드 -->
               </div>
             </div>
@@ -1667,7 +1662,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       </section>
       <!-- [신설] 지정학적 Risk 협력사 (가로 전체 사용) -->
-      <section class="block mb-4" id="geopolitics-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <section class="block mb-4" id="geopolitics-risk-partners-block" style="display: none; margin-top: 16px; height: auto; flex-direction: column; padding: 16px 20px !important;">
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>지정학적 Risk 협력사</span>
           <button type="button" id="geopolitics-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleGeopoliticsRpCollapse()">접기</button>
@@ -1727,7 +1722,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       </section>
 
       <!-- 4. 원가·시황측면 Risk 협력사 섹션 블록 (가로 전체 사용) -->
-      <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <section class="block mb-4" id="market-risk-partners-block" style="display: none; margin-top: 16px; height: auto; flex-direction: column; padding: 16px 20px !important;">
         <h3 id="dashboard-market-partners-title" class="d-flex justify-content-between align-items-center" style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>원가·시황 Risk 협력사</span>
           <button type="button" id="market-risk-partners-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleMarketRiskPartnersCollapse()">접기</button>
@@ -1775,7 +1770,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       </section>
 
       <!-- [신설] 경영안정성측면 Risk 협력사 (가로 전체 사용) -->
-      <section class="block mb-4" id="stability-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+      <section class="block mb-4" id="stability-risk-partners-block" style="display: none; margin-top: 16px; height: auto; flex-direction: column; padding: 16px 20px !important;">
         <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
           <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>경영 안정성 Risk 협력사</span>
           <button type="button" id="stability-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleStabilityRpCollapse()">접기</button>
@@ -1904,7 +1899,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </div>
 
         <!-- Standardized Data Table -->
-        <div id="dl-table-wrapper" class="market-table-wrapper" style="height: 520px; overflow-y: auto; margin-bottom: 24px;">
+        <div id="dl-table-wrapper" class="market-table-wrapper" style="height: auto !important; min-height: 200px; overflow-y: visible !important; margin-bottom: 24px;">
           <table class="table table-bordered table-hover table-sm text-center mb-0 align-middle" id="dl-data-table" style="color: var(--srm-text) !important; font-size: 0.82rem !important; border-collapse: collapse;">
             <thead class="table-light" style="position: sticky; top: 0; z-index: 10;">
               <tr>
@@ -1925,7 +1920,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         </div>
 
         <!-- 상세 리스트 뷰: 클릭해서 펼치지 않아도 본문 전체가 항상 표시됨 -->
-        <div id="dl-detail-wrapper" style="display: none; height: 520px; overflow-y: auto; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px; margin-bottom: 24px;">
+        <div id="dl-detail-wrapper" style="display: none; height: auto !important; min-height: 200px; overflow-y: visible !important; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px; margin-bottom: 24px;">
           <div id="dl-detail-content" style="position: relative; margin-left: 20px; border-left: 2px solid var(--srm-border); padding-bottom: 10px;">
             <!-- Loaded dynamically -->
           </div>
@@ -1991,7 +1986,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     </section>
 
     <!-- [신설] 조달/납기측면 Risk 협력사 (가로 전체 사용) -->
-    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: 380px; display: flex; flex-direction: column; padding: 16px 20px !important;">
+    <section class="block mb-4" id="procurement-risk-partners-block" style="display: none; margin-top: 16px; height: auto; flex-direction: column; padding: 16px 20px !important;">
       <h3 style="font-size: 0.95rem; font-weight: 700; color: var(--srm-text); margin-bottom: 12px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px dashed var(--srm-border); padding-bottom: 8px;">
         <span><i class="bi bi-exclamation-triangle-fill me-1 text-danger"></i>조달·납기 Risk 협력사</span>
         <button type="button" id="dl-rp-collapse-btn" class="btn btn-sm btn-outline-secondary" style="height: 24px; font-size: 0.7rem; padding: 1px 8px; font-weight: 600;" onclick="toggleRpCollapse()">접기</button>
@@ -2595,6 +2590,41 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     }
 
     /**
+     * SCM Risk 대시보드 전 모듈 백그라운드 비동기 선적재(Preloading) 엔진
+     */
+    function preloadAllModulesAsynchronously() {
+      // 1) SCM 주요 동향 및 AI Advisor 선적재 (즉시 가동)
+      if (typeof window.loadScmAiAdvisorData === 'function') {
+        setTimeout(() => { window.loadScmAiAdvisorData(); }, 50);
+      }
+      
+      // 2) 지정학적 Risk 협력사 테이블 선적재
+      if (typeof window.loadGeopoliticsRiskTables === 'function') {
+        setTimeout(() => { window.loadGeopoliticsRiskTables(); }, 150);
+      }
+      
+      // 3) 경영 안정성 Risk 상세분석 테이블 및 협력사 테이블 선적재
+      if (typeof window.loadStabilityRiskTables === 'function') {
+        setTimeout(() => { window.loadStabilityRiskTables(); }, 250);
+      }
+      
+      // 4) 조달 · 납기 Risk 상세분석 테이블 및 협력사 테이블 선적재
+      if (typeof window.loadProcurementRiskTables === 'function') {
+        setTimeout(() => { window.loadProcurementRiskTables(); }, 350);
+      }
+      
+      // 5) Market Intelligence 주요 시황 지수 & 환율 데이터 선적재
+      if (typeof window.loadMarketFactors === 'function') {
+        setTimeout(() => { window.loadMarketFactors(); }, 450);
+      }
+      
+      // 6) Market Intelligence 시장 동향 리포트(The Greensheet) 및 타임라인 데이터 선적재
+      if (typeof window.initDlViewModule === 'function') {
+        setTimeout(() => { window.initDlViewModule(); }, 550);
+      }
+    }
+
+    /**
      * G.A.S 서버로부터 SCM 지정학 데이터 수집
      */
     function loadScmRiskDashboard() {
@@ -2613,12 +2643,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           // 통합 관리 탭 계기판 활성화 런타임 가동
           filterByTopCategory(currentTopCategory);
           
-          // ★ [백그라운드 비동기 적재 개시] 원가 · 시황 데이터를 백그라운드에서 미리 preloading하여 탭 전환 딜레이 제거!
-          setTimeout(function() {
-            if (typeof window.loadMarketFactors === 'function') {
-              window.loadMarketFactors();
-            }
-          }, 350);
+          // ★ [백그라운드 비동기 선적재] SCM 전 모듈 백그라운드 비동기 선적재 전격 통합 가동하여 탭 전환 딜레이 제거!
+          preloadAllModulesAsynchronously();
         } else {
           alert("데이터 수집 실패: " + res.message);
         }
@@ -3775,8 +3801,15 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
     function applyZoomScaling() {
       var baseWidth = 2560;
       var currentWidth = window.innerWidth;
+      var currentHeight = window.innerHeight;
       var zoomRatio = currentWidth / baseWidth;
       document.body.style.zoom = zoomRatio;
+
+      // 줌으로 인해 아랫단이 고정되어 잘리고 하단에 회색 배경이 길게 낭비되는 현상 방지:
+      // body의 최소 세로 높이가 현재 모니터 세로 높이에 맞게 자연스럽게 확장되도록 보정
+      if (zoomRatio > 0 && currentHeight > 0) {
+        document.body.style.minHeight = (currentHeight / zoomRatio) + 'px';
+      }
     }
     
     window.addEventListener('load', applyZoomScaling);
@@ -3829,69 +3862,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const oldPrice = closestEntry.price;
       if (!oldPrice) return null;
       return ((currentPrice - oldPrice) / oldPrice) * 100;
-    }
-
-    // 1년치 흐름 차트용 초경량 SVG 배경 생성기
-    function generateSparklineSVG(prices, trendVal, datesProportional = null, uniqueId) {
-      if (!prices || prices.length < 2) return "";
-      
-      const min = Math.min(...prices);
-      const max = Math.max(...prices);
-      const range = max - min;
-      
-      const width = 300;
-      const height = 100;
-      const paddingY = 15; // 텍스트 영역을 침범하지 않게 상하단 마진 확보
-      
-      const points = [];
-      for (let i = 0; i < prices.length; i++) {
-        let x;
-        if (datesProportional && datesProportional.length === prices.length) {
-          x = datesProportional[i] * width;
-        } else {
-          x = (i / (prices.length - 1)) * width;
-        }
-        
-        let y;
-        if (range === 0) {
-          y = height / 2;
-        } else {
-          y = height - paddingY - ((prices[i] - min) / range) * (height - paddingY * 2);
-        }
-        points.push({ x, y });
-      }
-      
-      const pointsStr = points.map(p => `${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(" ");
-      const fillPathStr = `M 0 ${height} L ${points[0].x.toFixed(1)} ${points[0].y.toFixed(1)} ${points.slice(1).map(p => `L ${p.x.toFixed(1)} ${p.y.toFixed(1)}`).join(" ")} L ${width} ${height} Z`;
-      
-      let strokeColor = "#9ca3af"; // 보합 (회색)
-      let fillColor = "#9ca3af";
-      let opacity = 0.12;          // 흐리게 녹아들도록 설정
-      
-      if (trendVal > 0.05) {
-        strokeColor = "#ef4444";   // 상승 (장미빛 빨간색)
-        fillColor = "#ef4444";
-        opacity = 0.16;
-      } else if (trendVal < -0.05) {
-        strokeColor = "#3b82f6";   // 하락 (세련된 파란색)
-        fillColor = "#3b82f6";
-        opacity = 0.16;
-      }
-      
-      const safeId = uniqueId.replace(/[^a-zA-Z0-9]/g, '');
-      
-      return `
-        <svg viewBox="0 0 ${width} ${height}" width="100%" height="100%" preserveAspectRatio="none" style="position: absolute; bottom: 0; left: 0; right: 0; top: 0; pointer-events: none; z-index: 0; opacity: ${opacity};">
-          <defs>
-            <linearGradient id="sparkline-grad-${safeId}" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="0%" stop-color="${fillColor}" stop-opacity="0.35" />
-              <stop offset="100%" stop-color="${fillColor}" stop-opacity="0.0" />
-            </linearGradient>
-          </defs>
-          <path d="${fillPathStr}" fill="url(#sparkline-grad-${safeId})" stroke="none" />
-          <polyline points="${pointsStr}" fill="none" stroke="${strokeColor}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-        </svg>
-      `;
     }
 
     let loadedMarketData = null;
@@ -4050,21 +4020,11 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const ddToday = String(todayObj.getDate()).padStart(2, '0');
       const todayFormatted = `${yyToday}-${mmToday}-${ddToday}`;
 
-      const history = data ? data.history_3y : null;
-
       // 1) 환율 3종 먼저 노출 (USD -> EUR -> JPY, 우상단 원화 "원" 표기 일체 적용!)
-      const renderCurrencyCard = (label, unit, today, past1M, past3M, past6M, past1Y, historyKey) => {
-        const chg1M = calcChg(today, past1M);
-        const chg3M = calcChg(today, past3M);
-        const chg6M = calcChg(today, past6M);
-        const chg1Y = calcChg(today, past1Y);
+      const renderCurrencyCard = (label, unit, today, chg1M, chg3M, chg6M, chg1Y) => {
         const formattedTodayStr = today.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-        
-        let bgSvg = ""; // 환율 지표의 경우 배경 차트를 표시하지 않음 (깔끔한 단색 솔리드 마감)
-
         return `
           <div class="market-factor-card">
-            ${bgSvg}
             <div class="top-row">
               <span class="factor-name">${label}</span>
               <span class="factor-unit">${unit}</span> <!-- 우상단 원 단위 표기 -->
@@ -4095,11 +4055,12 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         `;
       };
 
-      html += renderCurrencyCard("USD/KRW", "원", usdToday, usd1M, usd3M, usd6M, usd1Y, "usdkrw");
-      html += renderCurrencyCard("EUR/KRW", "원", eurToday, eur1M, eur3M, eur6M, eur1Y, "eurkrw");
-      html += renderCurrencyCard("JPY/KRW", "원", jpyToday, jpy1M, jpy3M, jpy6M, jpy1Y, "jpykrw");
+      html += renderCurrencyCard("USD/KRW", "원", usdToday, calcChg(usdToday, usd1M), calcChg(usdToday, usd3M), calcChg(usdToday, usd6M), calcChg(usdToday, usd1Y));
+      html += renderCurrencyCard("EUR/KRW", "원", eurToday, calcChg(eurToday, eur1M), calcChg(eurToday, eur3M), calcChg(eurToday, eur6M), calcChg(eurToday, eur1Y));
+      html += renderCurrencyCard("JPY/KRW", "원", jpyToday, calcChg(jpyToday, jpy1M), calcChg(jpyToday, jpy3M), calcChg(jpyToday, jpy6M), calcChg(jpyToday, jpy1Y));
 
       // 2) 뒤이어 알루미늄, WTI, 전기동 등 원자재 11종 순차 노출 (하단 단위 제거 및 금액 동일행의 최우측에 YY-MM-DD만 포맷팅해 위치)
+      const history = data ? data.history_3y : null;
       if (history) {
         FACTOR_ORDER.forEach(key => {
           const meta = FACTOR_METADATA[key];
@@ -4118,20 +4079,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           const chg6M = getHistoricalChange(hList, 6);
           const chg1Y = getHistoricalChange(hList, 12);
 
-          const currentDate = new Date(currentSpot.date);
-          const oneYearAgoDate = new Date(currentDate);
-          oneYearAgoDate.setFullYear(oneYearAgoDate.getFullYear() - 1);
-
-          const pastYearEntries = hList.filter(item => {
-            const d = new Date(item.date);
-            return d >= oneYearAgoDate && d <= currentDate;
-          });
-          const pastYearPrices = pastYearEntries.map(item => item.price * meta.multiplier);
-          const bgSvg = generateSparklineSVG(pastYearPrices, (chg1Y || 0) / 100, null, key);
-
           html += `
             <div class="market-factor-card">
-              ${bgSvg}
               <div class="top-row">
                 <span class="factor-name">${meta.label}</span>
                 <span class="factor-unit">${meta.unit}</span>
@@ -4191,26 +4140,26 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       if (rootElementId === "stability-lt-root") {
         colgroup = `
           <colgroup>
-            <col style="width: 10%;">
+            <col style="width: 8%;">
             <col style="width: 17%;">
             <col style="width: 10%;">
             <col style="width: 18%;">
             <col style="width: 9%;">
-            <col style="width: 31%;">
-            <col style="width: 5%;">
+            <col style="width: 34%;">
+            <col style="width: 4%;">
           </colgroup>
         `;
       } else if (rootElementId === "market-requests-root" || rootElementId === "procurement-lt-root") {
         colgroup = `
           <colgroup>
-            <col style="width: 10%;">
+            <col style="width: 8%;">
             <col style="width: 17%;">
             <col style="width: 10%;">
             <col style="width: 9%;">
             <col style="width: 9%;">
             <col style="width: 9%;">
-            <col style="width: 31%;">
-            <col style="width: 5%;">
+            <col style="width: 34%;">
+            <col style="width: 4%;">
           </colgroup>
         `;
       } else if (rootElementId === "market-sensitivity-root" || rootElementId === "procurement-sc-root" || rootElementId === "stability-sc-root") {
@@ -4218,9 +4167,9 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           <colgroup>
             <col style="width: 25%;">
             <col style="width: 15%;">
-            <col style="width: 15%;">
-            <col style="width: 40%;">
-            <col style="width: 5%;">
+            <col style="width: 12%;">
+            <col style="width: 42%;">
+            <col style="width: 6%;">
           </colgroup>
         `;
       } else if (rootElementId === "market-risk-partners-root" || rootElementId === "procurement-risk-partners-root" || rootElementId === "stability-risk-partners-root" || rootElementId === "geopolitics-risk-partners-root") {
@@ -4234,8 +4183,8 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             <col style="width: 6%;">
             <col style="width: 10%;">
             <col style="width: 10%;">
-            <col style="width: 24%;">
-            <col style="width: 3%;">
+            <col style="width: 24.5%;">
+            <col style="width: 2.5%;">
           </colgroup>
         `;
       }
@@ -4294,9 +4243,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
           // Combine background and text-align properties cleanly to override td important bg!
           let finalStyle = "";
           let styles = [];
-          if (isHighRisk) {
-            styles.push("background-color: rgba(239, 68, 68, 0.05) !important;"); // Extremely light warning red
-          }
           if (alignStyle) {
             styles.push(alignStyle);
           }
@@ -6286,24 +6232,56 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
 
       if (loadedScmAiAdvisorData && !forceReload) {
         renderScmAiAdvisor(loadedScmAiAdvisorData);
-      } else {
-        if (adviceContainer) adviceContainer.innerHTML = '<div class="text-muted text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>AI 조언 로딩 중…</div>';
-        if (newsContainer) newsContainer.innerHTML = '<div class="text-muted text-center py-4"><div class="spinner-border text-success spinner-border-sm me-2" role="status"></div>뉴스 피드 로딩 중…</div>';
+        return;
+      }
 
+      if (adviceContainer) adviceContainer.innerHTML = '<div class="text-muted text-center py-4"><div class="spinner-border text-primary spinner-border-sm me-2" role="status"></div>동향 로딩 중…</div>';
+      if (newsContainer) newsContainer.innerHTML = '<div class="text-muted text-center py-4"><div class="spinner-border text-success spinner-border-sm me-2" role="status"></div>뉴스 피드 로딩 중…</div>';
+
+      const fetchDirectFromGithub = () => {
+        fetch("https://doheecho.github.io/market-report/data/views/ai_advisor.json")
+          .then(res => {
+            if (!res.ok) throw new Error("HTTP " + res.status);
+            return res.json();
+          })
+          .then(data => {
+            if (data && data.success) {
+              loadedScmAiAdvisorData = data;
+              renderScmAiAdvisor(loadedScmAiAdvisorData);
+            } else {
+              throw new Error("Invalid format");
+            }
+          })
+          .catch(err => {
+            fetch("https://raw.githubusercontent.com/doheecho/market-report/main/data/views/ai_advisor.json")
+              .then(res => res.json())
+              .then(data => {
+                if (data && data.success) {
+                  loadedScmAiAdvisorData = data;
+                  renderScmAiAdvisor(loadedScmAiAdvisorData);
+                }
+              })
+              .catch(err2 => {
+                const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.74rem;">로딩 실패</div>';
+                if (adviceContainer) adviceContainer.innerHTML = errHtml;
+                if (newsContainer) newsContainer.innerHTML = errHtml;
+              });
+          });
+      };
+
+      if (typeof google !== 'undefined' && google.script && google.script.run) {
         google.script.run.withSuccessHandler(res => {
-          if (res.success) {
+          if (res && res.success) {
             loadedScmAiAdvisorData = res;
             renderScmAiAdvisor(loadedScmAiAdvisorData);
           } else {
-            const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.74rem;">로딩 실패</div>';
-            if (adviceContainer) adviceContainer.innerHTML = errHtml;
-            if (newsContainer) newsContainer.innerHTML = errHtml;
+            fetchDirectFromGithub();
           }
         }).withFailureHandler(err => {
-          const errHtml = '<div class="text-danger text-center py-4" style="font-size:0.74rem;">서버 통신 실패</div>';
-          if (adviceContainer) adviceContainer.innerHTML = errHtml;
-          if (newsContainer) newsContainer.innerHTML = errHtml;
+          fetchDirectFromGithub();
         }).getAiAdvisorData();
+      } else {
+        fetchDirectFromGithub();
       }
     };
 
@@ -6867,6 +6845,119 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       lanesEl.style.display = "block";
     }
 
+    let currentTimelineRecords = [];
+    let currentTimelinePage = 1;
+    let currentTimelineYear = null;
+    let currentTimelineMonth = null;
+
+    function renderTimelineDetailPage(page) {
+      currentTimelinePage = page || 1;
+      const detailEl = document.getElementById("major-timeline-detail");
+      if (!detailEl) return;
+
+      const totalItems = currentTimelineRecords.length;
+      const itemsPerPage = 8;
+      const totalPages = Math.ceil(totalItems / itemsPerPage) || 1;
+      const startIdx = (currentTimelinePage - 1) * itemsPerPage;
+      const pageRecords = currentTimelineRecords.slice(startIdx, startIdx + itemsPerPage);
+
+      const cardsHtml = pageRecords.map(r => {
+        let riskBadge = `<span class="badge bg-secondary" style="font-size: 11px;">Low</span>`;
+        if (r.risk_level === "High") {
+          riskBadge = `<span class="badge bg-danger" style="background-color: #be123c !important; font-size: 11px; padding: 4px 8px;">High</span>`;
+        } else if (r.risk_level === "Medium") {
+          riskBadge = `<span class="badge bg-warning text-dark" style="background-color: #f59e0b !important; font-size: 11px; padding: 4px 8px;">Medium</span>`;
+        }
+
+        const vendors = (r.detected_vendors || []).map(v =>
+          `<span class="badge bg-primary-subtle text-primary border border-primary-subtle me-1" style="font-size: 10px;">${escapeHtml(v)}</span>`
+        ).join("");
+
+        const categories = (r.detected_categories || [r.category || "기타"]).map(c => {
+          let badgeClass = "bg-secondary";
+          if (c === "IC") badgeClass = "bg-primary";
+          else if (c === "Memory") badgeClass = "bg-info text-dark";
+          else if (c === "Storage") badgeClass = "bg-success";
+          else if (c === "PCB") badgeClass = "bg-dark";
+          return `<span class="badge ${badgeClass} me-1" style="font-size: 10px;">${escapeHtml(c)}</span>`;
+        }).join("");
+
+        const sectionTitle = r.section_raw || "시장 동향";
+        const subheading = (r.subheading && r.subheading !== "-" && r.subheading !== sectionTitle) ? escapeHtml(r.subheading) : "";
+
+        return `
+          <div class="p-3 border rounded shadow-sm mb-2" style="background: var(--srm-surface-2) !important; border-color: var(--srm-border) !important; border-radius: 12px; width: 100%; text-align: left;">
+            <div class="d-flex justify-content-between align-items-center mb-1 flex-wrap gap-2">
+              <div class="d-flex align-items-center gap-2">
+                <b style="font-size: 0.92rem; color: var(--srm-text); font-weight: 800;"><i class="bi bi-tag-fill me-1 text-primary"></i>${escapeHtml(sectionTitle)}</b>
+                ${riskBadge}
+              </div>
+              <div>
+                ${categories}
+                ${vendors}
+              </div>
+            </div>
+            ${subheading ? `<div class="fw-bold text-dark mt-2 mb-1" style="font-size: 0.86rem; color: var(--srm-accent) !important;"><i class="bi bi-chevron-right small me-1"></i>${subheading}</div>` : ``}
+            <div style="font-size: 0.82rem; color: var(--srm-text-secondary); line-height: 1.55; white-space: normal; margin-top: 6px;">
+              ${escapeHtml(r.text)}
+            </div>
+          </div>
+        `;
+      }).join("");
+
+      // 페이징 기판 (위의 renderDlPagination과 100% 동일한 구조)
+      let paginationHtml = "";
+      if (totalItems > itemsPerPage) {
+        const currentBlock = Math.floor((currentTimelinePage - 1) / 10);
+        const startPage = currentBlock * 10 + 1;
+        const endPage = Math.min(totalPages, startPage + 9);
+
+        const firstDisabled = (currentTimelinePage === 1);
+        const prev10Disabled = (startPage === 1);
+        const prevDisabled = (currentTimelinePage === 1);
+        const nextDisabled = (currentTimelinePage === totalPages);
+        const next10Disabled = (endPage >= totalPages);
+        const lastDisabled = (currentTimelinePage === totalPages);
+
+        paginationHtml = `
+          <div id="timeline-pagination-container" class="d-flex justify-content-center align-items-center gap-2 mt-3 mb-2" style="width: 100%;">
+            <button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${firstDisabled ? 'disabled' : ''} onclick="window.onTimelinePageChange(1)">맨앞</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${prev10Disabled ? 'disabled' : ''} onclick="window.onTimelinePageChange(${Math.max(1, currentTimelinePage - 10)})">-10</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${prevDisabled ? 'disabled' : ''} onclick="window.onTimelinePageChange(${currentTimelinePage - 1})"><span class="fw-bold">&lt;</span></button>
+        `;
+
+        for (let p = startPage; p <= endPage; p++) {
+          const isActive = (p === currentTimelinePage);
+          paginationHtml += `<button type="button" class="btn btn-sm ${isActive ? 'btn-primary' : 'btn-outline-secondary'} px-3 py-1 fw-bold" onclick="window.onTimelinePageChange(${p})">${p}</button>`;
+        }
+
+        paginationHtml += `
+            <button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1" ${nextDisabled ? 'disabled' : ''} onclick="window.onTimelinePageChange(${currentTimelinePage + 1})"><span class="fw-bold">&gt;</span></button>
+            <button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${next10Disabled ? 'disabled' : ''} onclick="window.onTimelinePageChange(${Math.min(totalPages, currentTimelinePage + 10)})">+10</button>
+            <button type="button" class="btn btn-sm btn-outline-secondary px-2 py-1 fw-bold" style="font-size: 0.75rem;" ${lastDisabled ? 'disabled' : ''} onclick="window.onTimelinePageChange(${totalPages})">맨뒤</button>
+          </div>
+        `;
+      }
+
+      detailEl.innerHTML = `
+        <div class="d-flex justify-content-between align-items-center mb-2" style="border-bottom: 1px dashed var(--srm-border); padding-bottom: 6px;">
+          <div class="fw-bold text-dark" style="font-size: 0.88rem; color: var(--srm-text) !important; text-align: left;">
+            <i class="bi bi-info-circle-fill me-1 text-primary"></i> ${currentTimelineYear}년 ${currentTimelineMonth}월 시장 동향 리포트 (${totalItems}건)
+          </div>
+          ${totalPages > 1 ? `<div class="text-secondary small fw-bold" style="font-size: 0.78rem;">${currentTimelinePage} / ${totalPages} 페이지 (최대 8건)</div>` : ''}
+        </div>
+        <div class="d-flex flex-column gap-2" style="max-height: none !important; overflow: visible !important;">
+          ${cardsHtml}
+        </div>
+        ${paginationHtml}
+      `;
+      detailEl.style.display = "block";
+    }
+
+    window.onTimelinePageChange = function(page) {
+      renderTimelineDetailPage(page);
+    };
+
     window.onMajorTimelineNodeClick = function(year, month) {
       const key = year + "-" + String(month).padStart(2, '0');
       const detailEl = document.getElementById("major-timeline-detail");
@@ -6893,77 +6984,10 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         return;
       }
 
-      // Group records by parent heading (section_raw) to show parent-child hierarchy
-      const sectionGroups = new Map();
-      records.forEach(r => {
-        const sec = r.section_raw || "기타";
-        if (!sectionGroups.has(sec)) {
-          sectionGroups.set(sec, []);
-        }
-        sectionGroups.get(sec).push(r);
-      });
-
-      const cardsHtml = Array.from(sectionGroups.entries()).map(([section, items]) => {
-        // Group items inside this section by their subheading to eliminate duplicate subheadings!
-        const subheadingGroups = new Map();
-        items.forEach(r => {
-          const sub = (r.subheading && r.subheading !== "-" && r.subheading !== section) ? r.subheading : "일반 시황";
-          if (!subheadingGroups.has(sub)) {
-            subheadingGroups.set(sub, []);
-          }
-          subheadingGroups.get(sub).push(r);
-        });
-
-        const subheadingsHtml = Array.from(subheadingGroups.entries()).map(([sub, subItems]) => {
-          // Consecutively print paragraph texts of the same subheading without repeating the subheading
-          const paragraphsHtml = subItems.map((r, pIdx) => {
-            return `
-              <div style="font-size: 0.82rem; color: var(--srm-text-secondary); line-height: 1.5; white-space: normal; ${pIdx > 0 ? 'margin-top: 8px;' : ''}">
-                ${escapeHtml(r.text)}
-              </div>
-            `;
-          }).join("");
-
-          const isDefaultSub = (sub === "일반 시황");
-
-          return `
-            <div style="margin-top: 12px; border-top: 1px dashed var(--srm-border); padding-top: 10px; text-align: left;">
-              ${!isDefaultSub ? `<div class="fw-bold text-dark mb-1.5" style="font-size: 0.85rem; color: var(--srm-accent) !important;"><i class="bi bi-chevron-right small me-1"></i>${escapeHtml(sub)}</div>` : ``}
-              ${paragraphsHtml}
-            </div>
-          `;
-        }).join("");
-
-        // Show the highest risk level badge for the section group
-        const groupHigh = items.some(r => r.risk_level === "High");
-        const groupMedium = items.some(r => r.risk_level === "Medium");
-        let riskBadge = `<span class="badge bg-secondary" style="font-size: 11px;">Low</span>`;
-        if (groupHigh) {
-          riskBadge = `<span class="badge bg-danger" style="background-color: #be123c !important; font-size: 11px; padding: 4px 8px;">High</span>`;
-        } else if (groupMedium) {
-          riskBadge = `<span class="badge bg-warning text-dark" style="background-color: #f59e0b !important; font-size: 11px; padding: 4px 8px;">Medium</span>`;
-        }
-
-        return `
-          <div class="p-3 border rounded shadow-sm mb-2" style="background: var(--srm-surface-2) !important; border-color: var(--srm-border) !important; border-radius: 12px; width: 100%; text-align: left;">
-            <div class="d-flex justify-content-between align-items-center mb-1 flex-wrap gap-2">
-              <b style="font-size: 0.95rem; color: var(--srm-text); font-weight: 800;"><i class="bi bi-tag-fill me-1 text-primary"></i>${escapeHtml(section)}</b>
-              <div>
-                ${riskBadge}
-              </div>
-            </div>
-            ${subheadingsHtml}
-          </div>
-        `;
-      }).join("");
-
-      detailEl.innerHTML = `
-        <div class="fw-bold mb-2 text-dark" style="font-size: 0.88rem; color: var(--srm-text) !important; text-align: left;">
-          <i class="bi bi-info-circle-fill me-1 text-primary"></i> ${year}년 ${month}월 시장 동향 리포트 (${records.length}건)
-        </div>
-        <div class="d-flex flex-column gap-2" style="max-height: 350px; overflow-y: auto;">${cardsHtml}</div>
-      `;
-      detailEl.style.display = "block";
+      currentTimelineRecords = records;
+      currentTimelineYear = year;
+      currentTimelineMonth = month;
+      renderTimelineDetailPage(1);
     };
 
     document.addEventListener('DOMContentLoaded', initialize);
