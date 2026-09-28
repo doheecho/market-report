@@ -6108,12 +6108,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         }
       }
     };
-      } else {
-        target.style.display = "none";
-        btn.textContent = "펼치기";
-        if (pagContainer) pagContainer.style.setProperty("display", "none", "important");
-      }
-    };
 
     window.toggleDlTimelineCollapse = function() {
       const target = document.getElementById("dl-timeline-content-wrapper");
