@@ -6023,14 +6023,7 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       const text = input.value.trim().toLowerCase();
       if (!text) {
         window.__DL_CURRENT_FILTERED_RECORDS = null; // 검색 조건 초기화
-        if (currentDlDisplayMode === 'table') {
-          renderDlTable(window.__DL_CURRENT_RECORDS);
-        } else {
-          renderDlDetailList(window.__DL_CURRENT_RECORDS);
-        }
-        
-        // Reactively update the SCM Major Timeline for filtered records!
-        renderMajorTimeline(window.__DL_CURRENT_RECORDS);
+        renderDlTable(window.__DL_CURRENT_RECORDS);
         
         // Reactively update the SCM Major Timeline for filtered records!
         renderMajorTimeline(window.__DL_CURRENT_RECORDS);
