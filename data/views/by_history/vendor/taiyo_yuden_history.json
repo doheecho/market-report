@@ -1,6 +1,6 @@
 {
   "vendor": "Taiyo Yuden",
-  "total_milestones": 12,
+  "total_milestones": 13,
   "history": [
     {
       "date": "2020.05",
@@ -129,6 +129,16 @@
       "risk_level": "High",
       "summary": "수동소자 및 원자재 MLCC수지 위기",
       "text": "MLCC는 공식적으로 공급 부족 국면에 진입했습니다. Murata, Samsung Electro-Mechanics, Taiyo Yuden, Yageo는 가격을 15~30% 인상하고 있습니다. AI 서버용 고용량 MLCC(예: 100uF)와 자동차용 등급 제품의 리드타임은 20주에서 50주 이상이며, 유통업체들은 브로커 대상 판매를 제한하고 있습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "수동부품 및 원자재 T-글래스 병목",
+      "text": "Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌으며, Yageo의 자동차용 AC 시리즈 저항기 가격은 9월부터 25% 인상될 예정이다. Kemet은 2주 연속 가격을 인상했고, Taiyo Yuden은 일부 라인에서 아직 신규 주문을 받지 않고 있다."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "vendor": "Analog Devices",
-  "total_milestones": 52,
+  "total_milestones": 54,
   "history": [
     {
       "date": "2021.11",
@@ -539,6 +539,26 @@
       "risk_level": "Medium",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "Analog Devices(ADI)는 9월 13일부로 추가 가격 조정을 시행합니다. 정밀 연산증폭기 MPN의 리드타임은 400일 이상으로 늘어나고 있으며, AD5545BRUZ의 경우 476일에 달해 산업용 신제품 도입(NPI)에 심각한 영향을 미치고 있습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "TI 및 Analog Devices, 레거시정밀 아날로그 전반에서 리드타임 및 가격 압박 심화",
+      "text": "Analog Devices의 연산증폭기, D/A 컨버터 및 기준 전압 IC 리드타임은 구조적인 성숙 공정 제약으로 60~70주까지 늘어났다. 고객 연합체(Horiba, KLA, LAM, TSMC)는 ADI 경영진과 직접 협의했으나 이 문제를 해결하지 못했다. TI는 기존 주문일과 관계없이 이미 접수된 미결 주문에도 신규 가격을 적용하고 있으며, 다수의 레거시 및 정밀 제품군에서 확정된 납기 일정도 계속 연기하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "AD5545BRUZ, AD8672ARMZ 및 ADR435ARMZ를 포함한 Analog Devices의 연산증폭기, D/A 컨버터 및 기준 전압 IC 제품군 리드타임은 60~70주에 이르렀으며 계속 늘어나고 있다. Horiba, KLA, LAM, TSMC로 구성된 고객 연합은 추가 물량 할당을 요청하기 위해 ADI 경영진과 직접 회동했으나 실질적인 공급 완화를 얻지 못했다. 이는 성숙·레거시 공정의 구조적 제약에 따른 것이다."
     }
   ]
 }

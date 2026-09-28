@@ -1,6 +1,6 @@
 {
   "vendor": "Winbond",
-  "total_milestones": 6,
+  "total_milestones": 7,
   "history": [
     {
       "date": "2021.01",
@@ -64,6 +64,17 @@
       "risk_level": "Medium",
       "summary": "DDR3DDR4 가격은 지속적으로 급등하고 있으며(예",
       "text": "DDR4 16Gb 가격은 10~15달러 이상 도달), Winbond와 Nanya는 심각한 물량 할당 제약에 직면하고 있다. 일부 DDR4 DRAM 제조업체는 기본 견적 조건으로 99주 이상의 리드타임을 제시하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Infineon",
+      "text": "Infineon은 AI 수요에 힘입어 FY2026 Q3 사상 최대 매출을 기록했으며, NOR Flash 및 F-RAM 사업을 Winbond에 매각할 계획도 발표했다. 거래 완료 목표 시점은 2027년 하반기다."
     }
   ]
 }

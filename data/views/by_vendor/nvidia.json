@@ -4221,5 +4221,137 @@
       "Lead Time"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "AI GPU/가속기 플랫폼 | 심각 | NVIDIA의 Q2 데이터센터 매출 890억 달러와 Q3 가이던스는 랙 공급망 전반에서 수요 견인이 지속될 것임을 뒷받침한다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "GPU 물량 축소 및 채널 혼란",
+    "subheading": "GPU 물량 축소 및 채널 혼란",
+    "text": "NVIDIA RTX PRO 6000의 리드타임은 최소 한 엔터프라이즈 고객사에서 2027년 2분기로 확인됐다. 별도로 NVIDIA는 제품 시리즈별로 20~50%의 비공식 가격 인상 방침을 전달했으나 공식 통보는 아직 발행되지 않았다. 또한 10월 출시를 앞둔 신규 RTX Spark 제품에 대해 유통업체에 최종 고객 수요를 파악하도록 요청하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Foxconn은 NVIDIA Rubin 서버 구축용 1.6TB 광 트랜시버의 리드타임이 441일이라고 확인했다. 이로 인한 공급 부족으로 B300 공랭식 서버용 일부 128GB DDR5-6400 DIMM의 예상 수요도 이후로 이연되고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "광학 렌즈, 기판 및 드라이버 제약과 연계된 Mellanox/NVIDIA 트랜시버 공급 부족으로 일부 SKU의 리드타임은 50주를 넘어섰다. 최소 한 대형 네오클라우드 고객사는 4월에 주문해 원래 7월 납품 예정이었던 물량이 2027년 3월로 연기됐다고 보고했다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "FY2027 Q2 데이터센터 매출은 890억 달러에 달했으며, Q3 매출 가이던스는 1,080억 달러±2%다. Vera Rubin은 파트너사 현장에서 양산을 확대하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "컴퓨팅 수요는 GPU뿐 아니라 HBM, 네트워킹, 광통신, 전력 및 스토리지 전반의 수요를 견인하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "가속기 물량 할당만 별도로 확보하지 말고, 완전한 랙 및 패브릭 BOM을 확보해야 한다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   }
 ]

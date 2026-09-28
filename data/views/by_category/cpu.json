@@ -8037,5 +8037,83 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "AMD 서버 CPU(Genoa/Turin) 가격은 국경절 연휴 이후 정상 가격 수준으로 전환되고 있으며, 특별 가격은 대형 핵심 고객사에만 적용된다. 별도의 유통업체 공지에 따르면 AMD 서버 CPU의 공식 가격 인상은 10월 15일부터 시행되나, 정확한 인상률은 아직 발표되지 않았다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "AMD는 고객사와 직접 협의한 뒤 견적 리드타임을 20주에서 12주로 단축했으며, P/F SKU는 최대 16주가 걸린다. 다만 2026년 4분기 추가 가격 인상은 9월 말에 발표될 것으로 예상된다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "Intel의 최신 공급 가이드에 따르면 Alder Lake(12세대)는 단종됐고, Raptor Lake Refresh i7/i9는 수급이 양호하나 기타 SKU는 공급이 빠듯하다. Arrow Lake/Arrow Lake Refresh도 4분기까지 공급이 빠듯할 전망이다. 10nm 공급 부족은 2026년 3분기까지 이어지고 있으며, Granite Rapids(Xeon 6)는 계속 수요가 공급을 웃돌고 있다. 첫 번째 긴급 공급 물량은 9월 말까지, 두 번째 물량은 12월에 도착할 예정이다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "최소 한 임베디드·산업용 고객사는 약 50주에 달하는 Intel 서버 CPU 리드타임을 현재 가장 심각한 조달 병목으로 꼽았다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

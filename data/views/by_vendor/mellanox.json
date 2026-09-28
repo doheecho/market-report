@@ -981,5 +981,46 @@
       "Lead Time"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "광학 렌즈, 기판 및 드라이버 제약과 연계된 Mellanox/NVIDIA 트랜시버 공급 부족으로 일부 SKU의 리드타임은 50주를 넘어섰다. 최소 한 대형 네오클라우드 고객사는 4월에 주문해 원래 7월 납품 예정이었던 물량이 2027년 3월로 연기됐다고 보고했다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox 200G/400G ConnectX-7 NIC는 수요 증가로 2027년 초 공급 부족에 진입할 것으로 예상된다. 점차 널리 활용되는 대체재인 Broadcom NIC 카드의 공급은 최소 한 고객사에서 1월 중순까지만 확인된 상태다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

@@ -172,5 +172,25 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "Intel의 최신 공급 가이드에 따르면 Alder Lake(12세대)는 단종됐고, Raptor Lake Refresh i7/i9는 수급이 양호하나 기타 SKU는 공급이 빠듯하다. Arrow Lake/Arrow Lake Refresh도 4분기까지 공급이 빠듯할 전망이다. 10nm 공급 부족은 2026년 3분기까지 이어지고 있으며, Granite Rapids(Xeon 6)는 계속 수요가 공급을 웃돌고 있다. 첫 번째 긴급 공급 물량은 9월 말까지, 두 번째 물량은 12월에 도착할 예정이다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

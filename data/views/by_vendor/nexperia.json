@@ -1801,5 +1801,91 @@
       "Price Increase"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive",
+      "Storage"
+    ],
+    "section_raw": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+    "subheading": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+    "text": "주요 자동차 OEM은 2027년 중반 물량 할당 재조정에 앞서 재제조업체에 버퍼 재고를 확보하도록 지시하고 있는 것으로 알려졌다. Tier 1 고객사들은 ADI의 납기 연기, ROHM의 신규 고객 주문 거절, Nexperia로 인한 다이오드 공급 재배정 압박을 보고하고 있다. 서버 랙당 최대 75만 개에 달하는 자동차용 MLCC 수요 추정치는 이미 빠듯한 수동소자 시장의 부담을 가중시키고 있으며, Diodes Inc.의 수요가 많은 자동차용 부품 리드타임은 40주를 넘어섰다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "원산지(COO)별 자동차/산업용 디스크리트 | 높음 | Nexperia의 법적·법인상 분리는 일률적인 결품(공급 중단) 문제가 아니라 지역별 적격성 및 공급 연속성 문제로 남아 있다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Nexperia",
+    "subheading": "Nexperia",
+    "text": "Q2 매출은 전 분기 대비 18.4% 증가했으며, 그룹은 생산능력 및 공급망 안정화를 계속 추진하고 있다. 중국 법인은 그룹의 연결 운영 체계와 법적·운영상 분리된 상태로 남아 있다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Nexperia",
+    "subheading": "Nexperia",
+    "text": "위험은 주로 적격성, 원산지(COO) 및 공급 경로에 따라 달라지므로, 일률적인 생산 라인 중단 위험으로 간주해서는 안 된다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Nexperia",
+    "subheading": "Nexperia",
+    "text": "대체 재고 도입을 확정하기 전에 원산지(COO), 제조 일자 코드, 법인 및 고객 수용 여부를 확인해야 한다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

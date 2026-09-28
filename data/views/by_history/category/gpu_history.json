@@ -1,6 +1,6 @@
 {
   "category": "GPU",
-  "total_milestones": 294,
+  "total_milestones": 300,
   "history": [
     {
       "date": "2020.04",
@@ -2593,6 +2593,58 @@
       "risk_level": "High",
       "summary": "GPUs 할당 축소 및 채널 혼란",
       "text": "NVIDIA Jetson 모듈은 가격이 최대 60% 인상됐습니다. 수출 감시도 강화되고 있으며, 구형 모듈인 Jetson Nano는 엄격한 할당 제한과 단종 일정에 직면해 있습니다."
+    },
+    {
+      "date": "2026.09",
+      "detected_vendors": [
+        "Nvidia"
+      ],
+      "risk_level": "Low",
+      "summary": "시장 변동성 지수",
+      "text": "AI GPU/가속기 플랫폼 | 심각 | NVIDIA의 Q2 데이터센터 매출 890억 달러와 Q3 가이던스는 랙 공급망 전반에서 수요 견인이 지속될 것임을 뒷받침한다."
+    },
+    {
+      "date": "2026.09",
+      "detected_vendors": [],
+      "risk_level": "Medium",
+      "summary": "년 9월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+      "text": "첨단 GPU/가속기 플랫폼 | 할당 물량만 공급 가능 | 플랫폼 및 랙 일정, 선단 공정 파운드리 및 첨단 패키징에 대한 의존도 | 프로그램 단위의 물량 할당을 확보하고, 네트워킹 및 메모리도 동시에 확보해야 한다."
+    },
+    {
+      "date": "2026.09",
+      "detected_vendors": [
+        "Nvidia"
+      ],
+      "risk_level": "Medium",
+      "summary": "GPU 물량 축소 및 채널 혼란",
+      "text": "NVIDIA RTX PRO 6000의 리드타임은 최소 한 엔터프라이즈 고객사에서 2027년 2분기로 확인됐다. 별도로 NVIDIA는 제품 시리즈별로 20~50%의 비공식 가격 인상 방침을 전달했으나 공식 통보는 아직 발행되지 않았다. 또한 10월 출시를 앞둔 신규 RTX Spark 제품에 대해 유통업체에 최종 고객 수요를 파악하도록 요청하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "detected_vendors": [
+        "Nvidia"
+      ],
+      "risk_level": "Low",
+      "summary": "NVIDIA",
+      "text": "컴퓨팅 수요는 GPU뿐 아니라 HBM, 네트워킹, 광통신, 전력 및 스토리지 전반의 수요를 견인하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "detected_vendors": [
+        "Nvidia"
+      ],
+      "risk_level": "Medium",
+      "summary": "NVIDIA",
+      "text": "가속기 물량 할당만 별도로 확보하지 말고, 완전한 랙 및 패브릭 BOM을 확보해야 한다."
+    },
+    {
+      "date": "2026.09",
+      "detected_vendors": [
+        "Broadcom"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "스위치, 맞춤형 가속기 및 연결성 공급망은 여전히 집중된 하이퍼스케일러 수요에 노출돼 있다."
     }
   ]
 }

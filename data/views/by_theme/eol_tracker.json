@@ -3398,5 +3398,131 @@
       "Lead Time"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other",
+      "Passive"
+    ],
+    "section_raw": "Murata, 레거시 시리즈 단종 개시로 MLCC 공급 부족 심화",
+    "subheading": "Murata, 레거시 시리즈 단종 개시로 MLCC 공급 부족 심화",
+    "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다.",
+    "detected_vendors": [
+      "AVX",
+      "Murata",
+      "Samsung",
+      "Yageo",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "Intel의 최신 공급 가이드에 따르면 Alder Lake(12세대)는 단종됐고, Raptor Lake Refresh i7/i9는 수급이 양호하나 기타 SKU는 공급이 빠듯하다. Arrow Lake/Arrow Lake Refresh도 4분기까지 공급이 빠듯할 전망이다. 10nm 공급 부족은 2026년 3분기까지 이어지고 있으며, Granite Rapids(Xeon 6)는 계속 수요가 공급을 웃돌고 있다. 첫 번째 긴급 공급 물량은 9월 말까지, 두 번째 물량은 12월에 도착할 예정이다.",
+    "detected_vendors": [
+      "Arrow",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Foxconn은 NVIDIA Rubin 서버 구축용 1.6TB 광 트랜시버의 리드타임이 441일이라고 확인했다. 이로 인한 공급 부족으로 B300 공랭식 서버용 일부 128GB DDR5-6400 DIMM의 예상 수요도 이후로 이연되고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "광학 렌즈, 기판 및 드라이버 제약과 연계된 Mellanox/NVIDIA 트랜시버 공급 부족으로 일부 SKU의 리드타임은 50주를 넘어섰다. 최소 한 대형 네오클라우드 고객사는 4월에 주문해 원래 7월 납품 예정이었던 물량이 2027년 3월로 연기됐다고 보고했다.",
+    "detected_vendors": [
+      "Mellanox",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox 200G/400G ConnectX-7 NIC는 수요 증가로 2027년 초 공급 부족에 진입할 것으로 예상된다. 점차 널리 활용되는 대체재인 Broadcom NIC 카드의 공급은 최소 한 고객사에서 1월 중순까지만 확인된 상태다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 소비자용, 자동차용 및 RF 등급을 아우르는 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 발표했다. 최종 주문일은 2028년 3월 31일이며, 최종 출하는 2029년 3월 31일까지다.",
+    "detected_vendors": [
+      "Murata"
+    ],
+    "detected_keywords": [
+      "EOL"
+    ],
+    "risk_level": "High"
   }
 ]

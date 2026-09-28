@@ -5849,5 +5849,194 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
+    "subheading": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
+    "text": "Kioxia와 Samsung을 중심으로 엔터프라이즈 SSD 가격은 2026년 3분기에 전 분기 대비 28~29% 상승해 GB당 약 0.503달러에 이르렀다. Solidigm은 2027년까지의 고용량 SSD 공급 물량 전량을 하이퍼스케일러에 판매한 것으로 알려졌다. HDD 시장에서는 Seagate의 24TB 유통 가격이 7월 이후 약 700달러에서 1,150달러로 올랐으며, 최소 한 곳의 하이퍼스케일러가 2027년 공급 가능한 30TB HDD 물량 전량을 구매했다.",
+    "detected_vendors": [
+      "Kioxia",
+      "SK하이닉스",
+      "Samsung",
+      "Seagate",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive",
+      "Storage"
+    ],
+    "section_raw": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+    "subheading": "자동차산업 공급망, MCU디스크리트수동소자 압박 가중",
+    "text": "주요 자동차 OEM은 2027년 중반 물량 할당 재조정에 앞서 재제조업체에 버퍼 재고를 확보하도록 지시하고 있는 것으로 알려졌다. Tier 1 고객사들은 ADI의 납기 연기, ROHM의 신규 고객 주문 거절, Nexperia로 인한 다이오드 공급 재배정 압박을 보고하고 있다. 서버 랙당 최대 75만 개에 달하는 자동차용 MLCC 수요 추정치는 이미 빠듯한 수동소자 시장의 부담을 가중시키고 있으며, Diodes Inc.의 수요가 많은 자동차용 부품 리드타임은 40주를 넘어섰다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "엔터프라이즈 SSD/고밀도 QLC NAND | 심각 | 엔터프라이즈 SSD 공급업체 매출은 Q2에 375억9,000만 달러에 달했으며, Q3에도 수요가 높은 수준을 유지할 것으로 예상된다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "원산지(COO)별 자동차/산업용 디스크리트 | 높음 | Nexperia의 법적·법인상 분리는 일률적인 결품(공급 중단) 문제가 아니라 지역별 적격성 및 공급 연속성 문제로 남아 있다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "2026년 9월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 9월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "고용량 엔터프라이즈 SSD | 할당 물량만 공급 가능 | CSP 확장에 따른 PCIe 5.0, QLC 및 고용량 수요 | 필요한 생산능력 구성을 조기에 예측하고, 공급 부족이 심화되기 전에 컨트롤러/NAND 대체품을 승인해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Solidigm은 2027년까지의 고용량 엔터프라이즈 SSD 공급 물량 전량을 하이퍼스케일러에 판매한 것으로 알려졌으며, 2027년에는 고용량 생산을 40% 늘리고 저용량 생산은 줄일 계획이다. SanDisk는 FY28 공급 물량의 약 3분의 2가 이미 판매됐으며, 잔여 재고에 대해서는 협상 여지가 없다고 별도로 확인했다.",
+    "detected_vendors": [
+      "SK하이닉스"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "엔터프라이즈 SSD 가격은 Kioxia(+31~33%)와 Samsung(+28~31%)을 중심으로 2026년 3분기에 전 분기 대비 28~29% 상승해 평균 약 0.503달러/GB에 이르렀다. Micron의 SATA 및 U.2 SSD 시리즈는 각각 20%, 10% 올랐다. 공급 부족은 2026년 연간 기준 수요 대비 약 7~8% 부족한 수준으로, 2027년 3분기까지 이어질 것으로 예상된다.",
+    "detected_vendors": [
+      "Kioxia",
+      "Micron",
+      "Samsung",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Seagate는 9월 11일부터 Skyhawk HDD 가격을 5~10%, 대용량(16TB 이상) 엔터프라이즈 HDD 가격을 약 10% 인상했다. 별도로 24TB 유통 가격은 7월 이후 약 700달러에서 1,150달러로 올랐으며, 최소 한 하이퍼스케일러가 2027년 공급 가능한 30TB HDD 물량 전량을 구매한 것으로 알려졌다.",
+    "detected_vendors": [
+      "Seagate"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Western Digital은 장기 공급 계약이 없는 고객사에 입찰 기반 할당 모델을 적용해 TB당 최고 입찰가를 제시한 고객에게 신규 공급 물량을 할당하고 있다. Toshiba는 다음 분기에 클라이언트 HDD 가격은 대당 약 10달러, 고용량(20~24TB) 엔터프라이즈 HDD 가격은 약 10% 추가 인상될 수 있다고 예고했다.",
+    "detected_vendors": [
+      "Toshiba",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "컴퓨팅 수요는 GPU뿐 아니라 HBM, 네트워킹, 광통신, 전력 및 스토리지 전반의 수요를 견인하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

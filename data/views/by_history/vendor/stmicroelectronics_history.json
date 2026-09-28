@@ -1,6 +1,6 @@
 {
   "vendor": "STMicroelectronics",
-  "total_milestones": 32,
+  "total_milestones": 33,
   "history": [
     {
       "date": "2020.12",
@@ -329,6 +329,16 @@
       "risk_level": "Medium",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "STMicroelectronics의 리드타임은 40~50주로 늘어났으며, 특히 STM32 MCU 시리즈와 센서의 공급 지연이 두드러집니다. ST가 고수익 AI 및 자동차용 제품을 우선시하면서 산업용·소비자용 제품의 물량 할당은 심각한 제약을 받고 있습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다."
     }
   ]
 }

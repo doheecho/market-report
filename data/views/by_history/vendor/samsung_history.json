@@ -1,6 +1,6 @@
 {
   "vendor": "삼성",
-  "total_milestones": 175,
+  "total_milestones": 182,
   "history": [
     {
       "date": "2020.04",
@@ -1870,6 +1870,83 @@
       "risk_level": "High",
       "summary": "Samsung, 반도체 공급 부족이 2028년까지 지속될 것으로 경고",
       "text": "Samsung Electronics는 7월 30일 열린 2026년 2분기 실적 발표 콘퍼런스콜에서 세계 반도체 공급난에 관해 지금까지 나온 것 중 가장 강력한 수준의 경고를 내놓았습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "Murata, 레거시 시리즈 단종 개시로 MLCC 공급 부족 심화",
+      "text": "Murata는 FY2026 제품 라인 최적화 계획에 따라 일부 MLCC 시리즈(GRM, GRJ, GRT, GXM, GXT, GCM, GCJ, GCG, ZRA)의 단종을 개시했으며, 최종 주문일은 2028년 3월 31일이다. AVX/Kyocera 유통업체는 리셀러 대상 견적 제공을 중단하라는 지시를 받았다. Samsung Electro-Mechanics는 10월 1일 재차 가격을 인상하는 한편, 9월 출하량을 약 20% 줄일 것으로 예상되며 이는 고객 기반의 약 85%에 영향을 미칠 전망이다. Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "비하이퍼스케일러 고객의 DRAMRDIMM 물량 할당 붕괴 심화",
+      "text": "Samsung과 SK Hynix는 각각 주요 비하이퍼스케일러 고객에게 2027년 예상 수요의 10~60%만 공급받을 수 있을 것이라고 통보했다. Samsung의 직접 판매 Q3 RDIMM 가격은 32GB 기준 928달러, 256GB 기준 7,883달러까지 올랐다. Micron은 9월 RDIMM(96GB/128GB) 가격을 15~25% 인상했으며, 10월에도 추가 인상이 예상된다. 이와 함께 레거시 DDR3의 가격표 기준 가격도 약 50% 상승했다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
+      "text": "Kioxia와 Samsung을 중심으로 엔터프라이즈 SSD 가격은 2026년 3분기에 전 분기 대비 28~29% 상승해 GB당 약 0.503달러에 이르렀다. Solidigm은 2027년까지의 고용량 SSD 공급 물량 전량을 하이퍼스케일러에 판매한 것으로 알려졌다. HDD 시장에서는 Seagate의 24TB 유통 가격이 7월 이후 약 700달러에서 1,150달러로 올랐으며, 최소 한 곳의 하이퍼스케일러가 2027년 공급 가능한 30TB HDD 물량 전량을 구매했다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
+      "text": "Samsung과 SK Hynix는 각각 최소 한 주요 고객사에 2027년 보드 메모리(DDR3/DDR4/LPDDR4x/LPDDR5x) 총수요의 약 10~20%만 공급할 수 있다고 통보했다. Micron은 9월 RDIMM(96GB/128GB) 가격을 15~25% 인상했으며, 10월에도 추가 인상이 예상된다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
+      "text": "Samsung의 직접 판매 Q3 RDIMM 가격은 32GB 928달러, 64GB 1,632달러, 96GB 2,628달러, 128GB 3,754달러, 256GB 7,883달러까지 올랐다. 고밀도 제품도 비하이퍼스케일러 고객에 대한 물량 할당이 월 약 2,000~3,000개로 제한되고 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "스토리지 2028년까지 전량 소진",
+      "text": "엔터프라이즈 SSD 가격은 Kioxia(+31~33%)와 Samsung(+28~31%)을 중심으로 2026년 3분기에 전 분기 대비 28~29% 상승해 평균 약 0.503달러/GB에 이르렀다. Micron의 SATA 및 U.2 SSD 시리즈는 각각 20%, 10% 올랐다. 공급 부족은 2026년 연간 기준 수요 대비 약 7~8% 부족한 수준으로, 2027년 3분기까지 이어질 것으로 예상된다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "수동부품 및 원자재 T-글래스 병목",
+      "text": "Kyocera는 별도 통보 시까지 전 세계 유통업체에 리셀러 대상 견적 제공을 중단하라고 지시했다. Samsung Electro-Mechanics는 10월 1일 MLCC 가격을 다시 인상하는 한편, 9월 출하·할당 물량을 약 20% 줄일 것으로 예상된다. 이는 고객 및 유통업체 기반의 약 85%에 영향을 미칠 전망이다."
     }
   ]
 }

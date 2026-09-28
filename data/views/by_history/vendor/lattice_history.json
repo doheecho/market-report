@@ -1,6 +1,6 @@
 {
   "vendor": "Lattice",
-  "total_milestones": 23,
+  "total_milestones": 26,
   "history": [
     {
       "date": "2023.01",
@@ -248,6 +248,36 @@
       "risk_level": "High",
       "summary": "수동부품 및 원자재 T-글래스 병목",
       "text": "중국의 일시적인 헬륨 수출 금지와 지속되는 중동 긴장이 맞물리면서 글로벌 반도체 공급망에 새로운 위험 요인이 발생하고 있다. 헬륨은 웨이퍼 제조, 테스트 및 패키징 공정에 필수적인 소재이기 때문이다. T-글래스 기판 공급 부족은 여전히 ADI, Intel 및 Lattice 생산의 주요 병목 요인으로 작용하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Lattice FPGA의 산업용 제품 리드타임은 32~40주 이상으로 늘어났으며, 최소 한 고객사는 생산 연속성을 확보하기 위해 1년치 예상 수량을 버퍼 재고로 확보하라는 요청을 받았다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Lattice",
+      "text": "2026년 Q2 매출은 2억100만 달러로 전년 동기 대비 62.2% 증가했다. 수주잔고 확대와 설계 채택 증가세에 힘입어 Q3 FPGA 매출 가이던스는 2억1,000만~2억3,000만 달러로 제시됐다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Low",
+      "summary": "Lattice",
+      "text": "제어, 관리, 통신 및 임베디드 애플리케이션에서 수요가 확대되고 있다. 위험은 전체 포트폴리오에 공통적으로 나타나는 것이 아니라 프로그램별로 다르다."
     }
   ]
 }

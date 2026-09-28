@@ -1,6 +1,6 @@
 {
   "vendor": "Broadcom",
-  "total_milestones": 50,
+  "total_milestones": 55,
   "history": [
     {
       "date": "2020.05",
@@ -513,6 +513,58 @@
       "risk_level": "High",
       "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
       "text": "Broadcom의 네트워킹 스위치(Tomahawk/Trident)와 PCIe Gen5/Gen6 스위치는 TSMC의 3nm·5nm·7nm 생산 능력 제약으로 리드타임이 52주 이상에 달합니다. Broadcom은 비구속적 수요예측을 폐지하고 모든 주문을 100% 확정 발주하도록 요구하고 있습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "시장 변동성 지수",
+      "text": "800G/1.6T 광모듈 및 스위치 실리콘 | 심각 | Broadcom과 Marvell은 모두 AI 네트워킹 및 연결성 수요 모멘텀이 계속되고 있음을 시사한다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
+      "text": "Mellanox 200G/400G ConnectX-7 NIC는 수요 증가로 2027년 초 공급 부족에 진입할 것으로 예상된다. 점차 널리 활용되는 대체재인 Broadcom NIC 카드의 공급은 최소 한 고객사에서 1월 중순까지만 확인된 상태다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "FY2026 Q3 AI 반도체 매출은 167억 달러로 전 분기 대비 54% 증가했으며, Q4 AI 매출 가이던스는 217억 달러다."
+    },
+    {
+      "date": "2026.09",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU",
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "스위치, 맞춤형 가속기 및 연결성 공급망은 여전히 집중된 하이퍼스케일러 수요에 노출돼 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "아키텍처상 가능한 경우 하이래딕스 네트워킹 실리콘과 적격 대체품을 사전 확보해야 한다."
     }
   ]
 }

@@ -261,5 +261,25 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌으며, Yageo의 자동차용 AC 시리즈 저항기 가격은 9월부터 25% 인상될 예정이다. Kemet은 2주 연속 가격을 인상했고, Taiyo Yuden은 일부 라인에서 아직 신규 주문을 받지 않고 있다.",
+    "detected_vendors": [
+      "Kemet",
+      "Taiyo Yuden",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   }
 ]

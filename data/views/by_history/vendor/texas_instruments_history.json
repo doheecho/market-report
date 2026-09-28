@@ -1,6 +1,6 @@
 {
   "vendor": "Texas Instruments",
-  "total_milestones": 35,
+  "total_milestones": 37,
   "history": [
     {
       "date": "2020.05",
@@ -359,6 +359,26 @@
       "risk_level": "High",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "Texas Instruments는 10월 1일부터 추가 가격 인상을 시행하며, AI 서버용 PMIC(TPS·UCC 시리즈)와 고속 신호 체인 제품의 가격은 15~85% 인상됩니다. 리드타임은 여전히 매우 불안정해 20~48주 또는 그 이상으로 늘어나는 경우가 빈번하며, MicroSiP 전력 모듈(-SILR 접미사)은 할당 물량이 극도로 부족한 상황입니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "TI 및 Analog Devices, 레거시정밀 아날로그 전반에서 리드타임 및 가격 압박 심화",
+      "text": "Analog Devices의 연산증폭기, D/A 컨버터 및 기준 전압 IC 리드타임은 구조적인 성숙 공정 제약으로 60~70주까지 늘어났다. 고객 연합체(Horiba, KLA, LAM, TSMC)는 ADI 경영진과 직접 협의했으나 이 문제를 해결하지 못했다. TI는 기존 주문일과 관계없이 이미 접수된 미결 주문에도 신규 가격을 적용하고 있으며, 다수의 레거시 및 정밀 제품군에서 확정된 납기 일정도 계속 연기하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Texas Instruments는 최초 주문일과 관계없이 이미 접수된 미결 주문에 신규 가격을 적용하고 있으며, TPS 및 SN74 시리즈 제품의 리드타임도 계속 늘어나고 있다. TMCS 시리즈 전류 센서 MPN은 생산 라인 가동 중단을 초래할 정도의 심각한 공급 부족을 겪고 있으며, 최소 한 고객사는 가용 재고를 확보하기 위해 통상 프로젝트 원가보다 300% 이상 높은 프리미엄을 제시한 것으로 알려졌다."
     }
   ]
 }

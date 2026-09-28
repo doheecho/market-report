@@ -621,5 +621,25 @@
       "Price Increase"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다.",
+    "detected_vendors": [
+      "Renesas",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   }
 ]

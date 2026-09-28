@@ -1010,5 +1010,114 @@
       "Price Increase"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "TI 및 Analog Devices, 레거시정밀 아날로그 전반에서 리드타임 및 가격 압박 심화",
+    "subheading": "TI 및 Analog Devices, 레거시정밀 아날로그 전반에서 리드타임 및 가격 압박 심화",
+    "text": "Analog Devices의 연산증폭기, D/A 컨버터 및 기준 전압 IC 리드타임은 구조적인 성숙 공정 제약으로 60~70주까지 늘어났다. 고객 연합체(Horiba, KLA, LAM, TSMC)는 ADI 경영진과 직접 협의했으나 이 문제를 해결하지 못했다. TI는 기존 주문일과 관계없이 이미 접수된 미결 주문에도 신규 가격을 적용하고 있으며, 다수의 레거시 및 정밀 제품군에서 확정된 납기 일정도 계속 연기하고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "TSMC",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "첨단 패키징/선단 공정 파운드리 | 심각 | TSMC의 8월 매출은 전년 동기 대비 53.3% 증가했으며, 물량 할당은 여전히 프로그램 및 고객별로 상이하다.",
+    "detected_vendors": [
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "AD5545BRUZ, AD8672ARMZ 및 ADR435ARMZ를 포함한 Analog Devices의 연산증폭기, D/A 컨버터 및 기준 전압 IC 제품군 리드타임은 60~70주에 이르렀으며 계속 늘어나고 있다. Horiba, KLA, LAM, TSMC로 구성된 고객 연합은 추가 물량 할당을 요청하기 위해 ADI 경영진과 직접 회동했으나 실질적인 공급 완화를 얻지 못했다. 이는 성숙·레거시 공정의 구조적 제약에 따른 것이다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TSMC",
+    "subheading": "TSMC",
+    "text": "2026년 8월 매출은 5,148억1,000만 대만달러로 전월 대비 10.1%, 전년 동기 대비 53.3% 증가했다.",
+    "detected_vendors": [
+      "TSMC"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TSMC",
+    "subheading": "TSMC",
+    "text": "선단 공정 수요가 지속되면서 첨단 패키징과 고객 우선순위에 따른 물량 할당은 주요 프로그램 변수로 남아 있다.",
+    "detected_vendors": [
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TSMC",
+    "subheading": "TSMC",
+    "text": "설계 및 수요 예측 검토 시 패키징 경로, 웨이퍼 공정 노드 및 기판 의존성을 확인해야 한다.",
+    "detected_vendors": [
+      "TSMC"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

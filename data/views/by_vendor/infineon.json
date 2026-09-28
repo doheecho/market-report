@@ -1042,5 +1042,57 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "Infineon은 AI 수요에 힘입어 FY2026 Q3 사상 최대 매출을 기록했으며, NOR Flash 및 F-RAM 사업을 Winbond에 매각할 계획도 발표했다. 거래 완료 목표 시점은 2027년 하반기다.",
+    "detected_vendors": [
+      "Infineon",
+      "Winbond"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "AI용 전력 수요는 여전히 높은 수준이다. NOR/F-RAM 거래는 단기적인 공급 단절 문제가 아니라 공급 연속성 및 PCN 모니터링 이슈다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "영향을 받는 NOR/F-RAM 설계에 대한 공급 연속성 계획을 수립하고, 적격성이 검증된 전력관리 부품의 공급 물량을 확보해야 한다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

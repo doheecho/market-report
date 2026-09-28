@@ -1,6 +1,6 @@
 {
   "vendor": "Kioxia",
-  "total_milestones": 18,
+  "total_milestones": 21,
   "history": [
     {
       "date": "2021.08",
@@ -196,6 +196,38 @@
       "risk_level": "High",
       "summary": "메모리 유동적 가격 책정 및 단종 확산",
       "text": "eMMC 및 NOR 플래시의 공급 부족이 심각합니다. Kioxia, SanDisk, Micron은 4GB~32GB eMMC의 단종을 계획하고 있어 자동차 및 산업 고객은 비용이 많이 드는 64GB 제품이나 UFS로 전환해야 하는 상황입니다. Macronix와 Micron의 NOR 플래시 리드타임은 40주를 넘었으며, 가격은 20~30% 급등했습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
+      "text": "Kioxia와 Samsung을 중심으로 엔터프라이즈 SSD 가격은 2026년 3분기에 전 분기 대비 28~29% 상승해 GB당 약 0.503달러에 이르렀다. Solidigm은 2027년까지의 고용량 SSD 공급 물량 전량을 하이퍼스케일러에 판매한 것으로 알려졌다. HDD 시장에서는 Seagate의 24TB 유통 가격이 7월 이후 약 700달러에서 1,150달러로 올랐으며, 최소 한 곳의 하이퍼스케일러가 2027년 공급 가능한 30TB HDD 물량 전량을 구매했다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Memory",
+      "detected_categories": [
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
+      "text": "산업용 및 자동차용 고객사의 eMMC 물량 할당은 계속 악화되고 있으며, ISSI는 최소 한 Tier 1 고객사에 2027년까지 8Gb eMMC 공급을 지원할 수 없다고 통보했다. Kioxia는 SanDisk 및 일본 정부의 지원을 받아 일본 기타카미에 신규 NAND 팹(Fab 3)을 건설하기 시작했으며, 2029년 가동을 목표로 하고 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "스토리지 2028년까지 전량 소진",
+      "text": "엔터프라이즈 SSD 가격은 Kioxia(+31~33%)와 Samsung(+28~31%)을 중심으로 2026년 3분기에 전 분기 대비 28~29% 상승해 평균 약 0.503달러/GB에 이르렀다. Micron의 SATA 및 U.2 SSD 시리즈는 각각 20%, 10% 올랐다. 공급 부족은 2026년 연간 기준 수요 대비 약 7~8% 부족한 수준으로, 2027년 3분기까지 이어질 것으로 예상된다."
     }
   ]
 }

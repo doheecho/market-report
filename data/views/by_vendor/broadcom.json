@@ -966,5 +966,91 @@
       "Lead Time"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "800G/1.6T 광모듈 및 스위치 실리콘 | 심각 | Broadcom과 Marvell은 모두 AI 네트워킹 및 연결성 수요 모멘텀이 계속되고 있음을 시사한다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Mellanox 200G/400G ConnectX-7 NIC는 수요 증가로 2027년 초 공급 부족에 진입할 것으로 예상된다. 점차 널리 활용되는 대체재인 Broadcom NIC 카드의 공급은 최소 한 고객사에서 1월 중순까지만 확인된 상태다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Mellanox"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Broadcom",
+    "subheading": "Broadcom",
+    "text": "FY2026 Q3 AI 반도체 매출은 167억 달러로 전 분기 대비 54% 증가했으며, Q4 AI 매출 가이던스는 217억 달러다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Other"
+    ],
+    "section_raw": "Broadcom",
+    "subheading": "Broadcom",
+    "text": "스위치, 맞춤형 가속기 및 연결성 공급망은 여전히 집중된 하이퍼스케일러 수요에 노출돼 있다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Broadcom",
+    "subheading": "Broadcom",
+    "text": "아키텍처상 가능한 경우 하이래딕스 네트워킹 실리콘과 적격 대체품을 사전 확보해야 한다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

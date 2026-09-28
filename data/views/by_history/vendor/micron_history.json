@@ -1,6 +1,6 @@
 {
   "vendor": "Micron",
-  "total_milestones": 99,
+  "total_milestones": 103,
   "history": [
     {
       "date": "2020.04",
@@ -1095,6 +1095,50 @@
       "risk_level": "Medium",
       "summary": "Micron, 유통망 효율화",
       "text": "Micron은 물량 할당을 엄격히 통제하고 하이퍼스케일러 및 Tier 1 OEM과의 직접 거래 관계를 우선하기 위해 글로벌 유통업체망을 적극적으로 통합하는 한편, 아시아와 미주 지역의 공인 파트너 수를 줄이고 있습니다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "비하이퍼스케일러 고객의 DRAMRDIMM 물량 할당 붕괴 심화",
+      "text": "Samsung과 SK Hynix는 각각 주요 비하이퍼스케일러 고객에게 2027년 예상 수요의 10~60%만 공급받을 수 있을 것이라고 통보했다. Samsung의 직접 판매 Q3 RDIMM 가격은 32GB 기준 928달러, 256GB 기준 7,883달러까지 올랐다. Micron은 9월 RDIMM(96GB/128GB) 가격을 15~25% 인상했으며, 10월에도 추가 인상이 예상된다. 이와 함께 레거시 DDR3의 가격표 기준 가격도 약 50% 상승했다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
+      "text": "Samsung과 SK Hynix는 각각 최소 한 주요 고객사에 2027년 보드 메모리(DDR3/DDR4/LPDDR4x/LPDDR5x) 총수요의 약 10~20%만 공급할 수 있다고 통보했다. Micron은 9월 RDIMM(96GB/128GB) 가격을 15~25% 인상했으며, 10월에도 추가 인상이 예상된다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Memory"
+      ],
+      "risk_level": "Medium",
+      "summary": "메모리 변동 가격 체계 및 물량 할당 붕괴",
+      "text": "Micron의 DDR3 가격표 기준 가격은 약 50% 상승했다(MT41K256M16TW-107은 18달러). DDR4와 LPDDR4는 10% 올랐다. Micron은 또한 최소 한 네트워킹 고객사에 산업용 DDR4 물량을 전혀 할당하지 않겠다는 입장을 전달했다. 이에 따라 2027년 납기 차질을 예상한 최소 한 엔터프라이즈 고객사는 5만~10만 개 이상의 대량 선구매에 나섰다."
+    },
+    {
+      "date": "2026.09",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "스토리지 2028년까지 전량 소진",
+      "text": "엔터프라이즈 SSD 가격은 Kioxia(+31~33%)와 Samsung(+28~31%)을 중심으로 2026년 3분기에 전 분기 대비 28~29% 상승해 평균 약 0.503달러/GB에 이르렀다. Micron의 SATA 및 U.2 SSD 시리즈는 각각 20%, 10% 올랐다. 공급 부족은 2026년 연간 기준 수요 대비 약 7~8% 부족한 수준으로, 2027년 3분기까지 이어질 것으로 예상된다."
     }
   ]
 }

@@ -618,5 +618,24 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Western Digital은 장기 공급 계약이 없는 고객사에 입찰 기반 할당 모델을 적용해 TB당 최고 입찰가를 제시한 고객에게 신규 공급 물량을 할당하고 있다. Toshiba는 다음 분기에 클라이언트 HDD 가격은 대당 약 10달러, 고용량(20~24TB) 엔터프라이즈 HDD 가격은 약 10% 추가 인상될 수 있다고 예고했다.",
+    "detected_vendors": [
+      "Toshiba",
+      "Western Digital"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   }
 ]

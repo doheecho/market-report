@@ -475,5 +475,56 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Lattice FPGA의 산업용 제품 리드타임은 32~40주 이상으로 늘어났으며, 최소 한 고객사는 생산 연속성을 확보하기 위해 1년치 예상 수량을 버퍼 재고로 확보하라는 요청을 받았다.",
+    "detected_vendors": [
+      "Lattice"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Lattice",
+    "subheading": "Lattice",
+    "text": "2026년 Q2 매출은 2억100만 달러로 전년 동기 대비 62.2% 증가했다. 수주잔고 확대와 설계 채택 증가세에 힘입어 Q3 FPGA 매출 가이던스는 2억1,000만~2억3,000만 달러로 제시됐다.",
+    "detected_vendors": [
+      "Lattice"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "Lattice",
+    "subheading": "Lattice",
+    "text": "제어, 관리, 통신 및 임베디드 애플리케이션에서 수요가 확대되고 있다. 위험은 전체 포트폴리오에 공통적으로 나타나는 것이 아니라 프로그램별로 다르다.",
+    "detected_vendors": [
+      "Lattice"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

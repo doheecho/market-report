@@ -1,6 +1,6 @@
 {
   "vendor": "Arrow",
-  "total_milestones": 9,
+  "total_milestones": 10,
   "history": [
     {
       "date": "2024.10",
@@ -96,6 +96,16 @@
       "risk_level": "High",
       "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
       "text": "Intel 데스크톱 및 모바일 Alder Lake(12세대)는 공식적으로 단종(EOL)되었으며 제조사 지원이 제한적이어서 공개 시장 프리미엄이 상승하고 있다. Raptor Lake Refresh 및 Arrow Lake는 8월까지 공급 제약 상태가 지속된다. 모바일 Lunar Lake 및 Meteor Lake는 3분기까지 공급이 타이트하며, Panther Lake(신규 U 시리즈)는 상반기 기준 12XE/4XE iGPU 모델의 가용성이 개선되었으나 기타 SKU는 여전히 공급 제약 상태이다."
+    },
+    {
+      "date": "2026.09",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU"
+      ],
+      "risk_level": "High",
+      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "text": "Intel의 최신 공급 가이드에 따르면 Alder Lake(12세대)는 단종됐고, Raptor Lake Refresh i7/i9는 수급이 양호하나 기타 SKU는 공급이 빠듯하다. Arrow Lake/Arrow Lake Refresh도 4분기까지 공급이 빠듯할 전망이다. 10nm 공급 부족은 2026년 3분기까지 이어지고 있으며, Granite Rapids(Xeon 6)는 계속 수요가 공급을 웃돌고 있다. 첫 번째 긴급 공급 물량은 9월 말까지, 두 번째 물량은 12월에 도착할 예정이다."
     }
   ]
 }

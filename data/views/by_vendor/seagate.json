@@ -834,5 +834,45 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
+    "subheading": "NANDSSD 가격 상승 가속화, 고용량 HDD 공급 부족 심화",
+    "text": "Kioxia와 Samsung을 중심으로 엔터프라이즈 SSD 가격은 2026년 3분기에 전 분기 대비 28~29% 상승해 GB당 약 0.503달러에 이르렀다. Solidigm은 2027년까지의 고용량 SSD 공급 물량 전량을 하이퍼스케일러에 판매한 것으로 알려졌다. HDD 시장에서는 Seagate의 24TB 유통 가격이 7월 이후 약 700달러에서 1,150달러로 올랐으며, 최소 한 곳의 하이퍼스케일러가 2027년 공급 가능한 30TB HDD 물량 전량을 구매했다.",
+    "detected_vendors": [
+      "Kioxia",
+      "SK하이닉스",
+      "Samsung",
+      "Seagate",
+      "삼성"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Storage",
+    "detected_categories": [
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Seagate는 9월 11일부터 Skyhawk HDD 가격을 5~10%, 대용량(16TB 이상) 엔터프라이즈 HDD 가격을 약 10% 인상했다. 별도로 24TB 유통 가격은 7월 이후 약 700달러에서 1,150달러로 올랐으며, 최소 한 하이퍼스케일러가 2027년 공급 가능한 30TB HDD 물량 전량을 구매한 것으로 알려졌다.",
+    "detected_vendors": [
+      "Seagate"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

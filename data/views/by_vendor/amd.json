@@ -4684,5 +4684,64 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Altera/Intel FPGA 리드타임은 약 60주까지 늘어났으며, 고객들은 2028년까지의 수요 예측을 제출하라는 요청을 받고 있다. Cyclone IV/V 제품군은 원자재 제약과 납기 앞당김 요청 수수료에 직면해 있으며, Xilinx XC7 시리즈의 리드타임은 최소 한 산업용 고객사에서 18개월 이상으로 늘어났다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "AMD 서버 CPU(Genoa/Turin) 가격은 국경절 연휴 이후 정상 가격 수준으로 전환되고 있으며, 특별 가격은 대형 핵심 고객사에만 적용된다. 별도의 유통업체 공지에 따르면 AMD 서버 CPU의 공식 가격 인상은 10월 15일부터 시행되나, 정확한 인상률은 아직 발표되지 않았다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "AMD는 고객사와 직접 협의한 뒤 견적 리드타임을 20주에서 12주로 단축했으며, P/F SKU는 최대 16주가 걸린다. 다만 2026년 4분기 추가 가격 인상은 9월 말에 발표될 것으로 예상된다.",
+    "detected_vendors": [
+      "AMD"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

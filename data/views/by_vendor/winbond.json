@@ -116,5 +116,23 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 9,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "Infineon은 AI 수요에 힘입어 FY2026 Q3 사상 최대 매출을 기록했으며, NOR Flash 및 F-RAM 사업을 Winbond에 매각할 계획도 발표했다. 거래 완료 목표 시점은 2027년 하반기다.",
+    "detected_vendors": [
+      "Infineon",
+      "Winbond"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

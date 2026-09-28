@@ -1,6 +1,6 @@
 {
   "vendor": "Kemet",
-  "total_milestones": 12,
+  "total_milestones": 13,
   "history": [
     {
       "date": "2021.08",
@@ -126,6 +126,16 @@
       "risk_level": "High",
       "summary": "수동소자 및 원자재 가격 인상 및 병목",
       "text": "Panasonic과 Kemet은 7월부터 30~40%의 가격 인상을 발표했다. 리드타임은 40주를 초과하고 있다. 제조사들이 자동차 및 산업용 등급 제품을 우선시함에 따라 저마진 상업용 제품군은 단종 가능성에 직면해 있다."
+    },
+    {
+      "date": "2026.09",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "수동부품 및 원자재 T-글래스 병목",
+      "text": "Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌으며, Yageo의 자동차용 AC 시리즈 저항기 가격은 9월부터 25% 인상될 예정이다. Kemet은 2주 연속 가격을 인상했고, Taiyo Yuden은 일부 라인에서 아직 신규 주문을 받지 않고 있다."
     }
   ]
 }
