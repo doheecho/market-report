@@ -123,6 +123,27 @@
   },
   {
     "year": 2025,
+    "month": 7,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "수동 부품 리드 타임 연장 및 할당",
+    "text": "야게오 저항기 및 타이요/무라타 커패시터의 리드 타임이 증가하고 있습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Taiyo Yuden",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
     "month": 8,
     "category": "Passive",
     "detected_categories": [
@@ -141,6 +162,50 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "수동 부품 리드 타임 연장 및 할당",
+    "text": "삼성, 무라타, 타요유덴의 MLCC는 공급 문제가 지속되고 있으며, 일부 시리즈의 리드타임은 24~28주에 달한다.",
+    "detected_vendors": [
+      "Murata",
+      "Samsung",
+      "Taiyo Yuden"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "category": "PCB",
+    "detected_categories": [
+      "PCB",
+      "Passive"
+    ],
+    "section_raw": "수동 부품 리드 타임 연장 및 할당",
+    "subheading": "수동 부품 리드 타임 연장 및 할당",
+    "text": "삼성, 무라타, 타이요 유덴의 MLCC는 24~28주를 유지하고 있으며, 저-Dk 유리섬유 및 HVLP 동박의 상류 부족이 겹쳐 악화되고 있습니다. 두 소재 모두 AI 서버 PCB에 우선 배정되고 있습니다.",
+    "detected_vendors": [
+      "Murata",
+      "Samsung",
+      "Taiyo Yuden"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   },
   {
     "year": 2026,

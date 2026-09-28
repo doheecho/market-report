@@ -107,6 +107,8 @@ def analyze_paragraph(text, vendor_map, keyword_map):
         detected_vendors.add("STMicroelectronics")
     if re.search(r"seagate|시게이트|씨게이트", text, re.IGNORECASE):
         detected_vendors.add("Seagate")
+    if re.search(r"taiyo\s*yuden|taiyo|태양유전|타이요\s*유덴|타이요|타요유덴|유덴", text, re.IGNORECASE):
+        detected_vendors.add("Taiyo Yuden")
     if re.search(r"sandisk|샌디스크", text, re.IGNORECASE):
         detected_vendors.add("SanDisk")
     if re.search(r"tsmc|티에스엠씨", text, re.IGNORECASE) or re.search(r"(?<![a-zA-Z])TSMC(?![a-zA-Z])", text):

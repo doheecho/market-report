@@ -55,7 +55,8 @@
       "date": "2026.01",
       "detected_vendors": [
         "Murata",
-        "Samsung"
+        "Samsung",
+        "Taiyo Yuden"
       ],
       "risk_level": "High",
       "summary": "수동 부품 리드 타임 연장 및 할당",

@@ -4188,6 +4188,7 @@
     "text": "야게오 저항기 및 타이요/무라타 커패시터의 리드 타임이 증가하고 있습니다.",
     "detected_vendors": [
       "Murata",
+      "Taiyo Yuden",
       "Yageo"
     ],
     "detected_keywords": [
@@ -6012,7 +6013,8 @@
     "text": "삼성, 무라타, 타요유덴의 MLCC는 공급 문제가 지속되고 있으며, 일부 시리즈의 리드타임은 24~28주에 달한다.",
     "detected_vendors": [
       "Murata",
-      "Samsung"
+      "Samsung",
+      "Taiyo Yuden"
     ],
     "detected_keywords": [
       "Allocation",

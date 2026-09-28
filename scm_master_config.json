@@ -61,7 +61,7 @@
       "representative": "Murata"
     },
     {
-      "pattern": "taiyo yuden|taiyo|태양유전",
+      "pattern": "taiyo\\s*yuden|taiyo|태양유전|타이요\\s*유덴|타이요|타요유덴|유덴",
       "representative": "Taiyo Yuden"
     },
     {
