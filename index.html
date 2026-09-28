@@ -1834,15 +1834,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
             </div>
           </div>
 
-          <!-- 표시 모드 토글 (테이블 뷰 vs 상세 리스트 뷰) -->
-          <div class="d-flex flex-column gap-1">
-            <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">표시 모드:</span>
-            <div id="dl-display-mode-group" class="d-flex gap-1" style="background: var(--srm-surface-2) !important; padding: 3px; border-radius: 8px;">
-              <button type="button" id="btn-dl-mode-table" class="btn btn-sm btn-primary py-1 px-3" style="font-size: 0.8rem; border-radius: 6px; font-weight: 600;" onclick="setDlDisplayMode('table')">📊 테이블</button>
-              <button type="button" id="btn-dl-mode-detail" class="btn btn-sm btn-outline-secondary py-1 px-3" style="font-size: 0.8rem; border-radius: 6px; font-weight: 600; border: none; background: transparent; color: var(--srm-text-muted);" onclick="setDlDisplayMode('detail')">📋 상세 리스트</button>
-            </div>
-          </div>
-
           <!-- [수정] 텍스트 검색: 필터 영역 확보 및 가로 너비 2.0배 (min-width: 300px, max-width: 360px) -->
           <div class="d-flex flex-column gap-1" style="min-width: 300px; max-width: 360px;">
             <span class="small fw-bold text-secondary" style="font-size: 0.75rem;">텍스트 검색:</span>
@@ -1917,13 +1908,6 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
               </tr>
             </tbody>
           </table>
-        </div>
-
-        <!-- 상세 리스트 뷰: 클릭해서 펼치지 않아도 본문 전체가 항상 표시됨 -->
-        <div id="dl-detail-wrapper" style="display: none; height: auto !important; min-height: 200px; overflow-y: visible !important; padding: 25px 30px; background: var(--srm-surface) !important; border: 1px solid var(--srm-border); border-radius: 12px; margin-bottom: 24px;">
-          <div id="dl-detail-content" style="position: relative; margin-left: 20px; border-left: 2px solid var(--srm-border); padding-bottom: 10px;">
-            <!-- Loaded dynamically -->
-          </div>
         </div>
 
         <!-- [신설] 조달/납기 리포트 페이징 컨트롤 컨테이너 (하단 가운데 배치) -->
@@ -6094,67 +6078,19 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
       // [추가] 검색 필터링된 레코드를 글로벌 변수에 저장하여 디스플레이 모드 스위칭 시 유지 보증
       window.__DL_CURRENT_FILTERED_RECORDS = filtered;
 
-      if (currentDlDisplayMode === 'table') {
-        renderDlTable(filtered);
-      } else {
-        renderDlDetailList(filtered);
-      }
-      
-      // Reactively update the SCM Major Timeline for text searched records!
-      renderMajorTimeline(filtered);
+      // 항상 테이블 모드로 단일 렌더링
+      renderDlTable(filtered);
       
       // Reactively update the SCM Major Timeline for text searched records!
       renderMajorTimeline(filtered);
     };
-
-
-    let currentDlDisplayMode = 'table'; // 'table' or 'detail'
 
     window.__DL_PAGINATION_PAGE = 1;
     const ITEMS_PER_PAGE = 8;
     let loadedProcurementTablesData = null;
 
-    window.setDlDisplayMode = function(mode) {
-      currentDlDisplayMode = mode;
-      const btnTable = document.getElementById("btn-dl-mode-table");
-      const btnDetail = document.getElementById("btn-dl-mode-detail");
-      const collapseBtn = document.getElementById("dl-collapse-btn");
-      if (collapseBtn) collapseBtn.textContent = "접기";
-
-      if (mode === 'table') {
-        btnTable.className = "btn btn-sm btn-primary py-1 px-3";
-        btnTable.style.removeProperty("background");
-        btnTable.style.removeProperty("color");
-        btnTable.style.removeProperty("border");
-
-        btnDetail.className = "btn btn-sm btn-outline-secondary py-1 px-3";
-        btnDetail.style.background = "transparent";
-        btnDetail.style.border = "none";
-        btnDetail.style.color = "var(--srm-text-muted)";
-
-        document.getElementById("dl-table-wrapper").style.display = "block";
-        document.getElementById("dl-detail-wrapper").style.display = "none";
-        renderDlTable(window.__DL_CURRENT_FILTERED_RECORDS || window.__DL_CURRENT_RECORDS);
-      } else {
-        btnDetail.className = "btn btn-sm btn-primary py-1 px-3";
-        btnDetail.style.removeProperty("background");
-        btnDetail.style.removeProperty("color");
-        btnDetail.style.removeProperty("border");
-
-        btnTable.className = "btn btn-sm btn-outline-secondary py-1 px-3";
-        btnTable.style.background = "transparent";
-        btnTable.style.border = "none";
-        btnTable.style.color = "var(--srm-text-muted)";
-
-        document.getElementById("dl-table-wrapper").style.display = "none";
-        document.getElementById("dl-detail-wrapper").style.display = "block";
-        renderDlDetailList(window.__DL_CURRENT_FILTERED_RECORDS || window.__DL_CURRENT_RECORDS);
-      }
-    };
-
     window.toggleDlTableCollapse = function() {
-      const isTableMode = (currentDlDisplayMode === 'table');
-      const target = isTableMode ? document.getElementById("dl-table-wrapper") : document.getElementById("dl-detail-wrapper");
+      const target = document.getElementById("dl-table-wrapper");
       const btn = document.getElementById("dl-collapse-btn");
       const pagContainer = document.getElementById("dl-pagination-container");
       
@@ -6164,6 +6100,14 @@ body.dark-theme [style*="rgba(255,255,255,0.85"]{ background-color:var(--srm-ove
         if (pagContainer && (window.__DL_CURRENT_FILTERED_RECORDS || window.__DL_CURRENT_RECORDS || []).length > ITEMS_PER_PAGE) {
           pagContainer.style.setProperty("display", "flex", "important");
         }
+      } else {
+        target.style.display = "none";
+        btn.textContent = "펼치기";
+        if (pagContainer) {
+          pagContainer.style.setProperty("display", "none", "important");
+        }
+      }
+    };
       } else {
         target.style.display = "none";
         btn.textContent = "펼치기";
