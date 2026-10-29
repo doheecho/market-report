@@ -3565,5 +3565,71 @@
       "Allocation"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "subheading": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "text": "Samsung은 10월 DDR5 견적을 중단한 것으로 알려졌으며, 공급은 11월 중순까지 회복되지 않을 전망이다. 10월 RDIMM 가격 인상률은 약 12~25%에 이르고 있다. Micron SSD는 10월 EMEA 출하분 기준 평균 20~25% 인상됐고, Samsung SSD는 14~15%, Kioxia Gen5는 4분기에 5~10% 인상됐다. 64GB·96GB·128GB RDIMM의 오픈마켓 가격은 대체로 보합세를 보이는 반면, 32GB 가격은 계속 오르고 있다. Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상한다.",
+    "detected_vendors": [
+      "Kioxia",
+      "Micron",
+      "Samsung"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "Samsung DDR5 공급 여건은 계속 경색되고 있으며, 구매자들은 물량 할당 가시성이 낮아지고 가용 물량도 더욱 선별적으로 제공되고 있다고 보고하고 있다. RDIMM 가격은 강한 AI 서버 수요와 긴축된 공급 환경에 힘입어 계속 상승세를 보이고 있다.",
+    "detected_vendors": [
+      "Samsung"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "해결되지 않은 MLCC 공급 부족 사례가 300건 이상 발생해 폭넓은 부품 범주에 영향을 미치고 있으며, 공급 부족은 Murata, Yageo, Taiyo Yuden, TDK 및 Samsung에 집중돼 있다. Murata와 Yageo는 12월까지도 가장 공급이 빠듯한 공급업체에 속하며, 서버 제조업체들은 MLCC 확보를 위해 현물 시장으로 나서고 있다. Samsung Electro-Mechanics의 4분기 가격 인상률은 소비자용 X5R 제품이 25~30%, AI 서버용 X6S 제품이 10~20%에 이르며, Taiyo Yuden 제품은 거의 모두 물량 할당 대상이다.",
+    "detected_vendors": [
+      "Murata",
+      "Samsung",
+      "TDK",
+      "Taiyo Yuden",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

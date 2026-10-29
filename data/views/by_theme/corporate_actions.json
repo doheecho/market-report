@@ -1316,5 +1316,23 @@
       "Capacity Expansion"
     ],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "Infineon은 C2i 인수를 완료하고 800V/±400V AI 서버 아키텍처용 27kW 3상 PSU 솔루션을 선보였다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
   }
 ]

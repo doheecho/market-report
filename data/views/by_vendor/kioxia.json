@@ -435,5 +435,28 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "subheading": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "text": "Samsung은 10월 DDR5 견적을 중단한 것으로 알려졌으며, 공급은 11월 중순까지 회복되지 않을 전망이다. 10월 RDIMM 가격 인상률은 약 12~25%에 이르고 있다. Micron SSD는 10월 EMEA 출하분 기준 평균 20~25% 인상됐고, Samsung SSD는 14~15%, Kioxia Gen5는 4분기에 5~10% 인상됐다. 64GB·96GB·128GB RDIMM의 오픈마켓 가격은 대체로 보합세를 보이는 반면, 32GB 가격은 계속 오르고 있다. Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상한다.",
+    "detected_vendors": [
+      "Kioxia",
+      "Micron",
+      "Samsung"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "vendor": "Broadcom",
-  "total_milestones": 55,
+  "total_milestones": 61,
   "history": [
     {
       "date": "2020.05",
@@ -565,6 +565,68 @@
       "risk_level": "Low",
       "summary": "Broadcom",
       "text": "아키텍처상 가능한 경우 하이래딕스 네트워킹 실리콘과 적격 대체품을 사전 확보해야 한다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "AI 수요, 성숙 공정 생산능력 압박",
+      "text": "TSMC의 웨이퍼 생산 계획은 전년과 동일한 수준에 머물러 있는 것으로 알려졌으며, 이에 따라 신규 2nm 생산 투입이 구공정 생산을 대체하고 있다. 또한 28nm 생산능력은 CoWoS 패키징으로 전환되고 있다. 이로 인해 Altera 10M08, 10M02 및 10M04의 심각한 공급 부족이 발생하고 있다. Broadcom PCIe Gen5 SS24 및 SS26은 기판 제약으로 2027년 공급 물량이 이미 전량 소진된 것으로 알려졌으며, 한 고객사는 약 90주의 리드타임을 통보받고 최대 2년치 수요를 주문하라는 권고를 받았다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Broadcom PCIe Gen5 SS24 및 SS26 제품군은 기판 제약으로 2027년 물량이 모두 소진된 것으로 알려졌으며, 제품군 전반에서 10% 이상의 가격 인상이 제시되고 있다. 한 고객사는 약 90주의 리드타임을 통보받았으며, 최대 2년치 수요를 주문하라는 권고를 받았다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "네트워킹 단종 확대 및 스위치 공급 지연",
+      "text": "수요가 DPU에서 CX6 및 CX7 NIC로 이동하면서 2027년 초 CX7 200G/400G 공급 부족 위험이 커지고 있다. MCX6 및 MCX7의 리드타임은 3~6개월 수준이며, NVIDIA가 스위치 할인 정책을 철회하면서 많은 해당 고객사의 가격이 약 10% 인상되고 있다. Broadcom NIC 가격은 11월 1일부터 인상되며, 저포트 제품은 7.5%, 고포트 모델은 최대 22% 인상될 예정이다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "Broadcom은 OCP에서 AI 랙용 102.4T 스위칭, 800G NIC, PCIe 부품 및 코패키지드 옵틱스를 선보였다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "네트워크 아키텍처 전환으로 스위치, NIC, 광모듈 및 CPO 생태계 의존성이 커지고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Broadcom",
+      "text": "아키텍처별 패브릭 요구사항을 조기에 확정하고, 실현 가능한 대체품의 적격성 평가를 완료해야 한다."
     }
   ]
 }

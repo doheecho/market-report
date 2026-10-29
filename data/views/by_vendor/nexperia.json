@@ -1903,5 +1903,75 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Vishay의 AI 관련 MOSFET 리드타임은 104주 이상, 자동차용 MOSFET은 52주 이상이며, 고객사들은 향후 4~6개월간 요청 물량의 약 10%만 배정받을 것으로 예상한다. Infineon TDA 전력 스테이지는 80~90주 이상의 리드타임을 보이고 있으며, 최근 분기 동안 가격은 10~50% 상승했다. Nexperia는 8월 5~70% 가격 인상 이후 리드타임이 36~40주 이상으로 늘었고, 1월에 추가 인상이 예상된다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Nexperia",
+    "subheading": "Nexperia",
+    "text": "Nexperia의 Q2 매출은 공급망 안정화 진전에 따라 전 분기 대비 18.4% 증가했으며, 중국 법인은 여전히 그룹의 연결 공시 대상에서 제외돼 있다(8월 28일 기준 발표).",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Nexperia",
+    "subheading": "Nexperia",
+    "text": "리스크는 일률적인 재고 소진 문제가 아니라 법인, 원산지(COO) 및 고객 적격성에 따라 달라진다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Nexperia",
+    "subheading": "Nexperia",
+    "text": "대체품 도입을 확정하기 전에 원산지(COO), 제조 일자 코드, 법인 및 고객 수용 여부를 확인해야 한다.",
+    "detected_vendors": [
+      "Nexperia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

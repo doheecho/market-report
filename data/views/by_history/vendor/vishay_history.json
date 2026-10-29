@@ -1,6 +1,6 @@
 {
   "vendor": "Vishay",
-  "total_milestones": 37,
+  "total_milestones": 39,
   "history": [
     {
       "date": "2021.09",
@@ -384,6 +384,28 @@
       "risk_level": "High",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "Skyworks는 다이오드 생산 라인 한 곳을 폐쇄하고 전환 지원 없이 2027년부터 해당 제품군의 일부 품목에서 철수할 예정인 것으로 알려졌다. Vishay는 팹 과잉 예약과 관련해 MOSFET(SIB452DK-T1-GE3)의 공급 확약 철회를 통보했으며, 이에 따라 신규 납기 일정은 2027년 말로 연기되고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+      "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 현재 50주 이상으로 약 두 배 늘었고, Vishay의 AI 관련 MOSFET은 104주 이상에 이른다. 자동차 고객사들은 TI 관련 Tier 1 에스컬레이션 증가와 STMicro 공급에 대한 우려를 보고하고 있으며, 한 서버 제조업체는 최근 처음으로 현물 시장에서 MLCC를 구매했다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Vishay의 AI 관련 MOSFET 리드타임은 104주 이상, 자동차용 MOSFET은 52주 이상이며, 고객사들은 향후 4~6개월간 요청 물량의 약 10%만 배정받을 것으로 예상한다. Infineon TDA 전력 스테이지는 80~90주 이상의 리드타임을 보이고 있으며, 최근 분기 동안 가격은 10~50% 상승했다. Nexperia는 8월 5~70% 가격 인상 이후 리드타임이 36~40주 이상으로 늘었고, 1월에 추가 인상이 예상된다."
     }
   ]
 }

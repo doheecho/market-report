@@ -932,5 +932,25 @@
       "Price Increase"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Marvell DSP 리드타임은 40주를 넘으며, 88E 시리즈 부품은 135일에서 270일로 늘어난 것으로 알려졌다. 가격도 9월 중순 이후 약 20% 상승했다. STMicroelectronics는 MCU에 대해 52주 이상의 리드타임을 제시하고 있으며, 자동차 고객사들은 특히 가용 물량에 우려를 제기하고 있다.",
+    "detected_vendors": [
+      "Marvell",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
   }
 ]

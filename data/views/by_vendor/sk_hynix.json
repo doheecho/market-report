@@ -2047,5 +2047,23 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "SK hynix는 2027년부터 유통업체를 통한 RDIMM 모듈 공급을 중단하고 고객사와 직접 협의하는 방식으로 전환할 것으로 예상된다. 회사는 2027년 예상 DRAM 칩 수요의 30~50%만 충족할 계획인 것으로 알려졌다.",
+    "detected_vendors": [
+      "SK하이닉스"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   }
 ]

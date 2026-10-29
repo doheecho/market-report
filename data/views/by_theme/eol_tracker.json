@@ -3527,5 +3527,139 @@
       "EOL"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상하며, 장기 공급 계약이 2027년과 2028년 생산능력의 대부분을 흡수하고 DRAM 비트 공급 증가율은 20% 초반에 그칠 것으로 보고 있다. Micron은 DDR3 단종 및 관련 공급 확약 철회를 진행하고 있으며, 16Gb 산업용 DDR4 가격은 추가로 20~30% 상승했다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "강한 수요가 이어지고 공급 관리 기조도 강화되면서 주요 공급업체들이 광범위한 SSD 가격 인상을 시행하고 있다. 엔터프라이즈 SSD의 압박이 가장 크며, 조달은 전반적인 메모리 구매와 더욱 긴밀하게 연계되고 있다. 제품 전환과 단계적 단종도 일부 엔터프라이즈 SSD 제품군의 가용 물량을 줄이고 있어, 2027년까지 시장이 더욱 견조해질 것이라는 전망을 뒷받침한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "NAND는 2027년의 중요한 공급 우려 품목으로 떠오르고 있으며, Micron NAND 가격은 지난 분기에 30% 상승해 DRAM의 17~18% 상승률을 웃돌았다. 통신용 eMMC가 단종으로 전환되면서 2027년 eMMC 물량 할당은 여전히 불확실하다. 저용량 NOR는 2027년 상반기 물량을 전량 배정받지 못하고 있으며, 산업용 1Gb 및 2Gb 제품은 상당한 공급 확약 철회를 겪고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "AI 인프라 구축이 가속화되면서 고속 광인터커넥트 리드타임도 계속 늘어나고 있다. 트랜시버와 이를 뒷받침하는 네트워킹 부품 전반의 공급 제약이 물량 할당 문제를 초래하면서, 일부 구매자는 생산능력 확보를 위해 대체 조달 채널을 검토하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "핵심 네트워킹 부품의 리드타임 연장이 광트랜시버 가용 물량을 계속 제약하면서, 일부 구매자는 대체 조달 전략을 검토하고 있다. 이러한 공급 문제에도 규제 환경은 광트랜시버 시장에 대한 폭넓은 참여를 계속 뒷받침하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "수요가 DPU에서 CX6 및 CX7 NIC로 이동하면서 2027년 초 CX7 200G/400G 공급 부족 위험이 커지고 있다. MCX6 및 MCX7의 리드타임은 3~6개월 수준이며, NVIDIA가 스위치 할인 정책을 철회하면서 많은 해당 고객사의 가격이 약 10% 인상되고 있다. Broadcom NIC 가격은 11월 1일부터 인상되며, 저포트 제품은 7.5%, 고포트 모델은 최대 22% 인상될 예정이다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Trident 4의 가용 물량은 심각하게 제한돼 있으며, 일부 네트워킹 고객사는 2026년 잔여 기간과 2027년 1분기 동안 물량 할당을 받지 못하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
   }
 ]

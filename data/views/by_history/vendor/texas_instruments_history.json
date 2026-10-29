@@ -1,6 +1,6 @@
 {
   "vendor": "Texas Instruments",
-  "total_milestones": 62,
+  "total_milestones": 66,
   "history": [
     {
       "date": "2020.04",
@@ -645,6 +645,48 @@
       "risk_level": "High",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "Texas Instruments는 최초 주문일과 관계없이 이미 접수된 미결 주문에 신규 가격을 적용하고 있으며, TPS 및 SN74 시리즈 제품의 리드타임도 계속 늘어나고 있다. TMCS 시리즈 전류 센서 MPN은 생산 라인 가동 중단을 초래할 정도의 심각한 공급 부족을 겪고 있으며, 최소 한 고객사는 가용 재고를 확보하기 위해 통상 프로젝트 원가보다 300% 이상 높은 프리미엄을 제시한 것으로 알려졌다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "TI와 ADI, 공급 제약 한층 심화",
+      "text": "TI가 제시한 12~16주 리드타임은 실제로 6개월에 가까워지고 있으며, 일부 고객사는 52주 이상의 리드타임을 통보받고 상당한 규모의 PO에 대한 공급 확약 철회도 겪고 있다. 10월에는 TI의 추가 10~15% 가격 인상이 예상된다. ADI 리드타임도 현재 통상 60~70주 이상에 이르며, 고객사들은 최소 6개월 전에 주문하라는 요청을 받고 있다. 기존의 가격 고정 및 리베이트 조건은 더 이상 준수되지 않는 것으로 보고되고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+      "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 현재 50주 이상으로 약 두 배 늘었고, Vishay의 AI 관련 MOSFET은 104주 이상에 이른다. 자동차 고객사들은 TI 관련 Tier 1 에스컬레이션 증가와 STMicro 공급에 대한 우려를 보고하고 있으며, 한 서버 제조업체는 최근 처음으로 현물 시장에서 MLCC를 구매했다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Texas Instruments의 공식 리드타임은 12~16주이나, 실제로는 6개월에 가까워지고 있다. 고객사들은 52주 이상의 리드타임, 40주 이상의 MCU 리드타임, 일부 SN 시리즈 부품의 99주 이상 리드타임을 보고하고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Texas Instruments는 장기 공급 계약 고객사를 제외하고 10월에 추가로 10~15% 가격을 인상할 것으로 예상된다. 고객사들은 긴급 납기 지원을 이용할 수 없으며 TI Store를 통해 조달해야 한다는 안내를 받고 있다. SN74L, TPS62 및 TPS54는 여전히 요청이 가장 많고 공급 위험이 큰 제품군이다. TI는 일부 저마진 다이오드의 생산도 중단한 것으로 알려졌다."
     }
   ]
 }

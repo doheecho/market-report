@@ -1,6 +1,6 @@
 {
   "vendor": "Analog Devices",
-  "total_milestones": 58,
+  "total_milestones": 60,
   "history": [
     {
       "date": "2020.05",
@@ -601,6 +601,26 @@
       "risk_level": "Medium",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "TI와 ADI, 공급 제약 한층 심화",
+      "text": "TI가 제시한 12~16주 리드타임은 실제로 6개월에 가까워지고 있으며, 일부 고객사는 52주 이상의 리드타임을 통보받고 상당한 규모의 PO에 대한 공급 확약 철회도 겪고 있다. 10월에는 TI의 추가 10~15% 가격 인상이 예상된다. ADI 리드타임도 현재 통상 60~70주 이상에 이르며, 고객사들은 최소 6개월 전에 주문하라는 요청을 받고 있다. 기존의 가격 고정 및 리베이트 조건은 더 이상 준수되지 않는 것으로 보고되고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Analog Devices의 리드타임은 현재 통상 60~70주 이상이며, 고객사들은 최소 6개월 전에 주문하라는 요청을 받고 있다. 일부 납품은 2027년 중반 또는 2028년으로 연기되고 있다. 긴급 대응 및 납기 앞당김 지원은 사실상 제공되지 않는다."
     }
   ]
 }

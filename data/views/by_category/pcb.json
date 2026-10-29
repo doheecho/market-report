@@ -266,5 +266,23 @@
       "Lead Time"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "PCB",
+    "detected_categories": [
+      "PCB",
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "E-글래스 공급 부족과 강한 수요로 PCB 가용 물량이 하이퍼스케일 인프라의 핵심 병목 요인으로 부상하고 있으며, 리드타임은 지난 1년간 두 배로 늘어난 것으로 알려졌다. FR-4 적층판에 사용되는 유리섬유 직물은 공통 상위 공급업체의 제약으로 인해 특히 큰 영향을 받고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

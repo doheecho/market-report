@@ -7989,5 +7989,408 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "subheading": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "text": "Samsung은 10월 DDR5 견적을 중단한 것으로 알려졌으며, 공급은 11월 중순까지 회복되지 않을 전망이다. 10월 RDIMM 가격 인상률은 약 12~25%에 이르고 있다. Micron SSD는 10월 EMEA 출하분 기준 평균 20~25% 인상됐고, Samsung SSD는 14~15%, Kioxia Gen5는 4분기에 5~10% 인상됐다. 64GB·96GB·128GB RDIMM의 오픈마켓 가격은 대체로 보합세를 보이는 반면, 32GB 가격은 계속 오르고 있다. Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상한다.",
+    "detected_vendors": [
+      "Kioxia",
+      "Micron",
+      "Samsung"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "10월 공급 제약은 여전히 특정 품목에 집중돼 있다. GPU/가속기, 첨단 패키징, HBM/RDIMM 및 고밀도 NOR는 최고 수준의 공급 압박 상태를 유지하고 있으며, 시장 상황은 안정적이나 완화 조짐은 없다. 가장 큰 변화는 메모리 분야로, HBM·고밀도 서버 DRAM·엔터프라이즈 SSD 공급 물량이 전략적 계약과 프로그램 확약에 따라 점차 배정되고 있다. 계약 가격은 2026년 4분기로 갈수록 상승하고 있어, 일반 유통 채널 가격은 적격성이 검증된 인프라 부품의 가용 물량을 판단하는 지표로서 신뢰도가 낮아지고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "AI GPU/가속기 플랫폼 | 심각 | 프로그램 수요는 가속기뿐 아니라 HBM, 패브릭, 전력 및 스토리지 전반의 수요를 계속 견인하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "HBM/고밀도 DDR5 RDIMM | 심각 | Micron은 2027년 HBM 공급 물량의 대부분을 이미 계약했으며, DRAM은 2027년까지 공급 제약이 지속되고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "엔터프라이즈 SSD/고밀도 QLC NAND | 심각 | 엔터프라이즈 SSD 수요는 2026년에 전년 대비 80% 이상 증가할 것으로 예상되며, 4분기 가격 상승세도 가속화될 전망이다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "고밀도 NOR(256Mb 이상/Octal SPI) | 높음 | 제한적인 실질 공급 물량과 적격성 확보 기간으로 인해 고밀도 제품군은 2026년 하반기까지 계속 제약을 받을 전망이다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "HBM/적층 메모리 | 할당 물량만 공급 가능 | 2027년 공급 물량은 전략 고객과의 계약 및 플랫폼 확약에 따라 점차 선점되고 있다. | 2027년 플랫폼 수요, 스택 선호 사양 및 적격 공급업체 조달 경로를 지금 확정해야 하며, 현물 시장 대체 조달에 의존해서는 안 된다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "첨단 GPU/가속기 플랫폼 | 할당 물량만 공급 가능 | 플랫폼 일정에는 파운드리, 패키징, 메모리, 패브릭 및 랙의 의존성이 복합적으로 작용한다. | 완전한 플랫폼 단위로 물량 할당을 요청하고, 모든 핵심 BOM 의존성을 함께 관리해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "DDR5 RDIMM/서버 메모리 | 할당 물량만 공급 가능 | 공급업체들이 고부가 제품에 첨단 공정 생산능력을 우선 배정하면서 서버 DRAM 공급 부족이 지속되고 있다. | 구성별 필요 물량을 사전 확보하고, 구축 사양이 확정되기 전에 밀도 및 모듈 대체품의 적격성 평가를 완료해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "고용량 엔터프라이즈 SSD | 할당 물량만 공급 가능 | CSP의 추론, 캐시 및 벡터 데이터베이스 수요로 추가 공급 물량 대부분이 이미 배정됐다. | 필요 생산능력을 조기에 확보하고, 컨트롤러 및 NAND 대체품도 조기에 확정하며, 스토리지 구매는 실제 구축 마일스톤과 연계해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "Samsung DDR5 공급 여건은 계속 경색되고 있으며, 구매자들은 물량 할당 가시성이 낮아지고 가용 물량도 더욱 선별적으로 제공되고 있다고 보고하고 있다. RDIMM 가격은 강한 AI 서버 수요와 긴축된 공급 환경에 힘입어 계속 상승세를 보이고 있다.",
+    "detected_vendors": [
+      "Samsung"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상하며, 장기 공급 계약이 2027년과 2028년 생산능력의 대부분을 흡수하고 DRAM 비트 공급 증가율은 20% 초반에 그칠 것으로 보고 있다. Micron은 DDR3 단종 및 관련 공급 확약 철회를 진행하고 있으며, 16Gb 산업용 DDR4 가격은 추가로 20~30% 상승했다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "SK hynix는 2027년부터 유통업체를 통한 RDIMM 모듈 공급을 중단하고 고객사와 직접 협의하는 방식으로 전환할 것으로 예상된다. 회사는 2027년 예상 DRAM 칩 수요의 30~50%만 충족할 계획인 것으로 알려졌다.",
+    "detected_vendors": [
+      "SK하이닉스"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "현재 수요가 가장 많은 32GB DDR5 RDIMM의 오픈마켓 가격은 계속 오르고 있는 반면, 64GB·96GB·128GB 가격은 대체로 안정화됐다. 제조업체들이 HBM 생산을 늘리면서 2027년 1~2분기에 공급은 다시 빠듯해질 전망이며, HBM은 2027년 DDR5 웨이퍼 생산능력의 약 50%를 소진할 수 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "LPDDR4와 DDR3 등 성숙 공정 기반 자동차용 메모리의 공급은 계속 빠듯하고 가격도 상승세를 유지하고 있다. 일부 품목은 안정화 조짐을 보이나, 장기적인 공급 제약과 레거시 공정에 대한 제한적인 업계 투자가 앞으로 수년간 견조한 시장 환경을 뒷받침할 것으로 예상된다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "강한 수요가 이어지고 공급 관리 기조도 강화되면서 주요 공급업체들이 광범위한 SSD 가격 인상을 시행하고 있다. 엔터프라이즈 SSD의 압박이 가장 크며, 조달은 전반적인 메모리 구매와 더욱 긴밀하게 연계되고 있다. 제품 전환과 단계적 단종도 일부 엔터프라이즈 SSD 제품군의 가용 물량을 줄이고 있어, 2027년까지 시장이 더욱 견조해질 것이라는 전망을 뒷받침한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Micron 30TB 및 61.44TB 엔터프라이즈 SSD의 리드타임은 26~36주 이상으로 늘었으며, 공급 물량은 주요 하이퍼스케일러에 전량 배정되고 소규모 고객사에 배정 가능한 2027년 물량은 제한적인 것으로 알려졌다. NAND가 고용량 드라이브에 우선 배정되면서 저용량 SSD의 가용 물량도 줄어들고 있으며, 이로 인해 서버 부팅용 드라이브의 공급 부족이 발생하고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "NAND는 2027년의 중요한 공급 우려 품목으로 떠오르고 있으며, Micron NAND 가격은 지난 분기에 30% 상승해 DRAM의 17~18% 상승률을 웃돌았다. 통신용 eMMC가 단종으로 전환되면서 2027년 eMMC 물량 할당은 여전히 불확실하다. 저용량 NOR는 2027년 상반기 물량을 전량 배정받지 못하고 있으며, 산업용 1Gb 및 2Gb 제품은 상당한 공급 확약 철회를 겪고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "가속기 수요는 GPU 자체에 그치지 않고 HBM, 네트워킹, 전력 및 엔터프라이즈 스토리지 전반의 수요를 견인하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "Micron의 FY2026 4분기 매출은 542억3,000만 달러였다. Micron은 2027년 HBM 비트 공급 물량의 대부분을 계약했으며, DRAM과 NAND의 공급 제약이 2027~2028년까지 이어질 것으로 보고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "메모리 확보는 개별 거래 조달보다 전략적 계약을 통해 이뤄지는 비중이 점차 커지고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "승인된 구성 사양을 기준으로 2027년 HBM, RDIMM 및 엔터프라이즈 SSD 수요 예측을 갱신해야 한다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

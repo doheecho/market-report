@@ -715,5 +715,49 @@
       "EOL"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "해결되지 않은 MLCC 공급 부족 사례가 300건 이상 발생해 폭넓은 부품 범주에 영향을 미치고 있으며, 공급 부족은 Murata, Yageo, Taiyo Yuden, TDK 및 Samsung에 집중돼 있다. Murata와 Yageo는 12월까지도 가장 공급이 빠듯한 공급업체에 속하며, 서버 제조업체들은 MLCC 확보를 위해 현물 시장으로 나서고 있다. Samsung Electro-Mechanics의 4분기 가격 인상률은 소비자용 X5R 제품이 25~30%, AI 서버용 X6S 제품이 10~20%에 이르며, Taiyo Yuden 제품은 거의 모두 물량 할당 대상이다.",
+    "detected_vendors": [
+      "Murata",
+      "Samsung",
+      "TDK",
+      "Taiyo Yuden",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Passive",
+    "detected_categories": [
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "Yageo는 가동률 98~100%, 수주출하비 1.7 수준으로 운영하고 있으나 생산능력을 확대하지 않고 있다. Murata도 AI 관련 MLCC 수요를 우선 배정하고 있는 것으로 알려졌다. 47µF X6S 0603 및 0805 제품군은 현재 공급이 가장 빠듯한 품목이며, 2027년에는 상황이 더 악화될 것으로 예상된다.",
+    "detected_vendors": [
+      "Murata",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
   }
 ]

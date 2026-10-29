@@ -8363,5 +8363,69 @@
       "Shortage"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "AI 수요, 성숙 공정 생산능력 압박",
+    "subheading": "AI 수요, 성숙 공정 생산능력 압박",
+    "text": "TSMC의 웨이퍼 생산 계획은 전년과 동일한 수준에 머물러 있는 것으로 알려졌으며, 이에 따라 신규 2nm 생산 투입이 구공정 생산을 대체하고 있다. 또한 28nm 생산능력은 CoWoS 패키징으로 전환되고 있다. 이로 인해 Altera 10M08, 10M02 및 10M04의 심각한 공급 부족이 발생하고 있다. Broadcom PCIe Gen5 SS24 및 SS26은 기판 제약으로 2027년 공급 물량이 이미 전량 소진된 것으로 알려졌으며, 한 고객사는 약 90주의 리드타임을 통보받고 최대 2년치 수요를 주문하라는 권고를 받았다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Intel",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "TSMC가 28nm 생산능력을 CoWoS 패키징으로 재배정하면서 Altera 10M08, 10M02 및 10M04의 공급 부족이 심각하다. AMD/Xilinx 적응형 컴퓨팅 제품은 2026년 12월 27일부터 기존 수주잔고와 신규 주문 모두에 가격 인상이 적용되며, 유통업체들은 인상률이 약 20%에 이를 것으로 보고 있다. 긴급 납기 지원은 2027년 1분기까지 계속 제공되지 않는다. Lattice도 11월 1일부터 모든 디바이스 가격을 인상하며, 인상률은 약 30%부터 시작해 일부 레거시 제품은 최대 100%에 이를 전망이다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Lattice",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "수요는 최신 고성능 서버 플랫폼에 크게 집중돼 있으나, 공급은 프로세서 생산 자체보다 핵심 생태계 부품에 의해 계속 제한되고 있다. 유통업체들은 물량 할당 문제의 지속을 보고하고 있으며, 프리미엄 AI 중심 구성에 가용 물량이 우선 배정되고 있다. 업계 관계자들은 2027년까지 Intel 서버 CPU 제약이 지속될 것으로 예상하며 가격 압박도 지속될 것으로 보고 있다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

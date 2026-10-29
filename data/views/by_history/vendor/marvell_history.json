@@ -1,6 +1,6 @@
 {
   "vendor": "Marvell",
-  "total_milestones": 11,
+  "total_milestones": 15,
   "history": [
     {
       "date": "2021.11",
@@ -115,6 +115,46 @@
       "risk_level": "Low",
       "summary": "Marvell",
       "text": "광모듈 및 연결성 관련 부품 조달을 초기 구축 계획에 반영해야 한다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Marvell DSP 리드타임은 40주를 넘으며, 88E 시리즈 부품은 135일에서 270일로 늘어난 것으로 알려졌다. 가격도 9월 중순 이후 약 20% 상승했다. STMicroelectronics는 MCU에 대해 52주 이상의 리드타임을 제시하고 있으며, 자동차 고객사들은 특히 가용 물량에 우려를 제기하고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Marvell",
+      "text": "레인당 224G AI 스케일업 패브릭용 신규 3.2T 리타이머와 2세대 1.6T AEC DSP가 샘플 공급 단계에 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Marvell",
+      "text": "레인 속도가 높아짐에 따라 리타이머와 액티브 전기 케이블은 설계 및 적격성 평가의 조기 관문이 되고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Marvell",
+      "text": "AEC, DSP 및 리타이머 요구사항을 설계 확정 및 조달 계획에 반영해야 한다."
     }
   ]
 }

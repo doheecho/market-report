@@ -1,6 +1,6 @@
 {
   "vendor": "TSMC",
-  "total_milestones": 58,
+  "total_milestones": 65,
   "history": [
     {
       "date": "2020.10",
@@ -609,6 +609,76 @@
       "risk_level": "Low",
       "summary": "TSMC",
       "text": "설계 및 수요 예측 검토 시 패키징 경로, 웨이퍼 공정 노드 및 기판 의존성을 확인해야 한다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "AI 수요, 성숙 공정 생산능력 압박",
+      "text": "TSMC의 웨이퍼 생산 계획은 전년과 동일한 수준에 머물러 있는 것으로 알려졌으며, 이에 따라 신규 2nm 생산 투입이 구공정 생산을 대체하고 있다. 또한 28nm 생산능력은 CoWoS 패키징으로 전환되고 있다. 이로 인해 Altera 10M08, 10M02 및 10M04의 심각한 공급 부족이 발생하고 있다. Broadcom PCIe Gen5 SS24 및 SS26은 기판 제약으로 2027년 공급 물량이 이미 전량 소진된 것으로 알려졌으며, 한 고객사는 약 90주의 리드타임을 통보받고 최대 2년치 수요를 주문하라는 권고를 받았다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "시장 변동성 지수",
+      "text": "첨단 패키징/선단 공정 파운드리 | 심각 | TSMC의 3분기 매출은 전년 동기 대비 41.2% 증가했으며, 선단 공정 수요와 2nm 양산 확대가 계속 생산능력 배정을 주도하고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "High",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "TSMC가 28nm 생산능력을 CoWoS 패키징으로 재배정하면서 Altera 10M08, 10M02 및 10M04의 공급 부족이 심각하다. AMD/Xilinx 적응형 컴퓨팅 제품은 2026년 12월 27일부터 기존 수주잔고와 신규 주문 모두에 가격 인상이 적용되며, 유통업체들은 인상률이 약 20%에 이를 것으로 보고 있다. 긴급 납기 지원은 2027년 1분기까지 계속 제공되지 않는다. Lattice도 11월 1일부터 모든 디바이스 가격을 인상하며, 인상률은 약 30%부터 시작해 일부 레거시 제품은 최대 100%에 이를 전망이다."
+    },
+    {
+      "date": "2026.10",
+      "category": "CPU",
+      "detected_categories": [
+        "CPU"
+      ],
+      "risk_level": "High",
+      "summary": "CPU 구조적 공급 부족 및 파운드리 전환",
+      "text": "AMD는 2026년 하반기 서버 부문이 80% 이상 성장하고 2027년에는 70% 이상 성장할 것으로 전망하고 있으나, TSMC 생산능력 제약으로 공급은 여전히 제한적이다. EPYC 가격은 4분기, 특히 10월 중순 무렵 10% 이상 인상될 것으로 예상되며, 특별 가격은 점차 최상위 고객사에만 제공되고 있다. 리드타임은 3주에서 6개월까지 다양하며, Turin F 시리즈는 약 3~4개월이고 Turin 제품군의 공급 위험이 가장 크다. 유통업체들은 2027년 1분기에도 Genoa는 약 10%, Turin은 약 15%의 추가 가격 인상을 예상한다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "TSMC",
+      "text": "TSMC의 2026년 3분기 매출은 467억2,000만 달러로 전년 동기 대비 41.2% 증가했으며, 첨단 공정은 웨이퍼 매출의 79%를 차지했다. 4분기 매출 가이던스는 523억~543억 달러다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "TSMC",
+      "text": "선단 공정 및 첨단 패키징 관련 위험은 고객 및 프로그램 우선순위에 따라 달라진다."
+    },
+    {
+      "date": "2026.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "TSMC",
+      "text": "수요 예측 및 설계 검토 시 공정 노드, 패키지, 기판 및 테스트 경로를 확인해야 한다."
     }
   ]
 }

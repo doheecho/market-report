@@ -5469,5 +5469,149 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "전문가용 GPU 수요, 이례적으로 강세 지속",
+    "subheading": "전문가용 GPU 수요, 이례적으로 강세 지속",
+    "text": "NVIDIA 900-2G153-0000-000과 PNY 키트 및 카드를 포함한 NVIDIA RTX PRO 6000급 제품이 3주간 SO 순위에서 상위를 차지했다. 한 대형 서버 OEM은 NVIDIA가 공급 확약을 할 수 없는 주문까지 받고 있으며, 필요한 IC의 리드타임은 52주인데도 26주로 견적을 제시하고 있다고 전했다. PNY도 RTX PRO 6000 재고가 없으며, 미국 내 수주잔고가 2만 대를 넘어섰다고 밝혔다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "10월 공급 제약은 여전히 특정 품목에 집중돼 있다. GPU/가속기, 첨단 패키징, HBM/RDIMM 및 고밀도 NOR는 최고 수준의 공급 압박 상태를 유지하고 있으며, 시장 상황은 안정적이나 완화 조짐은 없다. 가장 큰 변화는 메모리 분야로, HBM·고밀도 서버 DRAM·엔터프라이즈 SSD 공급 물량이 전략적 계약과 프로그램 확약에 따라 점차 배정되고 있다. 계약 가격은 2026년 4분기로 갈수록 상승하고 있어, 일반 유통 채널 가격은 적격성이 검증된 인프라 부품의 가용 물량을 판단하는 지표로서 신뢰도가 낮아지고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "AI GPU/가속기 플랫폼 | 심각 | 프로그램 수요는 가속기뿐 아니라 HBM, 패브릭, 전력 및 스토리지 전반의 수요를 계속 견인하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "첨단 GPU/가속기 플랫폼 | 할당 물량만 공급 가능 | 플랫폼 일정에는 파운드리, 패키징, 메모리, 패브릭 및 랙의 의존성이 복합적으로 작용한다. | 완전한 플랫폼 단위로 물량 할당을 요청하고, 모든 핵심 BOM 의존성을 함께 관리해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "GPU 할당 축소 및 채널 혼란",
+    "subheading": "GPU 할당 축소 및 채널 혼란",
+    "text": "서버·워크스테이션·모바일 제품군 전반에서 공급 여건이 빠듯하며, 유통 채널 재고도 대부분 소진된 것으로 알려졌다. 수요가 생산을 웃돌면서 RTX PRO 6000의 리드타임은 계속 늘어나고 수주잔고도 증가하고 있다. 시장 관계자들은 공인 유통 채널의 가용 물량이 연말 전까지 유의미하게 개선되기는 어려울 것으로 보고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "GPU 할당 축소 및 채널 혼란",
+    "subheading": "GPU 할당 축소 및 채널 혼란",
+    "text": "NVIDIA H200 공급업체 할당 물량은 개별 카드 생산에서 HGX 및 GB300/VR 시스템 생산으로 전환됨에 따라 2026년 11월에서 2027년 3월로 이연된 것으로 알려졌다. 리드타임은 40주 이상으로 제시되고 있으며, 오픈마켓 가격은 OEM 직판 가격의 약 두 배 수준이다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "GPU 할당 축소 및 채널 혼란",
+    "subheading": "GPU 할당 축소 및 채널 혼란",
+    "text": "RTX 5090 온라인 소매 가격은 8,000달러를 넘어섰으며, 일부 가용 재고는 6,000~7,000달러 수준에서 거래되고 있다. 미국의 한 대형 소매업체도 이 카드를 재고 미보유 품목으로 표시하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "가속기 수요는 GPU 자체에 그치지 않고 HBM, 네트워킹, 전력 및 엔터프라이즈 스토리지 전반의 수요를 견인하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

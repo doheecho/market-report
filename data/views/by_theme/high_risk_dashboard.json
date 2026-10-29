@@ -16050,5 +16050,353 @@
       "EOL"
     ],
     "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "TI와 ADI, 공급 제약 한층 심화",
+    "subheading": "TI와 ADI, 공급 제약 한층 심화",
+    "text": "TI가 제시한 12~16주 리드타임은 실제로 6개월에 가까워지고 있으며, 일부 고객사는 52주 이상의 리드타임을 통보받고 상당한 규모의 PO에 대한 공급 확약 철회도 겪고 있다. 10월에는 TI의 추가 10~15% 가격 인상이 예상된다. ADI 리드타임도 현재 통상 60~70주 이상에 이르며, 고객사들은 최소 6개월 전에 주문하라는 요청을 받고 있다. 기존의 가격 고정 및 리베이트 조건은 더 이상 준수되지 않는 것으로 보고되고 있다.",
+    "detected_vendors": [
+      "Analog Devices",
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Discommit",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "AI 수요, 성숙 공정 생산능력 압박",
+    "subheading": "AI 수요, 성숙 공정 생산능력 압박",
+    "text": "TSMC의 웨이퍼 생산 계획은 전년과 동일한 수준에 머물러 있는 것으로 알려졌으며, 이에 따라 신규 2nm 생산 투입이 구공정 생산을 대체하고 있다. 또한 28nm 생산능력은 CoWoS 패키징으로 전환되고 있다. 이로 인해 Altera 10M08, 10M02 및 10M04의 심각한 공급 부족이 발생하고 있다. Broadcom PCIe Gen5 SS24 및 SS26은 기판 제약으로 2027년 공급 물량이 이미 전량 소진된 것으로 알려졌으며, 한 고객사는 약 90주의 리드타임을 통보받고 최대 2년치 수요를 주문하라는 권고를 받았다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Intel",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive",
+      "Storage"
+    ],
+    "section_raw": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+    "subheading": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+    "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 현재 50주 이상으로 약 두 배 늘었고, Vishay의 AI 관련 MOSFET은 104주 이상에 이른다. 자동차 고객사들은 TI 관련 Tier 1 에스컬레이션 증가와 STMicro 공급에 대한 우려를 보고하고 있으며, 한 서버 제조업체는 최근 처음으로 현물 시장에서 MLCC를 구매했다.",
+    "detected_vendors": [
+      "Diodes",
+      "Onsemi",
+      "Texas Instruments",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "DDR5 RDIMM/서버 메모리 | 할당 물량만 공급 가능 | 공급업체들이 고부가 제품에 첨단 공정 생산능력을 우선 배정하면서 서버 DRAM 공급 부족이 지속되고 있다. | 구성별 필요 물량을 사전 확보하고, 구축 사양이 확정되기 전에 밀도 및 모듈 대체품의 적격성 평가를 완료해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "TSMC가 28nm 생산능력을 CoWoS 패키징으로 재배정하면서 Altera 10M08, 10M02 및 10M04의 공급 부족이 심각하다. AMD/Xilinx 적응형 컴퓨팅 제품은 2026년 12월 27일부터 기존 수주잔고와 신규 주문 모두에 가격 인상이 적용되며, 유통업체들은 인상률이 약 20%에 이를 것으로 보고 있다. 긴급 납기 지원은 2027년 1분기까지 계속 제공되지 않는다. Lattice도 11월 1일부터 모든 디바이스 가격을 인상하며, 인상률은 약 30%부터 시작해 일부 레거시 제품은 최대 100%에 이를 전망이다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Lattice",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "수요는 최신 고성능 서버 플랫폼에 크게 집중돼 있으나, 공급은 프로세서 생산 자체보다 핵심 생태계 부품에 의해 계속 제한되고 있다. 유통업체들은 물량 할당 문제의 지속을 보고하고 있으며, 프리미엄 AI 중심 구성에 가용 물량이 우선 배정되고 있다. 업계 관계자들은 2027년까지 Intel 서버 CPU 제약이 지속될 것으로 예상하며 가격 압박도 지속될 것으로 보고 있다.",
+    "detected_vendors": [
+      "Intel"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "CPU",
+    "detected_categories": [
+      "CPU"
+    ],
+    "section_raw": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "subheading": "CPU 구조적 공급 부족 및 파운드리 전환",
+    "text": "AMD는 2026년 하반기 서버 부문이 80% 이상 성장하고 2027년에는 70% 이상 성장할 것으로 전망하고 있으나, TSMC 생산능력 제약으로 공급은 여전히 제한적이다. EPYC 가격은 4분기, 특히 10월 중순 무렵 10% 이상 인상될 것으로 예상되며, 특별 가격은 점차 최상위 고객사에만 제공되고 있다. 리드타임은 3주에서 6개월까지 다양하며, Turin F 시리즈는 약 3~4개월이고 Turin 제품군의 공급 위험이 가장 크다. 유통업체들은 2027년 1분기에도 Genoa는 약 10%, Turin은 약 15%의 추가 가격 인상을 예상한다.",
+    "detected_vendors": [
+      "AMD",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상하며, 장기 공급 계약이 2027년과 2028년 생산능력의 대부분을 흡수하고 DRAM 비트 공급 증가율은 20% 초반에 그칠 것으로 보고 있다. Micron은 DDR3 단종 및 관련 공급 확약 철회를 진행하고 있으며, 16Gb 산업용 DDR4 가격은 추가로 20~30% 상승했다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Memory",
+    "detected_categories": [
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "강한 수요가 이어지고 공급 관리 기조도 강화되면서 주요 공급업체들이 광범위한 SSD 가격 인상을 시행하고 있다. 엔터프라이즈 SSD의 압박이 가장 크며, 조달은 전반적인 메모리 구매와 더욱 긴밀하게 연계되고 있다. 제품 전환과 단계적 단종도 일부 엔터프라이즈 SSD 제품군의 가용 물량을 줄이고 있어, 2027년까지 시장이 더욱 견조해질 것이라는 전망을 뒷받침한다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Price Increase"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Micron 30TB 및 61.44TB 엔터프라이즈 SSD의 리드타임은 26~36주 이상으로 늘었으며, 공급 물량은 주요 하이퍼스케일러에 전량 배정되고 소규모 고객사에 배정 가능한 2027년 물량은 제한적인 것으로 알려졌다. NAND가 고용량 드라이브에 우선 배정되면서 저용량 SSD의 가용 물량도 줄어들고 있으며, 이로 인해 서버 부팅용 드라이브의 공급 부족이 발생하고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "NAND는 2027년의 중요한 공급 우려 품목으로 떠오르고 있으며, Micron NAND 가격은 지난 분기에 30% 상승해 DRAM의 17~18% 상승률을 웃돌았다. 통신용 eMMC가 단종으로 전환되면서 2027년 eMMC 물량 할당은 여전히 불확실하다. 저용량 NOR는 2027년 상반기 물량을 전량 배정받지 못하고 있으며, 산업용 1Gb 및 2Gb 제품은 상당한 공급 확약 철회를 겪고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "AI 인프라 구축이 가속화되면서 고속 광인터커넥트 리드타임도 계속 늘어나고 있다. 트랜시버와 이를 뒷받침하는 네트워킹 부품 전반의 공급 제약이 물량 할당 문제를 초래하면서, 일부 구매자는 생산능력 확보를 위해 대체 조달 채널을 검토하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "핵심 네트워킹 부품의 리드타임 연장이 광트랜시버 가용 물량을 계속 제약하면서, 일부 구매자는 대체 조달 전략을 검토하고 있다. 이러한 공급 문제에도 규제 환경은 광트랜시버 시장에 대한 폭넓은 참여를 계속 뒷받침하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "수요가 DPU에서 CX6 및 CX7 NIC로 이동하면서 2027년 초 CX7 200G/400G 공급 부족 위험이 커지고 있다. MCX6 및 MCX7의 리드타임은 3~6개월 수준이며, NVIDIA가 스위치 할인 정책을 철회하면서 많은 해당 고객사의 가격이 약 10% 인상되고 있다. Broadcom NIC 가격은 11월 1일부터 인상되며, 저포트 제품은 7.5%, 고포트 모델은 최대 22% 인상될 예정이다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Trident 4의 가용 물량은 심각하게 제한돼 있으며, 일부 네트워킹 고객사는 2026년 잔여 기간과 2027년 1분기 동안 물량 할당을 받지 못하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "해결되지 않은 MLCC 공급 부족 사례가 300건 이상 발생해 폭넓은 부품 범주에 영향을 미치고 있으며, 공급 부족은 Murata, Yageo, Taiyo Yuden, TDK 및 Samsung에 집중돼 있다. Murata와 Yageo는 12월까지도 가장 공급이 빠듯한 공급업체에 속하며, 서버 제조업체들은 MLCC 확보를 위해 현물 시장으로 나서고 있다. Samsung Electro-Mechanics의 4분기 가격 인상률은 소비자용 X5R 제품이 25~30%, AI 서버용 X6S 제품이 10~20%에 이르며, Taiyo Yuden 제품은 거의 모두 물량 할당 대상이다.",
+    "detected_vendors": [
+      "Murata",
+      "Samsung",
+      "TDK",
+      "Taiyo Yuden",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "PCB",
+    "detected_categories": [
+      "PCB",
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "E-글래스 공급 부족과 강한 수요로 PCB 가용 물량이 하이퍼스케일 인프라의 핵심 병목 요인으로 부상하고 있으며, 리드타임은 지난 1년간 두 배로 늘어난 것으로 알려졌다. FR-4 적층판에 사용되는 유리섬유 직물은 공통 상위 공급업체의 제약으로 인해 특히 큰 영향을 받고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
   }
 ]

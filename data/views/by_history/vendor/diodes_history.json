@@ -1,6 +1,6 @@
 {
   "vendor": "Diodes",
-  "total_milestones": 12,
+  "total_milestones": 14,
   "history": [
     {
       "date": "2021.07",
@@ -124,6 +124,29 @@
       "risk_level": "Medium",
       "summary": "수동부품 및 원자재 T-글래스 병목",
       "text": "Diodes Inc.의 주력 자동차용 부품 리드타임은 한 Tier 1 고객사에서 40주를 넘어섰으며, UCC 브랜드 알루미늄 전해 커패시터는 명시된 생산능력의 140% 수준에서 공급이 제약을 받고 있는 것으로 알려졌다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive",
+        "Storage"
+      ],
+      "risk_level": "High",
+      "summary": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+      "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 현재 50주 이상으로 약 두 배 늘었고, Vishay의 AI 관련 MOSFET은 104주 이상에 이른다. 자동차 고객사들은 TI 관련 Tier 1 에스컬레이션 증가와 STMicro 공급에 대한 우려를 보고하고 있으며, 한 서버 제조업체는 최근 처음으로 현물 시장에서 MLCC를 구매했다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Storage"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 일부 제품은 60~74주 이상에 이른다. 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 50주 이상으로 늘었으며, 10월 가격 인상 이후 주요 고객사들은 요청한 MOSFET 및 디스크리트 공급 물량의 약 70%를 배정받고 있다."
     }
   ]
 }

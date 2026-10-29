@@ -14940,5 +14940,535 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "subheading": "고용량 RDIMM 가격 보합 속 메모리 물량 할당 강화",
+    "text": "Samsung은 10월 DDR5 견적을 중단한 것으로 알려졌으며, 공급은 11월 중순까지 회복되지 않을 전망이다. 10월 RDIMM 가격 인상률은 약 12~25%에 이르고 있다. Micron SSD는 10월 EMEA 출하분 기준 평균 20~25% 인상됐고, Samsung SSD는 14~15%, Kioxia Gen5는 4분기에 5~10% 인상됐다. 64GB·96GB·128GB RDIMM의 오픈마켓 가격은 대체로 보합세를 보이는 반면, 32GB 가격은 계속 오르고 있다. Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상한다.",
+    "detected_vendors": [
+      "Kioxia",
+      "Micron",
+      "Samsung"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "전문가용 GPU 수요, 이례적으로 강세 지속",
+    "subheading": "전문가용 GPU 수요, 이례적으로 강세 지속",
+    "text": "NVIDIA 900-2G153-0000-000과 PNY 키트 및 카드를 포함한 NVIDIA RTX PRO 6000급 제품이 3주간 SO 순위에서 상위를 차지했다. 한 대형 서버 OEM은 NVIDIA가 공급 확약을 할 수 없는 주문까지 받고 있으며, 필요한 IC의 리드타임은 52주인데도 26주로 견적을 제시하고 있다고 전했다. PNY도 RTX PRO 6000 재고가 없으며, 미국 내 수주잔고가 2만 대를 넘어섰다고 밝혔다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive",
+      "Storage"
+    ],
+    "section_raw": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+    "subheading": "디스크리트수동소자 공급 부족, 자동차산업용 구매자에 타격",
+    "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 현재 50주 이상으로 약 두 배 늘었고, Vishay의 AI 관련 MOSFET은 104주 이상에 이른다. 자동차 고객사들은 TI 관련 Tier 1 에스컬레이션 증가와 STMicro 공급에 대한 우려를 보고하고 있으며, 한 서버 제조업체는 최근 처음으로 현물 시장에서 MLCC를 구매했다.",
+    "detected_vendors": [
+      "Diodes",
+      "Onsemi",
+      "Texas Instruments",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Other"
+    ],
+    "section_raw": "시장 변동성 지수",
+    "subheading": "시장 변동성 지수",
+    "text": "HBM/고밀도 DDR5 RDIMM | 심각 | Micron은 2027년 HBM 공급 물량의 대부분을 이미 계약했으며, DRAM은 2027년까지 공급 제약이 지속되고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "subheading": "2026년 10월 개별 조달 시 AI 구축을 지연시킬 가능성이 가장 큰 부품",
+    "text": "800G/1.6T 광모듈 및 스위칭 | 제약 상태 | 102.4T 스위치와 레인당 224G급 패브릭 확대로 광모듈, AEC, DSP 및 리타이머의 설계 요건이 높아지고 있다. | 광모듈/AEC, 스위치 실리콘, NIC/DPU 및 케이블을 포함한 승인된 패브릭 BOM을 조기에 발행해야 한다.",
+    "detected_vendors": [],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Texas Instruments의 공식 리드타임은 12~16주이나, 실제로는 6개월에 가까워지고 있다. 고객사들은 52주 이상의 리드타임, 40주 이상의 MCU 리드타임, 일부 SN 시리즈 부품의 99주 이상 리드타임을 보고하고 있다.",
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Texas Instruments는 장기 공급 계약 고객사를 제외하고 10월에 추가로 10~15% 가격을 인상할 것으로 예상된다. 고객사들은 긴급 납기 지원을 이용할 수 없으며 TI Store를 통해 조달해야 한다는 안내를 받고 있다. SN74L, TPS62 및 TPS54는 여전히 요청이 가장 많고 공급 위험이 큰 제품군이다. TI는 일부 저마진 다이오드의 생산도 중단한 것으로 알려졌다.",
+    "detected_vendors": [
+      "Texas Instruments"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Analog Devices의 리드타임은 현재 통상 60~70주 이상이며, 고객사들은 최소 6개월 전에 주문하라는 요청을 받고 있다. 일부 납품은 2027년 중반 또는 2028년으로 연기되고 있다. 긴급 대응 및 납기 앞당김 지원은 사실상 제공되지 않는다.",
+    "detected_vendors": [
+      "Analog Devices"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Broadcom PCIe Gen5 SS24 및 SS26 제품군은 기판 제약으로 2027년 물량이 모두 소진된 것으로 알려졌으며, 제품군 전반에서 10% 이상의 가격 인상이 제시되고 있다. 한 고객사는 약 90주의 리드타임을 통보받았으며, 최대 2년치 수요를 주문하라는 권고를 받았다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "TSMC가 28nm 생산능력을 CoWoS 패키징으로 재배정하면서 Altera 10M08, 10M02 및 10M04의 공급 부족이 심각하다. AMD/Xilinx 적응형 컴퓨팅 제품은 2026년 12월 27일부터 기존 수주잔고와 신규 주문 모두에 가격 인상이 적용되며, 유통업체들은 인상률이 약 20%에 이를 것으로 보고 있다. 긴급 납기 지원은 2027년 1분기까지 계속 제공되지 않는다. Lattice도 11월 1일부터 모든 디바이스 가격을 인상하며, 인상률은 약 30%부터 시작해 일부 레거시 제품은 최대 100%에 이를 전망이다.",
+    "detected_vendors": [
+      "AMD",
+      "Intel",
+      "Lattice",
+      "TSMC"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Storage"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Diodes Inc. 리드타임은 대체로 48~52주 이상이며, 일부 제품은 60~74주 이상에 이른다. 중견 고객사는 요청한 4분기 할당 물량의 약 10%만 배정받고 있다. onsemi 리드타임은 2026년 초 26주 이상에서 50주 이상으로 늘었으며, 10월 가격 인상 이후 주요 고객사들은 요청한 MOSFET 및 디스크리트 공급 물량의 약 70%를 배정받고 있다.",
+    "detected_vendors": [
+      "Diodes",
+      "Onsemi"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Vishay의 AI 관련 MOSFET 리드타임은 104주 이상, 자동차용 MOSFET은 52주 이상이며, 고객사들은 향후 4~6개월간 요청 물량의 약 10%만 배정받을 것으로 예상한다. Infineon TDA 전력 스테이지는 80~90주 이상의 리드타임을 보이고 있으며, 최근 분기 동안 가격은 10~50% 상승했다. Nexperia는 8월 5~70% 가격 인상 이후 리드타임이 36~40주 이상으로 늘었고, 1월에 추가 인상이 예상된다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Marvell DSP 리드타임은 40주를 넘으며, 88E 시리즈 부품은 135일에서 270일로 늘어난 것으로 알려졌다. 가격도 9월 중순 이후 약 20% 상승했다. STMicroelectronics는 MCU에 대해 52주 이상의 리드타임을 제시하고 있으며, 자동차 고객사들은 특히 가용 물량에 우려를 제기하고 있다.",
+    "detected_vendors": [
+      "Marvell",
+      "STMicroelectronics"
+    ],
+    "detected_keywords": [
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "메모리 가격 변동 및 할당 붕괴",
+    "subheading": "메모리 가격 변동 및 할당 붕괴",
+    "text": "Micron은 2028년 공급이 2026년보다 더 빠듯할 것으로 예상하며, 장기 공급 계약이 2027년과 2028년 생산능력의 대부분을 흡수하고 DRAM 비트 공급 증가율은 20% 초반에 그칠 것으로 보고 있다. Micron은 DDR3 단종 및 관련 공급 확약 철회를 진행하고 있으며, 16Gb 산업용 DDR4 가격은 추가로 20~30% 상승했다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "Micron 30TB 및 61.44TB 엔터프라이즈 SSD의 리드타임은 26~36주 이상으로 늘었으며, 공급 물량은 주요 하이퍼스케일러에 전량 배정되고 소규모 고객사에 배정 가능한 2027년 물량은 제한적인 것으로 알려졌다. NAND가 고용량 드라이브에 우선 배정되면서 저용량 SSD의 가용 물량도 줄어들고 있으며, 이로 인해 서버 부팅용 드라이브의 공급 부족이 발생하고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "스토리지 2028년까지 전량 소진",
+    "subheading": "스토리지 2028년까지 전량 소진",
+    "text": "NAND는 2027년의 중요한 공급 우려 품목으로 떠오르고 있으며, Micron NAND 가격은 지난 분기에 30% 상승해 DRAM의 17~18% 상승률을 웃돌았다. 통신용 eMMC가 단종으로 전환되면서 2027년 eMMC 물량 할당은 여전히 불확실하다. 저용량 NOR는 2027년 상반기 물량을 전량 배정받지 못하고 있으며, 산업용 1Gb 및 2Gb 제품은 상당한 공급 확약 철회를 겪고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Discommit",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "AI 인프라 구축이 가속화되면서 고속 광인터커넥트 리드타임도 계속 늘어나고 있다. 트랜시버와 이를 뒷받침하는 네트워킹 부품 전반의 공급 제약이 물량 할당 문제를 초래하면서, 일부 구매자는 생산능력 확보를 위해 대체 조달 채널을 검토하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "핵심 네트워킹 부품의 리드타임 연장이 광트랜시버 가용 물량을 계속 제약하면서, 일부 구매자는 대체 조달 전략을 검토하고 있다. 이러한 공급 문제에도 규제 환경은 광트랜시버 시장에 대한 폭넓은 참여를 계속 뒷받침하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "수요가 DPU에서 CX6 및 CX7 NIC로 이동하면서 2027년 초 CX7 200G/400G 공급 부족 위험이 커지고 있다. MCX6 및 MCX7의 리드타임은 3~6개월 수준이며, NVIDIA가 스위치 할인 정책을 철회하면서 많은 해당 고객사의 가격이 약 10% 인상되고 있다. Broadcom NIC 가격은 11월 1일부터 인상되며, 저포트 제품은 7.5%, 고포트 모델은 최대 22% 인상될 예정이다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "Trident 4의 가용 물량은 심각하게 제한돼 있으며, 일부 네트워킹 고객사는 2026년 잔여 기간과 2027년 1분기 동안 물량 할당을 받지 못하고 있다.",
+    "detected_vendors": [],
+    "detected_keywords": [
+      "Allocation",
+      "EOL"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Passive"
+    ],
+    "section_raw": "수동부품 및 원자재 T-글래스 병목",
+    "subheading": "수동부품 및 원자재 T-글래스 병목",
+    "text": "해결되지 않은 MLCC 공급 부족 사례가 300건 이상 발생해 폭넓은 부품 범주에 영향을 미치고 있으며, 공급 부족은 Murata, Yageo, Taiyo Yuden, TDK 및 Samsung에 집중돼 있다. Murata와 Yageo는 12월까지도 가장 공급이 빠듯한 공급업체에 속하며, 서버 제조업체들은 MLCC 확보를 위해 현물 시장으로 나서고 있다. Samsung Electro-Mechanics의 4분기 가격 인상률은 소비자용 X5R 제품이 25~30%, AI 서버용 X6S 제품이 10~20%에 이르며, Taiyo Yuden 제품은 거의 모두 물량 할당 대상이다.",
+    "detected_vendors": [
+      "Murata",
+      "Samsung",
+      "TDK",
+      "Taiyo Yuden",
+      "Yageo"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Price Increase",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "Micron의 FY2026 4분기 매출은 542억3,000만 달러였다. Micron은 2027년 HBM 비트 공급 물량의 대부분을 계약했으며, DRAM과 NAND의 공급 제약이 2027~2028년까지 이어질 것으로 보고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory"
+    ],
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "메모리 확보는 개별 거래 조달보다 전략적 계약을 통해 이뤄지는 비중이 점차 커지고 있다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Memory",
+      "Storage"
+    ],
+    "section_raw": "Micron",
+    "subheading": "Micron",
+    "text": "승인된 구성 사양을 기준으로 2027년 HBM, RDIMM 및 엔터프라이즈 SSD 수요 예측을 갱신해야 한다.",
+    "detected_vendors": [
+      "Micron"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Broadcom",
+    "subheading": "Broadcom",
+    "text": "Broadcom은 OCP에서 AI 랙용 102.4T 스위칭, 800G NIC, PCIe 부품 및 코패키지드 옵틱스를 선보였다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Broadcom",
+    "subheading": "Broadcom",
+    "text": "네트워크 아키텍처 전환으로 스위치, NIC, 광모듈 및 CPO 생태계 의존성이 커지고 있다.",
+    "detected_vendors": [
+      "Broadcom"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "설계 사양이 확정되기 전에 전력 스테이지, 컨트롤러, MOSFET/SiC 및 자기 부품의 의존성을 파악해야 한다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

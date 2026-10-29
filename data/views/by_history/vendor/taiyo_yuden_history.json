@@ -1,6 +1,6 @@
 {
   "vendor": "Taiyo Yuden",
-  "total_milestones": 16,
+  "total_milestones": 17,
   "history": [
     {
       "date": "2020.05",
@@ -170,6 +170,17 @@
       "risk_level": "Medium",
       "summary": "수동부품 및 원자재 T-글래스 병목",
       "text": "Yageo의 고용량 MLCC 제품은 입찰 방식으로 할당되고 있는 것으로 알려졌으며, Yageo의 자동차용 AC 시리즈 저항기 가격은 9월부터 25% 인상될 예정이다. Kemet은 2주 연속 가격을 인상했고, Taiyo Yuden은 일부 라인에서 아직 신규 주문을 받지 않고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC",
+        "Passive"
+      ],
+      "risk_level": "High",
+      "summary": "수동부품 및 원자재 T-글래스 병목",
+      "text": "해결되지 않은 MLCC 공급 부족 사례가 300건 이상 발생해 폭넓은 부품 범주에 영향을 미치고 있으며, 공급 부족은 Murata, Yageo, Taiyo Yuden, TDK 및 Samsung에 집중돼 있다. Murata와 Yageo는 12월까지도 가장 공급이 빠듯한 공급업체에 속하며, 서버 제조업체들은 MLCC 확보를 위해 현물 시장으로 나서고 있다. Samsung Electro-Mechanics의 4분기 가격 인상률은 소비자용 X5R 제품이 25~30%, AI 서버용 X6S 제품이 10~20%에 이르며, Taiyo Yuden 제품은 거의 모두 물량 할당 대상이다."
     }
   ]
 }

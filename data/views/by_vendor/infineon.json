@@ -1103,5 +1103,78 @@
     ],
     "detected_keywords": [],
     "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "subheading": "집적 회로(IC) 가격 인상 및 원자재 병목",
+    "text": "Vishay의 AI 관련 MOSFET 리드타임은 104주 이상, 자동차용 MOSFET은 52주 이상이며, 고객사들은 향후 4~6개월간 요청 물량의 약 10%만 배정받을 것으로 예상한다. Infineon TDA 전력 스테이지는 80~90주 이상의 리드타임을 보이고 있으며, 최근 분기 동안 가격은 10~50% 상승했다. Nexperia는 8월 5~70% 가격 인상 이후 리드타임이 36~40주 이상으로 늘었고, 1월에 추가 인상이 예상된다.",
+    "detected_vendors": [
+      "Infineon",
+      "Nexperia",
+      "Vishay"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time",
+      "Price Increase"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "Infineon은 C2i 인수를 완료하고 800V/±400V AI 서버 아키텍처용 27kW 3상 PSU 솔루션을 선보였다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [
+      "M&A"
+    ],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "AI 전력 공급은 더 높은 집적도와 디지털 제어 설계로 전환되고 있으며, 승인된 부품군은 더욱 제한되고 있다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC",
+      "Other"
+    ],
+    "section_raw": "Infineon",
+    "subheading": "Infineon",
+    "text": "설계 사양이 확정되기 전에 전력 스테이지, 컨트롤러, MOSFET/SiC 및 자기 부품의 의존성을 파악해야 한다.",
+    "detected_vendors": [
+      "Infineon"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

@@ -4359,5 +4359,115 @@
       "Allocation"
     ],
     "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "IC"
+    ],
+    "section_raw": "전문가용 GPU 수요, 이례적으로 강세 지속",
+    "subheading": "전문가용 GPU 수요, 이례적으로 강세 지속",
+    "text": "NVIDIA 900-2G153-0000-000과 PNY 키트 및 카드를 포함한 NVIDIA RTX PRO 6000급 제품이 3주간 SO 순위에서 상위를 차지했다. 한 대형 서버 OEM은 NVIDIA가 공급 확약을 할 수 없는 주문까지 받고 있으며, 필요한 IC의 리드타임은 52주인데도 26주로 견적을 제시하고 있다고 전했다. PNY도 RTX PRO 6000 재고가 없으며, 미국 내 수주잔고가 2만 대를 넘어섰다고 밝혔다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU"
+    ],
+    "section_raw": "GPU 할당 축소 및 채널 혼란",
+    "subheading": "GPU 할당 축소 및 채널 혼란",
+    "text": "NVIDIA H200 공급업체 할당 물량은 개별 카드 생산에서 HGX 및 GB300/VR 시스템 생산으로 전환됨에 따라 2026년 11월에서 2027년 3월로 이연된 것으로 알려졌다. 리드타임은 40주 이상으로 제시되고 있으며, 오픈마켓 가격은 OEM 직판 가격의 약 두 배 수준이다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "Allocation",
+      "Lead Time"
+    ],
+    "risk_level": "Medium"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "IC",
+    "detected_categories": [
+      "IC"
+    ],
+    "section_raw": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "subheading": "네트워킹 단종 확대 및 스위치 공급 지연",
+    "text": "수요가 DPU에서 CX6 및 CX7 NIC로 이동하면서 2027년 초 CX7 200G/400G 공급 부족 위험이 커지고 있다. MCX6 및 MCX7의 리드타임은 3~6개월 수준이며, NVIDIA가 스위치 할인 정책을 철회하면서 많은 해당 고객사의 가격이 약 10% 인상되고 있다. Broadcom NIC 가격은 11월 1일부터 인상되며, 저포트 제품은 7.5%, 고포트 모델은 최대 22% 인상될 예정이다.",
+    "detected_vendors": [
+      "Broadcom",
+      "Nvidia"
+    ],
+    "detected_keywords": [
+      "EOL",
+      "Lead Time",
+      "Shortage"
+    ],
+    "risk_level": "High"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "FY2027 Q2 데이터센터 매출은 890억 달러였으며, Q3 매출 가이던스는 1,080억 달러±2%다(8월 26일 기준 발표).",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "GPU",
+    "detected_categories": [
+      "GPU",
+      "Memory",
+      "Other",
+      "Storage"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "가속기 수요는 GPU 자체에 그치지 않고 HBM, 네트워킹, 전력 및 엔터프라이즈 스토리지 전반의 수요를 견인하고 있다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
+  },
+  {
+    "year": 2026,
+    "month": 10,
+    "category": "Other",
+    "detected_categories": [
+      "Other"
+    ],
+    "section_raw": "NVIDIA",
+    "subheading": "NVIDIA",
+    "text": "구축 일정에 맞춰 완전한 랙 및 패브릭 BOM을 확보해야 한다.",
+    "detected_vendors": [
+      "Nvidia"
+    ],
+    "detected_keywords": [],
+    "risk_level": "Low"
   }
 ]

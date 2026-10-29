@@ -1,6 +1,6 @@
 {
   "vendor": "STMicroelectronics",
-  "total_milestones": 48,
+  "total_milestones": 49,
   "history": [
     {
       "date": "2020.10",
@@ -496,6 +496,16 @@
       "risk_level": "Medium",
       "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
       "text": "STMicroelectronics는 한국 지사의 기존 백로그를 사전 통보 없이 취소하고, 2027년 1분기부터 분기별 할당 모델로 전환한 것으로 알려졌다. Renesas와 ADI도 유사한 문제에 직면할 것으로 예상되는 차기 제조업체로 내부에서 지목되고 있다."
+    },
+    {
+      "date": "2026.10",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "집적 회로(IC) 가격 인상 및 원자재 병목",
+      "text": "Marvell DSP 리드타임은 40주를 넘으며, 88E 시리즈 부품은 135일에서 270일로 늘어난 것으로 알려졌다. 가격도 9월 중순 이후 약 20% 상승했다. STMicroelectronics는 MCU에 대해 52주 이상의 리드타임을 제시하고 있으며, 자동차 고객사들은 특히 가용 물량에 우려를 제기하고 있다."
     }
   ]
 }
