@@ -188,9 +188,13 @@
       "pattern": "foxconn|폭스콘",
       "representative": "Foxconn"
     },
-    {
+    { 
       "pattern": "sandisk|샌디스크",
       "representative": "SanDisk"
+    },
+    {
+      "pattern": "advantech|어드밴텍",
+      "representative": "Advantech"
     }
   ],
   "theme_mappings": [
@@ -286,3 +290,4 @@
     }
   ]
 }
+

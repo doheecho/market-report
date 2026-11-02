@@ -3750,7 +3750,9 @@
     "section_raw": "Advantech, 5개년 엣지 AI 로드맵 수립",
     "subheading": "Advantech, 5개년 엣지 AI 로드맵 수립",
     "text": "Advantech Co.는 엣지 AI 구축 분야의 선도 브랜드로 도약하기 위한 새로운 5개년 계획을 발표했다. 해당 계획은 소프트웨어와 하드웨어 플랫폼 통합, 공급망 디지털화, 글로벌 영업 구조 개편이라는 세 가지 우선순위를 중심으로 한다. [출처: Taipei News]",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Advantech"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -4669,7 +4671,9 @@
     "section_raw": "제조업체 뉴스 및 업데이트",
     "subheading": "제조업체 뉴스 및 업데이트",
     "text": "Advantech는 Computex 2026에서 엣지 인공지능과 피지컬 AI에 대한 미래 전략과 비전을 공개했으며, 산업용 AI 소프트웨어 플랫폼 WEDA를 통해 AI 에이전트, 디지털 트윈 및 엣지 컴퓨팅을 연결함으로써 산업 현장에서의 AI 도입을 확대하겠다는 계획을 제시했다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Advantech"
+    ],
     "detected_keywords": [
       "Quality / Defect"
     ],
