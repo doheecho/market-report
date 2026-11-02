@@ -289,7 +289,7 @@
       "representative": "Storage"
     },
     {
-      "pattern": "패시브|passive|커패시터|저항기|인덕터|수동\\s*부품|수동부품|mlcc",
+      "pattern": "패시브|passive|커패시터|저항기|인덕터|수동\\s*부품|수동부품|mlcc|커넥터|connector",
       "representative": "Passive"
     },
     {
