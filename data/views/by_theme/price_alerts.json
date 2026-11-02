@@ -5508,7 +5508,9 @@
     "section_raw": "원자재 영향",
     "subheading": "원자재 영향",
     "text": "구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident",
       "Price Increase",
@@ -5707,7 +5709,9 @@
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "자동차용 IC 공급 이슈 및 시장 변화",
     "text": "TE Connectivity는 원자재 가격 상승과 강한 수요로 인해, 2025년 4월부터 자동차 및 산업용 커넥터 가격을 추가 인상할 예정입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -5793,7 +5797,9 @@
     "section_raw": "수동소자",
     "subheading": "수동소자",
     "text": "TE Connectivity는 원자재 비용 상승을 이유로 커넥터에 대해 4월 가격 인상을 시행했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],

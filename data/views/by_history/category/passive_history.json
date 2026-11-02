@@ -727,7 +727,9 @@
     },
     {
       "date": "2025.04",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TE Connectivity"
+      ],
       "risk_level": "Medium",
       "summary": "수동소자",
       "text": "TE Connectivity는 원자재 비용 상승을 이유로 커넥터에 대해 4월 가격 인상을 시행했습니다."

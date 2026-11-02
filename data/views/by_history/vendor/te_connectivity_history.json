@@ -1,0 +1,136 @@
+{
+  "vendor": "TE Connectivity",
+  "total_milestones": 13,
+  "history": [
+    {
+      "date": "2020.05",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "커넥터 수요는 계속 증가",
+      "text": "코로나19에 따른 락다운은 모든 주요 브랜드에 영향을 미쳤습니다. Molex, TE Connectivity, Samtec이 모두 사업장 폐쇄뿐 아니라 인력, 물류, 자재 부족의 타격을 받았습니다. 해소되지 못한 커넥터 수요가 계속 증가하면서 그 여파가 장기적으로 계속될 것으로 예상됩니다. TE는 아시아 지역의 생산 중 상당한 비중을 인도 공장에서 감당해왔습니다. 그런데 인도가 6월 초까지 락다운을 연장하는 바람에 생산이 계속 중단된 상태입니다. Samtec의 주문 리드 타임은 현재 최소 6주 이상입니다. 유통업체들이 재고 소진 또는 부족을 보고하고 있는 가운데, 지속적인 자재 공급 부족 사례가 보고되고 있고 많은 고객이 오픈 마켓으로 발길을 돌렸지만 상황은 그다지 호전되지 않고 있습니다."
+    },
+    {
+      "date": "2021.08",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "커넥터 공급 부담 악화",
+      "text": "TE Connectivity, Molex 등의 다른 회사도 원자재 공급 부족의 영향을 받고 있습니다. 두 회사 모두 지난달에 가격을 인상했는데, TE Connectivity는 모든 특별가 혜택을 막았으며 언제부터 다시 특별가 혜택을 제공할지는 확인해주지 않았습니다."
+    },
+    {
+      "date": "2021.08",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "커넥터 공급 부담 악화",
+      "text": "TE Connectivity와 Molex 역시 리드 타임이 늘고 있습니다. Molex는 리드 타임이 18~30주 사이인 반면, TE Connectivity 제품의 리드 타임은 52주 이상입니다."
+    },
+    {
+      "date": "2022.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
+      "text": "TE Connectivity의 자동차 부문은 심각한 공급 부족 문제에 직면해 있습니다. 리드 타임은 현재 40주 수준에 머물고 있는데, 앞으로 더 늘 것으로 예상합니다."
+    },
+    {
+      "date": "2022.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
+      "text": "러시아와 우크라이나 간의 전쟁이 동유럽의 제조업에 영향을 미치고 있습니다. 지정학적 사건의 전개로 최근 몇 주 동안 이 지역에 있는 TE 공장의 구성 부품 생산량이 감소했습니다."
+    },
+    {
+      "date": "2022.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
+      "text": "다른 지역의 공장에 비해, TE의 중국 생산 공장은 2월 춘절 기간에 공장 가동이 제한적으로 이루어지면서 특히 어려움을 겪었습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "자동차 및 컴퓨팅 커넥터 트렌드",
+      "text": "TE 커넥티비티(TE Connectivity)는 자동차와 컴퓨팅 부문에서 영역 기반 아키텍처(zonal architectures) 도입이 복잡한 커넥터의 필요성을 증대시키고 있다고 보고했습니다. 이러한 커넥터는 여러 신호를 전송해 전체 시스템 성능을 향상시킵니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU"
+      ],
+      "risk_level": "High",
+      "summary": "시장 변동성",
+      "text": "의료, 첨단 및 군사 등 고급 제품에 대한 긴급 요청이 이어지면서 TE 커넥티비티, 몰렉스(Molex), 암페놀 커넥터에 대한 수요가 증가하고 있습니다. 이는 주로 원자재 부족에 기인합니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "원자재 영향",
+      "text": "구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "IC",
+      "detected_categories": [
+        "IC"
+      ],
+      "risk_level": "Medium",
+      "summary": "자동차용 IC 공급 이슈 및 시장 변화",
+      "text": "TE Connectivity는 원자재 가격 상승과 강한 수요로 인해, 2025년 4월부터 자동차 및 산업용 커넥터 가격을 추가 인상할 예정입니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "재고 전망이 중립적이거나 조심스러운 기업들",
+      "text": "TE Connectivity는 의료 장비 분야에서 재고 정상화가 지연되고 있지만, 2025년 후반에는 점차 나아질 것으로 예상하고 있습니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "년 중립적 혹은 신중한 전망",
+      "text": "TE Connectivity는 AI, 에너지, 항공우주 시장이 성장을 견인할 것으로 보며, 2분기에는 순차적 성장을 기대하지만 전반적으로는 신중한 입장입니다."
+    },
+    {
+      "date": "2025.04",
+      "category": "Passive",
+      "detected_categories": [
+        "Passive"
+      ],
+      "risk_level": "Medium",
+      "summary": "수동소자",
+      "text": "TE Connectivity는 원자재 비용 상승을 이유로 커넥터에 대해 4월 가격 인상을 시행했습니다."
+    }
+  ]
+}

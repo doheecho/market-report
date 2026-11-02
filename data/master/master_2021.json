@@ -4638,7 +4638,10 @@
     "section_raw": "커넥터 공급 부담 악화",
     "subheading": "커넥터 공급 부담 악화",
     "text": "TE Connectivity, Molex 등의 다른 회사도 원자재 공급 부족의 영향을 받고 있습니다. 두 회사 모두 지난달에 가격을 인상했는데, TE Connectivity는 모든 특별가 혜택을 막았으며 언제부터 다시 특별가 혜택을 제공할지는 확인해주지 않았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex",
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -4654,7 +4657,10 @@
     "section_raw": "커넥터 공급 부담 악화",
     "subheading": "커넥터 공급 부담 악화",
     "text": "TE Connectivity와 Molex 역시 리드 타임이 늘고 있습니다. Molex는 리드 타임이 18~30주 사이인 반면, TE Connectivity 제품의 리드 타임은 52주 이상입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex",
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],

@@ -1752,7 +1752,11 @@
     },
     {
       "date": "2024.10",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "Amphenol",
+        "Molex",
+        "TE Connectivity"
+      ],
       "risk_level": "High",
       "summary": "시장 변동성",
       "text": "의료, 첨단 및 군사 등 고급 제품에 대한 긴급 요청이 이어지면서 TE 커넥티비티, 몰렉스(Molex), 암페놀 커넥터에 대한 수요가 증가하고 있습니다. 이는 주로 원자재 부족에 기인합니다."

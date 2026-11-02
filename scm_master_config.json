@@ -195,6 +195,18 @@
     {
       "pattern": "advantech|어드밴텍",
       "representative": "Advantech"
+    },
+    {
+      "pattern": "amphenol|암페놀|(?<![a-zA-Z])fci(?![a-zA-Z])|에프씨아이",
+      "representative": "Amphenol"
+    },
+    {
+      "pattern": "molex|몰렉스",
+      "representative": "Molex"
+    },
+    {
+      "pattern": "te\\s*connectivity|te\\s*커넥티비티|tyco|타이코",
+      "representative": "TE Connectivity"
     }
   ],
   "theme_mappings": [

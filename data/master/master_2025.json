@@ -1235,7 +1235,9 @@
     "section_raw": "자동차용 IC 공급 이슈 및 시장 변화",
     "subheading": "자동차용 IC 공급 이슈 및 시장 변화",
     "text": "TE Connectivity는 원자재 가격 상승과 강한 수요로 인해, 2025년 4월부터 자동차 및 산업용 커넥터 가격을 추가 인상할 예정입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
@@ -1488,7 +1490,9 @@
     "section_raw": "재고 전망이 중립적이거나 조심스러운 기업들",
     "subheading": "재고 전망이 중립적이거나 조심스러운 기업들",
     "text": "TE Connectivity는 의료 장비 분야에서 재고 정상화가 지연되고 있지만, 2025년 후반에는 점차 나아질 것으로 예상하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1606,7 +1610,9 @@
     "section_raw": "2025년 낙관적 전망",
     "subheading": "2025년 낙관적 전망",
     "text": "Amphenol은 AI, 방위 산업, 산업 시장에 대한 신뢰를 유지하고 있으며, 데이터 센터 수요 사이클과 AI 응용을 위한 고속 인터커넥트 수요 증가로 2025년에도 지속적인 성장을 기대하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Amphenol"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -1791,7 +1797,9 @@
     "section_raw": "2025년 중립적 혹은 신중한 전망",
     "subheading": "2025년 중립적 혹은 신중한 전망",
     "text": "TE Connectivity는 AI, 에너지, 항공우주 시장이 성장을 견인할 것으로 보며, 2분기에는 순차적 성장을 기대하지만 전반적으로는 신중한 입장입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2775,7 +2783,9 @@
     "section_raw": "수동소자",
     "subheading": "수동소자",
     "text": "TE Connectivity는 원자재 비용 상승을 이유로 커넥터에 대해 4월 가격 인상을 시행했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],

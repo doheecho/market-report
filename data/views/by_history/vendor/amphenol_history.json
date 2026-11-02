@@ -1,0 +1,36 @@
+{
+  "vendor": "Amphenol",
+  "total_milestones": 3,
+  "history": [
+    {
+      "date": "2024.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "통신 및 혹독한 환경에서의 수요 증가",
+      "text": "암페놀(Amphenol)의 보고서에 따르면, 통신 및 데이터 통신 부문에서 커넥터 수요가 강세를 보이며, 그 중 통신 솔루션 부문은 24% 성장했습니다. 또한 혹독한 환경 솔루션 부문은 국방 및 IT 데이터 통신 투자 증가에 따라 항공우주 및 군사 부문에서 수요가 증가하고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU"
+      ],
+      "risk_level": "High",
+      "summary": "시장 변동성",
+      "text": "의료, 첨단 및 군사 등 고급 제품에 대한 긴급 요청이 이어지면서 TE 커넥티비티, 몰렉스(Molex), 암페놀 커넥터에 대한 수요가 증가하고 있습니다. 이는 주로 원자재 부족에 기인합니다."
+    },
+    {
+      "date": "2025.03",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "년 낙관적 전망",
+      "text": "Amphenol은 AI, 방위 산업, 산업 시장에 대한 신뢰를 유지하고 있으며, 데이터 센터 수요 사이클과 AI 응용을 위한 고속 인터커넥트 수요 증가로 2025년에도 지속적인 성장을 기대하고 있습니다."
+    }
+  ]
+}

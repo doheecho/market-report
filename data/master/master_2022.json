@@ -890,7 +890,9 @@
     "section_raw": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "subheading": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "text": "TE Connectivity의 자동차 부문은 심각한 공급 부족 문제에 직면해 있습니다. 리드 타임은 현재 40주 수준에 머물고 있는데, 앞으로 더 늘 것으로 예상합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -907,7 +909,9 @@
     "section_raw": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "subheading": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "text": "러시아와 우크라이나 간의 전쟁이 동유럽의 제조업에 영향을 미치고 있습니다. 지정학적 사건의 전개로 최근 몇 주 동안 이 지역에 있는 TE 공장의 구성 부품 생산량이 감소했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -921,7 +925,9 @@
     "section_raw": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "subheading": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "text": "다른 지역의 공장에 비해, TE의 중국 생산 공장은 2월 춘절 기간에 공장 가동이 제한적으로 이루어지면서 특히 어려움을 겪었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -2023,7 +2029,9 @@
     "section_raw": "Molex LLC",
     "subheading": "Molex LLC",
     "text": "중국 상하이와 쿤산의 엄격한 봉쇄 조치는 Molex LLC 공장 가동에 타격을 주었습니다. 전체적으로 코로나19는 현지 공급망에 큰 충격을 주어 모든 운영과 물류망에도 그 여파가 확산되고 있는 추세입니다. Molex의 공급과 배송 일정이 차질을 빚고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },

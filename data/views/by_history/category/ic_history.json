@@ -5047,7 +5047,9 @@
     },
     {
       "date": "2025.03",
-      "detected_vendors": [],
+      "detected_vendors": [
+        "TE Connectivity"
+      ],
       "risk_level": "Medium",
       "summary": "자동차용 IC 공급 이슈 및 시장 변화",
       "text": "TE Connectivity는 원자재 가격 상승과 강한 수요로 인해, 2025년 4월부터 자동차 및 산업용 커넥터 가격을 추가 인상할 예정입니다."

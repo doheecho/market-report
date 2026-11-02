@@ -5283,7 +5283,9 @@
     "section_raw": "통신 및 혹독한 환경에서의 수요 증가",
     "subheading": "통신 및 혹독한 환경에서의 수요 증가",
     "text": "암페놀(Amphenol)의 보고서에 따르면, 통신 및 데이터 통신 부문에서 커넥터 수요가 강세를 보이며, 그 중 통신 솔루션 부문은 24% 성장했습니다. 또한 혹독한 환경 솔루션 부문은 국방 및 IT 데이터 통신 투자 증가에 따라 항공우주 및 군사 부문에서 수요가 증가하고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Amphenol"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5297,7 +5299,9 @@
     "section_raw": "자동차 및 컴퓨팅 커넥터 트렌드",
     "subheading": "자동차 및 컴퓨팅 커넥터 트렌드",
     "text": "TE 커넥티비티(TE Connectivity)는 자동차와 컴퓨팅 부문에서 영역 기반 아키텍처(zonal architectures) 도입이 복잡한 커넥터의 필요성을 증대시키고 있다고 보고했습니다. 이러한 커넥터는 여러 신호를 전송해 전체 시스템 성능을 향상시킵니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [],
     "risk_level": "Low"
   },
@@ -5311,7 +5315,11 @@
     "section_raw": "시장 변동성",
     "subheading": "시장 변동성",
     "text": "의료, 첨단 및 군사 등 고급 제품에 대한 긴급 요청이 이어지면서 TE 커넥티비티, 몰렉스(Molex), 암페놀 커넥터에 대한 수요가 증가하고 있습니다. 이는 주로 원자재 부족에 기인합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Amphenol",
+      "Molex",
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Shortage"
     ],
@@ -5327,7 +5335,9 @@
     "section_raw": "원자재 영향",
     "subheading": "원자재 영향",
     "text": "구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident",
       "Price Increase",
@@ -5345,7 +5355,9 @@
     "section_raw": "몰렉스 리드 타임",
     "subheading": "몰렉스 리드 타임",
     "text": "일본, 말레이시아, 한국에서 생산되는 몰렉스 FFC/FPC 보드 커넥터의 리드 타임은 2~3개월로 안정적이지만, 인도에서 생산되는 제품의 리드 타임은 약 5개월로 연장되었습니다. 해당 커넥터는 IoT 장치, 드론, 보안 카메라, 의료 장비에 사용됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],

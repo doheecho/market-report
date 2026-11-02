@@ -184,7 +184,10 @@
     "section_raw": "커넥터 수요는 계속 증가",
     "subheading": "커넥터 수요는 계속 증가",
     "text": "코로나19에 따른 락다운은 모든 주요 브랜드에 영향을 미쳤습니다. Molex, TE Connectivity, Samtec이 모두 사업장 폐쇄뿐 아니라 인력, 물류, 자재 부족의 타격을 받았습니다. 해소되지 못한 커넥터 수요가 계속 증가하면서 그 여파가 장기적으로 계속될 것으로 예상됩니다. TE는 아시아 지역의 생산 중 상당한 비중을 인도 공장에서 감당해왔습니다. 그런데 인도가 6월 초까지 락다운을 연장하는 바람에 생산이 계속 중단된 상태입니다. Samtec의 주문 리드 타임은 현재 최소 6주 이상입니다. 유통업체들이 재고 소진 또는 부족을 보고하고 있는 가운데, 지속적인 자재 공급 부족 사례가 보고되고 있고 많은 고객이 오픈 마켓으로 발길을 돌렸지만 상황은 그다지 호전되지 않고 있습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex",
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -694,7 +697,9 @@
     "section_raw": "Molex 생산은 여전히 심각한 영향을 받습니다",
     "subheading": "Molex 생산은 여전히 심각한 영향을 받습니다",
     "text": "유통업체들은 Molex 리드 타임이 증가하고 있다고 보고하고 있고, 백로그의 지체는 계속 것으로 보입니다. 인도에서 생산되는 부품의 리드 타임은 최대 20주로 늘고 있지만, 필리핀과 말레이시아에서 생산되는 부품은 리드 타임 연장이 발생하지 않았습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -2493,7 +2498,10 @@
     "section_raw": "커넥터 공급 부담 악화",
     "subheading": "커넥터 공급 부담 악화",
     "text": "TE Connectivity와 Molex 역시 리드 타임이 늘고 있습니다. Molex는 리드 타임이 18~30주 사이인 반면, TE Connectivity 제품의 리드 타임은 52주 이상입니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex",
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],
@@ -4000,7 +4008,9 @@
     "section_raw": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "subheading": "TE Connectivity, 조업 중단으로 여러 제조 시설에 영향을 미치는 상황에 직면",
     "text": "TE Connectivity의 자동차 부문은 심각한 공급 부족 문제에 직면해 있습니다. 리드 타임은 현재 40주 수준에 머물고 있는데, 앞으로 더 늘 것으로 예상합니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Lead Time",
       "Shortage"
@@ -9858,7 +9868,9 @@
     "section_raw": "몰렉스 리드 타임",
     "subheading": "몰렉스 리드 타임",
     "text": "일본, 말레이시아, 한국에서 생산되는 몰렉스 FFC/FPC 보드 커넥터의 리드 타임은 2~3개월로 안정적이지만, 인도에서 생산되는 제품의 리드 타임은 약 5개월로 연장되었습니다. 해당 커넥터는 IoT 장치, 드론, 보안 카메라, 의료 장비에 사용됩니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "Molex"
+    ],
     "detected_keywords": [
       "Lead Time"
     ],

@@ -1,0 +1,86 @@
+{
+  "vendor": "Molex",
+  "total_milestones": 8,
+  "history": [
+    {
+      "date": "2020.05",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "커넥터 수요는 계속 증가",
+      "text": "코로나19에 따른 락다운은 모든 주요 브랜드에 영향을 미쳤습니다. Molex, TE Connectivity, Samtec이 모두 사업장 폐쇄뿐 아니라 인력, 물류, 자재 부족의 타격을 받았습니다. 해소되지 못한 커넥터 수요가 계속 증가하면서 그 여파가 장기적으로 계속될 것으로 예상됩니다. TE는 아시아 지역의 생산 중 상당한 비중을 인도 공장에서 감당해왔습니다. 그런데 인도가 6월 초까지 락다운을 연장하는 바람에 생산이 계속 중단된 상태입니다. Samtec의 주문 리드 타임은 현재 최소 6주 이상입니다. 유통업체들이 재고 소진 또는 부족을 보고하고 있는 가운데, 지속적인 자재 공급 부족 사례가 보고되고 있고 많은 고객이 오픈 마켓으로 발길을 돌렸지만 상황은 그다지 호전되지 않고 있습니다."
+    },
+    {
+      "date": "2020.11",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "Molex 생산은 여전히 심각한 영향을 받습니다",
+      "text": "유통업체들은 Molex 리드 타임이 증가하고 있다고 보고하고 있고, 백로그의 지체는 계속 것으로 보입니다. 인도에서 생산되는 부품의 리드 타임은 최대 20주로 늘고 있지만, 필리핀과 말레이시아에서 생산되는 부품은 리드 타임 연장이 발생하지 않았습니다."
+    },
+    {
+      "date": "2020.11",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Molex 생산은 여전히 심각한 영향을 받습니다",
+      "text": "아일랜드에서 생산되는 부품의 경우 생산이 바뀔 수 있다고 듣고 있습니다. 해당 공장은 2020년 말까지 닫고 생산을 중단할 것으로 예상됩니다. 예를 들어, 95540 시리즈는 생산지를 아일랜드에서 말레이시아로 옮길 예정입니다."
+    },
+    {
+      "date": "2021.08",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "High",
+      "summary": "커넥터 공급 부담 악화",
+      "text": "TE Connectivity, Molex 등의 다른 회사도 원자재 공급 부족의 영향을 받고 있습니다. 두 회사 모두 지난달에 가격을 인상했는데, TE Connectivity는 모든 특별가 혜택을 막았으며 언제부터 다시 특별가 혜택을 제공할지는 확인해주지 않았습니다."
+    },
+    {
+      "date": "2021.08",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "커넥터 공급 부담 악화",
+      "text": "TE Connectivity와 Molex 역시 리드 타임이 늘고 있습니다. Molex는 리드 타임이 18~30주 사이인 반면, TE Connectivity 제품의 리드 타임은 52주 이상입니다."
+    },
+    {
+      "date": "2022.06",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Low",
+      "summary": "Molex LLC",
+      "text": "중국 상하이와 쿤산의 엄격한 봉쇄 조치는 Molex LLC 공장 가동에 타격을 주었습니다. 전체적으로 코로나19는 현지 공급망에 큰 충격을 주어 모든 운영과 물류망에도 그 여파가 확산되고 있는 추세입니다. Molex의 공급과 배송 일정이 차질을 빚고 있습니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "GPU",
+      "detected_categories": [
+        "GPU"
+      ],
+      "risk_level": "High",
+      "summary": "시장 변동성",
+      "text": "의료, 첨단 및 군사 등 고급 제품에 대한 긴급 요청이 이어지면서 TE 커넥티비티, 몰렉스(Molex), 암페놀 커넥터에 대한 수요가 증가하고 있습니다. 이는 주로 원자재 부족에 기인합니다."
+    },
+    {
+      "date": "2024.10",
+      "category": "Other",
+      "detected_categories": [
+        "Other"
+      ],
+      "risk_level": "Medium",
+      "summary": "몰렉스 리드 타임",
+      "text": "일본, 말레이시아, 한국에서 생산되는 몰렉스 FFC/FPC 보드 커넥터의 리드 타임은 2~3개월로 안정적이지만, 인도에서 생산되는 제품의 리드 타임은 약 5개월로 연장되었습니다. 해당 커넥터는 IoT 장치, 드론, 보안 카메라, 의료 장비에 사용됩니다."
+    }
+  ]
+}

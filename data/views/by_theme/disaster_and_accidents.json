@@ -833,7 +833,9 @@
     "section_raw": "원자재 영향",
     "subheading": "원자재 영향",
     "text": "구리 가격 상승과 같은 원자재 비용 증가가 커넥터 생산 감소와 공급 부족을 초래하고 있으며, 최근 TE 커넥티비티 하청업체의 화재 사고로 인해 상황이 악화되었습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Natural Disaster / Incident",
       "Price Increase",

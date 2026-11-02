@@ -1571,7 +1571,9 @@
     "section_raw": "수동소자",
     "subheading": "수동소자",
     "text": "TE Connectivity는 원자재 비용 상승을 이유로 커넥터에 대해 4월 가격 인상을 시행했습니다.",
-    "detected_vendors": [],
+    "detected_vendors": [
+      "TE Connectivity"
+    ],
     "detected_keywords": [
       "Price Increase"
     ],
